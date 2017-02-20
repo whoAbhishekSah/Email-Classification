@@ -1,0 +1,3 @@
+Welcome to Your New Hosting Package
+This is your index.html page
+Please replace this when you upload your website

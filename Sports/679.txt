@@ -1,0 +1,19 @@
+emoto Project | 2012
+emoto captured and visu­al­ised the global response around the London 2012 Olympic Games on Twitter in an inter­active online visu­al­isa­tion and phys­ical data sculpture
+Real-Time Online Visualisation
+In the online visu­al­isa­tion, we have created two different perspect­ives onto the data. Using a combin­a­tion of two inter­active views, users were able to explore the ebbs and flows of discus­sions online. The Topics View, focused on commu­nic­ating how much positive or negative atten­tion each event, athlete or social topic was gener­ating at each moment and over time. The anec­dotal and ephem­eral was seen in the Message Stream View which showed Tweets in real-time as they were posted around the world.
+The Archive as an Interactive Installation
+The core of the install­a­tion is a phys­ical data sculp­ture consisting of 17 objects, each repres­enting all Tweets we have collected during one day of the Olympics. Mapped onto this phys­ical sculp­ture we have then projected indi­vidual heat maps for the most inter­esting themes we have iden­ti­fied while observing emoto during the Games. Users were able to navigate through these themes using an inter­active controller and thus explore our archive.
+The second key element in the install­a­tion was the 9.50 meter long Sentigraph repres­enting giving a high-level over­view over London2012 as seen by emoto.
+Data Analysis
+In addition, we continuously analyzed the data gathered (12 million English tweets with sentiment values) and documented our findings on the emoto blog.
+Research report
+This research report
+(pdf) charts the development and release of the emoto project, and positions it in relation to current debates on data and visualisation. Published in the proceedings of ISEA2013, Sydney.
+Research Collaboration
+We also supplied the collected data to the Data Science Laboratory of the ISI Foundation. As a result of the collaboraton, the EMOTO Topic Explorer is an exploratory tool designed to expose the topical and temporal dimensions of Twitter conversations. Grouping thousand of tweets into thematic clusters, the interface provides an overview of online discussions and of collective attention flow over time. Try out the online version to see what topics were discussed on Twitter during the Olympics, zoom in on the salient moments, and understand how the contributions and interest differ across the nationalities.
+Contact
+For any further questions, please contact the team at info@emoto2012.org
+Created by Moritz Stefaner, Drew Hemment, Studio NAND.
+A FutureEverything project for the Cultural Olympiad programme and London 2012 Festival.
+Software provided by Lexalytics, funded by Arts Council England and WE PLAY/Legacy Trust UK.

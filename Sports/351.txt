@@ -1,0 +1,297 @@
+Olympic Torch to light up Portrush - Coleraine Times
+Jobs
+Cars
+Property
+Directory
+Announcements
+Sign In
+Account
+Hello
+Edit Account
+Sign Out
+Search
+Search The Coleraine Times
+Search
+More
+Close
+]
+News
+Transport
+Crime
+Education
+Business
+Politics
+Environment
+Health
+Your Say
+Offbeat
+Celebs
+NI
+UK
+News
+Transport
+Crime
+Education
+Business
+Politics
+Environment
+Health
+Your Say
+Offbeat
+Celebs
+NI
+UK
+Sport
+Football
+Rugby Union
+More Sport
+National Sport
+What's On
+Music
+Theatre & Comedy
+Arts & Screen
+Lifestyle
+Cars
+Olympic Torch to light up Portrush
+08:36
+Thursday 19 January 2012
+0
+Have your say
+THE borough of Coleraine is to lead the way this summer by hosting Northern Ireland’s first Olympic Torch Relay Celebration in the form of a two-day bank holiday extravaganza at Portrush costing £100,000.
+Thousands are expected to line the route of the famous torch as it comes to Portrush on Sunday, June 3 for an overnight stay and Council are planning to mark the occasion with a Sunday night community party at the resort’s recently revamped East Strand.
+Ten thousand people will be invited to attend the evening celebration which will feature a number of celebrity acts yet to be announced together with local performers who will “showcase the borough’s talents.”
+Hosted by Coleraine with the permission of the London Olympic Committee for the Olympic Games (LOCOG) the event will form the borough’s main focus of the Queen’s Jubilee weekend which will also boast community celebrations including a two-day equestrian display, a 24-hour yacht club regatta, a Bann Rowing Club event, arts attractions at both Flowerfield and Riverside, Portrush Raft Race and ‘Sport Comes To Town’ which will be hosted by the University of Ulster.
+Coleraine Council will host two legs of the Olympic Torch Relay on Sunday and Monday, June 3-4. For security and financial reasons, the exact detail of the route will not become public knowledge until May but Council officers are already working with PSNI to co-ordinate the logistics of staging such a high profile event.
+The local authority hopes that the relay will lead to a feeling of inclusion in the 2012 Olympic Games and will have a positive spin off for the borough’s health with members of the public encouraged to get involved in sport and leisure activities.
+Being the first to host the torch in Northern Ireland, the local authority is also hopeful that it will showcase to a worldwide audience, Portrush as well as the Coleraine borough in general. Council’s Director of Leisure Services, Mr. Richard Baker, revealed the plans at last week’s council meeting during which he announced the creation of a detailed event strategy which would be developed by monthly “event planning meetings” under the control of Council’s Olympic Games 2012 Sub-Group.
+He told the meeting: “Following significant effort, Coleraine Borough Council was invited to host the 2012 Torch Relay, [through] which it is aimed to effectively and efficiently generate maximum regional exposure, local gain and allow the Borough’s citizens to witness and participate in the Olympic Torch Relay.” The estimated £80,000 to £100,000 hosting cost will cover essential Council provisions including crowd barriers, staff security, toilets and attendants, back of house accommodation, medical requirements, marketing and dressing, sporting grants, post clean-up, communications, ticket production/distribution/stewarding, entertainment and park & ride/transport costs during the relay.
+Trending
+Tragic PSNI and sea cadets officer David Philpot ‘one of life’s good guys’
+Portrush hoax security alert over
+WATCH:‘Sea of yellow’ as one thousand baby chicks found abandoned in field
+Man found with drug grinder ‘between buttocks’
+Partner clutched a knife and smashed plates during row over ‘cheating’
+Sign in
+{* #userInformationForm *}
+Sign in socially
+{* loginWidget *}
+with your email address
+{* traditionalSignIn_emailAddress *}
+{* traditionalSignIn_password *}
+{* traditionalSignIn_signInButton *}
+Forgot your password? Reset it here.
+No account yet? Register Now.
+{* /userInformationForm *}
+Sign in
+{* #userInformationForm *}
+Sign in socially
+{* loginWidget *}
+Use another account
+Welcome
+back!
+Email Address
+{* traditionalSignIn_emailAddress *}
+Password
+{* traditionalSignIn_password *}
+{* traditionalSignIn_signInButton *}
+Forgot your password? Reset it here.
+No account yet? Register Now.
+{* /userInformationForm *}
+Sign in
+{* #userInformationForm *}
+Sign in socially
+{* loginWidget *}
+Use another account
+with your email address
+{* traditionalSignIn_emailAddress *}
+{* traditionalSignIn_password *}
+{* traditionalSignIn_signInButton *}
+Forgot your password? Reset it here.
+No account yet? Register Now.
+{* /userInformationForm *}
+Registration
+Please fill in the remaining fields below to complete your registration
+{* #registrationForm *}
+{* traditionalRegistration_firstName *}
+{* traditionalRegistration_lastName *}
+{* traditionalRegistration_emailAddress *}
+{* traditionalRegistration_password *}
+{* traditionalRegistration_passwordConfirm *}
+{* traditionalRegistration_displayName *}
+{* traditionalRegistration_jpCommsOptIn *}
+By registering you are agreeing to the terms and conditions. of the website.
+{* traditionalRegistration_captcha *}
+{* createAccountButton *}
+Back to previous screen
+{* /registrationForm *}
+Almost Done!
+{* #socialRegistrationForm *}
+{* socialRegistration_firstName *}
+{* socialRegistration_lastName *}
+{* socialRegistration_emailAddress *}
+{* socialRegistration_displayName *}
+{* socialRegistration_jpCommsOptIn *}
+Registering with Coleraine Times means you're ok with our terms and conditions.
+{* socialRegistration_captcha *}
+{* createAccountButton *}
+Back to previous screen
+{* /socialRegistrationForm *}
+Almost Done!
+{* #socialRegistrationForm *}
+{* socialRegistration_firstName *}
+{* socialRegistration_lastName *}
+{* socialRegistration_emailAddress *}
+{* socialRegistration_displayName *}
+{* socialRegistration_jpCommsOptIn *}
+By registering you are agreeing to the
+Terms and Conditions
+of the website.
+{* socialRegistration_captcha *}
+{* createAccountButton *}
+← Back to previous screen
+{* /socialRegistrationForm *}
+Thank You For Registering
+Welcome to Coleraine Times
+You're almost there.We've just sent a confirmation email to
+.
+Check it out to confirm your registration.
+We are unable to send your welcome email at this time.
+Please try again later by clicking the resend welcome email link from your profile page.
+CHECK OUT MY PROFILE
+No thanks, take me to the homepage
+×
+Forgotten your password?
+Enter your email and we'll send you a link to reset your password.
+{* #forgotPasswordForm *}
+{* traditionalSignIn_emailAddress *}
+{* /forgotPasswordForm *}
+Reset Your Password
+We've sent an email with instructions to create a new password.
+Your existing password has not been changed.
+Close
+Your password has been changed
+Password has been successfully updated.
+Sign in
+Reset your password
+We didn't recognise that password reset code.
+Enter your email address to get a new one.
+{* #resetPasswordForm *}
+{* traditionalSignIn_emailAddress *}
+{* forgotPassword_sendButton *}
+{* /resetPasswordForm *}
+Reset your password
+We've sent an email with instructions to create a new password.
+Your existing password has not been changed.
+Close
+Reset your password
+Enter your new password.
+{* newPasswordForm *}
+{* newpassword *}
+{* newpasswordConfirm *}
+{* /newPasswordForm *}
+{* mergeAccounts {"custom": true} *}
+Is this you?
+It looks like you're already registered
+{| foundExistingAccountText |}.
+Either connect these accounts, or create new one using a different email address.
+{| moreInfoText |}
+{| moreInfoHoverText |}
+{| existing_provider |}
+{| existing_displayName |}
+{| current_emailAddress |}
+{| rendered_existing_provider_photo |}
+Created at {| existing_createdDate |}
+{| connectLegacyRadioText |}
+{| createRadioText |}
+{| current_provider |}
+Validating
+{| connect_button |}
+{| create_button |}
+Back to previous screen
+Sign In To Complete Account Merge
+It looks like you're already registered
+Email is already registered with OtherSite.
+You'll be able to use the same account on current Site.
+Alternatively, you can create a new account with another email address.
+{* #tradAuthenticateMergeForm *}
+{* traditionalSignIn_emailAddress *}
+{* mergePassword *}
+{* traditionalSignIn_signInButton *}
+Create new account
+{* /tradAuthenticateMergeForm *}
+Newsletter Preferences
+Congratulations, you're now registered! Let us know what news and updates you want to hear about and we'll send them straight to your inbox.
+No thanks, take me straight to the site.
+Daily Newsletter
+Additional Newsletter
+Where do you live?
+Enter your postcode so we can keep you up-to-date with the latest local news and exciting deals.
+Please provide a valid UK postcode
+Done
+Already Registered
+It looks like you're already registered.
+is already registered with
+.
+You will be able to use the same account on .
+Alternatively, you can create a new account with another email address.
+Validating
+Email address is
+required.
+Validating
+GET INTO WOW NOW
+Create a new account
+×
+×
+Thank you for registering
+We have sent a confirmation email to . Please check your email
+and click on the link to activate your account.
+We are unable to process your request at this time. Please try again later.
+Close
+Welcome to Coleraine Times
+Congratulations, you've just sealed the deal! Sign in to your profile now to get started.
+That's it, you're all done! Close this window to start browsing the site now
+or click here to go to your profile
+Unfortunately that verification link has expired. To get a new one,
+just sign in to your profile now and resend the verification email.
+Unfortunately that verification link has expired. To get a new one, just resend the verification
+email by going to your profile page.
+Take me to my profile
+Sign in
+×
+Error
+×
+Profile Photo
+×
+Remove Linked Account?
+Are you sure you want to remove this linked account?
+Yes
+Cancel
+Join Us On
+Explore
+News
+Sport
+Lifestyle
+What's On
+More from Coleraine Times
+Announcements
+Bingo
+Buy a Photo
+Directory
+Dating
+Jobs
+Local Guide
+Cars
+Property
+Public Notices
+Useful Links
+Contact us
+Advertise My Business
+Advertise a Job
+Place your ads
+Subscribe
+©
+2017
+Johnston Publishing Ltd. All rights reserved.
+Terms and Conditions
+Disclaimer
+Cookies Policy
