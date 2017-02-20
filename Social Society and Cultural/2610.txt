@@ -1,0 +1,16 @@
+ConnectFree Email
+Welcome to ConnectFree
+All Email Addresses are due to be renewed by Feb 28, 2016
+If you want to keep your @connectfree.co.uk email account then you need torenew it for GBP24 a year using PayPal
+NOTE: When your payment has been "Accepted" your email account will be renewedEmail us from a different email address if you can't get connected yet!
+Remember to include the email address in the notes of your PayPal payment
+Access WebMail Here
+Contact Support - support @ connectfree.co.uk
+To access your new email address
+Username:	 Your FULL email address @connectfree.co.uk
+Password:	Your original password
+Pop3 Server:	mail.connectfree.co.uk
+SMTP Server:
+Use the SMTP server provided by your ISP to avoid spam traps.
+It is always best to use the SMTP server of your own ISP to avoid bounces and being treated as a spammer.In fact many ISPs now block access to 3rd party SMTP servers.
+Hosted on a HiVelocity Dedicated Server

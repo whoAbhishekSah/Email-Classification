@@ -1,0 +1,12 @@
+Error - Transport for London
+Something went wrong?
+Sorry for the inconvenience
+Access denied
+The owner of this website (www.tfl.gov.uk) has banned your access based on your browser's signature (333c6af796b83078-ua48).
+Ray ID: 333c6af796b83078
+Timestamp: 2017-02-19 20:20:09 UTC
+Your IP address: 220.227.9.162
+Requested URL: www.tfl.gov.uk/
+Error reference number: 1010
+Server ID: FL_35F60
+User-Agent: Python-urllib/1.17

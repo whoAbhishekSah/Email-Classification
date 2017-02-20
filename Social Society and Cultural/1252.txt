@@ -1,0 +1,107 @@
+James Watt Nanofabrication Centre: University of Glasgow: Smallest Diamond Transistor
+James Watt Nanofabrication Centre
+Home
+Research
+Capability
+Access
+Courses
+Contact
+Home
+> News > World's Smallest Queen's Diamond Jubilee Commemorative Coin
+Scientists at the University of Glasgow have created an unusual tribute to Her Majesty the Queen to mark her Diamond Jubilee – the world’s smallest commemorative coin, made from a tiny sliver of diamond.
+The ‘coin’, created at the University’s James Watt Nanofabrication Centre, measures just 750 nanometres across and features an image of the Queen’s profile just 580 nanometres high.
+A nanometre is one billionth of a metre. Around 1300 of the diamond coins could fit side by side on the width of the smallest letter on a five pence piece,
+and 2,600 billion of the coins would fill a volume equivalent to that of a pound coin.
+The image was etched on a laboratory-grown diamond covered in a special polymer. Using high-resolution electron beam lithography,
+the profile of the Queen’s head was patterned onto the polymer. The pattern was then transferred to the diamond using a process known as ICP reactive ion etching.
+The work was undertaken at the University of Glasgow by PhD student Andrew Greer under the direction of Dr David Moran, lead of the Nano-Electronic Diamond Devices and Systems group.
+Dr Moran said: “We’re proud to be celebrating the Queen’s Diamond Jubilee with the creation of the world’s smallest diamond coin.
+“Diamond is not just an attractive material for use in jewellery; it also has a range of unique physical properties which make it ideal for use in a range of advanced fields of engineering.
+It’s an excellent thermal conductor and has a high tolerance for radiation, which makes it perfect for use in applications such as electronic transistors and robust enough to be used in challenging environments such as outer space.
+“We’re researching a wide range of practical applications for diamond technology and creating this diamond coin is an excellent way to demonstrate the capabilities of the James Watt Nanofabrication Centre.”
+The James Watt Nanofabrication Centre houses more than £20 M of nanofabrication tools in a 750 square-metre clean room environment. The Centre is collaborating with more than 90 different universities and research institutes around the world.
+Kelvin Nanotechnology Ltd. provides commercial access to the Centre’s facilities and expertise. More than 250 companies have benefited from nanofabrication services delivered by Kelvin Nanotechnology Ltd.
+Previously the researchers from the University's School of Engineering fabricated a 50 nm gate length transistor on a small diamond chip. This is the smallest device yet fabricated in the diamond system. A picture of the device and the diamond chip on a finger to gauge the size is shown in the picture to the right.
+D.A.J. Moran et al. "Processing of 50 nm gate-length hydrogen terminated diamond FETs for high frequency and high power applications"
+Microelec. Eng. 8, 1067 (2009):
+doi:10.1016/j.mee.2010.11.029
+The work at Glasgow is predominantly aimed at the high frequency performance of diamond transistors and an example of the high speed characterisation is shown to the right for a 150 nm gate length transistor which has a cut-off frequency of 43 GHz. Work is progressing to increase the frequency through scaling the device to smaller dimensions.
+For further details please e-mail: David.Moran@glas
+gow.ac.uk The work was funded by the EPSRC.
+This news story has appeared in the following pages:
+Report and expanded video on the BBC Scotland web pages
+Report on the BBC web pages
+Report on the STV web pages
+Report on Scottish Sun web pages
+Report on the nano academia web pages
+Report on the nanowerk web pages
+Report on the science focus web pages
+Report on the TSB _Connect web pages
+Report on the Au magazine web pages
+Report on the Engineer Live web pages
+Report on the UK Wired web pages
+Report on the Glasgow Wired web pages
+Report on the London Wired web pages
+Report on the Manchester Wired web pages
+Report on the Bourne Local web pages
+Report on the Lunaticg Banknote web pages
+Home
+About
+Research
+Capability
+Equipment
+Postgraduates
+Access
+Collaborators
+Nano Education
+Links
+Contact Us
+Internal Login
+Home
+People
+Expertise
+Consultancy
+World Records
+Postgraduates
+University Access
+EPSRC III-V National Facility
+Industry Access
+EC Collaborations
+JWNC Staff
+Contact Us
+Equipment
+Electron Beam Lithography
+Nanoimprint Lithography
+Optical Lithography
+Nanoinjection Molding
+Dry & Wet Etch
+PECVD
+Metal Deposition
+Metrology
+Electron Microscopes
+Electrical Characterisation
+Optical Characterisation
+Applications
+Technologies
+Healthcare
+Cleantech & Energy
+Security & Defence
+Sensors
+Nanoscale Applications
+Nanoelectronics
+Optoelectronics
+Biotechnology
+Si-Technology & MEMS
+III-Vs and II-VIs
+Gallery
+How to find the JWNC
+Travel to Glasgow
+Collaborators
+Links
+Outreach
+Downloads
+Electronic Design
+Lab-on-a-chip
+mm-wave & THz
+© University of Glasgow
+Internal Login

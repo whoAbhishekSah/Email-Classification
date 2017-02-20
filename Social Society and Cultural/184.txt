@@ -1,0 +1,197 @@
+Budget 2011: Distributional analysis of coalition's major tax changes | Left Foot Forward
+Left Foot Forward
+Economy
+Public Services
+Social Security
+Immigration
+Sustainability
+Europe
+MediaWatch
+About
+Writers
+Donate
+Events
+TrendingLabour
+economy
+NHS
+Immigration
+Follow @leftfootfwd
+About
+Writers
+Donate
+Events
+Search
+Email signup
+Go
+Email Address
+Go
+Email Address
+Go
+×Close
+×Close
+Sustainable Economy
+Budget 2011: Distributional analysis of coalition’s major tax changes
+24 March, 2011
+Sustainable Economy
+In the wake of yesterday's Budget, Tim Horton and Howard Reed present an updated distributional analysis of the effects of the coalition’s major direct and indirect tax changes.By Tim Horton and Howard Reed
+Following last year’s June 2010 budget we produced a distributional analysis of the impact of the above-inflation increase in the income tax personal allowance (from £6,475 to £7,475) and the 2.5 percent increase in VAT.
+Our analysis showed that the combined impact of these tax measures was regressive – hitting people with the poorest net incomes hardest (adjusted for household size).
+Both those measures come into force this year: the VAT rise occurred in January, while the allowance increase takes effect this April.
+In yesterday’s budget speech George Osborne announced a further increase in the income tax personal allowance – to £8,105 – from April 2012. Another (pre-announced) change is that this April, the thresholds for National Insurance Contributions (NICs) for employees and self-employed people will rise roughly in line with the increase in the personal allowance, but there is also an increase of 1 per cent in the contributions rates above this level.
+In this post we update our distributional analysis of the effect of tax changes under Mr Osborne to take account of the further increase in the income tax allowance and the employee and self-employed NICs changes. The analysis also uses updated income distribution data (from the 2008-09 tax year) and improved modelling techniques.
+The graph below shows the distributional impact of these tax changes by April 2012 compared with the April 2010 tax system that the coalition government started with, and correcting the April 2012 thresholds and allowances for inflation.
+Graph:
+Legend:
+• The horizontal axis divides the household net income distribution into ten equally-sized deciles, going from left (poorest) to right (richest);
+• The blue, red and green bars show the distributional impact of the income tax cut, NICs changes and VAT rise respectively.
+• The purple line shows the combined impact of all three measures taken together
+• The impact of each change is shown as a percentage of household net income (rather than in cash terms).
+Analysis:
+• The income tax cut gives the most money (as a proportion of net income) to households in the middle of the income distribution. Households at the bottom mostly have incomes below the initial (April 2010) allowance level of £6,475 and so do not gain from the allowance increase.
+• Because the increase in the allowance is worth a maximum of £326 per person in nominal terms, the impact for people on higher incomes is lower as a percentage of net income, but the higher number of two-earner households in the middle deciles means they gain more (on average) overall than the lowest deciles.
+• For higher rate taxpayers at the top of the income distribution the reduction in the personal allowance negates completely the impact of this year’s allowance increase (but not next year’s allowance increase).
+The national insurance changes also have a positive net impact for the bottom two-thirds of the income distribution, although the increase in the lower threshold is offset by the increase in NICs rates which means the positive effects are smaller, and for households in the top four deciles the NICs changes reduce income.
+(We do not include the impact of the change in employer NICs also taking place in April but again, this consists of an increase in the threshold combined with an increase in the contributions rate and so to the extent that the increase in employer NICs is passed through to employees in lower wages, the distributional effects will be similar to the employee NICs increase).
+The VAT increase is a regressive tax change (at least, when the impact on living standards of a VAT increase is measured as a percentage of net income) because poorer households consume more (relative to their income) than do richer households. The size of the VAT increase (£11.5 billion by 2012-13) also outweighs the income tax cut (£4.7bn by 2012-13) while overall the NICs changes also increase revenue, and so the overall impact of the tax changes is to reduce household incomes.
+Overall the distributional impact of the tax changes is an “inverted U shape” – with the poorest households and the richest households losing more than households in the middle.
+The government’s own analysis of distributional effects of the tax changes (Figure A.3 in its Budget document [pdf]) suggests that the changes are much more progressive than this at the top end of the distribution but that is because Table A.3 includes the tax increases above £100,000 (withdrawal of the personal allowance and the introduction of the 50p income tax rate) announced by Labour in 2009 which came into force in April 2010, before the Coalition took office.
+Here we confine ourselves to direct and indirect tax changes taking effect in 2011 and 2012.
+Our analysis also does not include changes to benefits and tax credits which (as the Institute for Fiscal Studies showed in its post-spending review presentation last October, are regressive overall. So, overall, the tax changes introduced this year and next will increase the squeeze on Britain’s poorest families.
+Finally, it’s worth remembering that the swingeing cuts announced in the spending review will have the biggest negative impact on the living standards of the poorest families – as shown in previous analysis we conducted back in the Autumn.
+The Budget made no attempt to lessen these service cuts.
+31 Responses to “Budget 2011: Distributional analysis of coalition’s major tax changes”
+Broken OfBritain
+March 24, 2011
+RT @leftfootfwd: Budget 2011: Distributional analysis of coalition's major tax changes: http://bit.ly/efScDA by @TimJHorton & @HowardRReed
+Richard Murphy
+March 24, 2011
+RT @leftfootfwd: Budget 2011: Distributional analysis of coalition's major tax changes: http://bit.ly/efScDA by @TimJHorton & @HowardRReed
+Helen Barnard
+March 24, 2011
+RT @leftfootfwd @TimJHorton & @HowardRReed http://bit.ly/efScDA Budget 2011 distritbutional analysis>"squeezed middle" benefiting most?
+Steve George
+March 24, 2011
+Ignore The Sun & others claiming progressive budget – changes "will increase the squeeze on Britain’s poorest families" http://bit.ly/eoZd0l
+Duncan Stott
+March 24, 2011
+Forgive me for churning a previous comment I’ve left on this blog before, but sadly it needs saying again:
+The problem with your analysis is that some of the apparently poorest households by income in your graph aren’t really what would be considered poor. It contains wealthy pensioners, students, the self-employed going through a brief income dip…
+Household expenditure is a better measure of who is poorest. To quote the IFS: “one would get a more reliable picture of who those are with the lowest standards of living by examining those recorded at the bottom of the spending distribution than one would if one looked among those recorded at the bottom of the income distribution.”
+The ONS has also found that one in five of the lowest-income fifth of households spends more than twice their current income, and concluded that “the peculiarities of [these] households can be associated with a temporary condition of low income, rather than with a permanency of poverty,” adding that “expenditure could be regarded as a better proxy for the standard of living of households with few resources”. http://bit.ly/dTWr04
+One more ONS quote: “referring to income distribution to identify the incidence of indirect taxes on households with low income can be misleading”. Sadly that’s exactly what this article has done.
+Duncan Stott
+March 24, 2011
+Sadly, @leftfootfwd persist in analysing tax policy against the advice of the IFS and ONS: http://bit.ly/efScDA @TimJHorton @HowardRReed
+jm_ed
+March 24, 2011
+RT @DuncanStott: Sadly, @leftfootfwd persist in analysing tax policy against the advice of the IFS and ONS: http://bit.ly/efScDA @TimJHo …
+Dominic MacAskill
+March 24, 2011
+RT @leftfootfwd: Budget 2011: Distributional analysis of coalition's major tax changes: http://bit.ly/efScDA by @TimJHorton & @HowardRReed
+Chris Goulden
+March 24, 2011
+RT @leftfootfwd: Budget 2011: Distributional analysis http://www.leftfootforward.org/2011/03/budget-2011-distributional-analysis/
+Ash
+March 24, 2011
+“Overall the distributional impact of the tax changes is an “inverted U shape” – with the poorest households and the richest households losing more than households in the middle.”
+Not much support here for the “squeezed middle” narrative, then – though I suspect the picture would look very different if you took into account cuts to tax credits and the removal of child benefit from top rate taxpayers. I’d be very curious to see the numbers crunched on this.
+Broken OfBritain
+March 24, 2011
+http://www.leftfootforward.org/2011/03/budget-2011-distributional-analysis/
+David Cameron - Page 10 - The Liverpool Way
+March 24, 2011
+[…] don't you agree?
+I don't read left foot forward very often, but I just checked and they've updated the findings to reflect the budget. You might find it interesting, you might […]
+VSLVSL
+March 24, 2011
+An important point – but worth remembering: VAT increased from 17.5% to 20% – this is not a 2.5% increase as incorrectly stated but is approximately a 15% increase.
+william
+March 24, 2011
+Be very careful.The policies of the last Labour government in general, and of Gordon Brown in particular, did more to widen the income gap than any post war government.Abolition of 10p tax band ring a bell?Low earners are least likely to vote,as the economic genius knew full well.If you inflate the public sector to an unsustainable level,the resultant remedies(more tax, less public spending)are bound to inflict the bottom of the pile, more.The man is a coward, he does not even appear in the House to represent his constituents.
+Howard Reed
+March 25, 2011
+Duncan – many thanks for your comment. I agree that the distributional impact of VAT looks different if you use decile measures based on expenditure. However, I think there are other issues with using expenditure deciles which ONS hasn’t really considered – for example, it’s quite possible that people at the bottom could be spending more than their net incomes over substantial periods of time by borrowing – often from doorstep lenders at extortionate rates of interest (as Compass has pointed out in its “end legal loan sharking campaign”, for example.) Snapshot income is not a very good measure of long-term living standards for many households at the bottom – but expenditure probably isn’t, either.
+In our June 2010 analysis we looked at an alternative where we allocated VAT payments proportional to income (i.e. flat across the distribution) – and it didn’t change the overall shape of the results that much. The same would be true this time but we didn’t put the extra line on here because the graph was already cluttered.
+Ash
+March 25, 2011
+“The policies of the last Labour government in general, and of Gordon Brown in particular, did more to widen the income gap than any post war government.”
+Absolute and demonstrable rubbish. It was under Thatcher that inequality skyrocketed; it dipped and then rose again slightly under Labour. See graph at the bottom of this page.
+http://www.parliament.uk/business/publications/research/key-issues-for-the-new-parliament/social-reform/social-mobility/
+In terms of policy impact, Labour’s policies actually had the effect of checking the rise in inequality (mainly because so much money was redistributed from the top to the bottom via tax credits.)
+http://www.leftfootforward.org/2010/03/labours-robin-hood-legacy/
+Don’t get me wrong: I think New Labour didn’t take inequality seriously enough. They should have done more, and they were wrong to think the income gap doesn’t matter so long as you tackle poverty. But it’s ludicrous to suggest they were worse than Thatcher.
+william
+March 25, 2011
+For the record,Ed Miliband has just admitted on the BBC 6 o’clock news that under Labour income inequality worsened.That IS 13 YEARS.
+This ‘Budget for Growth’ Will Fail the Poor « Lost Alumni
+March 25, 2011
+[…] ‘success’ – increasing the tax-free allowance by £630 – mostly benefits households in the middle of the income distribution, not the lowest, and will be cancelled out by the VAT hike. When Osborne says he wants “a […]
+Ash
+March 26, 2011
+@ William
+Well of course he’s admitted that. One of the reasons I voted for him was that he was openly critical of New Labour’s record on and attitude to inequality. It’s still not remotely true, though, that their policies actually *promoted* a very large rise in inequality in the way Thatcher’s did. (This was a woman who genuinely believed income inequality was a good thing: “Let our children grow tall, and let some grow taller than others”). It’s just that they *failed to prevent* a small rise in inequality (in spite of their success in redistributing wealth from the rich to the poor).
+Tax credit cuts mean working families are worse off | Left Foot Forward
+April 6, 2011
+[…] doesn’t include the impacts of the recent rise in VAT – a tax that by its very nature costs those on lower incomes proportionally […]
+Open Letter to Norman Baker MP | Lewes District Green Party
+April 11, 2011
+[…] http://www.leftfootforward.org/2011/03/budget-2011-distributional-analysis/ Budget 2011: Distributional analysis of coalition’s major tax […]
+Gavin Edwards
+April 13, 2011
+What the Lib Dems have REALLY done: http://bit.ly/efScDA , http://bit.ly/h2Z62p , http://bit.ly/fXCAOO (I could go on)
+Richard Watts
+April 13, 2011
+RT @GavinEdwards77: What the Lib Dems have REALLY done: http://bit.ly/efScDA , http://bit.ly/h2Z62p , http://bit.ly/fXCAOO (I could go on)
+Victoria Mills
+April 13, 2011
+RT @GavinEdwards77: What the Lib Dems have REALLY done: http://bit.ly/efScDA , http://bit.ly/h2Z62p , http://bit.ly/fXCAOO (I could go on)
+Charlotte Hale
+September 21, 2011
+Coalition has taken middle to lower earners out of tax and then slammed them with a VAT rise:http://t.co/6FrQB36I makes poor worse off
+Sue Hoyle
+September 21, 2011
+Coalition has taken middle to lower earners out of tax and then slammed them with a VAT rise:http://t.co/6FrQB36I makes poor worse off
+CllrJuderobinson
+September 21, 2011
+Coalition has taken middle to lower earners out of tax and then slammed them with a VAT rise:http://t.co/6FrQB36I makes poor worse off
+Sophia James
+September 21, 2011
+Coalition has taken middle to lower earners out of tax and then slammed them with a VAT rise:http://t.co/6FrQB36I makes poor worse off
+Alex Braithwaite
+September 21, 2011
+Coalition has taken middle to lower earners out of tax and then slammed them with a VAT rise:http://t.co/6FrQB36I makes poor worse off
+Clegg’s speech: Long on dramatic pauses, short on facts | Left Foot Forward
+September 21, 2011
+[…] Tim Horton and Howard Reed wrote on Left Foot Forward: “Overall the distributional impact of the tax changes is an “inverted […]
+Robert CP
+September 21, 2011
+Coalition has taken middle to lower earners out of tax and then slammed them with a VAT rise:http://t.co/6FrQB36I makes poor worse off
+Leave a Reply
+Click here to cancel reply.
+Name (required)
+Email (will not be published) (required)
+Website
+Comment
+Search
+Email signup
+Go
+Email Address
+Go
+Email Address
+Go
+×Close
+×Close
+Popular
+Dashboard
+Commented
+Is the ‘metropolitan elite’ a real thing?
+David Davis harrassed Diane Abbott in parliament last night – we should take it seriously
+IPSO rules Daily Express ’98 per cent’ Brexit poll was bogus
+Jonathan Bartley: I’m a proud citizen of the world and in 2017 I’m going to act like one
+15 reasons women shouldn’t vote for UKIP
+An open letter to Jeremy Corbyn
+Responsible Capitalism: a European wave is building that Labour should ride
+He thinks feminists are ‘obnoxious bigots’: meet the new justice minister
+Fox News claims anti-fees protests were “rebellion against big government”
+Published by Left Foot Forward Ltd (company number 06978729). Hosted by Political Pixel. Site design by Ben West.
+7ads6x98yShare with your friendsYour NameYour EmailRecipient EmailEnter a MessageI read this article and found it very interesting, thought it might be something for you. The article is called Budget 2011: Distributional analysis of coalition’s major tax changes and is located at http://leftfootforward.org/2011/03/budget-2011-distributional-analysis/.CaptchaSubmit

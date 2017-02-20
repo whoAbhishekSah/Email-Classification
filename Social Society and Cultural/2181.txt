@@ -1,0 +1,7 @@
+Contao Open Source CMS
+An error occurred while executing this script!
+If you are a Contao user, contact the administrator of your website.
+Open file system/logs/error.log and search for a corresponding entry.
+Open file system/config/localconfig.php and add the following line:$GLOBALS['TL_CONFIG']['displayErrors'] = true;
+Read the Contao FAQs or visit the Contao support page.
+To customize this notice, create a custom template file named templates/be_error.tpl.

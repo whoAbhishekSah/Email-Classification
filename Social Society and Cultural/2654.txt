@@ -1,0 +1,22 @@
+IIS 7.5 Detailed Error - 404.11 - Not Found
+Server Error in Application "GUILDFORD NEXT GEN"
+Internet Information Services 7.5
+Error Summary
+HTTP Error 404.11 - Not Found
+The request filtering module is configured to deny a request that contains a double escape sequence.
+Detailed Error Information
+ModuleRequestFilteringModule
+NotificationBeginRequest
+HandlerStaticFile
+Error Code0x00000000
+Requested URLhttp://www.guildford.gov.uk:80/GuildfordWeb/Business/Olympics2012/Guildford+2012+athlete+centre.htm
+Physical PathE:\inetpub\guildford.gov.uk\templatesnextgen\GuildfordWeb\Business\Olympics2012\Guildford+2012+athlete+centre.htm
+Logon MethodNot yet determined
+Logon UserNot yet determined
+Most likely causes:
+The request contained a double escape sequence and request filtering is configured on the Web server to deny double escape sequences.
+Things you can try:
+Verify the configuration/system.webServer/security/requestFiltering@allowDoubleEscaping setting in the applicationhost.config or web.confg file.
+Links and More Information
+This is a security feature. Do not change this feature unless the scope of the change is fully understood. You should take a network trace before changing this value to confirm that the request is not malicious. If double escape sequences are allowed by the server, modify the configuration/system.webServer/security/requestFiltering@allowDoubleEscaping setting. This could be caused by a malformed URL sent to the server by a malicious user.
+View more information »

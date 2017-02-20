@@ -1,0 +1,386 @@
+Home of British Tennis
+| Tennis in Britain
+You currently have JavaScript disabled in your web browser, please enable JavaScript to view our website as intended.
+Here are the instructions of how to enable JavaScript in your browser.
+Find a Player
+Find a Coach
+Find a Competition
+Contact Us
+Shop
+Sign Up
+Search
+Website
+Search the LTA
+Find a Player
+Find a Competition
+Find a Coach
+Find a Court
+Sitemap
+JoinLogin
+Login
+Username
+Password
+Login
+{{ errMsg == 'Unverified' ? 'Email address not verified, please activate using the link we sent to your email address upon signup. Contact info@lta.org.uk if you require a new email verification link. ' : 'Invalid Username or password. Please try again' }}
+An error has occurred
+Forgot your username?
+Forgot your password?
+Login to your schools tennis account
+Need a Login
+If you are a British Tennis Member, or you have a Coach Code or Official Number, but don't already have a Username and Password.
+Create a login
+Not a British Tennis Member?
+Join British Tennis Membership (BTM) to access exclusive offers, discounts on tickets and clothing, access to the Wimbledon ballot, while also keeping up to date with the latest British tennis news with our monthly newsletter.
+Sign up today
+School Tennis Membership
+Login to your schools tennis account
+Play
+Find a Court
+Tennis for Kids
+Types of Tennis
+Cardio Tennis
+What is Cardio Tennis?
+Cardio Tennis Videos
+Cardio Tennis Shop
+Become an Instructor
+Running a Cardio Tennis session
+Disability Tennis
+Mini Tennis
+Tennis Xpress
+FAST4 Tennis
+Miss-Hits
+touchtennis
+The Basics
+The Game of Tennis
+How to Play
+Rules & Scoring
+Tennis Equipment
+Fair Play
+Schools Tennis
+Improving your Game
+Health & Fitness
+Find a Coach
+Coaching Corner
+Competing
+Start Competing
+Competition Age Groups
+Professional Player Development
+Player support
+National Junior Programme
+Regional performance tennis
+Apprenticeships
+Competitions
+Find a Competition
+Find a Player
+Player Ratings & Rankings
+British Tennis Ratings
+British Tennis Rankings
+Combined Rankings
+Senior Rankings
+Leaderboards
+Latest British Results
+Junior
+Junior Summer Competition
+Junior Winter Competition
+Competition Age Groups
+Road to Wimbledon
+Road to Wimbledon (Club/Park/School)
+Road to Wimbledon International
+Adult
+Box Leagues
+Aegon British Tour
+2017 Roll of Honour
+2017 Aegon British Tour Masters
+Seniors' Tennis
+About Seniors' Tennis
+Seniors' Competitions
+Seniors' Rankings
+News / Notices
+Team
+Team Tennis Schools
+Aegon County Cup
+Junior
+Adult
+County Cup Race
+Aegon Team Tennis
+Rules, regulations & resources
+2017 Draws & Results
+Captains' Area
+National Open Tier
+Team Challenge
+Family
+Benenden Tennis Festivals
+Benenden Tennis Festivals Pack Application
+Quorn Family Tennis Cup
+Regulations
+Major Events
+Aegon Championships
+Home
+Tickets
+Ticket FAQs
+Hospitality
+News
+2017
+Photos
+Videos
+2017 Event Guide
+History
+Media Accreditation
+Contact Us
+Aegon Classic Birmingham
+Home
+Tickets
+FAQs
+Hospitality
+News
+Photos
+Videos
+Event Guide
+History
+Contact Us
+Aegon International Eastbourne
+Home
+Tickets
+FAQs
+Hospitality
+News
+Photos
+Videos
+Event Guide
+History
+Contact Us
+Aegon Open Nottingham
+Home
+Tickets
+FAQs
+Hospitality
+News
+Photos
+Videos
+Event Guide
+History
+Contact Us
+Aegon Trophy Series
+Aegon Surbiton Trophy
+Home
+Tickets
+FAQs
+News
+Event Guide
+History
+Contact Us
+Aegon Manchester Trophy
+Home
+Tickets
+FAQs
+News
+Event Guide
+History
+Contact Us
+Aegon Open Nottingham
+Aegon Ilkley Trophy
+Home
+Tickets
+FAQs
+News
+Event Guide
+History
+Contact Us
+Aegon Southsea Trophy
+Home
+News
+FAQs
+Event Guide
+History
+Contact Us
+Davis Cup & International Events
+Davis Cup by BNP Paribas
+Tickets
+News
+Photos
+Video
+Davis Cup Explained
+Fed Cup by BNP Paribas
+News
+Photos
+Videos
+Follow on Twitter
+Barclays ATP Finals
+Home
+Tickets
+Aegon GB Pro-Series
+NEC Wheelchair Tennis Masters
+About
+Tickets
+Event guide
+Community Group Tickets
+News
+Results
+Players
+Watch
+Grand Slams
+Australian Open
+News
+Photos
+French Open
+Wimbledon
+Ballots
+Hospitality
+News
+US Open
+News
+News
+Brit Watch
+Aegon Awards
+#TennisMusic Playlist
+Tennis Foundation News
+Coach & Teach
+Tennis for Kids
+Coaching Jobs
+Find a course
+Providers
+Coach Development
+Coaching Pathway
+Non LTA Coaching Qualifications
+Tennis Coaching Management Degree
+LTA Coach Accreditation
+Coach Education Centres
+Coaching Apprenticeships
+Team & Programme Development
+Tennis Leaders
+Costing & Growing your Programme
+Mini Tennis
+Miss-Hits
+Cardio Tennis
+Tennis Xpress
+Tennis in Education
+Safe & Inclusive Tennis
+Venue Management
+Venue Registration
+New Venue Registration Form
+Tennismark & Tennismark+
+Promote Your Venue
+Tennis Tuesdays
+Facilities Advice
+Support your Venue
+Resources
+Safe & Inclusive Tennis
+Officiate
+Officiating Pathway
+Becoming a Competition Organiser
+Becoming a Court Supervisor
+Becoming a Referee
+Becoming an Umpire
+Competition Organiser Resources
+Tennis Tournament Planner (TTP)
+League Planner (LP)
+League Planner Application Form
+League Planner Conversion Form
+Results Manager
+Organiser & Official Resources
+Rules & Regulations
+Officials Licence Scheme
+Find a course
+Volunteer
+Current opportunities
+Benefits of volunteering
+Major Event Volunteers
+Young Volunteers
+Tennis Leaders
+Tennis Co-ordinators & Ambassadors
+Volunteer training
+Volunteer Toolkit
+Support & Reward
+Committee Management
+Recruitment
+Volunteer Co-ordinator
+Increasing Diversity
+Role Descriptions
+Skills Audit
+Advertising for volunteers
+Selecting and screening
+Volunteer Agreement
+Great British Tennis Weekend Volunteers
+Aegon British Tennis Awards
+Categories & Prizes
+Safe & inclusive volunteering
+About the LTA
+Contact Us
+Structure & Vision
+The Board
+The Executive Team
+Rules & Regulations
+Press & Media
+Policies & Rules
+Equality & Diversity
+Safe and Inclusive Tennis
+Criminal Record Checks
+Transgender Policy
+Immigration Endorsement Criteria
+Privacy Policy
+BTM Terms & Conditions
+LTA Coach Qualification policies and procedures
+Sponsors
+National Tennis Centre
+Careers
+Jobs in Coaching
+Jobs with the LTA
+Shop
+Members-Area
+Coach
+Manage Your Accreditation
+Courses
+Resources
+Edit coach profile
+Members Home
+Details
+Membership
+Preferences
+Wimbledon Ballot
+Main menu
+Major Event tickets on sale now!
+Secure the best seats in the house for this summer's grass court season and save through the early bird tickets sale!
+Buy now
+Great Britain to face Romania in World Group 2 Play-Off
+Anne Keothavong's Fed Cup team will take on Romania for a place in the world's elite.
+Find out more
+Rafael Nadal to join Murray at Queen's
+Spanish great excited to return to The Queen's Club for this summer's Aegon Championships.
+Find out more
+Go Hit It
+Get on court and #GoHitIt
+Find out more
+{{par}}
+{{cat.name}}
+{{item.categories[item.categories.length - 1].name}}
+{{item.date | date:'dd/MM/yy'}}
+{{item.title}}
+Back To Top
+THE LTA
+About the LTA
+Jobs with the LTA
+Sponsors
+Counties
+Tennis Scotland
+Tennis Wales
+Contact Us
+EVENTS
+News
+Brit Watch
+Aegon Championships
+Aegon International Eastbourne
+Aegon Classic Birmingham
+Aegon Open Nottingham
+PLAY
+Types of Tennis
+Schools Tennis
+Improving your Game
+Competing
+Professional Player Development
+Seniors' Tennis
+Tennis Foundation
+FOLLOW US
+Lead Partner
+Official Sponsors
+Official Suppliers
+© Copyright 2016 Lawn Tennis Association | British TennisSite MapPrivacy & CookiesTerms & Conditions

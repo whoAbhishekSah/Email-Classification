@@ -1,0 +1,175 @@
+IFA | Irish Football Association | Northern Ireland ...
+Menu
+Close
+Home
+The Irish FA
+News
+Events
+Shop
+Stadium
+International
+Domestic
+Taking Part
+I Fan News
+Send
+Thank you
+H Tickets
+BFixtures & Results
+ATournaments
+FIFA World Cup 2018 Qualifiers
+UEFA Women’s Under-19 Championship 2017
+ESquads
+Senior Men
+Under 21 Men
+Under 19 Men
+Under 17 Men
+Senior Women
+Under 19 Women
+Under 17 Women
+FMatch Day Information
+Getting here
+Visiting Northern Ireland
+Travelling to away games
+DGAWA Zone
+Supporters Clubs
+Dates for your Diary
+JClub NI
+Pay here
+BFixtures & Results
+ACup Competitions
+Tennent's Irish Cup
+IFA Womens Challenge Cup
+Intermediate Cup
+Junior Cup
+Harry Cavan Youth Cup
+Enter your club for the Women's Challenge Cup
+MLeagues
+Danske Bank Premiership
+NIFL Championship
+NIFL Premier Intermediate
+Womens Football Leagues
+Northern Amateur Football League
+Player Registration Forms
+GYouth Football
+Irish FA Football Camps
+Girls Football
+Futsal
+NI Boys Football Association
+NI Schools Football Association
+Safeguarding
+Delivering Let Them Play
+KDisability Football
+Coaching
+Disability Strategy Booklet
+Deaf football
+CCommunity & Volunteering
+Volunteer Opportunities
+Volunteer Recognition
+Volunteer Resources
+Club Excellence
+McDonald's Foundation Clubmark
+Business League
+LCoaching
+Courses & licenses
+Coaching Resources
+CPD Courses
+Coaching Opportunities
+Employment Opportunities
+Erasmus+ Funding Programme
+Pay for your course
+Home
+H International
+Fixtures & Results
+Tournaments
+Squads
+Match Day Information
+GAWA Zone
+Club NI
+H Domestic
+Fixtures & Results
+Cup Competitions
+Leagues
+H Taking Part
+Youth Football
+Disability Football
+Community & Volunteering
+Coaching
+H The Irish FA
+About the IFA
+Rules & regulations
+Refereeing
+Sponsors & partners
+Association Documents
+Contact Us
+Stadium
+Suspension List & Disciplinary Charges
+Club Licensing
+H News
+Categories
+H Events
+Categories
+H Shop
+H Tickets
+Campaign Cards
+Accessibility Tickets
+General Ticket Information
+H Mailing List sign up
+H Newsletter
+H watchlive
+Tickets for Norway game to go on sale on Monday
+17Feb
+Ladbrokes Intermediate Cup Quarter Final Draw
+17Feb
+17 February 2017
+Let Them Play conferences launch across Northern Ireland
+16 February 2017
+Women U19s draw to complete double header undefeated
+16 February 2017
+Lead the teams out at the UEFA Women's U19 Championship
+15 February 2017
+Shane Ferguson signs new contract at Millwall
+Upcoming International
+{{fixture.compName}} {{getType(fixture)}}
+Friendly
+v
+P
+P
+AET
+({{fixture.homePenaltyScore}} - {{fixture.awayPenaltyScore}}) penalties
+{{fixture.dateFormatted2}}, {{fixture.timeFormatted}} at {{fixture.stadium}}
+Tickets
+Match Report
+Match Info
+Northern Ireland v Norway
+???
+('%D:%H:%M:%S')
+GAWA Zone
+Exclusive offers, competitions and behind the scenes content!
+Latest Video…
+Enter GAWA Zone
+UEFA Women's Under-19 Championship 2017
+Eight national teams, including Northern Ireland as hosts, will participate in an prestigious 16 day tournament at venues across the country.
+Click Here
+Coaching
+Disability Football
+Futsal
+McDonald's Irish FA Community Awards
+Newsletter
+Keep up-to-date with all the latest news from the Irish FA - ticketing news, interviews, articles and much
+much more.
+Sign up now
+Submit
+Official Sponsors of the IFA
+International
+Domestic
+Taking Part
+The Irish FA
+News
+Shop
+Tickets
+Follow us
+© Irish Football Association 2017
+Site Map
+Terms of use
+Privacy
+design by thewebbureau

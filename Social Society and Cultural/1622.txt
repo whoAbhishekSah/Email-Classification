@@ -1,0 +1,6 @@
+Page Not Found
+Page Not Found
+Reason: RealURL error: unable to determine rootpage_id for the current domain.
+TYPO3 CMS is an open source content management system. To maintain the quality of the system and to improve it, please help us by donating.
+TYPO3 CMS. Copyright © 1998-2016 Kasper Skårhøj. Extensions are copyright of their respective owners. Go to http://typo3.org/ for details.
+TYPO3 CMS comes with ABSOLUTELY NO WARRANTY. This is free software, and you are welcome to redistribute it under certain conditions. Obstructing the appearance of this notice is prohibited by law.

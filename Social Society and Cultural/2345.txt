@@ -1,0 +1,239 @@
+Microsoft reverses adult game ban on Windows 8 - BBC News
+Accessibility links
+Skip to content Accessibility Help
+BBC iD
+Notifications
+BBC navigation
+News
+News
+Sport
+Weather
+Shop
+Earth
+Travel
+Capital
+iPlayer
+Culture
+Autos
+Future
+TV
+Radio
+CBBC
+CBeebies
+Food
+iWonder
+Bitesize
+Travel
+Music
+Earth
+Arts
+Make It Digital
+Taster
+Nature
+Local
+Menu
+Search
+Search the BBC
+Search the BBC
+BBC News
+News navigation
+Sections
+Find local news
+Home
+UK
+World
+Business
+Politics
+Tech
+selected
+Science
+Health
+Education
+Entertainment & Arts
+Video & Audio
+Magazine
+In Pictures
+Also in the News
+Special Reports
+Explainers
+The Reporters
+Have Your Say
+Disability
+Technology
+Technology
+Microsoft reverses adult game ban on Windows 8
+26 October 2012
+From the section Technology
+Share
+Share this with
+Email
+Share this with Email
+Facebook
+Share this with Facebook
+Messenger
+Share this with Messenger
+Messenger
+Share this with Messenger
+Twitter
+Share this with Twitter
+Pinterest
+Share this with Pinterest
+WhatsApp
+Share this with WhatsApp
+LinkedIn
+Share this with LinkedIn
+Copy this link
+http://www.bbc.co.uk/news/technology-20092798
+Read more about sharing.
+Close share panel
+Image caption
+Having to certify games for Windows 8 won criticism from Minecraft creator Markus Persson
+Assassin's Creed, Mass Effect, Skyrim and other mature games will no longer be banned from the European Windows 8 Store.The store is the official outlet for programs Microsoft has tested to ensure they work with Windows 8. A mismatch in the US and Europe over game ratings led to the games' exclusion outside North America.Microsoft has relaxed its restrictions so the titles will be tested to work on PCs and tablets running Windows 8.Tablet troubleIn the US games such as Call of Duty, Skyrim and Mass Effect typically win a "mature" rating under its ESRB system. This means anyone aged 17 and over can play them.
+By contrast in Europe these titles and many others are marked as Pegi 18 which means only adults can buy and play them.Before now Microsoft operated a blanket ban on adult-only content on its Windows 8 Store. "It basically ends up disqualifying games that would be ESRB Mature," Antoine Leblond, Microsoft corporate vice president of web services told tech news site Gizmodo.This had the potential to cause problems on desktop PCs and laptops as it would have meant that the games would not be certified as working with Microsoft's new operating system. The games would also not be promoted via the Windows Store.
+Image caption
+Mass Effect was caught up in the effective ban on adult-only titles
+The Windows 8 testing and certification system has won criticism from many games makers. Markus Persson, creator of Minecraft, said it risked turning the PC into a closed platform. Gabe Newell, head of game maker Valve, said Windows 8 could be a "catastrophe" for it and other developers.Games that do go through the testing and certification process are likely to work with Windows 8 though users will have to find and install the titles themselves. However, the ban could have caused bigger problems with Windows RT. This is the version of Windows 8 meant for tablets and the only way to get software for it is via the store. This is to ensure the programs work well with touchscreen interfaces typically found on tablets.Relaxing the rules means the games can now get into the Windows Store and be guaranteed to run on Windows 8 be it running on a PC or tablet.The change is due to come into force by the end of 2012, Mr Leblond told Gizmodo.
+Share this story
+About sharing
+Email
+Facebook
+Messenger
+Messenger
+Twitter
+Pinterest
+WhatsApp
+LinkedIn
+More on this story
+Microsoft's Steve Ballmer has plans for more hardware
+25 October 2012
+Minecraft creator attacks Microsoft's Windows 8 plan
+28 September 2012
+Valve boss Gabe Newell calls Windows 8 a 'catastrophe'
+26 July 2012
+Related Internet links
+Microsoft
+Windows 8 and Windows RT
+ESRB ratings guide and definitions
+Pegi Pan European Game Information
+The BBC is not responsible for the content of external Internet sites
+Top Stories
+Kraft Heinz drops Unilever takeover bid
+Kraft Heinz "amicably" agrees to withdraw plans to buy Anglo-Dutch giant Unilever.
+19 February 2017
+Iraq troops make headway in Mosul assault
+19 February 2017
+War by smartphone - on Mosul's front line
+19 February 2017
+Features
+Amy's Place
+The house changing lives in memory of Amy Winehouse
+Cake or biscuit?
+The spongy philosophy of the Jaffa Cake
+Perfect storm
+The agency for disabled talent
+Video
+Cup comedown?
+The Sutton dressing room awaiting Arsenal's millionaires
+Baby Ciao
+A touch of the Mediterranean in a pouch
+'Funny and very rude'
+David Tennant 'shown in new light' in new West End role
+'Royal uniforms'
+Princess Diana's changing fashion style
+'Paralysed by grief'
+How much time off should firms give staff who've lost a loved one?
+Taxidermy and cocktails
+The weird ways museums are finding funding
+News navigation
+Sections
+Home
+UK
+UK Home
+England
+N. Ireland
+Scotland
+Alba
+Wales
+Cymru
+World
+World Home
+Africa
+Asia
+Australia
+Europe
+Latin America
+Middle East
+US & Canada
+Business
+Business Home
+Your Money
+Market Data
+Markets
+Companies
+Economy
+Politics
+Politics Home
+Parliaments
+Brexit
+NI Election 2017
+Tech
+selected
+Science
+Health
+Education
+Education Home
+School Report
+Global Education
+Entertainment & Arts
+Video & Audio
+Magazine
+In Pictures
+Also in the News
+Special Reports
+Explainers
+The Reporters
+Have Your Say
+Disability
+BBC News Services
+On your mobile
+On your connected tv
+Get news alerts
+Contact BBC News
+Explore the BBC
+News
+News
+Sport
+Weather
+Shop
+Earth
+Travel
+Capital
+iPlayer
+Culture
+Autos
+Future
+TV
+Radio
+CBBC
+CBeebies
+Food
+iWonder
+Bitesize
+Travel
+Music
+Earth
+Arts
+Make It Digital
+Taster
+Nature
+Local
+Terms of Use
+About the BBC
+Privacy Policy
+Cookies
+Accessibility Help
+Parental Guidance
+Contact the BBC
+Advertise with us
+Ad choices
+Copyright © 2017 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.

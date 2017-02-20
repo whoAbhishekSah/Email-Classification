@@ -1,0 +1,88 @@
+Healthwatch Kingston :: Home
+Text size
+A
+A
+A
+Colour
+C
+C
+C
+C
+Your spotlight on local services
+Search
+Home
+About us
+Our work
+Volunteer for us
+Speak Out
+News
+About us
+Meet the team
+Meet the board
+Governance
+Service Partner
+Our Board meetings
+Our Reports
+Our Strategy
+Our Task Groups
+What our volunteers do
+How to get involved
+Active Affiliate Register
+Our e-bulletins
+Home
+About usAbout us
+Meet the team
+Meet the board
+Governance
+Service Partner
+Our workOur Board meetings
+Our ReportsYoung people
+Our Strategy
+Our Task GroupsCommunity Care Task Group
+Hospital Services Task Group
+Volunteer for usWhat our volunteers do
+How to get involved
+Active Affiliate Register
+Speak Out
+NewsOur e-bulletins
+Welcome to Your Local Healthwatch
+We are the local champion for health and social care services in Kingston. We are independent, transparent and accountable. We have statutory powers and the national influence of Healthwatch England behind us. And we need you to make us stronger and support our growing network of local people. Volunteer for us and get connected with an award winning organisation.
+See our Kingston Quality Award
+We need you to talk to us about your NHS!
+We are working with NHS South West London to help you have your say about the future of NHS services. Our aim is to ensure everyone in our community can contribute. We will do so by arranging events throughout the coming year. If you want to get involved please Contact Us.
+Find out more
+What are the top five areas we will prioritise for health and social care?
+Click here to see our top five areas for health and social care which will determine our priorities for the next twelve months.Our revised strategy and associated work programme (incorporating our priorities) was presented and approved at our public Board Meeting in May.
+Have something to say about mental health?
+In April a range of people from Kingston including professionals from NHS Kingston and the Council attended a launch event for a new mental health strategy. The most important aspect of this work is to involve people with lived experience of mental health so that they can influence what goes into the strategy. If you would like to get involved Contact Us.
+Help us improve primary care for everyone
+The King's Fund has published a report that details the pressures faced by primary care.We want to help improve the way services are delivered in Kingston by working with our local NHS and shaping the development of a new primary care strategy. If you would like to get involved please Contact Us.
+If something's troubling you, get in touch
+Samaritans are ordinary people trained to help our most vulnerable residents by providing confidential, non-judgemental support 24-hours a day, 365 days a year.The national freephone number for those in distress is 116 123.To learn more about Kingston Samaritans click here.
+Have a complaint about NHS services?
+Do you want to make a complaint about a service you or someone you know have received from the NHS but are not sure where to start? VoiceAbility advocates can work with you in a variety of ways to ensure you understand your options. They also have a dedicated website which has a wide range of information to support you make a complaint.
+Tell us about your experiences
+We want to make sure your experience of health and social care services is the best it can be, you’re treated with dignity and respect, and your needs are met. Although most people are happy with the services they receive we still want to hear about what you have to say, good or not so good.
+Read more
+Participate in our Task Groups
+We have three task groups and are always happy to welcome new participants who would like to get involved and make a difference. The groups are set up to deliver our priorities focusing on areas such as hospital services, primary care, mental health and community services.
+Read more
+Visit health and social care services
+Would you like to visit Kingston Hospital, a GP practice or a local care home to see how they are run?
+Are you interested in getting the best out of your health and social care service?
+Do you want to use your experiences of local services to benefit our community?
+If so join our team and make a difference.
+Read more
+Join Young People's Healthwatch
+Our young volunteers have been busy visiting the children's wards at Kingston Hospital and are looking at mental health services with Kingston's Youth Council. If you're aged between 13 and 21 and want to find out more about how you can get involved let us know.
+Read more
+Twitter
+Tweets by @HWKingston
+Contact Us
+Tel: 020 8974 6629Healthwatch Kingston Kingston Quaker CentreFairfield EastKingstonSurrey  KT1 2PT
+Terms & conditions
+Privacy
+Healthwatch England
+Login
+© Healthwatch Kingston 2017
+Fatal error: Call to undefined function node_access_needs_rebuild() in C:\inetpub\Websites\hwkingstonuponthames\sites\all\modules\taxonomy_access\taxonomy_access.module on line 598

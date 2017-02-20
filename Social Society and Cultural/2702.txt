@@ -1,0 +1,10 @@
+Request denied by WatchGuard HTTP Proxy
+Request denied by WatchGuard HTTP Proxy.
+Reason:
+Category 'Games' denied by WebBlocker policy 'WebBlocker.1'.
+Please contact your administrator for assistance.
+More Details:
+Method: GET
+Host: www.jagex.com
+Path: /
+WatchGuard Technologies, Inc.

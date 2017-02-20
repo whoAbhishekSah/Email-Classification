@@ -1,0 +1,6 @@
+403 Forbidden
+Forbidden
+You don't have permission to access /
+on this server.
+Server unable to read htaccess file, denying access to be safe
+Apache/2.4.23 (Unix) Server at www.camdenabudis.net Port 80

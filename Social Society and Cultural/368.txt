@@ -1,0 +1,8 @@
+No root page found
+Contao Open Source CMS
+No root page found
+What's the matter?
+There is no website root page which matches the requested language and/or domain name.
+How can I fix the issue?
+If you have explicitly set a language, try to go to the top level and see whether you are being redirected. Otherwise contact the webmaster and let him know that there is something wrong.
+To customize this notice, create a custom template file named templates/be_no_root.html5.

@@ -1,0 +1,8 @@
+412 Error
+412 Error
+Your request got filtered out due to possible security issues.
+One or more things in your request were suspicious (defective request header, invalid cookies, bad parameters)
+If you think you did nothing wrong:
+try again with a different browser
+avoid any evil characters inside the request url
+If you are the owner of the website, you can consider revising the rules of the mod_security module or turning it off from your Web Hosting Control Panel.

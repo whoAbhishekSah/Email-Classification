@@ -1,0 +1,3 @@
+Do-It - for good
+Javascript not detected
+Sorry, but do-it.org requires a browser with javascript enabled. Please update your browser or contact support@do-it.org.

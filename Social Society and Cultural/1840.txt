@@ -1,0 +1,213 @@
+LAPE
+User guide download
+E-shot sign up
+Contact
+Data
+Resources
+June 2015 update
+The June 2015 update to the Local Alcohol Profiles for England are now available here
+Announcements
+Dec 2016
+Quarterly admission episodes for alcohol-related conditions, broad and narrow Q1 2009/10 to Q1 2016/17 (provisional) are now available. These are corrected versions of the files released on Dec 1st which contained incorrect DSRs for persons. We apologise for any inconvenience caused.
+July 2016
+Quarterly admission episodes for alcohol-related conditions, broad and narrow Q1 2009/10 to Q4 2015/16 (provisional), are now available under the data tab.
+May 2016
+Quarterly admission episodes for alcohol-related conditions, broad and narrow Q1 2009/10 to Q3 2015/16 (provisional), are now available under the data tab.
+Mar 2016
+The Upper Tier Deprivation Decile values have been updated in the 'Quarterly admission episodes for alcohol-related conditions, broad and narrow Q1 2009/10 to Q2 2015/16 (provisional)' files. This is due to errors beind found in deciles 6-10 (events and DSRs) across the full times series. We apologise for any inconvenience caused by this amendment.
+Feb 2016
+A data validity issue has emerged for the alcohol-related mortality data which was scheduled for release on 2nd Feb 2016.
+In order to fully investigate and avoid potentially releasing inaccurate data, we plan to postpone the release until the next available opportunity (March 2016).
+Jan 2016
+Quarterly admission episodes for alcohol-related conditions, broad and narrow Q1 2009/10 to Q2 2015/16 (provisional), are now available under the data tab.
+Oct 2015
+Quarterly admission episodes for alcohol-related conditions, broad and narrow Q1 2009/10 to Q1 2015/16 (provisional), are now available under the data tab.
+June 2015
+Quarterly admission episodes for alcohol-related conditions, broad and narrow Q1 2009/10 to Q4 2014/15 (provisional), are now available under the data tab.
+May 2015
+On 2nd June, the Knowledge and Intelligence Team (North West) with colleagues in the Health and Wellbeing Directorate will publish the annual update of the Local Alcohol Profiles For England (LAPE) to the Public Health Profiles (Fingertips) Tool
+May 2015
+The 2nd June refresh to the LAPE dataset will include an amended methodology for generating the mortality indicators by searching all cause of deaths fields for three conditions (Ethanol poisoning, Methanol poisoning, Toxic effect of alcohol) which are not permitted as an underlying cause of death. This amendment has been applied to the full time series.
+Mar 2015
+Issue 41 of the Alcohol E-shot, available for download here
+Feb 2015
+Issue 40 of the Alcohol E-shot, available for download here
+Feb 2015
+Quarterly admission episodes for alcohol-related conditions, broad and narrow Q1 2009/10 to Q2 2014/15 (provisional), are available under the data tab. Please note that the full dataset has been updated based upon 2011 LSOA boundaries which in a small number of cases has led to changes in the resulting values for higher geographies compared to previous versions which were based on 2001 LSOAs.
+Jan 2015
+Issue 39 of the Alcohol E-shot, available for download here
+Dec 2014
+Issue 38 of the Alcohol E-shot, available for download here
+Dec 2014
+Due to a delay in the release of 2014/15 Month 6 inpatient data, the ‘Quarterly admission episodes for alcohol-related conditions, broad and narrow Q2 2014/15’ won’t be updated until the end of Jan 2015.
+Nov 2014
+Issue 37 of the Alcohol E-shot, available for download here
+Nov 2014
+Issue 36 of the Alcohol E-shot, available for download here
+Sep 2014
+Quarterly admission episodes for alcohol-related conditions, broad and narrow (based on the new AAFs) Q1 2009/10 to Q1 2014/15 (provisional), are available under the data tab. These include numbers and DSRs for upper and lower tier local authorities in addition to regional, PHE Centre and national geographies.
+Sep 2014
+Issue 35 of the Alcohol E-shot, available for download here
+Aug 2014
+Indicators 16 & 17 (broad and narrow hospital admissions) have been updated to include the upper tier local authority geography. The workbook containing this data can be found under ‘Data’ > ‘Local Alcohol Profile datasets’ (please note that in order to view you may need to hit the ‘F5’ key on your keyboard to refresh your browser).
+Aug 2014
+Issue 34 of the Alcohol E-shot, available for download here
+Aug 2014
+Quarterly admission episodes for alcohol-related conditions, broad and narrow (based on the new AAFs) 2009/10 to 2013/14 (provisional), are available under the data tab. These include numbers and DSRs for upper and lower tier local authorities in addition to regional, PHE Centre and national geographies.
+Jul 2014
+Issue 33 of the Alcohol E-shot, available for download here
+Jun 2014
+Issue 32 of the Alcohol E-shot, available for download here
+May 2014
+Issue 31 of the Alcohol E-shot, available for download here
+Apr 2014
+Local Alcohol Profiles for England indicators updated 29th April 2014. Press release here Please note the refreshed dataset includes application of the new 2014 Alcohol-Attributable Fractions, (see ‘User Guide’ for further details)
+Apr 2014
+Issue 30 of the Alcohol E-shot, available for download here
+Mar 2014
+Issue 29 of the Alcohol E-shot, available for download here
+Feb 2014
+Issue 28 of the Alcohol E-shot, available for download here
+Jan 2014
+Issue 27 of the Alcohol E-shot, available for download here
+Dec 2013
+Issue 26 of the Alcohol E-shot, available for download here
+Nov 2013
+Issue 25 of the Alcohol E-shot, available for download here
+Nov 2013
+Alcohol-related admissions: summary of responses to the consultation and future plans :
+Report now available
+Nov 2013
+The estimated date of delivery of the annual refresh of the Local Alcohol Profiles for England is March 2014.
+Oct 2013
+Issue 24 of the Alcohol E-shot, available for download here
+Oct 2013
+Admission episodes for alcohol-attributable conditions (previously NI39) - Annual data 2012/13 (final) will be available from Dec 2013.
+Sep 2013
+Admission episodes for alcohol-attributable conditions (previously NI39) - Quarterly data 2012/13 Q4 are now available.
+Sep 2013
+Issue 23 of the Alcohol E-shot, available for download here
+Aug 2013
+The estimated date of delivery of the annual refresh of the Local Alcohol Profiles for England is January 2014.
+Aug 2013
+Admission episodes for alcohol-attributable conditions (previously NI39) - Quarterly data 2012/13 Q4 will be available from Sept 10th 2013.
+Aug 2013
+Issue 22 of the Alcohol E-shot, available for download here
+Jul 2013
+Issue 21 of the Alcohol E-shot, available for download here
+Jun 2013
+Issue 20 of the Alcohol E-shot, available for download here
+May 2013
+Admission episodes for alcohol-attributable conditions (previously NI39) - Quarterly data 2012/13 Q3
+are now available
+May 2013
+Issue 19 of the Alcohol E-shot, available for download here
+Apr 2013
+Issue 18 of the Alcohol E-shot, available for download here
+Mar 2013
+Results from the 2012 Lape stakeholder user survey are available for download here
+Mar 2013
+Issue 17 of the Alcohol E-shot, available for download here
+Feb 2013
+Admission episodes for alcohol-attributable conditions (previously NI39) - Quarterly data 2012/13 Q2
+are now available.
+Feb 2013
+Issue 16 of the Alcohol E-shot, available for download here
+Feb 2013
+Admission episodes for alcohol-attributable conditions (previously NI39) - Quarterly data 2012/13 Q2
+will be available from 22nd February 2013.
+Jan 2013
+Admission episodes for alcohol-attributable conditions (previously NI39) - Quarterly data 2012/13 Q1 and Annual Trends 2002/03 to 2011/12 are now available.
+Jan 2013
+Issue 15 of the Alcohol E-shot, available for download here
+Dec 2012
+Issue 14 of the Alcohol E-shot, available for download here
+Dec 2012
+Admission episodes for alcohol-attributable conditions (previously NI39) - Quarterly data 2012/13 Q1 and Annual Trends 2002/03 to 2011/12 will be available from 10th January 2013.
+Nov 2012
+Issue 13 of the Alcohol E-shot, available for download here
+Oct 2012
+Issue 12 of the Alcohol E-shot, available for download here
+Sept 2012
+Issue 11 of the Alcohol E-shot, available for download here
+Sept 2012
+Admission episodes for alcohol-attributable conditions (previously NI39) - Quarterly data 2011/12 Q4 and Annual Trends 2002/03 to 2011/12 are now available.
+Aug 2012
+Annual update of Local Alcohol Profiles for England. Published Thursday 16th August 2012
+Aug 2012
+Issue 10 of the Alcohol E-shot, available for download here
+July 2012
+Issue 9 of the Alcohol E-shot, available for download here
+June 2012
+Issue 8 of the Alcohol E-shot, available for download here
+May 2012
+Admission episodes for alcohol-attributable conditions (previously NI39) - Quarterly data 2011/12 Q3 is now available.
+May 2012
+Issue 7 of the Alcohol E-shot, available for download here
+May 2012
+Admission episodes for alcohol-attributable conditions (previously NI39) - Quarterly data 2011/12 Q2 is now available.
+May 2012
+Admission episodes for alcohol-attributable conditions (previously NI39) - Annual Trends 2002/03 to 2010/11 has been updated with revised figures for 2010/11 which may differ from the previous release, (see notes page for an explanation).
+April 2012
+Admission episodes for alcohol-attributable conditions (previously NI39) - Quarterly data 2011/12 Q2 will be made available on the 4th May
+April 2012
+Issue 6 of the Alcohol E-shot, available for download here
+March 2012
+Issue 5 of the Alcohol E-shot, available for download here
+March 2012
+Update on the forthcoming consultation on the methods used to measure alcohol-related admissions- the consultation document will be published on this website soon and all comments will be welcome.
+February 2012
+Issue 4 of the Alcohol E-shot, available for download here
+February 2012
+As announced in the recently published Public Health Outcomes Framework, the North West Public Health Observatory will be consulting on the methods used to measure alcohol-related admissions on behalf of the Department of Health. The consultation document will be published on this website toward the end of February 2012. All comments will be welcome.
+January 2012
+Issue 3 of the Alcohol E-shot, available for download here
+December 2011
+LAPE 2011 data is now available using Instant Atlas - this interactive feature enables the user to create charts, animate trend data and can be accessed directly using the New ‘Atlas’ tab.
+December 2011
+Issue 2 of the Alcohol E-shot, available for download here
+December 2011
+Please note – Quarterly data released on Dec 9th 2011 contained erroneous regional summary figures for 2010/11 for London and the South East, which have now been corrected. If you have downloaded the figures from our website before 12.45pm on the release day, please check. We apologise for any inconvenience caused.
+December 2011
+Admission episodes for alcohol-attributable conditions (previously NI39) - Annual Trends 2002/03 to 2010/11 and Quarterly data 2011/12 Q1 now available.
+Nov 2011
+Please note - The provisional 2010/11 Q1 - Q4 admission rates for ‘Admission episodes for alcohol-attributable conditions (previously NI39)’ are incorrect for the following 10 x LAs: County Durham UA, Northumberland UA, Cheshire East UA, Chester West and Chester UA, Shropshire UA, Cornwall UA, Isles of Scilly UA, Wiltshire UA, Bedford UA, Central Bedfordshire UA. This was caused by erroneous population data and the admission numbers for these LAs are correct. In addition the final end of year figures will be available shortly.
+Nov 2011
+Issue 1 of the Alcohol E-shot
+published 7th November, available for download here
+Oct 2011
+Admission episodes for alcohol-attributable conditions (previously NI39) quarterly data 2010/11 Q4 UPDATED 26th October September 2011
+Primary Care Trust alcohol indicators - 3 x crime indicator worksheets have been updated, current version at http://www.lape.org.uk/downloads/LapePCTDatasetNWPHO07092011.xls We apologise for any inconvenience caused.
+August 2011
+LAPE 2011 annual update of Primary Care Trust and Local Authority profiles published 25th August
+August 2011
+Topography of Drinking Behaviours in England - Synthetic estimates of numbers and proportions of abstainers, lower risk, increasing risk and higher risk drinkers in local authorities in England - Report added August 2011
+May 2011
+NI39 quarterly data 2008/09 Q1 to 2010/11 Q3 added 9th May
+March 2011
+NI39 quarterly data 2010/11 update planned for September (Q4)
+January 2011
+NI39 quarterly data 2010/11 Q1, Q2 and annual data 2009/10 for LAs and PCTs available 10th January
+December 2010
+2010 Regional Summary Profiles made available
+September 2010
+LAPE 2010 annual update of PCT and LA profiles published 1st Sept
+June 2010
+NI39 quarterly data 2008/09 Q1 to 2009/10 Q3 added 3rd June
+E-shot sign up
+Keep in touch with the latest LAPE news by signing up for our E-shot
+Knowledge and Intelligence Team (North West)
+Public Health England
+Room 2.09 2nd FloorLiverpool John Moores UniversityHenry Cotton Campus15-21 Webster StreetLiverpoolL3 2ET
+Tel:+44(0)151 231 4535
+Fax:+44(0)151 231 4552
+Email:KITNorthWest@phe.gov.uk
+Website:http://www.nwpho.org.uk
+http://www.gov.uk/phe
+Site design, development and data produced by the Knowledge and Intelligence Team (North West),
+Public Health England
+Quick Links
+Data
+Resources
+Contact
+© Copyright 2013 Public Health England. All rights reserved.

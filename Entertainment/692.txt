@@ -1,0 +1,307 @@
+Olympic Torch route announced - Wigan Today
+Jobs
+Cars
+Property
+Directory
+Announcements
+Sign In
+Account
+Hello
+Edit Account
+Sign Out
+Search
+Search The Wigan Today
+Search
+More
+Close
+]
+News
+Transport
+Crime
+Education
+Business
+Politics
+Environment
+Health
+Community
+North West
+Your Say
+Opinion
+Offbeat
+Celebs
+Regional
+National
+News
+Transport
+Crime
+Education
+Business
+Politics
+Environment
+Health
+Community
+North West
+Your Say
+Opinion
+Offbeat
+Celebs
+Regional
+National
+Sport
+Football
+Rugby League
+Rugby Union
+Cricket
+Athletics
+More Sport
+National Sport
+What's On
+Music
+Theatre & Comedy
+Arts
+TV & Film
+Eating Out
+Lifestyle
+Nostalgia
+Family
+Gadgets & Tech
+Outdoors
+Travel
+Cars
+Olympic Torch route announced
+The Olympic Torch route through Wigan
+09:32
+Monday 19 March 2012
+0
+Have your say
+THE full route of the Wigan leg of the Olympic torch relay has been announced today.
+It will arrive in the borough on the afternoon of Thursday. May 31 as part of its tour around the country before the Olympic Games in July – and we will be putting on a show to welcome it. The torch will begin its journey through the town in Lowton before carrying on through Abram, Wigan town centre, Ince and finally through Hindley. Leader of Wigan Council Lord Peter Smith said: “We are all tremendously proud to welcome the torch. “The borough has a rich sporting heritage and we’ll all be making the most of the time when the eyes of the world are on us.” Wigan’s Olympic athlete Jenny Meadows attended the announcement and spoke of her pride that the torch is coming to her home town. A day of entertainment is planned to welcome the torch in the town centre.
+The Anvil Street Drummers will be providing the music and there will be art workshops and bike demonstrations as the town fully grasps the Olympic fever.
+Ms Meadows added: “It’s absolutely fantastic that the Olympics is happening in our home nation but to bring a piece of history to our home town is really special.” The torch convoy will be nearly a fortnight into its journey across the UK when it arrives in Lowton to start its journey across the borough. A dozen vehicles will then make their way through Wigan Borough, passing through the town centre then out towards Ince and Hindley. For most of the route, the torch will be carried as a relay by a series of runners, and it is expected to be in Wigan for around three hours.THE ROUTE ...
+A dozen vehicles will make their way along the B5207 through Lowton, into Golborne and then into Abram along the A573. The torch will progress into Platt Bridge and Lower Ince before a warm welcome in the town centre.For the majority of its journey in Wigan, it will be carried by selected torch bearers but for some it will be inside a vehicle. It will enter the town centre via Wallgate before travelling down Library Street, past the Town Hall, and then continuing on its journey through Scholes along the A577 past Hindley Town Hall and up Market Street.The torch will leave the borough around 5.30pm, for Westhoughton.SEE THE WIGAN EVENING POST (MONDAY) FOR MORE ...
+Sign in
+{* #userInformationForm *}
+Sign in socially
+{* loginWidget *}
+with your email address
+{* traditionalSignIn_emailAddress *}
+{* traditionalSignIn_password *}
+{* traditionalSignIn_signInButton *}
+Forgot your password? Reset it here.
+No account yet? Register Now.
+{* /userInformationForm *}
+Sign in
+{* #userInformationForm *}
+Sign in socially
+{* loginWidget *}
+Use another account
+Welcome
+back!
+Email Address
+{* traditionalSignIn_emailAddress *}
+Password
+{* traditionalSignIn_password *}
+{* traditionalSignIn_signInButton *}
+Forgot your password? Reset it here.
+No account yet? Register Now.
+{* /userInformationForm *}
+Sign in
+{* #userInformationForm *}
+Sign in socially
+{* loginWidget *}
+Use another account
+with your email address
+{* traditionalSignIn_emailAddress *}
+{* traditionalSignIn_password *}
+{* traditionalSignIn_signInButton *}
+Forgot your password? Reset it here.
+No account yet? Register Now.
+{* /userInformationForm *}
+Registration
+Please fill in the remaining fields below to complete your registration
+{* #registrationForm *}
+{* traditionalRegistration_firstName *}
+{* traditionalRegistration_lastName *}
+{* traditionalRegistration_emailAddress *}
+{* traditionalRegistration_password *}
+{* traditionalRegistration_passwordConfirm *}
+{* traditionalRegistration_displayName *}
+{* traditionalRegistration_jpCommsOptIn *}
+By registering you are agreeing to the terms and conditions. of the website.
+{* traditionalRegistration_captcha *}
+{* createAccountButton *}
+Back to previous screen
+{* /registrationForm *}
+Almost Done!
+{* #socialRegistrationForm *}
+{* socialRegistration_firstName *}
+{* socialRegistration_lastName *}
+{* socialRegistration_emailAddress *}
+{* socialRegistration_displayName *}
+{* socialRegistration_jpCommsOptIn *}
+Registering with Wigan Today means you're ok with our terms and conditions.
+{* socialRegistration_captcha *}
+{* createAccountButton *}
+Back to previous screen
+{* /socialRegistrationForm *}
+Almost Done!
+{* #socialRegistrationForm *}
+{* socialRegistration_firstName *}
+{* socialRegistration_lastName *}
+{* socialRegistration_emailAddress *}
+{* socialRegistration_displayName *}
+{* socialRegistration_jpCommsOptIn *}
+By registering you are agreeing to the
+Terms and Conditions
+of the website.
+{* socialRegistration_captcha *}
+{* createAccountButton *}
+← Back to previous screen
+{* /socialRegistrationForm *}
+Thank You For Registering
+Welcome to Wigan Today
+You're almost there.We've just sent a confirmation email to
+.
+Check it out to confirm your registration.
+We are unable to send your welcome email at this time.
+Please try again later by clicking the resend welcome email link from your profile page.
+CHECK OUT MY PROFILE
+No thanks, take me to the homepage
+×
+Forgotten your password?
+Enter your email and we'll send you a link to reset your password.
+{* #forgotPasswordForm *}
+{* traditionalSignIn_emailAddress *}
+{* /forgotPasswordForm *}
+Reset Your Password
+We've sent an email with instructions to create a new password.
+Your existing password has not been changed.
+Close
+Your password has been changed
+Password has been successfully updated.
+Sign in
+Reset your password
+We didn't recognise that password reset code.
+Enter your email address to get a new one.
+{* #resetPasswordForm *}
+{* traditionalSignIn_emailAddress *}
+{* forgotPassword_sendButton *}
+{* /resetPasswordForm *}
+Reset your password
+We've sent an email with instructions to create a new password.
+Your existing password has not been changed.
+Close
+Reset your password
+Enter your new password.
+{* newPasswordForm *}
+{* newpassword *}
+{* newpasswordConfirm *}
+{* /newPasswordForm *}
+{* mergeAccounts {"custom": true} *}
+Is this you?
+It looks like you're already registered
+{| foundExistingAccountText |}.
+Either connect these accounts, or create new one using a different email address.
+{| moreInfoText |}
+{| moreInfoHoverText |}
+{| existing_provider |}
+{| existing_displayName |}
+{| current_emailAddress |}
+{| rendered_existing_provider_photo |}
+Created at {| existing_createdDate |}
+{| connectLegacyRadioText |}
+{| createRadioText |}
+{| current_provider |}
+Validating
+{| connect_button |}
+{| create_button |}
+Back to previous screen
+Sign In To Complete Account Merge
+It looks like you're already registered
+Email is already registered with OtherSite.
+You'll be able to use the same account on current Site.
+Alternatively, you can create a new account with another email address.
+{* #tradAuthenticateMergeForm *}
+{* traditionalSignIn_emailAddress *}
+{* mergePassword *}
+{* traditionalSignIn_signInButton *}
+Create new account
+{* /tradAuthenticateMergeForm *}
+Newsletter Preferences
+Congratulations, you're now registered! Let us know what news and updates you want to hear about and we'll send them straight to your inbox.
+No thanks, take me straight to the site.
+Daily Newsletter
+Additional Newsletter
+Where do you live?
+Enter your postcode so we can keep you up-to-date with the latest local news and exciting deals.
+Please provide a valid UK postcode
+Done
+Already Registered
+It looks like you're already registered.
+is already registered with
+.
+You will be able to use the same account on .
+Alternatively, you can create a new account with another email address.
+Validating
+Email address is
+required.
+Validating
+GET INTO WOW NOW
+Create a new account
+×
+×
+Thank you for registering
+We have sent a confirmation email to . Please check your email
+and click on the link to activate your account.
+We are unable to process your request at this time. Please try again later.
+Close
+Welcome to Wigan Today
+Congratulations, you've just sealed the deal! Sign in to your profile now to get started.
+That's it, you're all done! Close this window to start browsing the site now
+or click here to go to your profile
+Unfortunately that verification link has expired. To get a new one,
+just sign in to your profile now and resend the verification email.
+Unfortunately that verification link has expired. To get a new one, just resend the verification
+email by going to your profile page.
+Take me to my profile
+Sign in
+×
+Error
+×
+Profile Photo
+×
+Remove Linked Account?
+Are you sure you want to remove this linked account?
+Yes
+Cancel
+Join Us On
+Explore
+News
+Wigan Athletic FC
+Wigan Warriors
+Sport
+Lifestyle
+What's On
+More from the Wigan Today
+Announcements
+Bingo
+Buy a Photo
+Directory
+Dating
+Jobs
+Local Guide
+Cars
+Property
+Public Notices
+Useful Links
+Contact us
+Advertise My Business
+Advertise a Job
+Place your ads
+Subscribe
+©
+2017
+Johnston Publishing Ltd. All rights reserved.
+Terms and Conditions
+Disclaimer
+Cookies Policy

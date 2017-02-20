@@ -1,0 +1,307 @@
+Retailer under fire over Diamond Jubilee contest - Belfast Newsletter
+Jobs
+Cars
+Property
+Directory
+Announcements
+Sign In
+Account
+Hello
+Edit Account
+Sign Out
+Search
+Search The Belfast Newsletter
+Search
+More
+Close
+]
+News
+Politics
+Crime
+Farming
+Education
+Business
+Transport
+Environment
+Health
+Your Say
+Opinion
+Offbeat
+Celebs
+NI
+UK
+News
+Politics
+Crime
+Farming
+Education
+Business
+Transport
+Environment
+Health
+Your Say
+Opinion
+Offbeat
+Celebs
+Northern Ireland
+United Kingdom
+Sport
+Football
+Rugby Union
+Cricket
+Golf
+Motorcycling
+Boxing
+More Sport
+National Sport
+What's On
+Music
+Theatre & Comedy
+Arts
+TV & Film
+Eating Out
+Lifestyle
+Nostalgia
+People
+Family
+Gadgets & Tech
+Outdoors
+Travel
+Cars
+Retailer under fire over Diamond Jubilee contest
+Iceland store.
+08:21
+Wednesday 04 April 2012
+0
+Have your say
+ANGRY customers have complained that a competition to win party food to celebrate the Queen’s Diamond Jubilee is not being publicised “openly” in Iceland stores in Northern Ireland – unlike on the mainland.
+On Monday, London-based solicitor Simon McIlwaine sent a letter to the chief executive of Iceland – on behalf of a number of Ulster shoppers – threatening legal action if the matter is not resolved. Mr McIlwaine said while Ulster stores were initially excluded from the competition, in favour of a two-minute trolley dash, the situation changed last Saturday.
+“What has happened subsequently on Facebook is that Iceland have said they have changed the rules and residents in Northern Ireland can now apply and enter the competition,” he said.
+“But we understand they have to email for a code and get the code to enter the competition. The nub of the current complaint is this: it would appear that on the mainland, promotional literature is given out enabling people to enrol in the competition. The question is, how are the customers in Northern Ireland to hear about the competition if promotional literature is not being made available in the store?”DUP MP Jeffrey Donaldson said: “In Great Britain you can walk into an Iceland shop and enter this competition but if you live in Northern Ireland you can’t do it in your local store – you have to apply by email online.“It is pretty clear Iceland are keen to avoid offending certain people who don’t share our British traditions and culture in Northern Ireland.”The Lagan Valley MP said he felt it was “unfortunate in this age of respect and tolerance the company is treating other loyal citizens of Northern Ireland in this way”.
+He added: “I am raising the issue with the chief executive of Iceland to make clear my disquiet at the differential in the treatment of Northern Ireland customers in comparison with the treatment of other customers in Great Britain.”An unhappy Iceland customer, who contacted the News Letter, said he believed the decision not to publicise the Jubilee competition was a “blatantly anti-unionist decision by Iceland”.However, an area manager for Iceland in Northern Ireland, Stephen McCavery, said: “Originally it was the intention of the company to run a competition for the Jubilee. The prize was that someone in every store would win party food for a street party. For obvious reasons we knew in some areas of Northern Ireland that would be very popular and in other areas it wouldn’t be.” Mr McCavery said they initially decided on a trolley dash which would “cater for both sides of the community”.
+“If people wanted to use it for a Jubilee party, fair enough, and if they wanted to use it for something else, fair enough,” he said. “One of our great aims with the stores in Northern Ireland is that they are politically neutral. It is not our job to get involved in the politics of Northern Ireland. All we want to do is sell chips and peas.” He said when they picked up from their Facebook site that customers wanted a Jubilee competition in Northern Ireland, the company reacted by “opening the competition to the people of Northern Ireland”. “That is slightly different from across the water where you have to go into the store,” he said. “I would say it is easier to win in Northern Ireland because to enter the competition you don’t even have to go to the store.
+“The trolley dash is still going on. “We have also promised a winner in every store in Northern Ireland through the online competition if they apply.” He said customers are made aware of the online Jubilee competition on their Facebook page and they can also ask Iceland managers for information. “Customers can also enter by logging onto jubileecomp@iceland.co.uk and we have had quite a few entries already.”
+Sign in
+{* #userInformationForm *}
+Sign in socially
+{* loginWidget *}
+with your email address
+{* traditionalSignIn_emailAddress *}
+{* traditionalSignIn_password *}
+{* traditionalSignIn_signInButton *}
+Forgot your password? Reset it here.
+No account yet? Register Now.
+{* /userInformationForm *}
+Sign in
+{* #userInformationForm *}
+Sign in socially
+{* loginWidget *}
+Use another account
+Welcome
+back!
+Email Address
+{* traditionalSignIn_emailAddress *}
+Password
+{* traditionalSignIn_password *}
+{* traditionalSignIn_signInButton *}
+Forgot your password? Reset it here.
+No account yet? Register Now.
+{* /userInformationForm *}
+Sign in
+{* #userInformationForm *}
+Sign in socially
+{* loginWidget *}
+Use another account
+with your email address
+{* traditionalSignIn_emailAddress *}
+{* traditionalSignIn_password *}
+{* traditionalSignIn_signInButton *}
+Forgot your password? Reset it here.
+No account yet? Register Now.
+{* /userInformationForm *}
+Registration
+Please fill in the remaining fields below to complete your registration
+{* #registrationForm *}
+{* traditionalRegistration_firstName *}
+{* traditionalRegistration_lastName *}
+{* traditionalRegistration_emailAddress *}
+{* traditionalRegistration_password *}
+{* traditionalRegistration_passwordConfirm *}
+{* traditionalRegistration_displayName *}
+{* traditionalRegistration_jpCommsOptIn *}
+By registering you are agreeing to the terms and conditions. of the website.
+{* traditionalRegistration_captcha *}
+{* createAccountButton *}
+Back to previous screen
+{* /registrationForm *}
+Almost Done!
+{* #socialRegistrationForm *}
+{* socialRegistration_firstName *}
+{* socialRegistration_lastName *}
+{* socialRegistration_emailAddress *}
+{* socialRegistration_displayName *}
+{* socialRegistration_jpCommsOptIn *}
+Registering with Belfast Newsletter means you're ok with our terms and conditions.
+{* socialRegistration_captcha *}
+{* createAccountButton *}
+Back to previous screen
+{* /socialRegistrationForm *}
+Almost Done!
+{* #socialRegistrationForm *}
+{* socialRegistration_firstName *}
+{* socialRegistration_lastName *}
+{* socialRegistration_emailAddress *}
+{* socialRegistration_displayName *}
+{* socialRegistration_jpCommsOptIn *}
+By registering you are agreeing to the
+Terms and Conditions
+of the website.
+{* socialRegistration_captcha *}
+{* createAccountButton *}
+← Back to previous screen
+{* /socialRegistrationForm *}
+Thank You For Registering
+Welcome to Belfast Newsletter
+You're almost there.We've just sent a confirmation email to
+.
+Check it out to confirm your registration.
+We are unable to send your welcome email at this time.
+Please try again later by clicking the resend welcome email link from your profile page.
+CHECK OUT MY PROFILE
+No thanks, take me to the homepage
+×
+Forgotten your password?
+Enter your email and we'll send you a link to reset your password.
+{* #forgotPasswordForm *}
+{* traditionalSignIn_emailAddress *}
+{* /forgotPasswordForm *}
+Reset Your Password
+We've sent an email with instructions to create a new password.
+Your existing password has not been changed.
+Close
+Your password has been changed
+Password has been successfully updated.
+Sign in
+Reset your password
+We didn't recognise that password reset code.
+Enter your email address to get a new one.
+{* #resetPasswordForm *}
+{* traditionalSignIn_emailAddress *}
+{* forgotPassword_sendButton *}
+{* /resetPasswordForm *}
+Reset your password
+We've sent an email with instructions to create a new password.
+Your existing password has not been changed.
+Close
+Reset your password
+Enter your new password.
+{* newPasswordForm *}
+{* newpassword *}
+{* newpasswordConfirm *}
+{* /newPasswordForm *}
+{* mergeAccounts {"custom": true} *}
+Is this you?
+It looks like you're already registered
+{| foundExistingAccountText |}.
+Either connect these accounts, or create new one using a different email address.
+{| moreInfoText |}
+{| moreInfoHoverText |}
+{| existing_provider |}
+{| existing_displayName |}
+{| current_emailAddress |}
+{| rendered_existing_provider_photo |}
+Created at {| existing_createdDate |}
+{| connectLegacyRadioText |}
+{| createRadioText |}
+{| current_provider |}
+Validating
+{| connect_button |}
+{| create_button |}
+Back to previous screen
+Sign In To Complete Account Merge
+It looks like you're already registered
+Email is already registered with OtherSite.
+You'll be able to use the same account on current Site.
+Alternatively, you can create a new account with another email address.
+{* #tradAuthenticateMergeForm *}
+{* traditionalSignIn_emailAddress *}
+{* mergePassword *}
+{* traditionalSignIn_signInButton *}
+Create new account
+{* /tradAuthenticateMergeForm *}
+Newsletter Preferences
+Congratulations, you're now registered! Let us know what news and updates you want to hear about and we'll send them straight to your inbox.
+No thanks, take me straight to the site.
+Daily Newsletter
+Additional Newsletter
+Where do you live?
+Enter your postcode so we can keep you up-to-date with the latest local news and exciting deals.
+Please provide a valid UK postcode
+Done
+Already Registered
+It looks like you're already registered.
+is already registered with
+.
+You will be able to use the same account on .
+Alternatively, you can create a new account with another email address.
+Validating
+Email address is
+required.
+Validating
+GET INTO WOW NOW
+Create a new account
+×
+×
+Thank you for registering
+We have sent a confirmation email to . Please check your email
+and click on the link to activate your account.
+We are unable to process your request at this time. Please try again later.
+Close
+Welcome to Belfast Newsletter
+Congratulations, you've just sealed the deal! Sign in to your profile now to get started.
+That's it, you're all done! Close this window to start browsing the site now
+or click here to go to your profile
+Unfortunately that verification link has expired. To get a new one,
+just sign in to your profile now and resend the verification email.
+Unfortunately that verification link has expired. To get a new one, just resend the verification
+email by going to your profile page.
+Take me to my profile
+Sign in
+×
+Error
+×
+Profile Photo
+×
+Remove Linked Account?
+Are you sure you want to remove this linked account?
+Yes
+Cancel
+Join Us On
+Explore
+News
+Sport
+Lifestyle
+What's On
+Farming Life
+More from Belfast Newsletter
+Announcements
+Bingo
+Buy a Photo
+Directory
+Dating
+Jobs
+Local Guide
+Cars
+Property
+Public Notices
+Useful Links
+Contact us
+Place your ads
+Advertise a Job
+Subscribe
+©
+2017
+Johnston Publishing Ltd. All rights reserved.
+Terms and Conditions
+Disclaimer
+Cookies Policy

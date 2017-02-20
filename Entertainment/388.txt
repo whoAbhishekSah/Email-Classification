@@ -1,0 +1,221 @@
+Basketball England Web
+Smaller Text
+Larger Text
+Membership Portal
+News & Events
+Child Protection
+Membership
+BE Shop
+Toggle navigation
+BE Inspired
+National Teams
+U16 Men
+U16 Women
+U18 Men
+U18 Women
+Stars of the Game
+Opportunities
+BE Involved
+Play
+Overview
+Players with Disabilties
+Supporting your Child
+Getting Started
+Moving Through the Pathway
+Regional Development Programmes
+Taking the next steps
+Parental Concerns
+Volunteer
+Become a Volunteer
+Benefits of Volunteering
+Volunteering at BE events
+Watch Basketball
+Play/Compete
+Clubs
+Club Matters & Clubmark
+Why should I join a club?
+Funding
+Recruitment & Retention
+Starting & Affiliating a Club
+Find a Club
+Concussion Guidelines
+Education
+Basketball in Education
+Further & Higher Education
+Junior NBA League
+National Schools Comps
+Satellite Clubs
+Primary
+Secondary
+BE 3x3
+Teacher Resources
+Initiatives
+Project Hub
+Nothing but Net
+Premier League 4 Sport
+Reach & Teach
+Local League
+What is Local League?
+Start Competing
+Where to Start
+Camps, Trials and Events
+Start Playing
+How do I Play?
+Where do I play?
+How do I get involved?
+Learn/Improve
+Improve as a Player
+Basic Skills Checklist
+National Development Programmes
+Calendar and Results
+Playing Pathway and Commitment
+Regional Development Programmes
+Regional Development Tournaments
+Regional Performance Centres
+Overview
+Schedule
+Staff
+The Performance Pathway
+Improve as a Coach
+Club Skills Guide
+How Do I Improve
+Guidance for Coaches
+Organise a Course
+Resources
+Improve as an Official
+How to Improve
+Camps & Clinics
+Courses
+National Conference
+What qualification should I be doing?
+The Level 2 Referee Qualification
+Basketball England Table Official Resources
+Basketball as a Career
+Intro
+Apprenticeships
+AASE
+EABL
+Basketball Overseas
+America
+Europe
+Training & Education
+Becoming a Tutor
+Our Courses
+Courses Explained
+Organise a Course
+Search Courses
+Coach/Officials
+Coaching
+Become a Coach
+Foreign Coaches
+Disability
+Officiating
+Become an Official
+Code of Conduct
+Safeguarding for Officials
+Funding for officials
+National League
+NBL Homepage + Notices
+NBL Registrations
+National League Tables
+Referee Appointments - Assignr
+Fixtures & Results
+NBL Discipline
+FIBA LiveStats
+Downloads and Forms
+About
+Annual Reports
+Board
+Articles of Association
+Governance
+Meet the Board
+Regional Management
+Mission
+Our Staff
+Partners
+Contact
+Work For Us
+Work in Basketball
+Terms & Policies
+Anti Doping
+Child Protection
+Code of Ethics
+Equal Opportunities
+Guidance & Templates
+Whistle Blowing Policy
+More momentum and support for basketball in England!
+National Cup Finals Recap
+NBL Finals Tickets On Sale Now
+To get yours, click here
+BE BDM Regional Roadshows
+Click here to find out more
+Sign up for info
+Want to become a member? Find out about our exciting range of member benefits and sign up today!
+Click for more information
+Social Media
+Basketball England on Twitter
+Tweets by @bballengland
+Basketball England on Facebook
+Latest News
+Manchester Magic retain National Trophy title as Team Newcastle University clasp Cup & Sussex Bears seal Shield success
+Sunday, February 19, 2017 5:48:53 PM
+Manchester Magic maintained their spell over London Lituanica for a second weekend in succession to defend their National Trophy crown with an authoritative  81-53 victory at Hertfordshire … more
+Nottingham Wildcats, Haringey Hawks, Southwark Pride & Myerscough Spinners crowned Jnr. NBL National Cup champions at Hertfordshire Sports Village
+Saturday, February 18, 2017 9:48:00 PM
+The Nottingham Wildcats, Haringey Hawks, Southwark Pride and Myerscough Spinners all emerged victorious from the Jnr. NBL National Cup Finals Day here at Hertfordshire Sports Village on Saturday. … more
+Lancashire and Worthing gear up for D1M survival clash on Sunday
+Friday, February 17, 2017 4:50:00 PM
+Despite Sunday’s National Trophy Final (which you can read about HERE), this weekend’s D1M fixtures remain relatively unaffected as 7 games span the weekend. With Worthing and Westminster … more
+After Southwark’s double win weekend, attention turns to Solent v Charnwood in title race
+Friday, February 17, 2017 4:36:44 PM
+With Southwark continuing their march towards a D1W title last weekend with a pair of wins, Solent now need to keep pace at the top. With 3 other games on tap, including another key clash at the … more
+With top 2 teams off, D2M focus shifts to relegation and playoff seedings
+Friday, February 17, 2017 4:30:00 PM
+With this weekend’s game between Kent and Team Newcastle postponed due to their match up in the Final of the Patrons Cup (which you can read about HERE), attention shifts for the weekend to … more
+Play Now
+Find a basketball court near you
+Find
+Oops! Something went wrong while we tried to load the latest results.
+If you want you can try again.
+Results
+Tables
+... waiting for competitions list to load
+Sorry, can't show any data as something went wrong with the competitions list.
+Please try again if you would like.
+Sorry, something went wrong while we tried to load the results you requested.
+Please feel free to try again.
+There are no fixture results to show for this competition at this time,
+please select another competition or try the Tables.
+{{result.date | date : "EEEE dd MMMM yyyy" }}
+{{fixture.homeTeam | uppercase }}
+{{fixture.homeScore}} - {{fixture.awayScore}}
+{{fixture.awayTeam | uppercase }}
+... waiting for competitions list to load
+Sorry, can't show any data as something went wrong with the competitions list.
+Please feel free to try again.
+Sorry, something went wrong while we tried to load the table you requested.
+If you want you can try again.
+There are no tables to show for this competition at this time,
+please select another competition or take a look at the Results.
+Team
+W
+L
+%
+Diff
+Pts
+{{ team.name | uppercase }}
+{{ team.W }}
+{{ team.L }}
+{{ team.PctWin | number: 3 }}
+{{ team.PtsDiff }}
+{{ team.Pts }}
+Get News and offersdirect to your inbox,subscribe for free
+Subscribe
+Tweet
+Membership
+About Basketball England
+Press Centre
+Privacy & Data Protection
+Contact Basketball England
+Safeguarding
+© Basketball England 2015-2017. All Rights Reserved | Privacy & Cookies

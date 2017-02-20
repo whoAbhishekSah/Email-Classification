@@ -1,0 +1,239 @@
+Kickstarted video game project Haunts gets mothballed - BBC News
+Accessibility links
+Skip to content Accessibility Help
+BBC iD
+Notifications
+BBC navigation
+News
+News
+Sport
+Weather
+Shop
+Earth
+Travel
+Capital
+iPlayer
+Culture
+Autos
+Future
+TV
+Radio
+CBBC
+CBeebies
+Food
+iWonder
+Bitesize
+Travel
+Music
+Earth
+Arts
+Make It Digital
+Taster
+Nature
+Local
+Menu
+Search
+Search the BBC
+Search the BBC
+BBC News
+News navigation
+Sections
+Find local news
+Home
+UK
+World
+Business
+Politics
+Tech
+selected
+Science
+Health
+Education
+Entertainment & Arts
+Video & Audio
+Magazine
+In Pictures
+Also in the News
+Special Reports
+Explainers
+The Reporters
+Have Your Say
+Disability
+Technology
+Technology
+Kickstarted video game project Haunts gets mothballed
+19 October 2012
+From the section Technology
+Share
+Share this with
+Email
+Share this with Email
+Facebook
+Share this with Facebook
+Messenger
+Share this with Messenger
+Messenger
+Share this with Messenger
+Twitter
+Share this with Twitter
+Pinterest
+Share this with Pinterest
+WhatsApp
+Share this with WhatsApp
+LinkedIn
+Share this with LinkedIn
+Copy this link
+http://www.bbc.co.uk/news/technology-20003916
+Read more about sharing.
+Close share panel
+Image caption
+The game lets players investigate or inhabit a ghostly mansion
+Development on a video game funded by the crowdsourced funding site Kickstarter has stopped as all its programmers have quit.More than 1,200 people backed Haunts: The Manse Macabre when it ran a funding campaign via Kickstarter in June 2012. It pledged to produce a horror game but that has been mothballed after running out of cash and staff.Experts said it could be first of many shelved and showed the perils inherent in the making of video games.Haunts sought $25,000 (£15,590) from Kickstarter but the project proved popular and meant the game's developers got $28,739 (£17,895) to fund completion of the game. Prior to the funding appeal Haunts creator Mob Rules Games had spent about $42,500 getting the basics of the title completed.
+The end result was supposed to be a haunted house horror game in which players could take on the role of the house's inhabitants or intruders investigating what lived within it.Now Mob Rules Games boss Rick Dakan has revealed that the game's development has prematurely halted. "The principal cause for our dire condition is that there are no longer any programmers working on the game," said Mr Dakan in a blogpost updating backers.Bug testingHaunts' lead programmer was only contracted to work for Mob Rules for a year, said Mr Dakan, and having returned to Google has no spare time to keep working on the game.In addition, Mob Rules second lead programmer has quit and no longer wants to work on Haunts.Before the pair left, said Mr Dakan, they all but finished the game but it would need extensive bug testing and refinement before backers could get at it.
+It's a real shame to see Haunts strugglingJohn Walker
+Unfortunately Mob Rules has no-one available to do this work. In addition, Haunts has been written in the Go programming language which is not widely used and will limit its chances of hiring new hands to complete the work.In his blogpost, Mr Dakan apologised for how Haunts has turned out and pledged to refund any backer who wanted their money back out of his own pocket."My obligation to all of you generous Kickstarter backers is foremost in my mind and I have not served you as well as I should have," he said.Risky businessJohn Walker, from games news site Rock Paper Shotgun, said there was always a danger that something like this would happen with projects funded via Kickstarter. There was a chance that bigger projects could go the same way, he said, and anyone using Kickstarter should be aware of the risks."Most people pledge at the level that promises them the final product, and so of course don't view their act as a philanthropic one, but as a purchase," he said.Funding problems, delays and disappearing developers were all problems that games studios had to weather, he said."That's all part of games development, and now individuals are learning of the risks publishers take when they fund a project by the traditional models," he said. "It's a real shame to see Haunts struggling," he said. "They've done exactly what Kickstarter suggests - being open and frank about the issues they've faced, how they've spent the money, and their attempts to resolve them." Mr Dakan did add that zero developers, an obscure programming language and dwindling cash did not mean the game was entirely dead. He was in talks with another games studio that might take the title on and invited anyone who might be able to help to get in touch."We're going to make this game, and if you can hang on for what looks to be a long road ahead, we will get it finished," he said.
+Share this story
+About sharing
+Email
+Facebook
+Messenger
+Messenger
+Twitter
+Pinterest
+WhatsApp
+LinkedIn
+More on this story
+Looking back to the future of video games
+12 October 2012
+Ouya game console smashes funding target
+9 August 2012
+Sword-fighting game hits funding target
+9 July 2012
+Carmageddon Reincarnation secures Kickstarter cash
+29 May 2012
+Related Internet links
+Haunts The Manse Macabre on Kickstarter
+Mob Rules games - Blog
+Rock, Paper, Shotgun
+The BBC is not responsible for the content of external Internet sites
+Top Stories
+Kraft Heinz drops Unilever takeover bid
+Kraft Heinz "amicably" agrees to withdraw plans to buy Anglo-Dutch giant Unilever.
+19 February 2017
+Iraq troops make headway in Mosul assault
+19 February 2017
+War by smartphone - on Mosul's front line
+19 February 2017
+Features
+Amy's Place
+The house changing lives in memory of Amy Winehouse
+Cake or biscuit?
+The spongy philosophy of the Jaffa Cake
+Perfect storm
+The agency for disabled talent
+Video
+Cup comedown?
+The Sutton dressing room awaiting Arsenal's millionaires
+Baby Ciao
+A touch of the Mediterranean in a pouch
+'Funny and very rude'
+David Tennant 'shown in new light' in new West End role
+'Royal uniforms'
+Princess Diana's changing fashion style
+'Paralysed by grief'
+How much time off should firms give staff who've lost a loved one?
+Taxidermy and cocktails
+The weird ways museums are finding funding
+News navigation
+Sections
+Home
+UK
+UK Home
+England
+N. Ireland
+Scotland
+Alba
+Wales
+Cymru
+World
+World Home
+Africa
+Asia
+Australia
+Europe
+Latin America
+Middle East
+US & Canada
+Business
+Business Home
+Your Money
+Market Data
+Markets
+Companies
+Economy
+Politics
+Politics Home
+Parliaments
+Brexit
+NI Election 2017
+Tech
+selected
+Science
+Health
+Education
+Education Home
+School Report
+Global Education
+Entertainment & Arts
+Video & Audio
+Magazine
+In Pictures
+Also in the News
+Special Reports
+Explainers
+The Reporters
+Have Your Say
+Disability
+BBC News Services
+On your mobile
+On your connected tv
+Get news alerts
+Contact BBC News
+Explore the BBC
+News
+News
+Sport
+Weather
+Shop
+Earth
+Travel
+Capital
+iPlayer
+Culture
+Autos
+Future
+TV
+Radio
+CBBC
+CBeebies
+Food
+iWonder
+Bitesize
+Travel
+Music
+Earth
+Arts
+Make It Digital
+Taster
+Nature
+Local
+Terms of Use
+About the BBC
+Privacy Policy
+Cookies
+Accessibility Help
+Parental Guidance
+Contact the BBC
+Advertise with us
+Ad choices
+Copyright © 2017 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.

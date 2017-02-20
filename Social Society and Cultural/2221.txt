@@ -1,0 +1,91 @@
+Centre for Research in Social Simulation | CRESS
+Skip to main content
+CRESS
+Centre for Research in Social Simulation
+Home
+PeopleDirector
+Researchers
+Administrators
+ProjectsOngoing Research
+Completed Projects
+PublicationsPapers
+Books
+Presentations
+Working papers
+LinksSimulation Centres
+Journal of Artificial Societies and Social Simulation (JASSS)
+CRESS Wiki
+CRESS GitHub's organisation page
+CRESS internal wiki
+University of Surrey
+EventsCRESS Events
+Quality Commons Workshop
+Policy Modelling in Practice Workshop
+WholeSEM Household Energy Monitoring Study
+INSIGHTS: bringing together sensor technology and social research
+TeachingABM short course
+Computational Policy Modelling MSc
+About UsVisiting CRESS
+Contact Us
+ResourcesModels
+Gallery
+Centre for Research in Social Simulation
+The Centre for Research in Social Simulation (CRESS), based in the Department of Sociology in the Faculty of Arts and Human Sciences at the University of Surrey, is a multidisciplinary centre bringing together the social sciences, software engineering and agent-based computing to promote and support the use of social simulation in research in the human sciences.
+What is Social Simulation?
+There is growing interest in using computer simulation to explore issues in the social sciences. Simulation is a novel research method in most parts of the social sciences, including sociology, political science, economics, anthropology, geography, archaeology and linguistics. It can also be the inspiration for new, process-oriented theories of society.
+If you would like more information on CRESS research and activities, or to learn more about collaboration with CRESS, please email us.
+For brief guide to social simulation, see Agent-based social simulation: dealing with complexity (PDF), by Nigel Gilbert.
+PhD opportunities: We welcome applications to work in CRESS towards a PhD on, or using social simulation. More details here.
+Quick links
+You can access models in Hamill & Gilbert's Agent-based Modelling in Economics here.
+The HOPES model, exploring the complex nature of household energy use to benefit consumers and meet the UK government's 2050 energy reduction targets, is available here.
+Search form
+Search this site
+Tweets by CRESS_Surrey
+February
+«
+»
+M
+T
+W
+T
+F
+S
+S
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+CRESS Seminars
+CRESS seminars are held regularly during the semesters, at 12:30 in 26AD03. Please check the events calendar for details.
+SIMSOC Listserv
+Stay connected and receive updates on social simulation activities, research and new publications by subscribing to the SIMSOC listserv.
+Visiting CRESS
+Visiting Students/Fellows
+If you are a research scholar or a doctoral student and wish to visit CRESS, click here to find out more.
+Click here to login as staff.Copyright © 2016 CRESS. All rights reserved.This website is powered by Drupal and QScience.The source code is licensed under a
+GPLv3 License and can be checkout from Github.

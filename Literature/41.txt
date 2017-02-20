@@ -1,0 +1,21 @@
+Notification: Security: Malware Risk
+This Page Cannot Be Displayed
+Based on your organization's access policies, this web site
+( http://www.judandk.force9.co.uk/elly.htm )
+has been blocked because it has been determined by Web Reputation Filters to be
+a security threat to your computer or the organization's network. This web site has
+been associated with malware/spyware.
+If you have questions, please contact
+your organization's network administrator ( itsupport@iitj.ac.in )
+and provide the codes shown below.
+If you believe this page has been misclassified, use the link below to report this misclassification.
+Report Misclassification
+Date: Mon, 20 Feb 2017 07:57:08 IST
+Username: sah.1@AD
+Source IP: 172.17.20.194
+URL: GET http://www.judandk.force9.co.uk/elly.htm
+Category: Web Hosting
+Reason: BLOCK-MALWARE
+Threat Type: othermalware
+Threat Reason: Identified as malicious domain or URL. Identified as a phishing or spam-related site.
+Notification: WBRS

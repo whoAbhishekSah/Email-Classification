@@ -1,0 +1,2 @@
+Parse error:
+parse error, unexpected T_STRING, expecting T_OLD_FUNCTION or T_FUNCTION or T_VAR or '}' in /vhost/vhost5/s/h/o/shorehambysea.com/www/wp-includes/pomo/entry.php on line 61

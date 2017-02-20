@@ -1,0 +1,150 @@
+Wales YFC CFfI Cymru, Young Farmers Wales
+This site uses cookies to store information on your computer. See our Cookie Policy for further details on how to block cookies.I am happy with this
+Cookies
+What is a Cookie
+A cookie, also known as an HTTP cookie, web cookie, or browser cookie, is a piece of data stored by a website within a browser, and then subsequently sent back to the same website by the browser. Cookies were designed to be a reliable mechanism for websites to remember things that a browser had done there in the past, which can include having clicked particular buttons, logging in, or having read pages on that site months or years ago. NOTE : It does not know who you are or look at any of your personal files on your computer. Why we use them
+When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, your computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.
+These pieces of information are used to improve services for you through, for example:
+recognising that you may already have given a username and password so you don’t need to do it for every web page requestedmeasuring how many people are using services, so they can be made easier to use and there’s enough capacity to ensure they are fastanalysing anonymised data to help us understand how people interact with our website so we can make them better
+You can manage these small files and learn more about them from the article, Internet Browser cookies- what they are and how to manage them
+Learn how to remove cookies set on your device
+There are two types of cookie you may encounter when using our site : First party cookies
+These are our own cookies, controlled by us and used to provide information about usage of our site. We use cookies in several places – we’ve listed each of them below with more details about why we use them and how long they will last.
+Name
+Purpose
+Typical Content
+Expires
+blahCMS:CurrentLanguage
+Its purpose is for our CMS to know what language you are viewing the site in.
+Is usually a 4 digit number used to identify the current language in the CMS. Defaults 1804.
+ASP.NET_SessionId
+The ASP.NET session state is a technology that lets us identify different users of the site by a session ID.
+Session IDs are a 120-bit random number that is represented by a 20-character string. The string is formatted so that it can be included in a URL and it does not have to undergo URL encoding.
+On Session End.
+whoson
+Is a cookie put onto the system by the whoson client we install. It is used to track a user on a site in order to be able to use livechat so the admin can help a user on particular pages.
+Stores a number to use as a Unique Identifier for a user currently online.
+Third party cookies
+These are cookies found in other companies’ internet tools which we are using to enhance our site, for example Facebook or Twitter have their own cookies, which are controlled by them. We do not control the dissemination of these cookies. You should check the third party websites for more information about these.
+Provider
+Name
+Purpose
+More info
+Google Analytics
+_utma _utmb _utmc _utmz
+These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+Google Privacy policy
+Add This
+_utma _utmb _utmz _atuvc _utmc
+Tracks what is being shared and by whom.
+Add This Privacy Policy
+YouTube
+VISITOR_INFO1_LIVE
+You Tube Plugin – embedding You Tube content
+Google Policies and Principles
+Facebook
+datr lu
+Facebook Social Plugin – embedding Facebook content
+Facebook privacy policy
+Google Map
+NNID PREF
+Google Plugin – embedding Google content
+Google Privacy policy
+Twitter
+guest_id _twitter_sess twll
+Twitter Social Plugin – embedding Twitter content
+Twitter Privacy Policy
+LinkedIn
+PersistenceCookie JSESSIONID lang
+LinkedIn Social Plugin – embedding LinkedIn content
+LinkedIn Privacy Policy
+Log files
+Log files allow us to record visitors’ use of the site. The CMS puts together log file information from all our visitors, which we use to make improvements to the layout of the site and to the information in it, based on the way that visitors move around it. Log files do not contain any personal information about you. If you receive the HTML-formatted version of a newsletter, your opening of the newsletter email is notified to us and saved. Your clicks on links in the newsletter are also saved. These and the open statistics are used in aggregate form to give us an indication of the popularity of the content and to help us make decisions about future content and formatting.
+EnglishCymraeg
+HomeAboutNewsOpportunitiesGalleryWhats onShopYoung Peoples Village
+Integrated YFC Beef Scheme
+Corporate Sponsors
+Entertainment Feast
+Buy a Brick Campaign
+Public Speaking
+News
+A once in a lifetime opportunity has come up for the Wales Federation of YFC to purchase the ground floor area of the building which is currently home to the charity’s first floor headquarters on the Royal Welsh Showground in Llanelwedd. The Federation launched a ‘Buy a Brick’ campaign at the beginning of December and since then members and friends of the organisation have been...
+07/02/2017 15:34:39
+Becoming efficient farmers capable of rising to the challenges that face us in the future was the overarching theme for the Wales YFC Rural Affairs Conference.
+A warm welcome was issued to members of Wales YFC, representatives from partner organisations and the organisations corporate sponsors to the third Rural Affairs conference organised by Wales YFC and sponsored by CCF (Clynderwen and...
+07/02/2017 14:04:16
+Why not give that person who already has everything a special gift this Christmas – a brick, a keystone, a cornerstone or a foundation stone of the Wales YFC centre on the Royal Welsh Agricultural Showground.
+Wales YFC are urgently asking past and present members to help them raise £76,100 to purchase the ground floor area of the building, which is currently home to the...
+07/02/2017 13:53:43
+Tweets
+WalesYFC
+With 14 days to go till the final good Luck to all those that are competing this week! https://t.co/djzh0qRHS8
+1 day ago
+WalesYFC
+RT @givebloodwales: A huge thank you to all the amazing Young Farmers who have given blood this week! 👏
+They've helped to save so many liv…
+2 days ago
+WalesYFC
+RT @ChrisManley777: Thank you to all the kind and patient @givebloodwales nurses for welcoming @WalesYFC @NFYFC members to donate as part o…
+2 days ago
+WalesYFC
+RT @LlyndyIsaf: Great to have @ChrisManley777 at Llyndy Isaf today and great to support the #yfclifeblood last night with fellow YFC member…
+2 days ago
+WalesYFC
+RT @NFYFC: #5 in our #yfcgramfaveten and we've picked a recent ensemble cast photo from @sennybridge_yfc. Looks like a great time was had b…
+2 days ago
+WalesYFC
+RT @NFYFC: @ChrisManley777's last donation of #yfclifeblood was a great success. It's not too late to join the cause at https://t.co/LEkXfj…
+2 days ago
+WalesYFC
+RT @Rumenco_ltd: The colostrum status of a calf can be determined using a zinc sulphate turbidity test, where a value of >20 indicates good…
+2 days ago
+WalesYFC
+RT @TrecastleYFC: Places are filling up on our bus, come and support us! @Brecknockyfc @WalesYFC @CFfICymru #yfc #yfcdoitbest #dramafestiva…
+2 days ago
+WalesYFC
+RT @cffiMydroilyn: Dewch yn llu i'n cyngerdd 'Cynulleidfa Gyda...' yng nghwmni @cffillanddewi a CFfI Hermon. 6/3 @YGAberaeron @CeredigionYF…
+2 days ago
+WalesYFC
+RT @GrubsBoots: Coming soon Midline ankle boots from @GrubsBoots Keeping your feet warm & dry whilst tackling the garden. #exclusive #Navy…
+2 days ago
+WalesYFC
+RT @cffisirgar: Wythnos nesaf!! Dewch i'n cefnogi! https://t.co/nWrGcIJjzu
+2 days ago
+WalesYFC
+RT @Rumenco_ltd: Ensuring newborn calves achieve a good colostrum status is critical to help minimise pneumonia, illness and mortality #eve…
+2 days ago
+WalesYFC
+RT @Lowri_x_: Aberedw yfc concert! 03.03.17 @WalesYFC @RadnorYFC https://t.co/8TPYFsBJpQ
+2 days ago
+WalesYFC
+RT @ljane88: Good luck to the @WalesYFC members giving blood with @ChrisManley777 this eve! Sorry i can't be there!! Great campaign! #yfcli…
+2 days ago
+WalesYFC
+RT @ljane88: https://t.co/Dc0dfqpfk1. Great coverage of @WalesYFC Buy a Brick Campaign! Deadline fast approaching! Support us if you can #y…
+2 days ago
+WalesYFC
+RT @emelfp: Conference with @CCRI_UK, @FUW_Policy @NFUCymru @WalesYFC @GlamorganYFC #welshfarming https://t.co/rI8ZTuSPvx
+3 days ago
+WalesYFC
+RT @welshlavender: @WalesYFC @Brecknockyfc @RadnorYFC Please RT https://t.co/oKNVClYIVG
+3 days ago
+WalesYFC
+Looking for a job through the medium of Welsh? click on the link below for more information. https://t.co/kbZiY0nN2c
+3 days ago
+WalesYFC
+Good Luck to all that are giving blood this afternoon with @ChrisManley777 and supporting his campaign @NFYFC @GiveBloodNHS
+#yfclifeblood
+3 days ago
+WalesYFC
+RT @sennybridge_yfc: Last nights concert was a great success, thanks @BigLotteryWales for the funding! @NFYFC @WalesYFC #yfcdoitbest #moret…
+3 days ago
+Contact us
+01982 553502
+information@yfc-wales.org.uk
+Wales YFC
+YFC Centre
+Llanelwedd
+Builth Wells
+Powys
+LD2 3NJ

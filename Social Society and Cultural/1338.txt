@@ -1,0 +1,292 @@
+Queen is
+congratulated
+on Diamond Jubilee - Ulster Star
+Jobs
+Cars
+Property
+Directory
+Announcements
+Sign In
+Account
+Hello
+Edit Account
+Sign Out
+Search
+Search The Ulster Star
+Search
+More
+Close
+]
+News
+Transport
+Crime
+Education
+Business
+Politics
+Environment
+Health
+Your Say
+Offbeat
+Celebs
+NI
+UK
+News
+Transport
+Crime
+Education
+Business
+Politics
+Environment
+Health
+Your Say
+Offbeat
+Celebs
+NI
+UK
+Sport
+Football
+Motor Sport
+More Sport
+National Sport
+What's On
+Music
+Theatre & Comedy
+Arts & Screen
+Lifestyle
+Cars
+Queen is
+congratulated
+on Diamond Jubilee
+Queen Elizabeth II meets staff during a tour around the Coca-Cola bottling plant in Lisburn before she opened the new visitors centre. PRESS ASSOCIATION Photo. Picture date: Friday October 22, 2010. See PA story ULSTER Queen. Photo credit should read: Niall Carson/PA Wire
+14:21
+Monday 20 February 2012
+0
+Have your say
+LISBURN City Council are to send a letter to the Queen congratulating her on her 60 years on the throne.
+Monday, February 6, was the 60th anniversary of the Queen’s accession, following the death of her father, King George VI in 1952.The Queen, who usually marks the day privately, instead performed Royal duties in Sandringham as the official launch of the build-up to the Diamond Jubilee celebrations got underway.
+Speaking at a meeting on that Monday evening, Alderman Jim Dillon suggested the council send a letter of congratulations on reaching such an important milestone.
+Mr Dillon said: “I would appreciate it if this council, having had city status bestowed upon us by the Queen, and being an area she has visited many times in these 60 years, send a letter of congratulations to Her Majesty.“These have been 60 years during which, in my opinion, she has never put a foot wrong.”The proposal was seconded by Councillor Alan Carlisle and was accepted by members.• To mark the Diamond Jubilee, the Ulster Star would like to hear your memories of the Queen. Have you met her on a local visit? Did you have a special word with her? Were you invited to Buckingham Palace for an occasion, to receive a Birthday or New Year Honour, or were you invited to the annual Garden Party? Have you been a Royal follower throughout Her Majesty’s reign, watching from her Coronation until now? Will you be attending the Diamond Jubilee celebrations in London this summer or organising something locally? Email us at news@ulsterstar.co.uk, write to us at 12a Bow Street, Lisburn, BT28 1BN or telephone 92679111 with details or contact us through Twitter @LisburnStar.
+Sign in
+{* #userInformationForm *}
+Sign in socially
+{* loginWidget *}
+with your email address
+{* traditionalSignIn_emailAddress *}
+{* traditionalSignIn_password *}
+{* traditionalSignIn_signInButton *}
+Forgot your password? Reset it here.
+No account yet? Register Now.
+{* /userInformationForm *}
+Sign in
+{* #userInformationForm *}
+Sign in socially
+{* loginWidget *}
+Use another account
+Welcome
+back!
+Email Address
+{* traditionalSignIn_emailAddress *}
+Password
+{* traditionalSignIn_password *}
+{* traditionalSignIn_signInButton *}
+Forgot your password? Reset it here.
+No account yet? Register Now.
+{* /userInformationForm *}
+Sign in
+{* #userInformationForm *}
+Sign in socially
+{* loginWidget *}
+Use another account
+with your email address
+{* traditionalSignIn_emailAddress *}
+{* traditionalSignIn_password *}
+{* traditionalSignIn_signInButton *}
+Forgot your password? Reset it here.
+No account yet? Register Now.
+{* /userInformationForm *}
+Registration
+Please fill in the remaining fields below to complete your registration
+{* #registrationForm *}
+{* traditionalRegistration_firstName *}
+{* traditionalRegistration_lastName *}
+{* traditionalRegistration_emailAddress *}
+{* traditionalRegistration_password *}
+{* traditionalRegistration_passwordConfirm *}
+{* traditionalRegistration_displayName *}
+{* traditionalRegistration_jpCommsOptIn *}
+By registering you are agreeing to the terms and conditions. of the website.
+{* traditionalRegistration_captcha *}
+{* createAccountButton *}
+Back to previous screen
+{* /registrationForm *}
+Almost Done!
+{* #socialRegistrationForm *}
+{* socialRegistration_firstName *}
+{* socialRegistration_lastName *}
+{* socialRegistration_emailAddress *}
+{* socialRegistration_displayName *}
+{* socialRegistration_jpCommsOptIn *}
+Registering with Ulster Star means you're ok with our terms and conditions.
+{* socialRegistration_captcha *}
+{* createAccountButton *}
+Back to previous screen
+{* /socialRegistrationForm *}
+Almost Done!
+{* #socialRegistrationForm *}
+{* socialRegistration_firstName *}
+{* socialRegistration_lastName *}
+{* socialRegistration_emailAddress *}
+{* socialRegistration_displayName *}
+{* socialRegistration_jpCommsOptIn *}
+By registering you are agreeing to the
+Terms and Conditions
+of the website.
+{* socialRegistration_captcha *}
+{* createAccountButton *}
+← Back to previous screen
+{* /socialRegistrationForm *}
+Thank You For Registering
+Welcome to Ulster Star
+You're almost there.We've just sent a confirmation email to
+.
+Check it out to confirm your registration.
+We are unable to send your welcome email at this time.
+Please try again later by clicking the resend welcome email link from your profile page.
+CHECK OUT MY PROFILE
+No thanks, take me to the homepage
+×
+Forgotten your password?
+Enter your email and we'll send you a link to reset your password.
+{* #forgotPasswordForm *}
+{* traditionalSignIn_emailAddress *}
+{* /forgotPasswordForm *}
+Reset Your Password
+We've sent an email with instructions to create a new password.
+Your existing password has not been changed.
+Close
+Your password has been changed
+Password has been successfully updated.
+Sign in
+Reset your password
+We didn't recognise that password reset code.
+Enter your email address to get a new one.
+{* #resetPasswordForm *}
+{* traditionalSignIn_emailAddress *}
+{* forgotPassword_sendButton *}
+{* /resetPasswordForm *}
+Reset your password
+We've sent an email with instructions to create a new password.
+Your existing password has not been changed.
+Close
+Reset your password
+Enter your new password.
+{* newPasswordForm *}
+{* newpassword *}
+{* newpasswordConfirm *}
+{* /newPasswordForm *}
+{* mergeAccounts {"custom": true} *}
+Is this you?
+It looks like you're already registered
+{| foundExistingAccountText |}.
+Either connect these accounts, or create new one using a different email address.
+{| moreInfoText |}
+{| moreInfoHoverText |}
+{| existing_provider |}
+{| existing_displayName |}
+{| current_emailAddress |}
+{| rendered_existing_provider_photo |}
+Created at {| existing_createdDate |}
+{| connectLegacyRadioText |}
+{| createRadioText |}
+{| current_provider |}
+Validating
+{| connect_button |}
+{| create_button |}
+Back to previous screen
+Sign In To Complete Account Merge
+It looks like you're already registered
+Email is already registered with OtherSite.
+You'll be able to use the same account on current Site.
+Alternatively, you can create a new account with another email address.
+{* #tradAuthenticateMergeForm *}
+{* traditionalSignIn_emailAddress *}
+{* mergePassword *}
+{* traditionalSignIn_signInButton *}
+Create new account
+{* /tradAuthenticateMergeForm *}
+Newsletter Preferences
+Congratulations, you're now registered! Let us know what news and updates you want to hear about and we'll send them straight to your inbox.
+No thanks, take me straight to the site.
+Daily Newsletter
+Additional Newsletter
+Where do you live?
+Enter your postcode so we can keep you up-to-date with the latest local news and exciting deals.
+Please provide a valid UK postcode
+Done
+Already Registered
+It looks like you're already registered.
+is already registered with
+.
+You will be able to use the same account on .
+Alternatively, you can create a new account with another email address.
+Validating
+Email address is
+required.
+Validating
+GET INTO WOW NOW
+Create a new account
+×
+×
+Thank you for registering
+We have sent a confirmation email to . Please check your email
+and click on the link to activate your account.
+We are unable to process your request at this time. Please try again later.
+Close
+Welcome to Ulster Star
+Congratulations, you've just sealed the deal! Sign in to your profile now to get started.
+That's it, you're all done! Close this window to start browsing the site now
+or click here to go to your profile
+Unfortunately that verification link has expired. To get a new one,
+just sign in to your profile now and resend the verification email.
+Unfortunately that verification link has expired. To get a new one, just resend the verification
+email by going to your profile page.
+Take me to my profile
+Sign in
+×
+Error
+×
+Profile Photo
+×
+Remove Linked Account?
+Are you sure you want to remove this linked account?
+Yes
+Cancel
+Join Us On
+Explore
+News
+Sport
+Lifestyle
+What's On
+More from Ulster Star
+Announcements
+Bingo
+Buy a Photo
+Directory
+Dating
+Jobs
+Local Guide
+Cars
+Property
+Public Notices
+Useful Links
+Contact us
+Advertise My Business
+Advertise a Job
+Place your ads
+Subscribe
+©
+2017
+Johnston Publishing Ltd. All rights reserved.
+Terms and Conditions
+Disclaimer
+Cookies Policy

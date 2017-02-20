@@ -1,0 +1,294 @@
+International Cognition and Culture Institute -
+Menu
+HOME
+BLOGS
+WEBINARS
+Library
+About US
+Log In
+REGISTER
+1
+Statistics
+Fundraising - 10%
+Statistics
+Fundraising - 10%
+'True self' Journal Club
+Anthropological doubts about the moral “true self”
+Radu Umbres19 February 20170
+Do people everywhere believe there is a true self – a moral true self, what is more? This is a question of obvious anthropological relevance. Most anthropologists, however, would question the basic assumptions of the hypothesis , not to mention its validity for many of the societies they have studied. After Marcel Mauss’s famous 1938 essay “A category of the human mind: the notion of person; the notion of self” that made this a standard anthropological issue, the universality of the category of self or personhood has been contested. ...
+Read More
+'True self' Journal Club
+Is there really no such thing as the true self?
+Brent Strickland18 February 20170
+In “The True Self: A psychological concept distinct from the self,” Strohminger, Knobe, and Newman (henceforth “SKN”) outline a fascinating and compelling body of research on people’s naïve intuitions regarding the “true self.” The evidence suggests that there is a cross-culturally robust notion of the true self, which people conceive of as an intrinsically moral part of the self which causes positive personal changes and importantly contributes to establishing personal identity....
+Read More
+'True self' Journal Club
+The “true self,” more complex, more social
+Gloria Origgi17 February 20170
+“I have entered upon a performance which is without example, whose accomplishment will have no imitator. I mean to present my fellow-mortals with a man in all the integrity of nature; and this man shall be myself.” Thus wrote Jean-Jacques Rousseau as the incipit of his Confessions, a narrative elaboration of his authentic, “true self” as opposed to a hypocritical social identity. Rousseau confessed many weaknesses and failings but the message was clear: his true self, while rich and complex, was better than some of his objectionable actions....
+Read More
+'True self' Journal Club
+Truth and consequences
+Lawrence Hirschfeld16 February 20170
+I was delighted to discover that deep down the authentic me is a happy go lucky sort of guy, and others recognize this too. I am also a little skeptical, to be honest. The authors of acknowledge that there may be some individual variation in this tableau—although the choice between psychopath and seriously mentally ill is not what I had hoped for. The authors also place great emphasis on moral qualities; indeed, the inner, authentic, true self is bounded by a sort of moral paradise; falling out of the true self represents a morally “bad case” whereas falling into authentic self is a good moral case. ...
+Read More
+The Mint's blog
+Article for February: All forms of writing
+The Mint15 February 20173
+Hi everyone!
+For February we chose to read Greg Downey's critique of Stanislas Dehaene's  2009 book Reading in the Brain. In his article titled All Forms of Writing (Mind & Language 2014), ...
+Read More
+'True self' Journal Club
+The True Self, Supernatural Agents, and the Problem of Evil
+Victoria Fomina15 February 20170
+Nina Strohminger, Joshua Knobe, and George Newman’s compelling and thought-provoking piece on the “True Self” presents an original theoretical intervention into the vast body of literature on the self, which spans across several different disciplinary and epistemological traditions. Aside from making an important contribution to the existing theories of the self, the true self concept also opens up an avenue for raising a number of interesting questions in the domain of moral cognition. ...
+Read More
+'True self' Journal Club
+To be or not to be two?
+Ophelia Deroy14 February 20170
+I could have been more courageous I will be more forgiving. Such thoughts are frequent, especially at the beginning of the year, like now. We believe that we stand for certain values, or deeper virtues, which might not be expressed or realized in our day-to-day actions. We fall short of a certain idea of ourselves. What Nina et al.’s paper argues is that we tend to transform this shortfall into the idea of a deep true self, distinct from the superficial or more contextual self we express in everyday life. ...
+Read More
+'True self' Journal Club
+The true self and the situation
+Simon Cullen13 February 20171
+You are probably already familiar with Darley and Batson's (1973) study. Participants were students at the Princeton Theological Seminary. As part of the study, they were asked to give a short sermon in a nearby building. Half of the seminarians were told they were running late, so they’d better hurry to the building. The other half were told they had plenty of time, but they might as well mosey over. On their way, both the hurried and relaxed seminarians encountered a man slumped in a doorway, groaning....
+Read More
+'True self' Journal Club
+Précis of “The True Self: A psychological concept distinct from the self”
+Nina Strohminger12 February 20170
+Some recent work in experimental philosophy and in social psychology addresses central issues in cognition and culture. Case in point: an  article by Nina Strohminger, George Newman, and Joshua Knobe entitled "The True Self: A psychological concept distinct from the self" (forthcoming in Perspectives on Psychological Science and available here.) ...
+Read More
+News
+Post-doc offer in Cultural Evolution and Social Cognition
+The ICCI Team6 February 20170
+A two-year post-doctoral position in Cultural Evolution and Social Cognition is currently open at the Département d’Etudes Cognitives (DEC) of the Ecole Normale Supérieure in Paris. This project will be conducted in collaboration with Nicolas Baumard at the Institut Jean Nicod (IJN) and Julie Grèzes at the Laboratoire de Neurosciences Cognitives (LNC). ...
+Read More
+The Mint's blog
+Article for January: Iconicity and the Emergence of Combinatorial Structure in Language
+The Mint19 January 20178
+Our first paper in 2017 is „Iconicity and the Emergence of Combinatorial Structure in Language” by Verhoef, Kirby and de Boer (2016), published in Cognitive Science. They present experimental ...
+Read More
+More
+Search
+More results...
+Exact matches only
+Search in title
+Search in content
+Search in comments
+Search in excerpt
+Filter by post type
+Filter by Categories
+Blog
+Webinars
+News
+{
+"homeurl": "http://cognitionandculture.net/",
+"resultstype": "vertical",
+"resultsposition": "hover",
+"itemscount": 4,
+"imagewidth": 70,
+"imageheight": 70,
+"resultitemheight": "auto",
+"showauthor": 1,
+"showdate": 1,
+"showdescription": 1,
+"charcount":
+3,
+"noresultstext": "No results!",
+"didyoumeantext": "Did you mean:",
+"defaultImage": "http://cognitionandculture.net/wp-content/plugins/ajax-search-pro/img/default.jpg",
+"highlight": 0,
+"highlightwholewords": 1,
+"openToBlank": 0,
+"scrollToResults": 0,
+"resultareaclickable": 1,
+"autocomplete": {
+"enabled": 1,
+"googleOnly": 0,
+"lang": "en",
+"mobile": 1
+},
+"triggerontype": 1,
+"triggeronclick": 1,
+"triggeronreturn": 1,
+"triggerOnFacetChange": 1,
+"trigger": {
+"delay": 300,
+"autocomplete_delay": 310
+},
+"overridewpdefault": 0,
+"override_method": "post",
+"redirectonclick": 1,
+"redirectClickTo": "results_page",
+"redirect_on_enter": 0,
+"redirectEnterTo": "results_page",
+"redirect_url": "?s={phrase}",
+"settingsimagepos": "left",
+"settingsVisible": 0,
+"hresulthidedesc": "0",
+"prescontainerheight": "400px",
+"pshowsubtitle": "0",
+"pshowdesc": "1",
+"closeOnDocClick": 1,
+"iifNoImage": "description",
+"iiRows": 2,
+"iiGutter": 5,
+"iitemsWidth": 200,
+"iitemsHeight": 200,
+"iishowOverlay": 1,
+"iiblurOverlay": 1,
+"iihideContent": 1,
+"loaderLocation": "auto",
+"analytics": 0,
+"analyticsString": "",
+"show_more": {
+"url": "?s={phrase}",
+"action": "ajax"
+},
+"mobile": {
+"trigger_on_type": 1,
+"trigger_on_click": 1,
+"hide_keyboard": 0
+},
+"compact": {
+"enabled": 0,
+"width": "100%",
+"closeOnMagnifier": 1,
+"closeOnDocument": 0,
+"position": "static",
+"overlay": 0
+},
+"animations": {
+"pc": {
+"settings": {
+"anim" : "fadedrop",
+"dur"
+: 300
+},
+"results" : {
+"anim" : "fadedrop",
+"dur"
+: 300
+},
+"items" : "fadeInDown"
+},
+"mob": {
+"settings": {
+"anim" : "fadedrop",
+"dur"
+: 300
+},
+"results" : {
+"anim" : "fadedrop",
+"dur"
+: 300
+},
+"items" : "voidanim"
+}
+},
+"autop": {
+"state": "disabled",
+"phrase": "",
+"count": 10
+}
+}
+Latest activity
+Radu Umbres published Anthropological doubts about the moral “true self” 12 hours ago
+· visitBrent Strickland published Is there really no such thing as the true self? 1 day ago
+· visitGloria Origgi published The “true self,” more complex, more social 2 days ago
+· visitBarbara Pavlek commented on Article for February: All forms of writing 2 days ago
+· comment (3)James Winters commented on Article for February: All forms of writing 3 days ago
+· comment (3)James Winters commented on Article for January: Iconicity and the Emergence of Combinatorial Structure in Language 3 days ago
+· comment (8)Lawrence Hirschfeld published Truth and consequences 3 days ago
+· visitOlivier Morin commented on Article for February: All forms of writing 4 days ago
+· comment (3)The Mint published Article for February: All forms of writing 4 days ago
+· visitVictoria Fomina published The True Self, Supernatural Agents, and the Problem of Evil 4 days ago
+· visitThomas Müller commented on Article for January: Iconicity and the Emergence of Combinatorial Structure in Language 4 days ago
+· comment (8)Samuel Veissière commented on The true self and the situation 5 days ago
+· comment (1)Ophelia Deroy published To be or not to be two? 5 days ago
+· visitPiers Kelly commented on Article for January: Iconicity and the Emergence of Combinatorial Structure in Language 5 days ago
+· comment (8)James Winters commented on Article for January: Iconicity and the Emergence of Combinatorial Structure in Language 6 days ago
+· comment (8)Simon Cullen published The true self and the situation 6 days ago
+· visitOlivier Morin commented on Article for January: Iconicity and the Emergence of Combinatorial Structure in Language 6 days ago
+· comment (8)Olivier Morin commented on Article for January: Iconicity and the Emergence of Combinatorial Structure in Language 6 days ago
+· comment (8)Nina Strohminger published Précis of "The True Self: A psychological concept distinct from the self" 1 week ago
+· visitThe ICCI Team published Post-doc offer in Cultural Evolution and Social Cognition 2 weeks ago
+· visitPiers Kelly commented on Article for January: Iconicity and the Emergence of Combinatorial Structure in Language 2 weeks ago
+· comment (8)Thomas Müller commented on Article for January: Iconicity and the Emergence of Combinatorial Structure in Language 4 weeks ago
+· comment (8)The Mint published Article for January: Iconicity and the Emergence of Combinatorial Structure in Language 1 month ago
+· visitThe ICCI Team published Assistant Professor position at the University of Neuchâtel 1 month ago
+· visitJean-Baptiste André commented on Article for December: Population size does not explain past changes in cultural complexity (?) 1 month ago
+· comment (5)Olivier Morin commented on Article for December: Population size does not explain past changes in cultural complexity (?) 1 month ago
+· comment (5)The ICCI Team published Call for papers: Beyond Meaning - Athens, Sept, 2017 2 months ago
+· visitHal Morris commented on Article for December: Population size does not explain past changes in cultural complexity (?) 2 months ago
+· comment (5)Piers Kelly commented on Article for December: Population size does not explain past changes in cultural complexity (?) 2 months ago
+· comment (5)Alberto Acerbi commented on Article for December: Population size does not explain past changes in cultural complexity (?) 2 months ago
+· comment (5)The ICCI Team published EHBEA 2017 Satellite Meeting on Cultural Evolution 2 months ago
+· visitThe Mint published Article for December: Population size does not explain past changes in cultural complexity (?) 2 months ago
+· visitJames Winters commented on Article for November: Probabilistic pragmatics 3 months ago
+· comment (4)Dan Sperber commented on Article for November: Probabilistic pragmatics 3 months ago
+· comment (4)Olivier Morin commented on Article for November: Probabilistic pragmatics 3 months ago
+· comment (4)Thomas Müller commented on Article for November: Probabilistic pragmatics 3 months ago
+· comment (4)Christophe Heintz commented on Does Prospect Theory explain Trump and Brexit votes? 3 months ago
+· comment (9)Christophe Heintz commented on Does Prospect Theory explain Trump and Brexit votes? 3 months ago
+· comment (9)Christophe Heintz commented on Does Prospect Theory explain Trump and Brexit votes? 3 months ago
+· comment (9)Brain molecule Marketing commented on The R-word: “Racism” across the political spectrum 3 months ago
+· comment (9)Brain molecule Marketing commented on Does Prospect Theory explain Trump and Brexit votes? 3 months ago
+· comment (9)Bill Benzon commented on Does Prospect Theory explain Trump and Brexit votes? 3 months ago
+· comment (9)Samuel Veissière commented on Does Prospect Theory explain Trump and Brexit votes? 3 months ago
+· comment (9)Christophe Heintz commented on Does Prospect Theory explain Trump and Brexit votes? 3 months ago
+· comment (9)Christophe Heintz commented on Does Prospect Theory explain Trump and Brexit votes? 3 months ago
+· comment (9)Bill Benzon commented on Does Prospect Theory explain Trump and Brexit votes? 3 months ago
+· comment (9)Christophe Heintz published Does Prospect Theory explain Trump and Brexit votes? 3 months ago
+· visitThe Mint published Article for November: Probabilistic pragmatics 3 months ago
+· visitChristophe Heintz commented on Why would Japanese spirits haunt toilets and ghosts hitchhike? [Halloween special] 3 months ago
+· comment (3)Alberto Acerbi commented on Cow-tipping, and the strange performativity of ‘scientific studies’ – and cultural transmission 4 months ago
+· comment (5)Helena commented on Why would Japanese spirits haunt toilets and ghosts hitchhike? [Halloween special] 4 months ago
+· comment (3)Helena commented on Cow-tipping, and the strange performativity of ‘scientific studies’ – and cultural transmission 4 months ago
+· comment (5)Dan Sperber commented on Why would Japanese spirits haunt toilets and ghosts hitchhike? [Halloween special] 4 months ago
+· comment (3)Helena published Why would Japanese spirits haunt toilets and ghosts hitchhike? [Halloween special] 4 months ago
+· visitAlberto Acerbi commented on Cow-tipping, and the strange performativity of ‘scientific studies’ – and cultural transmission 4 months ago
+· comment (5)Helena commented on Cow-tipping, and the strange performativity of ‘scientific studies’ – and cultural transmission 4 months ago
+· comment (5)Hugo Mercier commented on Cow-tipping, and the strange performativity of ‘scientific studies’ – and cultural transmission 4 months ago
+· comment (5)Helena published Cow-tipping, and the strange performativity of ‘scientific studies’ - and cultural transmission 4 months ago
+· visitOlivier Morin commented on Article for October: Pragmatic Choice in Conversation 4 months ago
+· comment (1)The Mint published Article for October: Pragmatic Choice in Conversation 4 months ago
+· visitThe ICCI Team published Symposium on Helming, Strickland, and Jacob, “Solving the puzzle about early belief-ascription” 4 months ago
+· visitJames Winters commented on Article for September: Image, Memory and Ritual: Re-viewing the Antecedents of Writing 4 months ago
+· comment (4)The ICCI Team published IX. Dubrovnik Conference on Cognitive Science 4 months ago
+· visitThomas Müller commented on Article for September: Image, Memory and Ritual: Re-viewing the Antecedents of Writing 4 months ago
+· comment (4)Piers Kelly commented on Article for September: Image, Memory and Ritual: Re-viewing the Antecedents of Writing 4 months ago
+· comment (4)Barbara Pavlek commented on Article for September: Image, Memory and Ritual: Re-viewing the Antecedents of Writing 4 months ago
+· comment (4)The ICCI Team published Lecturer position in Cognition and Culture at Durham University 5 months ago
+· visitThe Mint published Article for September: Image, Memory and Ritual: Re-viewing the Antecedents of Writing 5 months ago
+· visitMartin Stehberger commented on Exit Ghost? 6 months ago
+· comment (6)Richard Moore commented on Exit Ghost? 6 months ago
+· comment (6)Olivier Morin commented on Exit Ghost? 6 months ago
+· comment (6)Richard Moore commented on Exit Ghost? 6 months ago
+· comment (6)Richard Moore commented on Exit Ghost? 6 months ago
+· comment (6)Richard Moore commented on Exit Ghost? 6 months ago
+· comment (6)Olivier Morin published Exit Ghost? 6 months ago
+· visitPierre Jacob published Could preschoolers learn to reason deductively? 6 months ago
+· visitBrent Strickland commented on The R-word: “Racism” across the political spectrum 6 months ago
+· comment (9)Thom Scott-Phillips commented on The R-word: “Racism” across the political spectrum 6 months ago
+· comment (9)Brent Strickland commented on The R-word: “Racism” across the political spectrum 6 months ago
+· comment (9)Thom Scott-Phillips commented on The R-word: “Racism” across the political spectrum 6 months ago
+· comment (9)Brent Strickland commented on The R-word: “Racism” across the political spectrum 6 months ago
+· comment (9)Brent Strickland commented on The R-word: “Racism” across the political spectrum 6 months ago
+· comment (9)Francois commented on The R-word: “Racism” across the political spectrum 6 months ago
+· comment (9)Cathal O'Madagain commented on The R-word: “Racism” across the political spectrum 6 months ago
+· comment (9)Brent Strickland published The R-word: "Racism" across the political spectrum 6 months ago
+· visitClark Barrett commented on How not to combine ethnography and experiments in the study of moral judgment 9 months ago
+· comment (6)Dan Sperber commented on How not to combine ethnography and experiments in the study of moral judgment 9 months ago
+· comment (6)Thom Scott-Phillips commented on How not to combine ethnography and experiments in the study of moral judgment 9 months ago
+· comment (6)Dan Sperber commented on How not to combine ethnography and experiments in the study of moral judgment 9 months ago
+· comment (6)Thom Scott-Phillips commented on How not to combine ethnography and experiments in the study of moral judgment 9 months ago
+· comment (6)Clark Barrett commented on How not to combine ethnography and experiments in the study of moral judgment 9 months ago
+· comment (6)Dan Sperber commented on Cultural variation in the mitigation of moral judgments 9 months ago
+· comment (1)Clark Barrett commented on Angles of Approach 11 months ago
+· comment (3)Tadeg Quillien commented on Angles of Approach 11 months ago
+· comment (3)Daniel Burnston commented on Angles of Approach 11 months ago
+· comment (3)
+Content on this site is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+CONTACT
+2016 © cognitionandculture.net

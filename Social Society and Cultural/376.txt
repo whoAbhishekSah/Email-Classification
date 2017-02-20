@@ -1,0 +1,7 @@
+Sequence webserver
+Sequence Hostmaster Team
+E: hostmaster@sequence.co.uk
+M: Sequence, 2nd Floor, GloWorks, Porth Teigr, CF10 4GA
+T: +44 (0)29 20252555
+F: +44 (0)29 20252444
+W: www.sequence.co.uk

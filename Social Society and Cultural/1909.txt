@@ -1,0 +1,47 @@
+Welcome to the Ndiyo project! | Ndiyo
+Skip to Navigation
+Ndiyo
+Please note - Ndiyo has now officially closed its doors, at least as a legal entity - but we've kept the site alive in case any of the information is useful to others.
+Our thanks to all those who helped out and were involved in so many different ways!
+The Ndiyo legacy lives on in the ultra-thin-client work at its spin-off DisplayLink, at Plugable, at NoPC and elsewhere...
+Welcome to the Ndiyo project!
+Towards affordable, sustainable IT for the world... Ndiyo! is a project set up to foster an approach to networked computing that is simple, affordable, open, less environmentally damaging and less dependent on intensive technical support than current networking technology.Ndiyo, pronounced 'nn-dee-yo', is the Swahili word for "yes".Please click on the sections on the left which will give you a good background to the project.
+If you're busy, here's the Elevator Pitch! Any recent news can be found on the right. Stay in touch There are a couple of ways you can keep up-to-date with what's happening at Ndiyo:
+Check out the news on the right of the page.
+It has its own RSS feed as well, if you'd like to subscribe to it. To be kept informed about significant developments, please join our email announcements list. We keep the traffic on this list very low.
+If you would like any further information (after reading the FAQ!), please don't hestitate to contact us on yes_info @
+ndiyo.org
+Home
+Intro
+Ndiyo System
+FAQ
+Availability
+News
+Contact
+Login
+Search this site:
+Menu
+Home
+Intro
+Ndiyo System
+FAQ
+Availability
+News
+Contact
+Login
+DisplayLink, HP & Microsoft do Hubster
+3 Dec 09
+DisplayLink's graphics systems, HP's USB hardware and Microsoft's Windows Multipoint Server combine to give the latest incarnation of the Hubster concept.
+DisplayLink grew out of the original Ndiyo thin-client work, so it's great to see the company returning to its roots!
+For more information, see the DisplayLink site.
+Plug and Play Multiseat
+28 Oct 09
+Bernie Thompson has been creating Hubster-type systems, and gave a talk about it at the Linux Plumbers Conference 2009.
+Open Source Hubster is now in reach
+5 Aug 09
+Just over two years ago, we described and did our first demonstrations of what became known as 'Hubster' - a terminal based on a USB hub.
+By simply plugging in USB peripherals you can turn a single-user machine into a multi-user machine.
+New lower pricing for the Ndiyo Starter Kit
+8 Feb 09
+Slowly but surely we're moving towards our goal of making Ndiyo systems the most affordable way to provide IT access!
+more

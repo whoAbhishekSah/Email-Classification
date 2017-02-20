@@ -1,0 +1,6 @@
+403 Forbidden
+403 Forbidden
+Access is forbidden to the requested page:
+www.endhomelessness.org.uk/ (port 80)
+Please forward this error screen to www.endhomelessness.org.uk's
+WebMaster.
