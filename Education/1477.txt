@@ -1,0 +1,43 @@
+The E-Learning Framework - Welcome to the E-Learning Framework Site
+This material is archived. It is no longer updated or maintained. It may be out of date and not function as intended. Current information can be found at www.cetis.ac.uk
+Skip to content.
+The E-Learning Framework
+Sections
+Home
+Framework
+projects
+Papers
+recent
+Personal tools
+You are not logged in
+Log in
+Join
+You are here:
+Home
+Welcome to the E-Learning Framework Site
+The ELF is an international effort to develop a service-orientated approach to the development and integration of computer systems in the sphere of learning, research and education administration. It has now been subsumed into the wider e-framework initiative, which encompasses Information Technology, Research, Library, Administration in addition to Learning & Teaching.
+Partners
+more about the ELF and its partners...
+Project Directory
+A wide range of software components which implement services within the e-Learning framework can be found in the ELF Project Directory
+ELF Reference Models
+A number of projects are producing reference models which look at the framework from application specific points of view: ELF Reference Models
+e-Learning Focus
+For more on how the ELF and the development projects fit into the JISC e-Learning programme see e-Learning Focus
+Sample User Agents
+Learning Domain Services
+Common Services
+View the whole framework
+News
+Events
+The e-Framework and the ELF
+JISC and DEST alongside other international partners are broadening the service-oriented approach into services for Research and Administration to compliment e-Learning.
+TALL study in ELF Project Directory
+Oxford University's Technology Assisted Lifelong Learning Unit developed a study of e-Learning systems and their relevance to the ELF. The report, is now available as part of the ELF Project Directory. To view the project go to: www.elframework.org/projects/tall/
+WS-Reliable Messaging initiative to go to OASIS
+With a call for participation, the first step has been taken for the widely used WS Reliable Messaging (WS-RM) spec to be developed further in OASIS (Organization for the Advancement of Structured Information Standards). WS-RM has been developed so far by Microsoft, IBM and others, but not their main competitors, and also not as an open standard. Moving it to the OASIS non-profit standards organisation could change that.
+IMS Release General Webservices
+IMS have released the public draft of their new General Web Sevices specification. The spec uses a profile of WS-I but narrows things down further in terms of messaging and error handling.
+No upcoming events.
+This site is Copyright © 2004-2012
+[Website credits]   [About the ELF]

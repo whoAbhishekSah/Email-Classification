@@ -1,0 +1,20 @@
+SWANI
+SWANISearch this site
+SWANI Project Home PageProject ManagementWork Based LearningDigital SignaturesResearch DocumentsDigital Signature Testingfastdox testingSignature Enabled FormsCommunicationsProject BlogProject Chat RoomProject DeliverablesWorkpackage 1Workpackage 2Workpackage 3Workpackage 4Workpackage 5Sitemap
+SWANI Project Home Page
+Welcome to the Website of the JISC-funded SWANI Project
+The SWANI Project has now concluded its work and all the outcomes are available on this site. The aim of the SWANI* project was to create a fully online work-based learning management and learner support system that met the audit requirements of the EU and the Welsh Assembly Government. It also aimed to deliver a system that was significantly more time-efficient and cost-effective to deliver than the existing paper-based system.
+The specific objectives of the SWANI project were to:
+Create a fully online management, administrative and learner support system for work-based learners;
+Implement a digital signature system that satisfies the audit requirements of the EU and the Welsh Assembly Government;
+Carry out a trial of the online system to evaluate and quantify the benefits
+The key outcomes of the SWANI project were:
+A fully digitised, online, work-based learning administrative and management system based on open source and web 2.0 applications;
+A digital signature system that is acceptable for audit purposes by the European Commission and the Welsh Assembly Government.
+It is envisaged that the new online system will be of value to all institutions delivering work-based learning, particularly where an audit trail of learner achievement that triggers funding is involved.
+This website provides access to all the working documents for the SWANI project, and allows downloads of all the key project deliverables that are of interest to the JISC community.
+*The acronym SWANI stands for Secure Work-based learning Administration through Networked Infrastructure.
+Subpages (2):
+Digital Signatures
+Project Management
+Sign in|Recent Site Activity|Report Abuse|Print Page|Powered By Google Sites

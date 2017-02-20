@@ -1,0 +1,57 @@
+Home : PIRUS2
+Jump to Content
+User:Password:
+Home
+Contact us
+Sidebar
+Search
+in:
+Entire Site
+Wiki Pages
+Files
+Articles
+FAQs
+Browse
+About
+Project Plan & Progress
+News & Activities
+Links
+Funded by
+Funding programme: Information Environment Programme 2009-11
+PIRUS2
+October 2011 - update
+The PIRUS2 Project has been successfully completed. Download the
+PIRUS2 Final Report.
+As part of the exit stategy, the team is currently working on a formal COUNTER PIRUS Code of Practice.
+Process and timetable for development
+Task 1: Nov/Dec 2011: draft PIRUS Code of Practice document
+Task 2: Jan/Feb 2012: feedback on draft Code from PIRUS2 Project Team and from COUNTER Executive; modify in light of comments
+Task 3: March 2012: publish draft Code on COUNTER website for comments
+PIRUS2, sponsored by JISC (the United Kingdom Joint Information Systems Committee) built on the outcomes and recommendations of the original PIRUS (Publisher and Institutional Repository Usage Statistics) project, also funded by JISC, which was completed in January 2009. The full report of the original PIRUS project may be found at: http://tinyurl.com/PIRUSreport1
+The original PIRUS project demonstrated that it is technically feasible to create, record and consolidate usage statistics for individual articles using data from repositories and publishers, despite the diversity of organizational and technical environments in which they operate. If this is to be translated into a new, implementable COUNTER standard and protocol, further research and development will be required, specifically in the following areas:
+Technical: further tests, with a wider range of repositories and a larger volume of data, will be required to ensure that the proposed protocols and tracker codes are scalable/extensible and work in the major repository environments.
+Organizational: the nature and mission of the central clearing house/houses proposed in the original project has to be developed, and candidate organizations identified and tested
+Economic: we need to assess the costs for repositories and publishers of generating the required usage reports, as well as the costs of any central clearing house/houses; investigate how these costs could be allocated between stakeholders
+Advocacy: the broad support of all the major stakeholder groups (repositories, publishers, authors) will be required. Intellectual property, privacy and financial issues will have to be addressed
+The objective of PIRUS2 was to address these issues and by doing so specify standards, protocols, an infrastructure and an economic model for the recording, reporting and consolidation of online usage of individual articles hosted by repositories, publishers and other entities.
+Created by: admin.
+Last Modification: Monday 21 of November, 2011 10:02:10 UTC by admin.
+1 File Attached(Hide)
+List of attached files
+id
+Name
+desc
+uploaded
+Size
+Downloads
+1
+170
+PIRUS2FinalReport.pdf
+PIRUS2 Final Report
+Mon 21 of Nov., 2011 09:53 UTC by admin
+3.80 Mb
+4767
+Copyright © Cranfield University 2009
+Powered by TikiWiki CMS/Groupware
+v2.4
+-Arcturus-

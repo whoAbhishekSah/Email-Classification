@@ -1,0 +1,101 @@
+Steve Boneham's Blog
+Steve Boneham's blog
+Helping people learn to use technology in education
+Menu
+Close
+Home
+About
+Portfolio
+Home
+About
+Portfolio
+Nov 28, 2014
+/ Training
+Farewell Jisc, goodbye Netskills and hello Newcastle.
+For the last 14 years, almost to the day, I’ve worked at Netskills, helping people understand how to use technology in education. On Monday though, I start a new job helping Newcastle University make our research open access. This post is part announcement mixed with a bit of reminiscence before I move on and start to think (and blog) about new things.
+Read more...
+Aug 6, 2014
+/ Events
+Digital is more than just the web – lessons from IWMW14
+Last month, IWMW14 came to town. Our town. At our invitation. So we worked hard to make it an event worthy of a place we love. With our conference team taking care of the organisation, I was able to sit in on the sessions, so I thought I should blog about them here.
+Read more...
+May 16, 2014
+/ HowTo
+Better event streaming with Hangouts on Air
+Google Hangouts on Air offers an easy way to stream live events. The difficult part is setting up multiple sources for audio and video capture to ensure a good viewer experience. That’s something I got chance to experiment with recently.
+Read more...
+Mar 17, 2014
+/ Events
+Visitors and Residents at the Jisc Digital Festival
+I was at the Jisc Digital Festival last week to help run a workshop based around the new Visitors and Residents resources we’ve developed with Dave White of the University of Oxford. If you missed that, you can find out all about them here.
+Read more...
+Nov 25, 2013
+/ Augmented Reality
+Google Glass Guinea Pigs – volunteering as research participants
+It didn’t take much to persuade m eto sign up as participants in a research study that gives them the change to try out Google Glass. In this post, I explain why I was keen to volunteer and try to justify that it wasn’t just about being paid for eating!
+Read more...
+Nov 8, 2013
+/ Events
+Helping Newcastle University become more digitally literate
+The Newcastle University event “Go Digital – Thriving in a Digital World” was all about showcasing the breadth of the digital stuff people do across campus, sharing ideas and inspiring each other. Most of the Netskills team was there and actively involved in what proved to be an enjoyable and worthwhile event.
+Read more...
+Oct 11, 2013
+/ WordPress
+Research websites – one size doesn’t fit all
+Helping researchers tell others about their research is an important part of our remit. Sometimes that’s by helping them create digital stories, sometimes through better use of social media and sometimes through a good old fashioned website. As it was in this case where I built a multilingual WordPress site for a research network spanning many institutions and countries.
+Read more...
+Oct 2, 2013
+/ Internet of Things
+Home Automation – DIY 2.0
+Automation of homes to control lighting, heating and appliances promises convenience and energy efficiency. In this post, I learned more about the practicalities from the experiments of an early adopter at a recent SuperMondays meetup.
+Read more...
+May 3, 2013
+/ WordPress
+Get started with WordPress
+We just added some of the training resources we use to support our WordPress training to Share, our content repository, for you to take, use and remix for free. These materials will help you understand the potential of WordPress and how to get started with running your own installation.
+Read more...
+Apr 22, 2013
+/ Training
+According to Plan – a tool to help you plan and run events in Collaborate
+Blackboard Collaborate Plan lets you create a structured session plan in advance of a live event in Collaborate. This will save you time uploading content and configuring the system so that you can spend it helping people learn. Here Steve describes how Plan works and how we use it to make our online workshops run more smoothly.
+Read more...
+« Older posts
+Steve Boneham’s Blog
+Helping people learn to use technology in education.
+Learn more...
+License
+Latest Posts
+Farewell Jisc, goodbye Netskills and hello Newcastle.
+Nov 28, 2014
+Digital is more than just the web – lessons from IWMW14
+Aug 6, 2014
+Better event streaming with Hangouts on Air
+May 16, 2014
+Visitors and Residents at the Jisc Digital Festival
+Mar 17, 2014
+Google Glass Guinea Pigs – volunteering as research participants
+Nov 25, 2013
+Categories
+Augmented Reality
+Digital Storytelling
+Events
+HowTo
+Internet of Things
+Mobile
+Podcasting
+Social media
+Training
+Web design
+weeknote
+WordPress
+Twitter
+LinkedIn
+YouTube
+Google+
+Flickr
+Netskills Voices
+Home
+About
+Portfolio
+© 2017 Steve Boneham's blog. CC BY
+Theme by Anders Norén.

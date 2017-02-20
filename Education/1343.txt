@@ -1,0 +1,172 @@
+JISC | Archive of TwapperKeeper Blog
+Archive of TwapperKeeper Blog
+Archive of grant engagement with JISC / UKOLN
+Archive for the ‘JISC’ Category
+« Older Entries
+TwapperKeeper – The Final Days.
+Thanks for your support.
+January 5, 2012
+First, I want to apologize to everyone out there for not keeping this blog current especially as announcements were publicized in September 2011 regarding the Hootsuite acquisition of TwapperKeeper.com.
+Things have been a little crazy following the announcement – though I realize that isn’t a good excuse.  Sorry!
+As many of you are aware, on January 6, 2012 (tomorrow) the TwapperKeeper.com site will finally shutdown and the primary archiving features will be available via the Hootsuite Pro platform.
+I want to thank everyone who has been involved with TwapperKeeper over the years, as it evolved from a weekend science project in 2009, to a grant funded effort in 2010, to a freemium service in early 2011, and finally to acquisition late 2011.
+It has been a roller coaster ride of highs (grant engagement with JISC and the release of the open source yourTwapperKeeper) and lows (the Twitter ToS violations regarding exports proved to be tons of fun, and scaling challenges were a constant battle) – but more importantly a learning experience that I plan to carry forward in new projects.
+I also want to personally thank Brian Kelly and the whole JISC / UK HE community for all your support over the years.   It has been a fun and challenging  – and my hope, value to the HE / archiving community.
+Now onto to new and other exciting projects in 2012!
+@jobrieniii
+Posted in JISC |
+1 Comment »
+6 months later – and we are a very different TwapperKeeper
+October 13, 2010
+In this blog post, I want to take a few moments and share some of the highlights of our partnership with JISC and UKOLN and set the stage for where we are going in the future.
+First, it is hard to believe that it was only 8 months ago that I attended dev8D and met with David Flanders (JISC) and Brian Kelly (UKOLN) to discuss a potential partnership – as I feel like they have been helping guide TwapperKeeper from the very beginning.
+During that event we laid the plans for a JISC / UKOLN partnership and drafted a ~6 month schedule that focused on 1) stabilization, 2) capability evolution, and 3) sustainability / openness of the platform.
+Ironically we released the news about the partnership on April 16, 2010 – which happened to be the same week of Twitter’s Chirp conference in which they announced that the Library of Congress (LoC) and Google would have archives available.
+Initially this looked like a potential setback to the partnership, but after discussions we felt it was important to continue to press on since there was still a desire for crowd sourced tweet archiving and the fact that capabilities and access to the LoC and Google archives were unclear.  (And even as of today seems unclear.)
+Stabilization
+After announcing the partnership in April, my initial focus was on stabilizing the platform.  I had just released Version 2 of the platform a month earlier which increased the archiving capabilities from  #hashtags to also include keywords and @person timelines – and we were growing like crazy.
+To get a sense of the growth during that period, from March to April the volume of tweets on file doubled from 50 million to 100 million.
+Plans to implement a larger VM was set into motion and an additional VM was procured to act as a hot backup.  All was good for a short period of time.
+Unfortunately, the volume of tweets continued to grow and the increasingly growing load on the host’s “shared” VMs was becoming a point of contention between the host and I, resulting in back end archiving processes being shutdown on occasion.
+I’ll be honest, my plans to use VMs quickly became foolish – and over the last 6 months I have been in a ongoing battle with growth, new servers, tuning, and infrastructure changes.
+As a result TwapperKeeper has made many infrastructure changes including:  migrating from a small VM to a larger VM, migrating to a a single dedicated box, and migrating to it’s current state of two dedicated boxes (with a 3rd one just around the corner).
+And while this was a struggle which included many sleepless nights, I am happy to announce that now the application’s architecture has been refactored to take advantage of the multiple servers.  We can now grow horizontally across N-number of database servers which is increasingly important to support the ever growing number of archives.
+Capability / Evolution
+Following the partnership announcement, Brian began to solicit feedback from the Higher Education (HE) community to gain input to evolving the capability of the TwapperKeeper platform.
+Enhancement requests predominantly centered around improving / standardizing the API / RSS endpoints to allow 3rd party application developers (such as Andy Powell’s Eduserv Summarizr and Martin Hawksey’s iTitle) to tap the TwapperKeeper archives and increasing the ability for end users to filter and view tweets archives and group archives together into collections.
+Enhancements were rolled into production in an on-going manner during the last 6 months and continue be tweaked when issues / bug-fixes are raised by the HE community.
+One request that caught us all off guard was around privacy – where users were concerned about their public tweets being archived.
+The discussion that followed on user privacy rights resulted in two important enhancements being implemented including: 1) restricting @person public timeline archiving to only the person who owns the timeline and  2) allowing for users to opt’out of archiving.
+The findings from this discussion were also presented at iPres 2010 in the paper Twitter Archiving Using Twapper Keeper: Technical and Policy Challenges.
+Sustainability / Openness
+During our initial partnership discussions, David, Brian, and I talked about open sourcing part of the platform.  Initially I was hesitant and committed to at a minimum outlining the strategy of how TwapperKeeper was archiving tweets (which includes a hybrid approach of crawling and tweet stream ingestion / processing).
+As the 6 month period continued, I came to the realization that the TwapperKeeper.com service cannot be the only archiving platform, especially in special cases where people want quicker archiving times / etc – and I knew the right direction was releasing the code.
+Therefore, I took the best pieces of TwapperKeeper and rewrote them from the ground-up into a simple self managed web application.
+The yourTwapperKeeper and the code was released on August 25, 2010 and to date we have had over 100 people download the application.
+As a result of the release, we caught the attention of Ross Gardler at OSS Watch who had some important advice on how best to license and manage the project to facilitate traction and growth.   We are now working with his team to ensure we have all of the appropriate licensing and governance models – so that yourTwapperKeeper can grow and continue to be used by the HE community in other projects.
+Where do we go from here?
+The huge growth over the last 6 months means we now have grown from 150 MILLION to 1+ BILLION tweets on file.  The server infrastructure is becoming increasingly more complex and costly.  We have to constantly battle and tune around Twitter API rate limits to try to get tweets requested by users.  Frankly, the 24/7 maintenance and operations / support is really too much for one person.
+So with that said, how do we keep the primary TwapperKeeper.com service sustainable?
+I know this has been a concern of JISC and UKOLN leadership from the beginning – and is also important now as the partersnhip winds down.
+It concerns me as well – and means we have to start to monetize.
+Whilst the service will continue to be free to the HE sector, new paid for services will begin be rolled out to others.
+Premium services being considered include 1) sponsored archives that will have priority archiving processes and increased reach back capability,  2) charging a small fee for exports, and 3) possibly charging for access API endpoints.
+Thanks
+In closing I want to once again thank David, Brian, and all of the HE community that participated in input, testing, bug fixing, etc.
+As a team we have taken TwapperKeeper.com and social media archiving a step forward and have set the foundation for the future growth of the service, both in TwapperKeeper.com and yourTwapperKeeper – and without your help this would not have been possible.
+– John
+Posted in JISC |
+1 Comment »
+1 BILLION Tweets Archived!
+October 8, 2010
+Back in June 2009 when I started TwapperKeeper as a fun weekend hack, I had no idea 16 mos later I would still be running the site.
+Heck, I was just having some fun with the Twitter API while my family was out of town.
+However, the last 16 months has been crazy.  User demand for raw Twitter data sets has continued to increase.  Major world events were captured, exported, and analyzed.  Small businesses, major brands, market researchers, conference leaders, and academia continued to ask for more data.   And the data sets continued to grow…
+And as of this morning I am proud to announce that TwapperKeeper  has passed the  1 BILLION TWEET milestone!
+All I can say is WOW!
+I want to thank our users for your continued support, praise, suggestions, and thanks – as your feedback helps drive us to be better.
+I also want to sincerely thank JISC and UKOLN for stepping in and partnering with TwapperKeeper to help drive growth, enhancement, and sustainability of the platform.  Their support came at a critical time and has been instrumental in our ability to support the heavy growth in users and archives over the last 6 months!
+So now the question is… when do we hit 10 BILLION? 🙂
+Posted in JISC |
+1 Comment »
+Should TwapperKeeper request READ / WRITE access?
+October 7, 2010
+Recently members of the UK HE community asked “why TwapperKeeper was requesting READ / WRITE access when trying to opt out of being archived?”
+Recognizing that many people are concerned with 3rd party web applications having having WRITE access to their Twitter accounts, we paused to think a little about our implementation of OAuth – and why we were asking for READ / WRITE vs. simply READ.
+Stepping back in history, early users of TwapperKeeper may remember that originally we did not require logins to create archives.  This was done to allow for a frictionless way of creating archives, and minimized the need to create an account management solution or try to validate users with basic auth (pre-OAuth days).  It simply wasn’t important to know who the user was.
+However, as we began to roll-out new features in partnership with JISC and UKOLN, it became more and more important to identify the user (for example, to confirm who was creating an @person archive, to confirm who is requesting to opt out of archiving, etc).
+That led us to implementing an application wide OAuth login for the user – which we just happened to set to a READ / WRITE request.
+However, upon review of current features, we are technically only using OAuth to identify the user (i.e. get your screen_name) – and really  never use the OAuth tokens to READ or WRITE anything on behalf of the user (honestly, we don’t even store the tokens, because we really don’t need them at this time).
+Therefore, we have decided to go ahead and reduce the permission to READ at this time.  (The lowest level.)
+In the future, this decision may need to be revisited as additional features are added that require WRITE access (i.e. for instance the cool features of Twitter @anywhere require READ / WRITE to be turned on) – but it is best to keep the permission at the lowest level required for operations at this time.
+Posted in JISC |
+Comments Off on Should TwapperKeeper request READ / WRITE access?
+Announcing yourTwapperKeeper – archive your own tweets on your own server!
+August 25, 2010
+As part of our partnership with JISC, we are now releasing an open version of TwapperKeeper that is designed to run on your own server.
+This will give users the power of archiving tweets using the same power of TwapperKeeper but on their own server.  It also provides many of the similar output features of TwapperKeeper including HTML, EXCEL, RSS, and JSON.
+We are also planning to host yourTwapperKeeper for customers if they want their own environment (yes, even TwapperKeeper needs to make some revenue at some point!)
+Finally, if you are a hacker, pick up the code, change, branch, and run with it!
+Posted in JISC |
+6 Comments »
+New API to extract tweets from archives
+August 5, 2010
+Many people have contacted us about the limitation of the /notebook/tweets API because of the requirement to use start / end timestamps to extract portions of an archive and the 10,000 tweet limit per call – forcing people to write some creative hacks to ensure they don’t miss anything.
+We have just released a Version 2 of the /notebook/tweets API that now allows for easy pagination through the archive as well as opens the API to accept many other parameters to further slice / dice the data.
+We have also worked to ensure parameters align with the Twitter search API where possible.
+Try it out and let us know if you have any issues!  (And if you need an API Key just let us know!)
+tweets within notebook – VERSION 2
+http://api.twapperkeeper.com/2/notebook/tweets/?apikey=xxxx&name=xxxxx&type=xxxx%5B&optional parameters]
+GET arguments
+apikey [required]
+type (hashtag, keyword, person, collection, person-collection) [required]
+name [required]
+lang [optional – ISO-639-1 2 letter code included in tweet metadata]
+max_id [optional – maximum twitter id]
+since_id [optional – minimum twitter id]
+since [optional – start date – format = YY-MM-DD]
+until [optional – end date – format = YY-MM-DD]
+order_by [optional – a = ascending, d = descending (default)]
+nort [optional set to 1 to remove all tweets starting with RT, default = 0]
+text [optional – tweet text to search for]
+from_user [optional – twitter username of sender]
+latitude | longitude | radius [optional – must include each parameters individually – radius in km]
+rpp = results per page [optional – but default set to 10, max allowed = 1000]
+page [optional – default = 1]
+example w/ Version 2 – page 1 of tweets (results per page = 10) within #jisc hashtag from 2010-01-01 to 201 0-06-01 within a 1000 km radius of lat = 51, long = 0 with language = en
+http://api.twapperkeeper.com/2/notebook/tweets/?apikey=xxxx&name=jisc&type=hashtag&start=2010-01-01&end=2010-06-1&lat=51&long=0&rad=1000&rpp=10&page=1
+(This enhancement aligns with enhancement API-2 and API-4 outlined in the post Plans for Updates to Twapper Keeper Functionality and APIs.)
+Posted in JISC |
+Comments Off on New API to extract tweets from archives
+More RSS options added to all archive types
+July 30, 2010
+As of today, all archives (person, keywords, hashtags, and collections) now have an RSS feed available.
+In addition, the RSS feeds are also now auto-discoverable and include all of the “search / filter” parameters that have been selected on the archive page giving you more options on using the RSS feeds for integration with other 3rd party services.
+(This enhancement aligns with enhancement API-1 outlined in the post Plans for Updates to Twapper Keeper Functionality and APIs.)
+Posted in JISC |
+Comments Off on More RSS options added to all archive types
+Feed of archives as they are created
+July 28, 2010
+A new ATOM feed has been added to Twapper Keeper to allow you to track new archives as they are created.
+This feed can be subscribed to from the main page and should be auto discoverable by your browser.  As we address other enhancements that touch feeds we will be making them auto discoverable on given pages as well.
+(This enhancement aligns with enhancement API-3 outlined in the post Plans for Updates to Twapper Keeper Functionality and APIs.)
+Posted in JISC |
+Comments Off on Feed of archives as they are created
+Opt’ing Out of Twapper Keeper Archiving
+July 22, 2010
+We often get requests from users about whether they can keep their tweets from being archived at Twapper Keeper.  With a goal of allowing you, the user, to have a choice, we are beginning to roll out a way to opt out of Twapper Keeper archiving.
+If you are interested in not having your tweets archived, please head over to http://twapperkeeper.com/optout.php and accept the form.  If any questions, send us an email at support@twapperkeeper.com.
+(This enhancement aligns with enhancement UI-3 outlined in the post Plans for Updates to Twapper Keeper Functionality and APIs.  We will add the opt’out link to the main site shortly after we have processed our initial set of user requests.)
+Posted in JISC |
+3 Comments »
+Now you can merge your archives together into a collection!
+July 16, 2010
+A new feature has now went live that will allow you to merge multiple archives (up to 5) together into a single collection!
+Why would you want to do this:  How about when multiple hashtags are used for a conference?  Or maybe you are doing market analysis on a company but want to aggregate multiple keywords that represent the company?  Or maybe you want to view a list of person archives in a single view?
+Let us know if you see any issues.
+(This enhancement aligns with enhancement UI-5 outlined in the post Plans for Updates to Twapper Keeper Functionality and APIs)
+NOTE:  Will also made some minor updates to the APIs and API docs (http://twapperkeeper.com/api.php) that will allow you to query, view, and create collections.  The documentation is a little “rough” right now and will be updated when we do the planned API enhancements, so if there are any questions let us know!
+Posted in JISC |
+2 Comments »
+« Older Entries
+Search:
+You are currently browsing the archives for the JISC category.
+PagesAbout
+Archives
+January 2012
+April 2011
+March 2011
+February 2011
+October 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+Categories JISC (28)
+Uncategorized (33)
+Blog at WordPress.com.
+Entries (RSS) and Comments (RSS).
+Post to
+Cancel

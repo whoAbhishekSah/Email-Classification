@@ -1,0 +1,14 @@
+Leeds Met -
+SOAPOpera
+Welcome
+BackgroundAims and ObjectivesProject OutcomesProject TeamProject OutputsContactRelated Projects and ResourcesGlossary
+Welcome
+SOAPOpera Project 1
+Follwing a bid in June 2009, Leeds Met has secured funding from JISC (Joint Information Systems Committee) to gain the knowledge and tools required to implement a Flexible Service Delivery strategy. An FSD is a process-led business environment in which institutional requirements lead IT service development and delivery.
+There are three levels of membership to the JISC Strategic Technologies Group which runs the FSD programme and Leeds Met is a Pathfinder member of the group, which is the mid level, aimed at delivering a project that enables the system owners of academic facing services to evaluate the cost, risk and impact of improving their service delivery mechanisms for their current portfolio of student services, as well as for future service provisions. The project is currently funded until March 2011. More information on Flexible Service Delivery and the Programme can be found on the JISC FSD Wiki.
+SOAPOpera Project 2
+In July 2010, Leeds Met secured further funding from JISC (Joint Information Systems Committee) to develop a second stage of the project.
+The SOAP Opera 2 project will build on the work that the existing SOAP Opera project team has carried out from July 2009 to date, which has led to an understanding of how, following a comprehensive appraisal, the current academic-facing systems might be remodelled. This remodelling will employ a service oriented approach, to decrease duplication of functionality and improve the end-user experience.
+In addition, a financial and environmental impact assessment of the remodelling will be undertaken. The catalyst for this re-modelling will be the introduction of new Portal and VLE platforms over the coming 18 months.
+Latest Blog Posts
+© Leeds Metropolitan University  | Disclaimer | Contact

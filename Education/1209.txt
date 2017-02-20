@@ -1,0 +1,47 @@
+SageCite
+Skip to content
+SageCite
+Citing network models of disease and associated data.
+Home
+About
+Blog
+Demo
+The Application Domain
+Publisher Interviews
+Dissemination
+Deliverables
+Related Resources
+About
+SageCite will develop and test a Citation Framework linking data, methods and publications. The domain of bio-informatics provides a case study, and the project builds on existing infrastructure and tools: myExperiment and the Sage Commons. Citations of complex network models of disease and associated data will be embedded in leading publications, exploring issues around the citation of data including the compound nature of datasets, description standards and identifiers. The project has international links with the Concept Web Alliance and Bio2RDF. The partners are UKOLN, the University of Manchester and the British Library (representing DataCite), with contributions from Nature Genetics and PLOS. The project is funded by JISC through the Managing Research Data programme.
+The project will work through a number of workpackages comprising:
+* Review and evaluation of options and approaches for data citation
+* Understanding the requirements for citing large-scale network models of disease and compound research obejcts
+* Demonstration of a citation-enabled workflow using a linked data approach
+* Benefits mapping using the KRDS2 taxonomy
+* Technical and policy implications of citation by leading publishers
+* Dissemination across communities (bio-informatics and research and information communities)
+The project was funded between August 2010 and July 2011.  The team members were Liz Lyon and Monica Duke at UKOLN, Carole Goble and Peter Li at the University of Manchester, Max Wilkinson and Tom Pollard at the British Library.  Our contact and main contributor at PLoS Computational Biology was editor Phil Bourne, and at Nature Genetics, editor Myles Axton.
+Project Proposal
+Recent Articles
+Signing Off
+EU Riding the wave report
+Report on data sharing
+Motivating the release of government data
+Requirements for Data Citation: The Prequel
+Requirements for Data Citation re-visited
+The KRDS Benefits Evaluation Toolkit
+Workflows from Sage Bionetworks.
+Data Citation Principles, Harvard.
+SageCite presentation at the Sage Bionetworks Congress
+Blogroll
+DataONE interns' blog
+JISC MRD Programme
+Sage News Forum
+Science Online London Blog
+Significant Science
+Admin
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+In collaboration with

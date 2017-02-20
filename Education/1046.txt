@@ -1,0 +1,30 @@
+Principles In Patterns > Welcome
+PiP: Principles in Patterns
+Welcome
+News
+Resources
+About
+REAP
+Login |
+Latest Blog Posts
+Principles in Patterns: updated Institutional Story and more... 05/2013
+Revisiting user acceptance… or resistance? Insights from tech-supported curriculum design 04/2013
+The institutional embedding of C-CAP: where are we now? 04/2013
+Lean Six Sigma for higher education institutions: paper published 11/2012
+Understanding the social system when embedding tech-supported curriculum design and approval 10/2012
+PiP presenting at IADIS WWW/Internet 2012: An incremental approach to technology-supported curriculum design and approval 10/2012
+PiP outputs and resources now available 08/2012
+Thin end of the wedge: system resistance and its implications for C-CAP 07/2012
+Academic quality: at the centre of the curriculum approval universe 07/2012
+Process as myth: understanding the mythic core of organisational process with ideal types 05/2012
+Project Overview
+Principles in Patterns (PiP) was a £1 million project partly funded by JISC under its Institutional Approaches to Curriculum Design Programme between 2008 and 2012.  The project was led jointly by the Development and Innovation Unit of the Information Services Directorate and the Centre for Academic Practice and Learning Enhancement (CAPLE) at the University of Strathclyde in Glasgow.  PiP developed and continues to develop a new technology-supported approach to curriculum design, approval and review at the University of Strathclyde.
+The aims of the project were to:
+(i)     develop and test a prototype on-line expert system and linked set of educational resources that, if adopted, would:
+·           improve the efficiency of course and class approval processes at the University of Strathclyde
+·           help stimulate reflection about the educational design of classes and courses and about the student experiences they would promote
+·           support the alignment of course and class provision with institutional policies and strategies
+(ii)   use the findings from (i) to share lessons learned and to produce a set of recommendations to the University of Strathclyde and to the HE sector about ways of improving class and course approval processes.
+PiP produced a number of outputs and outcomes, the principal technical output being the C-CAP system.  This system is now being further developed and maintained by the University of Strathclyde.  A brief video providing an introduction to the C-CAP is available below.  Further background information on PiP and its achievements can be gleaned from PiP's "Institutional Story".
+PiP YouTube Channel
+University of Strathclyde © | Terms of Use and Cookies

@@ -1,0 +1,140 @@
+Icodeon Labs | Document Style Web Services for e-Learning
+Search
+Home
+Product
+News
+Support
+Contact
+Icodeon Labs
+Document Style Web Services for e-Learning
+Briefings
+Which style of WSDL should I use?
+Read...
+Reap the benefits of document style Web services.
+Read...
+Applying Design Issues and Patterns in Web Services.
+Read...
+Create web services using Apache AXIS and Castor.
+Read...
+Creating Web Services with Apache Axis.
+Read...
+Performance Testing of Web Services.
+Read...
+Web Services Interoperability Basic Profile.
+Read...
+Content Object Communication Data Model.
+Read...
+Document Style Web Services in e-Learning
+Web services is the name for a technology that enables computer programs to exchange
+messages.
+Web services provide a common language for message exchange. The exchange of messages
+will work even if computer programs are written using different programming languages
+and are widely separated across the Internet.
+Web services are the lingua franca
+of the Internet age.
+Project
+This project describes an approach to designing, building and testing a particular
+style of web service: the document literal wrapped style.
+Web services built using this approach provide the benefit of complete self-description,
+standards conformance, and robustness in the face of changing requirements.
+The project takes a design led approach with all web service code generated from
+XML design files.
+Funded by JISC under the
+Saving Private Data project.
+The project uses web service style called the document literal wrapped web service
+style, and the code generation is to the Java programming language.
+Benefits | Outline | What's Related | Live Demo
+The work has been funded under the JISC e-Learning Program to sustain techniques,
+skills, technology and lessons learned from prior work with web service design.
+Key Output: Project Narrative
+Download from SourceForge.Net
+Web services built using this approach afford the following benefits:
+Web service code is generated from XML design documents, ensuring design led development.
+With XML documents as foundational design documents, web services can be generated
+in different programming languages. The approach is platform neutral. Icodeon
+have used the techniques described with both Java and C# programming languages.
+Web service operations and the service messages are completely self-describing.
+This ensures that the web service can be discovered and automatically conmsumed
+by tools and clients.
+The web service is standards compliant against the Web Services Interoperability
+profile. This means that the web service can be integrated with other web services
+technologies, within service oriented architectures and web services orchestrations.
+The web service is robust against future requirements changes. Changes can
+be made to the messages that the service sends or receives without breaking exisiting
+clients and consumers.
+Project Outline & Context
+The project describes an approach to web service design for a service that sends
+and recieves documents according to a schema for the "Content Object Communication
+Datamodel" published under the IEEE 1484.11.3 specification.
+The IEEE schema is an XML binding for the "Computer Managed Instruction Datamodel"
+in the widely deployed SCORM e-Learning profile.
+The project has the following structure:
+First, a web services description for the operations of the web service is designed
+in XML. The XML document is used for code generation of the web service, using a
+WSDL-to-Java tool.
+Second, schema descriptions for the documents that the web service will send and
+recieve are defined in XML. The XML schema document is used for code generation
+of the data model used by the web service, using an XSD-to-Java tool.
+The generated Java code is combined and the web service is deployed using the Apache
+AXIS web services framework.
+The web service is tested using functional testing, load/stress testing and conformance
+testing.
+A generic AJAX client for document literal wrapped style is built as a Java Script
+object. The generic client is sub-classed to a specific client for the particular
+web service.
+What's Related
+The following projects, some with various strands of JISC funding relate to this
+work:
+The techniques developed in this project are now being applied to new areas. At
+the IMS Quaterly Meeting July 2007, Icodeon demonstrated the use of the IMS Learning
+Tools Interoperability Specification to
+integrate the Icodeon SCORM run time into the SAKAI learning platform. The
+integration used code generation techiques to build document literal wrapped web
+services. The integration also used web services to exchange SCORM tracking data
+as IEEE 1484.11.3 schema XML documents.
+Some work on using
+web services with SCORM tracking data as IEEE 1484.11.3 schema elements
+has recently been added to the ADL Community Website. This work uses remote procedure
+call (RPC) style web services. The ADL project provides a compare/contrast with
+document literal wrapped style web services.
+Initial work on web service design began with the
+ASSIS project with the Sun Microsystems Centre of Excellence in e-Larning
+at the University of Hull.
+Refactoring of web service design to the document literal wrapped style began with
+Making Tracks project at with the NRICH and Millenium Mathematics programme
+at the University of Cambridge.
+The COVARM reference model project has made
+extensive use of design led development to develop document based web services.
+The Repository Metadata and Management
+project at the University of Hull has been informed by the work on Document
+Literal Wrapped web service design.
+Live Online Demonstrator
+An online demonstrator that uses AJAX clients to work with document literal wrapped
+web services is available on the
+main Icodeon website.
+Launch a course. During the running of the course AJAX clients work to exchange
+documents with web services. When you are ready, press the "Exit" button to leave
+the course. [Click thumbnail for larger image].
+When prompted to view the SCORM tracking data, press the "Yes" button.
+Press the "Download" button. An AJAX client calls a web service and SCORM tracking
+data as IEEE 1484.11.3 schema XML is returned.
+Icodeon Ltd
+July 2007
+Project Narrative
+Techiques, tools and comment:
+Narrative
+Download
+Released under the Mozilla Public License for Open Source:
+sourceforge.net
+Source Code
+Public Subversion Source Code Access:
+SubVersion
+Icodeon Labs
+Live wiki, disucssions and issues. Talk back on:
+Icodeon Labs
+Copyright 2004-2007 Icodeon Ltd. All Rights Reserved.
+Icodeon Ltd
+St Johns Innovation Centre
+Cambridge, UK
+Top | Home | Contact
+s

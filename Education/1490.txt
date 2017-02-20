@@ -1,0 +1,62 @@
+Main Page - eCrystals Federation Project
+Main Page
+From eCrystals Federation Project
+Jump to: navigation, search
+Welcome to the eCrystals Federation Project pages
+This project will establish a solid foundation of crystallography data repositories across an international group of partner sites, with metadata harvested by a number of aggregrator services. Building on eBank-UK Phase 3 results, partners will work together to;
+integrate and embed the open data repository approach into current research practice by engaging data centres, librarians, researchers, publishers and third party information providers
+harmonise the metadata application profiles from repositories operating on different platforms
+investigate aggregation issues arising from harvesting metadata from repositories within the networked information environments
+enable the Federation of institutional archives to interoperate with international subject archives (IUCr and CCDC) and other third party harvesters
+develop approaches to the preservation and curation of scientific data in open repositories
+The project is led by the UK National Crystallography Service (University of Southampton) with core partners at UKOLN (University of Bath), the Digital Curation Centre (Universities of Bath & Edinburgh) and the Unilever Centre (University of Cambridge). The project currently has 14 supporting partners.
+Retrieved from "http://wiki.ecrystals.chem.soton.ac.uk/index.php/Main_Page"
+Views
+Page
+Discussion
+View source
+History
+Personal tools
+Log in
+Project Details
+Main Page
+Project Partners
+People
+Background
+Workpackages
+Current events
+'Scaling Up': eBank3 report
+IUCrXXI Congress Workshop
+Dissemination
+Project Collaborations
+Help
+Federation Repositories
+Southampton eCrystals
+TARDIS
+The ReciprocalNet Consortium
+Drexel eCrystals
+Birmingham eCrystals
+Sydney eCrystals
+Technical Information
+Application Profile
+Interoperability
+Data Curation
+Documentation
+Related Information
+Links
+Data Management Reports
+Data Citation
+Data Provenance
+UKRDS
+Search
+Toolbox
+What links here
+Related changes
+Special pages
+Printable version Permanent link
+This page was last modified on 9 December 2008, at 12:41.
+This page has been accessed 389,226 times.
+Content is available under Attribution-Share Alike 3.0.
+Privacy policy
+About eCrystals Federation Project
+Disclaimers

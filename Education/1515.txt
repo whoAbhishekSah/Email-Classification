@@ -1,0 +1,61 @@
+myExperiment
+Main Page
+From myExperiment
+Jump to: navigation, search
+Welcome to the myExperiment Wiki. Here you can find out more about the myExperiment website. Check out our Bioinformatics and Virtual Research Environment videos.
+myExperiment is a collaborative environment where scientists can safely publish their workflows and in silico experiments, share them with groups and find those of others. Workflows, other digital objects and bundles (called Packs) can now be swapped, sorted and searched like photos and videos on the Web. Unlike Facebook or MySpace, myExperiment fully understands the needs of the researcher and makes it really easy for the next generation of scientists to contribute to a pool of scientific methods, build communities and form relationships - reducing time-to-experiment, sharing expertise and avoiding reinvention. myExperiment is now the largest public repository of scientific workflows. It supports Linked Data, and new features for workflow preservation are under development in the Wf4Ever project, one of several Partner Projects.
+Citing myExperiment
+If you use myExperiment in your research, please cite us and let us know so we can cite you:
+If you are citing myExperiment in a computer science context, please use: De Roure, D., Goble, C. and Stevens, R. (2009) The Design and Realisation of the myExperiment Virtual Research Environment for Social Sharing of Workflows. Future Generation Computer Systems 25, pp. 561-567. doi:10.1016/j.future.2008.06.010
+If you are citing myExperiment in a domain context (for example life-sciences), please use: Goble, C.A., Bhagat, J., Aleksejevs, S., Cruickshank, D., Michaelides, D., Newman, D., Borkum, M., Bechhofer, S., Roos, M., Li, P., and De Roure, D.: myExperiment: a repository and social network for the sharing of bioinformatics workflows, Nucl. Acids Res., 2010. doi:10.1093/nar/gkq429
+Please keep us informed - our hashtag is #myexperiment
+For myExperiment Users
+The myexperiment.org social web site, launched in November 2007, contains the largest public collection of workflows across multiple workflow systems including Taverna (over 2000 workflows) and is used by thousands of users ranging from life sciences to text mining. The most recent addition is support for the Galaxy open web-based platform for data intensive biomedical research.
+Go to www.myexperiment.org to access publicly available content or create an account.
+See our User Pages for Features, FAQ, Videos and Roadmap.
+For myExperiment Developers
+All the myExperiment services are accessible through simple RESTful programming interfaces, Linked Data and a SPARQL endpoint so that you can use your existing environment and augment it with myExperiment functionality – or build entirely new interfaces and functionality mashups.
+See our Developer Pages for Developer Projects and Documentation.
+The myGrid JIRA is used to track issues.
+There are two other services in place for development purposes.
+http://sandbox.myexperiment.org/ is available for general testing which is recommended for testing out API clients.
+http://alpha.myexperiment.org/ is a more experimental service which contains some of the recent work on myExperiment.
+See the Service Status for specific details.
+News and Events
+David De roure will gave a talk on Knowledge Infrastructure for Global Systems Science at First Open Systems Science Conference
+in Brussels on Saturday 10th November.
+See our News pages for information about this and other events.
+The myExperiment Project
+See our About pages for Papers, Presentations, Mentions and Partner Projects
+myExperiment is brought to you by a joint team from the universities of Southampton, Manchester and Oxford in the UK, led by David De Roure and Carole Goble.
+myExperiment is currently supported by three European Commission 7th Framework Programme (FP7) projects: BioVeL (Grant no. 283359), SCAPE (Grant no. 270137), and the Wf4Ever Project (Grant no. 270192) as well as the e-Research South and myGrid EPSRC Platform grants.
+Previously, myExperiment was funded by JISC and the Microsoft Technical Computing Initiative.
+New features are under development in the Wf4Ever project. See also our sister project BioCatalogue.
+Authorised users may also access the management pages.
+Retrieved from "http://wiki.myexperiment.org/index.php?title=Main_Page&oldid=27833"
+Views
+Page
+Discussion
+View source
+History
+Personal tools
+Log in
+Navigation
+Main page
+Community portal
+Current events
+Recent changes
+Random page
+Help
+Search
+Toolbox
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+This page was last modified on 15 November 2013, at 12:40.
+This page has been accessed 1,150,577 times.
+Privacy policy
+About myExperiment
+Disclaimers

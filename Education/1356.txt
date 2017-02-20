@@ -1,0 +1,22 @@
+Uniqurate: QTI authoring for all
+Home|
+Partners and Links|
+For developers|
+Documentation|
+Demo
+About Uniqurate
+Uniqurate is a JISC-funded project that seeks to make the authoring of QTI 2.1 electronic assessment content accessible to a wider audience.
+In many HE institutions, e-assessment content makes use of either the "quiz" functionality of the institutional VLE, a commercial solution such as QuestionMark Perception, or even an in-house bespoke solution. These closed solutions carry a level of risk with them, in that if the e-assessment product becomes unavailable to the institution, so will the content that has been authored using it.
+This can be prevented by the use of an open standard for e-assessment content, such as QTI. Resources authored in QTI are portable and readily transferable to a variety of delivery platforms. QTI 2.1 also provides the means to create complex, adaptive resources that go far beyond the ubiquitous multiple choice questions that commonly come to mind when e-assessment is discussed.
+QTI's complexity means that authoring content in its native XML format is a non-trivial exercise, and requires a considerable amount of expertise. To address this, a number of
+past projects have been concerned with creating tools to facilitate easy authoring. However, the focus in creating these tools has had a heavy focus towards the maths subject area, and the user base from which requirements were solicited was heavily skewed towards QTI experts. Thus, the resulting tools, while comprehensive, are not readily accessible to the novice user.
+Uniqurate is about redressing this balance: making QTI authoring accessible to a wider audience. In Uniqurate, the primary focus is the user experience from the perspective of unitiated users. Colleagues at Harper Adams and Strathclyde who are new to QTI are driving development, expressing needs in terms of their teaching and assessment requirements, not in terms of the QTI specification. As a result, the application adopts a highly WYSIWYG, drag-and-drap style approach that should be easily learnable.
+By making authoring accessible to all levels of expertise, we hope to increase the number of people creating content - and one of the main goals of the project is to broader usage of QTI in HE.
+Uniqurate is a web application and the latest version will always be available at the URL http://uniqurate.kingston.ac.uk/demo.
+Uniqurate and QTIDI reflections
+The video below was made for the JISC Strand C Programme Meeting in October 2012, and as per request, is Paul Neve reflecting upon the implementation experience and key lessons learnt during the two projects.
+Latest News
+The content below is taken from the QTI Support blog, and Kingston University's Learning Technology Research Group blog.
+^ back to top
+design based on a template by
+tristarcode and content by Paul Neve

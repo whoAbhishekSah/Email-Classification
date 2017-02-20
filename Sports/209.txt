@@ -1,0 +1,82 @@
+Homepage - UNEP-WCMC
+About us
+Resources & Data
+Featured work
+Our expertise
+Our expertise
+Featured work
+Resources & Data
+About us
+Conservation dashboard for
+{{country.name}}
+Explore key datasets maintained by UNEP-WCMC and find conservation statistics for any country or region.
+View Now
+Estimated biodiversity loss
+{{carbo.biodiversity_loss}}
+%
+Number of protected areas
+{{ppe.protected_areas_count | number}}
+covering {{ppe.percentage_protected}}% of the country
+Carbon storage
+Carbon stored in above and below ground biomass and soil
+{{carbo.carbon_sums | number}}
+Mt
+Carbon stored in protected areas
+{{carbo.carbon_pas}}
+%
+{{sapi.trade_title}}
+{{sapi.trade_info}}
+{{sapi.trade_selector}}
+No results
+{{$index + 1}}
+{{t.common_name_en || t.name}}
+{{t.name}}
+{{t.count | number}}
+{{t.count | number}}
+No results
+{{$index + 1}}
+{{t.common_name_en || t.name}}
+{{t.name}}
+{{t.count | number}}
+{{t.count | number}}
+{{sapi.species_title}}
+{{sapi.species_info}}
+{{sapi.species_selector}}
+No results
+{{$index + 1}}
+{{group[0]}}
+{{group[1] | number}}
+{{group[1] | number}}
+No results
+{{$index + 1}}
+{{group[0]}}
+{{group[1] | number}}
+{{group[1] | number}}
+Hide dashboard
+Putting biodiversity at the heart of decision-making
+Our team has unrivalled expertise in collating, analysing and interpreting information about biodiversity, and sharing this in engaging, innovative and useful ways. We work with partners worldwide to extend our impact and to strengthen the capacity of others to manage biodiversity and ecosystem services.
+What's happening at UNEP-WCMC
+24 January 2017
+UNEP-WCMC support for ecosystem management of landscapes
+UNEP-WCMC has launched a series of technical reviews and a Capacity Development Assessment Tool (CDAT).
+13 December 2016
+Update on global statistics from Protected Planet Report 2016
+The latest update to the Protected Planet Report 2016 shows that there are now just under 15,000 MPAs spread across 18.5 million square kilometres of ocean and sea.
+07 December 2016
+Redeveloped Biodiversity Indicators Partnership website launched at CBD COP13
+The Biodiversity Indicators Partnership (BIP), convened by UNEP-WCMC, will today hold a side event at CBD COP13, to help guide Parties through the global biodiversity indicator landscape.
+30 November 2016
+UNEP-WCMC at CBD COP13
+UNEP-WCMC will take part in the thirteenth meeting of the Conference of the Parties to the Convention on Biological Diversity (CBD CoP), taking place in Cancun, Mexico from 4 – 17 December 2016.
+15 November 2016
+Call for presentations in support of mainstreaming biodiversity in development and the Sustainable Development Goals
+UNEP-WCMC, the International Institute for Environment and Development (IIED), and the Secretariat of the Convention on Biological Diversity will host a workshop entitled: Mainstreaming Biodiversity in Development and the SDGs: sharing and developing workable solutions on Sunday 11th December.
+28 October 2016
+UNEP-WCMC analysis highlights priority areas of biodiversity importance across Africa requiring efforts to mitigate potential threats from oil and gas developments
+A new analysis by UNEP-WCMC highlights where current and future oil and gas developments pose a potential threat to areas of biodiversity importance in Africa.
+View more news
+Partners
+Vacancies
+The Team
+Contact
+Terms & Conditions

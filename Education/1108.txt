@@ -1,0 +1,49 @@
+Usability Studies: British History Online and ReScript | Institute of Historical Research
+Skip to main content
+About usSupport usFriendsNews
+Search form
+Search
+Main menuEventsPublicationsDigitalResearchResearch trainingFellowshipsStudyLibrary
+IHR Digital
+Digital resourcesArchived
+Services
+Social media
+Contact us
+Usability Studies: British History Online and ReScript
+British History Online Usability Project
+ReScript Usability and Learnability Project
+IHR Digital has been awarded two sets of funding by JISC, under its Digital Infrastructure Programme (01/11).
+British History Online will become a case study which will provide an evidence-based resource for other projects in their approach to usability. Additionally, the Institute’s pilot
+collaborative editing project, ReScript, will develop both research and content
+creation interfaces.
+Web usability can loosely be defined as the ease with which someone can achieve a particular goal using a website. This might be buying a book, paying for a TV licence, registering for an event, or commenting on a historical source. Whatever the activity, the system ought to be easy to learn, function as expected and be pleasant to use. Meeting these criteria can have a powerful effect: a more engaged user base can lead to higher conversion rates, repeat visits and recommendations. Success in this area can bring huge benefits for the individuals and institutions developing digital resources, for the audience for those resources, and in the case of digital humanities, for the discipline more widely.
+British History Online
+Over the last five years, the rate of addition
+of new British History Online content has not been matched by growth in usage, and site navigation
+functions have not changed. The project team identified
+two elements of the site navigation as suitable candidates for usability
+analysis because even a small performance improvement here could have large
+usage ramifications. The functions under analysis in the study are generic functions (i.e. lists of things, a
+search form and results) where improvement will contribute to best practice in
+the field of digital humanities, and beyond.
+ReScript
+ReScript
+is the virtual editing and research environment developed by the Institute of
+Historical Research to support collaborative work on historical texts. Demand
+for the tools made available through the ReScript prototype platform has been
+assessed via an online survey and a
+series of interviews with editors and researchers. Many
+respondents to the survey expressed willingness to participate in the testing
+and further development of the service; the most advantageous next
+development step is to undertake a usability/learnability project to
+enhance the interface so that it meets the needs of a variety of researchers
+working with very different texts, and with differing levels of expertise.
+As the UK’s national centre for postgraduate history, with a
+remit to facilitate historical research nationally, the IHR is ideally placed
+both to assess the requirements of researchers in this area and to disseminate
+the results of the project to the community of historians, thereby increasing
+the chance of successful take-up of the new tools.
+JISC inspires UK colleges and universities in the innovative use of digital technologies, helping to maintain the UK’s position as a global leader in education.
+[img_assist|nid=1036|title=|desc=|link=url|url=http://www.jisc.ac.uk|align=right|width=99|height=52]
+Project links: Project blog
+Contact us | Feedback | Help | Cookies | LegalThe Institute of Historical Research (IHR), Senate House, Malet Street, London WC1E 7HUThe IHR is a member of the School of Advanced Study at the University of London

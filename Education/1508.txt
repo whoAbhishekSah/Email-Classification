@@ -1,0 +1,115 @@
+iSpot Local | project blog
+iSpot Local
+project blog
+Skip to content
+HomeAbout
+Barriers to sharing: badger sett data set
+Posted on April 15, 2011 by dougclow
+There’s some great content available about the Sharpham Estate, created/curated by our partners at Ambios. One of their guys has a Google Earth file that collates a huge wealth of geotagged nature information in a structured way: there’s information about the habitats, from broad-brush classification (e.g. woodland), down to finer-grained (e.g. semi-natural woodland); there’s information about the wildlife, from surveys to individual observations and videos from camera traps. As well as the nature data, there’s old maps (Ordnance Survey) and old photos from a local library.
+There’s all the usual issues you’d expect about making content available freely: curating and organising (metadata!), checking the rights situation with the original creators and any assignees, perfectionism (don’t want to share until it’s all perfectly right), formats, and so on. We’re working away on those.
+But there’s one issue I hadn’t expected.
+One data set we have is the locations of all the badger setts on the estate. Usually, badgers like to make their setts in the middle of woodland. But when you view the badger sett data on top of a Google Map, you can quickly see that one of the setts is slap in the middle of a field, which is unusual. However, when you overlay the 1891 Ordnance Survey map, all is revealed: back then, the sett would’ve been in the middle of woodland, which has since been cleared. Badgers are known to maintain setts for hundreds of years once started, so it seems that this sett was created in woodland, and has been used since then despite the clearance.
+This is a fantastic story, illustrating the power of combining data sets, and is likely to be really interesting to people who come to the Sharpham bioblitz. Connecting people up to this sort of great content is exactly the sort of thing we want to do with iSpot Local.
+Alas, we can’t make the badger sett data set available!
+Badgers are protected by law: it’s illegal to harm them or their setts without a licence. But there are people who want to harm badgers – e.g. farmers worried about bovine tuberculosis and badger baiters – who aren’t deterred by the law. So overwhelmingly the advice we’ve had is that it’s a very, very bad idea to publish the location of badger setts.
+On iSpot, we have a ‘hide precise location’ option on observations to deal with this sort of issue, where there are species at risk of persecution. This ‘snaps’ the location to the 1km grid square that includes the original location, so you can see the area the observation was made in, but not the precise location. This also helps when it’s humans who need a bit of privacy – e.g. if you’re making observations in your own garden but don’t want to tell the world your precise address.
+But even if we could implement that for iSpot Local (there are technical issues), it would blur the data to be uninteresting – the sett-in-the-field-that-was-once-woods story wouldn’t emerge, since the field in question is less than 1km wide. And some badger experts would still be unhappy at sharing such comprehensive data even at that resolution.
+So a new (to me, at least) barrier to sharing content: protection of badgers from interference.
+Posted in Uncategorized
+|
+1 Comment
+Sharpham site visit
+Posted on April 11, 2011 by dougclow
+On a glorious day, the iSpot Local team visited the Sharpham Estate, near Totnes, on Wed 6 April, for reconnaissance and planning ahead of the bioblitz to be held there on 21 May.
+I took a few snaps – it really is quite spectacularly beautiful:
+(cc) Doug Clow on Flickr
+The light brown reeds you can see in the middle of the River Dart are the marsh that is the main site for the bioblitz, and the town in the distance is Totnes, two miles away on a cycle/footpath.
+We went over the plans for the day, and dealt with some tricky logistical problems. A major one is connectivity. There’s no 3G signal by the marsh, very patchy GSM data signal, and one or two bars of phone signal if you’re tall and standing in the right place.
+Sharpham House, up the road, has an Internet connection, and we discussed extending a wifi network all the way down to the site. This would be challenging (there are lots of trees in the way – which were mostly bare at the time, but will be in full signal-blocking leaf by the end of May). And also not much use anyway – Sharpham’s Internet connection is very low bandwidth to start with.
+So we’re rearranging our plans to collect the data on laptops, and upload it all later, with the participants taking away postcards with information on how to see it all afterwards.
+These practical issues are an important part of what we’re trying to explore with the project. I’ve heard (third-hand!) that at most 18% of sites that are important to nature in the UK (e.g. SSSIs and nature reserves) have 3G coverage – and that’s if you believe the 3G availability maps from the network operators, which are famously on the optimistic side. This will probably remain as an issue over the medium- to long-term: not coincidentally, these places often have very low populations of people, so the return on investment for network companies will always be low.
+Sharpham Wines and Cheeses is a tenant of the Sharpham Trust. We had some of their cheese for lunch, and it really was excellent. I expect the wine is up to the same standard, but alas, we didn’t get any!
+Posted in Uncategorized
+|
+Leave a comment
+One month on
+Posted on April 11, 2011 by dougclow
+We’re just over a month in to the project, and things are proceeding rapidly!
+We’ve confirmed the six locations and dates for the iSpot Local bioblitzes:
+Sat 21 May – Sharpham Estate, near Totnes (public site)
+Fri 10 June – Sandford School, nr Cheltenham (primary school)
+Fri 17 June – Copplestone School, Crediton, Devon (primary school)
+Fri 1 July – Learning South West, Taunton (local community)
+Fri 8 July – Glastonbury Abbey (public site)
+Fri 15 July – Quantock Federation of schools, Somerset (schools 3-13)
+Engagement with stakeholders is well in hand: we have good contacts with the people at each of the sites, with nature experts, and with other learning organisations. Today (Wed 6 April) we visited the site of the first bioblitz, Sharpham, to check on the arrangements – of which more later.
+Our thinking about the bioblitzes has developed as we make the arrangements. We very much want them to be about learning at least as much as they’re about capturing data. Each event has three phases:
+Preparation – stakeholder engagement, briefing/learning events, publicity
+Bioblitz – data collection and engagement
+Post bioblitz – review, follow-up, plans for the future, etc
+We have exciting family learning events planned for the preparation phases – titled ‘Birds, Bats and Sound Maps’ – to run before the first two school events, and possibly ahead of the Sharpham event.
+The bioblitzes themselves will last 24 hours, running from noon to noon. There’ll be briefings on how to spot bugs, plants, and other things. There’ll be craft and art activities (e.g. making wild flowers from natural materials). There’ll be organised activities around worms and bugs. As evening draws on, we’ll shift to small mammal and moth trapping. Then stargazing at night! In the morning, we can look at what’s been caught in the traps. There’ll also be self-guided activities, e.g. snail hunts, sugaring trees, beetle hunts, and so on.
+We’ll display a running count of the species we’ve spotted – our target is 100 different species.
+We’ll have a team of designated uploaders who will put information in to iSpot. We’ll be passing the data captured to local Biological Records Centres afterwards.
+There’ll be pretty postcards for people to take away, telling them how to keep in touch afterwards via the iSpot Local website.
+Speaking of which, technical development is well underway. We have an outline Drupal site up, with good community features, but it’s not quite ready to reveal to the world yet. (We’re busily adding the initial content to it so it looks like an iSpot Local site rather than a default Drupal installation.) We’re also making progress towards the iSpot Local specific features, including a carousel of all the observations made at a bioblitz, and a map displaying them.
+We also have our evaluation and mainstreaming activity underway, with a draft Evaluation and Mainstreaming Plan. We’re arranging a focus group, where we’ll commission volunteer evaluators from as wide a range of stakeholders as we can. They’ll contribute to the evaluation throughout, and help us develop our Plan. We’re also exploring models, arrangements and funding for taking the iSpot Local ideas further after the end of the JISC project in September.
+Posted in Uncategorized
+|
+Leave a comment
+Project kickoff meeting
+Posted on March 9, 2011 by dougclow
+We had our first face-to-face project meeting today, in the ACAS offices in Bristol.
+The main challenge was working out how to manage the scale, complexity and individuality of all the activity in the project.
+(cc) crabchick on Flickr
+We’ve agreed dates and locations for each of the six bioblitzes, covering a range of different contexts and communities, from primary schools to public estates, from playing fields to marshes actively being managed to improve biodiversity.
+The briefing that the stakeholders and participants will require is many-layered and complex. Key experts and stakeholders who will be on hand on the day of the bioblitz will need to know what iSpot Local is about, how the website works, what the practical arrangements are – as well as background information about the location and the groups interested in it. The other participants in the bioblitz – who may well just arrive on the day – will need a quicker briefing and orientation in to the day’s activity. Ideally this will come from the previously-briefed experts and stakeholders, but we’re also planning to produce a postcard with details of iSpot Local to hand out. And then there’s also more senior managers and leaders in stakeholder organisations who will need a higher-level briefing about the project.
+The learning pathways and aspirations that we hope will emerge from the bioblitzes will also be many-layered, complex, and contextual. Schools will have their own formal curriculum plans. At another location, the iSpot Local bioblitz will establish baseline biodiversity monitoring before a three-year plan to improve the biodiversity of a marsh area by improvements to water management, and so there’s likely to be interest in connecting to evidence around management practices for conservation. And the level of learning might vary from a schoolchild wanting to know where badgers go in the daytime up to a community volunteer wanting to sign up for a degree programme in Environmental Science, and anything in between.
+We are planning to have the iSpot Local website act as a hub and clearinghouse for all this activity.
+We spent some time planning in our evaluation and mainstreaming work too. The briefing activity mentioned above is very much part of that: with a short project like this, we need to engage stakeholders in mainstreaming and evaluation from the start. As a group we are all very interested in finding ways to take the ideas and outcomes from this project further.
+We also spent some time discussing project practicalities – drafting the consortium agreement, project plan, and reporting frameworks and schedules, where the project documentation sits.
+Posted in Uncategorized
+|
+Leave a comment
+iSpot Local starts!
+Posted on March 1, 2011 by dougclow
+iSpot Local is a new project starting today, 1 March 2011, funded by the JISC eContent Programme 2011. It’s a partnership between the Open University and a range of community organisations, led by Ambios, and will run to 30 September 2011.
+So what’s it going to do?
+Well, the quickest way to explain it is to paste in some of the bid:
+Aims
+This project aims to explore the potential of an exciting technology-enhanced learning practice (Bioblitzes) to serve as the key mediating event for the co-creation and crowd-sourcing of digital content related to field biology, by extending an existing web tool (iSpot) and building a strong community partnership network.
+Objectives
+The project will:
+Rapidly deploy a community website (iSpot Local) to facilitate, coordinate and mediate activity.
+Deliver pre-event learning opportunities to engage and empower potential community users.
+Deliver six Bioblitz events, generating significant crowd-sourced digital content related to field observations of nature.
+Develop iSpot Local to integrate community-specific content with observational data.
+Co-create, crowd-source and identify existing learning resources to meet the needs and aspirations of participants.
+So what’s a Bioblitz? In a nutshell, it’s a bunch of people who go to a nature site for a day or so, and record and identify as much of the wildlife as they can see, usually with a bit of help from some experts. Or, more formally, “a Bioblitz is a time-limited wildlife survey of a particular site – usually a single day – during which all organisms encountered are identified and recorded by the public, working with a team of experts.” Bioblitzes are great – they generate real scientific data, and get people interested in the particular place, in the plants, bugs and anything else that they can identify, and in the scientific process. You don’t need any technology beyond a piece of paper and a pencil, but it’s a lot easier and more worthwhile to do it with a bit of helpful technology.
+The idea is that we set up a website quickly (iSpot Local!), run some learning activities with local people in the places where we’re doing the Bioblitzes, and then run them. People will take photos of what they see, stick them up on iSpot, and log where it was seen, who saw it, and what species it is. Experts from our network of partners will be on hand to help on the day itself, and experts and enthusiastic amateurs from the existing iSpot community will be able to help online.
+Then we’ll help the people who’ve got interested in the places and nature they’ve seen to learn more about them, and share more information about their local place, the local biota, and what’s going on to help look after the site.
+Posted in Uncategorized
+|
+Leave a comment
+Creative Commons:BY This work is licenced under a Creative Commons BY Licence
+Pages
+About
+Search for:
+Recent Posts
+Barriers to sharing: badger sett data set
+Sharpham site visit
+One month on
+Project kickoff meeting
+iSpot Local starts!
+Archives
+April 2011
+March 2011
+Meta
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.com
+iSpot Local
+Create a free website or blog at WordPress.com.
+Post to
+Cancel

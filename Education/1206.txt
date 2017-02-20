@@ -1,0 +1,40 @@
+Project SWISh at the University of Exeter
+Skip to main content.
+Netscape 4 users follow this link.
+Home
+About SWISh
+Introduction
+Work Plan
+Deliverables
+Dissemination
+Contacts
+Project Team
+Contact Us
+Related Resources
+Shibboleth
+JISC Core Middleware Infrastructure
+Middleware Assisted Take Up Service (MATU)
+Shibboleth: Connecting People & Resources
+The SWISh (South West Implementation of Shibboleth) project was proposed by the University of Exeter
+in response to the JISC Circular 11/04: Core Middleware - Early Adopters, in which institutions were invited to become early adopters of the next generation of tools to manage access to online resources. The SWISh project was undertaken from June 2005 to May 2006.
+The project, a collaboration between the Library and I.T. Services, was funded by the JISC to become an early adopter of Shibboleth technology - the
+replacement, in the future, for the ATHENS Devolved Authentication system currently in use at the University of Exeter.
+News
+Project Final Report
+With the close of the SWISh project, the Project Final Report is now available - see under Deliverables.
+IdP with LDAP Success
+At 11:00 on 22nd June the first login to the Exeter Shibboleth Identity Provider (IdP) was successfully authenticated against the Exeter LDAP service.
+University of Exeter Library & Information Service, Stocker Road, Exeter, Devon, UK EX4
+4PT
+Last updated on Wednesday, 6 September, 2006
+by:
+Ian Tilsed
+Copyright and
+Disclaimer
+NOTE FOR
+NETSCAPE 4 users: This website has been produced to be standards compliant. If
+you can read this message, you may be viewing the site using an older
+browser. Whilst all the content in this site will be accessible to you,
+some of the presentational aspects may not. To see this site as it is
+intended , you should consider using a modern browser. See the Web Standards Project for
+more details.

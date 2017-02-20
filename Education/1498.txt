@@ -1,0 +1,37 @@
+ePortfolios - www.eportfolios.ac.uk
+Home
+ePET
+EPICS
+Publications
+Contacts
+ePET Portfolio
+...about learning not technology
+Main Menu
+Home
+Publications
+ePET portfolio
+Dental ePortfolio
+Dynamic Learning Maps
+Standards for LLL
+EPICS
+PDP
+Reflection
+Web 2.0
+Mobile Portfolio
+Bibliography
+About this website
+Contacts
+Team login
+'Generic' ePortfolio
+Requirements (Overview)
+The ePET portfolio was first developed at Newcastle University in 2002, as part of a collaborative FDTL4 project. Since then the ePET and the associated pedagogy has been further developed during a series of ofther projects. One of these included a JISC funded project to develop portfolio interoperability, the project acronymn 'ePET' stuck and the ePortfolio has been reffered to as ePET ever since!.
+The ePortfolio is highly configurable and can be applied to a range of different contexts.
+The ePortfolio architecture has been designed to support 'value added' features such as sharing, searching and cross-referencing.
+There are a range of 'generic' tools available with the ePortfolio with an emphasis on supporting Personal development Planning.
+Course administrators can create new tools using simple Web forms. New tools can also be written by developers and incorporated into the ePortfolio framework.
+Further information
+Design, implementation and evaluation of a 'generic' e-portfolio: the Newcastle experience (paper and presentation from ePortfolio 2004)
+There is a Public Demonstrator (based on development work up to March 2004).
+Page created by Simon
+Last Modified: 17/03/2009 by PaulHorner
+Site maintained by Learning Technologies for Medical Sciences    Copyright © 2002-2011 Newcastle University.

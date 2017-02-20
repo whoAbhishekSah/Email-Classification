@@ -1,0 +1,265 @@
+QTI Support
+QTI Support
+Tuesday, 29 January 2013
+QTI version 2.1 final released.
+Version 2.1 of the IMS Question and Test Interoperability (QTI) specification was released on 25 January 2003. It's taken a long time to get QTI 2.1 completed, however now that is has finally released hopefully there will be a significant uptake. It has been a long process, with a very large number of people involved over the years. QTI 2.1 is really completion of QTI 2.0, so the process of developing it has been continuous since the start of the 2.0 working group several years ago. QTI 2.1 adds support for tests, as well as enhancing the support for individual question types.
+Further work will be needed to develop a range of profiles that specify subsets of the full specification that fit the requirements of specific groups of users. An entry-level profile already exists which duplicates functionality of the Common Cartridge profile of QTI 1.2, but is much simpler than the older profile as benefits from QTI 2's response processing templates which removes the need to individually specify duplicate response processing rules in each question where a single marking algorithm is to be used. This entry-level profile should be easy to import into almost all existing electronic assessment systems, however it is a very small subset of QTI 2.1, and does not provide any functionality that is not already widely available. Further profiles that address the needs of higher education are still needed.
+As we came towards the end of the development process, we also realised that there were many things that we would have liked to include given unlimited time and resources. Hopefully we will be able to develop some of these ideas as extensions which can later be merged into a future iteration of the specification. One which I would like to see is the ability to define graphs generated from templates, and taking input in the form of lines or points being added. In the time since we started QTI 2.0 web technology has moved on, and with HTML 5 this type of interaction should be very feasible. I am glad however that we made many of the decisions about the specification before HTML 5 arrived, because the XHTML base provides all of the flexibility needed, whilst being simple enough that it does not create a great obstacle to the specification being used with delivery systems other than a web browser.
+Niall
+Posted by
+Niall
+at
+13:56
+2 comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+IMS,
+interoperability,
+QTI,
+Question and Test Interoperability
+Wednesday, 21 November 2012
+A significant date, and some reflections on the Uniqurate project
+Hi all,
+I just wanted to post to mark a significant date - today represents my last officially contracted day on Uniqurate, and thus the formal end of the development phase of the project. I am still working on the technical documentation, and I'm sure I'll also contribute to the final reporting process, but as far as actually being employed to work on Uniqurate, to coin a phrase: that's all she wrote!
+I wanted to take the opportunity to say what a pleasure it's been to work with the project team and the wider community. It's always a joy to work with the usual QTI-heads, but what really made this project for me was the wider involvement from not only our official partner institutions, but also the extended community that's begun to grow as a result of the efforts on QTI-PET. I think these fresh perspectives really have helped further the cause of open standards for e-assessment, and for QTI, and we've seen a greater maturity in the final application as a result.
+So in this post I wanted to take time to reflect on Uniqurate - not the application itself, which I covered in my last blog entry; this time, I want to talk about the project itself - particularly the role of Agile methodologies.
+There have been some interesting lessons learned from my perspective, particularly speaking as someone who is usually an advocate of Agile for managing software development projects. I have taught Agile approaches to students on Software Engineering courses, and used them to excellent effect in the past both in software development and for general project and time management. I am a fan of Agile. I agree with the Agile Manifesto and its principles. However, during Uniqurate something became clear to me:
+Agile is not always the best option for a software development project in HE.
+Back in May 2011, when the original call for projects went out from JISC, the Technology Transfer strand specified that projects should proceed according to a "rapid, open or agile methodology". Previous QTI projects on which I had worked had used Agile approaches and their eventual software artefacts distributed under open source licensing, so the established team members were very much in their comfort zone, including me. As the person who took point on writing the response to the call for Uniqurate, naturally it detailed a process that was very much focused around iterative development cycles, with an ongoing, continual process of feedback from end-users and response from the software development team - the response from the latter coming in the form of changes to the application.
+We got underway with a flurry of activity and enthusiasm from all concerned. Once the teaching semester started, though, the realities of peoples' day jobs intruded. The level of interaction was inevitably reduced particularly among project members were confronted with teaching commitments and the need to support their students. With the project extending over a comparatively long period, it became relatively for a demographic who could reasonably be described as "harassed, overworked academics" to put it on the back burner.
+In DSDM Atern, there is a pre-project questionnaire designed to ascertain the suitability of DSDM. Although one would need to translate the various DSDM-specific terms used, this document applies just as well to Agile approaches in general. Among other things, it stipulates that easy access to key representatives of the user community must be available to the developers throughout. It also stipulates that key members of the team "buy in" to the Agile approach.
+Although I believe we had a successful development process, I am not sure that it was truly Agile; neither am I sure that had we undertaken DSDM Atern's pre-project questionnaire at the outset that we would have been truly able to green-light an Agile approach. Past projects had involved people enthusiastic about pushing the boundaries of e-assessment and open standards, many of whom were not directly involved in teaching or only had limited teaching commitments. On this project, we were actively seeking involvement from those whose "day job" was teaching. Thus, there were long periods during which we had little or no engagement from the user community. This was nobody's fault, let me state that clearly for the record; it was simply the reality of an academic role in British HE. Naturally, when the semester breaks occurred and people emerged for air, suddenly the enthusiasm and engagement reappeared and the lines of communication reestablished.
+In hindsight, I also wonder whether or not our project team truly understood the Agile process - another tickbox we perhaps would have failed to tick on the DSDM paperwork. This was revealed to me during some of the correspondance leading up to the recent Programme Meeting. One of the team revealed that she'd not felt comfortable exposing academic members of staff to the application in the early stages, as it was limited in nature and scope at this point, and she did not want to put them off. Belatedly, I realised this had also been a contributory factor in perhaps not receiving the constant user feedback we'd have liked. I had perhaps been remiss in explaining one of the crucial tenets of Agile - that user involvement and feedback occurs throughout, particularly in the early stages of development - - think of it like a child's formative years!
+Ultimately, we might say we did a two phased "big design up front" project instead of Agile. The initial enthusiasm and available of project members meant that when direct feedback dried up, I was able to extrapolate what I had into something approximating an overall specification for the application. I ended up developing this over two cycles, one leading up to CAA, then another leading up to when I actively finished development, around September (i.e. when my own teaching commitments started to intrude!).
+I do wonder, however, what would have been if we'd actually set out to do this. Given the early availability of project members we could have created a formal specification as the very first task. In the actual event my extrapolations worked, but there were times when I felt I was making it up as I went along.
+Armed with a good spec, we could then send academics back to the trenches while the software developers did their thing - perhaps having people resurface in the period between semesters and perhaps again at the start of the summer to nudge things back on track if they'd gone awry. Some might actually say this would actually still be Agile - it is still iterative development, after all, although I'd submit the sprints/timeboxes would be far too long to truly fit that description.
+Whatever moniker one would choose to attach to such approach, I think it has merit for future JISC projects that predominantly involve software development. I can't help but wonder what kind of application Uniqurate would have been in that alternate universe where JISC hadn't specified thou shalt be Agile, and we formally set out with a big design up front approach.
+Tl;dr* - we need to be more agile about whether we choose Agile for managing software development on e-learning and academic-led projects.
+------------
+For those who don't speak meme: Tl;dr - "too long; didn't read", or "the short version"
+Posted by
+Paul Neve
+at
+16:50
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+Agile,
+JISC Assessment and Feedback,
+QTI,
+Question and Test Interoperability,
+Uniqurate
+Friday, 21 September 2012
+Uniqurate: new release... the last big push of development
+Today's release of Uniqurate represents what will most likely be the last big push of software development - at least development that will take place under the auspices of the Uniqurate project itself. Doubtlessly there will be bug fixes still to come, plus some little bits to come in QTI-PET down the line, and I'm sure there will be more development in the future on other projects and by others in the community. However with the start of the teaching semester next week and development officially ending in November, it's the end of the big stuff for now.
+Without further ado, here's what's new:
+Multiple choice component:
+No feedback is now a valid scenario. A response will turn green if both feedback and distractor (answer) text has been filled in, orange if the distractor only is filled in (but which is now valid), and red when nothing's been filled in.
+There is now an option to copy feedbacks. This means that if you don't want to have individual feedbacks for all your "wrong" answers, you can fill in one of them and use the Quick Feedback button.
+There is a checkbox that will present a multiple choice component as a pull down list when delivered to the student. This might be useful for questions with lots of distractors!
+Tests
+You can now click on the edit icon next to a question edit that question in situ within the test.
+General
+There are now options to copy a component, and to move/drag a component into a different position within the question. Dragging is also generally improved (e.g. it will scroll properly if you drag a component towards the button or top of the browser window)
+The much requested option to put feedback immediately after the component (rather than at the end of the question) is now in place. The slider at the top of the component pane toggles between Feedback shown with components and Feedback shown at end of question. The first option means that feedback will appear immediately underneath the component to which it applies. The second option will display all feedback at the bottom of the question.
+Far too many bug fixes to list - but includes workaround for the Firefox issue where scroll bars weren't appearing on the QTIWorks preview.
+Probably many interesting and exciting new bugs introduced :-)
+It has to be said that the recent demo/workshops have been invaluable in providing me with a distillation of end-users' needs and issues. A special shout out to those who participated in the QTI-PET session in Oxford - much of what's gone into today's release came out of that session. Bug tracking and fixing in particular, while not a glamourous activity, absolutely depends on end users using the software and feeding back to the developer(s). Being physically there and part of the demo session gave that process an immediacy and dynamism that is lacking when reduced to emails bouncing back and forth.
+So, with the bulk of software development done, and if you'll indulge me, I just want to take a brief moment to reflect on Uniqurate.
+Back at the end of last year, I had a very different vision for this application. The original intention was to create a loosely coupled set of mini-editors - i.e. one for a multiple choice, one for a a text entry, and so on. I also bandied about the term "de-maths-ing QTI". The intent there was that any questions likely to involve anything vaguely arithmetic would be generalised, the edges hammered off, and used as a baseline to create yet another mini-editor. We spoke about identifying questions with cross-disciplinary utility, so as to avoid those proverbial edges being too sharp and thus not needing that much hammering in the first place!
+The real quantum leap for Uniqurate came just after Christmas. A discussion with Sue M early in the development of what came to be known as "friendly mode" saw the mini-editors become "components". The crucial difference was the concept of having multiple components per question.
+Laying the foundations to support this took some time, and was frustrating from my perspective - early releases of UQ looked nice but didn't do very much!  However, contrast what we now have with the original vision. You can create a question in UQ that tests the student's knowledge of a subject by having them engage in a variety of ways. The custom maths component which offers the potential for some very rich feedback scenarios.
+The change of approach meant that we took a bit of time to get rolling but in the end, I think we have a much better application for it.
+I am really pleased with Uniqurate, even if I do say so myself. Certainly it goes light-years beyond what I envisaged at the start of the project. The short version of the Uniqurate project proposal was that Aqurate was too simple and Mathqurate too complex; our challenge was to create something in between. I think we've succeeded in that aim, but along the way something unexpected has happened: Uniqurate is in some respects more complex than Mathqurate, at least in terms of the content that one can produce. I think that's a good, no, a great thing. It means that those new to QTI can dive in and create some "clever" content without ever seeing a scrap of XML. In the long run, it can only help to encourage the adoption of QTI outside of the existing community.
+Posted by
+Paul Neve
+at
+16:53
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+authoring,
+QTI,
+Question and Test Interoperability,
+Uniqurate
+Friday, 14 September 2012
+LTIQuizzes
+Quite early on in the QTIDI project I decided to write a demonstration application that would allow us to test LTI concepts along with a quiz system. The result was LTIQuizzes, a very simple quiz application that allows entry-level QTI 2.1 quizzes to be played through an LTI connection from a VLE. The I should really have blogged about this ages ago, however summer is a very busy time for me with conferences and software upgrades and feature development for the new academic year.
+LTIQuizzes consists of an LTI connector (which is intended to be reusable software that can be linked to other systems), my original QTI 2.0 item player, APIS, and a new very basic QTI 2.1 assessment player which will eventually become part of my desktop Common Cartridge viewer, CCplayr. LTIQuizzes served a useful purpose for the QTIDI project, because it allowed us to demonstrate how QTI assessments can be linked into VLEs using LTI before our proper QTI delivery system, QTIWorks, was LTI enabled.
+From the teacher's viewpoint LTIQuizzes is very straightforward to use. The teacher creates a new resource in the VLE, and clicks on the resource link which takes them into LTIQuizzes. As they are a teacher in the VLE course they are given the LTI "instructor" role, and so are shown the teacher screen in LTIQuizzes. This allows them to upload a packaged QTI question or test which will be displayed to any students that click on the VLE link into LTIQuizzes. Provided all the questions the quiz are automatically marked (i.e. there are no essay or extended test questions) LTIQuizzes will return a score to the VLE if it supports LTI version 1.1 when the student completes the assessment.
+LTIQuizzes is intentionally extremely simple, and there is no way to create an activity without using an LTI link. David has taken a slightly different approach with the LTI connection in QTIWorks, where teachers set up the quiz after logging into QTIWorks directly, and then get the LTI information to configure an activity in Moodle, Blackboard or any other suitable VLE. This approach works very well with the LTI implementations that are now distributed as part of Blackboard 9 and Moodle 2.3, but is awkward with the Moodle 1.9 LTI plug-in, which assumes that administrators rather than teachers will put in most of the LTI information. When I was writing LTIQuizzes s the only LTI enabled VLE that I had access to was Moodle 1.9 with the LTI plug-in wa, so naturally I used an approach which fitted very closely with the approach taken by the developers of that version of Moodle plug-in.
+Now the QTIWorks is fully LTI enabled, LTIQuizzes is much less important for our project, however I do intend to do some further work on it as it is sometimes useful to have a very simple system available for experimenting with. I will be doing some refactoring of to the APIS item player over the next few months to make it use generics properly (it's very old), and will probably use it for any experiments I do for ideas that might go into an eventual QTI 2.2. I will also be integrating the item and test player parts of LTIQuizzes into QTIPlayr so that it supports a variant of common cartridge that uses QTI 2.1 entry level assessments. The LTI interface is part of an ongoing project to provide simple lightweight LTI code in Java, C# and PHP that tool providers can use to quickly add LTI support to their software.
+Posted by
+Niall
+at
+13:28
+1 comment:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+IMS,
+JISC Assessment and Feedback,
+LTI,
+QTIDI,
+Question and Test Interoperability
+Monday, 10 September 2012
+QTI-PET Workshops and Demos
+Over the last few weeks we have held training workshops for the QTI-PET partners. Two have been face to face and one, mostly for the JISC RSCs, online. We've also had a couple of opportunities to demo the tools and let folks try them out. One of the great lessons learnt in the process is just how difficult it is to get University folk together during the summer! We had 3 attempts at finding a good date for the South workshop, and ended up with a compromise which meant some people could attend but others have the link to the recording of the RSC session, which is at https://sas.elluminate.com/mr.jnlp?suid=M.6207BE476C2071F8C1579CFF32DDA3&sid=2009077.
+So, in chronological order we had:
+University of Glasgow Learning and Teaching Seminar
+Niall presented the projects and their work at the Learning and Teaching Centre Seminar on 14th August. Although the delegates are close colleagues, this was the first time that they had seen these tools demonstrated, and there was some interesting discussion about possible ways of using them.
+QTI-PET Workshop North
+Held in the Jura computer lab in the University of Glasgow Library on 17th August.
+We had 4 partners attending and Sue and Niall presented and helped with the hands-on sessions.
+David Reimer from Edinburgh was using Uniqurate's Friendly Mode for language questions - in ancient Hebrew. Lesley Hamilton from the University of the West of Scotland was assembling multi-part questions for medicine and nursing in Friendly Mode. Shazia Ahmed from Maths Support at the University of Glasgow was adding to her collection of questions using Intermediate Mode. Sue demonstrated making small changes in Expert Mode to customise a question already authored in Friendly Mode.
+We demonstrated the QTI Works and JAssess renderers and showed a question running in QTI Works within Moodle for the first time. We also had a look at the LTIQuizzes tool running a simple test in Moodle.
+Several suggestions for new Uniqurate Components were suggested, including a medicine component which would enable people to author questions which would allow nurses and other health professionals to practise drug calculations dosages. Participants would like to be able to use randomised graphics, including graphs and diagrams, but these features will need further development in both authoring and rendering.
+There was a general feeling that the feedback should appear close to the input to which it refers. Making this change will reduce the time available for new components, so we have to decide which components are most essential.
+There was some concern about terminology, since, although the attendees were all comfortable with technology, many of their colleagues are not used to using technology directly in teaching. People made these same comments at all three of the partners' workshops, and at the South Workshop, Roger Greenhalgh from Harper Adams University College voluteered to go through the terminology and find the problem areas. We are collecting instances of words and phrases that need to be changed - we try to avoid using QTI terms, but some other words are too obscure for new users, so we are looking for translations, and these edits will be made as soon as possible.
+With QTI Works now linked from Uniqurate to show the question running from within the editor, it is now much easier to check that the question does what you expect. This works well in Chrome and Internet Explorer; however, some browsers, particularly Firefox, seem to have difficulty in displaying QTI Works.
+The technology behaved well and the participants felt they had had a useful day and that they would use Uniqurate when back in their institutions. We asked them to let us know how they are getting on and to contact us with any difficulties.
+QTI-PET Familiarisation Workshop for JISC RSCs
+This session was held on 24th August and hosted by RSC Scotland; Sue did the presentation and Grainne Hamilton facilitated the session and collated the questions from attendees. The presentation and the question and answer session generally went well, although there were a few very brief fades in the audio and one would-be participant was unable to connect to the room. The authoring and delivery tools were well-behaved again and some participants were able to try out the tools during the demo.
+There was a request for a pairing component, which would construct questions in which, for example, scientists are matched with their theories, or diseases with their symptoms. This is a QTI input type, which can be included in Uniqurate if time allows.
+This session was recorded and the URL for the recording is https://sas.elluminate.com/mr.jnlp?suid=M.6207BE476C2071F8C1579CFF32DDA3&sid=2009077. This has been circulated to people who would have liked to go to a workshop but were unable to attend on the dates chosen.
+eAssessment Scotland Online Demo
+On 28th August we gave an online demonstration to the eAssessment Scotland Online Conference. There were participants from Australia and Asia as well as several from Europe and the UK, and indeed some in the University of Glasgow.
+Sue presented and Niall collated questions from the chat stream and answered the more technical ones. We had a 45 minute time slot, which was just long enough to demonstrate all the tools and answer delegates' questions in reasonable detail.
+We also had a poster displayed at the eAssessment Scotland Conference on 31st October in Dundee.
+QTI-PET Workshop South
+This workshop was held in Oxford on 7th September in the University of Oxford Medical Sciences Teaching Centre. We had a seminar room with wifi access, and delegates brought their laptops, so that they had the questions they had created on their hard drive. It was attended by partners from the University of Derby, the University of Oxford, Reaseheath College and Harper Adams University College.
+Sue presented and, since Paul Neve was also there, attendees were able to feed back to him directly and in more detail about the Uniqurate design. Participants used the image facilities in the static text component to add pictures to multi part questions using the other components.
+We were also able to try the new test construction facilities in Uniqurate, which worked well, with the questions we created during the earlier part of the session being assembled into tests later on.
+Sue has been constructing a Moodle course for her class at the University of Glasgow, and we were able to see how the questions will look when used for formative assessment, and to go through the process of adding another question to the course. A copy of Sue's course will be used in future demonstrations to show how the setup process works, and a mock-up course is also available where users can try inserting questions for themselves.
+Next Demo
+This week we have a workshop at 12:00 on Wednesday 12th September at the ALT-C Conference in Manchester.
+Posted by
+Sue M
+at
+10:37
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+authoring,
+demo,
+LTI,
+QTI in Moodle,
+QTI Works,
+QTI-PET,
+roadshow,
+test authoring,
+Uniqurate,
+workshop
+Friday, 31 August 2012
+Testing times on Uniqurate
+No, we're not having problems on the Uniqurate project, quite the opposite in fact - today's release adds test authoring. Sorry, I couldn't resist the headline :)
+You will find that the button on the main menu to create a test is now enabled, and when used, you'll observe that the edit option changes to reflect that you have a test rather than a single question in memory.
+Tests are divided into sections, and each section contains a number of questions. For the simplest use case, you can just leave all the default settings alone, click the Add question to section button a few times and select some questions. Give it a title, possibly fill in a bit of explanatory text that the student will see, and then save the test. Your work should then work in any delivery system compatible with QTI 2.1 tests.
+However, Uniqurate does go a little further than that. You can have multiple sections in a test, and select random questions from the section so that no two deliveries of the test are the same. You can repeat a question within a section - useful if you want students to try several times with different randomised values (of course, this assumes that the question has randomised values!). You can even deliver different sections to the student depending on how they've done on the previous sections.
+The test screen is a little busier than the question authoring screen, so when time permits we'll try and put together some documentation that talks people through the various options. In the meantime, however, the various little icons
+scattered around the screen will pop up help about the option nearby.
+Unfortunately, QTIWorks does not yet have tests up and running. JAssess should run tests fine, however, and as long as you avoid the maths components of UQ, the venerable MathAssessEngine should also run them too (although it does have a bit of a problem displaying the question feedback).
+Meanwhile, people, as its author I hereby declare our old test authoring tool Spectatus officially obsolete! Awww. Please join me in a minute's silence for that worthy warhorse :-)
+Posted by
+Paul Neve
+at
+15:23
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+QTI,
+Question and Test Interoperability,
+Spectatus,
+test authoring,
+Uniqurate
+Tuesday, 21 August 2012
+Uniqurate - the final thrust (ooer)
+Following the recent RSC workshop, there was a release of Uniqurate that included quite a few bug fixes and a few feature requests. Most of the bugs should have been fixed (and I've probably introduced a whole bunch of new ones, but hey :-) and I've added some of the new features. However, there were a number of ideas for new components that emerged.
+We've been fortunate in that around the CAA conference onwards I've been available to work on UQ more or less full time, and as a result we've made a lot of progress in July and August. However, the bad news is that my involvement in Uniqurate ends in November, and along with the fact that once we get into September and teaching commitments rear their ugly head, this quick burn development is going to be curtailed. Short version: there is probably enough time remaining to get test authoring done and perhaps one other component.
+So I'm going to put the possible other component to a vote. Feedback from the RSC workshop, plus components that have been mooted in the past, leads us to the following list - numbered for reference, but not in any particular order:
+An "Excel" component - essentially a grid of (random) numbers, some of which will be blank, and the student has to fill in the blanks. The blank values would be derived from the non-blank values.
+A Medicine Component for questions where you have a list of medicines and a list of "strengths" for each - the question would choose randomly a drug and a strength to set up a calculation (but I'd need a little more explanation here :)
+"Fill in the blanks" within text - "blanks" could be either a text field into which the student types, or a pull down menu of choices
+Diagram labelling - drag labels onto the right place of a diagram. Potentially, drag bits of a diagram into the right place of a diagram.
+These aren't components, but feature requests, any one of which would probably use up the non-test development time:
+Option to place feedback alongside the input it refers to
+Confidence-based marking
+A random wrapper - i.e. you define a group of components, and at question run time it chooses a random component within this wrapper to show. Thus you could set up a variety of different components but with related content - e.g. several maths components with slightly different variations of a concept, MCQs with different but related distractors, etc.
+To help you decide, here's some thoughts about these from my perspective:
+3 and 4 are eminently doable. Although questions with graphical interactions seem to get good responses from students, the scope of the sister QTIDI project means that we're probably stuck with the legacy Java applet-based graphics for now at the renderer end of things. So if it came down to 3 or 4 my vote would be 3, to concentrate on the component that would result in the best experience when it was finally rendered.
+I understand the utility of 5, but it would mean a fundamental change in how the "friendly" mode composes its content, so it would be very complex to do and would burn up a lot of development time for something that is basically aesthetic.
+1 and 2 would need to be fleshed out a lot more, and I think there are others with greater cross disciplinary utility - but I'm game if people vote them highest!
+6 is often brought up as a popular choice - again, game if people vote it highest.
+However, my own vote would be 7. I think it would be relatively easy to implement both from a UI and QTI perspective, yet add a new dimension of flexibility to questions. You could specify a whole raft of similar but subtly different components around a given subject, and really put a student through their paces (although, arguably, one could do this at test level).
+Over to you, guys - what do you think?
+Posted by
+Paul Neve
+at
+16:27
+1 comment:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+QTI,
+Question and Test Interoperability,
+Uniqurate
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+Followers
+Blog Archive
+▼
+2013
+(1)
+▼
+January
+(1)
+QTI version 2.1 final released.
+►
+2012
+(23)
+►
+November
+(1)
+►
+September
+(3)
+►
+August
+(4)
+►
+July
+(4)
+►
+June
+(3)
+►
+May
+(3)
+►
+April
+(3)
+►
+March
+(2)
+►
+2011
+(6)
+►
+October
+(1)
+►
+September
+(1)
+►
+August
+(1)
+►
+June
+(1)
+►
+April
+(1)
+►
+March
+(1)
+Simple template. Powered by Blogger.

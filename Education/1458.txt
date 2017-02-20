@@ -1,0 +1,29 @@
+The XYZ Project | XYZ – Defining a new model for data publication
+The XYZ Project
+XYZ – Defining a new model for data publication
+Skip to content
+HomeAbout
+Welcome to the XYZ Project
+Posted on 9 August, 2010 by brianbrooks
+This is the blog for the XYZ Project.  XYZ aims to demonstrate a new way to collect data in support of academic publications.  At present, many scientific academic papers are published, but the supporting data behind the paper is not.  Publishing workflow only asks for such data to be provided after the paper is published.  In practice, by this time the scientist is usually engaged in other work, so the data ever gets added.  A better model is to ask for supporting data at the same time as the paper is submitted.
+The XYZ Project will create a demonstrator of a new workflow for publishing data in support of full-text.  The author prepares data for publication (if possible with validation) in a third-party trusted repository before the paper is submitted to a publisher.  Our software will manage the deposition, release to reviewers, dis-embargo and for conventional publication or as a data journal. Two Open Access publishers (International Union of Crystallography and BioMed Central) are engaged with the project and will test the new workflow.
+XYZ is project funded by JISC and it is run by Peter Murray-Rust’s group in the Unilever Centre at Department of Chemistry in the University of Cambridge.
+Posted in Uncategorized
+|
+1 Comment
+Search for:
+Recent Posts
+Welcome to the XYZ Project
+Recent Comments
+Mr WordPress on Welcome to the XYZ Projec…
+Archives
+August 2010
+Categories
+Uncategorized
+Meta
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.com
+The XYZ Project
+Create a free website or blog at WordPress.com.

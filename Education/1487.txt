@@ -1,0 +1,61 @@
+UKOLN eBank UK project
+eBank UK
+Home
+User Requirements
+Metadata schemas
+Pilot Development
+Digital Curation
+Data Citation
+Data Provenance
+Federation
+Workshops
+Dissemination
+Private Area
+About the Project
+Working in the area of digital repositories of crystallographic data, eBank UK
+is an interdisciplinary project that ran between 2003 and 2007, across 3 funding phases. It was led by UKOLN in partnership with the Intelligence, Agents & Multimedia Group, Department of Electronics & Computer Science and the Department of Chemistry, University of Southampton.
+In 2008, the focus of activity moved to the follow-on
+eCrystals project.
+Key Deliverables
+A number of key deliverables were produced during the lifetime of the project:
+The eCrystals archive, an OAI-PMH compliant repository at the University of Southampton, populated with a number of datasets from the chemistry sub-discipline of crystallography.
+A
+demonstrator for an aggregation service showing the potential for searching across dataset and publication metadata [further details]
+Three workshops bringing together a cross-sectoral audience of chemists and scientists from the UK and Europe, digital information management specialists, and publishers.
+Reports and presentations are available from the workshop programme pages.
+A number of reports including:
+"Scaling Up: Towards a Federation of Crystallography Data Repositories", Liz Lyon, Simon Coles, Monica Duke, Traugott Koch, May 2008 [PDF]
+"A Study of Curation and Preservation issues in the eCrystals
+Data Repository and proposed federation", M. Patel and S. Coles, September 2007
+[PDF]
+"Digital Repositories Supporting eResearch: exploring the eCrystals Federation Model" Wendy Warr, December 2006
+[PDF]
+"External evaluation of the eBank project", Grainne Conole, December 2006
+[PDF]
+The eBank UK initiative was set in the context of the JISC Information Environment, JISC funded development supporting end-users to discover, access, use and publish resources as part of their teaching, learning and research activities. eBank UK brought together chemists, digital librarians and computer scientists in an interdisciplinary collaboration which explored the potential for integrating research datasets into digital libraries by using common technologies such as the Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH).
+Other work
+eBank UK has disseminated widely within the crystallography and digital library
+communities, and the full list of the events where the project has presented
+is available on the dissemination
+page, together with the presentations or articles.
+User scenarios were employed to help understand requirements in this specialised area which deals with complex digital objects.
+The eCrystals repository at the University of Southampton was created using a modified version of the Eprints software.
+A metadata schema, based on Dublin Core, was designed to describe the datasets.
+eBankUK was also used as a case study by the Repository Research Team in the Repository Ecology study and in the Dealing with data report by Liz Lyon.
+Funding and Partnerships
+The eBank UK project received funding from JISC under a number of strands.
+Phase 1 began under the JISC Semantic Grid programme. Funding for Phase 3 of the Project was awarded from the JISC Capital Programme, under the repositories and preservation programme.
+The project has worked in partnership with other efforts, notably the Combechem project at the University of Southampton and the PSIgate Physical Sciences Information Gateway at the University of Manchester, now part of Intute, in phases 1 and 2.
+In Phase 3 the Digital Curation Centre became a formal partner.
+Overview Reading
+Early introduction to eBank UK (Ariadne 36, July 2003)
+Overview paper (JCDL, July 2005)
+Paper and presentation from the perspective of the scientific discipline - Crystallography
+(eScience All Hands meeting, September 2005)
+Project Proposal
+Phase 1 (2003-2004) [Word] | [PDF]
+Phase 2 (2005-2006) [Word]
+Web page content by Monica Duke of UKOLN
+Page last revised on:
+16-Oct-2008
+Email comments to webmaster@ukoln.ac.uk

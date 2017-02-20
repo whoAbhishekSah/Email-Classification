@@ -1,0 +1,80 @@
+RIDIR
+Browser does not support script.
+Text only | Print | Website Feedback | University portal
+RIDIR
+RIDIR
+Conferences
+Documents
+Links
+Project Aims
+Contact details
+Project Director:
+Ian Dolphin
+Project Manager:
+Richard Green
+e-Services Integration Group
+Academic Services
+Brynmor Jones Library
+The University of Hull
+Cottingham Road
+Hull HU6 7RX
+UK
+e-mail
+r.green@hull.ac.uk
+Partners
+The RIDIR project is funded by the Joint Information Systems
+Committee and is being undertaken by the e-Services Integration
+Group at the University of Hull and Rightscom Limited.
+The RIDIR Project
+The RIDIR project (Resourcing IDentifier
+Interoperability for Repositories) is a project funded under the
+auspices of the Joint Information Systems Committee 'Repositories
+and Preservation' Programme. It is investigating the requirements
+for, and benefits of, the clear use of persistent identifiers in
+order to facilitate interoperability between digital repositories
+of different types.
+Further details are to be found on the 'Project
+Aims' page of this website.
+News
+Final Report and Demonstrator (08/10/08) The
+JISC have given us permission to release the RIDIR Final Report and
+this can be downloaded from the 'Documents' section of this
+site.  Please get in touch if a copy of the Demonstrator DVD
+would be useful to you.  The Demonstrator is supplied for use
+with a downloadable Virtual Machine.
+Final Report and Demonstrator (06/08) The RIDIR
+Final Report and the software Demonstrator were submitted to the
+JISC at the end of June 2008.  The lengthy report makes a
+number of recommendations ranging from national strategy to
+repository implementation.  The Final Report will be made
+available through this website and through the University of Hull
+Institutional Repository as soon as it is approved by the JISC.
+Implementation (11/07) The early autumn has
+been spent turning our identified use cases into a more detailed
+form to aid implementation.  Our developers have started on
+production of components for the demonstrator.
+Workshops report and use cases (14/09/07)
+The report on the two national workshops and the use cases that
+were considered for the RIDIR Project is now available in the
+'Documents' section of this site.  This document also includes
+the subsequent proposal put to the JISC detailing two possible ways
+forward, and their response.  The proposal includes the five
+use cases that will be considered in detail.
+Focus Group meetings (18/04/07) At the RIDIR
+start meeting earlier in the week (16/04/07) it was decided that
+the foundation for the project's work should be established at two
+focus groups. The first such meeting will be held in London,
+probably in late May, when invited repository practitioners will
+discuss issues of interoperability so that we can establish the
+role that identifiers play, or should play. The second focus group
+will be held in Manchester towards the end of June where an invited
+group of identifier experts will discuss the outcome of the first
+meeting and how identifiers might be managed in order to best
+accommodate the needs of repository interoperability.
+Project start (08/03/07) The RIDIR project will
+officially start on 1st April 2007 and run for one year. At the
+moment the project team is busy arranging a start meeting. Watch
+this space!
+Accessibility ¦
+FOI ¦ Legal ¦ Privacy ¦ © The University of Hull , Cottingham Road, Hull. HU6 7RX, +44 (0)1482
+346311

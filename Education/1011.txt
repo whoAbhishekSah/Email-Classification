@@ -1,0 +1,49 @@
+PREPARDE
+Search:
+LoginPreferencesHelp/GuideAbout Trac
+WikiTimelineRoadmapBrowse SourceView TicketsSearchBlog
+wiki:WikiStart
+Context Navigation
+Start PageIndexHistory
+Last modified 4 years ago
+Welcome to the PREPARDE project
+Welcome to the PREPARDE project
+PREPARDE Communication: Blog, Hangouts, Mailing List & Trac
+Project Background
+This is the PREPARDE partner communications centre! Please see the  project homepage at the University of Leicester for further information.
+PREPARDE Communication: Blog, Hangouts, Mailing List & Trac
+This is the PREPARDE wiki and issue tracking site. This site provides a place for the PREPARDE team to collaboratively develop technology and discuss/resolve issues pertaining to that technology. The content is expected to change regularly, reflecting the current status of PREPARDE.
+PREPARDE Blog The blog provides regular updates about how PREPARDE is getting on
+Teleconference page: Teleconferences happen monthly at 4pm UK time.
+PREPARDE Events page.
+The PREPARDE mailing list is used to communicate with the whole project team and interested parties from other projects
+Tasks on the PREPARDE project are managed through the trac tickets on this website
+List of PREPARDE Deliverables
+The PREPARDE kick off meeting was held at the 2nd July 2012 at the University of Leicester. Minutes can be found here.
+Project Background
+The Peer REview for Publication & Accreditation of Research data in the Earth sciences (PREPARDE) project plans to capture the processes and procedures required to publish a scientific dataset, ranging from ingestion into a data repository, through to formal publication in a data journal. It will also address key issues arising in the data publication paradigm, namely, how does one peer-review a dataset, what criteria are needed for a repository to be considered objectively trustworthy, and how can datasets and journal publications be effectively cross-linked for the benefit of the wider research community. PREPARE brings together a wide range of experts in the research, academic publishing and data management fields both within and without Earth Sciences with the aim of producing general guidelines applicable to a wide range of scientific disciplines and data publication types.
+PREPARDE is a 12 month JISC funded activity to:
+To capture and manage the workflows required to operate the Geoscience Data Journal, from submission of a new data paper and dataset, through review and to publication.
+To develop the procedures and policies (for authors, reviewers and editors) to allow the Geoscience Data Journal to accept data papers as submissions for publication. This will focus on guidelines for scientific reviewers who will review the datasets.
+To incorporate some technical developments at the point of submission including data visualisation checks and interface improvements; to develop these to enhance the resulting data publications.
+To put in place procedures needed for lightweight data papers in the California Digital Library.
+To interact with the wider scientific and data community in order to provide recommendations on accreditation requirements for data repositories.
+To engage the user and stakeholder community to promote long-term sustainability and governance of data journals.
+The partners that will implement the project are:
+The  University of Leicester (UoL) will lead and administer the project and liaise with a range of academic stakeholders internationally for their input into the workshops and guidelines.
+The British Atmospheric Data Centre (BADC) will project manage the project as well as provide technical input into the cross-linking, workflows and scientific review work packages.
+Wiley-Blackwell will provide the publishing platform, work with partners to develop and implement workflows and support technical enhancements to enhance authorial and readership experiences.
+California Digital Library (CDL) will collaborate with the project to investigate a lightweight data paper convention with informal (crowd-sourced) review and will contribute a broader perspective from outside the Earth Sciences.
+National Centre for Atmospheric Research (NCAR) will provide use cases of current data review methods and feedback on development of peer review guidelines and workflows for the Geoscience Data Journal; contribute to the data repository accreditation report and workshops.
+F1000 will contribute a broader perspective to the project from the biomedical sciences, and subsequently extend the impact of the output from the work packages to the biomedical community through the launch of F1000 Research and the use of their Advisory Panel and the F1000 Faculty. They will also co-organise one of the workshops.
+Digital Curation Centre will assess peer review models, their overlap with data repository appraisal and ingest processes, and the respective roles of the main stakeholders; Workflows and interoperability with data centres and publishers; Trusted Digital Repository certification.
+Attachments
+PartnerLogos.PNG
+(63.4 KB) -
+added by scallagh 5 years ago.
+Partner logos
+Download in other formats:
+Plain Text
+Powered by Trac 0.12.2
+By Edgewall Software.
+Visit the Trac open source project athttp://trac.edgewall.org/

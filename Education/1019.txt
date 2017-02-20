@@ -1,0 +1,30 @@
+Peer Pigeon: REST Services for Resource Submission and Distribution to Peer Review Groups
+Home
+Overview
+UG Forge
+Presentations
+Publications
+People
+Contact
+Links
+Blog
+Project Info:
+Start Date:02/01/2007
+End Date:30/06/2007
+Funded By:JISC
+Updates:
+01/02/2007
+Peer Pigeon website launched
+University of Southampton >
+ECS >
+Peer Pigeon >
+Home
+Welcome to the PeerPigeon Website
+PeerPigeon was a JISC sponsered project that ran within the Learning Societies Lab from March to September, 2007.
+PeerPigeon aimed to produce a set of services for the e-Framework that would deal with Peer Review (or Peer Assessment), in particular the process of moving resources between peers according to a Peer Review Plan. In the end the project produced a working Peer Review infrastructure, implemented in Ruby, that uses a Ruby script to manage to logic of the peer review process. We are currently in the process of setting up a permanent PeerReview site, where the PeerPigeon service will be available. In the meantime you may be interested in the following resources:
+Demonstrator System
+Download the source code
+View the INSTALL or TODO files
+Latest from the Blog
+You step in the stream,but the water has moved on.This feed is not here.
+Contact Us | ©2007 University of Southampton

@@ -1,0 +1,102 @@
+SWORD – The SWORD website
+Skip to content
+HomeAbout SWORD
+A brief history of SWORD
+SWORD v1
+SWORD v1 Advocacy
+SWORD v1 Case Studies
+SWORD V1 Case Study – arXiv
+SWORD V1 Case Study – SPECTRa
+SWORD v1 Clients and Demonstrator Repositories
+SWORD v1 Downloads
+SWORD v1 Implementations
+SWORD v1 Specifications
+SWORD v2
+SWORD V2 Specifications
+SWORD v2 Extensions
+SWORD v2 Implementations
+SWORD v2 Presentations
+SWORD v2 Data Deposit Survey
+The SWORD Course
+Contact
+HAL adopts SWORD v2
+The HAL repository system has adopted SWORD v2 for remote imports: http://blog.ccsd.cnrs.fr/2013/11/les-api-dans-hal-v3/
+SWORDv2 and DSpace: New Release
+Re-posted from: http://cottagelabs.com/news/swordv2-and-dspace-new-release We’re pleased to be able to say that in the last month we’ve been working hard to get the new version of the SWORDv2 java library and the related DSpace module which uses it up to release quality, in time for the DSpace 4.0 release which will be very soon. For DSpace, this… Read More »
+SWORDv2 Compliance: how to achieve it?
+Our previous post “SWORDv2 Compliance: what is it and why is it good?” introduced some reasons to make your scholarly systems compliant with SWORDv2, and what that really means. This post covers an approach to achieving SWORDv2 compliance for your particular use case(s), using DataStage and DataBank as examples. First, if you are implementing a… Read More »
+SWORDv2 Compliance: what is it and why is it good?
+What does it mean to be compliant, and why is this a good thing? Where are the edges of SWORD v2 (what is part of the standard, what isn’t)? This blog post aims to address these questions. What does it mean to be compliant, and why is this a good thing? A compelling reason to… Read More »
+Extending DMPOnline with SWORDv2
+Cottage Labs have written a blog post about their project to add SWORD v2 deposit functionality into the DCC’s DMPOnline tool.  This new feature allows data management plans that have been created to then be deposited into a central repository using SWORD v2.  By using SWORD v2 (rather than SWORD v1), the data management plans… Read More »
+SWORD at Open Repositories 2012
+The 7th International Conference on Open Repositories in Edinburgh is less than a week away now!  Here is a list of SWORD related presentations at the conference by both the SWORD team, and others: OER: Workshop: Multi-repository Deposit to OER and IR at the Same Time: Monday, 09/Jul/2012: 9:30am – 12:30pm SWORDv2 for research data management:… Read More »
+Data Deposit Scenarios
+This is a bog post detailing some work that the SWORD team (Richard Jones, Stuart Lewis, Pablo de Castro Martin) have undertaken.  It describes some work related to research data deposit scenarios.It is hoped that a fuller write-up of this work will be published formally.  In addition, a cut down version will be presented at… Read More »
+Event report: Managing Research Data Hack Day
+If you are interested in the use of SWORD for the deposit of research data, take a look at the DevCSI event report from their recent ‘Managing Research Data Hack Day‘ event report: http://devcsi.ukoln.ac.uk/2012/05/11/event-report-managing-research-data-hack-day/ There is an interesting discussion and associated video about using SWORD v2 to deposit files using BitTorrent.
+SWORD Google Summer Of Code opportunity
+We’re pleased to advertise the following: Dryad (http://datadryad.org) is a repository for data associated with scientific publications. As Dryad grows, it is becoming more important to use established standards for exchanging data with other systems. Although Dryad is built on DSpace, the SWORD support in DSpace is not sophisticated enough to handle Dryad’s data model.… Read More »
+Launch of SWORD v2
+Originally published at: http://isc.ukoln.ac.uk/2012/03/20/launch-of-sword-version-2/ The second version of the SWORD resource deposit protocol, designed primarily to enable the deposit of scholarly works into content repositories, has now been released. Developed with funding from the JISC, the SWORD v2 project has built upon the successful and award winning SWORD deposit protocol to now support the full… Read More »
+Post navigation
+← Older posts
+Categories
+Case studies
+Clients
+News
+Repositories
+SWORD v1
+SWORD v2
+Uncategorized
+Archives
+December 2013
+November 2013
+December 2012
+August 2012
+July 2012
+May 2012
+April 2012
+March 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+October 2010
+September 2010
+August 2010
+Tagscase studies
+compliance
+demonstrations
+depositmo
+devcsi
+dspace
+eprints
+funding
+gsoc
+HAL
+jisc
+jiscdepo
+jiscmrd
+mrdhack
+or2012
+project plan
+research data
+scope
+software
+swordv2
+technical advisory panel
+the sword course
+video
+website
+Supported by… SWORD is supported by the following organisations:
+Iconic One Theme | Powered by Wordpress

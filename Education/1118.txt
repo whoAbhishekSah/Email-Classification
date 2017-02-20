@@ -1,0 +1,50 @@
+RepUK Project
+UKOLN
+Raising Awareness
+Home
+A-Z of projects and activities
+About UKOLN
+Contact UKOLN
+Accessibility
+News RSS
+"A centre of excellence in digital information management,
+providing advice and services to the library, information and
+cultural heritage communities."
+UKOLN is based at the University
+of Bath.
+On This Page
+About the Project
+UKOLN staff on the Project
+The RepUK Project
+About the Project
+The interest in exploiting the content to be found in institutional repositories is growing.
+At the same time, there is a range of possible uses for a central cache
+of metadata records held by institutional repositories. Most notably, with a recent
+emphasis on 'rapid innovation', there exists an opportunity to position this aggregation of data to support research and development generally in the fields of metadata and/or repositories. Rapid innovation projects which require a corpus of metadata to work with will benefit from this readily available data-store, avoiding the resource-intensive overhead of developing their own harvesting and aggregation solution.
+In the sense of Lorcan Dempsey's notion of 'concentration',
+the central cache or aggregation of metadata records can also serve to support ongoing services. Most notably, this aggregation is a ready source of what we might term business intelligence - that is, from this data the sector could expect to extract some useful understanding of the state of, and more importantly trends in, OA repository data in the UK.
+Objectives
+To provide a heterogeneous metadata store which consists of a managed aggregation of regularly harvested IR metadata record
+To provide a simple, RESTful API primarily to serve third-party retrieval of harvested records
+To provide feeds of subsets of this aggregated metadata to various R&D projects according to their specific needs negotiated with the project team
+To prototype a business intelligence reporting service, providing visualisations of result sets from queries based on the aggregated store
+To engage in technical knowledge sharing with related projects
+RepUK Demonstrator
+http://repuk.ukoln.ac.uk/
+UKOLN staff working on the RepUK Project
+Mark Dewey
+E-mail: m.dewey@ukoln.ac.uk
+Paul Walk
+E-mail: p.walk@ukoln.ac.uk
+UKOLN staff who have worked on the RepUK Project previously
+Monica Duke
+E-mail: m.duke@ukoln.ac.uk
+Julian Cheal
+E-mail: j.cheal@ukoln.ac.uk
+|
+|
+University of Bath
+UKOLN receives support from
+the University of Bath where it is based.
+Page last revised on:
+09-Jan-2013

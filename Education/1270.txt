@@ -1,0 +1,194 @@
+Streamline News
+Streamline News
+Integrating Repository Function with Work Practice
+Home
+About Streamline
+Downloads
+Evaluations
+Outputs
+Posts
+Resources
+Streamline People
+Recent Posts
+Project overview
+Evaluation… Part 3
+Evaluation Study … part 1
+It’s amazing what you find ..
+The Sharing Vision
+Archives
+Archives
+Select Month
+March 2009  (8)
+February 2009  (1)
+December 2008  (2)
+November 2008  (5)
+October 2008  (1)
+September 2008  (4)
+August 2008  (1)
+July 2008  (5)
+June 2008  (9)
+May 2008  (3)
+April 2008  (4)
+March 2008  (4)
+February 2008  (9)
+January 2008  (6)
+December 2007  (3)
+November 2007  (4)
+October 2007  (4)
+September 2007  (4)
+August 2007  (2)
+July 2007  (1)
+June 2007  (12)
+May 2007  (4)
+April 2007  (5)
+Categories
+Downloads
+e-Framework
+Events
+General
+Links
+Metadata
+Personal space
+Reflections
+Reports
+Repositories
+Search
+Topics
+ALPS
+Architecture
+assets
+audio podcast
+automatic summary
+Blogging
+Book
+books
+client side
+CMS
+CourseGenie
+del.icio.us
+Denim
+documents
+download
+eCat
+eFramework
+Emerge
+Gabbeh
+IMS
+interface
+interfaces
+IntraLibrary
+JISC
+jorum
+Learning
+learning objects
+LO
+LOM
+Meeting
+Metadata
+methodologies
+Moodle
+NLP
+organisation
+paper prototype
+Patterns
+PERSoNA
+personal management
+Personal space
+plone
+podcast
+Poster
+prototype
+Questionnaire
+Replika
+report
+Repositories
+repository
+Resource Discovery
+rights
+scenarios
+Search
+Searching
+Semantic analysis
+sharing
+Social Bookmarking
+social networking
+Social Software
+softwareEngineering
+tagging
+TiddlyWiki
+uml
+use case
+user evaluation
+users
+video podcast
+visualisation
+VLE
+web 2.0
+Wiki
+Wikipedia
+Workflows
+workshop
+York
+LeedsMet Projects
+Leeds Met Repository Blog
+PC3
+PERSoNA News
+Repository News
+Links
+E-Framework
+Emerge
+JISC Users and Innovation
+Leeds Met JISC Repository startup project
+Leeds Metropolitan University
+Web2Rights
+Subscribe
+Entries (RSS)
+Comments (RSS)
+Admin
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.com
+Outputs
+The Streamline project is now completed. The project outputs are listed below:
+Reports:
+JISC Final Report v1.3
+Reviews and working papers:
+Review of Plone
+Review of Moodle
+Review of Repositories
+Comparison of Course Genie and e-CAT
+Metadata creation progress report
+REPLIKA and Streamline
+ALPS Review
+Use Cases:
+Use case models of podcasting creation
+Use case models of learning object workflow (1)
+Use case models of learning object workflows (2)
+Use cases from Belfast Met
+Use cases: Leeds Met sharing
+Software:
+Overview architecture of repository work flow components
+Download metadata prototype (coming soon)
+Prototype design docs (coming soon)
+Prototype user help documentation (coming soon)
+User evaluation of prototype:
+Part 1 –  Interface functionality
+Part 2 – Metadata generation process
+Part 3 – Questionnaire on participants views
+Download components for GWT search interface(coming soon)
+Search interface design docs (coming soon)
+Leave a Reply Cancel reply
+Enter your comment here...
+Please log in using one of these methods to post your comment:
+Email (required) (Address never made public)
+Name (required)
+Website
+You are commenting using your WordPress.com account. ( Log Out / Change )
+You are commenting using your Twitter account. ( Log Out / Change )
+You are commenting using your Facebook account. ( Log Out / Change )
+You are commenting using your Google+ account. ( Log Out / Change )
+Cancel
+Connecting to %s
+Notify me of new comments via email.
+Blog at WordPress.com.

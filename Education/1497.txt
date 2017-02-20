@@ -1,0 +1,42 @@
+JISC ePortfolio Reference Model project
+eFramework Reference Models
+ePortfolio for Lifelong Learning
+See our project pages on the eFramework website at
+http://www.elframework.org/refmodels/epll/
+Site navigation:
+Home
+News/Key documents
+Outputs/outcomes
+Contact us
+Links
+ITT support documents
+Home
+Project materials to support potential bidders under the Admissions Demonstrators call of JISC Circular 04/06 are collected on the ITT Support Documents page.
+The final report was submitted to JISC in November 2006.
+Context for the Project
+The eFramework is an initiative by the UK's Joint Information Systems Committee (JISC), Australia's Department of Education, Science and Training (DEST), the Carnegie Mellon Learning Services Architecture Lab (LSAL) and a number of other international partners. Its aim is to build a common approach to Service Oriented Architectures for education. The eFramework aims to make explicit the network functions of eLearning to offer greater interoperability between systems and software, and to create a common approach across the eLearning community. It will support pedagogic innovation, offer greater flexibility and improve return on investment. For a briefing paper on the eFramework see www.jisc.ac.uk/elearningfocus/news_folder/eframeworkpaper .
+As part of its Distributed eLearning Programme, JISC funded six Reference Model projects from March 2005 to March 2006 to map specific areas of the eLearning domain to the e-Framework. Reference Models have been specified in the areas of learning design (LADIE), course validation (COVARM), assessment (FREMA), exchange of course-related information (XCRI), personalised learning environments (PLE)and ePortfolio. For further details on the programme see
+http://www.jisc.ac.uk/elearning_framework.html and
+http://www.jisc.ac.uk/uploaded_documents/elf-summary7-04.doc. The projects have been extended to August 2006, and reference models in further areas are under consideration.
+Further documents and information can be found at
+http://www.elframework.org/refmodels/.
+Background to this project
+A key requirement for the initiatives being announced by the UK Government is the development of
+open standards to support lifelong learning. The DTI funded the development of UK LeaP as a general
+British Standard arising from the work of CETIS LIPSIG: a specific standard for ePortfolio could
+further reduce the cost and complexity of implementation. Schools and colleges have not had funds
+to match those available for sustained development of PDP in HEIs; there is a need to develop a
+closer understanding of the processes in schools and colleges by which learners are supported
+to prepare for transitions, to FE and to university, and the further processes around induction,
+retention and preparation for employment. A single market for education and employment is emerging
+in Europe, and this project will seek to develop partnerships with European colleagues as the basis
+for work towards a European standard including international pilots of the Diploma Supplement to
+which other ePortfolio objects could then be added.
+The work has built on the findings of the earlier Specifying an ePortfolio project led by the University of Nottingham.
+Aims and Objectives
+The initial aim of the project was to produce a reference model of an ePortfolio capable of
+providing and receiving services from other ePortfolios in other episodes of learning, and of
+facilitating admissions and transitions between study and employment at different levels. It intended to test the proposition that the pattern underlying ePortfolio services provided for transition at different stages of education and employment is essentially repeated, thus reducing the complexity and cost while increasing the practicability of implementation for Lifelong Learning.
+The work has been scoping the interfaces between an ePorfolio and the services providing and consuming the information it contains. Our working hypothesis is that and ePortfolio is an application, rather than a service in its own right. It is the services (such as Personal Development Planning or Information, Advice and Guidance) which drive and therefore play the sequences of activities interacting with ePortfolio. We are investigating how this can be implemented using a web services approach, focusing initially on the UK UCAS application to HE process.
+We recognise the vital importance of scenarios and use cases in informing this work, and anticipate that we will be able to build links to existing materials from this website.
+Page last updated 16 October 2006

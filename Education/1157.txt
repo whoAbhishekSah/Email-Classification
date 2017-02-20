@@ -1,0 +1,187 @@
+SALT – Surfacing the Academic Long Tail | A JISC Activity Data project blog
+SALT – Surfacing the Academic Long Tail
+A JISC Activity Data project blog
+Skip to content
+HomeAboutRecipe: Data Extraction from TalisSALT recommender APITechnical Processes
+← Older posts
+Announcing Copac Activity Data Project (SALT 2) and new blog
+Posted on February 2, 2012 by joypalmer
+The work of SALT is continuing as the Copac Activity Data project.  Our new blog (including all the SALT posts) is here: http://copac.ac.uk/innovations/activity-data/
+And our first post is here: http://copac.ac.uk/innovations/activity-data/?p=453
+Posted in Uncategorized
+|
+Leave a comment
+Introducing the SALT recommender API ( based on 10 years of University of Manchester circulation data)
+Posted on November 15, 2011 by joypalmer
+I’m pleased to announce the release of the SALT recommender API which works with over ten years of circulation data from the University of Manchester’s John Rylands Library.
+The data source is currently static, but nonetheless yields excellent results. Please experiment and let us know how you get on. Stay tuned for a future post detailing some work we have planned for continuing this project, which will include assessing additional use cases, aggregating more data sources (and adding them to the API) and producing a shared service feasibility report for JISC.
+Posted in Uncategorized
+|
+3 Comments
+User Feedback Results – Super 8
+Posted on September 1, 2011 by janinerigby
+In an effort to find the magic number the SALT team opened its testing labs again this week.  Another 6 University of Manchester post graduate students spent the afternoon interrogating the Copac and John Rylands library catalogues to evaluate the recommendations thrown back by the SALT API.
+With searches ranging from ’The Archaeology of Islam in Sub Saharan Africa’ to ‘Volunteering and Society: Principles and Practice’ no aspect of the Arts and Humanities was left unturned, or at least it felt that way.  We tried to find students with diverse interests within Arts and Humanities to test the recommendations from as many angles as possible.  Using the same format as the previous groups (documented in our earlier blog post ‘What do users think of the SALT recommender?’), the library users were asked to complete an evaluation of the recommendations they were given.  Previously the users tested SALT when the threshold was set at 3(that is 3 people borrowed the book which therefore made it eligible to be thrown back as a recommendation), however we felt that the results could be improved.  Previously, although 77.5% found at least one recommendation useful, too many recommendations were rated as ’not that useful’,(see the charts in ‘What do users think of the SALT recommender?’).
+This time, we set the threshold at 15 in the John Rylands library catalogue and 8 in Copac.  Like the LIDP team at Huddersfield, (http://library.hud.ac.uk/blogs/projects/lidp/2011/08/30/focus-group-analysis/), we have a lot of data to work with now, and we’d like to spend some more time interrogating the results to find out whether clear patterns emerge.  Although, our initial analysis has also raised some further questions, it’s also revealed some interesting and encouraging results.  Here are the highlights of what we found out.
+The Results
+On initial inspection the JRUL with its threshold of 15 improved on previous results;
+Do any of the recommendations look useful:
+92.3 % of the searches returned at least one item the user thought was useful, however when the user was asked if they would borrow at least one item only 56.2% answered that they would.
+When asked, a lot of the users stated that they knew the book and so wouldn’t need to borrow it again, or that although the book was useful, their area of research was so niche that it wasn’t specifically useful to them but they would deem it as ‘useful’ to others in their field.
+One of the key factors which came up in the discussions with users was the year that the book had been published. The majority of researchers are in need of up to date material, many preferring the use of journals rather than monographs, and this was taken into account when deciding whether a book is worth borrowing. Many users wouldn’t borrow anything more than 10 years old;
+‘Three of the recommendations are ‘out of date’ 1957, 1961, 1964 as such I would immediately discount them from my search’ 30/08/11 University of Manchester, Postgraduate, Arts and Humanities, SALT testing group.
+So the book could be a key text, and ‘useful’ but it wouldn’t necessarily be borrowed.  Quite often, one user explained, rather than reading a key text she would search for journal articles about the key text, to get up to date discussion and analysis about it. This has an impact on our hypothesis which is to discover the long tail. Quite often the long tail that is discovered includes older texts, which some users discount.
+Copac, with a threshold of 8 was also tested. Results here were encouraging;
+Do any of the recommendations look useful;
+Admittedly further tests would need to be done on both thresholds as the number of searches conducted (25) do not give enough results to draw concrete conclusions from but it does seem as if the results are vastly improved on increase of the threshold.
+No concerns about privacy
+The issue of privacy was raised again. Many of the postgraduate students are studying niche areas and seemed to understand how this could affect them should the recommendations be attributed back to them. However, as much as they were concerned about their research being followed, they were also keen to use the tool themselves and so their concerns were outweighed by the perceived benefits. As a group they agreed that a borrowing rate of 5 would offer them enough protection whilst still returning interesting results. The group had no concerns about the way in which the data was being used and indeed trusted the libraries to collect this data and use it in such a productive way.
+‘It’s not as if it is being used for commercial gain, then what is the issue?’ 30/08/11 University of Manchester, Postgraduate, Arts and Humanities, SALT testing group.
+Unanimous support for the recommender
+The most encouraging outcome from the group was the uniform support for the book recommender. Every person in the group agreed that the principle of the book recommender was a good one, and they gave their resolute approval that their data was collected and used in a positive way.
+All of them would use the book recommender if it was available. Indeed one researcher asked, ‘can we have it now?’
+Janine Rigby and Lisa Charnock 31/08/11
+Posted in Evaluation
+|
+Tagged activity data, activitydata, humanities, jiscad, jiscsalt, libraries, personalisation, recommender, usage data, userbehaviour, users
+|
+Leave a comment
+Final blog post
+Posted on August 1, 2011 by joypalmer
+In this final post I’m going to sum up what this project has produced, potential next steps, key lessons learned, and what we’d pass on to others working in this area.
+In the last five months, the SALT project has produced a number of outputs:
+Data extraction recipe: https://salt11.wordpress.com/recipe-data-extraction-from-talis/
+Details on how the algorithm can support recommendations (courtesy Dave Pattern): http://www.daveyp.com/blog/archives/1453
+Technical processes documentation for processing the data and supporting the recommender API (though the API itself is not yet published): https://salt11.wordpress.com/technical-processes/
+An open licensing statement from JRUL which means the data can be made available for reuse (we’ve yet to determine how to make this happen, given the size of the dataset; and we also need to explore whether CC-BY is the most appropriate license going forward): https://salt11.wordpress.com/2011/07/26/agreeing-licensing-of-data/
+A trial recommender functionality in the live Copac prototype: https://salt11.files.wordpress.com/2011/07/copac_recommender.jpg
+A recommender function the JRUL library search interface prototype: https://salt11.files.wordpress.com/2011/08/salt_jrul.jpg
+User testing instruments:SALT Postgraduate User Discussion Guide  SALT user response sheet and results
+Feedback from collections managers & potential data contributors helping us consider weaknesses and opportunities, as well as possible sustainable next steps.
+Next steps:
+There are a number of steps that can be taken as a result of this project – some imminent ‘quick wins’ which we plan to take on after the official end, and then others that are ‘bigger’ than this project.
+What we plan to do next anyway:
+Adjust the threshold to a higher level (using the ‘usefulness’ benchmark given to us as users as a basis) so as to suppress some of the more off-base recommendations our users were bemused by.
+Implement the recommender in the JRUL library search interface
+Once the threshold has been reset, consider implementing the recommender as an option feature in the new Copac interface. We’d really like to, but we’d need to assess if the results are too JRUL-centric.
+Work with JRUL to determine most appropriate mechanisms for hosting the data and supporting the API in the longer term (decisions here are dependent on how, if at all, we continue with this work from a Shared Services perspective)
+Work with JRUL to assess the impact of this in the longer term (on user satisfaction, and on borrowing behaviour)
+The Big Picture (what else we’d like to see happen):
+1.       Aggregate more data. Combine the normalised data from JRUL with processed data from additional libraries that represent a wider range of institutions, including learning and teaching. Our hunch is that only a few more would make the critical difference in ironing out some of the skewed results we get from focusing on one data set (i.e. results skewed to JRUL course listings)
+2.  Assess longer term impact. Longer-term analysis of the impact of the recommender functionality on JRUL user satisfaction and borrowing behaviour.  Is there, as with Huddersfield, more borrowing from ‘across the shelf’? Is our original hypothesis borne out?
+3.  Requirements and costs gathering for a shared service. Establish the requirements and potential costs for a shared service to support processing, aggregation, and sharing of activity data via an API.  Based on this project, we have a fair idea of what those requirements might be, but our experience with JRUL indicates that such provision need to adequately support the handling and processing of large quantities of data.  How much FTE, processing power, and storage would we need if we scaled to handling more libraries? Part of this requirements gathering exercise would involve identifying additional contributing libraries, and the size of their data.
+4.       Experiment with different UI designs and algorithm thresholds to support different use cases. For example, undergraduate users vs ‘advanced’ researcher users might benefit from the thresholds being set differently; in addition, there are users who want to see items held elsewhere and how to get them vs those who don’t. Some libraries will be keen to manage user expectations if they are ‘finding’ stock that’s not held at the home institution.
+5.       Establish more recipes to simplify data extraction from the more common LMS’s beyond Talis (Horizon, ExLibris Voyager, and Innovative).
+6.       Investigate how local activity data can help collections managers identify collection strengths and recognise items that should be retained because of association with valued collections. We thought about this as a form of “stock management by association.”  Librarians might treat some long-tail items (e.g. items with limited borrowing) with caution if they were aware of links/associations to other collections (although there is also the caveat that this wouldn’t be possible with local activity data reports in isolation)
+7.       More ambitiously, investigate how nationally aggregated activity data could support activities such as stock weeding by revealing collection strengths or gaps and allowing librarians to cross check against other collections nationally. This could also inform the number of copies a library should buy, and which books from reading lists are required in multiple copies.
+8.       Learning and teaching support. Explore the relationship between recommended lists and reading lists, and how it can be used as a tool to support academic teaching staff.
+9.       Communicate the benefits to decision-makers.  If work were to continue along these lines, then a recommendation that has come out strongly from our collaborators is the need to accompany any development activity with a targeted communications plan, which continually articulates the benefits of utilising activity data to support search to decision-makers within libraries. While within our community a significant amount of momentum is building in this area, our meetings with librarians indicates that the ‘why should I care?’ and more to the point ‘why should I make this a priority?’ questions are not adequately answered. In a nutshell, ‘leveraging activity data’ can easily fall down or off the priority lists of most library managers.  It would be particularly useful to tie these benefits to the strategic aims and objectives of University libraries as a means to get such work embedded in annual operational planning.
+What can other institutions do to benefit from our work?
+For those using the Talis LMS (and with a few years of data stored), institutions can extract data, and create their own API to pull in as a recommender function using these recipes.
+Institutions can benefit from the work we did with users to understand their perceptions of the function, and can be assured that students (undergraduates and postgraduates) can see the immediate benefit (as long as we get rid of some of the odd stuff by setting the threshold higher)
+Use the findings of this project to support a business case for this work to their colleagues
+How can they go about this?
+Assess the quality and quantity of the data stored in your LMS to determine if there’s potential there. For this project (and for the simple recommender based on ‘people who borrowed) you only need data that ties unique individuals to borrowed items (see more from Andy Land on the data extraction process and how anonymisation is handled here: https://salt11.wordpress.com/recipe-data-extraction-from-talis/).
+To understand how the recommender algorithm works, see this post Dave Pattern wrote for us: http://www.daveyp.com/blog/archives/1453
+To follow our steps in terms of data format, loading, processing, and setting up an API see Dave Chaplin’s explanation: https://salt11.wordpress.com/technical-processes/
+To conduct user-testing and focus groups to assess the recommender, feel free to draw from our SALT Postgraduate User Discussion Guide and SALT user response sheet.
+Our most significant lessons:
+A lower threshold may throw up ‘long tail’ items, but they are likely to not be deemed relevant or useful by users (although they might be seen as ‘interesting’ and something they might look into further). Set a threshold of ten or so, as the University of Hudderfield has, and the quality of recommendations is relatively sound.
+Concerns over anonymisation and data privacy are not remotely shared by the users we spoke to.  While we might question this response as potentially naive, this does indicate that users trust libraries to handle their data in a way that protects them and also benefits them.
+You don’t necessarily need a significant backlog of data to make this work locally. Yes, we had ten years worth from JRUL, which turned out to be a vast amount of data to crunch.  But interestingly in our testing phases when we worked with only 5 weeks of data, the recommendations were remarkably good.  Of course, whether this is true elsewhere, depends on the nature and size of the institution. But it’s certainly worth investigating.
+If the API is to work on the shared service level, then we need more (but potentially not many more) representative libraries to aggregate data from in order to ensure that recommendations aren’t skewed to represent one institution’s holdings, course listings or niche research interests, and can support different use cases (i.e. learning and teaching).
+Posted in Uncategorized
+|
+Tagged activity data, activitydata, humanities, jiscad, jiscsalt, libraries, personalisation, recommender, usage data, users
+|
+Leave a comment
+Lessons learned from the user evaluation perspective (or can we define the ‘long tail’?)
+Posted on August 1, 2011 by joypalmer
+The key lesson we’ve learned during this project is that the assumptions behind the hypothesis of this project need to be reconsidered, as in this context the ‘long tail’ is complex and difficult to measure. Firstly how do we evaluate what is ‘long tail’ from a user perspective? We may draw a line in the sand in terms of number of times an item has been borrowed, but this doesn’t necessarily translate into individual or community contexts. Most of this project was taken up with processing the data and creating the API and UI; if we’d had a bit more time we could have spent more resource dealing with these questions as they arose during testing.
+The focus groups highlight how diverse and unique each researcher and what they are researching is. We chose humanities  postgrads, PhD’s and masters level, but in this group alone we have a huge range of topic areas, from the incredibly niche to the rather more popular. Therefore we had some respondents who found the niche searches fruitful and others who found nothing, because their research area is so niche, hardly any material they don’t already know about doesn’t exist. In addition, when long tail is revealed, some researchers find it outdated or irrelevant. This is why it isn’t borrowed that often. So is there any merit in bringing it to the attention of the research community?
+Further more in-depth testing in this area needs to be done in order to find answers to some of these problems.  The testing for this project asked the respondents to rate their searches and pick out some of the more interesting texts. But we need to sit with fewer researchers and broaden the discussions. What is relevant? How do you guage it as relevant? Some of the respondents said the books were not relevant but more said they would borrow them, so where does this discrepancy come from? Perhaps ‘relevant’ is not the correct term, can the long tail of discovery produce new perspectives, interesting associations perhaps previously not thought of? Only one-to-one in-depth testing can give the right data which will then indicate which level the threshold should be set.
+After all is there any point in having a recommender which only gives you recommendations you expect or know about already? However, some participants wanted this from a recommender or expected it and were disappointed when they got results they could not predict. I know if I search for a CD on Amazon that I’m familiar with I sometimes get recommendations I know about or already own. So the recommender means different things to different people. There is a group that are satisfied they know all the recommended texts and can sleep soundly knowing they have completely saturated their research topic and there is a group that need new material.
+The long tail hypothesis is a difficult one to prove in a short term project of 6 months. As its name suggests the long tail needs to be explored over a long time. Monitoring borrowing patterns in the library, click through and feedback from the user community and librarians will help to refine the recommender tool for ultimate effectiveness.
+Posted in Uncategorized
+|
+Tagged activity data, activitydata, humanities, jiscad, jiscsalt, libraries, personalisation, recommender, usage data, users
+|
+1 Comment
+What do the users think of the SALT recommender?
+Posted on July 29, 2011 by janinerigby
+Following internal in house testing the recommender was open to the users. In the last week of July 18 humanities postgraduates passed through the SALT testing labs, (11 PhD students, 3 taught Masters students and 4 research students). Lisa and I held three focus groups and grilled our potential users about the SALT recommender. The research methods used were designed to answer our objectives, with an informal discussion to begin with to find out how postgraduate students approach library research and to gauge the potential support for the book recommender. Following the discussion we began testing the actual recommender to answer our other research objectives which were:
+Does SALT give you recommendations which are logical and useful?
+Does it make you borrow more library books?
+Does it suggest to you books and materials you may not have known about but are useful and interesting?
+As a team we agreed to set the threshold of the SALT recommender deliberately low, with a view to increasing this and testing again if results were not good. As our hypothesis is based on discovering the hidden long tail of library research we wanted the recommender to return results that were unexpected – research gems that were treasured and worthy items but had somehow been lost and only borrowed a few times.
+42 searches in total were done on the SALT recommender and of those 42, 77.5% returned at least one recommendation, (usually many more) that participants said would be useful. (As an aside, one of the focus groups participants found something so relevant she immediately went to borrow it after the group has finished!)
+However the deliberately low threshold may have caused some illogical returns.  The groups were asked to comment on the relevance of the first 5 recommendations, but quite often it was the books further down the list that were of more relevance and interest.  One respondent referred to it as a ‘Curate’s egg’ however, assured me this was in reference to some good and some bad. His first five were of little relevance, ‘only tangentially linked’, his 6th, 7th, 8th, 9th, 11th and even 17th recommendations were all ‘very relevant’. Unfortunately this gave disappointing results when the first 5 suggested texts were rated for relevance, as demonstrated in the pie chart below.
+However the likelihood of borrowing these items gave slightly more encouraging results;
+Clearly we’ve been keen on the threshold count.  Lessons need to be learnt about the threshold number and this perhaps is a reflection of our initial hypothesis. We think that there would be much merit in increasing the threshold number and retesting.
+On a positive note, initial discussions with the researchers (and just a reminder these are seasoned researchers, experts in their chosen fields familiar and long term users of the John Ryland’s University Research Library) told us that the recommender would be a welcome addition to Copac and the library catalogue. 99% of the researchers in the groups had used and were familiar with Amazons recommender function and 100% would welcome a similar function on the catalogues based on circulation records.
+Another very pertinent point, and I cannot stress this strongly enough, was the reactions expressed in regards to privacy and collection and subsequent use of this data. The groups were slightly bemused by questions regarding privacy. No one expressed any concern about the collection of activity data and its use in the recommender. In fact most assumed this data was collected anyway and encouraged us to use it in this way, as ultimately it is being used to develop a tool which helps them to research more effectively and efficiently.
+Overwhelmingly, the groups found the recommender useful. They were keen that their comments be fed back to developers and that work should continue on the recommender to get the results right as they were keen to use it and hoped it would be available soon.
+Posted in Uncategorized
+|
+Tagged activity data, activitydata, humanities, jiscad, jiscsalt, libraries, recommender, usage data, userbehaviour, users
+|
+6 Comments
+Refining SALT (techie lessons learned)
+Posted on July 29, 2011 by dchaplin70
+While early tests with a sample set of data from JRUL were encouraging, see See SALT – a demo, an overhaul of the methodology behind the recommender API was required once the full set of loan transactions was obtained.
+It was feared that processing the data into the nborrowers table – containing, for each combination of two items, a count of the unique number of library users to have borrowed both items – might become too onerous with the anticipated 3 million records.  That fear turned to blind panic when 8 million loan records actually arrived!
+The approach for processing the data for the API was thus re-jigged.  As before the data was loaded into two MySQL tables, items and loans, and then some simple processing pushed the total number of loans for each item into a further, nloans, table.  The remainder of the logic for the recommender was moved to run, on demand, in the API.
+Given the ISBN of a certain item, let’s say ITEM A, and a threshold value, the PHP script for the API was coded to do the following:
+Find the list of all users in the loans table who have borrowed ITEM A
+For each user found in 1. find the list of all items in the loans table that have been borrowed by that user
+Sum across the lists of items found in 2. to compile a single list of all possible suggested items which includes, for each of these items, the number of unique users to have borrowed both that item and ITEM A
+From the list in 3. remove ITEM A and any items for which the number of unique users falls below the given threshold
+For each item in the list derived in 4. divide the number of unique users of that item by the total number of times that item has been borrowed, from the nloans table
+Rank the items in the list in 5. by the ratio of unique users to total loans
+Find the details of each item in the list in 6. from the items table and return the list of suggestions
+Testing showed that certain queries of the MySQL database involved in the above process were time consuming and affected the responsiveness of the API.  The following extra pre-processing was thus performed:
+The items table was split into 10 smaller tables
+The loans table was split into 5 smaller tables
+With queries rewritten so that searches access each of these smaller tables in turn rather than just looking at the original, large tables there was a significant boost in API performance.  The number of divisions for the above splits was somewhat arbitrary but was sufficient to render the API usable for testing.
+Further analysis would more than likely bring additional performance benefits, especially relevant as the amount of data is only going to grow (*).  Also on the to-do list is expanding the range of output formats for the API; at present only xml and json are offered though both of the developers implementing the API in Copac and in JRUL respectively suggested that jsonp would be easier to work with.
+(*) For reference, just over 8 million loan transactions are used for the current SALT recommender covering all available records up to July 2011, and these loans feature around 628,000 individual library items.
+Posted in Uncategorized
+|
+Tagged api, jiscad, jiscsalt, recommender, usage data
+|
+Leave a comment
+← Older posts
+Search for:
+Recent Posts
+Announcing Copac Activity Data Project (SALT 2) and new blog
+Introducing the SALT recommender API ( based on 10 years of University of Manchester circulation data)
+User Feedback Results – Super 8
+Final blog post
+Lessons learned from the user evaluation perspective (or can we define the ‘long tail’?)
+Recent Comments
+Evaluating the recom… on What do the users think of the…NmOTGKW on Lessons learned from the user…A sampling of SALT.… on The benefits of reusing activi…Refining SALT (techi… on See SALT – a demoWhat do the library… on Working through the SALT …
+Archives
+February 2012
+November 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+Categories
+Evaluation
+Project Plan
+Uncategorized
+Meta
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.com
+SALT – Surfacing the Academic Long Tail
+Blog at WordPress.com.
+SALT – Surfacing the Academic Long Tail
+Create a free website or blog at WordPress.com.
+Post to
+Cancel

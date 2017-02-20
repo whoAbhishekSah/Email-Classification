@@ -1,0 +1,69 @@
+Warning:
+Table './ahessc_drupal/cache_page' is marked as crashed and last (automatic?) repair failed
+query: SELECT data, created, headers, expire FROM cache_page WHERE cid = 'http://www.ahessc.ac.uk/purcell-plus' in /var/www/ahessc/includes/database.mysql.inc on line 174
+Warning:
+Cannot modify header information - headers already sent by (output started at /var/www/ahessc/includes/database.mysql.inc:174) in /var/www/ahessc/includes/bootstrap.inc on line 545
+Warning:
+Cannot modify header information - headers already sent by (output started at /var/www/ahessc/includes/database.mysql.inc:174) in /var/www/ahessc/includes/bootstrap.inc on line 546
+Warning:
+Cannot modify header information - headers already sent by (output started at /var/www/ahessc/includes/database.mysql.inc:174) in /var/www/ahessc/includes/bootstrap.inc on line 547
+Warning:
+Cannot modify header information - headers already sent by (output started at /var/www/ahessc/includes/database.mysql.inc:174) in /var/www/ahessc/includes/bootstrap.inc on line 548
+Warning:
+Table './ahessc_drupal/watchdog' is marked as crashed and last (automatic?) repair failed
+query: INSERT INTO watchdog (uid, type, message, severity, link, location, referer, hostname, timestamp) VALUES (0, 'php', '<em>Cannot modify header information - headers already sent by (output started at /var/www/ahessc/includes/database.mysql.inc:174)</em> in <em>/var/www/ahessc/includes/common.inc</em> on line <em>141</em>.', 2, '', 'http://www.ahessc.ac.uk/purcell-plus', '', '14.139.37.55', 1487560987) in /var/www/ahessc/includes/database.mysql.inc on line 174
+Purcell Plus | Arts and Humanities E-Science Support Centre
+Arts and Humanities E-Science Support Centre
+About
+Projects
+Support
+News and Events
+Community
+Information
+AHeSSC
+About
+Projects
+Outreach and Support
+News and Events
+Arts and Humanities e-Science Community
+Information and Resources
+Home
+Purcell Plus: Exploring an e-Science Methodology for Musicologists
+The Purcell Plus project investigates methodological issues surrounding the use of computer techniques in musicology being conducted in the Computing Department of Goldsmiths, University of London. Purcell Plus is building a computer-assisted research framework around three domains of information: musical scores, recordings and textual commentaries on the music. The first test case is Henry Purcell's set of Fantazies and In Nomines, based on the composer's autograph score of c1680 in the British Library.
+Project partners
+Centre for Cognition, Computation and Culture, Goldsmiths College, University of London
+Computing Department, Goldsmiths College, University of London
+Project Team
+Principal Investigator:
+Mr Tim Crawford, Centre for Cognition, Computation and Culture, Goldsmiths College, University of London
+Co-Investigator:
+Professor Geraint Wiggins, Computing Department, Goldsmiths College, University of London
+Project Ph.D.
+Richard Lewis, Goldsmiths College, University of London
+Project information
+Funding bodies
+The e-Dance project is funded by the UK AHRC-JISC-EPSRC e-Science Initiative (the Arts and Humanities Research Council, the Joint Information Systems Committee, the Engineering and Physical Sciences Research Council).
+Type of project
+Musicology e-science
+Application area
+Music studies
+Project duration
+1 September 2007 - 31 August 2012
+Project Website: www.purcellplus.org
+It is widely known that most textual comparison engines take similar word and phrases frequencies as an indicator of similarity for textual resources. Such text comparisons have been successfully used in Humanities Computing. Beyond text, however, there is little knowledge about what statistical similarity actually means. Music is such an example. Due to a great interest in the general public and its commercial exploitation, there can be no doubt that there are vast amounts of music now available in digital form - distributed across heterogeneous resources on the Internet. In musicology, the data deluge is already a problem and not one that only future generations of researchers will face. On the other hand, musicology seems rather unprepared to deal with such data. There are still too few developed experiments that showcase methodologies and technologies for musicological research working on the newly available corpora. Purcell Plus will investigate the methodology problems for using toolkits coming from music information retrieval in musicology research. It will look at the relationship of similarities in music discovered by the researcher compared to computationally derived ones.
+In the past, musicology methods have mainly relied on theoretical interpretations. Now, it has become more data-rich. The data is available in formats that can be exploited by computational and data resources or modelling techniques. While some disciplines in natural sciences have become more theoretical, musicology and many other disciplines in the arts and humanities can finally benefit from more empirical approaches. The grid is partly the result of particle physicists having to build larger and larger machines to keep up with experiments that would match the theoretical advancements in their field. Humanities on the contrary might be able to reinvent itself with new empirical methods. Purcell Plus works on the better understanding of this change by, among other things, comparing computational methods to describe similarities of pieces of music with the more traditional theoretical musicology based ones. This shift in methodologies has only become possible with e-Science means to integrate music resources and provide access to them so that they become useful to research.
+Related projects, all based at Goldsmiths ISMS group: OMRAS 2 (EPSRC: EP/E02274X/1), MeTAMuSE (Mellon Foundation), Modelling
+Melodic Memory and the Perception of Musical Similarity (EPSRC: EP/D038855/1) and Techniques and Algorithms for Understanding the Information Dynamics of Music (EPSRC: GR/S82220/01).
+Selected Presentations:
+Poster at Symposium on Concepts of Creativity in Seventeenth-Century England, Manchester, September 2008 http://www.arts.manchester.ac.uk/subjectareas/music/research/musicalcreativity/conference/
+Presentation by Tim Crawford, 'Musicology and methodology in a digital future', at eScience All-Hands meeting, Edinburgh, September 2008
+Back to e-Science Initiative projects page
+Submitted by tobiasb on Thu, 2008-07-17 23:13.
+Funded by
+AHeSSC Address:26-29 Drury Lane, King's College London, LONDON, WC2B 5RL,Tel: 0207 848 1975, Fax: 0207 848 1989
+Warning:
+Table './ahessc_drupal/watchdog' is marked as crashed and last (automatic?) repair failed
+query: INSERT INTO watchdog (uid, type, message, severity, link, location, referer, hostname, timestamp) VALUES (0, 'php', '<em>Table &amp;#039;./ahessc_drupal/cache_page&amp;#039; is marked as crashed and last (automatic?) repair failed\nquery: LOCK TABLES cache_page WRITE</em> in <em>/var/www/ahessc/includes/database.mysql.inc</em> on line <em>174</em>.', 2, '', 'http://www.ahessc.ac.uk/purcell-plus', '', '14.139.37.55', 1487560987) in /var/www/ahessc/includes/database.mysql.inc on line 174
+Warning:
+Table './ahessc_drupal/watchdog' is marked as crashed and last (automatic?) repair failed
+query: INSERT INTO watchdog (uid, type, message, severity, link, location, referer, hostname, timestamp) VALUES (0, 'php', '<em></em> in <em>/var/www/ahessc/includes/database.mysql.inc</em> on line <em>174</em>.', 2, '', 'http://www.ahessc.ac.uk/purcell-plus', '', '14.139.37.55', 1487560987) in /var/www/ahessc/includes/database.mysql.inc on line 174

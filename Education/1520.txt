@@ -1,0 +1,45 @@
+Writeslike.us | Project Home Page
+UKOLN
+Raising Awareness
+Home
+A-Z of projects and activities
+About UKOLN
+Contact UKOLN
+Accessibility
+News RSS
+"A centre of excellence in digital information management,
+providing advice and services to the library, information and
+cultural heritage communities."
+UKOLN is based at the University
+of Bath.
+Related Links
+Project home page
+Results and dissemination
+Writeslike.us: a Rapid Innovation project
+Writeslike.us was a 6-month JISC-funded project that explored the automated extraction of information about community structures. It was led by UKOLN at the University of Bath, with the University of Minho as a partner. The project ran from April to October 2009.
+This is a practical development project for development of a prototype repository enhancement service which automatically extracts candidate community participation information from analysis of existing documents and metadata. Along with the prototype a sample interface will be developed and tested. This project links formal and informal metadata for the purpose of helping individuals discover others with shared topics and interests, which has been described as an important step in linking individuals together without formal social networking information.
+Partners
+Ana Alice Baptista, University of Minho
+Useful links
+Google Code site for writeslike.us
+Writeslike.us prototype
+Contacts
+Project manager: Emma Tonkin
+Developers: Andrew Hewson, Alexey Strelnikov
+Project outputs
+Deliverable available at Google Code site
+Prototype available at prototype page
+Documentation to be placed here ASAP
+Some data soon to be released here as linked data
+Additional information available from the UKOLNDev blog.
+Further information
+Tonkin, E., 2010. Writeslike.us: Linking People through OAI Metadata. In: ELPUB 2010 - Publishing in the Networked World: Transforming the Nature of Communication. , pp. 98-118. University of Bath Repository Opus ID 18723
+The Jisc project page for Writeslike.us is available at http://www.jisc.ac.uk/whatwedo/programmes/inf11/jiscri/writeslikeus.aspx
+An archive version of the Writeslike.us site is available on the Internet Archive. On 13 March 2013 had been crawled 17 times, going back to 10 February 2010.
+|
+|
+University of Bath
+UKOLN receives support from
+the University of Bath where it is based.
+Page last revised on:
+03-Apr-2013

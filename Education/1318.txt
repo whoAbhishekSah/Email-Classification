@@ -1,0 +1,127 @@
+Telstar
+Telstar
+Integrating References and Citations into Learning Environments
+Citation Management SUMDeliverablesDisseminationInnovations in Reference Management Event ArchiveReMIT: Reference Management Integration Toolkit1. Introduction2. What is Reference Management?2.1 Introduction to Referencing2.2 Reference Management software3. Why integrate Reference Management?3.1 Information Literacy and referencings3.2 ePortfolios and referencing3.3 Library services and referencing4. Supporting good practice in Reference Management4.1 Information literacy skills4.2 Referencing styles4.3 Copyright, Intellectual Property Rights, Licensing and Reference Management5. Integrating Reference Management into a Technology Enhanced Learning environment5.1 Stakeholders5.2 Functional Requirements5.3 Linking to online resources5.3.1 Persistent Links5.3.2
+Authentication issues5.4 Workflows6. The Open University Approach6.1 Background6.2 Existing systems and processes6.3 OU Business Case6.4 OU Stakeholders and Requirements6.5 RefWorks6.6 Integration of References into the student ePortfolio environment6.6.1 ePortfolio integration options at the Open University6.6.2 ePortfolio integration decision at the Open University6.6.3 ePortfolio integration solution at the Open University6.7 Integration of References into Course material6.7.1 Integration of References into Structured Content material6.7.2
+Integration of References into Course Websites6.7.3
+RefWorks Account structure6.7.4 RefWorks folder structure prototype6.7.5 Solution at the Open University6.8 Providing Links to Resources from References6.8.1 A note on Referencing vs. Accessing6.8.2 Current Linking strategy at the Open University6.8.3 TELSTAR approach6.9 Authentication and Authorization mechanisms for OU library resources6.9.1 Current Authentication and Authorization mechanisms6.9.2 Impact of TELSTAR on Authentication and Authorization6.9.3 Future of Authentication and Authorization for library resources6.10 Potential impact on existing Library systems7. Appendix A: Extracts from the OU Business CaseTELSTARTelstar DemonstrationsTelstar Quick Demonstration
+Categories
+telstar
+Uncategorized
+Archives
+August 2013
+July 2010
+June 2010
+May 2010
+February 2010
+January 2010
+November 2009
+October 2009
+September 2009
+August 2009
+Tags
+deliverable
+devcsi
+irm10
+list8d
+prototype technical documentation
+telstar
+user requirements
+Search
+Subscribe
+Entries Comments
+↓ Archives ↓
+TELSTAR
+The TELSTAR (Technology Enhanced Learning supporting STudents to achieve Academic Rigour) project ran from November 2008 to July 2010. It was run by the Open University and funded under the UK Higher Education Joint Information Systems Committee’s Institutional Innovation Programme (Phase 2 – Large-scale Institutional Exemplars). The Project was carried out in collaboration with RefWorks-COS.
+This website (http://www.open.ac.uk/blogs/telstar) originally hosted the project blog, and now hosts the archived blog and the “Reference Management Integration Toolkit” (ReMIT). The project blog posts can now be accessed using the ‘Archived blog posts’ option on the righthand side of this page.
+The key outputs of the projects are:
+Open source code for integrating reference management tools into the Moodle online learning platform
+A toolkit for those looking at integrating reference management tools into their learning environment ‘ReMIT’, including a detailed description of the OU approach
+For more details see:
+Links to
+ReMIT (web pages)
+ReMIT (pdf download)
+Using TELSTAR in your institution
+Demonstration of TELSTAR software
+The Final Report of the project may also be of interest, and will be available on the TELSTAR project page on the JISC website once published.
+Project Website: http://www.open.ac.uk/telstar/
+The Open University working with:
+No Comment
+RSS
+Leave a Reply
+Sorry, comments are closed.
+Search
+Archived blog posts
+Select Month
+August 2013  (1)
+July 2010  (6)
+June 2010  (5)
+May 2010  (1)
+February 2010  (3)
+January 2010  (9)
+November 2009  (2)
+October 2009  (3)
+September 2009  (6)
+August 2009  (4)
+ReMIT – a Toolkit
+Citation Management SUM
+Deliverables
+Dissemination
+Innovations in Reference Management Event Archive
+ReMIT: Reference Management Integration Toolkit
+1. Introduction
+2. What is Reference Management?
+2.1 Introduction to Referencing
+2.2 Reference Management software
+3. Why integrate Reference Management?
+3.1 Information Literacy and referencings
+3.2 ePortfolios and referencing
+3.3 Library services and referencing
+4. Supporting good practice in Reference Management
+4.1 Information literacy skills
+4.2 Referencing styles
+4.3 Copyright, Intellectual Property Rights, Licensing and Reference Management
+5. Integrating Reference Management into a Technology Enhanced Learning environment
+5.1 Stakeholders
+5.2 Functional Requirements
+5.3 Linking to online resources
+5.3.1 Persistent Links
+5.3.2
+Authentication issues
+5.4 Workflows
+6. The Open University Approach
+6.1 Background
+6.2 Existing systems and processes
+6.3 OU Business Case
+6.4 OU Stakeholders and Requirements
+6.5 RefWorks
+6.6 Integration of References into the student ePortfolio environment
+6.6.1 ePortfolio integration options at the Open University
+6.6.2 ePortfolio integration decision at the Open University
+6.6.3 ePortfolio integration solution at the Open University
+6.7 Integration of References into Course material
+6.7.1 Integration of References into Structured Content material
+6.7.2
+Integration of References into Course Websites
+6.7.3
+RefWorks Account structure
+6.7.4 RefWorks folder structure prototype
+6.7.5 Solution at the Open University
+6.8 Providing Links to Resources from References
+6.8.1 A note on Referencing vs. Accessing
+6.8.2 Current Linking strategy at the Open University
+6.8.3 TELSTAR approach
+6.9 Authentication and Authorization mechanisms for OU library resources
+6.9.1 Current Authentication and Authorization mechanisms
+6.9.2 Impact of TELSTAR on Authentication and Authorization
+6.9.3 Future of Authentication and Authorization for library resources
+6.10 Potential impact on existing Library systems
+7. Appendix A: Extracts from the OU Business Case
+TELSTAR
+Telstar Quick Demonstration
+Telstar © 2017 • Powered by WordPress
+Theme "Vermillon" by Benoît «LeBen» Burgener for My Tapestry
+Entries Comments
+Top
+This blog is protected by dr Dave's Spam Karma 2: 1052
+Spams eaten and counting...

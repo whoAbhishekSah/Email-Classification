@@ -1,0 +1,9 @@
+PAXS
+PAXS
+The PAXS Project (Plugins for Advanced Export & Search) exists to create enhancements for two of the weaker areas of a stock EPrints installation. These two area's are metadata export and advanced search.
+Note: These are nightly development builds and as such may not be feature complete and may contain some bugs
+Export Plugin
+r10 was built on 11 September 2009 and is 14.9 KB
+Advanced Search Plugin
+r10 was built on 28 September 2009 and is 63.9 KB
+PAXS is being developed at the University of Southampton, funded by a grant from JISC

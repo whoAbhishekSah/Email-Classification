@@ -1,0 +1,106 @@
+STEEV
+Spatio-Temporal Energy Efficiency Visualisations
+HomeBlog
+Case Study: EEP model
+Contact
+Light bulbs & other jokes!
+Project Team
+Categories Project Plan
+Space, time and incurable romance!
+Add comments
+OK, so it’s not often that you’ll hear incurable romance and spatio-temporal visualisation used in the same sentence! However, without getting too metaphysical it can be argued that everything (even romance) happens at a co-ordinate in both space and time.  It can equally be argued that web technologies whilst becoming more sophisticated are equally more democratized. Geo-browsers, open visualisation utilites, standards bodies such as the Open Geospatial Consortium coupled to an ever increasing availability of free, open and licensed data, and user generated content are paving the way for us to explore and visualise change over time in a spatial sense to reveal new patterns about how we live now and may live in the future.
+The STEEV project is led by EDINA at the University of Edinburgh in partnership with the Welsh School of Architecture, Cardiff University and is funded as part of the JISC Information Environment Programme 2009-11 Geospatial strand. It proposes to leverage recent developments in the
+treatment of temporal aspects of digital ojects and resources and apply
+them to spatial resources in order to provide users with a visual means
+to investigate spatio-temporal change. The work being proposed is placed in the context of a concrete research scenario modelling past and future building energy use and energy efficiency measures aimed at climate impact mitigation.
+© Crown Copyright/database right 2011. An Ordnance Survey/EDINA supplied service.
+STEEV will use this platform to report on project development. So if it’s time travel you’re after watch this space (or to be more precise a large regional geographical area of around 10,000 dwellings in South East Wales) !!
+For further information on European Union energy policies and targets (‘the climate and energy package’) visit: http://ec.europa.eu/clima/policies/brief/eu/package_en.htm or the Sustainable Energy Europe Campaign website.
+Alternatively watch the EU Directorate-General for Energy and Transport video ‘Energy! Let’s save it:
+Posted by smacdon2 at 2:57 pm
+Leave a Reply Cancel replyYou must be logged in to post a comment.
+Recent Posts
+JISC Geo Tools event – Recommendations
+Amnesia and camtasia
+STEEV Final Product Post
+The end of STEEV is (almost) nigh ..
+Usability Review of the STEEV Interface
+Admin
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+Department of Energy and Climate Change BlogNews story: New legal powers could send UK scientists into space to research vaccines and medicinesNews story: Bryan Sanderson appointed interim Chairman of the Low Pay CommissionArchives
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+June 2011
+May 2011
+April 2011
+March 2011
+Tagsaims
+budget
+carbon emissions
+collaboration agreement
+communitybenefits
+copyright
+digitalresources
+e3viz
+ECCC
+Edinburgh Centre for Climate Change
+functional specification
+GECO
+Green Energy Tech Event
+heatmaps
+inf11
+institutionalbenefits
+interactive webtool
+ipr
+jisc
+jiscgeo
+license
+licensing
+light bulb jokes
+Memento
+objectives
+Oor Wullie
+outreach
+overview
+policy scenarios
+products
+projectmethodology
+projectplan
+projectprogress
+projectteam
+RESTful API
+riskanalysis
+spatio-temporalvisualisations
+successplan
+teamrelationship
+timeline
+users
+user testing
+variables
+workpackages
+workshop
+Pass on details about the STEEV project to a colleague: Spread the gospel according to STEEV!
+Blogroll
+Berkeley Earth Surface Temperature
+CASA (Centre for Advanced Spatial Analysis)
+Daily Green News
+GECO (Geospatial Engagement and Community Outreach) Project blog
+Gemma Project
+JISC GEO Programme
+RESTATS
+RETROFIT 2050
+The MUSIC Project
+Cut UK emissions using the National Carbon Calculator Set the policy on energy, transport and other sectors and measure the carbon emissions generated using the National Carbon Calculator!.
+STEEV Blog is licensed under a Creative Commons Attribution 3.0 Unported License.
+All postings on this blog are provided “AS IS” with no warranties, and confer no rights. All entries in this blog are my opinion and don’t necessarily reflect the opinion of my employer.
+For information on the use of cookies on this site please see the EDINA Privacy and Cookies Policy.
+© 2011 STEEV
+Suffusion theme by Sayontan Sinha
+Thank you
+Your feedback has been received.

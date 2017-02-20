@@ -1,0 +1,38 @@
+Discovery | Home
+HomeVisionThe Business CaseDeveloper ZoneProjectsNews & Events
+Welcome to Discovery
+Towards a thriving metadata ecosystem
+The JISC -funded Discovery programme was launched in May 2011 to create 'a metadata ecology' to support better access to vital collections data in libraries,
+archives and museums and facilitate new services for UK education and research.
+Our work will continue to the end of 2012 and is focused on advocating open data, reducing technical and licensing barriers, providing information, advice and training,
+and supporting exemplars.
+The Discovery programme takes forward the Vision of the earlier JISC and RLUK Resource Discovery Taskforce (RDTF) which has been working with partners from the libraries,
+archives and museums since 2010.
+Licensing Clinic,30 Nov 2012
+An opportunity for managers and decision makers in libraries, archives & museums to get practical advice from our experts at our second Licensing Clinic.
+learn more
+Licensing Clinic,30 Nov 2012An opportunity for managers and decision makers in libraries, archives & museums to get practical advice from our experts at our second Licensing Clinic.
+Discovery Open Metadata PrinciplesJoin the Resource Discovery Task Force partners in adopting a set of principles for opening up data.
+Feedback from the Community"Anything that helps people to make more meaningful use of resources is a good thing"
+Open Data – the Missing Link?Ken Chad positions Discovery in the context of global and national thinking.
+Practical guide to Licensing Open DataA guide for organisations considering the issues associated with licensing open data. By Naomi Korn & Prof. Charles Oppenheim
+Open Bibliography WorkshopDiscussion and debate during the day ranged over both technical and strategic issues.
+Jerome at the University of LincolnThe purpose of the Jerome project is a rather ambitious one.
+CoMET Sighted in the EastCOMET (Cambridge Open METadata) aims to release over 2.2 million catalogue records under a Public Domain Dedication License
+Opening Up Metadata:Challenges, Standards and Tools"Discovery collaborated with the Open Knowledge Foundation and DevCSI to run a workshop dedicated to looking at the technical challenges to opening up metadata
+in the cultural heritage sector.
+Case Studies and Guidance
+How institutions are enabling Discovery. Examples from across the sector, plus supporting guidance material
+Case Studies
+Planning to release data?
+What are the benefits of releasing data? Why are we emphasising open licensing?
+The Business Case
+Developer tools & resources
+A work in progress, this section of the site will be developed as we develop technical guidelines and identify more data sources.
+Developer Zone
+#ukdiscovery
+Discovery Blog
+What's new?
+Read our newsletter to find out the latest news from Discovery.
+Videos
+Browse all >

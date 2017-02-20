@@ -1,0 +1,243 @@
+JISC Transforming Assessment and Feedback For Institutional Change
+JISC Transforming Assessment and Feedback For Institutional Change
+Skip to content
+HomeAbout TRAFFICCommenting
+← Older posts
+Assessment in HE Conference 2015
+Posted on June 23, 2015 by rachelf
+Rod Cullen and Rachel Forsyth: Supporting information for poster for the Assessment in HE conference 2015, Birmingham
+Abstract
+A large post-92 University in the UK carried out a project to improve consistency and student satisfaction with assessment and to prepare the institution adequately for introduction of electronic management of assessment. As part of this project, an extensive baseline review of the University’s assessment policy and practice was carried out. This review concluded that existing procedures worked adequately from the point of view of compliance with the UK Quality Code (QAA, 2013). However, they did not provide a framework for the consistent provision of information about assignment tasks, submission, feedback and moderation across the university; there was a wide variety of practice in this regard. Evidence from external examiner reports, academic appeals, and staff and student comments indicated that this lack of consistency could lead to confusion about expectations in relation to the content and structure of assignments, marking criteria and the role of moderation in the assessment process.
+This kind of confusion may be an indicator of a lack of assessment literacy. It has been suggested that improved assessment literacy can also lead to improved assessment outcomes (Smith et al., 2011) and that it can improve the effectiveness of feedback (Price et al., 2010). A brief summary of the definition of assessment literacy provided by Price et al (2012) suggests that people who are ‘assessment literate’ understand the relationship of assessment to learning, know about key assessment concepts such as validity and reliability, can analyse marking criteria and standards, and possess appropriate self-assessment skills. The development of an institutional framework for the provision of information about assessment would enable more consistent discussion about all of these elements  with both students and staff, which should improve assessment literacy.
+Supporting discussion about assessment
+The project team wanted to develop a more consistent approach so that the institution could move to more effective electronic management of assessment: not simply online submission, but a way of managing the whole process from distribution of assignment briefs to recording of grades in the student record system.
+To facilitate this, we used a simple model of the assessment lifecycle and used this to try to support discussions about how different parts of the assessment process fitted together.
+Key student expectations
+An analysis of student comments left on an institutional survey found that better support for assessment preparation was a key development need. For most other areas of the
+Outcomes
+The University’s Code of Practice for Assessment was rewritten to improve clarity and to reduce confusion between the requirements of the institutional framework which needs to support effective processes and the maintenance of academic standards, and decision-making about academic issues such as choices of assignment type and size, and feedback strategy, which need to be retained within programme teams. The ICP was supported with a framework procedures for making key academic decisions about assessment: assignment briefs, marking, moderation and feedback.
+Supporting guidance was developed to provide ‘just-in-time’ references for colleagues at different points of the assessment cycle; the website received 9400 views in 2013/14, and 11500 in 2014/15 so far. There was also a programme of webinars and additional resources were developed for programme leaders.
+Programme planning templates
+Assessment resources
+References
+BLOXHAM, S. 2012. ‘You can see the quality in front of your eyes’: grounding academic standards between rationality and interpretation. Quality in Higher Education, 18, 185-204.
+PRICE, M., HANDLEY, K., MILLAR, J. & O’DONOVAN, B. 2010. Feedback : all that effort, but what is the effect? Assessment & Evaluation in Higher Education, 35, 277-289.
+PRICE, M., RUST, C., O’DONOVAN, B., HANDLEY, K. & BRYANT, R. 2012. Assessment literacy: the foundation for improving student learning, ASKe, Oxford Centre for Staff and Learning Development.
+QAA. 2013. UK Quality Code for Higher Education Chapter B6: Assessment of students and accreditation of prior learning [Online]. Gloucester: Quality Assurance Agency for Higher Education. Available: http://www.qaa.ac.uk/en/Publications/Documents/quality-code-B6.pdf [Accessed 4/1/14 2014].
+SMITH, C. D., WORSFOLD, K., DAVIES, L., FISHER, R. & MCPHAIL, R. 2011. Assessment literacy and student learning: the case for explicitly developing students ‘assessment literacy’. Assessment & Evaluation in Higher Education, 38, 44-60.
+Posted in Briefs, Events, News
+|
+Leave a comment
+A return to marking hell?
+Posted on January 17, 2014 by rachelf
+About a year ago, I published this post about trying to avoid marking hell. I said I would try to design assignments so that:
+Students feel proud of what they’ve done when they submit the task
+I look forward to marking the submissions
+Submissions are manageable to mark and moderate
+The contribution of the task to the overall aims and objectives of the course is clear to students, colleagues and external reviewers
+Someone else could run the assessment task easily if I fall under the proverbial bus
+Manifestos are all very well, but have I stuck to it? Since then, I’ve had to redesign all of the units (modules) I teach as part of a review, so I can’t say I haven’t had the opportunity. The first major deadline since then was yesterday. I have had a quick look at the submissions, though I haven’t yet marked them.
+I’ll have to ask the participants about the first one on the list, although from my quick look, I hope that they do feel proud of what’s been done.
+Number 2: I AM looking forward to the marking – well OK, does anyone ever look forward to grading? – but definitely to reading/watching/listening to the submissions. I think number 4 is definitely achieved.
+The submissions are sort of manageable, but they aren’t scaleable, because I gave a free choice of style and format. We’ve had: 1 face to face presentation, 1 DVD, 1YouTube video, 1 set of bound booklets, 2 Powerpoints with audio narration, and the rest as PDFs but in very different styles. I think I know what’s going on, but I am pretty sure the moderator is going to have to watch his language when I try to explain it.
+Which brings me to number 5. I haven’t documented this very well, so if I do fall under a bus, nobody will have a clue what’s going on. Must do better next time.
+I’ll get some proper feedback from participants about the experience. The offer of choice was definitely difficult for most people and I did answer a lot of questions about it (‘do what you like’ wasn’t enough of a steer!) but part of the aim of the assignment was to get people to think about what kinds of things demonstrate achievement of learning outcomes, so I think it was important.
+Did I say that the assignments are on ‘Assessment in Higher Education’, which does add another layer of complexity to any analysis?
+And no, of course I didn’t write this to distract me from getting on with the marking. I’m looking forward to it!
+Posted in assignment tasks, Marking
+|
+Leave a comment
+Open course on Assessment in HE
+Posted on January 9, 2014 by rachelf
+This blog may have gone quiet, but there is still quite a lot of work happening with the TRAFFIC project. We have been consolidating our findings into assessment policy and procedures which should improve both experiences of staff and students, getting these procedures through committee processes, and then disseminating information about them with staff development sessions and webinars.
+The next stage for the project is evaluation of all of this, and that will be taking place during the first half of 2014.
+With a big nudge from @chrissinerantzi, we are also developing an open online course on Assessment in HE and would like to invite potential collaborators and participants to get in touch. The course will follow a similar model to the flexible, open and distance learning course (FDOL) which Chrissi and colleagues have been running for a while.
+We have run an accredited module on Assessment in HE for about five years now for MMU staff, who can take this as part of a PGC or MA in Academic Practice, or just for professional development. The next iteration of the module is due to start on 28 April and it was already going to be online. We’d like to open it up more widely and get the benefit of perspectives from elsewhere, as well as sharing the outcomes of the TRAFFIC project.
+The module specification document is here. I have taught this version once in face-to-face mode, and it seemed to go ok (evaluation will follow after the assignments are marked).  The only thing I definitely need to change, for those taking the module for accreditation, is  to put more time into explaining the notion of choice around the assignment tasks, which proved problematic. Other than that, I don’t think there will be much difficulty in adapting the content – it is currently very MMU specific, but a stronger shift to experiential or problem-based learning should take care of that.
+The structure of the course is simple, as it’s based on the assessment lifecycle model. That should make it easier to set up and manage.
+There are a few issues around mixing an accredited module with an open model, of course. So far I’ve thought about:
+differing motivations making group work difficult
+maintaining motivation, particularly for those seeking credit
+access to peer-reviewed journals for level 7 work
+preserving quality of experience for those taking the course for credit if teaching resource is spread thin
+I’m sure there are many others, but these seem reasonably manageable. I ran my first accredited online course in 1997 (‘An Introduction to Open and Distance Learning’, running off a WebCT 1.6 server sitting under my desk) and we had similar issues then. I think it’s different now, because we have a much bigger and more accessible community interested in talking about these topics, and much better software, which should mitigate some of the difficulties. On the flip side, we have more constraints in connection with managing assessment (quite rightly) which can make us less flexible in responding to participants. Offering flexible enrolments or extensions to distance learning participants in the 1990s was pretty simple, even if the latter mostly just postponed the moment of disaster for over-stretched students.
+Let me know if you’re interested in participating in the course.
+Posted in News
+|
+1 Comment
+Assessment Management Processes
+Posted on August 16, 2013 by rachelf
+One of the key aspects of the TRAFFIC project has been an attempt to map the processes for each stage of the assessment lifecycle. As we’ve previously mentioned, we have quite a few parts of systems which work well on their own, but they are not always seamlessly linked to other important systems. We’d really like some kind of over-arching system which can help with workflows associated with assessment.
+This PDF file contains a process map for assignment submissions which are physical or digital objects (paper, digital files, portfolios, artwork, etc) and which can be shared with others. The other two main submission types would be ‘transient’ or ‘ephemeral’ submissions ( performances, presentations, posters, moots, etc), and examinations. If you can think of any others, let us know. We haven’t yet mapped these two alternatives but the only differences would be in the way that the submissions were logged, stored and distributed – the principles of would be the same, I think.
+This is a list of what we think is missing from existing assessment management systems or other systems which impact on assessment management such as VLEs or Student Record Systems:
+Pulling in data from existing systems which specify assessment arrangements (eg our unit outline database or our coursework receipting database) – not making people do things twice
+Managing ephemeral and examination assignment types
+Managing objects which aren’t paper
+Facilities to distribute assignments for moderation in a user-defined way
+Logging moderation activity
+Facility to allow anonymous marking.
+Facility to collect feedback for re-use eg sending to personal tutors, collating for unit leader, searching for keywords
+It would also be nice if the student record system could cope with doing statistical analysis on marks. There is a lot of useful information to be gleaned from differences between units and markers and between types of assessment.
+Although people from different institutions may think they have different needs from a system, I wonder how different they really are. A good system would allow for the institution to determine its own anonymous marking system or moderation practices – which might vary at the level of a department, as the QAA requirement is only to have a policy in place, not that it has to be institution-wide – and of course would allow for an interface to different VLEs and Student Record Systems. The overall process can’t differ much, can it?
+Let us know…
+Posted in News
+|
+2 Comments
+Multi-professional teams
+Posted on April 12, 2013 by rachelf
+I suppose it’s tedious to keep emphasising the extent to which assessment is a critical activity in the lives of staff and students, but I’m going to carry on doing it until we think that all of our systems are appropriately centred on it. Assessment affects individual progression, workloads, institutional performance and reputation and it dominates the planning of the annual academic cycle. And yet it only seems to feature as a bit player in systems design.
+In HE, assessment is pretty much the ultimate multi-professional activity – almost everyone in the organisation has some involvement with it at some time or other, especially if you count the Hall of Residence reception staff mopping tears or providing an incident report to support a mitigating circumstances claim, the library staff helping students to find sources, the technical staff rushing to deal with complicated equipment or to fix IT or print services just before a deadline, or the student life team coping with an unexpected problem.
+Mark Stubbs and I had a paper accepted at the AUA annual conference in March 2013, about our experiences of reviewing processes which have multi-professional input. We used two assessment-related examples to show how we would like to but don’t always manage to achieve the right input to projects and I thought it would be worth writing some further notes here.
+1: Coursework receipting
+MMU has a brilliant coursework receipting system which Mark has blogged about before. It does the job it was designed to do really well. It finds out when things need to be handed
+in (well, it doesn’t do that on its own, but it provides an incentive for academic staff to tell administrators this information). It provides information which can be fed to the VLE, providing a constant reminder to staff and students of when assignments are due. It allows submissions to be safely ‘posted’ in collection boxes rather than queuing at deadline time. It generates bar codes for the submission cover sheets. It sends an automated email to students to reassure them of safe receipt. It copes with registering information about submissions from students who have been given extensions, and with late submissions.
+There is nothing ‘wrong’ with the Coursework Receipting System. It does exactly what it said it would.
+It deals with a series of problems which were identified by professional staff.
+But when we started reviewing our overall assessment management systems, hoping to be able to incorporate the CRS, we identified a few issues:
+It was written in-house using database software which the university no longer supports routinely
+It doesn’t provide the same full service for ephemeral or electronic submissions, or exams
+It doesn’t provide any system for returning work to students
+This may be a slight over-simplification, but these issues are basically due to the fact that the process was designed and managed by one group of people, when the process itself actually must involve two other important groups: students, and academic staff. These two groups have other needs which aren’t currently being met by the system. So we need to do some redesigning.
+2: Academic Appeals
+As part of our baseline report for the TRAFFIC project, we were asked to review academic appeals. Academic appeals are the last resort for students who’ve failed a module. They are a quasi-legal process and there are only two grounds for appeal: that the student had mitigating circumstances which couldn’t be declared at the time, or that there was a material irregularity in the conduct of assessment. I won’t go into the report here, because it hasn’t yet been signed off by those who commissioned it, but it is a matter of public record that our institution has a lot of appeals, and that a very substantial number of these is upheld. The question posed to me before I began the review was whether there was something wrong with our appeals process.
+A colleague, Helen Jones, and I reviewed dozens of appeal cases and interviewed academic, Students’ Union, and administrative staff. The conclusion we came to was that it was actually a good process, managed and supported by people who care deeply about fairness. The reasons for the number of appeals came earlier in the assessment management process. And without going into detail here, what was really interesting was that lots of people involved in appeals knew EXACTLY how earlier processes could be improved, but didn’t know how to change the systems. So Students’ Union staff might be able to tell you about why students were having difficulty with something, but because they didn’t have regular contact with that something, they didn’t know how to effect change. Administrctive staff might have very shrewd ideas about changing some parts of the support system, but feek unable to suggest them. And academic staff may have little idea of what happens to bits of paper once they are ‘in the system': one member of academic staff said “Thank you for asking me about the administrative systems; nobody has done that before.” Whilst the working environment may be friendly and collegiate, there is still a sense of ‘that’s someone else’s domain’ whenever academic and administrative issues collide.
+Celia Whitchurch has written extensively about the difficulties of being a ‘third space’ professional, inhabiting a grey area between academia and administration, but I think we could do with more third space. Why don’t/can’t we have shared ownership of the whole process?
+This is not news to anyone interested in change management, but solving it is surprisingly difficult. Workshops with representatives from a variety of services should be effective, but there can be issues with one or two people dominating, even when you manage to timetable them. We’ve tried to work around this in the past by using ‘levelling’ activities such as competitive games, but not everyone likes these. Doing what Helen and I did with the appeals report, or our baseline report, is another way of approaching it: one or two people carrying out interviews and synthesising the outcomes. This has the benefit of ensuring that voices are heard, and not drowned out. Not ideal, though, because the chosen person may bring their own perspectives too strongly to the final result, and it may be hard to challenge. Sending documents round for comment is inclusive, but hit and miss in terms of replies, and again, the collator may be more biased then they realise.
+Basically, I’m still wrestling with the problem of reliably and effectively extracting ideas from multiprofessional teams. I thought about turning everyone upside down and shaking them, but apparently that’s just a metaphor for sharing best practice, not a real process. Who’s managed to solve this effectively in an HE context? What am I missing?
+PS Disclaimer: I cause just as much irritation to professional services staff, in the matter of assessment administration, as any other academic. I’m trying to do better!
+Posted in News, Systems
+|
+Leave a comment
+University Standards Descriptors
+Posted on March 5, 2013 by rachelf
+In an earlier post, I described the development of University Standards Descriptors to support a consistent approach to writing marking criteria across a very diverse institution. As part of the dissemination, I’ve done a short video to explain why they’ve been developed. This will be accompanied by guidance, worked examples, and some workshops.
+NB: you probably need to use HD setting on YouTube to read the extracts. A mobile phone screen will be too small – sorry – need to do some more work on my use of accessible technology.
+Posted in News
+|
+Leave a comment
+Access to Feedback
+Posted on March 4, 2013 by rachelf
+Last week I attended a useful catch-up with three other Strand A projects. Whilst we are approaching assessment and feedback management from different directions, with TRAFFIC focusing on institutional issues and INTERACT, eAFFECT and Assessment Careers primarily using case studies, there were some common themes which I’d like our project to consider.
+We all want to be able to create a repository of feedback which we can use for developmental work across a course – enabling staff and students to identify themes. Current software just doesn’t seem to deliver this (unless any readers know better?). The Dundee INTERACT project is using wikis for students to create their own repositories to be shared with staff. This is a functional solution, but it depends on students uploading and sharing their feedback.
+Related to this, feedback analysis tools are useful for discussion in programme teams – how much feedback do colleagues give? What is the tone? What is the format?
+We need to make sure that we include these elements in our wish-lists for new electronic assessment management processes.
+Posted in Feedback
+|
+Leave a comment
+Can we avoid marking hell?
+Posted on January 17, 2013 by rachelf
+Inspiring blogger Plashing Vole has published a blogpost about marking which will certainly strike a chord with many of my colleagues. It got me thinking about what the possible solutions should be. We can’t go on like this! Or at least, I worry about Plashing Vole if we do.
+The TRAFFIC project is a review of assessment policies and procedures at MMU. Some of this is about technology, and some of it is about administrative processes, but we’ve also taken the view that it’s pointless to look at those elements without also having a critical look at principles and practice. As we may have said elsewhere, assessment concerns pretty much everybody in the institution. Obviously students have to do it, with all of the stress and anxiety it causes them. Academic staff have to set it and mark it. A team of academic and administrative staff has to make sure that it’s collected in, logged, distributed to markers, moderated internally and externally, returned to students and that grades are accurately recorded and presented to assessment boards. But others are also involved. Library staff support students in finding and using resources, technical staff advise on methods and systems. An institution may offer additional language support to those whose first language isn’t English or to those with disabilities. Support and counselling staff may be aware of mitigating circumstances which require special consideration at assessment time. Senior staff track student performance avidly. So we are all in it together when it comes to assessment.
+The management of assessment is complicated, and this may lead us to focus on the process when we’re thinking about reviewing assessment. But Plashing Vole’s blogpost is a useful reminder that there are other considerations which must be factored in to our review.
+In the assessment lifecycle, it all starts with the design and specification of the task. Do we need some kind of manifesto for assignment design? Here’s a possible one:
+I will design all of my assignment tasks with the intention that:
+Students feel proud of what they’ve done when they submit the task
+I look forward to marking the submissions
+Submissions are manageable to mark and moderate
+The contribution of the task to the overall aims and objectives of the course is clear to students, colleagues and external reviewers
+Someone else could run the assessment task easily if I fall under the proverbial bus
+I thought about adding a whole set of other parts, such as saying that the task would be difficult to plagiarise, but pretty much all of the considertations that sprang to my mind would be subsumed under each of these. I don’t enjoy detecting and penalising plagiarism – probably one of the most dispiriting experiences in a lecturers’ life (maybe second to meetings which involve discussion of car-parking?). I don’t enjoy reading what amounts to the same essay numerous times because I’ve set something that basically only has one answer. I don’t enjoy failing work.
+I do love marking work in which a student shows that they’ve engaged with the course material and enjoyed it, and can see the relevance to their overall professional development (I now teach on courses which are practice-focused, so the connections are easier to make, but that was also the case when I taught physics to prospective science teachers who thought they hated physics). So I need to design assignments which first have the potential to let students demonstrate engagement and enjoyment.
+I thought about including ‘students will enjoy doing the work for the task’ but I decided that would be difficult. Assessment is always going to be stressful because it has a performance element. It would be delusional to think it will be entirely enjoyable while it is being done. It would be nice if students looked back on it and thought they’d enjoyed it, but evaluating that is beyond my capacity.
+At MMU, unit leaders are free to choose whatever type and size of assignment task they think will best allow students to demonstrate achievement of the unit learning outcomes. The most popular assignments for first and second years (Levels 4 and 5) at MMU are shown in figure 1.
+I’ve blogged about this before and even if you haven’t read that, I doubt whether the list is a surprise to anyone. Most people will have experience of most of these tasks, either as a student or as a tutor/marker, and that can be a key factor in making a decision about the task. These tasks are tried and tested. We feel safe with them. I have no objection to an essay as a way of demonstrating the ability to develop and express a concise argument. But I don’t want to focus on those seven popular assignments. I can see why they are popular. I’m interested in the fact that there are around one hundred other types of assignment task in use at each of these two levels (click here for a full list of assignment tasks 12/13). How do people make the decision to use these?
+In terms of marking, my favourite current task is a poster session where students present their research proposals to peers and tutors. It’s really hard to get all of your plans onto one A2 sheet which mustn’t have too much text on it. I guess you could plagiarise the components, but it would be difficult to fit them into your personal context and to explain them to peers and tutors as they progress around the room. It’s quick to mark (5-10 minutes per person in the room, 5-10 minutes each preparing feedback sheets) and it’s fun to do. Everyone sees everyone else’s work and gets ideas from it (it’s the penultimate task on the course, so there is time to use that learning). One thing I haven’t cracked with it is getting more peer involvement with the grading (feedback is fine). Now it would be difficult to do this with large numbers but some of our colleagues have done some brilliant work on this which involves an all-hands-on-deck day. Challenging to organise but apparently very, very enjoyable.
+We have some guidance on a small selection of ‘alternative’ tasks and as part of the next phase of the TRAFFIC project I’m going to review this to include guidance for each part of the assignment lifecycle, so there will be more on the planning and management, and design of appropriate marking critera, for each one. So who’s with me on the manifesto? What’s missing from it?
+Many thanks to Plashing Vole for sparking this blogpost….maybe he or she will disagree?
+credit: Trident photo by the|G|â„¢, creative commons licence on Flickr
+Posted in assignment tasks, Marking
+|
+Leave a comment
+“Run away” (a post about Marking Criteria)
+Posted on December 2, 2012 by rachelf
+“On second thought, let’s not go to Camelot. It is a silly place.” (King Arthur, in Monty Python and the Holy Grail)
+Which is rather a silly way to introduce a post on Marking Criteria and Grade Descriptors, but the quest to agree them has been something of a grail in our institution for several years, and King Arthur’s other catchphrase of “run away” has at times been a tempting proposition.
+To explain why our team has even considered straying into this dangerous area, I have to begin by referring you to our last QAA institutional audit report. In the baseline report for the TRAFFIC project, we said:
+“The most recent QAA institutional audit for MMU recommended that the university should “establish a set of comprehensive university-wide assessment criteria to help maintain consistent standards across all provision, both on and off-campus” (QAA 2010). This recommendation has resulted in considerable discussion, particularly in the assessment community of practice, which has considered this issue regularly since 2007, but no acceptable structure has yet been found which covers awards from Fine Art to Nursing”
+The existing approach at institutional level was simply to provide marking bands:
+Programme teams then determined their own marking criteria, ie what it meant to produce an excellent, very good, good piece of work in their own discipline for a particular assignment. There has never been a problem with this and external examiners have never picked out this issue as a concern. There were no issues with competence.
+The photo at the top of this post is titled ‘outstanding’. I’m sure we’d all agree. But why? We’d start talking about colour, composition, and so on. We do need more words than the ones in this bare set of bands.
+Believe me, we had put a lot of thought into a better set of descriptors over the last few years. We always got stuck on the principle of institution-wide criteria. There is just too much variation in the type and purpose of assessments – how do you compare an essay with an exhibition with a treatment plan with a lesson observation? Once we started getting any more descriptive than the bald grading bands listed above, we got locked into endless discussions about sources, data, threshold concepts and more.
+However, having a common language to discuss grading would be useful, particularly for new staff and for those contemplating assessment change. There is a heavy dependence on an implicit shared understanding if you are using differentiators like ‘good’, ‘very good’, and ‘excellent’. This might have an impact on people’s confidence in having discussions about marking and might lead to people taking longer over the marking process than is really needed.
+More pressingly, getting a consistent approach to marking criteria was needed for the purposes of responding to institutional audit. But it needed to be an approach which worked across the institution.
+We have to ensure that any institutional systems that we design for electronic assessment management are able to accommodate the use of marking criteria and their directly-related feedback strategies. If programme teams can’t use the institutional criteria and have to constantly translate their own across to a compulsory electronic system, we’re all going to be wasting huge amounts of time. Obviously I’m talking hypothetically here, nobody would ever be that daft, would they?
+So we’ve had another go at this.
+The Centre for Academic Standards and Quality Enhancement managed to gather a group together with appropriate representation from each of our eight faculties. This group decided that it was probably possible to agree a set of standard descriptors which would work across the whole institution and to produce guidance on how they could be interpreted into specific marking criteria for each assignment.
+Approach
+The University has recently introduced an Employability Curriculum Framework which includes a set of Graduate Outcomes which should be assessed in every programme. Each unit (module) description at undergraduate level now indicates which of these Outcomes is addressed in the unit.
+So, we decided to use these outcomes to provide a basis for our institutional grade descriptors. For each Graduate Outcome, we’ve written a threshold (pass) descriptor for each of the academic levels at which we provide taught courses: 3-7 on the framework for higher education qualifications (FHEQ) – click to see a full size version.
+So this gave us descriptors for a threshold pass for each of the Graduate Outcomes. Next, we wrote descriptors to differentiate performance at each level in very generic terms. For example, the structure of presented work moves from ‘recognisable’ through ‘coherent’, ‘careful’ to ‘creative’ as performance improves through the bands for level 3.
+This process gave us a full set of descriptors for each grade band, at each level – rather a long document, but it will be split up into levels to make it easier to use. In the process of doing this, we decided to split the top and bottom bands to provide guidance for differentiating truly outstanding and poor performances – something that external examiners here, as at many other institutions, have mentioned frequently in reports.
+The main value to the descriptors seems to me to be in the provision of more specific language for differentiating performance, both within levels and as students proceed up the levels. We’ve started a list here, but I’m sure this will develop as the project continues, and there may well be intense discussions about which band particular words should be in. But I think we’ll all agree that they are more helpful than ‘good’, ‘very good’ and ‘excellent’!
+Each programme team will be encouraged to replace words from the standards descriptors such as ‘primary and secondary sources’, ‘theory’, ‘community’, ‘audience’, ‘professional values and standards’ and so on with language which is specific to their discipline.
+I hope the existence of these descriptors will improve confidence in marking judgements, particularly for new staff, and make it easier for people to discuss marking decisions. We are now at the stage of having a set of descriptors. Next stage is to write some guidance and provide examples across the disciplines taught in the university, and then present the descriptors to Faculty Student Experience committees during Spring 2013. I’m sure there will be some tweaks to the descriptors during this process. (tweaks = robust discussion).
+Coming back to JISC Assessment and Feedback programme, this process ties into institutional electronic assessment management systems in the following ways.
+It gives us a framework for electronic marking rubrics and grids
+It ties our Graduate Outcomes recognisably into each assignment, strengthening our Employability Curriculum Framework and giving us potential to include better information into the Higher Education Achievement Report without extra work on the part of staff
+It has the potential to provide a bank of standard feedback comments (eg Grademark Quickmarks) for each band at each level because of shared agreement about descriptive language.
+We’ll be reporting back on progress….
+Posted in Baseline, Marking
+|
+1 Comment
+Safety in numbers?
+Posted on September 19, 2012 by rachelf
+Maybe it’s just me, but there is something about quantitative data that I find vaguely comforting. There are numbers here! They must measure something useful! We can do things with them, like make a bar chart or, if there are variables, look for correlations. They don’t need to be interpreted. We don’t need to go back to the transcript and wonder what was meant by them or whether we asked the question in a leading way.
+The institution has invested hugely in new systems to help us to manage information about assignments and other aspects of curriculum design. So it seemed quite exciting to be able to download a list of all the assignments which enrolled students at MMU will take during 2012/13. We were able to do this last year too, but the information had not been very consistently logged before the EQAL process began, and so it was difficult to make much comparative use of the data. Since we moved to a new unit proforma database two years ago, information is captured more consistently. Each assignment is classed as either exam or coursework, and then each item of coursework gets a one or two word description. In theory, it should be simple to sort these and then get a picture of the kinds of assignments which are being set. For the TRAFFIC project, this might then give us an idea of which are the most popular assignments so that we know where to focus system development efforts and to identify unusual but interesting assignments which might make good case studies to test the assignment management systems and also to share good practice.
+It turns out that even though the information is in better shape, it still isn’t as clear as we might have expected. A quick sort in Excel by ‘assignment name’ is quite useful to show that ‘exam’ and ‘examination’ are both in use, but you have to look carefully to see that ‘unseen exam’ and ‘seen exam’ also appear in the list. Essays are often logged by their size or weighting (‘20% essay’, ‘essay 20%’, ‘2500 word essay’ or ‘essay 2500 words’, might be used, for instance). Multiple-choice, multiple choice or computer-marked tests might all refer to the same kind of thing. What’s the difference between a ‘critical evaluation’ and a ‘critical analysis’ (discuss)? Is a ‘class test’ the same as an ‘in-class test’ or just a ‘test’? Is there a difference between ‘coursework’ and ‘assignments’? Should a ‘group presentation’ be considered as a presentation, or as groupwork? Are ‘coursework’ or ‘groupwork’ actually useful names for assignment tasks? They could cover any other kind of assignment!
+When you are counting the frequency of individual items, then these kinds of interpretations might have a big impact on the data. There’s probably no problem with
+replacing ‘exam’ with ‘examination’, but would it be useful to know about the frequency of unseen exams compared to seen ones. or ‘open book’ ones? If it would be useful, do we know whether all of those marked just as ‘exam’ are seen or unseen?
+So, useful though it is to have this data, it can only be regarded as indicative, and despite the apparent confidence given by the use of numbers, they need to be treated with caution. And with this long preamble, I include a bar chart showing the top 7 assignments being offered to our students at levels 4 and 5 this year. These assignments represent around two-thirds of the 1300 or so tasks being set each year for our 36,000 students.
+Now, this pattern will not surprise anyone; these are good, solid, well-tried assignment techniques. The information is useful in giving us a notion of what kinds of items need to be tested to ensure that any changes in processes for assignment management work properly, because it would be disastrous to implement a new system which didn’t take all of them into account.
+Level 6 assignments are still using our ‘old’, pre-EQAL programme structure, with 20 credit units and up to nine assignments allowed per unit, and vaguer descriptions, so it is meaningless to even attempt a like-for-like comparison. 34% of the 3775 assignment tasks are simply described as ‘coursework’ which could include any or all of the non-exam items above. However, in the remaining 66%,
+the same kinds of assignments are still popular, with essays, portfolios, presentations and reports still featuring in the top ten.
+Perhaps more interesting is the range of ‘other’ types of assignment which clearly address key graduate outcomes such as articles, blogs, bibliographies, exhibitions, moots and so on which are barely used – there are 75 different types of assignment at level 4 which are used in 9 or fewer units.
+Replacing just one of the usual suspects in the chart with one of these might add a lot of value to other programmes if they felt confident in taking them up. What kind of information might colleagues need to find out about these types of assignment and make informed choices about using them? Can we learn anything from this kind of information or is it just there ‘because we can’?
+What do you think? Is it faddish, or restrictive, to move away from general descriptions of assignment tasks to more precise names such as ‘personal dossier’ (sinister?) or ‘health and safety report’? Is it useful to students to have more detail in the assignment title? What would you do with the information to inform assessment practice? Ideas and comments are very welcome or you can tweet comments to @mmutraffic.
+Posted in assignment tasks
+|
+2 Comments
+← Older posts
+Search for:
+Recent Posts
+Assessment in HE Conference 2015
+A return to marking hell?
+Open course on Assessment in HE
+Assessment Management Processes
+Multi-professional teams
+Recent CommentsQAA Scotland Focus On Assessment and Feedback Workshop | Sharing and learning on Open course on Assessment in HETRansforming Assessment + Feedback For Institutional Change (TRAFFIC) at MMU | Electronic Management of Assessment on TRAFFIC assessment info goes mobileTRansforming Assessment + Feedback For Institutional Change (TRAFFIC) at MMU | Electronic Management of Assessment on University-wide coursework submission systemTRansforming Assessment + Feedback For Institutional Change (TRAFFIC) at MMU | Electronic Management of Assessment on Handling MarksTRansforming Assessment + Feedback For Institutional Change (TRAFFIC) at MMU | Electronic Management of Assessment on Safety in numbers?Archives
+June 2015
+January 2014
+August 2013
+April 2013
+March 2013
+January 2013
+December 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+Categories
+assignment tasks
+Baseline
+Briefs
+e-submission
+Events
+Feedback
+Marking
+News
+Systems
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+JISC Transforming Assessment and Feedback For Institutional Change
+Proudly powered by WordPress.

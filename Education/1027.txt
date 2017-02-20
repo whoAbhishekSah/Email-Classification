@@ -1,0 +1,137 @@
+PotsPan
+PotsPan
+Thursday, 16 May 2013
+Completion of the PotsPan Project
+The Jisc PotsPan project formally concluded today with the submission of the project final report and the closure report required by Jisc. Although there were problems encountered on the way, the primary goal of the project to embed the outcomes of the previous SWANI project were achieved. Even the problems encountered were regarded as useful and positive messages and enriched the final deliverables. The details of the project and its outcomes are presented in the final report shown below:
+Pots pan final report
+from Tony Toole
+The outcomes of the PotsPan project were disseminated through the Jisc Design Studio where it had a page as part of the Embedding Benefits Programme. It can be seen to be part of a wider range of embedding benefits projects and broadens the resources available to institutions in developing TEL solutions.  The design studio page is shown below:
+Posted by
+Tony Toole
+at
+06:04
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Thursday, 28 March 2013
+Draft Final Report
+The final report for the PotsPan project as part of the Jisc Embedding Benefits programme is due in draft form by 5th April 2013 and in final form by 17th May. The first draft is shown below.
+Eb short final_report_pots_pan
+from Tony Toole
+Posted by
+Tony Toole
+at
+04:00
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Tuesday, 26 March 2013
+PotsPan in the Design Studio
+The outcomes of the PotsPan project are now available on the Jisc Design Studio at http://jiscdesignstudio.pbworks.com/w/page/64840266/The PotsPan Project Home Page
+Posted by
+Tony Toole
+at
+02:43
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Tuesday, 19 February 2013
+Pembrokeshire College Workshop
+The pilot exercise planned for Pembrokeshire College began on 1st February 2013 with a workshop led by Tony Toole. The workshop involved Geoff Elliott and Wendy Webber from Pembrokeshire together with two of the WBL programme Training Advisors. The digitised WBL administration system was demonstrated, as was the digital pen system for audit trail signatures.
+It was agreed that a cohort of work-based learners from the Pembrokeshire programme would be selected and that a pilot exercise would be carried out using the digitised system in parallel with the normal paper-based system. This would mirror the exercise being carried out at Coleg Sir Gar.
+A partnership agreement would be drawn up that detailed the work to be carried out and also the funding made available from the project for the work. A pilot project plan would be submitted immediately for that purpose.
+It was agreed that the Pembrokeshire College team would have complete freedom in designing and carrying out their pilot exercise, to suit their client groups and methods of operation. It was further agreed that they would experiment with other technologies in the gathering and recording of administrative and management information as they felt appropriate. All of this additional information would add value to the project findings.
+Posted by
+Tony Toole
+at
+01:07
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Friday, 4 January 2013
+Swansea Met Case Study
+Workpackage 3 of the JISC PotsPan project plan was to be completed by Swansea Metropolitan as one of the project partners. The focus of the workpackage was on the use of electronic signatures for document authentication, with particular reference to their remote WBL course delivery.
+The University provides Logistics and Transport courses to the Armed Forces in Germany and is currently considering delivery by online distance learning. The issue of assessment authentication would be a major consideration when approving such delivery. The implementation, testing and evaluation of the use of electronic signatures was carried out in that context.
+The work was completed and shown to both meet the authentication requirements and also be highly cost-effective as the solution involved open source resources and freely available services. The details were summarised as a case study and this can be viewed below.
+Pots pan case study swansea met
+from Tony Toole
+Posted by
+Tony Toole
+at
+03:33
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Friday, 21 December 2012
+Pilot Case Study Template
+The main pilot exercises are due to begin in the new year and a case study template has been designed to capture the outcomes of these exercises in a consistent way. The draft template is shown below:
+PotsPan case study template
+from Tony Toole
+Posted by
+Tony Toole
+at
+06:13
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Saturday, 1 December 2012
+Second Electronic Signature Pilot Exercise
+Having established the viability of combining the open source document creation and editing application Open Office with the freely available Certification Authority services provided by CAcert, the next phase of the pilot exercise was to trial the system with University assessment documents.
+The standard assessment frontsheet used by the Faculty of Applied Design and Engineering at Swansea Met was chosen. It was imported into Open Office Writer and, after some appropriate formatting changes suitable for export as an OpenDocument Text file, the document was digitally signed using the authentication certificate set up in exercise 1. After confirming the validity of the signature, the file was then sent as an email attachment and, on receipt, the file was saved and opened using Open Office.
+The received document can be seen below, along with images demonstrating that the digital signature was valid and verifiable on receipt.
+Assignment frontsheet received file
+from Tony Toole
+﻿﻿﻿﻿﻿﻿﻿
+﻿
+Signature Validity Confirmation
+Email File Attachment
+The Electronic Signature pilot will now continue with the registration of other stakeholders as authorised signatories and further experimentation with the online sharing of digitally signed documents. The obvious advantage of this strategy is that all stakeholders: staff, students and administrators; can download the document creation software and register as an authenticated signatory at no cost and at whatever location they choose. The system is therefore a very attractive option for use in online distance learning assessment authentication.
+Posted by
+Tony Toole
+at
+02:55
+1 comment:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+Blog Archive
+▼
+2013
+(5)
+▼
+May
+(1)
+Completion of the PotsPan Project
+►
+March
+(2)
+►
+February
+(1)
+►
+January
+(1)
+►
+2012
+(18)
+►
+December
+(2)
+►
+November
+(5)
+►
+September
+(2)
+►
+August
+(1)
+►
+July
+(2)
+►
+June
+(2)
+►
+May
+(4)
+About Me
+Tony Toole
+View my complete profile
+Awesome Inc. template. Powered by Blogger.

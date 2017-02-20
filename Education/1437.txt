@@ -1,0 +1,136 @@
+Criminal Intent
+SendToUrl Firefox Plugin Updated
+August 7th, 2012
+Image by Spec-ta-cles (CC).
+Fred Gibbs has updated the SendToUrl Firefox Plugin. The Plugin allows you to send data from your Zotero library to web-based tools such as Voyant, Wordle or user-defined resources. Download the plugin or see this post for more information.
+Posted in Uncategorized |
+No Comments »
+Criminal Intent in the News
+September 20th, 2011
+There have been two stories recently about the Digging Into Data Challenge Conference that highlighted our Criminal Intent project. The Chronicle of Higher Education also has a two part story on the conference mentioning this project in the second part. They quote the Criminal Intent respondent, Stephen Ramsay,
+Mr. Ramsay’s talk celebrated how this kind of Big Data work can enhance rather than diminish the humanities’ traditional engagement with human experience. “The Old Bailey, like the Naked City, has eight million stories. Accessing those stories involves understanding trial length, numbers of instances of poisoning, and rates of bigamy,” he said in his response. “But being stories, they find their more salient expression in the weightier motifs of the human condition: justice, revenge, dishonor, loss, trial. This is what the humanities are about. This is the only reason for an historian to fire up Mathematica or for a student trained in French literature to get into Java.”
+The second story is in Science News and is titled Crime’s digital past. They quote us on how digital techniques are received by traditional historians.
+Cohen and his colleagues know that many humanities scholars hold digital humanists in as low esteem as Old Bailey prosecutors once held women accused of bigamy. That’s certainly true of historians, in Hitchcock’s view. “About 90 percent of them sit quietly in an archive for a decade and then write a book with their names printed as large as possible on the cover,” Hitchcock says. In their world, data-crunching makes rude noises with no apparent historical meaning.
+Posted in Media |
+No Comments »
+Project Presented at ACSUS Plenary Session
+August 18th, 2011
+The With Criminal Intent project was presented by Stéfan Sinclair at a large plenary session of the Association for Canadian Studies in the United States (ACSUS) in Ottawa on November 18th, 2011. The session was chaired by Chad Gaffield, the president of the Social Sciences and Humanities Research Council (SSHRC) and was intended to showcase the transformative potential of the Digging into Data program and the research it supports.
+Posted in Presentations |
+No Comments »
+White Paper on Criminal Intent Project
+August 13th, 2011
+Our White Paper on the Criminal Intent project is now available in a PDF.
+Here is the Table of Contents:
+Executive Summary     1
+0. Introduction and Aims of the Project     2
+1. The Old Bailey API     3
+2. Zotero As Intermediary     5
+3. Voyeur Tools     10
+4. ‘Show Me More Like This’     14
+5. Data Warehousing     16
+6. Challenges, Academic Reaction and Usability     20
+7. Prototyping and Literate Programming     21
+8. Pulling It All Together     23
+9. References     25
+Appendix 1: Connecting Zotero to Voyeur     27
+Posted in Reports |
+No Comments »
+In the New York Times
+August 13th, 2011
+The New York Times has an article on the Criminal Intent project. See, Old Bailey Trials Are Tabulated for Scholars Online (“As the Gavels Fell: 240 Years at Old Bailey, Patricia Cohen, August 17, 2011). They quote a historian who is skeptical of the results of mining, though he appreciates the resource.
+“The Old Bailey Online project has done a great service in making those sources widely (and costlessly) available,” Mr. Langbein wrote in an e-mail. But he complained that the claims about data mining have “a breathless quality: ‘you can expect big things from us,’ but as yet it’s all method and no results.” He said that the new findings belittle the work of a generation of scholars who focused on the 18th century as the turning point in the evolution of the criminal justice system.
+The challenge for us will be to show results from the methods.
+Posted in Project News |
+No Comments »
+Digging Into Data Challenge Conference
+June 10th, 2011
+The Criminal Intent team presented on the project at the Digging Into Data Challenge Conference in Washington DC. Geoffrey Rockwell’s Conference Notes are here. Our PDF of PowerPoint Slides are here. Here is one of the visualizations.
+Posted in Digging Into Data, Presentations |
+No Comments »
+What We Learned
+June 7th, 2011
+We found a variety of insights and ongoing implications from this project, ranging from the technical to the interpretative. In no particular order:
+1) We realized that to pursue intellectual agendas such as the differing crime patterns of women and men we needed multiple points of entry rather than a single massive visualization. We thus followed several tracks at the same time, including data warehousing (see below), mathematical models, and small-to-large visualizations.
+2) We had not anticipated how helpful data warehousing would be. It comes out of business intelligence but served us well on the project and was not something many of us were familiar with. It struck us that we need to look more at business processes for ideas for this kind of work.
+3) Another technique we did not anticipate in advance is how helpful quick modeling with Mathematica would be. Team members Tim Hitchcock and Bill Turkel used Mathematica to create prototypes of various text mining and visualization tools.
+One advantage of using Mathematica is that it is very easy to build dynamic prototypes that can be shared with colleagues to get their feedback.
+4) As a team we noticed an interesting interaction were we had to accept each others’ approaches. This was particularly important in that those in the Old Bailey who had come in with an appreciation for their structured data had to come to understand how the OB could be seen as a mass of unstructured data for text mining. The text miners in the group in turn had to look more closely at what could be done with structured data. This was a fruitful exchange.
+5) We are extremely proud that we got these very diverse projects to interoperate on the level of code and of interpretation, something which is often discussed in the digital humanities but rarely executed.
+6) Related to 5), we have a newfound appreciation of the power of APIs, and indeed following our project JISC is now advising projects about the usefulness of APIs.
+7) We have several outcomes that are leading to additional work, including a new SSHRC grant to the Canadian partners based on the Mathematica work, a new plug-in for Zotero that works beyond Voyeur for text mining collections, and the aforementioned API admiration from JISC.
+Posted in Project News |
+No Comments »
+Voyeur Notebooks Funded
+June 6th, 2011
+SSHRC has awarded funding to Stéfan Sinclair & Geoffrey Rockwell for the Voyeur Notebooks project. Voyeur Notebooks will prototype a new, web-based interface that will allow humanities researchers and students to create analytic works of “literate programming” that interweave narrative about the intellectual process of text analysis with procedural source code. Designing and implementing this prototype will serve the following five core objectives:
+To determine whether or not it is possible to design and implement a literate programming interface as a web application.
+To determine the optimal architecture for functionality to occur immediately within the browser (client-side) or to require a call to a web service (server-side).
+To explore what code syntax would be most appropriate for a primarily humanities audience.
+To explore how Voyeur Notebooks might be designed to leverage social media practices.
+To determine the viability of a more robust and full-featured literate programming interface, perhaps supported by a proposal to the Insight Grant program.
+We look forward to developing Voyeur Notebooks within the context of the Criminal Intent collaboration.
+Posted in Uncategorized |
+No Comments »
+Criminal Intent – The Poster
+June 2nd, 2011
+Click through for a high resolution version of this  Poster
+Posted in Uncategorized |
+No Comments »
+Beware the Coffee
+March 29th, 2011
+As several posts have nicely illustrated, creative visualizations of the entire Old Bailey archive can provide new and intriguing glimpses into history. It’s important to keep in mind that one can play around with smaller subsets of the data as well, just to get a quick sense of what going on in particular contexts. For example…
+Using the prototype tool/process mentioned in the previous entry (Old Bailey API -> Zotero -> Voyeur), I was able to extract from the OB records that contain the word poison (about 400).
+I could then send those records (or a subset of them) to Voyeur to get a better sense of what’s going on with these particular records in the context of poison.
+Filtering out the usual stop words and other words that happen to be common to the trial records, like “prisoner”, I can see that “drank” is one of the more common words to appear in my search results. Zeroing in on the context of “drank”, I can see that one of words that most commonly appears nearby is “coffee”.
+Of course it’s no surprise that a strong, bitter drink would be a vehicle for administering poison. Or perhaps that cheap coffee tasted so bad that someone, having fallen ill for any reason after drinking coffee, could feel as if they had been poisoned by it. Perhaps more significantly, I also learned that “ate” or “eaten” appears hardly at all near the word “poison”.
+Are these revolutionary historical observations? No. But that’s not my goal here. Rather, I’m just trying to get an informal sense of the context in which poison is being discussed. Had I read through these trial records individually, I might have noticed the frequent mentions of coffee at some point. But then I would need to go back through all other records to see what I’d missed. My sample here is only a few hundred records; the task of rereading the archive doesn’t really scale to several thousand or more records, at least for practical purposes.
+Although obviously not groundbreaking, the “coffee” discovery does say something interesting and prompts other questions. Maybe I should search for coffee in trial record from other archives. Are there other documented connections between coffee and poisoning? I certainly have more questions than answers. More importantly, I was able to garner historical evidence (granted, from just one source in this case) about the nature of poisoning in London in just a few minutes of playing around. One could minimize this discovery by claiming its obviousness. But such an attitude discards the distinction between a priori assumptions and evidence-based historical interpretation.
+Obviously, this post really isn’t about coffe. It tries, rather, to show that the learning curve for some quick inquiries into the archive is neither long nor steep. While nothing I’ve done here could be considered technically sophisticated, it is revealing. And it shows that it’s never been easier to get a rough sense of what an archive or set of texts can tell us, especially when focusing on one particular context at a time and thus sidestepping the daunting complexities of dealing with much more data all at once.
+Posted in Old Bailey Online, Voyeur |
+No Comments »
+« Older Entries
+Introduction
+Getting Started
+Using the Old Bailey API
+Zotero
+Voyeur Tools
+Data Warehousing
+For Developers - API details
+API Help
+Other Pages
+About
+Participants
+Files
+Translator
+Plug-in
+Search for:
+Archives
+August 2012
+September 2011
+August 2011
+June 2011
+March 2011
+January 2011
+December 2010
+November 2010
+October 2010
+June 2010
+May 2010
+April 2010
+Categories
+Digging Into Data (2)
+Media (4)
+Old Bailey Online (5)
+Presentations (3)
+Project News (7)
+Reports (1)
+Uncategorized (13)
+Visualizations (3)
+Voyeur (2)
+Meta
+Log in
+Valid XHTML
+XFN
+WordPress
+Criminal Intent is a project by the Roy Rosenzweig Center for History and New Media (Zotero project), Old Bailey Online and TAPoR with support from Digging into Data (which is a joint initiative of the National Endowment for the Humanities, National Science Foundation, Social Science and Humanities Research Council, and Joint Information Systems Committee).

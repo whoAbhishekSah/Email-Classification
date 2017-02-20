@@ -1,0 +1,99 @@
+The QA Focus Web site
+The QA Focus Web site
+[ Home Page - Surveys - Documents - Presentations - Search ]
+QA Focus
+Background
+The QA Focus project was funded by the
+JISC to support
+JISC's digital library programmes. QA Focus was provided by a partnership
+of UKOLN (University of Bath) and the AHDS
+(who replaced the TASI service).
+QA Focus's remit was to help ensure that project deliverables were interoperable
+and widely accessible. We sought to ensure that projects deployed appropriate standards
+and best practices. We did this by providing support materials which explained
+the recommended standards and best practices and carrying out a number of surveys
+which helped to share evolving practices across the projects.
+QA Focus also developed a QA
+methodology which was designed to suit projects' development environment and culture.
+Status of this Web Site
+The QA Focus project ran from 2002 - 2004. After the successful completion of
+the project the Web site ceased to be maintained, except for some minor updates to the site.
+The Web site was frozen in January 2013.
+Key Resources on this Web Site
+An introduction to the work on QA Focus is given in the
+Summary of the QA Focus Methodology
+and Implementing Your Own QA
+briefing documents.
+The other resources provided by the project were:
+Briefing documents
+Case studies
+Papers and articles
+Key Outputs
+The key outputs of the QA Focus project have been uploaded to Opus, the
+University of Bath institutional repository. These are:
+QA Focus Final Report
+QA Focus Handbook: For JISC Digital Library Programmes
+a collection of the key briefing papers, case studies and peer-reviewed papers.
+QA Focus Briefing Documents Available Under A Creative Commons Licence
+The QA Focus Briefing Documents
+are available for use under a Creative Commons licence.
+The licence allows
+you to download, edit and use the documents for non-commercial purposes
+provided you give appropriate acknowledgements.
+About the QA Focus Project Web Site
+A summary of the technical architecture of the QA Focus web site
+is available.
+In order to help ensure the robustness of the QA Focus web site
+a series of automated technical audits
+were carried out.
+An automated technical audit
+was carried out in August 2004, shortly after the finish of the project. This audit
+showed that the web site appears to conform with HTML standards and apart from a
+small number of links to a database which is no longer running, most internal links
+function correctly.
+Note that an additional audit of internal links was carried out on 7 August 2012.
+It was found that the majority of internal links are still working correctly.
+Audit of QA Focus Web Site
+On 7 January 2013 the Xenu link checking tool was used to provide a report
+on the validity of internal links on the QA Focus Web site and provide a summary
+of the URLs on the Web site. The report is available.
+Archive
+An archive of the QA Focus Web site
+is available on the Internet Archive.
+On 11 June 2013 this Web site had been crawled 85 times going back to 1 April 2003.
+The most recent archive was taken on
+18 January 2013.
+Note that this Web site is also available on the UK Web archive.
+Contact Details
+The QA Focus project was carried out by staff at UKOLN (Brian Kelly, Marieke Guy
+and Amanda Closier), TASI, University of Bristol (Karla Young and Ed Bremner)
+and AHDS (Hamish James, Alastair Dunning and Gareth Knight).
+Brian Kelly (Project Manager)
+UKOLN
+University of Bath
+BATH
+BA2 7AY
+Email: B.Kelly@ukoln.ac.uk
+Quick Links
+About QA Focus
+QA Focus documentation:
+Briefing papers
+Case studies
+Papers and articles
+QA Focus presentations
+Toolkit
+In-house QA
+Search the Site
+Feeds
+About QA Focus Feeds
+Briefings
+Case Studies
+Papers
+Presentations
+Surveys
+OPML
+Note that the RSS and OPML files are designed for loading to an RSS viewer.
+[ Home Page - Surveys - Documents - Presentations - Search ]
+Web page by Brian Kelly of UKOLN.
+Last Modified 11-June-2013
+Email comments to webmaster@ukoln.ac.uk

@@ -1,0 +1,63 @@
+TARDIS - Home
+TARDIS: Targeting Academic Research for Deposit and Disclosure
+Home | About | People | Meetings, Papers & Presentations | Intranet | Mailing List Discussions
+Farewell
+to the TARDis Project - back to the future!!
+The TARDis Project has now
+come to an end. There will be no further major updates to this site but it will
+be maintained until at least 2008. All project materials will be deposited into
+the University of Southampton Research Repository. http://eprints.soton.ac.uk
+(e-Prints Soton)
+The TARDis Project has now
+evolved into a University funded service, maintained by the Southampton University
+Library in partnership with the Information Systems Service and the School of
+Electronic and Computer Science.
+The Final
+Report, and Completion Report
+for this project are available in e-Prints Soton.
+_________________________________________________________________________________
+TARDIS was one of a cluster
+of complementary projects funded by the UK's Joint Information Systems Committee
+(JISC) as part of the Focus on Access to
+Institutional Resources Programme (FAIR).
+At the start of our project, Institutional repositories were being recognised
+as an important strategic development around the world (Lynch, Clifford A. (2003)
+"Institutional Repositories: Essential Infrastructure for Scholarship in
+the Digital Age" ARL, no. 226 (February 2003): 1-7 http://www.arl.org/newsltr/226/ir.html).
+The UK is in the forefront of this movement with many research-led universities
+joining in creating their own institutional repositories for research (see for
+example the SHERPA project)
+TARDIS built a sustainable
+multidisciplinary institutional repository – the University of Southampton
+Research Repository (called, in short, e-Prints Soton at http://eprints.soton.ac.uk)
+- to leverage the research created within Southampton University, using both
+author self-archiving and assisted deposit. It developed by working closely
+with individual schools and groups building on from their current practices.
+Useful background is provided by the presentations and papers listed at http://tardis.eprints.org/papers/.
+The repository contains
+publication records with full text where possible – leading towards our
+goal of open access to the university's research.
+Consideration was given
+to including all types of research output in a variety of formats. It is based
+firmly on the experience of building pilot archives in both the School of Ocean
+and Earth Sciences and in the School of Electronics and Computer Science whose
+own publications database will be amalgamated (see http://eprints.ecs.soton.ac.uk).
+While developing the archive,
+TARDIS was specifically feeding back into the pioneering EPrints software (http://software.eprints.org/)
+developed within the prestigious Intelligence, Agents, Multimedia Group in the
+University of Southampton. We worked to provide ease of use by archive administrators
+and end users. Strategies and documentation addressed technological, cultural
+and organisational issues and the development of the e-Print archive concept
+for use in wider applications.
+The technical and management
+issues relating to electronic authentication are also being addressed in a related
+JISC funded project led by Information Support Services (ISS) at the University
+of Southampton and using the TARDIS archive as the test bed.
+Contact Us
+Home | About | People | Meetings, Papers & Presentations | Intranet | Mailing List Discussions
+TARDIS (Targetting Academic Research for Deposit and Disclosure) is a
+project funded by the Joint Information
+Systems Committee (JISC) of the
+Higher Education Funding Councils as part of its DNER Learning and
+Teaching/Infrastructure Development Programme
+© 2002 University of Southampton, UK.

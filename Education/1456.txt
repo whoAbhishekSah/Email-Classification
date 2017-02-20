@@ -1,0 +1,46 @@
+ITS home : ITS : University of Sussex
+Accessibility |
+A-Z |
+Staff search |
+Contact us |
+Email |
+External website
+Site
+People (by surname)
+StudentsStaffSchools & servicesSussex DirectStudy DirectSPLASH
+SchoolsITSLibraryProfessional services
+Schools and servicesIT ServicesITS home
+IT Services
+ITS homeHelpServicesMy IT accountAbout
+Introduction
+XMarks design overview
+XML schemas
+XMarks plugin for Moodle
+Web services component
+Presentations
+del.icio.us links
+flickr photostream
+Project team
+Legal issues
+XMarks blog
+XMarks
+XMarks - Introduction
+Many Further and Higher Education Institutions run a Student Record System or Central Records System (CRS) and a Learning Management System/Virtual Learning Environment (LMS) as two separate systems. Assessment and marks data is likely to be required in both systems. This can lead to duplication of effort for staff and potential confusion for all users of the two systems - an issue we were keen to address for our institution and others within the community.
+The XMarks project has been developed to facilitate the exchange of marks and assessment information between an institution's CRS and LMS, using a web services model. The project is aimed at developers within further and higher education institutions who are looking for a way to synchronise assessment and marks data. A key aim of our project was to achieve this integration in a way that reduces the barriers to adoption of the web services model for other institutions. So we hope that XMarks is reasonably easy for you to get going with, and would be keen to hear about how we can make it work better for you.
+How XMarks can help
+As part of the XMarks project we have:
+designed an approach to exchanging assessent and marks data to make it easier for you to develop this in your own institution - to find out more, please go to XMarks design overview
+created XML schemas to manage the data that needs to be exchanged - to find out more, please go to XML schemas
+built a plugin for Moodle using our XMarks design approach, which is freely available here and can be installed into your Moodle service - to find out more and to access the plugin, please go to XMarks plugin for Moodle
+designed and built a scalable, adaptable model for web services that handles encryption and mutual authentication, and does all the work required to enable you to exchange document-style web services - to find out more, please go to XMarks web service component
+Unless otherwise indicated, this page is © 2007 The University of
+Sussex.
+This work is licensed under a Creative Commons Attribution 2.0 UK: England & Wales License.
+Copyright © 2017, University of Sussex
+A-Z |
+Staff search |
+Contact us |
+Email |
+External website |
+Privacy |
+Cookies

@@ -1,0 +1,47 @@
+SuperJournal Home Page
+The SuperJournal Project
+Home | Search | Demo | News | Feedback | Members
+Only
+SuperJournal is a research project in the eLib Programme studying the factors that will
+make electronic journals successful.  The objective was to identify the features that
+deliver real value, and to explore the implications with stakeholders in the publishing
+process:  readers, authors, libraries, and publishers.  The research was
+conducted over three years (1996-1998) and the project ended in December 1998.
+The project developed an easy to use electronic journal application and made clusters
+of journals available to university test sites via the World Wide Web. At the start of the
+project readers were asked about their expectations for electronic journals.  For two
+years their usage was recorded and analyzed.  At the end of the project, they were
+asked to comment on what they did and didn't like about SuperJournal, and the features
+they wanted in future electronic journals and services.  This Web site describes the
+project and results.
+Project Description
+Project Partners
+Journal Clusters
+Plans and Progress Reports
+Project Results
+Conferences and Articles
+Contacts
+Committees
+Members Only Pages
+Starting in April 1999 the project results have been posted on the Web
+site, including documents which describe the work itself,
+how it was implemented, and what we learned from the experience. The project
+is the subject of a book being prepared by the Project Director and Project
+Manager.
+As the project has ended, it is no longer possible for readers at the various test
+sites to use the SuperJournal electronic journal application.
+The Project would like to thank the publishers for licensing their journals for use in
+the project, the librarians who promoted SuperJournal at their universities and encouraged
+readers to use it, and the many users who participated in the research and generously
+contributed their views on electronic journals.
+Further Information
+SuperJournal was funded by the Joint Information
+Systems Committee (JISC) of the Higher Education Funding Councils, as part of its Electronic Libraries Programme (eLib).
+For further information about SuperJournal, contact the Project Manager, Christine
+Baldwin:
+Phone: 01865-736850
+Fax: 01865-736855
+Post: Information Design & Management, Broom, Hinksey Hill, Oxford OX1 5BH
+email: c.baldwin@dial.pipex.com
+This web site is maintained by epub@manchester.ac.uk
+Last modified: December 22, 1999

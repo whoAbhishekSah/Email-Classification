@@ -1,0 +1,313 @@
+SPEED Project | Sharing Practice for Embedding E-design and Delivery
+About
+SPEED Project
+~ Sharing Practice for Embedding E-design and Delivery
+Search:
+Final outcomes of SPEED
+17
+Wednesday
+Apr 2013
+Posted
+by Jim Turner (ljmu) in general, pilots, workshops
+≈ Leave a comment
+What were your “take-up pilots” like?
+Built Environment
+Working with 3 staff members from Built Environment templates were developed and tested using extensions from the SPEED process. The finding of this have been used in an online course which is being offered to all LJMU academic staff as part of CPD development.
+The Built Environment Team have submitted a bid for part of the SPEED money. This will be used to investigate mobile technology to support staff and a seminar to discuss 3D teaching environments.
+PGCERT
+We used of specific e-tivities in curriculum design module running in Jan 2013
+By far the most successful of this was the use of viewpoint cards. We used these instead of the OULDI cards. All 20 packs were taken by staff, and hopefully will be continued to be used out in the faculties.
+Engineering
+This group continued to move  towards a major series of programme reviews. They are currently piloting elements of SPEED within a module development process and this will feed into the school wide review beginning in Sept 2013.
+CARPE DIEM
+We redesigned our Carpe Diem Workshops and run one Carpe Diem that consisted of online tasks and a one day full workshop. More details here. This change has created renewed interested and we have been contacted by new programme teams wanting to try it out.
+Update from Derby
+28
+Thursday
+Feb 2013
+Posted
+by mingspeed in Uncategorized
+≈ Leave a comment
+TagsCPD, derby, OER, speed, take-up
+Following the successful completion of the SPEED course, Derby are pleased to announce that it has completed the production and development of the SPEED OER package for use initially amongst its teaching community.
+SPEED resource has been adopted as a tailerable CPD package, which is delivered by the university’s Technology Enhanced Learning (TEL) team. The CPD package enables individual lecturers or academic programs to quickly review, refresh and release up to date course specific content using the key features of SPEED, depending on their specific requirements. This package includes a recently developed menu style SPEED resource which can be downloaded for use by TEL and academic staff as required. This resource can be found at http://www.derby.ac.uk/lei/tel/collaborative-learning.
+Derby team
+Carpe Diem Event Feedback
+22
+Friday
+Feb 2013
+Posted
+by Jim Turner (ljmu) in Uncategorized
+≈ Leave a comment
+The online activities prior to the Carpe Diem f2f workshop where introduced to the programme team 2 weeks before the session, at their monthly meeting. Only 9 staff from a team of 18 where attending. The aim was to look at the 5 modules taught in level 4. Non attending staff were invited to participate in the online part of the session. The first week there was no activity, then 5 days before the session, around 90% of the staff started to engage. I sent out one email to encourage engagement. The activities (see previous post) generated a lot of discussion. Most of this centred on the simpler activities e.g. ’email traffic’ and ‘share it’. The google doc as a course map had most of the sessions added by myself from looking at the module handbooks. See http://youtu.be/YqlRnHWCmYs for an overview
+F2F session
+The google doc map of the course was printed out double size and used in the f2f session. Staff added sticky notes to it. Staff were very prepared for the session. The length of the day long workshop did make it difficult to connect the larger structural issues with the working examples. 4 students came in to test the working examples. As usual this was very motivating for the staff, getting them to produce something in a short space of time.
+example
+The follow up will be another similar session in the summer involving all the team members.
+Improvement
+13
+Wednesday
+Feb 2013
+Posted
+by mingspeed in Uncategorized
+≈ Leave a comment
+Tagsevaluation, improvement, speed, survey
+In the last blog, I reflected on the challenges perceived by the respondents in participating in SPEED. In the survey, respondents offered lots of suggestions on how SPEED could have been improved to address some of the challenges they perceived.
+Two respondents suggested that we provide more examples of good practice in online and e-learning.
+“More examples to help demonstrate how some of the ideas have been realised.” (P2)
+“Have some good examples of online learning and e-learning that we could share either as practical examples or journal articles. Have a section on potential “blue skies” technology that will influence the future of e-learning.” (P9)
+Many respondents offered suggestions on how to improve different aspects of SPEED, such as the structure, organisation, and approach used for running the course.
+Duration:
+“I would have liked to do an intensive week course instead of doing a little bit when I got the chance. Having a week allows you to focus and engage better especially when working full time.” (P7)
+Workload:
+“I think less time on working independently.” (P1)
+“Whilst the reading of blogs is interesting it is very time consuming and I think it would have been better if we could have just discussed learning via the webinar.” (P1)
+Time management:
+“Webinars time management was poor.” (P2)
+More face-to-face opportunities:
+“It would have been great to have met colleagues from other institutions by having the launch session together initially. The webinars were a bit ‘clunky’ with time wasted due to technical difficulties. Perhaps a mid-way face to face session.” (P3)
+Improving engagement:
+“Webinars I felt some of the attendees were never really involved, or made to feel at home in the space. Ice breakers might help.” (P2)
+“The workshop early in the course really encouraged engagement with early e-tivities but I had less engagement with later e-tivities as this required more individual commitment and motivation. It would have been helpful to have had a more structured approach to engagement with later e-tivities.” (P5)
+“I have really enjoyed the course but would have liked more time to engage at a deeper level.” (P7)
+Enabling mobile learning:
+“Also with the move to mobile technology I would have liked to have done some of the tasks this way [on mobile devices] but found I needed written documents as well sometimes so had to sit at a desk to do the tasks.” (P1)
+These suggestions will definitely help us reflect on how we can improve the delivery of SPEED if we’re going to run the course again in the future.
+This will be my final blog reporting on the key findings from the survey. I look forward to further comments and suggestions.
+Challenges
+12
+Tuesday
+Feb 2013
+Posted
+by mingspeed in Uncategorized
+≈ Leave a comment
+Tagschallenge, commitement, engagement, evaluation, speed, survey, technology, timing
+In the survey participants were asked to reflect on: what were the key things they’ve learnt on the SPEED course. They were also asked to provide suggestions on how SPEED course could have been improved.
+Data gathered from the survey indicated a couple of challenges or difficulties that respondents had experienced during SPEED: timing, commitment, and technology.
+The SPEED course has been run between October and December 2012. The timing of the course has been commented by quite a few respondents as difficult, and might have resulted in low engagement and participation in some of the activities.
+“I think it was a very ambitious project, that perhaps was let down by timing in the academic calendar, and the heavy teaching loads of the participants.” (P2)
+“… the timing of SPEED (the start of the academic year is always hectic) which I know impacted on the amount of time I could devote to the asynchronous tasks such as the personal blog…” (P3)
+“Run the sessions between Easter and Summer – Oct to Dec was the most difficult time to allocate time.” (P4)
+“The timing of it slap bang in the middle of semester one did have a negative impact on engagement. It was difficult for me and also others at LJMU, and also it appears at other institutions.” (P8)
+“Timing of the project and the end point has been frustrating, but this is down to internal deadlines for revalidation at our institution (where impact from the tools will be realised) not matching the timescales of the project.” (P10)
+Time commitment for fully participating in SPEED has been mentioned as another challenge. One respondent reflected as follows:
+“Thank you for giving me the opportunity to be part of the course. I am sorry I was not able to complete it all but the logistics of attending webinars and completing tasks whilst working full time and a full teaching load meant that I was not able to participate as much as I would have liked. I also think that the time commitment for most people was too much and also the number of tasks that needed to be completed in a short time was often difficult to manage.” (P1)
+“It takes commitment and a degree of scheduling to complete online only courses.” (P1)
+Due to this reason, “engagement can be low even with dedicated staff”, as another participant noted.
+Technology sometimes caused frustration. Two respondents described their experience as follows:
+“Also the VLE does not allow easy movement between task and part of the site you are working in. I found I kept forgetting what it was I was supposed to be doing.” (P1)
+“Technology with the webinars was on occasions unpredictable and this reduced enjoyment, ability to engage and overall effectiveness of these.” (P5)
+In the next blog, I will share suggestions gathered from respondents for future improvement.
+Impact – personal development and reflection
+12
+Tuesday
+Feb 2013
+Posted
+by mingspeed in Uncategorized
+≈ Leave a comment
+Tagsevaluation, impact, personal development, reflection, speed, survey
+Data gathered from the survey indicated another area where SPEED has had an impact on the participants: enabling personal development and reflection on course development.
+A variety of reflections from different respondents are given as follows, illustrating how SPEED has changed or will change their day to day practice, and the way how they work with other colleague in course design.
+“How to work with staff in a variety of ways that both support their development and demonstrate the effectiveness of the tools.” (P2)
+“I am really pleased to have been involved.  I hope to use the resources from SPEED in the future as I develop e-modules.” (P3)
+“It is important to consider different approaches to educational development and delivery, and to appreciate and facilitate different affordances of technology to best effects in different situations and with different groups. I now appreciate a much more flexible approach to learning development that can be effective.” (P5)
+“SPEED made me revisit learning development activities already well-established at UoN and introduce different approaches to these activities. This work has provided me with a more flexible and layered approach and initial reaction to this flexible approach is positive from colleagues.” (P5)
+“It will just form part of the day to day workings.” (P6)
+“Short term: Individuals will use skills they have learnt. Medium Term: Skills will be shared with module/course teams. Long term: Effective use of technology as a learning, teaching and assessment tool.” (P7)
+“Provided successful adoption of development tools, considerable benefit in course redesign will be realised.” (P10)
+In the next blog, I will reflect on challenges perceived by respondents in taking part in SPEED.
+Carpe Diem
+08
+Friday
+Feb 2013
+Posted
+by Jim Turner (ljmu) in Uncategorized
+≈ Leave a comment
+I have spent some of last week organising a mini SPEED process for a group of staff who have arranged a 1 day ‘carpe diem’ session. They are particularly focused on the development of independent learning, and a reduction in email traffic. We are looking at all the level 4 modules. I have used influences from the sessions in the ‘mother’ SPEED site. I thought I would share these. This session runs next week so will report on it later.
+The activities are
+Email Traffic Jam
+Purpose : An issue on many courses is the amount of emails from students. Here is an opportunity to share examples that you have had to deal with. this will help to uncover a pattern that might expose ways in which to tackle this problem collectively
+Task
+1. Open the blog
+2. Read the entries
+3. Type is a post of an example or type of email you receive, or comment on any examples that you have experience of
+4. Leave a post, or add a comment to another post
+Response and Feedback Return to this activity periodically to see what others have written
+Timing
+Approximately 10 minutes
+Share it!
+Purpose               The Carpe Diem day will require those attending to focus key issues within the current level 4 programme. They will then develop processes and strategies that may help elevate these. You all need to be part of this selection process.
+Task       Think about the module/course you are going to design. What key issues are occurring that need to be tackled in a different way?
+Open the blog.
+Each post is an issue. If there is an issue which hasn’t been raised that you think is important, create a new post
+Read the comments to each post by clicking on the comments button
+Ask yourself 2 questions, what currently happens in the programme that makes this issue worse, what could happen that might help elevate this. Add a comment if you wish to highlight anything for other to discuss.
+You can add these comments and posts anonymously if you wish.
+Response and Feedback               Return to this task before the 15th to add to the discussion as it grows
+Timing   Approximately 20 mins
+See the whole picture
+Purpose The map of the modules will help draw connections and show the complete level 4 learning experience. This will be used during the day to explore where opportunities for development may occur.
+Task
+Open the google doc link.
+This displays a brief outline over time of the main activities the students experience on the CURRENT course.
+Take time to look at the document so you understand how it is arranged.
+Add any additional information that you think may help the mapping process
+Please keep these descriptions a brief as possible
+Note that these contain sections for feedback and group work
+Response and Feedback Return to this task before the 15th to add to the map as it grows
+Timing Approximately 20 mins (if you are the module leader you may have to put in more time)
+Thinking in a different way
+Purpose This activity will hopefully provide you with some opportunity to think differently about the programme’s approach. All this information will be helpful to the team during the carpe diem day. You will have come across some of these ideas before, but this might be an opportunity to rethink them.
+Task
+1. Open the blog
+2. Read the posts
+3. Use the comments to reply to the questions if you wish
+4. Create your own challenging post if you wish.
+Response and Feedback Return to this task before the 15th to read more of the comments
+Timing Approximately 20 mins
+Discovery
+Purpose To find out how you will source the content for your module/course, including the possibility of incorporating OERs produced elsewhere. This will show you some of the places where you can get ‘free stuff’ to act as resources or activities for your students.
+Struggling Students
+Time: 30 minutes  You will need headphones
+How does it work?: There are a series of 5 minute movies to watch and followed by a short activity after each one to encourage you to think about the content.
+The information from the activities will also be useful for us, and might form the beginnings of a conversation with you to help you effectively utilise this technology
+Impact – institutional change
+07
+Thursday
+Feb 2013
+Posted
+by mingspeed in Uncategorized
+≈ Leave a comment
+Tagsimpact, institutional change, speed, survey
+In the survey participants were asked to reflect on what impact SPEED will have on their institution in the short, medium and long term. Qualitative data gathered from the survey indicated impact on two directions: institutional change, and personal development.
+In this blog I will share evidence on institutional change.
+SPEED has already made an immediate impact on one of the partner institutions – the University of Northampton (UoN). SPEED resources have already been incorporated into CAIeRO – the UoN’s learning design workshop, to enhance existing practice and process. Three colleagues from UoN expressed the same point in the survey as follows:
+“It will have a significant impact for those colleagues who participate in CAIeROs who will hopefully cascade their newfound expertise/knowledge to their teams.” (P3)
+“Change to the course design and development process – CaIeRO.” (P4)
+“Enhancing Northampton’s CAIeRO process.” (P4)
+“Short: We have take-up pilots planned for January 2013 where pre-CAIeRO e-tivities have been introduced and post-CAIeRO e-tivities are planned. Medium: Development of a more flexible approach to educational development and increased engagement in different ways with more use of different technologies. Long: Evaluation of educational development activities from perspective of developers and also evaluation of the student experience following their engagement with modules and learning activities developed following some SPEED intervention. Layered approach to educational development.” (P5)
+The other three partner institutions do not see an impact to their institutions in the short-term, but foresee that SPEED will enhance their institution’s course development process in the medium to long term. Some relevant reflections are given below:
+“I don’t think it will have a huge impact as there were so few of us on the course and there is not a huge commitment yet to develop blended learning. However I think with the new IT policy and teaching and learning policy and the possible impact that the iPad will have on the university provision I think some of the tools may be used in the future.” (P1)
+“Short – not a great deal. Medium – with the right level of promotion more people will hear about it and benefit.” (P2)
+“It will have an impact on Carp Diem and the design of courses in the future.” (P9)
+In the next blog I will share evidence on personal development.
+Benefits – accessing useful resources
+06
+Wednesday
+Feb 2013
+Posted
+by mingspeed in Uncategorized
+≈ Leave a comment
+Tagsaccess, benefits, e-tivities, resources, skills, speed, survey, tools
+Data from the survey indicated another benefit perceived by respondents – accessing activities, tools and resources that can be used to enhance existing practices and processes, and eventually lead to improved student experience. Quotes from respondents illustrating this point are given as follows:
+“The activities will be useful in the future, and give a really good model for further development.” (P2)
+“Accessing the resources identified on the VLE to use in future teaching; making the learning relevant to ‘the day job’ to ultimately improve the student journey.” (P3)
+“Ability to enhance existing processes.” (P4)
+“The e-tivities and resources were generally thought provoking and have encouraged a more flexible approach to learning development.” (P5)
+Some of the e-tivity guidelines and documentation proved useful. (P6)
+“Access and use of the courses sites VLE Access to a broad range of support resources and activities, some of which have been used in my current practice.” (P8)
+All SPEED resources will be made available as OERs. This is highly appreciated by respondents, as two noted:
+“It was helpful to have the resources available as OERs for reuse and repurpose.” (P5)
+“[SPEED] provides a way of sharing resources for e-learning.” (P9)
+More specifically, respondents stated which tools they have found most useful and what skills they have gained or improved through SPEED.
+Useful tools identified:
+“Webinars is a good way for students to work together and share their learning particularly with Adobe Connect.” (P1)
+“I have a broader repertoire of online tools to access to enhance my teaching – both face-to- face and e-learning. I now know how much I don’t know in relation to e-learning!!” (P3)
+“How to create and use a Wiki and create Panopto presentations.” (P9)
+“Use of a storyboard.” (P9)
+“The development tools available through the CourseSites VLE.” (P10)
+Skills gained:
+“I also know more about where to locate learning material online.” (P1)
+“Personal development in relation to e-learning and facilitation.” (P3)
+“Tips on how to run online webinars and collaborative sessions.” (P4)
+“Gilly Salmon 5-stage model and how to use this in the design of online learning.” (P9)
+Quantitative data from the survey indicated that nine out of ten respondents have shared SPEED resources with colleagues. Respondents also provided answers to which resources they have shared across their own institution.
+Tools shared:
+“I have shared the links to some of the websites and have also shown colleagues the course planer.” (P1)
+“I have also discussed the use of webinars with colleagues with a view to getting the university to host a facility to do this.” (P1)
+“Tools used in the workshop, use of voice and use of E-portfolios.” (P7)
+“Wikis Panopto presentations.” (P9)
+E-tivities shared:
+“Word of mouth, staff room chats, showing people the activities.” (P2)
+• “I sent an email with various links…they were mostly from learning unit 16.” (P3)
+“The activities with the course design section (04-09) were specifically shared.” (P4)
+Two partner institutions have developed very detailed plans in which specific e-tivities (or tools) are used to support course development at different stages.
+“We have used some of the introductory e-tivities with colleagues as pre-workshop development activities. The resource audit has been used as a development activity and it is planned to revisit this as a post-workshop activity to review and reflect on the use of this resource. The course map has been adapted for use within a practice education module and will be incorporated into an e-tivity.” (P5)
+“E-tivities 1 through 9 will be useful for the revalidation, mapping of modules that will be undertaken by the engineering programme teams in the next 6 months.” (P10)
+In the next blog I will start sharing evidence on impact.
+Benefits – promoting sharing and collaboration
+06
+Wednesday
+Feb 2013
+Posted
+by mingspeed in Uncategorized
+≈ Leave a comment
+Tagsbenefits, collaborating, sharing, speed, survey
+Two questions asked in the survey aimed to find out what benefits participants perceived by taking part in SPEED. The questions are:
+What did you like most about the SPEED course?
+What were the key things you learnt on the SPEED course?
+Data gathered from the survey indicated two areas that participants have benefitted a lot:
+Promoting sharing, discussing, debating, and collaborating
+Accessing activities, tools and resources that can be applied in practice to improve student online experience.
+In this blog, I will report on the first benefit – promote sharing, discussing, debating, and collaborating.
+The quantitative data from the survey shows that SPEED has enabled participants to interact and collaborate with colleagues from other partner institutions via a number of ways: webinars, CourseSites, email, and phone (see table below).
+In what ways did you interact with colleagues from other partner institutions during SPEED?
+No. of participants
+Via the CourseSites VLE
+7
+Via the Webinars
+10
+Via e-mail
+5
+Via phone
+5
+Via others
+1
+The qualitative data collected from the survey reinforced this point. All respondents appreciated and valued the opportunities of being able to share, collaborate, discuss and debate ideas with colleagues from other institutions during SPEED. Some quotes are illustrated below:
+“Collaborating with other institutions; working with like-minded colleagues who enjoy online work. (P3)
+“Ability to interact and learn from other colleagues.” (P4)
+“It has been good to listen to the experience of partner institutions and share experience of developing resources differently.” (P5)
+“Sharing practice and listening to others experiences.” (P7)
+“Stimulating and open conversations about working in teaching and learning in HE.” (P8)
+“It provided an opportunity to discuss aspects of e-learning and an opportunity to try some e-tivities… Gave me an opportunity to engage with the Learning Technology Staff.  To share concepts and debate concepts of e-learning with people outside my institution.” (P9)
+Interesting and engaging collaborators. (P10)
+The webinars were found most engaging in maintaining participants’ interest in the course, and stimulating discussion and sharing. Relevant quotes are given as follows:
+“I found the webinars most useful and enjoyed the discussion with other colleagues in different universities.” (P1)
+“The webinars helped me hear about new practices and develop ideas.” (P2)
+“The face-to-face workshop was a good introduction and the webinars maintained interest and motivation in SPEED activities.” (P5)
+“I really enjoyed the course, especially sharing ideas via the Webinar.” (P9)
+Opportunities for sharing, debating and collaborating enabled participants to develop a deeper understanding of e-learning and online learning, as one respondent concluded:  “It has raised my awareness of online learning.”
+In the next blog, I will discuss findings around the second benefit – access to useful activities, tools and resources.
+← Older posts
+Search:
+Recent Posts
+Final outcomes of SPEED
+Update from Derby
+Carpe Diem Event Feedback
+Improvement
+Challenges
+Archives
+April 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+Categories
+general
+oers
+pilots
+Uncategorized
+workshops
+Meta
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.com
+Blog at WordPress.com.
+Post to
+Cancel

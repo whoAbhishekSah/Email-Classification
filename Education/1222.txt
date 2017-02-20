@@ -1,0 +1,211 @@
+University of Hertfordshire - Research Data Toolkit
+RDTK Final Report, Outputs, Recommendations
+About the toolkit, JISCMRD, RDM Training, Reports, Resources
+No Responses »
+Jun 052014
+The Service Oriented Toolkit for Research Data Management project was co-funded by the JISC Managing Research Data Programme 2011-2013 and The University of Hertfordshire. The project focused on the realisation of practical benefits for operationalising an institutional approach to good practice in RDM. The objectives of the project were to audit current best practice, develop […]
+Posted by Bill Worthington at 15:22
+RDMTPA Final Report and Outputs
+About the toolkit, JISCMRD, RDM Training, Reports
+No Responses »
+May 202014
+Research Data Management Training for the whole project lifecycle in Physics & Astronomy was co-funded by the JISC Managing Research Data Programme 2011-2013 and the University of Hertfordshire. The project was carried out in parallel with other JISCMRD work at University of Hertfordshire and collaborated with researchers in Centre for Astrophysics Research (CAR) and the Centre […]
+Posted by Bill Worthington at 17:02
+University of Hertfordshire RDM roundup October 2013
+Resources
+1 Response »
+Oct 292013
+It has been a while….  but there has been plenty of activity following the conclusion of our two JISCMRD projects in June. Here goes for a quick roundup: We have continued to spread the message by working at as many levels as we can get access to. We have a foothold in Generic Training for […]
+Posted by Bill Worthington at 18:51
+Digital Data as Astronomy Heritage
+Resources
+No Responses »
+Jul 092013
+At the 2013 National Astronomy Meeting in St Andrews, I presented a review of the UHRA the University of Hertfordshire Research Archive including the plans to preserve data in very long term cloud storage managed by Arkivum.  I also described the recent discovery of photographs depicting the development of the Bayfordbury observatory, and how these […]
+Posted by Jo Goodger at 16:00
+Who wants Training?
+RDM Training, Resources
+No Responses »
+Jul 092013
+One of the results of the DAF at UH showed that researchers were open to training materials as long as they’re not long-winded or too generic.  However, the results of my interviews in Science and Technology, and interviews in the other research institutes by our champions, show that the best practice for looking after working […]
+Posted by Jo Goodger at 15:59
+A DMP template for UH
+Resources
+No Responses »
+Jul 092013
+We planned to produce discipline specific examples DMPs for our researchers.  However, as we prepared our best practice advice we learnt how many of the DMP answers for the working data stages are similar throughout the university in respective of the subject, and that the main differences are in the funding-body requirements for archiving and […]
+Posted by Jo Goodger at 15:59
+The UH RDM website
+RDM Training, Resources
+No Responses »
+Jul 092013
+We are not the first institute to produce a website of advice for our researchers, and we wont be the last.  We already have in place the UH public website and two intranet resources; studynet, where students and staff communicate about courses and where information about research is available, and staffnet, which gives information on […]
+Posted by Jo Goodger at 15:59
+University of Hertfordshire JISCMRD2 Final Reports
+Resources
+No Responses »
+Jun 212013
+The Service Oriented Toolkit for Research Data Management (RDTK) project and the Research Data Management Training in Physics and Astronomy  (RDMTPA) projects were co-funded by the JISC Managing Research Data Programme 2011-2013 and The University of Hertfordshire. Our draft final reports are available below. Both reports have been through one iteration and found to be largely fit […]
+Posted by Bill Worthington at 15:39
+Data Loss in the DDUD
+Resources
+No Responses »
+Jun 042013
+This is a follow up to my blog post The cost of a bit of a DDUD which examined the total cost of ownership (TCO) of a network attached storage device operated by a research group. The TCO in that case included a malfunction and repair but no data loss. In this post we go […]
+Posted by Bill Worthington at 11:00
+The cost of a bit of a DDUD
+Resources
+1 Response »
+May 102013
+In between procrastinating over final reports and filling in odd gaps in our new RDM advice, we are preparing some material on the cost of a data loss event. This will arrive in due course, but I thought it would be useful to precede it with a consideration of the cost of simply owning a […]
+Posted by Bill Worthington at 14:07
+RDTK/RDMTPA JISCMRD programme workshop, Aston, 2013
+JISCMRD, RDM Training, Resources
+No Responses »
+Apr 082013
+Four delegates reporting on two projects, using three posters, three presentations and two demonstrations. And we still had time to come away with more useful collaborations to pursue! The roundup workshop was a great way to see how far we have all come in 18 months, reflect that this is still just the beginning for […]
+Posted by Bill Worthington at 15:19
+ZendTo file exchange: a hybrid cloud implementation
+Resources
+No Responses »
+Apr 042013
+We have built an installation of ZendTo, which is an opensource system for transferring large files over the web written by Julian Field from University of Southampton, and used at Southampton, Essex and Imperial College. See http://fileexchange.herts.ac.uk/ The requirement for this system came from researchers who were trying to use email to move files larger than about 10MB, resulting […]
+Posted by Bill Worthington at 15:10
+Comparison of Open Licenses
+Resources
+1 Response »
+Apr 042013
+In Work Package 6 – Review data protection, IPR and licensing issues we have undertaken a thorough review of the licences commonly used for ‘open’ access to research information. The review takes in Creative Commons, Open Data Commons, Open Government License, UK Data Archive licence and others. Considerations of when to use each license and ‘what to […]
+Posted by Bill Worthington at 14:23
+Research Project File Plan
+Resources
+No Responses »
+Apr 042013
+In WorkPackage3 – Document Management Pilot we have scanned and loaded legacy documents into an electronic Trial Master File (eTMF) for clinical work carried out by the Centre for Lifespan and Chronic Illness Research (CLiCIR). This has been a very successful piece in terms of the engagement it has promoted throughout our health related research community, and has […]
+Posted by Bill Worthington at 13:15
+RDTK Progress Report Month 15, December 2012
+About the toolkit, JISCMRD, Reports, Resources
+No Responses »
+Dec 062012
+It has been a while since I have committed one of these management reports to the blog, but this one seems to gel well and wrap around our recent articles, not to mention providing a linkfest opportunity, so it seems worth it this time around. Enjoy it if you can. WP2 Cloud Services Pilot The […]
+Posted by Bill Worthington at 22:47
+JISCMRD Programme Progress Workshop October 2012 – Presentations and Reflections on Cloud Storage
+About the toolkit, JISCMRD, RDM Training, Reports
+No Responses »
+Oct 222012
+One year in! Time flies when you are having fun, or trying to pin the tail on a donkey which at times is how it feels to be a JISCMRD project manager. This isn’t a complaint, it is a stimulating and worthwhile endeavour, and I think programme is working well at UH. The Research Data ToolKit, even […]
+Posted by Bill Worthington at 16:02
+Data Encryption – not as difficult as you think!
+RDM Training, Resources
+No Responses »
+Oct 192012
+Attached to the University of Hertfordshire’s Data Policy is a handy DOs and DON’Ts guide to handling Personal and Confidential Information (PCI). Research data often falls under the definition of PCI, because it is ethically sensitive or has commercial value to the University or a sponsor.  It probably won’t be a surprise to anyone engaged […]
+Posted by Bill Worthington at 12:08
+Files in The Cloud
+Resources
+4 Responses »
+Oct 172012
+The hybrid cloud approach is being adopted in many organisations, particularly where high quality local infrastructure is in place and is likely to remain useful for a period of years but needs extending or migrating. In these cases the cloud offers expansion of local facilities and a gradual route to full migration. The cloud element […]
+Posted by Bill Worthington at 22:42
+DOIs for datasets.
+JISCMRD, Resources
+7 Responses »
+Oct 152012
+Call for interest in a DOIs for Datasets workshop. Overshadowed by the subsequent trading of blows over the colour of Open Access, RCUK’s policy toward open data became more explicit in their announcement on July 16. “and a statement on how the underlying research materials such as data, samples or models can be accessed” Not […]
+Posted by Bill Worthington at 23:08
+Data Asset Survey Results
+Reports, Resources
+No Responses »
+Aug 202012
+An audit of research data holdings within University of Hertfordshire was conducted in the period May to July 2012. The online survey  (described in more detail here) was circulated to around 600 research staff first via their regular monthly newsletter, with follow up reminders sent by our information managers to schools and research centres, as well […]
+Posted by Sara Nassiri at 12:01
+Older Entries
+Recent Posts
+RDTK Final Report, Outputs, Recommendations
+RDMTPA Final Report and Outputs
+University of Hertfordshire RDM roundup October 2013
+Digital Data as Astronomy Heritage
+Who wants Training?
+A DMP template for UH
+The UH RDM website
+University of Hertfordshire JISCMRD2 Final Reports
+Data Loss in the DDUD
+The cost of a bit of a DDUD
+RDTK/RDMTPA JISCMRD programme workshop, Aston, 2013
+ZendTo file exchange: a hybrid cloud implementation
+Comparison of Open Licenses
+Research Project File Plan
+RDTK Progress Report Month 15, December 2012
+JISCMRD Programme Progress Workshop October 2012 – Presentations and Reflections on Cloud Storage
+Data Encryption – not as difficult as you think!
+Files in The Cloud
+DOIs for datasets.
+Data Asset Survey Results
+Research Data Management Training in Physics & Astronomy
+Document Management for Clinical Trials
+RDM audit and project benefit metrics
+Atira PURE CRIS user group roundup
+Research Data Assets Survey
+Steering Group March 2012
+Steering Group December 2011
+Progress Report Month 6, March 2011
+Some reflections on the JISCMRD-DCC policy workshop
+Progress Report Month 4, January 2012
+Information Hertfordshire Lunchtime Presentation on RDM
+UH Research Data Policy in a nutshell
+Networked secure storage FAQ
+Data Management Planning using DMPonline
+U: drive and beyond…
+What happened next?
+Progress Report Month 3, December 2011
+#jiscmrd 2011-2013 Launch Meeting – Blog analytics
+#jiscmrd 2011-2013 Launch Meeting – thematic session on business case
+#jiscmrd 2011-2013 Launch Meeting – Institutional approach breakout group
+#jiscmrd 2011-2013 Launch Meeting – Biomedical/Health breakout group
+Progress Report Month 2, November 2011
+MRD Programme Launch Poster
+Reflection on RDMF7 and DCC Cambridge
+Progress Report Month 1, October 2011
+UH Data Management Policy and Guide
+Service Oriented Toolkit for Research Data Management
+Categories
+About the toolkit (8)
+JISCMRD (12)
+RDM Training (8)
+Reports (12)
+Resources (33)
+Links
+Digital Curation Centre
+DMP online
+JISC MRD
+UK Data Archive
+University of Hertfordshire
+RDM Tweets
+sjDCC Sarah JonesGood to see #jiscmrd MANTRA project recognised in list of good practice information literacy resources bit.ly/1084MhZ via @RILADS9:29 AM Jun 11, 2013
+simonhodson99 Simon HodsonGreat developer opportunity @ Uni of Lincoln to continue #jiscmrd Orbital work and build RDM Services paulstainthorp.com/2013/06/10/com…6:03 PM Jun 10, 2013
+WJWorthington Bill Worthington#jiscmrd an account of Data Loss in the DDUD bit.ly/13RSckb failed HD cost £4k, could have been £14k or 0.25 person year for 2TB5:18 PM Jun 10, 2013
+jtedds Jonathan TeddsMT @josswinn #OpenData & the Academy: Evaluation of #CKAN for Research Data Management lncn.eu/agt9 #jiscMRD #rcuk11:08 AM Jun 09, 2013
+simonhodson99 Simon HodsonSave the date! #idcc14 International Digital Curation Conference 24-7 Feb 2014, SF 'Data-driven transformations' #jiscmrd #ukdcc1:30 PM Jun 05, 2013
+jtedds Jonathan TeddsMT @OfficialNIHR #NHS Natl Institute for Health Research commitment to #openaccess publishing #NIHRJL goo.gl/5SD4A #jiscmrd #rcuk11:58 AM Jun 05, 2013
+jtedds Jonathan TeddsMT @mfenner New blog re3data.org registry of research data repositories launched blogs.plos.org/mfenner/2013/0… #jiscmrd #rcuk #PREPARDE11:53 AM Jun 05, 2013
+jtedds Jonathan TeddsI’ve decided “Data is the new soil” is better analogy? Needs fertilising & careful cultivation- Ooarr! #jiscmrd #rcuk #opendata #openscience11:50 AM Jun 05, 2013
+simonhodson99 Simon Hodson#jiscmrd ADMIRE @UniofNottingham event on research data with interesting presentations and one from me admire.jiscinvolve.org/wp/2013/06/04/… #ukdcc11:10 AM Jun 05, 2013
+simonhodson99 Simon Hodson“@mfenner: New blog post: re3data.org: registry of research data repositories launched blogs.plos.org/mfenner/2013/0…” #jiscmrd6:52 AM Jun 05, 2013
+jtedds Jonathan TeddsMT @datacite #DataCite Metadata Version 3.0 Available for Comment & Testing datacite.org/node/85 #PREPARDE #jiscmrd #rcuk #datapublication12:40 AM Jun 05, 2013
+jtedds Jonathan TeddsMT @OKFN #OpenData “Is Good for America" huffingtonpost.com/steven-vanroek… US Chief Information Officer Steven VanRoekel via @HuffingtonPost #jiscmrd12:35 AM Jun 05, 2013
+jtedds Jonathan TeddsNature: Scientists must embrace funder efforts to track research outputs; enable #openaccess nature.com/news/the-paper… #jiscmrd #PREPARDE #rcuk11:56 PM Jun 04, 2013
+simonhodson99 Simon HodsonOpen Knowledge Foundation lance la communauté francophone ! | OKF France j.mp/14tIrYb #okf #jiscmrd #codata11:43 PM Jun 04, 2013
+simonhodson99 Simon HodsonThe tip of the iceberg - the third World Conference on Research Integrity j.mp/ZMBGVt #jiscmrd11:41 PM Jun 04, 2013
+simonhodson99 Simon HodsonScience for DRR decision making - report from the Global Platform for Disaster Risk Reduction j.mp/14tHv60 #jiscmrd #codata #icsu11:37 PM Jun 04, 2013
+simonhodson99 Simon HodsonBrief update on metadata for datasets in PURE from #c4d #cerif4datasets j.mp/14tFZB9 #jiscmrd11:29 PM Jun 04, 2013
+jtedds Jonathan TeddsBill Gates, Benchmark etc invest $35M into the ResearchGate “social network for scientists” techcrunch.com/2013/06/04/bil… via @TechCrunch #jiscmrd11:03 PM Jun 04, 2013
+simonhodson99 Simon HodsonPresentations/Prezis from the #jiscmrd JoRD project on journal data sharing policies given at #nfdp13 & #datadryad jordproject.wordpress.com/2013/05/31/pre…10:29 PM Jun 04, 2013
+simonhodson99 Simon HodsonRDMRose @ OpenAIRE/LIBER Workshop May 28, Ghent Belgium #jiscmrd rdmrose.blogspot.com/2013/05/rdmros…10:24 PM Jun 04, 2013
+Follow @wjworthington
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+© 2012 University of Hertfordshire - Research Data Toolkit
+Suffusion theme by Sayontan Sinha

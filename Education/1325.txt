@@ -1,0 +1,126 @@
+UCL The Digital Department
+UCL Home
+Prospective students
+Current students
+Staff
+skip to navigation.
+skip to content.
+The Digital Department
+Developing digital literacies for teaching administrators
+UCL Home » The Digital Department »
+The Digital Department
+The Digital Department poster (PDF, Sept 11)
+Latest Posts:
+LSE Admin Forum
+Electronic management of assessment
+Webinar: UCL working with the new change agents
+Summer school: Technology and Change in Higher Education
+First cohort graduates from Digital Department supported CMALT programme
+A
+A
+A
+Supported by
+JISC Developing digital literacies programme.
+Working with
+LSE Admin Forum
+By Stefanie D Anyadi, on 16 December 2014
+I recently joined colleagues for the first LSE Admin Forum, organised by Michael Etheridge, Nicole Garnier and colleagues and facilitated by Chris Watt, Head of Organisational Learning at LSE. They were keen for someone from the UCL Teaching Administrator Network to come along and talk about our experience. Their first meeting was really successfully with lots of colleagues coming along even though it was a very busy time of year.
+It reminded me of when we got started at UCL about six years ago – the relief of realising that you’re not the only one struggling with some of the issues was exactly the same! It was also a reminder of what a fantastic bunch of people teaching administrators really are – extremely committed to supporting “their” students and academic staff and usually able to bear most of the difficulties thrown at them with a sense of humour. And a realisation that we need to work together within our institutions to ensure the impact on departmental processes and workloads (and ultimately students and academic staff) are considered when decisions are made centrally, and to work together within and beyond our institutions to share best practice. The wordle below, put together by Nicole and Michael, reflects the discussion:
+Filed under Uncategorized
+No Comments »
+Electronic management of assessment
+By Stefanie D Anyadi, on 14 December 2014
+Last week, I went along to the JISC workshop looking at Electronic Management of Assessment. Great to meet up with Mira Vogel, and to meet colleagues from Birkbeck, King’s College London and elsewhere.  You can find out more about the project at http://ema.jiscinvolve.org.
+The workshop was about involving end users, establish requirements and preferences, and then prioritising next steps. I voted for better interoperability between Student Information System and VLE Integration, better reliability of submission and greater creativity in specifying assessment. Have a look below – what are your priorities? You can feed into the project via http://ema.jiscinvolve.org/wp/2014/11/27/end-user-perspectives-on-the-challenges/
+JISC Electronic Marking of Assessment – Top Challenges, by Gill Ferrell
+Filed under Uncategorized
+No Comments »
+Webinar: UCL working with the new change agents
+By Clive Young, on 3 June 2014
+Clive Young (ELE) and Stefanie Anyadi (UCL Division of Psychology and Language Sciences) led an ALT webinar today on work UCL has been doing with our community of teaching administrators (TAs).
+We described the now-completed JISC Digital Department project that supported these staff in developing their digital literacies and in working more systematically and strategically with them as change agents. This had led directly to the establishment of our supported programme leading to the Certified Membership of the Association for Learning Technology (CMALT). We also introduced the E-Learning Champions initiative and explained why we had included TAs to work in partnership with academics and ELE staff. Although very much a work in progress this has proved effective and has already helped benchmark e-learning activity, develop local plans across two of our schools and has led to the emergence of active faculty-level e-learning groups.
+The slides and recording are available on the ALT Repository at http://repository.alt.ac.uk/2351/
+Filed under CMALT certification, Events
+No Comments »
+Summer school: Technology and Change in Higher Education
+By Clive Young, on 20 July 2013
+Last week with colleagues Martin Oliver and Cat Edera from the Institute of Education (IoE) Stafanie Anyadi and I ran a very successful summer school entitled ‘Technology and Change in Higher Education’. Both the IoE and ourselves have related projects under the JISC Digital Literacies programme and we were keen to explore some of the issues around emerging practices, roles and identities related to the changing technological environment.
+On the first day Stefanie and I focused on the issues that had been highlighted by our The Digital Department project and the work we had done around the CMALT programme. We were fortunate to have a very lively group of participants; academics, support staff and administrators who were very happy to share ideas and experiences.
+We first explored the notion of changing identities, how rapid technological and institutional change resulted in a fluidity of job roles, often expanding quite extensively from the standard job descriptor. Individuals seemed to be creating their own ‘operational space’, often moving flexibly between ‘academic’ and ‘administrative’ or support roles. This was not exactly the ‘third space’ professional enviroment that Celia Whitchurch [link to Celia’s paper] described – although some of our participants identified themselves as such – but a more adaptive professional environment in which previous academic/support boundaries were blurred. This fluidity was not without its problems. Several challenging issues were discussed.
+Authority had to be self-generated instead of being inherent in the job role
+Individuals had to create their own networks of influence.
+Professional development and career progression routes were less clear
+The boundary-jumping aspect may be ‘transgressive’ and challenge institutional ideas of identity and affiliation
+It might be difficult for colleagues and the institution to relate to fluid roles and recognise individual expertise
+This may result in border or ownership issues of issues that can be manifested as barriers
+Recruitment and induction into these ‘personally-constructed’ roles can be another problemThe group noted that restructuring if well implemented could be way of providing a ‘snapshot’ of these dynamic changes and route for the institution to accommodate them.
+There were many positives. Such adaptive roles could help students navigate though existing ‘chains of support’. The importance in this respect of the Teaching or Departmental Administrator was mentioned several times. Technology could play a large role in providing a breadth of support for students and staff but often a human ‘broker’ was still much appreciated.
+We completed our session by exploring the important role of new pedagogies in this process, how as e-learning had become mainstream it needs a wider group to support it. More communicative designs (using forums especially) also encouraged changes in the types of e-learning support needed and this was particularly evident in distance learning and high-tech blends of campus learning, which often took on aspects of distance learning anyway. Indeed the complexities of the increasingly rich digital environment needed skills in how to ‘signpost’ students, how to engage students in communication, how to ‘align’ their activities with the learning outcomes, but also how to support them in the wider range of digital literacies required.
+Filed under Background, Digital literacies, Events
+No Comments »
+First cohort graduates from Digital Department supported CMALT programme
+By Stefanie D Anyadi, on 21 January 2013
+The first cohort of UCL teaching administrators and learning technologists has graduated from the workshop programme supporting accreditation as certified members of the Association for Learning Technology designed by the Digital Department project team. For further information see http://www.ucl.ac.uk/teaching-learning/news/cmalt
+Filed under Uncategorized
+Tags: CMALT
+No Comments »
+CMALT 2013 – the return of our popular e-learning portfolio programme
+By Clive Young, on 20 December 2012
+Certified Membership, Association for Learning Technology (CMALT)
+Portfolio-Based Professional Accreditation
+Do you use Moodle, Turnitin, Lecturecast, Opinio, My Portfolio, the UCL Wiki? Do you use Email, text, Facebook to contact students, do you read or contribute to blogs or Twitter etc. or use other technologies to support the student learning experience?
+CMALT is a chance to learn about, share and implement good practice in the wide range of technologies that support our students’ teaching and learning. As one of our first group of candidates found: “Working together with colleagues from across UCL was helpful in terms of discovering and developing good practice”.
+CMALT is a national peer-based professional accreditation scheme developed by the Association for Learning Technology and an opportunity to certify your growing skills and experience in learning technology.
+Why not join us to work towards a CMALT certificate?
+UCL’s The Digital Department project offers a pilot programme to support teaching administrators and other colleagues for working towards CMALT. This is the second year we are running it and last year’s cohort had an excellent success rate.
+1.      What does it involve?
+Completion of a descriptive and reflective portfolio of about 3,000 words, demonstrating your knowledge in four core areas: operational issues (constraints/benefits of different technologies, technical knowledge and deployment); teaching, learning and/or assessment processes; the wider context of legislation, policies and standards and communication/working with others, plus one specialist option subject.  We will run monthly workshops to discuss and work on the core areas of your portfolio, and provide you with a mentor from our team to work alongside you and to ensure you successfully complete your certification portfolio.
+2.      How long does it take?
+It takes about six months from start to submission.  Our first cohort estimated it took around 20 hours in all to complete. The new 2013 cohort will start in February 2013.
+3.      How much does it costs?
+It costs £76 to register as a CMALT candidate under the UCL scheme.  In many cases last year the candidate’s department was able to cover the fee.
+This is an excellent opportunity to support your professional development with lots of support available.
+For further information on CMALT, please visit the ALT website at http://www.alt.ac.uk/get-involved/certified-membership
+Please register your interest with Alison Gilry a.gilry@ucl.ac.uk as soon as possible.
+We will hold a meeting to provide further information for prospective participants at 3.00 pm on January 15th 2013 pm (location to be confirmed).
+Filed under CMALT certification
+No Comments »
+Digital literacy – some frequently asked questions
+By Stefanie D Anyadi, on 14 December 2012
+Have a look at some questions and answers regarding improving digital literacy in the latest JISC Inform: http://tinyurl.com/cojy54s
+Filed under Uncategorized
+Tags: JISC
+No Comments »
+TA Training Needs Analysis (TNA) Workshop
+By Clive Young, on 10 December 2012
+Many thanks to all those who attended the TNA workshop on 6th December. The workshop was run jointly by the Project and Jo Lambert, ISD IT Training Manager. It was designed as a follow-up from our TA Questionnaire from earlier in the year which established UCL use of digital tools, confidence and interest in using new tools. The TNA workshop aimed to analyse a bit deeper what TAs do in practice and map this against tools and especially training.
+The project is conscious that although we have developed materials around e-learning as part of the CMALT programme, a whole range of university and productivity tools are also used by UCL TAs and we wanted to think how they could be supported. Jo worked with the group to identify common admin tasks, for example around communication, assessment and attendance management. Early in the new year she will report back to the project and the UCL TA community to suggests how common tasks can be mapped to tools and training. We will also be working with Jo to identify any gaps in the current support and training provision.
+Filed under Digital literacies, Tools
+No Comments »
+CMALT 2 – the return of our successful e-learning programme
+By Clive Young, on 10 December 2012
+As many of you know some 20 TA colleagues started at the beginning of the year on our ambitious and experimental programme to support our colleagues through the Association for Learning Technology’s Certificate Membership of ALT (CMALT). Over half have now successfully completed the e-learning portfolio and such is the interest in the programme at UCL we are now planning another run, starting early in the new year. We are also encouraged by ALT who describe it as their most successful group CMALT programme ever! Perhaps even more importantly the participants report they found it both interesting and useful in the development of this growing component of their work.
+We will be sending out more publicity and information soon, but in the meantime if you are interested in the programme, please contact Alison Gilry (a.gilry@ucl.ac.uk).
+Filed under CMALT certification
+No Comments »
+Back in action
+By Stefanie D Anyadi, on 29 November 2012
+Our blog has had a rather long summer break although there has been quite a lot of activity. One of the outcomes we have achieved is the successful accreditation of a cohort of teaching administrators as Certified Members of the Association for Learning Technology.
+We developed a programme of workshops and arranged mentors to guide teaching administrators through the accreditation process with an excellent success rate. Feedback and the completed portfolios show how this has encouraged reflective practice as well as an exchange of ideas between colleagues from across UCL.
+Filed under CMALT certification
+Tags: CMALT
+No Comments »
+« Previous Entries
+Disclaimer
+Freedom of Information
+Accessibility
+Privacy
+Advanced Search
+Contact Us
+Log in
+University College London - Gower Street - London - WC1E 6BT
+Tel:
++44 (0)20 7679 2000
+© UCL 1999–2011
+Protected by Akismet
+Blog with WordPress

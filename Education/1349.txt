@@ -1,0 +1,13 @@
+Access denied | www.ja.net used Cloudflare to restrict access
+Please enable cookies.
+Error
+1010
+Ray ID: 333fc3a708af2edb • 2017-02-20 06:04:59 UTC
+Access denied
+What happened?
+The owner of this website (www.ja.net) has banned your access based on your browser's signature (333fc3a708af2edb-ua48).
+Cloudflare Ray ID: 333fc3a708af2edb
+•
+Your IP: 14.139.37.55
+•
+Performance & security by Cloudflare

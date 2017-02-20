@@ -1,0 +1,294 @@
+UKRISS | UK Research Information Shared Service
+Skip to content
+Home#292 (no title)
+About
+Contacts
+Deliverables
+← Older posts
+UKRISS Final Report Released
+Posted on September 30, 2014 by Simon Waddington
+The UKRISS final report has been released by Jisc in August and is available for download  here. Appendix 4 to the report can be downloaded separately. This comprises:
+A spreadsheet defining the UKRISS core profile and associated vocabularies.
+A set of examples of UKRISS reporting objects modelled in CERIF XML.
+The report is also available from the Jisc project page (without the supplementary files).
+The final report presents the work carried out by the UKRISS project, including requirements gathering, modelling and prototyping, as well as recommendation for sustainability. UKRISS was divided into two phases. Phase 1, mapping the reporting landscape, ran from March 2012 to December 2012. Phase 2, exploring delivery of potential solutions, began in February 2013 and ended in January 2014.
+The final report covers:
+A summary of the findings of the feasibility study, an extensive sector-wide study of requirements for research information reporting and recommendation for prototyping and development.
+An analysis of the potential for harmonisation across RCUK research information reporting and the HE-BCI survey, definition of the UKRISS core reporting profile and associated CERIF mappings.
+Technical proof-of-concept demonstrators for validation of compliance with the UKRISS core profile, visualisation of the model, and analysis and mining of aggregated information by virtue of the harmonised representation.
+The UKRISS Crosswalk Connector, which was developed to show how data can be readily extracted from existing institutional systems to populate funders’ reports.
+A preparatory business case to describe, qualitatively, for each stakeholder group, the benefits of harmonisation.
+Recommendations to Jisc and the Research Information Management community within the HE sector for further development and sustainability.
+Posted in Communication & Dissemination, Prototyping & Recommendations, Requirements & Feasibility
+|
+Comments Off on UKRISS Final Report Released
+The Benefits of Validation
+Posted on December 11, 2013 by Rebecca Perchard
+The UKRISS project is working on representing information about research projects and their outcomes in CERIF, an industry standard in the description of educational activities and assets. The output of this work is a proposal for a harmonised reporting model – a common way of representing research outputs and related pieces of information important to multiple stakeholders in Higher Education.
+One of the key areas Cottage Labs’ technical work has focused on is validation – the process of ensuring compliance with the model and the quality of the data represented.
+In a previous post on the Cottage Labs blog, we discussed the process and technicalities of validation; but what makes validation so important?
+It can catch errors with metadata at the point that it is created or stored, preventing it from propagating incorrectly
+It can improve your metadata quality at source
+It can help ensure consistency of metadata across the whole community, which in-turn will be of value in other contexts, such as reporting and analytics
+Catching errors and preventing them from spreading further
+As we learned in Richard’s post on validation, the prototype tools we have built can validate fields in the following ways:
+Format validation – for example, checking that an ISSN is in fact and ISSN by checking if it has the correct form (nnnn-nnnn), and that its checksum digit is legitimate.
+Reality validation – if we can find the value of the field in an external dataset, then we can be more confident that it is genuine. For example, if we have a DOI (Digital Object Identifier) which fits with the overall structure of a DOI (for example, by applying a regular expression), we might then go and look it up in the Crossref database, or follow it to the digital object that it identifies, in order to check that it actually exists in the real world.
+Improving metadata quality at source
+The process of checking whether the data is real has the further advantage that we may discover other metadata about that fieldset, for example a bibliographic reference or the data embedded in the html meta headers in the publisher’s website. This information can help improve the quality of our own metadata.
+Ensuring community-wide consistency
+In addition to checking whether the data conforms to the model and making sure that it exists in reality, we can also cross-reference the data against other sources to find out if the sets of fields from our document and the external data are coherent as a whole. For example, if we request information about a DOI from CrossRef, then we also get back a bibliographic metadata record, which we can compare with the one we are validating. This helps make metadata coherent across the whole community.
+Posted in Communication & Dissemination, Technical
+|
+Tagged arma, cerif, cerify, common research information profile, cottagelabs, crossref, crossref database, data models, data validation, digital object identifier, dissemination, DOI, ensuring data is genuine, fieldset, higher education, how can we improve our metadata, improving metadata, is my data correct, is my data genuine, jisc, making sure data is genuine, metadata, metadata enhancement, metatool, research manager, researchfish, ros, technicalreview, ukriss, validating fieldsets, validating research information, validation, validation of research information models, verifying fieldsets
+|
+Comments Off on The Benefits of Validation
+UKRISS Glasgow Workshop
+Posted on November 27, 2013 by Rebecca Perchard
+Following the success of our London workshop earlier this month, we held our second end-of-project workshop last week at the University of Glasgow Library. The event was well-attended and we received lots of interesting feedback in the discussion session.
+The slides from the project team’s presentations are available here:
+Background and UKRISS key findings (Simon Waddington)
+Institutional perspective (Rosa Scoble, Monique Ritchie)
+Harmonisation, core profile, CERIF, euroCRIS and CASRAI (Brigitte Joerg)
+Validation, visualisation and aggregation (Richard Jones)
+Implementation: Exeter connector (Steve Trowell)
+Business case for harmonisation (Diane McDonald)
+Thanks to everyone who came along and helped to make this an interesting and enjoyable event. Special thanks to Valerie McCutcheon at the University of Glasgow Library for helping to organise and hosting the event, and to Ann Millar of Scottish Funding Council for delivering the opening keynote.
+Posted in Communication & Dissemination, Events, Stakeholders
+|
+Tagged arma, brunel, casrai, cerif, common information profile, common profile for uk research information, common research information profile, conference, cottagelabs, dissemination, eurocris, exeter, free event, free workshop, Glasgow University, higher education, kings, landscape, poster, rcuk, requirements, research information, researcher, researcher higher education, researchfish, ros, software, stakeholders, the University of Glasgow, ukriss, University of Glasgow Library, workshop
+|
+Comments Off on UKRISS Glasgow Workshop
+UKRISS London Workshop
+Posted on November 5, 2013 by Rebecca Perchard
+On Friday 1st November we held a project workshop at the British Library where we presented what we have learned and developed over the course of the project and engaged in some interesting (and lively!) discussion on the research information landscape and harmonisation.
+You can view the slides from all our presentations here:
+Opening Keynote (Ian Viney)
+Background and UKRISS key findings (Simon Waddington)
+Institutional perspective (Rosa Scoble, Monique Ritchie)
+Harmonisation, core profile, CERIF, euroCRIS and CASRAI (Brigitte Joerg)
+Validation, visualisation and aggregation (Richard Jones)
+Implementation: Exeter connector (Steve Trowell)
+Business case for harmonisation (Diane McDonald)
+The project team would like to thank everyone who came along and participated in the discussions to make this an interesting and enjoyable event. We’re looking forward to the next one in Glasgow on 20th November!
+You can sign up for our Glasgow event here.
+Posted in Communication & Dissemination
+|
+Tagged arma, britishlibrary, brunel, casrai, cerif, cerify, common profile for uk research information, common research information profile, conference, cottagelabs, cris, dissemination, eurocris, event, events for research managers, exeter, harmonisation, harmonising research information, higher education, how can research information be harmonised?, jisc, kings, landscape, poster, rcuk, research manager, researcher, researcher higher education, researchfish, ros, software, stakeholders, ukriss, ukriss event
+|
+Comments Off on UKRISS London Workshop
+UKRISS Journal Paper published
+Posted on November 4, 2013 by Simon Waddington
+A journal paper “Feasibility Study Into the Reporting
+of Research Information at a National Level Within the UK Higher Education
+Sector” has been published in the journal New Review of Information Networking. The paper is available as Gold OA and can be accessed from the Taylor and Francis website at
+http://www.tandfonline.com/eprint/76QMhvSWJTEZMcghVewh/full#.Unt_wV9FCUk.
+The paper presents the results of the UKRISS phase 1 requirements study and recommendations.
+Posted in Uncategorized
+|
+Comments Off on UKRISS Journal Paper published
+UKRISS at Reconnect13
+Posted on October 24, 2013 by Rebecca Perchard
+The UKRISS project is preparing for the presentation of its phase 2 results in a final workshop to be held at the British Library on November 1st, 2013. It was therefore an excellent and timely opportunity to present the current outputs and discuss with an international audience at Reconnect13 – the 2nd Annual CASRAI International Conference held in Ottawa last week. With “Big Data – The Advance of Data-driven Discovery” the conference certainly hit the mark of ongoing discussions around scientific practise and activities and the implications of changes through ‘big data’. The three main conference streams “Reconnect Big Data” – “Reconnect The Library” – “Reconnect The Machine” brought together a variety of almost 200 stakeholders involved differently in processes alongside the Research life-cycle. To summarise the concluding remarks of the audience: ReConnect13 has advanced substantially the understanding of the different components and the different roles required in the Research Ecosystem. A need for collaboration now and for contributions by all its stakeholders was stressed as crucial with ways forward. UKRISS demonstrated within the ‘Machine’ track the contribution from UK while in addition first steps have been taken towards identifying commonalities and differences between the UK and the German landscape, hence the joint presentation labelled “Machine Anatomy in UK and Germany”.
+UKRISS and its particular relationships with CERIF and CASRAI was in addition presented within the CASRAI I0I workshop together with VIVO and FRIS, focusing on modeling aspects and inter-relationships between the different modeling approaches, and where further work will certainly be continued towards increased alignments.
+Posted in Uncategorized
+|
+Tagged arma, casrai, cerif, cerify, conference, conference in Ottawa 2013, cris, dissemination, eurocris, international, jisc, kings, Ottawa, presentation, Reconect13, research information, research manager, ukriss
+|
+Comments Off on UKRISS at Reconnect13
+Demonstrating UKRISS Solutions in Institutions
+Posted on October 10, 2013 by Rebecca Perchard
+Common problems
+Following a recent blog posting explaining the potential benefits of UKRISS for Institutions, we would like to expand on this and provide a little more detail on how this may be achieved.
+The 3 UKRISS partner Institutions of Kings, Brunel and Exeter all have different organisational structures, methods of data processing and system architectures. Such differences are common across the sector; in fact no two institutions will be the same in this regard. However, it is also very apparent that we all share the same common issues:
+Many manual processes to support all forms of information flow between the Institution and funders, particularly in support of research reporting.
+Responsibility for completion of many reporting streams is split between PI’s and central research support administrative staff, with little visibility of data entered.
+Much of the required data resides across a range of internal systems, each storing the data in different database structures and with different naming conventions for data fields.
+All institutions recognise that improving information flow processes would yield benefits, yet competing institutional priorities which mean only limited resources can be invested in this at the moment.
+The UKRISS project will show how all of these issues can be addressed.
+An Open-Source Connector
+At Exeter, we are working with an experienced specialist software supplier, Certus Technology Associates, to develop a connector to join information systems together. Following UKRISS project demonstrations, the connector could be made available to the sector free of charge. The connector will demonstrate how it is possible to extract the required data for research reporting from any existing information system, convert it to a standard data format, and send it on securely to a destination outside of the Institution.
+In the first instance, just by way of example, we are focusing on showing how the reports for ROS and Research Fish could be automated. This will be demonstrated at our respective institutions to show how it works on any infrastructure.
+This work has shown the importance of a robust common data model. For example, Brunel and Exeter both use Symplectic for management of research publications, but analysis of the data shows that even the though the system is the same, each configuration is different, as are the processes driving use of the system, and so at a data level there are many differences.
+A key feature of the connector is a low barrier to entry: detailed IT knowledge is not required to install it, and configuring it to extract data from existing systems is done through a graphical user interface – no programming required. It also works in conjunction with the data validation tools under development by Cottage Labs, so underlying data quality can be improved as part of the process.
+Posted in Communication & Dissemination, Project Partner, Stakeholders, Technical
+|
+Tagged advantages, advantages of UKRISS to institutions, arma, benefits, benefits of UKRISS to institutions, brunel, cerif, cerify, Certus Technology Associates, cottagelabs, cris, current Jisc projects, dissemination, exeter, HEI, helping HEIs, higher education, how can UKRISS benefit institutions, implementation, implementation of benefits to institutions, jisc, kings, Kings College London, landscape, modelling research information, projectmanagement, requirements, research information, research information modelling, research information models, research manager, researcher, researcher higher education, researchfish, ros, software, stakeholders, symplectic, ukriss, useful tools for higher education institutions, why is UKRISS beneficial to institutions
+|
+Comments Off on Demonstrating UKRISS Solutions in Institutions
+UKRISS: making the case from the institutional perspective
+Posted on October 3, 2013 by Rebecca Perchard
+Dr Rosa Scoble, Acting Director (Planning), Brunel University
+Monique Ritchie, Research Librarian and Copyright Officer, Brunel University
+Earlier UKRISS posts have talked about the technical and theoretical work involved in developing and validating models which pull together data fields and vocabularies in multiple research information systems. We’ve also talked about the business case for harmonising research information reporting systems, and recently a post on the BL science blog summed up what the taxpaying public stands to gain from the project.
+The three UKRISS university partners, King’s, Exeter and Brunel have a diverse range of research specialties and use a range of research information reporting systems, between them being broadly representative of the sector. So what’s in it for HE institutions? To answer this, we first need to look at what’s wrong and where UKRISS comes in.
+What’s wrong with the current situation?
+The present lack of harmonisation in research information reporting systems at national level means institutions currently invest in a number of different systems to coordinate and manage research information and reporting which simply do not talk to each other, or do not very well. Systems need expertise to implement, manage and maintain, with associated training and staff costs. This all adds up to a significant investment.
+Researchers themselves may have multiple systems they use, and other data sources and records, which are not in places which allow data to be imported or scraped easily from one place to another. Their data and systems may also be invisible to institutional research managers, who have no idea what the big picture looks like and are therefore not able to be as effective as they could otherwise be.
+HEIs are therefore haemorrhaging efficiency, by having to duplicate work that someone has done somewhere, sometime, as there is no way to easily import or export research information for repurposing. A waste… and one which, if institutions gave it some thought, they would jump at a chance to bin – pun intended.
+UKRISS to the rescue
+The UKRISS project aims to make it easy for those who design and develop the range of systems HEIs use, to improve their interaction and is based on real world systems. The team is finding common ground by mapping fields and vocabularies of key systems, building and testing models which demonstrate their interoperability in theory. System developers might use the UKRISS project output to refine existing products, or design new ones to add on to existing systems to get them talking to one another.
+What’s in it for institutions?
+The institutional perspective is complex, as there are multiple stakeholders in any HEI: from research support departments to researchers themselves, all with different needs, and different systems to manage or interact with. The project’s impact will therefore be felt in different ways. Nonetheless, the benefits could be significant.
+The current HE climate is particularly challenging, with more competition for reduced research funding, and more demands on an institution’s finite resources. HEIs need to reserve as much funding as possible to invest in conducting research itself, otherwise they could end up having lots of expensive systems and few researchers to use them. Far better for developers to design systems that will make a difference to HEIs, who will make time, resource and efficiency savings.
+Researchers and their institutions are required to report key research information to funders, particularly important for publicly funded research. To be frank, most institutions find it very difficult to fully comply and meet funder and government requirements. Researchers find reporting onerous, especially with increasing workloads and pressures to cope with. They also struggle with knowing exactly what information they are being asked for, as systems are often riddled with ambiguities or are unclear.
+Much research information is first inputted by researchers themselves, naturally, but centrally, institutions often do not have access to this information, and have no record of it, unless the researcher makes it available. Invisible information means that the institution therefore does not have a full set of data and it’s possible that there are many missed opportunities for collaboration as a result.
+Key benefits:
+Standardised information reporting and recording means research information can be easily reused
+Better and more complete institutional data capture and management allows improved access to research information for research support teams
+Repurposing information for internal and external institutional reporting will become more efficient reducing duplication of effort
+Institutions will be better able to manage research portfolios, gauge research impact and identify potential collaborators for success, earlier and more strategically
+Complying with funder and government research information reporting requirements will be easier for researchers and institutions
+Despite the significant benefits, it will be of no use if the project findings aren’t used to inform product design and interoperability of systems – this is something the UKRISS team cannot hope to control, only influence. System developers, vendors, funders, researchers and their institutions must engage with the work being done, and work together to design and implement systems that make recording, managing and reporting research information simpler for all. Our workshop (November 2013) aims to bring all these stakeholders together to begin to think about doing just that.
+Posted in Communication & Dissemination, Project Management, Project Partner, Requirements & Feasibility, Stakeholders
+|
+Tagged arma, britishlibrary, brunel, casrai, cerif, cerify, common information profile, common research information profile, cottagelabs, cris, dissemination, exeter, helping HEIs, helping higher education institutions, higher education, institutional perspective, jisc, kings, landscape, librarian, library, research information, research information management, research library, research library management, research manager, researcher, researcher higher education, useful tools for higher education institutions, useful tools for research information management, useful tools for research managers
+|
+Comments Off on UKRISS: making the case from the institutional perspective
+UKRISS Workshop Event: 1st November 2013
+Posted on September 27, 2013 by Rebecca Perchard
+The UKRISS project team would like to invite you to our workshop event on the 1st of November 2013. The workshop will take place at the British Library and will provide an introduction to the project and the advantages it proposes for UK Higher Education. We will explore the information models the project has produced by examining requirements from both institutions and funders, and demonstrate the technology we developed to validate our approach.
+Aimed at those working in the Higher Education and Research community, the event will also provide a forum for breakout discussion around the project and what else needs looking at in this space. Lunch and coffee will be provided!
+To register for the event, visit our Eventbrite page.
+Looking forward to seeing you there!
+Posted in Communication & Dissemination, Stakeholders
+|
+Tagged arma, britishlibrary, brunel, casrai, cerif, cerify, conference, cottagelabs, data models, data validation, dissemination, event, higher education, higher education research, international, jisc, kings, model validation, rcuk, research information, research manager, researcher, researcher higher education, software, technology, ukriss, validation tools, vendors, workshop
+|
+Comments Off on UKRISS Workshop Event: 1st November 2013
+Business case for harmonisation of research information reporting
+Posted on September 19, 2013 by Simon Waddington
+UKRISS Phase 2 has been focussing developing models which will support the reporting of research outcomes.  The intention is to enable a harmonised approach to collection and exchange of research information across higher education in the UK through the development of a core information profile of common fields together with supporting CERIF mappings and dictionaries of terms.  This will make information exchange more efficient as well as increasing the quality of information on research outcomes.  Implementation of a harmonised approach will, however, require change to existing practice within the sector.  For this to be implemented, both the research councils and institutions need to appreciate the benefits and costs involved – the business case for change needs to be clear.
+Viewforth Consulting is assisting the UKRISS project team with construction of the business case for future investment in the harmonisation of research information reporting and data collection across key sections of the public research base.   The work will draw on, and consider, the evidence for the  economic (financial and non-financial) costs  and benefits of research reporting harmonisation that are available from Phase 1 and Phase 2 of the UKRISS project as well as exploring wider evidence for the potential broader national or ‘macro-level’ strategic benefits that could arise through the related  improvements to knowledge about the UK public research base.
+The first step will be to develop a broad overview of harmonisation of research information, setting it within the wider strategic context to help convey to key stakeholders the purpose and aims of harmonisation and how it can be realised. This will include using a logic modelling approach to capture the key elements, inputs, activities, outputs and longer term desired outcomes and impacts of harmonisation.  This will be followed by an exploration of opportunities which sets the goals of research reporting harmonisation within the broader UK economic context – the importance of the public research base and why better knowledge about the research base is needed – why this is important and how it could be used. This will draw on NESTA work on innovation and other recent literature on UK and innovation as well as related international developments.   The potential short, medium, longer term benefits for researchers, institutions, research organisations as well as for government and society will also be explored.  This will feed in to cost-benefits analysis of harmonisation of research information.  Both current costs and estimates of future costs for institutions as well as research funders will be considered.  Estimation will draw heavily on information from phase 1 & 2 of UKRISS; other sources may include the Research councils and other Jisc projects.
+Posted in Uncategorized
+|
+Comments Off on Business case for harmonisation of research information reporting
+← Older posts
+Search for:
+Upcoming Events
+There are no upcoming events.
+View Calendar
+Add
+Add to Timely Calendar
+Add to Google
+Add to Outlook
+Add to Apple Calendar
+Add to other calendar
+Export to XML
+Recent Posts
+UKRISS Final Report Released
+The Benefits of Validation
+UKRISS Glasgow Workshop
+UKRISS London Workshop
+UKRISS Journal Paper published
+Categories
+Background Research
+Communication & Dissemination
+Events
+International Perspective
+Literature Review
+Prioritisation
+Project Management
+Project Partner
+Prototyping & Recommendations
+Requirements
+Requirements & Feasibility
+Requirements Gathering
+Stakeholder Analysis
+Stakeholders
+Technical
+Technical Review
+Uncategorized
+Tagsarma
+britishlibrary
+bruce
+brunel
+casrai
+cerif
+cerify
+common research information profile
+conference
+converis
+cottagelabs
+cris
+dissemination
+edinburgh
+eurocris
+exeter
+hesa
+higher education
+international
+interviews
+jisc
+kings
+landscape
+mice
+minutes
+poster
+projectmanagement
+pure
+rcuk
+requirements
+researcher
+researcher higher education
+researchfish
+research information
+research manager
+rmas
+ros
+software
+solreyes
+stakeholders
+steeringboard
+symplectic
+technicalreview
+ukriss
+vendors
+Archives
+September 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+June 2013
+May 2013
+March 2013
+February 2013
+January 2013
+November 2012
+October 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+Related Tweets IT Systems Updates@KingsITsystems:
+We are experiencing some technical issues, which might be affecting SITS and password changer. This is currently being investigated. 52 months ago from webreply | follow KingsITsystems
+@SimonTanner:
+Hugh Denard's King's keynote speech at Digital Humanities Symposium in Beijing http://t.co/s6BEDHDD #kingsdh 52 months ago from bitlyreply | follow SimonTanner
+IT Systems Updates@KingsITsystems:
+IT are pleased to inform you that the power issue at St Thomas' is now resolved. 52 months ago from webreply | follow KingsITsystems
+IT Systems Updates@KingsITsystems:
+IT Services are aware that there is no network connectivity for Image Science users. This is being investigated. 52 months ago from webreply | follow KingsITsystems
+@StuartDunnCeRch:
+Forthcoming seminars @KingsDH & @KingsCeRch are here. All welcome! http://t.co/U2FBc7Fi Please come along & RT! #kingsdh #cerchseminars 52 months ago from Twitter for BlackBerry®reply | follow StuartDunnCeRch
+@SimonTanner:
+Details of forthcoming seminars @KingsDH & @CeRCH are here. All welcome! http://t.co/WWGqlC43 Please come along & RT! #kingsdh 52 months ago from TweetDeckreply | follow SimonTanner
+IT Systems Updates@KingsITsystems:
+IT are pleased to inform you that the OCS issue is now resolved. If however you cant login, Please exit and re run OCS. Thanks 52 months ago from webreply | follow KingsITsystems
+IT Systems Updates@KingsITsystems:
+Customers may experience issues logging into OCS (Office Communicator, IT are working to resolve this issue, Updates to follow. 52 months ago from webreply | follow KingsITsystems
+IT Systems Updates@KingsITsystems:
+Live@edu upgrade update: all tested successfully following upgrade.
+If you were previously a live@edu mail user use http://t.co/12MiuiEC 52 months ago from Echofonreply | follow KingsITsystems
+IT Systems Updates@KingsITsystems:
+We are are aware that there are problems accessing student computing at Waterloo. This is currently being investigated by our engineers. 52 months ago from Echofonreply | follow KingsITsystems
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+UKRISS
+A Centre for e-Research project blog Powered by Wordpress.

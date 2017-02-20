@@ -1,0 +1,71 @@
+- Research Computing (The University of Manchester)
+| Skip to main content | Skip to navigation | Skip to Search |
+[University home]
+Quicklinks
+Quick Links
+Case Studies
+News
+Events
+Staff
+Computational Science Community Wiki
+Maps & Travel
+Research Computing
+Services
+Research & Development
+Training & Education
+Community
+About Us
+Homeresearchshebangs
+Research and Development
+Current Projects
+Past Projects
+Seminars
+Research Centres
+Publications
+Shibboleth Enabled Bridge to Access the National Grid Service (SHEBANGS)
+Contents
+Shibboleth Enabled Bridge to Access the National Grid Service (SHEBANGS)
+Introduction
+Motivation
+Objectives
+Architecture
+Project Team
+Downloads
+Services
+Further Information
+Footnotes
+Introduction
+The SHEBANGS project is funded by the JISC, in response to the call for projects to provide Shibboleth Based Authentication for Grid Infrastructures. The JISC has defined a strategy hereby Shibboleth may be adopted to provide a common authentication structure across British academic institutes and research establishments. We believe that this will provide an infrastructure in which researchers will be able to use existing Grid Resources without first having to buy into the complexities of today's Grid Security requirements.
+Motivation
+We recognise that there exists a large proportion of the academic community that as yet has not bought into the grid technologies and believe that this is due to the complex nature of the tools provided.
+Objectives
+During the lifetime of this project we aim to produce, pilot and ultimately provide a method of using Shibboleth to gain access to the National Grid Service (NGS). Shibboleth provides a way of linking home-institute dependent authentication to site independent assertions of that individual's identity. The NGS on the other hand requires Grid Security (X509/GSI) credentials and the membership of at least one Virtual Organisation. We aim to place a keystone between the Shibboleth world and the grid, translating the credentials obtained by the former into those understood by the latter keeping the complexities hidden from the individuals. The community we are primarily catering for will not have grid middleware installed and as such will need to use existing portal technologies. The NGS has two recognised portals available the NGS Portal and the P-Grade NGS Portal. The SHEBANGS project will enable users, having already identified themselves to their own institution, to access the NGS through one or both of these portals. The necessary grid credentials being generated on-the-fly. The grid-savvy community who already possess the means to use the NGS will also benefit. They will be able to pre-register their grid credentials. Using the same interfaces as the non-grid-savvy user, they will be able to access the NGS via the portals through a web browser. The project is divided loosely into three parts:
+The first part of the project will see the development of the basic Credential Translation Service (CTS). This CTS will create GSI credentials which will be delegated to a trusted MyProxy server for the consumption (upon authentic demand) of the portal. The second part will be to incorporate VOMS assertions created at the CTS into these GSI credentials. The third part will be to incorporate Identity providers from the FAME-permis project and MIMAS SHIMMER project.
+Architecture
+Shibboleth provides the first link for an individual trying to gain access to a service hosted on the internet. It mediates between the community at large and the individual's institution. It allows the individual the opportunity to log into a service based on an assertion from their home institution, which they gain by logging into that institution. SHEBANGS will use these assertions to generate short lived credentials which it will then upload to a MyProxy server. Both the NGS portals use MyProxy servers as the means by which grid credentials are obtained. The figure below shows the movement of authentication data in the scenario where the user contacts the Credential Translation Service (CTS) first.
+A user, perhaps referred by an HTML link from the portal, points their browser at the CTS. The user's browser is redirected to a trusted Where Are You From (WAYF) service. The WAYF server presents a form which the client completes and posts back to the server. The user's browser is now redirected to the appropriate institutions IdP. Out of bands authentication takes place between the user and the IdP. The IdP redirects the browser back to the CTS (passing Shibboleth artifacts in the URL1) The CTS uses the artifacts to obtain SAML Assertions from the IdP on a secure back channel. The CTS evaluates the SAML Assertions and issues a GSI Credential. The CTS delegates this credential to a MyProxy Server. The CTS returns a web page over HTTPS to the client which contains a MyProxy username:password:server triplet. The user logs into the portal using the MyProxy triplet, and is now able to use the Grid. The portal obtains a GSI credential (out of bands). The Portal access the NGS (out of bands).
+Project Team
+Dr Mike Jones Dr Aleksandra Nenadic Dr Stephen Pickles (PI) Dr Ning Zhang (PI)
+Downloads
+The alpha quality VOMS::Lite Library is available now (comments welcome!) VOMS-Lite-0.04.tar.gz
+Services
+The SHEBANGS project has set up a mock CTS service a test MyProxy service, a MockPortal and a gLite Compute Element. The CTS resides within the shibboleth InQueue Federation N.B. The InQueue WAYF will shutdown 1 June 2007 (Details). The CTS will translate a client's valid shibboleth SAML assertions into a proxy certificate with VOMS credentials which it will then delegate to a MyProxy service.
+The MockPortal consumes the username and password for the MyProxy service, obtains a proxy from that MyProxy service, checks it and checks the grid host is accepting connections. If successful it submits the requested job. To try out the CTS (before 1 June) you need to first register with an IdP within the InQueue federation, e.g. OpenIdP. Then choose either the CTS first approach or the Portal first approach: CTS first: Visit the mock CTS. This will lead your browser round the merry Shibboleth dance any will put a proxy certificate which identifies you into a MyProxy server. Then visit the
+Mock Portal, where you will be asked to enter your MyProxy server, username and password
+obtained in the last step. Portal first: Visit the MockPortal. This will ask you, "Which VO Are You From?" (This is a WVOAYF service2). Click the link there. The browser will be lead round the merry shibboleth dance and you'll find yourself at the portal with all the MyProxy (login) details filled in. Once at the portal you'll be able to use the it to submit compute jobs to a
+Globus server. The Globus server is configured to recognise the SHEBANGS CTS Certificate Authority. It is also configured to recognise the SHEBANGS CTS VOMS-AC Service.
+Further Information
+Two mailing lists have been set up shebangs@listserv.manchester.ac.uk and voms-lite@listserv.manchester.ac.uk. The SHEBANGS mailing list which is for general queries about the SHEBANGS project (click here to subscribe). The VOMS::Lite mailing list for queries relating to the lightweight perl code developed to manufacture of VOMS credentials which is used by the SHEBANGS project's CTS component (click here to subscribe).
+Footnotes
+The architecture describes the shibboleth SAML:Artifact profile. The SAML:POST profile also works and is the one implemented in the Mock CTS.
+(1)c.f. WAYF or DiscoveryService
+(2)
+Bookmark with:
+Delicious
+Digg
+reddit
+Facebook
+StumbleUpon
+| Disclaimer | Privacy | Copyright notice | Accessibility | Freedom of information | Login |
+IT Services, Devonshire House, Precinct Centre, The University of Manchester, Manchester, UK, M13 9PL | Contact details | Feedback
+Royal Charter Number: RC000797

@@ -1,0 +1,92 @@
+Leeds Met SOAP Opera Project | Flexible Service Delivery
+Leeds Met SOAP Opera Project
+Flexible Service Delivery
+Skip to content
+HomeAbout
+← Older posts
+Starting to become an EA practitioner
+Posted on August 11, 2011 by robmoores
+This project has been invaluable in helping us not only broaden and deepen our knowledge of all things EA, but also increase our confidence  and drive to get practising it !
+As a result we have incorporated an ESB, ETL tools, data warehouse and BI tools in our JISC-funded STAR-Trak project.
+Additionally we ran a week’s worth of workshops around SOA and EA governance, facilitated by Clive Gee (what this man doesn’t know about what’s worth knowing in this area really isn’t worth knowing – a real hardened ex-IBM practitioner not a trainer !)
+As this project is now closed I will talk about this in detail in two other blogs:
+http://leedsmetstartrak.wordpress.com
+http://wordpress.com
+We look forward to continued involvement in the EA Practice Group (under it’s new name which escapes me …)
+So a big thanks to the JISC FSD team and the FSD community for helping us get here. We’ve certainly moved up the maturity curve and are very excited about progressing in all of the above areas to help meet the challenges that Leeds Metropolitan faces in this brave new world !
+Posted in Discussion
+|
+Tagged #jiscea, #jiscfsd
+|
+Leave a comment
+SOAP Opera 2 Workshop 3
+Posted on January 17, 2011 by flexibleservicedelivery
+Following on form whorkshop 2, this workshop focused on what we needed to get from our engagement with academic staff in respect of modelling assessment. It was agreed that two forms of engagement would be undertaken:
+– a questionnaire to be sent to all teaching staff to ascertain what systems / high-level system functions they use to support assessment
+– a small (around 20) number of face-to-face interviews with individual academic staff, where we would explore in much more detail how they currently undertake assessment.
+Working through the e-tutor learning skills table we highlighted areas for capture, we established that assessment was the key area for collecting such information. We looked into whether we needed to include all staff involved with the process in the mapping or just academics and it was decided to keep the scope to just academics
+Posted in Uncategorized
+|
+Leave a comment
+SOAP Opera 2 Workshop 2
+Posted on October 13, 2010 by flexibleservicedelivery
+Another great workshop, which built on the success of the first. Lots of robust and challenging (but always good-humoured) conversation – it feels like we are storming, forming, norming and performing all in the same session !
+The main outcome was that we (eventually) agreed on how we wanted to map system and logical functionality and define user journeys through the map (as an ex-systems tester it feels a bit like creating test threads). As in all of our meetings, it is the development of a shared language, approach and documentation that seems to be key. After all, we are simply modelling reality, not re-creating it, so as long as we can all agree, it doesn’t matter too much what we call things or what techniques we use.
+We realised that the workshops have been most useful at this higher level rather than for example getting down the detail of lists of systems functions – that can be done by one or two individuals outside the workshop.
+The agenda (and soon the output) for the workshop can be found at: https://fsdsupport.pbworks.com/w/page/Leeds-Met-FSD-SOAP-Opera-2-Workshop-2
+Posted in Uncategorized
+|
+Leave a comment
+SOAP Opera 2 Workshop 1
+Posted on September 18, 2010 by flexibleservicedelivery
+Last week we ran a very successful first project workshop. It was important to develop a shared understanding of what we were trying to achieve and to agree a common language – terms such as “service” and “system” can be used in so many ways. We decided that as long as WE knew what we meant by these terms (and they fell into at least one generally-accepted definition) then that was fine – we certainly didn’t want to spend hours arguing over the nuances of terms. The agenda and notes from the workshop can be found here: https://fsdsupport.pbworks.com/Leeds-Met-FSD-SOAP-Opera-2-Workshop-1. We all came away from the workshop feeling a lot more confident about what we are trying to achieve and how to do it !
+Posted in FSD Workshops, Meeting Notes
+|
+Leave a comment
+STG Workshop 9th Sept 2010
+Posted on September 10, 2010 by flexibleservicedelivery
+Great to meet up again with colleagues from FSD and to see so many new faces. The group really feels like it has momentum, and a clear direction (thanks to the management and support team for this renewed focus).
+Alex skyping in worked well (someone suggested that skype automatically throttles the bandwidth after half an hour which would account for the slightly degraded line at times – apparently ringing off and then calling again clears this up).
+A very varied and interesting set of projects – and at least half a dozen that I want us to follow up on. We’ve made some very useful connections, and Samia from TVU and Nathalie from Coventry will be visiting Leeds Metropolitan next week to talk about student tracking and retention with us – a hot topic for many.
+The slides from our presentation at the workshop can be viewed here: http://www.slideshare.net/robmoores/leeds-met-fsd-soap-opera2-overview
+Posted in FSD Workshops, Presentations
+|
+Leave a comment
+TOGAF Process IDE – for free !
+Posted on August 25, 2010 by flexibleservicedelivery
+If you’re not aware of this, then read on … Last year the Open Group released a TOGAF plug-in for the Eclipse Process Framework. Both are freely available (as is the JRE that you also need).
+For details on what it is and where to download it please see: http://robmoores.wordpress.com
+Posted in Research
+|
+Leave a comment
+Shameless publicity for Rob Moores
+Posted on August 21, 2010 by flexibleservicedelivery
+Perhaps it’s insecurity, perhaps it’s a symptom of my middle age crisis – but I’ve started a blog on topics of professional interest. If you have a few spare minutes I’ld welcome comments and feedback on any of my posts at http://robmoores.wordpress.com/. Now where is that pilates mat …
+Posted in Uncategorized
+|
+Leave a comment
+← Older posts
+Search for:
+Archives
+August 2011
+January 2011
+October 2010
+September 2010
+August 2010
+July 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+Meta
+Register Log in
+Leeds Met SOAP Opera Project
+Blog at WordPress.com.
+Leeds Met SOAP Opera Project
+Blog at WordPress.com.
+Post to
+Cancel

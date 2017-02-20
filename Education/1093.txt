@@ -1,0 +1,70 @@
+UKOLN: ROADS
+Metadata
+Resource Organisation And Discovery in Subject-based
+services
+The ROADS project is no longer being funded. These pages
+primarily provide a record of UKOLN's contribution to the project.
+The ROADS software is no longer being supported.
+Note that because of the age of these pages they may contain many broken links.
+Introduction
+The overall objective of the ROADS project was to design and
+implement a user-oriented resource discovery system. It
+investigated the creation, collection and distribution of resource
+descriptions, to provide a transparent means of searching for, and
+using resources. The object was not to create an individual and
+idiosyncratic system but to draw on, and help create, standards of
+good practice which could be widely adopted by subject communities
+to aid and automate the process of resource organisation and
+discovery. A primary goal was interworking with other national and
+international services, and partners are active in Internet
+Engineering Task Force working groups and UK and international
+consensus-making bodies at technical, service and organisational
+levels.
+More information about ROADS is available from the project's Web
+pages at
+<URL:http://roads.opensource.ac.uk/>
+UKOLN staff that worked on ROADS
+Lou
+Daly
+Michael
+Day
+Rachel Heery
+Andy
+Powell
+Local Activities
+Here is a list of some of the work that was undertaken by UKOLN
+staff as part of the ROADS project:
+Interoperability issues, Template Registry and other
+documentation
+ROADS:
+Interoperability and metadata
+The ROADS
+Template Registry
+ROADS Cataloguing Guidelines
+ROADS Interoperability Guidelines
+Mapping between metadata formats
+ROADS Frequently
+Asked Questions
+Using ROADS for Web-site Metadata
+Management
+Incorporating ATHENS into ROADS
+ROADS Product Comparison
+UKOLN ROADS related software
+ROADS tools
+ROADSHarvester version 1 alpha 1
+UKOLN 'projects' databases
+These databases were made available using the ROADS software (but
+may not work currently because the data has not been kept up to
+date since the end of the project)):
+eLib Programme [no longer available] -
+administration
+Robot
+generated eLib projects database [no longer available]
+British Library Digital Library Research Programme [no longer available]
+Experimental
+Public
+Library People Database [no longer available]
+Maintained by: Andy
+Powell
+Last updated: 27-Nov-2004
+[Metadata] [UKOLN]

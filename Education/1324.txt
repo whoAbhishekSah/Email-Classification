@@ -1,0 +1,18 @@
+Welcome to OpenDepot.org - OpenDepot.org
+A page from the OpenDepot.org service
+Jump to the start of the main contents
+The strapline
+The menu
+LoginBrowseSearchManage DepositsAboutFAQContact
+Atom
+RSS 1.0
+RSS 2.0
+OpenDepot.org is an assured service to make research Open Access - now available for researchers worldwide.
+Deposit Here
+If your university, college or research organisation has an online repository, we can help you find it and direct you to it.
+OpenDepot.org uses JavaScript to provide help-text and other information - including this Repository Junction function. Whilst the service is useable without javaScript, enabling JavaScript (or using a JavaScript-enabled browser) will enhance your experience with this service
+To see what repositories are identifed as appropriate for your location, please call the Repository Junction script directly
+The generic footer
+The University of Edinburgh
+Acknowledgements.
+v2.03Privacy and Cookies Policy

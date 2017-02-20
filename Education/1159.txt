@@ -1,0 +1,231 @@
+SAS Open Journals
+SAS Open Journals
+Tuesday, 14 August 2012
+This blog has moved
+The SAS Open Journals project blog has now moved to SAS Blogs, a new service from the School of Advanced Study.  Read it in its new home here, or choose a recent post from the list on the right.
+Posted by
+Peter Webster
+at
+03:43
+0
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Monday, 19 March 2012
+Amicus Curiae back issues complete
+Work has now been completed at the Institute of Advanced Legal Studies to make the full back run of Amicus Curiae freely available online in SAS Open Journals. Issues 46 (2003) to 86 (2011) onwards were made available last October as part of the original SAS Open Journals project.
+Articles from Issues 1 (1997) to 45 (2003) have now been added as full-text searchable PDF files.
+The articles featured in these earlier issues cover a wide range of legal subjects, such as the origins of the euro as the European single currency; the impact of the Human Rights Act; financial regulation following the collapse of Lehman Bros; privacy; and Scottish devolution, and have renewed relevance and topicality.
+Read about:
+The Court’s role in life and death decisions
+How psychological research on consciousness can enlighten the criminal law
+Legal personality of the EU
+Privacy and celebrity, parts One and Two
+Proportionality and the Human Rights Act
+IALS is
+very grateful to the original publishers of the earlier issues (CCH New Law and Sweet & Maxwell Ltd.) for their agreement to this initiative; and to all the authors (who retain their copyright)
+for their support in developing this service for legal researchers.
+Articles are included on the basis of a non-exclusive licence to publish online and a Creative Commons (Attribution-NonCommercial-NoDerivatives) user licence. Authors who would like to discuss inclusion of their past articles from Amicus Curiae are asked to contact steven.whittle@sas.ac.uk for further information.
+Posted by
+Peter Webster
+at
+03:37
+0
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+Amicus Curiae
+Tuesday, 20 December 2011
+OJS and file conversion
+The creation of an online version of Amicus Curiae, the opening salvo of the SAS-Journals project, was based on organising existing articles in PDF form. It is also the case that new content for upcoming editions of the journal will continue to be uploaded to OJS also as finished PDFs. This works well for Amicus which has long had a print edition of which the creation of PDFs is a by-product.
+However there are different ways to approach the publication of online journals; and issues surrounding this were discussed toward the end of the project, notably during the workshop on 20th October. The OJS software already supports the creation of articles 'from scratch' itself, using the XML-galleys plugin. The default output of this is based on NLM's XML schema for publishing journal articles. This approach gives more potential flexibility when it comes to offering different formats for the finished um... article.
+OJS seems reasonably agnostic concerning the formats it will allow for submissions, and this makes life easier for authors. However, editors and journal managers may wish to be more rigid in the format in which they wish to present the articles once published (eg. must be PDF!). So what options are there for converting submitted manuscripts from one format to another?
+This discussion on the PKP BB gives an insight in to some of the possibilities.
+OpenOffice is generally the go-to tool for an open-source solution to document format conversion. It can be run "headless" (ie. without the GUI) and used either to batch process conversions or possibly as part of a plugin for OJS.
+The good news for OJS administrators is that lemon8-XML a web-based application that operates separately from the OxS suite was released by PKP in 2009. This uses a headless instantiation of OpenOffice to convert Word or OpenOffice files into NXML.
+So we could imagine a workflow like this:
+Oo & Doc -> lemon8-XML -> NXML -> XSLT -> PDF & HTML
+It is worth noting that there is a significant amount more jiggery-pokery required when going from XML to PDF than to HTML. As far as I am aware there would need to be an intermediary step involving something like FOP.  I'm sure someone has implemented something like this by now... anyone?
+Posted by
+Rory McNicholl
+at
+07:28
+0
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Monday, 5 December 2011
+On how to run an independent OA journal
+I'm very pleased to be able to say that a report on our launch workshop back in October is now available in SAS-Space, along with Steve Whittle and Julian Harris's presentation introducing Amicus Curiae online.
+It was a particular pleasure to facilitate one, and then listen to recordings of three other small group discussions on the various issues that face editors of independent OA journals; and these are summarised in the report.
+I was particularly interested by the discussion on the use of social media as marketing. We're quite used to Facebook pages and Twitter feeds dedicated to particular publications; and that needs to be part of the work a journal does. However, there was a clear sense that this would not be enough on its own, and that the whole editorial team of a journal, including members of an advisory board (traditionally more detached) would need to bring together the collective weight of all their personal blogging, tweeting
+and posting to publicise a journal. Looked at this way, a small team of specialists in a field ought to be able to reach their target audience of peers at least as well as a large commercial publisher, especially if they are able to engage with interested specialist librarians.
+Another interesting theme that emerged was that the relationship between author and journal would need to change, if that journal were one managed by volunteers without the help of a publisher. Firstly, it would be likely that journals would need to be more robust in requiring authors to conform to house style, and otherwise take back some of the work of copy preparation.
+Secondly, authors would need to be less reticent about self-promotion. One delegate observed that authors are often reluctant to let their own libraries know about new work, assuming that this was something that librarians and publishers sorted out amongst themselves. Authors would need to be prepared to engage with social media in order to spread the word.
+Posted by
+Peter Webster
+at
+01:48
+0
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Thursday, 24 November 2011
+New issue of Amicus Curiae in SAS Open Journals
+I'm delighted to be able to say that issue 86 of Amicus Curiae is now available. This is the first issue that was 'born' within the SAS Open Journals system, and safely deposited from there into the SAS-Space repository.
+It includes articles from Vernon Bogdanor on the coalition government's constitutional reforms; and on the European Convention on Human Rights, the history of copyright law, fictional courtroom film as a teaching resource, and on recent change to insurance law.
+Posted by
+Peter Webster
+at
+01:53
+0
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Wednesday, 2 November 2011
+Integrating OJS and SNEEP
+A little while ago I blogged about the implementation of SNEEP (Social Networking Extensions for Eprints) in the SAS-Space repository.With thanks to Rory McNicholl, here is a report on the next step. Rory writes:
+"The next step was to integrate SNEEP content from SAS-Space into the OJS
+interface. Thankfully SNEEP has a RESTful API (more than by happy accident than
+by design), so making requests of it was reasonably straightforward. A proxy
+script (sneep_proxy.php) that utilised cURL was added to the OJS docroot to deal
+with any inter-domain AJAX requests. Using the SWORD-deposit condition
+within the OJS article template the necessary javascript and html was inserted. This
+allowed OJS to display tags and comments associated with the repository
+item. See it in action here.
+There is a caveat: this rather simple integration with SNEEP only uses
+the publicly accessible content and functions. The private notes that users can add in SAS-Space are not displayed. Neither is it yet possible for users to add tags and comments in OJS directly.
+Further integration of SNEEP and OJS would
+require more work on the sharing of authentication. Single sign-on
+for SNEEPish authentication was one of the matters explored in the JJISC-funded PICT project. However in this
+case we wanted the user-generated content to be the same between the OJS and
+Repository pages; a different relationship to the one set up by PICT. In
+this particular case, the fact that both SAS-Space and SAS Open Journals use the University of London LDAP
+authentication server may mean that there is scope for overcoming SNEEP
+user-identification-from-a-far, with further work, with different funding.
+Posted by
+Peter Webster
+at
+01:56
+0
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+AJAX,
+EPrints,
+OJS,
+PICT,
+SNEEP,
+social media,
+SWORD
+Tuesday, 1 November 2011
+Making OJS and EPrints play nicely
+Our main tasks at ULCC during the SAS Open Journals project were
+- to set-up the instance of PKP's OJS software
+- to enable SWORD deposits to the SAS-Space repository
+- to configure OJS such that digital objects were referenced from
+the repository where possible.
+The first two steps were straightforward enough. We installed OJS-2.3.4
+which has a generic SWORD plugin. However in order to retain as much
+metadata richness as possible during the SWORD transfer we opted to
+use EPXML to describe the object rather than METS. Although the generic SWORD
+plugin only deposited using METS, we were comfortable in forgoing
+using the METS standard since there was only
+to be a single deposit point (SAS-Space) and deposits would be
+managed solely by OJS administrators.
+The changes made to OJS mentioned below and in "Integrating OJS and SNEEP"  can be obtained at the project site:
+http://code.google.com/p/sasojs/
+in the form of a patch and some additions to OJS-2.3.4
+---
+A form field (formatNS) was added to the deposit point template plugins/generic/sword/depositPointForm.tpl. This allowed
+the administrator to specify the schema used to describe the item
+metadata. Values for this can be "http://eprints.org/ep2/data/2.0/"
+or the default "http://www.loc.gov/METS/".  Changes were made to
+plugins/generic/sword/SwordImportExportPlugin.inc.php to handle this
+new form field and  to classes/sword/OJSSwordDeposit.inc.php to make a
+decision on the sort of XML file to be included in the SWORD deposit
+package based on the new parameter. The file
+lib/pkp/lib/swordapp/packager_epxml_swap.php was added and this
+handled the construction on the EPXML file.
+Another issue we faced using the generic SWORD plug-in was that it
+did not appear to store information on deposit items within the OJS system.
+This was essential in order to allow
+objects to be referenced by OJS from the repository. To achieve this
+we cannibalised an old version of the SWORD OJS plugin and added
+classes/sword/SwordDepositDAO.inc.php which allowed us to keep a
+record of deposited items within OJS.
+With this record in the OJS system we could add a getSwordDeposit
+function to classes/article/ArticleGalley.inc.php which would check
+to see if a SWORD deposit was available and that the address
+recorded for the file resolved, before redirecting requests to the
+repository.
+And then, finally, some changes to the article template, and the first three
+tasks were complete.
+There is however a caveat: the embedded plugin PDF viewer, invisibly redirecting to a
+third party (ie SAS-Space) seemed to fall foul of some browser's
+security regimes. If the security was based on the domain, then we
+were on safe ground as the redirect was from the journal domain (journals.sas.ac.uk) to the repository
+(sas-space.sas.ac.uk). However Internet Explorer (at least, as installed on SAS
+desktop machines) did not seem to like the redirect within the
+embedded viewer. For this we implemented a fall back to the local
+OJS copy.
+Posted by
+Rory McNicholl
+at
+14:29
+0
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+EPrints,
+EPXML,
+Internet Explorer,
+OJS,
+SWORD
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+The new SAS Open Journals blog
+Loading...
+Blog Archive
+▼
+2012
+(2)
+▼
+August
+(1)
+This blog has moved
+►
+March
+(1)
+►
+2011
+(15)
+►
+December
+(2)
+►
+November
+(3)
+►
+October
+(3)
+►
+September
+(1)
+►
+August
+(2)
+►
+July
+(2)
+►
+June
+(1)
+►
+May
+(1)
+Useful links
+SAS Open Journals
+JISC
+SAS-Space (blog)
+SAS-Space (repository)
+School of Advanced Study
+Simple template. Powered by Blogger.

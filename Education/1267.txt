@@ -1,0 +1,93 @@
+SICT Project - Strategic ICT Toolkit
+Strategic ICT
+Graduate School | The University of Nottingham
+Strategic ICT Toolkit Project
+CC BY-NC-ND 2.0 JISC infoNet
+The Strategic ICT Toolkit Project (SICT) is a self-analysis toolkit to help higher education institutions (HEIs) to analyse, assess and develop their strategic use of information technologies.
+Developed by The University of Nottingham, this toolkit supports senior management in HE in developing towards more strategically directed ICT deployment. This project drew on the experience, insights and existing practices of a representative sample of HEIs to develop a toolkit to stimulate their understanding and support institutional development. This project was commissioned by The Joint Information Systems Committee (JISC) and the Leadership Foundation for Higher Education (LFHE).
+View online toolkit »
+Download PDF »
+Home
+Aims and objectives
+Deliverables
+Contact us
+Tookit
+Collapse all | Expand all
+1 Introduction
+1.1 The importance of institutionally integrated and aligned ICT strategy and activities
+1.2 Using the Strategic ICT Toolkit
+2 Knowledge Base
+2.1 The process of ICT strategy formulation in HEIs
+2.2 The challenges that strategic ICT needs to address
+2.3 The Enablers
+2.4 Strategic Leadership
+2.4.2 How is the structure of a HEI reflected in the ICT strategy?
+2.4.3 What is the horizon for strategic planning and review?
+2.4.4 Should ICT strategy be integrated within business strategies?
+2.4.5 Should ICT strategy be integrated or disjoint with the corporate strategy?
+2.4.6 Should ICT services be centralised or devolved?
+2.4.7 How can a Chief Information Officer (CIO) help?
+2.4.8 How should compliance to strategic ICT be achieved?
+2.4.9 How can the Senior Management Team (SMT) improve its contribution to developing strategic ICT?
+2.5 ICT Services
+2.5.2 The role of a Chief Information Officers (CIO) or equivalent Senior ICT manager
+2.5.3 How can ICT Services help?
+2.6 ICT Governance
+2.6.2 What is ICT Governance?
+2.6.3 How can ICT Governance help?
+2.6.4 How is ICT Governance used in HE?
+2.7 Communication & Engagement
+2.7.2 How can communications and engagement help?
+2.8 Shared Services
+2.8.2 How can Shared Services (SSs) help?
+2.8.3 How are shared services used in HE?
+2.8.4 Next Steps
+2.9 Enterprise Architecture
+2.9.2 How can Enterprise Architecture (EA) help?
+2.9.3 How is Enterprise Architecture used in HE?
+2.9.4 Next Steps
+3 Case Studies
+3.1 Institution A - Strategic Maturity
+3.2 Institution B - Operational Maturity
+3.3 Institution C - Operational Maturity
+3.4 Institution D - Operational Maturity
+4 Self-Analysis and the Tools
+4.1 Strategic ICT (S-ICT) Toolkit Deployment
+5 Institutional Strategic ICT
+5.2 Plan & initiate your project
+5.3 Assess your current level of maturity
+5.3.2 Self-assessment for Strategic Leadership
+5.3.3 Self-assessment for ICT Services
+5.3.4 Self-assessment for ICT Governance
+5.3.5 Self-assessment for Communications and Engagement
+5.3.6 Self-assessment for Shared Services
+5.3.7 Self-assessment for Enterprise Architecture
+5.4 Maturity Opportunities
+5.4.1 Reviewing Strategic Leadership
+5.4.2 Reviewing ICT Services
+5.4.3 Reviewing ICT Governance
+5.4.4 Reviewing Communications and Engagement
+5.4.5 Reviewing Shared Services
+5.4.6 Reviewing Enterprise Architecture
+5.5 Review the alternative improvements and develop a business change definition
+6 Individual ICT Strategy Savvy
+6.2 How we analyse ICT strategy savvy
+6.3 Assess your Individual ICT Strategy Savvy
+6.3.1 Senior Strategic Leaders
+6.3.2 Heads of Department
+6.3.1 Chief Information Officers (CIO), Directors of IT/IS or equivalent senior roles
+6.3.4 Senior Professional IT/IS Staff
+6.4 Improving ICT Strategy Savvy
+6.4.1 Roles and the opportunities
+6.4.2 Awareness
+6.4.3 Commitment
+6.4.4 Effectiveness of relevant personal qualities
+6.4.5 Communications and engagement
+6.4.6 User Empowerment
+6.4.7 Impact and Improvement
+6.5 Summarising your findings and the way forward
+7 Glossary
+7.2 Glossary Terms
+8 References
+Acknowledgements
+© Copyright 2012 The University of Nottingham. Licensed under Creative Commons (BY-NC-ND 3.0).

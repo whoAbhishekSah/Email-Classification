@@ -1,0 +1,108 @@
+JISC W2C Project Blog | Extending MMU's VLE with Widgets, Web- and Cloud-services
+JISC W2C Project Blog
+Extending MMU's VLE with Widgets, Web- and Cloud-services
+Skip to content
+HomeAbout W2C
+← Older posts
+Welcome to W2C: extending the VLE through Widgets, Web- and Cloud-services
+Posted on July 2, 2010 by admin
+MMU has recently (and publicly) reviewed its learning technologies and will be making significant investment in a new integrated VLE and Repository. The W2C project plans to enhance and extend this investment by opening up new development paths and will share with the sector the experience of pursuing them on an institutional scale.
+The W2C project will demonstrate in particular the potential of Widgets, institutional Web-services and Cloud-sourced services for delivering an institutional vision of convenient, integrated and extensible learning systems. Continue reading →
+Posted in News
+|
+2 Comments
+Sharing at the JISC DVLE brownbag session
+Posted on January 11, 2012 by mark
+As projects in the JISC’s Distributed VLE programme draw to a close, JISC-CETIS has been facilitating events to share lessons learned with the wider community. On Friday, January 13 (yes really!), we’ll be joining colleagues from the SLEP project in … Continue reading →
+Posted in Uncategorized
+|
+Leave a comment
+Evaluation and reflection
+Posted on December 14, 2011 by mark
+The W2C project set out in July 2010 to demonstrate the potential of Widgets, Web-services and Cloud-sourced services for delivering an institutional vision of convenient, integrated and extensible learning systems. We hoped this work would: enhance the capability of our … Continue reading →
+Posted in Uncategorized
+|
+1 Comment
+Sharing at the UCISA Future is Mobile event
+Posted on December 6, 2011 by mark
+To support the communications strategy for our W2C project we agreed to present with our Moodle partner, ULCC, at UCISA’s Future is Mobile event. After my 6am start, you’ll see from the tweets I’ve repeated below that the day didn’t … Continue reading →
+Posted in Uncategorized
+|
+Leave a comment
+Mobile device ownership
+Posted on December 1, 2011 by mark
+Between October and December 2010, W2C ran an online survey via the MMU student portal asking students to help the university shape its mobile development priorities by answering questions about devices owned, usage of those devices and priorities for mobile … Continue reading →
+Posted in Uncategorized
+|
+Leave a comment
+Web class lists
+Posted on October 13, 2011 by mark
+Soon after the launch of the web timetables we were asked by the timetabling project team to investigate the possibility of a self-service feature for staff to produce class lists on demand, as central production and distribution of these was … Continue reading →
+Posted in Uncategorized
+|
+Leave a comment
+Web timetables
+Posted on October 11, 2011 by mark
+As regular readers will be aware, MMU’s move to Moodle is part of a larger initiative designed to make a step change improvement in the student experience. The initiative, known as EQAL – Enhancing the Quality of Assessment for Learning, … Continue reading →
+Posted in Uncategorized
+|
+Leave a comment
+Our Moodle mega mashup: part 2
+Posted on October 9, 2011 by mark
+In a previous post we described the background and rationale for creating a mega mashup web service that would aggregate relevant information at unit or programme level for the authenticated user and present it in a custom Moodle block. For … Continue reading →
+Posted in Uncategorized
+|
+2 Comments
+Our new Moodle theme
+Posted on July 27, 2011 by mark
+We entered our hosting agreement for Moodle in late summer 2010 and initially asked our hosting partner, ULCC, for a neutral 1.9 theme as our intention was to give the Moodle user interface a more substantial re-working in the run-up … Continue reading →
+Posted in Uncategorized
+|
+Leave a comment
+Our Moodle mega mashup: part 1
+Posted on June 21, 2011 by mark
+In our learning technologies review we developed a vision of a core VLE integrated with our corporate systems, ideally available to students to use with the devices and services of their choosing, and extended through tools that the institution arranges, … Continue reading →
+Posted in News, project, Uncategorized
+|
+1 Comment
+Working with partners: Talis Aspire and Equella
+Posted on June 15, 2011 by mark
+A distinguishing feature of our distributed VLE is integration of a range of complementary learning technologies: Moodle, Equella, Talis Aspire, campusM, etc, based on: web services; and consistent naming of data within different systems. In consultation with library colleagues we … Continue reading →
+Posted in News, project
+|
+3 Comments
+← Older posts
+Search for:
+Mobile Survey Highlights
+Recent Posts
+Sharing at the JISC DVLE brownbag session
+Evaluation and reflection
+Sharing at the UCISA Future is Mobile event
+Mobile device ownership
+Web class lists
+Recent CommentsSheila MacNeill on Evaluation and reflectionUniversity-wide coursework submission system | JISC Transforming Assessment and Feedback For Institutional Change on Our Moodle mega mashup: part 2Sheila MacNeill on Our Moodle mega mashup: part 2Campus Edition new features, April-June 2011 | www.talisaspire.com on Working with partners: Talis Aspire and EquellaJISC RSC Northwest Events 2011 - Nillan Fakira on Responses from 100 device-led student interviewsCategories
+News
+project
+Uncategorized
+Archives
+January 2012
+December 2011
+October 2011
+July 2011
+June 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+JISC W2C Project Blog
+Proudly powered by WordPress.

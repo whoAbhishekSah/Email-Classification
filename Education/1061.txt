@@ -1,0 +1,46 @@
+PSYCHE Project Website | Developing E-Learning Resources for Psychological Research Methods
+PSYCHE Project Website
+psyche
+Blog Posts
+Publications
+psyche
+Reproduce: PSYCHE Project (funded by JISC)
+PSYCHE is a project of
+Heythrop College, University of London, which aimed to produce two 15-credit technology-enhanced modules in Research Methods and Statistics in Psychology, using a minimum 50% reused and repurposed content from sources external to the institution. The project was funded by JISC and ran from March 2008 to March 2009.
+Project Final Report
+PSYCHE Project Final Report (PDF format)
+Also, see the ALT-C 2009 Poster
+Learning Materials
+The learning materials which can be offered openly can be downloaded using the links below.
+The materials were put together using the free ExELearning tool, which may be downloaded here for a range of platforms.  Very little technical knowledge is required to use this tool, thus these resources may be easily edited without technical support.
+The resources are available as an ExE package.  Simply download ExE, and this file (~150Mb), load the file, and edit.
+ExE can export other formats (e.g. SCORM).  To make use of these, follow the instructions above, and use the ‘Export’ option in the ‘File’ menu.
+The resources are available as a web site, zipped into a single file
+(~150Mb).  Unzip this file, and point your browser at the file
+‘index.html’ within the folder.
+Reading Styles and Interaction with Online Materials
+A report of a study exploring the psychology of reading among low prior knowledge learners will be published here.
+ALT-C 2009 Talk Slides
+This page will be maintained until February 2012.
+Heythrop College, University of London
+Heythrop College, University of London
+JISC
+Casper
+JORUM
+Other Project Blogs
+Project Page at JISC
+Reproduce Programme
+Psychology
+HEA Psychology Resources
+Useful Tools
+GanttProject Project Management
+London Pedagogic Planner
+RELOAD
+Admin
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.com
+Blog at WordPress.com.
+Post to
+Cancel

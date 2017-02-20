@@ -1,0 +1,158 @@
+Leeds Met STAR-Trak Project | JISC Activity Data STAR-Trak Project
+Leeds Met STAR-Trak Project
+JISC Activity Data STAR-Trak Project
+Skip to content
+HomeAbout
+← Older posts
+STAR-Trak becomes a SOAP Opera !
+Posted on August 9, 2011 by robmoores
+The JISC Activity Data project may be completed, but STAR-Trak lives on! We have also been involved in another JISC programme – Flexible Service Delivery (FSD) and have just completed our SOAP Opera 2 project. SOAP Opera 2 has enabled us, amongst other things, to develop our understanding of what enterprise architecture can mean for Leeds Metropolitan and we plan to bring STAR-Trak into a wider “innovation programme” that will enable us to develop our skills in a number of related areas including:
+– Data warehouse/ business intelligence
+– Extract, transform and load (ETL) tools
+– Enterprise Service Bus (ESB)
+BizTalk will be used as our ESB and this will form a mediation layer between the source data systems (student record system, VLE, timetabling etc) and the STAR-Trak application tables and the data warehouse. As an intermediate step the staging tables, which currently provide temporary storage for incoming data feeds, will remain, but eventually these will be subsumed within BizTalk. Of course we don’t really need BizTalk to manage the data extracts, but this is an ideal project to have a close look at how it might become a key component of our enterprise architecture in the long term. (By the way, if you have a Microsoft Campus Agreement you can purchase BizTalk at an incredibly low price !)
+Talend will be used to manage the transform and load stages. We like the look of this suite of programs and have hopes that it may form part our our master data management (MDM) architecture in the future.
+Our business intelligence layer will be provided by the BIRT tools. Currently we don’t have a corporate data warehouse or BI solution, although we use Business Objects for corporate reporting and have purchased their Excelsius product. There is no point in heavy investment until the business is able to fully articulate its requirements: BIRT gives IT and the business the opportunity to learn together at minimal cost, before making a long-term investment decision.
+Getting this loosely-coupled end-to-end architecture up and running will provide a wonderful learning environment for the business and IT (I hope to post up an amended architecture diagram soon). From an architectural perspective it will help us develop our understanding of how to attain that elusive goal of “business agility” where IT can at last claim the right to be an enabler of change. Getting back to the core objective of STAR-Trak, it will also provide us with valuable tools for student, staff and corporate planners to aid retention and encourage engagement in all aspects of student life.
+Click here to view a high-level diagram of the architecture.
+Posted in Uncategorized
+|
+Tagged #jiscad, #JISCFSD
+|
+Leave a comment
+Final post
+Posted on July 27, 2011 by robmoores
+Description of the project deliverables and links to each item.
+This section contains a summary of everything we have produced during the project that may be of interest to others.
+Overview of STAR-Trak:NG: this is a short pdf’d PowerPoint highlighting our hypothesis, potential activity streams and potential user groups for the application. It can be accessed by clicking here: STAR-Trak NG Overview (opens in new window)
+Good Practice Guide: this was originally planned to cover how STAR-Trak:NG can be embedded within the home institution, including: lessons learned, portfolio of stakeholder use cases relating to student support business processes; online presentation. Due to the greater emphasis during the project on software development this deliverable is currently limited to a) the section later in this post on how to manage change, and b) a draft proposal for operationalisation within Leeds Metropolitan which can be accessed by clicking here: STAR-Trak NG Draft Operationalisation Proposal (opens in new window). This deliverable will be taken forwards with the internal project.
+STAR-Trak:NG application: since commencement of the project further discussions have taken place with regards to the most appropriate way to ensure the sustainability of the STAR-Trak application. Pending final decisions on this the codebase and ETL routines have not yet been released. However a diagram of the STAR-Trak high-level architecture can be accessed by clicking here: STAR-Trak NG Architecture (opens in new window)
+Installation and configuration manual: This will be uploaded once the software development has been completed and installation and configuration fully tested.
+Student activity dataset: the project plan envisaged that we would be able to create an activity dataset, based on the premise that the project would be in pilot during the life of the project. However due to the greater emphasis during the project on software development the pilot has not commenced and hence it is not possible to produce a dataset. However we have produced a data warehouse schema and this can be accessed by clicking here: STAR-Trak NG Data Warehouse Schema (opens in new window)
+Workplan: The project workplan can be accessed here:STAR-Trak NG Workplan (opens in new window)”.
+Risk Register: A risk register based on the CRAMM methodology can be accessed here: STAR-Trak NG Risk Register (opens in new window).
+Next Steps: STAR-Trak has generated tremendous interest from academics and corporate planners within Leeds Metropolitan, and from JISC and HEFCE. Within the constraints of budgets every effort has been made to make it usable, through configuration parameters and by abstracting the application layer from the sorurce data systems, by other institutions. We recommend the following as next steps:
+A. Investigate the potential benefits and viability of a developing a national activity data schema and datasets
+B. Support the development of a sector-wide community of institutions who have this type of application: to share ideas and best practice on technology and use
+C. Support analysis into the potential for sector-wide use of STAR-Trak, and evaluate options for sustainability of the solution
+D. Fund the next stage of development of STAR-Trak to make it more simple for other sector organisations to implement. This would include i) technical development of the interfaces, development of the administration functionality to improve the user interface, and
+What other institutions can do to benefit from our work: The approach below is based on Kotter’s 8-step change model (http://www.mindtools.com/pages/article/newPPM_82.htm):
+1. Review own retention strategy (whether explicit or implicit) and create a sense of urgency around the need to provide solutions that will assist in its success
+2. Get the great and the good on board – particularly those who are leaders in the business and in IT
+3. Develop a vision of an enhanced relationship between staff and students based on STAR-Trak or similar; and create a high-level plan that encompasses cultural as well as systems and process change
+4. Spend time talking about the vision and refining it based on the feedback that you receive. We found informal workshops to be good for this stage, in addition to water-cooler conversations
+5. Identify the organisational barriers to change (technological barriers are trivial in comparison) and remove or neutralise them
+6. Implement the solution in phases: simply letting students see the student record data we hold about them may be a substantial improvement and count as a short-term win, as may using the data warehouse and improving understanding of BI
+7. Pilot long and deep, and learn from the feedback. Our current view is that at least a full year is required to really learn about what works and what doesn’t
+8. Make use of the underlying data warehouse to produce business intelligence for senior management; periodically re-vitalise the service by engaging with internal users and the wider community
+Most significant lessons: This project has provided a wonderful opportunity to engage with colleagues across Leeds Metropolitan and produce a truly innovative solution for our University, that we hope to implement.
+A. Ensure you are student-facing. The initial driver for STAR-Trak was corporate: retaining students. From an individual student’s perspective that looks a little different: a student doesn’t want to be judged in terms of the risk of them dropping out, may be alarmed by a red “traffic light” against their name, and may be sensitive about who can see what data about them.
+B. Understand what data is critical to understanding retention. For us it is a subset of the student record data (such as demographics, entry qualifications, whether they came through clearing) and attendance data. We suspect that this data will give us around 90% of the information that we need. The other activity data is almost the icing on the cake – but clearly we need to evaluate this over time.
+C. Develop a canonical data model for the domains you are interested in. It surprised us that even within the same department colleagues had different interpretations of data ! We have not formally developed such a model, but have laid the foundations for its development (which is the subject of a different programme) through workshops.
+Addressing the big issues: STAR-Trak has faced differnt issues from those faced by most other projects in the programme. For us the issues have been:
+A. Use of data: we have already discussed this in a previous post (opens in new window)
+B. Algorithms: STAR-Trak contains a number of configurable parameters that feed into a system-generated “score” of a student’s risk of dropping out – or level of engagement depending on whose perspective you are taking. The detail of this will be provided in the installation and configuration manual as mentioned earlier in this post.
+Posted in Uncategorized
+|
+Tagged #jiscad
+|
+Leave a comment
+Wins and fails (lessons along the way)
+Posted on July 24, 2011 by robmoores
+There have been many lessons learned during the project – and we would like to share these openly in the hope that others can shortcut our learning.
+We did not appreciate the gap in functionality that existed between what we had developed in the original STAR-Trak project and what would be required in order to satisfy staff and student users of the system. We had received enthusiastic feedback on the original application, and from this we concluded that only minor modifications would be required in order to provide a functional application that could be piloted. However once we started to run some workshops to explore that gap we realised that:
+– our domain knowledge was insufficient,
+– the metaphor we were using to identify students at risk was not best-suited to the task,
+– the focus of the application was wrong
+– we needed to put the student in control of the viewing of their data to maintain appropriate data privacy,
+– we need to work on the ease of use and intuitiveness of the application
+Internal domain knowledge: we assumed that the business (including IT) understood its data. However, while all parties did understand their data, they all had a more or less different understanding! As we are trying to develop an application that will be useful across the sector, we also had to make intelligent guesses about how other HEIs might in practice construct their ontologies. It was outside of the project scope to investigate this formally, however informal contacts were useful in this area.
+Metaphor: one of the key objectives of the project is to “identify students at risk of dropping out”. We unquestioningly developed this notion into a traffic light metaphor, whereby the system calculated a red, amber or green result for each student based on their activity levels. While we were not unduly concerned about inbuilt cultural bias in this (traffic lights are common around the world and it is a common enough metaphor), we came to understand that it might be alarming and de-motivating for students, and, more importantly that it’s used crossed the divide between data analysis and judgement-making: whether the result indicates a higher risk or not is not for a computer, but for the student and their tutors, to decide on. We have changed the metaphor to “high, medium and low” engagement and identified the necessity for a flexible, data-driven metaphor as a future enhancement.
+Focus of the application: Our early understanding of STAR-Trak was that it was primarily a tool for staff to identify students at risk of dropping out. As our ideas matured we came to realise that STAR-Trak was better seen as a place that facilitated a discussion between student and staff on a wide range of issues that impacted on their progress (still with a primary aim of improving retention). This idea developed still further to put the student at the heart of the application, aligned with and supporting our pedagogical aims of assisting students to become independent and reflective learners.
+Putting student in control: We came to realise that, for the application to be successful, students had to be comfortable with the idea of sharing their data with staff. The easiest way to achieve this was to give them the ability to hide data from all or particular staff (or from the opposite perspective, to grant viewing rights to all or certain staff). In addition, students can choose to participate in STAR-Trak or choose not to. We hope that these decisions will help them reflect on what it is they are seeking to achieve and how they can do that through their various learning activities.
+Ease of use and intuitiveness: students and staff already face a multitude of systems to learn and use in addition to the daily tasks of learning and supporting. If STAR-Trak is to have any chance of being successful it has to be intuitive to use and ideally have added value such as reducing access to other systems and synthesising information. Running through scenarios in workshops it became clear that we had more work to do than we had originally anticipated in this area. Almost certainly the pilot that we hope to run over this coming academic year (2011/12) will identify further work in this area.
+STAR-Trak is an innovative application for Leeds Metropolitan. It is therefore not surprising that our understanding of how it can be best used will be emergent over the life of this project and during its early years of use, rather than fully understood up front. That the project has given us the time to undertake these reflections is absolutely crucial to the long-term sustainable success of STAR-Trak – it would have been pointless implementing an application that nobody used. The “culture” of the JISC call has been to take risks and experiment. By doing so we have learned a number of valuable lessons that will greatly increase the chances of success for STAR-Trak.
+Posted in Uncategorized
+|
+Leave a comment
+Licensing and reuse of software and data
+Posted on July 24, 2011 by robmoores
+Software: The STAR-Trak application has been developed in PHP (using the CodeIgniter framework) with an Oracle database at the back end. We took some advice early on from OSS Watch as we wanted to keep open the potential for releasing STAR-Trak code as open-source, and our understanding is that nothing we have done by way of development or contractually with our external developers stops us from achieving this goal. However we do carefully need to consider if that is the best way forward for the application the sector and our University – and we will be seeking further advice in due course.
+Data: In an earlier incarnation of our proposal to JISC we postulated creation of an activity data set that might form the basis for a future national schema and dataset. The ultimately very good advice (thank you!) we received was that that was too ambitious a goal for this project, and so our data is for internal use only, removing the need to consider anonymisation.
+We have not managed to run a “live” pilot during the term of the project, and so there is no live data in the application.
+Moving forwards our basic position is that we are simply consuming data that already exists in our IT ecosystem – nothing new is created. That is not quite true as we have added functionality to capture interactions between student and tutor, extra-curricular activities and use of the system creates new data. However there is nothing innovative in this data that requires us to treat it differently from similar data elsewhere.
+Of course what has changed is that data that was previously hidden or only available with difficulty and/or to certain people is now available to a wider set of people, and we have had to consider the privacy implications of that. To recap on the basic STAR-Trak functionality, it allows the student to see their own information from the student record system and activity data from the systems that they use to support their learning activities. It also allows tutors, module and course leaders to view this information on a course, module or student basis.
+We made the decision that trying to map relationships between staff and students as a basis for deciding who can see what, while great in theory, was not going to be sustainable in practice. These relationships may or may not be defined in external systems and they can be quite fluid. The combination of these two factors makes maintaining the relationships potentially a heavy administrative burden that would not be sustained, resulting in the system becoming unusable over time.
+As an alternative we have implemented what we call “social controls”. In simple terms this has two elements to its operation:
+1) it allows a student to block all or any member of staff from seeing anything bar their very basic data (their name and what course they are on)
+2) any member of staff [authorised to use the system] can explicitly define in the application a relationship with a student (personal tutor, module tutor etc) and by doing so they can then view the student’s details (subject to 1 above). However a record is created in the application noting the relationship and this can be audited.
+This is further strengthened by participation in STAR-Trak being fully voluntary on the students part.
+We view this control system as an innovative experiment to be validated under strict trial conditions. We have already identified several enhancements that may improve the level of confidence in such a system. As per previous post we are still working hard to get formal commitment to running a year-long pilot of STAR-Trak and this continues to move in the right direction, albeit slowly (from the project’s perspective!). It is only in practice that we will see how successful we have been in developing a usable and useful application that meets data compliance requirements. As Chuck Reid famously said “In theory, there is no difference between theory and practice. In practice, there is”.
+Posted in Uncategorized
+|
+Leave a comment
+Technical Architecture of STAR-Trak
+Posted on June 16, 2011 by robmoores
+One of our aims in developing STAR-Trak is to make it as easy as possible for other educational institutions to implement it. As a result the technology solution comprises:
+Development:
+•PHP – A server side scripting language, which is fast, reliable, simple to use, open source and has a huge community supporting it.
+•CodeIgniter framework – very lightweight compared with others.
+•MVC – (Model, View, Controller) architecture
+Access Security:
+•Users can be authenticated against a corporate directory.
+Technology Stack:
+•Apache Server version. 2.2.11 or higher
+•PHP version 5.2.9 or higher (Reporting layer)
+•Oracle database 10g/11g
+•Data Warehouse – Data Integration layer (Facts and Dimensions)
+Click here to view or download a diagram of the STAR-Trak architecture.
+Posted in Uncategorized
+|
+Leave a comment
+Useful and usable – now to get it used !
+Posted on June 4, 2011 by robmoores
+There’s a saying that for an application to add value it has to be useful, usable and used.
+Our requirements gathering involved teaching staff from the Faculties and Personal Tutor network, administratve staff from registry services and student support services, and the Student’s Union. If we’ve done our job properly then the application should be useful.
+We have spent a lot of time designing the application to be as simple and friendly to use as possible. For example the user can select the screen they see on login to save a click. Maintenance of relationships between staff, course/modules and students could be a nightmare, so we have built in what we are calling “social controls” rather than hard controls. This means for example that I can identify myself as a module tutor, rather than this having to be maintained by an administrator. The social control aspect is enforced by everyone being able to see that I have claimed this role, and allowing students to block any member of staff from having access to their details. It will be interesting to see how this control model pans out in the trial.
+We are now working on the third aspect: getting the application used. Since we submitted our initial bid we have had a regime change which resulted in us losing our main senior sponsors. We have worked behind the scenes to maintain the ground-level swell of support for STAR-Trak and have recently started to push STAR-Trak back onto the corporate agenda. As a result we have been asked to submit a paper to the Vice Chancellors Group containing a proposal for an extended trial of STAR-Trak across a full academic year. As other commentators have pointed out, tracking activity data is not usually considered a corporate priority, particularly when HEIs are struggling to cope with very diffeent market conditions. However we have demonstrated strong links with our strategic plan, compliance requirements such as the UK Border Agency and internal policies such as our proposed Student Attendance policy.
+So we have useful and usable – let’s see if we can get used …
+Posted in Uncategorized
+|
+1 Comment
+Requirements management
+Posted on June 4, 2011 by robmoores
+Time at last to catch up with blogging about STAR-Trak ! First of all, the project is in a healthy state and on track. It’s been a quiet time in some respects as the development team works its way through the requirements. We applied MoSCoW principles to the requirements to get a first cut of what we could achieve with the time and budget available and then divided them into four timeboxes. Time boxes 1 and 2 have been delivered (with one or two exceptions), 3 is almost complete and 4 has completed the technical design. TB1 has been tested and the results fed back for correction. The main exception to date is the development of a chart interface to show activity data. Our initial proof of concept project listed and aggregated this data in a very static and unattractive way. The development team proposed a Flash-based solution for this project but this was rejected due to compatibility issues. There are plenty of AJAX-based solutions that we can base our chart on and the team are investigating the best way to implement this.
+As we have fleshed out the intricacies of the requirements there has been some swapping of requirements between timeboxes, re-prioritisation, and de-scoping of some lower priority functions. This was always going to be more of an agile than a classic waterfall development as we are charting new waters, at least for Leeds Metropolitan, and so far we are very confident that we will deliver a very useful and usable application. The next challenge will be to ensure that it is used !
+Posted in Uncategorized
+|
+1 Comment
+← Older posts
+Search for:
+Recent Posts
+STAR-Trak becomes a SOAP Opera !
+Final post
+Wins and fails (lessons along the way)
+Licensing and reuse of software and data
+Technical Architecture of STAR-Trak
+Archives
+August 2011
+July 2011
+June 2011
+April 2011
+March 2011
+Categories
+Uncategorized
+Meta
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.com
+Blogroll
+Rob Moores blog
+SOAP Opera 2
+Leeds Met STAR-Trak Project
+Create a free website or blog at WordPress.com.
+Leeds Met STAR-Trak Project
+Blog at WordPress.com.
+Post to
+Cancel

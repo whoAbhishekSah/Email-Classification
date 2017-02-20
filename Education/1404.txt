@@ -1,0 +1,152 @@
+Vishistory Project Blog | Jisc Rapid Innovation Project Blog
+Vishistory Project Blog
+Jisc Rapid Innovation Project Blog
+Blog
+Demonstrations and project code
+Final Progress Post
+Posted December 1, 2009
+Filed under: Uncategorized | Tags: demonstrator, Designlab, finalProgressPost, JISC, JISCRI, output, product, progressPosts, prototype, rapidinnovation, VISHISTORY, Visual History
+Leave a Comment
+Title of Primary Project Output: VISHISTORY: A web-based editor and presentation tool for students to create an interactive visual portfolio-piece based on their history (or other) project work. A picture says a thousand words and creating a visual display that will hold a large amount of content (a mini-website) is a difficult task for many students.  The object of this project is to provide a means for students (or staff) to  create a presentation based on a single uploaded image with superimposed markers that offer pop-up windows to give more detailed information on certain topics.  The resultant display is downloadable as a .zip file and can be viewed off-line in a browser, or incorporated into a web-page.
+Screenshots of prototype:
+Before clicking marker
+The first screenshot shows a demo before any of the markers are clicked.  The user has uploaded a background image and clicked on it to add markers then dragged the markers into position (try it on the demo editor, step 4).
+If the markers are not wanted they can be dragged off to the left and will be deleted when marker positions are saved.
+In the editor (step 5) markers are clicked on and a pop-up window allows the user to enter text and other HTML (using CKEditor).
+The editor then has a preview mode (step 6) so that the finished design can be seen.  In this view the markers when clicked display the contents of the pop-up windows.
+Pop-up window display
+Clicking on the more>> tab on the pop-up window allows the user to be guided to another more detailed page in a new browser window.  Information for this demo was taken from Wikipedia as a ready source of information.
+Finally after the preview is accepted, a .zip archive containing all of the files needed for the presentation can be downloaded.
+One feature that is being built in to the VISHISTORY project is the ability to play video or audio recordings from the pop-up or further information windows.  This will be useful when recordings of oral history have been made and is one of the most wanted items for future development.
+Screenshot of Friargate project
+The final demo screenshot is of a Google maps application using similar technology but relying on the google api.  Less work has been done on this demo as it is specific to map-based projects and works on similar principles to the MIT simile widgets project (although a fair degree of technical competence is required to create displays using Exhibit – the simile display tool.  Click and add google maps can also be made using Click2map which is an excellent tool (but displays advertising on the maps) we came across during this project. It is our aim to extend the VISHISTORY editor to allow a googlemaps background to be used instead of an uploaded image.
+Description of Prototype: The editor software enables a user to upload an “background” image, add markers of their choice (dragged into position) and edit pop-up windows attached to the markers creating an interactive display. The editor will produce a zip archive of all the files needed to create the interactive display which can be downloaded by the user. The interactive display uses JSON and javascript technology and will work offline as well as online providing a long-lived and readily accessible display of the students’ work.
+iPhone App – as part of the project we looked at the development of iPhone Apps with Google Map capabilities.  The JISCRI project allowed us to create 2 Apps – one in collaboration with Preston City Council which is a trail of historic buildings in Preston (Blue Plaques) and includes an audio tour.
+The second called History Trails is an app that loads projects and marker locations from an xml file and links to an html file with photos and detailed text on the trail. The benefit of this App to the JISC community is that any number of projects with their own Google Map location points can be added by editing and creating new .xml files.
+Links to working prototypes:
+Demonstration 1 – Mount Rushmore Presidents,  http://79.170.43.15/visualhistory.org.uk/googlemaps/jqedit/rushmoreDemo.html
+Demonstration 2 – Museum floorplan, http://79.170.43.15/visualhistory.org.uk/googlemaps/jqedit/museumDemo.html
+Demonstration 3 – GoogleMaps example, http://79.170.43.15/visualhistory.org.uk/googlemaps/geomap20/geomap20.htm
+Demonstration 4 – The Editor,  http://79.170.43.15/visualhistory.org.uk/googlemaps/jqedit/ed01.php
+Demonstration 5 – Updated Editor, http://79.170.43.15/visualhistory.org.uk/googlemaps/test/ed00.php This version allows you to register, and create up to 5 new projects as students would be able to in a multi-user system.
+Demonstration 6 – Blue Plaques iPhone App, http://itunes.apple.com/gb/app/blueplaques/id351336702?mt=8
+Demonstration 7 – History Trail iPhone App, http://itunes.apple.com/gb/app/history-trails/id354985482?mt=8
+Link to end user documentation: http://code.google.com/p/vishistory/
+Link to code repository or API: http://code.google.com/p/vishistory/
+Link to technical documentation: http://code.google.com/p/vishistory/
+Date prototype was launched: 30/11/2009
+Project Team Names, Emails and Organisations: Phil Holifield, pholifield@uclan.ac.uk – project manager; Steve Caunce, sacaunce@uclan.ac.uk – Historian; Barbara McManus, bmcmanus@uclan.ac.uk – HCI expert; Mike Cottam, macottam@uclan.ac.uk – Senior Developer; Dongjie Xu, dxu@uclan.ac.uk – Developer.  All from University of Central Lancashire, Preston, UK – www.uclan.ac.uk
+Project Website: http://www.uclan.ac.uk/ahss/visual_history.php all demos can be seen at http://79.170.43.15/visualhistory.org.uk/googlemaps/demos/index.html
+PIMS entry: https://pims.jisc.ac.uk/projects/view/1356
+Table of Content for Project Posts
+User evaluation: Users trialling content managed system , Developing the User Case
+Project evaluation: SWOT analysis
+Technical Standards Googlemaps API and JQuery , First Demo site
+Issues in day-to-day work: Day to Day
+Value Added: First Demo site , Final Post
+Day to Day work
+Posted November 26, 2009
+Filed under: Uncategorized | Tags: implementation, JISC, JISCRI, methodology, productivity, progressPosts, rapidinnovation, VISHISTORY, Visual History, WIN
+Comments (1)
+Tips and Tricks
+This project is about web development using javascript and PHP and its been important to be able to develop quickly and to debug.  I’ve really not found integrated development environments very helpful and spent so long trying to configure eclipse and aptana that I went back to editplus and filezilla when editing and uploading.
+In the development work XAMPP was great to enable everything to be done on one machine, and since it can be put on a memory stick it can be used with the same environment for development on more than one machine.  I had little trouble converting to my hosted site except to request that they turned on JSON support in PHP for the domain.
+Finally in debugging Firebug for Firefox and the tool that comes with IE8 were excellent in solving issues especially a JSON issue where a comma delimiter deep in the file caused IE not to render but Firefox to work!
+Cross browser issues were minimised so this is tested in Firefox, Safari, Chrome, IE8 and IE7, and I give up on IE6 because of the absolute positioning problems.  I believe these can be solved but time does not permit for now.  Use of jquery has been beneficial in x-browser compatibility.
+Methodology
+Methodology diagrams have been developed for the editor stages of the project.  We have not gone into UML but in developing a consistent series of stages with forms and handlers, it has been necessary to have systems of identifying handlers to be invoked, and where data is stored.  These have been mapped out in state diagrams and flow diagrams.
+New Demo site
+Posted November 26, 2009
+Filed under: Uncategorized | Tags: addedValue, JISC, JISCRI, jquery, JSON, progressPosts, rapidinnovation, technicalDevelopment, techStandards, VISHISTORY, Visual History
+Comments (1)
+The new demo site with an example of the type of project information that can be easily built up is available to see at http://79.170.43.15/visualhistory.org.uk/googlemaps/jqmap/click-and-pop.html .  The visual with markers is shown in the first image.
+By clicking on the markers a pop-up screen appears with limited detail (including a thumbnail image) of the point that is being illustrated.  This links to more detail in a separate web page opened in a new window.
+Rushmore project
+Work is continuing to develop an editor to enable background and markers to be uploaded, dragging the markers into place and editing the pop-up windows.  Afew comments on technical standards: jquery has been a great help in this project and particularly the jquery ui with its draggable() function.  Also we decided to go down the route of using JSON to hold the data for the display which means the entire display can be viewed without a server – and even off-line so long as the data file, images and jquery libraries are packaged together.  This makes it a great tool to display student portfolios of work.
+Added value
+The added value of the project to History students in particular is that:
+Students have a visual way of displaying thier research work
+The work can reach many people by being web-based
+It’s great advertising for future students, applicants and others interested in the courses
+It’s a quick and easy way to develop a 1-page website with alot of information condensed into it
+It’s simple to produce and will work stand-alone
+All the data is held in a JSON file and in associated media so it can be shown in an electronic portfolio and doesn’t require a server
+Multimedia assets can be linked which is a huge bonus for oral history projects
+An iPhone application is being developed to perform a similar function.
+Google Maps API and JQuery
+Posted October 23, 2009
+Filed under: Uncategorized | Tags: Designlab, JISC, JISCRI, progressPosts, rapidinnovation, technicalDevelopment, techStandards, VISHISTORY, Visual History
+Comments (1)
+We have been working on a prototype Visual History display using the Google Maps API.  The previous version of the display has now been updated with a clickable side bar. In coding this we are concious of browser differences and in particular the non-standards compliant IE6 and 7. Using JQuery has enabled us to develop code with less worry of how it will work with differnt browsers, and to a certain extent it’s tried and tested code so quicker to develop. For the next stage of the project we are looking at a non- Google Maps version similar to the Flash prototype that we user to obtain user feedback, but implemented using the jquery library.  Currently we are looking at JQuery UI the JQuery user-interface library for drag and drop elements and creating forms for uploading.
+Developing the User Case
+Posted October 21, 2009
+Filed under: Uncategorized | Tags: endUser, JISC, JISCRI, progressPosts, rapidinnovation, userCase, VISHISTORY, Visual History
+Comments (1)
+In developing the project context the project team have involved several previous history students to utilise a pilot system. A number of pilot test sites have been set up so that the students could upload content into a Flash-based display system. Some of the results can be seen at: http://79.170.43.15/visualhistory.org.uk/project1/ and http://79.170.43.15/visualhistory.org.uk/project2/ .  The students report that the Content Management System (CMS) allows them to produce an information-rich display with relative ease, although some have had a learning curve in terms of understanding image sizes and resolution.  The usability expert and students have provided useful feedback on the way that the CMS works and highlighted some issues to do with refreshing the Flash display after editing in the CMS.
+screen-shot of pilot screen
+The development of a suitable and user-friendly editor is continuing as part of the project.  The aim of Visual History Project is to use XML to separate the content of each history display from both the (CMS) editor and the display mechanism.  While work is on-going with the editor and its usability, the developers attention is moving towards different methods of display, particularly using javascript.
+Demonstration site
+Posted September 26, 2009
+Filed under: Uncategorized | Tags: googlemaps, JISCRI, VISHISTORY
+Leave a Comment
+Have a look at our googlemaps demonstrator at http://79.170.43.15/visualhistory.org.uk/googlemaps/geomap20/geomap20.htm the source code is available to browse at googlecode http://code.google.com/p/vishistory/ .  This demonstrator will be tidied up and a FLASH-based version is also under development.  User interface testing is currently going on to enable the upload of information and images, placing of markers etc.
+SWOT analysis – August 09
+Posted September 2, 2009
+Filed under: Uncategorized | Tags: JISC, JISCRI, progressPosts, rapidinnovation, SWOT, VISHISTORY
+Comments (1)
+At this relatively early stage in the project and still in the vacation period the project has got off to a good start with a lot of agreement within the staff team on the form of a desirable end product, so here’s a  SWOT as things look right now..
+Strengths
+The team has good experience in website development and alot of experience working with web programming, Content Management, FLASH, and have developed many commercial and academic websites.
+We have our own hosting facilities and can easily create sites for testing and trials by users
+Have already engaged some History postgraduates as volunteers to use a map-based CMS system applied to some History projects to evaluate both the CMS interface and the approach of the map background to display project items.
+Some other projects provide a good starting point for developments.
+Weaknesses
+Not alot of Web2.0 experience, some with Google Maps
+There are significant differences between CMS systems and the type of systems we are trying to create with this project which will require a fair amount of development
+As the project will finish in November there won’t be time within that for testing by a full cohort of undergraduates (however this will continue after the end of the project).
+Opportunities
+There are a large number of application opportunities for a web-enabled content managed display tool with a hierarchical structure as is envisaged.  It could be used to display project outputs in Universities, colleges and schools and across a number of disciplines
+Hosting a service could be a way to promote it and maintain sustainability
+There may be related applications which could be developed
+Threats
+Getting the system finished on time with a very easy to use interface is a challenge
+Most potential users are not experienced IT users – we are looking for something very easy to use
+Publicising the finished system and making it widely available is a challenge
+Third team meeting – user evaluation
+Posted August 19, 2009
+Filed under: Uncategorized | Tags: endUser, JISC, JISCRI, progressPosts, rapidinnovation, userCase
+Comments (1)
+Steve explained the museums systems of Accession numbering that would be useful to incorporate into the project.
+Mike explained the developments of the Flash-based map system that would enable us to trial this type of visual display system with inexperienced users as the basis for a display mechanism to the XML version.
+All were convinced of the need for a strong structure for the information, and the need to make it available in tiers to enable rapid browsing as well as drilling down into more detailed information and resources.
+Mike proposed a 4 stage process to assist the users to construct and add content to a new project.  Mike also discussed a Virtual Learning Environment (VLE) model to deliver a number of projects with input from a supervisor to the groups involved.
+Steve had identified 2 volunteers who were ready to help with the trialling of the Friargate and Frenchwood project displays.
+It was agreed to commence a training session for these volunteers in the week commencing 27th July.  Steve to contact them and arrange a meeting time.
+Mike  will set up 3 blank sites with log on ids for the volunteers, and be ready to provide training in w/c 27th July. This will provide a basis for evaluating the experiences of users and the user interface at an early stage.
+Barbara. will evaluate the site interface when these have been set up and will conduct interviews with the volunteer users when they have had some experience using the system.
+First team meeting
+Posted August 19, 2009
+Filed under: Uncategorized |
+Leave a Comment
+A discussion of the project remit took place.  The metaphor of a museum display board was considered and Steve outlined a number of Community History projects that have taken place and the materials generated from the projects. These included “A walk down Friargate”, “Focus on Frenchwood”, “First Match memories” with the National Football Museum.   Mike described ways that data from each history story could be organised, and described the map system that has been developed by Designlab as a starting point.
+Barbara pointed out the need to involve all user groups at an early stage and asked about information systems already in use in museums.
+The team discussed various ways that information could be displayed or linked together as a collection of items on a screen.
+Welcome to the Visual History Project Blog
+Posted July 21, 2009
+Filed under: Uncategorized | Tags: JISCRI VISHISTORY Visual History JISC
+Leave a Comment
+Visual History Project is a JISCRI (JISC Rapid Innovation) project starting in June 2009 which will develop web-based “display board” application for use in History project work.
+Monthly Archives
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+Categories
+Uncategorized
+Stay Updated
+RSS Articles
+Create a free website or blog at WordPress.com.WPzone.net.
+Post to
+Cancel

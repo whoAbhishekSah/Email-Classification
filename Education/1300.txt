@@ -1,0 +1,64 @@
+Exploiting Activity Data in the Academic Environment
+Exploiting activity data in the academic environment
+Understanding it
+Doing it right
+Implementing it
+About this project
+Introduction
+Benefits
+Lessons Learnt
+High Level Guidance
+Data Protection
+Licensing and Sharing Activity Data
+Collecting, Processing and Presenting Data
+JISC Projects
+Related Work
+Technical Recipes
+Synthesis Method
+Recommendations for Further Work
+Acknowledgements
+About Activity Data
+Successful organisations are increasingly collecting and making use of their activity data.
+Exploiting your institutions activity data allows you to understand and support your users more
+effectively and manage your resources more efficiently. Three examples illustrate how you could
+benefit from exploiting the data
+Identifying and supporting at risk students earlier to reduce the number of students leaving
+courses or failing can be achieved through understanding patterns of behaviour from the
+students (eg through the use of the VLE, accessing library resources, attendance data).
+Providing recommendations for resources that support learning and research by using the
+results of other people's searches that relate to the users' current search.
+Understanding how resources are actually being used so that it becomes possible to plan
+more effectively.
+This web site synthesises the work of the JISC funded activity data programme in order to help you to
+understand how you might benefit from exploiting activity data. Beyond the benefits it discusses
+the legal considerations that you need to be aware of (primarily data protection and data licensing)
+before looking in some detail at
+how to actually exploit your activity data .
+The site also contains a set of
+guides that provide an overview of particular topics and a set of
+detailed "recipes" that explain how to undertake some of the detailed technical tasks for particular
+systems that were used in the projects.
+To get an overview you will probably find the following sections most useful.
+Introduction
+Benefits of using activity data
+Data protection
+Guides
+For a more detailed understanding you will find it useful to additionally look at the following
+sections:
+Collecting, processing and presenting activity data
+Lessons learnt by the projects
+Licensing and sharing activity data
+Recipes
+This
+online resource was produced by the JISC-funded Activity Data Synthesis
+Project at the School of Computer Science, University of Manchester.
+The project team consisted on Tom Franklin, Helen Harrop, David Kay and
+Mark van Harmelen.
+The contents of the web site are licensed under a Creative Commons CC0 ‘no rights reserved’ licence to enable free reuse.
+Key Issues (pdf)
+Business Benefit & Strategic Imperative
+Full Site Text (pdf)
+Top
+Activity data synthesis
+contact  tom@franklin-consulting.co.uk
+Last updated: 02/11/2011

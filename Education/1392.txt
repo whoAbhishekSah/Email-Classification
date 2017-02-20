@@ -1,0 +1,120 @@
+Integrating VOMS and PERMIS for Superior Secure Grid Management (VPMan)
+Funded under the JISC
+e-Infrastructure Programme
+Project Start: 1 March 2007
+Project End: 31 July 2008
+Project Partners
+University
+of Kent
+National
+E-Science Centre at the University of Glasgow
+National Grid
+Service
+Open Middleware Infrastructure
+Institute UK (OMII-UK)
+Project Objectives
+Both VOMS
+and PERMIS provide security
+management infrastructures for Grids. Each has its strengths and weaknesses
+and their combination will be a powerful solution to Grid security management
+as described below. Consequently, the objectives of this project are to:
+integrate VOMS and PERMIS, more specifically the VOMS user management and
+attribute assignment function with the PERMIS policy based authorisation
+decision function;
+ensure they seamlessly inter-work with latest Grid technologies including
+Globus
+toolkit version 4 (GT4), the
+Open
+Middleware Infrastructure Institute UK (OMII-UK) software release and
+Shibboleth;
+validate the results in several representative major pilot applications
+run by the National e-Science Centre (NeSC) at the University of Glasgow;
+evaluate the combined software from user, administrator and Grid developer
+perspectives;
+integrate the combined infrastructure with the National
+Grid Service (NGS) at SciTech
+(formerly CCLRC);
+distribute the integrated software as open source code as part of either
+Globus Toolkit, or the OMII-UK Repository, or the US-NMI,
+or a combination of them.
+Outline Project Description
+The project started by gathering information about the various authorisation
+systems that are currently being used by grid systems, as well as gathering
+information from current VOMS users. The results of the information gathering
+are in the first project deliverable
+D1.1 Requirements and Information Gathering (pdf).
+The results of the VOMS users survey can be found in the third project
+deliverable
+D1.3 Analysis of VOMS Users
+Survey Questionnaire (pdf)
+The deliberations of the project team in determining the use cases to
+be supported can be found in the second project deliverable
+D1.2 Use cases to be supported (pdf).
+The project then produced a design document describing how VOMS
+and PERMIS will be integrated into GT4, OMII-UK, GT2/glite/LCAS. This
+lead to the deliverable
+D2.1 VOMS-PERMIS integration design document (pdf).Software Deliverables
+As part of the project, we modified the PERMIS
+Policy Editor and Wizard so that it is able to create VOMS policies for
+grid resources. This led to the deliverableD3.1 A modified PERMIS Policy Editor and Wizard with
+documentation and help files
+which was delivered as the “PERMIS
+Policy Editor, v5.0, 9 Oct. 2008D4.1 Beta software ready for validation and piloting.
+We delivered the PERMIS/GT4 software to Glasgow in July 2007.
+OMII/PERMIS software was never delivered to Glasgow for testing, but Glasgow
+built a proof of concept test case showing how OMII-UK services (GridSAM) could
+be protected using VOMS attributes directly.
+D4.2 Preparation of test bed, services and portals
+Glasgow built the test bed during 2007.
+D5.1 A paper for an international grid conference
+describing the piloting of the integrated VOMS-PERMIS software with GT4 and/or
+OMII-UK.
+R.O.
+Sinnott, D.W.Chadwick, T. Doherty, D. Martin, A. Stell, G. Stewart, L. Su, J.
+Watt. “Advanced Security for Virtual Organizations: The Pros and Cons of
+Centralized vs Decentralized Security Models”. Proc. 8th IEEE International
+Symposium on Cluster Computing and the Grid (CCGrid 2008). May 19-22, 2008,
+Ecole Normale Superieure de Lyon, Lyon, France.
+D5.2 A paper for an international grid conference
+describing the piloting of the integrated authorization software utilizing
+Shibboleth and multiple Grid middleware (GT4 and OMII-UK) including how user
+single sign-on across a range of UK e-Science resources can be
+supported with fine grained authorisation.
+R.O. Sinnott, A. Asenov, C. Bayliss, C. Davenhall, T. Doherty, B.
+Harbulot, M. Jones, D. Martin, C. Millar, G. Roy, S. Roy, G. Stewart, J. Watt.  “Integrating Security Solutions to Support
+nanoCMOS Electronics Research”. IEEE International Symposium on Parallel and
+Distributed Processing Systems with Applications, Sydney Australia, December
+2008.
+D5.3 Document describing the overall lessons learned in
+supporting this infrastructure from a user, an administrator and a Grid
+developer perspective (this includes managers of the NGS and VO administrators
+wishing to utilize resources such as the NGS and end users of the NGS)
+Unfortunately this was never delivered since
+the final integrated software was never put into operation at the NGS.
+D6.1 The integrated software packaged with GT4 and OMII-UK and
+fully integrated into the NGS
+1. The PERMIS/GT4/VOMS download
+is available from
+http://sec.cs.kent.ac.uk/permis/integrationProjects/GT.shtml and the actual software is athttp://sec.cs.kent.ac.uk/permis/private/gt4/permisAuthzGT4_5_1_0.zip
+2. The OMII-AuthZ 1.0.0 is downloadable in source code form
+from the OMII-UK website
+http://www.omii.ac.uk/wiki/Downloads
+D6.2. User, developer and administrator documentation for
+the integrated VOMS-PERMIS package including support in a Shibboleth-enabled
+environment, with guidance to Grid Operations Support Centre on practicalities
+of usage.
+1. The PERMIS/GT4/VOMS documentation is athttp://sec.cs.kent.ac.uk/permis/documents/PERMIS_Authorization_in_GT4.pdf
+2.
+The OMII-AuthZ 1.0.0 is downloadable in source code form from the
+OMII-UK website
+http://www.omii.ac.uk/wiki/Downloads.
+D6.3 Final report to JISC
+The software was validated in a series
+of grid enabled applications that were developed at NeSC
+in Glasgow, such as the nano-CMOS
+project .
+The original project plan can be downloaded from here(pdf).
+The Completion Report to JISC can be downloaded here(as a pdf)..
+Contacts
+Professor
+David Chadwick , University of KentProfessor Richard Sinnott, the NeSC, University of Glasgow

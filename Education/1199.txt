@@ -1,0 +1,88 @@
+STARGATE: Static Repository Gateway and Toolkit: Enabling small publishers to participate in OAI-based services: Home page
+Static
+Repository Gateway and Toolkit
+Home
+An overview of STARGATE
+STARGATE has been a series of investigations
+into the actual and possible use of the "Specification for
+an OAI
+Static Repository and an OAI Static Repository Gateway"
+http://www.openarchives.org/OAI/2.0/guidelines-static-repository.htm
+Thus far,
+three projects make up the strand
+of work:
+STARGATE - Static
+Repository Gateway and Toolkit:
+Enabling small publishers to participate in OAI-based services
+The STARGATE extension (which examined
+the Static Repository Gateway software)
+STARGATE: SCoPE - Selecting Collections
+for Possible Exposure
+The STARGATE Project
+The
+STARGATE project
+explored the use of static repositories
+as a means of exposing publisher metadata to OAI-based disclosure,
+discovery and alerting services within the JISC Information Environment
+and beyond.
+The project's primary aim was to lower
+the technical barriers to the implementation of OAI-compliant
+repositories, thereby
+enabling small publishers of electronic resources to participate
+more readily in OAI-based disclosure and delivery services.
+The project
+worked with four
+publishers
+in the Library and Information Science domain to explore the
+use of OAI static repositories
+Journal of Digital Information http://jodi.tamu.edu/
+Information Research http://informationr.net/ir/
+Library and Information Research http://www.lirg.org.uk/lir/lir.htm
+Information Scotland http://www.slainte.org.uk/publications/serials/infoscot/contents.html
+The STARGATE extension
+The project received a short extension
+to examine and document in detail the set up and use of Static
+Repository Gateways. For more information see the Static Repository
+Gateways tab
+The STARGATE static repository gateway;
+a branded gateway for the publishing community is available
+at: http://stargate.cdlr.strath.ac.uk/gateway/
+STARGATE: SCoPE
+STARGATE SCoPE (Selecting Collections for
+Possible Exposure ) is a brief investigation into the demand for
+and practicalities of running a Gateway within the context of
+the JISC Information Environment
+SCoPE’s primary aims are:
+to build on the STARGATE project (including the technical
+specification)
+to develop a business case for a SRG service by:
+investigating the market for a SRG service (what collections
+can be exposed)
+assessing the cost and benefits of such as service (why
+such collections would use such a service)
+making suggestions about how to promote the uptake
+of a SRG service.
+The STARGATE strand of work has been funded
+by the Joint
+Information Systems Committee (JISC) and was
+undertaken
+by the Centre
+for Digital Library Research at the University
+of Strathclyde.
+Executive Summary
+Project
+Outputs
+Static Repository Tools
+Static Repository
+Gateways
+STARGATE Gateway for Publishers
+Reference Resources
+Contact details
+This web site is maintained by
+R. John Robertson
+and hosted by the
+Centre for Digital Library Research
+at the
+University of Strathclyde.
+STARGATE
+© 2005

@@ -1,0 +1,277 @@
+The Benefits of Sharing | A Jisc LMS Pathfinder Project
+The Benefits of Sharing
+A Jisc LMS Pathfinder Project
+Search
+Main menu
+Skip to primary content
+Skip to secondary content
+HomeAbout
+The LMS Day
+Overview
+What do we need from an LMS? (Part 1)
+What do we need from an LMS? (Part 2)
+What could be shared?
+Would a shared LMS work for Scotland?
+The final vote
+WP2 – Users
+User experiences and understanding
+Scotland’s consortia landscape
+Scottish Digital Library Consortium
+Glasgow Colleges
+Rowan Partnership
+SEDAR (Stirling and East Dunbartonshire Area Resource)
+Find A Book
+WP3 – Systems
+Scottish Systems Landscape
+Shared System Options
+WP4 – Content
+E-Content Report
+Bibliographic Data Survey
+Survey Form
+Contact
+Post navigation
+← Older posts
+The Benefits of Sharing – Final Report
+Posted on April 6, 2013
+by
+Stuart Lewis
+Reply
+‘The Benefits Of Sharing‘ (TBOS) has been a Jisc funded project in the Future of Library Systems programme.  It set out to answer the following question:
+“How would a shared library management system improve services in Scotland?”
+The project has now released its final summary report.  This is combination of all of the more in-depth reports from the four different work packages, and includes an Executive Sumamry:
+The LMS Day
+Users
+Systems
+Content
+Download the report: The Benefits Of Sharing – Summary Report.pdf
+Posted in News, Project updates
+|
+Tagged jiscLMS, outputs
+|
+Leave a reply
+TBOS, Shared Services and the College Development Network
+Posted on February 12, 2013
+by
+Stuart Lewis
+Reply
+The Benefits of Sharing (TBOS) project was invited to give some background on findings to a meeting of FE college library professionals at their meeting on Shared Services at the College Development network on 5th Feb 2013.
+The meeting provided a forum for discussion around a number of sharing initiatives. Papers included support for mergers and partnerships between colleges, services offered to students from the National Library of Scotland and an update on the Rowan partnership, a project delivering a shared LMS among three institutions in Scotland.
+There was also much discussion around the Re:Source service which facilitates the sharing and reuse of learning and teaching materials and on the concept of open educational resources.
+Scotland’s colleges are experiencing significant change and there is considerable interest in sharing initiatives within Scotland’s further and higher education sectors. Consequently the SCURL “task and finish” group discussions will be of interest to many in the FE sector.
+The slides presented are attached: http://www.slideshare.net/colinsinclair792/tbos-presentation-to-college-scotland
+TBOS presentation to College Scotland
+Posted in News
+|
+Tagged jiscLMS, presentation
+|
+Leave a reply
+TBOS at the SDLC AGM
+Posted on February 7, 2013
+by
+Stuart Lewis
+Reply
+The Scottish Digital Library Consortium (SDLC) held it’s annual general meeting on the 6th February 2013 at the University of Edinburgh.  The SDLC is one of several LMS consortia in Scotland.  The project was invited to present its work at the meeting.  The following slides were presented:
+The Benefits Of Sharing – SDLC AGM
+Posted in News
+|
+Tagged jiscLMS, presentation, SDLC
+|
+Leave a reply
+Perceptions 2012 – Highlights for TBOS
+Posted on January 25, 2013
+by
+Stuart Lewis
+Reply
+Marshall Breeding has published his sixth annual review of LMS systems:
+Perceptions 2012: An International Survey of Library Automation
+In his highlights of the report, he notes a couple of particularly interesting facts that are relevant to this project, and to the new SCURL task and finish group.
+634 libraries indicated that they are considering migrating to a new ILS. Ex Libris Alma (121) and Sierra from Innovative Interfaces (120) were mentioned most frequently by libraries systems under consideration, followed by WorldShare Management Services from OCLC (99), the open source Koha ILS (71) or Evergreen (65), Symphony from SirsiDynix (51), Intota from Serials Solutions (48), and Kuali OLE (21).
+The new group being formed by SCURL will be asking a similar question, to discover if and when SCURL members are going to be thinking about migrating to a different LMS.  For example, the report states that 48% of Voyager customers, 34% of Aleph customers, 31% of Alto customers, 42% of Millenium customers, and 20% of Symphony customers are looking to migrate to a new system.  Many of these percentages are much higher than previous years, suggesting that the trend towards new library service platforms (a.k.a. ‘next generation library management systems’) is influencing decisions, rather than just the usual percentage of churn in the market.
+Except for the libraries already using one, the survey reflected fairly low levels of interest in migrating to an open source ILS.
+This is an interesting finding.  Libraries that have tried Open Source continue to show interest in it, and those that haven’t continue not to.  Without further questioning it would be hard to find out why: is it because there is still concern about open source and those that try it find that it works OK, or is it that open source options only suit a certain type of LMS customer, and those that it suits have already moved to Open Source.  I suspect the former, but have no data to base this on.  Linked to this, the above statistic shows that open source systems figure reasonably well in the list of possible solutions to move to (in comparison to their current market share), and interest in Kuali OLE is now at a not significant level – we and many others continue to watch this with interest.
+Written by Stuart Lewis, University of Edinburgh
+Posted in Uncategorized
+|
+Leave a reply
+New SCURL ‘task and finish’ group
+Posted on January 24, 2013
+by
+Stuart Lewis
+Reply
+The Benefits Of Sharing project is overseen by SCURL (Scottish Confederation of University and Research Libraries) and is being undertaken by staff from the University of Edinburgh and the University of Stirling.  At its recent meeting on the 23rd January 2013, SCURL approved the creation of a ‘task and finish’ group continue the work on the project.
+The Benefits of Sharing project is contributing towards a new vision for library systems by investigating the following question:
+“How would a shared library management system improve services in Scotland?”
+The new group will consider the conclusions of the project, and take these forward.  Specifically it will look at what the possibilities might be of running a shared LMS in the future.  It will investigate its members timetables for LMS transitions, and perform exploratory to work to see what options there are for shared services.  The group can then consider what would be required to run a shared service – for example governance, vision, and planning.
+The outputs of the group will be able to inform the future direction of SCURL and its members.
+Posted in News
+|
+Tagged jiscLMS, scurl
+|
+Leave a reply
+OhioLINK Shared Services – Discovery
+Posted on January 24, 2013
+by
+Stuart Lewis
+Reply
+Ohio Link have recently announced that they have selected Ebsco’s EDS product as their discovery tool.
+The OhioLink consortium is one of the most high profile examples of an effective shared service, and has been for over 20 years.
+This announcement means that OhioLink members can search not only across the catalogues of the member libraries but also across the enormous number of ejournals, databases and ebooks available to consortium members, all from a single search.
+This new “layer” builds on the existing OhioLink catalogue which contains almost 13 million unique titles from its 89 member libraries. Material can be requested by any member and material collected with 2-3 days at the library of their choice. The catalogue is provided by Innovative Interfaces.
+The scale of the OhioLink service is impressive and the licensing of eresources on a state-wide basis allows the discovery layer to operate at the same level and facilitate access across a huge range of resources.
+The service is expected to save time for students, librarians and researchers and is an example of the type of service which can be offered to simplify access across a diverse range of resources for a wide group of users. The impact of this will be interesting to see. Will users cease to use the native interface of the electronic services that EDS will now cover? Will it be a way for researchers to discover (key word) the most appropriate database for their interests? Will they even be aware of which collection they are using and simply relish the ease with which they can access content?
+Thinking of the Scottish HE context, one is bound to harbour dreams of a discovery layer that covers, as a starting point, all the library catalogues plus the content licensed through SHEDL. Seems like modest ambition is comparison. I am also bound to wonder if, given that this is January, whether this utopian vision might have appealed to Burns – then let us pray that come it may, as come it will for a‘ that….
+Written by Colin Sinclair, University of Stirling
+Posted in News
+|
+Tagged jiscLMS
+|
+Leave a reply
+TBOS learns about KualiOLE
+Posted on January 20, 2013
+by
+Stuart Lewis
+1
+Introduction
+As part of work on the TBOS project, I attended the seminar on the much-discussed Kuali/OLE project, the highlight of which was an overview of the project by Robert McDonald, Director of Kuali/OLE community development.
+The Kuali project is a community of US institutions that came together to create a financial system for the HE community in the states, backed by funding from the Andrew Mellon foundation. The group has expanded (now 72 members) and diversified to look at other corporate systems in HE. Each system area has its own board of governors and a development team
+In a sentence OLE (Open Library Environment) is an attempt to develop an open library management system for the HE community that is, crucially, owned by the HE community. It has been backed by funding of over $2million for the initial development project from 2010 to 2012. Ahead of this seminar, the breakthrough for UK HE was the announcement that the consortium of University of  London libraries intends to replace their library management systems with the Kuali/OLE, probably in 2014. As well as the development plans for Kuali, the seminar focused on the decision making process at Senate House.
+System Development
+Open source LMSs have been around for a while, Evergreen and Koha for example, informed the development of the Kuali/OLE project. It was felt that these systems were too small scale for large US HEIs and what the Kuali foundation sought to do was build on these initiatives and develop something on an enterprise scale.
+In 2009, a partnership of nine libraries was formed and in 2010, they began the development of a flexible, service-oriented library management system owned by the HE community.
+In terms of a release roadmap, the 0.6 release is complete, with manuals and testing in place. 0.8 is due shortly followed by release 1.0 in 2013. It is this release that the Bloomsbury group of libraries plan to implement.
+The system will draw on the GOKb knowledge base which received development funding  in 2012 and, in conjunction with JISC developments will provide an open repository of data for libraries on publication information about electronic resources, including journals, databases and ebooks. It is seen as crucial to the success of the OLE project that the partner libraries has ready access to accurate data on publications, underpinning the delivery of, mostly electronic, content to users.
+In terms of software, as range of service components are being used – Google Refine, Apache solr as well as open technologies around document storage, there are also a number of commercial partners within the development. A move away from MARC was also discussed, making more use of MARCXml. Identify management is also being looked at, a key development area.
+It seems clear that, at time of writing, there is little functionality that can be demonstrated in any meaningful way, with a production system not expected until late in 2013. This makes the Bloomsbury decision all the more interesting and worthy of further consideration.
+The Kuali/OLE community
+The main selling point of the OLE approach, as opposed to a more conventional LMS procurement is that the system is owned within the HE community. Rather than purchasing a product, or even a service, from a commercial vendor, moving to OLE is more about joining a club, becoming a member of a development group. ]
+This concept brings some responsibilities, but also affords opportunities. The key benefit for libraries is that as owners of the system, we have control over its development, any and every development will be carried out and the resulting functionality will be available to the entire community of members. Libraries will not be expected to simply tolerate the way a system works, but will be able to influence its design and development in a much more direct and meaningful way and, it is hoped, cost effectively.
+Bloomsbury decision
+The decision of the Bloomsbury LMS consortium to use Kuali/OLE to develop its system is interesting in several ways and the process is likely to attract interest of the wider HE community for some months (years?) to come.
+Their decision is based not on a conventional procurement or the development of an onerous and, some would say, restrictive ITT, but on a “horizon scan” of the future of library management systems as well as systems interoperating effectively with other major corporate systems. This element of the system is at the heart of what was required.
+What OLE offered was a system built by HE and built around workflows, allowing the freedom within the organization to develop the system as it sees fit to meet the user demands. A system that will require investment of staff time, but that this in turn allows staff to develop skills and experience.
+Much was made of the tactics of some of the conventional LMS suppliers and a policy of creating fear, uncertainty and doubt around a change of this magnitude, clearly as a way of protecting their own interests. Ironically, a key argument in favour of using open source is that many of the tools used in this environment are used by proprietary system vendors themselves.
+There are doubts and concerns, of course, and the decision, albeit only in principle, is a bold one. The OLE approach would still require significant investment, there are fees involved, though they are not expected to be high, and there is little to show in terms of a quantifiable asset. This approach is also largely unproven, though there are successful installations of Koha at Staffordshire and Evergreen at the SEDAR consortium in Stirling and East Dunbartonshire.
+Could this approach work in Scotland?
+The idea of community ownership of a system and of shared development lends itself easily to the discussions being had within the Scottish HE community about sharing library management systems.
+The Scottish HE community is well established, well used to collaborative procurements and shared service developments. We are small enough that colleagues are well known, but large enough that we have the expertise and experience within our institutions to contribute to a shared development on this scale.
+Outside of the US, smaller development groups are a potential way forward allowing the development, in theory of a Scottish Kuali group? Something to think about.
+The slides from the presentation to SCONUL can be found at:
+http://www.slideshare.net/rhmcdonald/sconul-kuali-ole-briefing
+Written by Colin Sinclair, University of Stirling
+Posted in Uncategorized
+|
+Tagged jiscLMS
+|
+1 Reply
+LMS Day Event Write-up
+Posted on December 1, 2012
+by
+Stuart Lewis
+Reply
+On Friday 5th October, more than thirty library staff from across Scotland met together to discuss Library Management Systems.  Facilitated by Stephanie Taylor and Sheila Cannell, this one-day event asked the question, “Would a shared library management system improve services in Scotland?” To help us investigate the question, we broke the day into three sessions:
+What do we need from an LMS?
+What are the benefits and drawbacks to sharing?
+Would a shared LMS work for Scotland?
+The write-up of the event has now been published: LMS Day Write-up.
+Posted in Project updates
+|
+Tagged jiscLMS, lmsday
+|
+Leave a reply
+LMS Day – Booking information
+Posted on September 17, 2012
+by
+Stuart Lewis
+Reply
+The Benefits of Sharing: LMS Day
+Date: 5th October 2012
+Time: 10:00 – 16:00
+Venue: The Enterprise Zone, University Library, University of Stirling
+Overview
+This one-day event will ask the question, “Would a shared library management system improve services in Scotland?”.  The event is being run by the SCURL led ‘The Benefits of Sharing’ project, funded by JISC as part of its LMS Pathfinder Programme.
+The day will focus on active participation for attendees, including round-table discussion and group work aimed at exploring the question in depth. By the end of the day we aim to have a clearer understanding of both the benefits and drawbacks of a shared LMS within Scotland, and a clear indication of whether the vision of the shared LMS is a viable and useful one for Scottish libraries.  The outcomes of this discussion will feed back into JISC’s investigations in this area.
+Who Should Attend?
+Anyone with an interest in Library Management Systems and the services they provide to higher education institutions in Scotland.  The event will appeal to different types of staff, including library service directors, systems librarians, digital library specialists, policy makers, and any staff who make use of the LMS and the facilities it offers.
+The event is limited to a maximum of 40 participants, so space may be limited.
+Introduction to the Day  – 10:00 – 10:30 (coffee from 9:30am)
+Introduction to the Shared LMS for Scotland day – Mark Toole
+Introduction to the JISC LMS Pathfinder Programme – Ben Showers (JISC)
+Overview of sessions for the day – Stephanie Taylor, facilitator (Critical Eye Communications)
+Session 1 – 10:30 – 12:00
+What do we need from an LMS?
+What does an LMS mean to us?
+12:00 – 12:45 – Lunch break
+Session 2 – 12:45 – 14:15
+Are there particular areas of work that benefit from a shared LMS?
+Session 3 – 14:15 – 15:30
+Would a shared LMS work for Scotland? Facilitated by Sheila Cannell
+Summary and Close – 15:30 – 16:00
+Posted in Project updates
+|
+Tagged jiscLMS, lmsday, scurl
+|
+Leave a reply
+Defining success
+Posted on July 18, 2012
+by
+Stuart Lewis
+Reply
+The Benefits of Sharing project is investigating the question “How would a shared library management system improve services in Scotland?”.  We will use the following criteria to decide if this project has been successful in answering this question:
+The present: We need to understand how we currently operate LMS services. If we do not understand the current situation, we’ll be unable to decide if future scenarios improve upon this situation.
+Have we gained an understanding of the current LMS landscape in Scotland, the systems and services that they offer?
+Have we gained an understanding of the LMS from our users’ perspective, how they use and benefit from our LMS services, and how the service they receive could be improved?
+Have we gained an understanding of Scottish library collections and their management?
+The future: We need to understand the possible future scenarios that could exist if we used a shared LMS.  This will involve a mixture of users and services, systems, and content. If we don’t understand these future scenarios and what could be possible, we’ll be unable to articulate the possible benefits of such a future.
+Have we been able to engage with LMS vendors to explore potential future LMS options and the costs and benefits that these may bring?
+Have we held an active dialog with our users to discuss the impact of a shared LMS?
+Have we applied our current collections and management processes to a shared system to see what effects this may have?
+The benefits:We need to compare the present and future positions to understand the implications of a shared LMS.
+Have we found out if a shared LMS would be possible?
+Have we discovered any benefits to our users and services?
+Have we described the costs or negative aspects to a shared LMS?
+To summarise, the project will be a success if we can answer these questions.  If we are unable to answer the questions, then we have failed to understand the current or future possibilities, and the effect that they would have on the services that we offer which are facilitated by the LMS.  The success of the project does not rely on there being a benefit to a shared LMS, but by the project being able to articulate the costs and/or benefits.
+Posted in Project updates
+|
+Tagged jiscLMS, success
+|
+Leave a reply
+Post navigation
+← Older posts
+Search
+Recent Posts
+The Benefits of Sharing – Final Report
+TBOS, Shared Services and the College Development Network
+TBOS at the SDLC AGM
+Perceptions 2012 – Highlights for TBOS
+New SCURL ‘task and finish’ group
+Recent CommentsShared Library Systems and Services, Part 1 : Digital Infrastructure Team on WP2 – UsersHelen Thomas on TBOS learns about KualiOLERobin Taylor on Would a shared LMS work for Scotland?Archives
+April 2013
+February 2013
+January 2013
+December 2012
+September 2012
+July 2012
+Tagsaims
+jiscLMS
+lmsday
+outputs
+presentation
+project plan
+scurl
+SDLC
+success
+Categories
+News (5)
+Project updates (6)
+Uncategorized (2)
+The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336.
+Terms &
+conditions
+Privacy & cookies
+Website
+accessibility
+Freedom of
+Information Publication Scheme
+Unless explicitly stated otherwise, all material is copyright © The University of Edinburgh 2017.
+http://libraryblogs.ed.ac.uk
+Proudly powered by WordPress

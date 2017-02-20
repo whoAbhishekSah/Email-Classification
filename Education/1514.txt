@@ -1,0 +1,309 @@
+mSpace | development blog
+Follow:
+RSS
+Twitter
+mSpace
+development blog
+Home
+CSS
+Database
+Javascript
+JISC
+PAXS
+Richtags
+mSpace
+PHP
+Semantic Web
+Server
+UI
+Uncategorized
+Feb 19 10
+Modifying the sort order in MySQL – Custom Collations
+by Daniel Alexander Smith
+One of the outcomes of applying an exploratory interface onto a dataset is that the values within the metadata are immediately foregrounded. This means that any mistakes, typos or incorrect values are made very clear. The effect of this is usually of surprise and occasionally confusion and denial by providers of data, that their metadata included those values in the first place. The result manifests itself in that the default ordering of strings is by character code — punctuation, then numbers and letters. This means that any values that start with punctuation, such as spaces, newlines, parentheses, quotes, apostrophes, hyphens, backticks, colons, semicolons and other very ugly characters not only come first, but fill the initial screen of the interface.
+The main problem with having non-alphanumerics pushed to the top of lists is that when encoding problems are caused (anywhere in the data workflow), they might manifest themselves by spewing out characters with incorrect and low-numbered (causing incorrect punctuation) characters. This may seem weird, but it really is commonplace. By the time a data source is exposed/dumped/copied to someone like myself who is going to use that data to provide an interface, it has typically gone though many systems over a lifetime that could span decades of software changes, merging of multiple sources, modification by badly written scripts/programs. When only a small percentage of the metadata is wrongly encoded/translated by software changes, it may not be noticed, and as such “dirty” data seems to exist in almost all datasets that I’ve encountered.
+While having “correct” and “clean” is of course the expectation and dream of data providers, it is just that – a dream. Even my own limited personal experience in providing faceted interfaces over a wide variety of types of data for the last 6 years has shown that data will be dirty, and some level of modification will always be necessary before it can be exposed in an exploratory interface.
+One fairly wide-reaching and effective solution for the UI is alter the way that ordering of strings is handled in the database, so that instead of promoting punctuation to the top of the list, fold it in, based on the characters that follow the punctuation. The net result of this, would be that values beginning with numbers would rule the top of the list, with alphabetic strings following — much better than floating things that start with weird punctuative characters.
+For our preferred backend, MySQL, the ordering of results is handled by collations. In short, a collation is a map for a given character set that gives weighting to each character in that set, and uses those weightings to sort strings. Thus, A has a weighting one higher than B, which is one higher than C, and so on. For unicode you may likely wish to use a collation that weights a spanish character ñ the same as n, so that Espana orders next to España. Likewise, in order to prevent punctuation from living at the top of results listings, we can give a null (or zero) weight to punctuation characters. An example of this is given in a presentation available on mysql.com, where a phone number table has some characters folded in, since brackets and hyphens aren’t really parts of numbers.
+Using the knowledge gleaned from the above presentation, and from the web, I found a unicode table and ran through characters that were (and could in future) be promoted erroneously to the top of results listings, and included them in a script that generated my collation. This small perl script takes an array of hex unicode character codes, and null weights them. If you create this collation and then alter the columns that need to have the correct ordering to use the new collation, they will then order with numbers and alphas first, rather than punctuation.
+Punctuation Folding script
+5 Comments
+Jan 23 10
+Linked Data Engine
+by Daniel Alexander Smith
+Further to the demo of the Data Picker, we have developed a series of inter-linked services that are collectively referred to as the “Linked Data Engine.” The motivation for this development is to enable our existing architecture of picking data from a SPARQL endpoint to be extended to work with arbitrary Linked Data on the web. This means that users that do not have the capability to create a SPARQL end point can still create a faceted browser over data.
+The Linked Data Engine is currently partitioned into the Data Picker (as above), and a Data Processing service that handles ingest of RDF into a triplestore.
+The interaction of these services is described in the diagrams below:
+The Data Processor service is now integrated into the Data Picker, so that a URI can be used as the basis for creating an mSpace, and this has been working well in initial tests.
+The formal information page for the linked data engine can be found at Daniel’s homepage, and goes into detail about the APIs for each service, and will eventually link to the source code of the services too.
+We’ll post some more information up here as we finalise testing.
+2 Comments
+Dec 22 09
+MP Expenses Visualisation (powered by SPARQL mSpace)
+by jl2
+Here’s a small visualisation we’ve recently done with data made available by the OpenPSI project. The OpenPSI remit is:
+Open PSI is a collaboration between the University of Southampton and the UK government, lead by the National Archive, to trial a new form of community provisioned information service that:
+uses Semantic Web standards to provide an integration point for UK governmental sourced information, and
+creates an interaction space between the governmental information publishers, the research community who need access to governmental information and the new form of information intermediaries, the mashup creators
+The visualisation shows MP’s by geographical location within the UK, highlighting voting trends by area and displaying available MP expenses if required. The data is stored within a SPARQL endpoint, so this was a great opportunity to demonstrate the flexibility of the new mSpace SPARQL codebase.
+There remain a few issues with the data (like duplications) but this was outside of our control and will hopefully be improved as the OpenPSI project progresses.
+MP Expenses Visualisation
+Leave a comment
+Dec 9 09
+musicSpace Presentation at AHM2009: Using Pivots To Explore Heterogeneous Collections: A Case Study in Musicology
+by Daniel Alexander Smith
+I gave a talk on our work with musicSpace at the 2009 e-Science All Hands Meeting (AHM2009) entitled “Using Pivots To Explore Heterogeneous Collections: A Case Study in Musicology”.
+I spoke about our experiences with data integration over a number of heterogeneous musicology data sources, and how our mSpace interface over the integrated data is helping musicologists.
+An extended abstract that was submitted to the conference meeting is available at ECS EPrints.
+The questions asked after the talk are given below, along with the answers I gave.
+Did you consider making a mash-up of the sources as opposed to locally hosting all of the data? This would ensure the data doesn’t become stale.
+The data sources do not have good APIs to access the data, which in many senses is one of the problems of the data sources that our project faces. In order to prevent any changes or markup we have produced from becoming stale, we have made our processing into a import process so that we can update the data from the individual sources, to prevent our interface from becoming stale. We have designed this process so that the data providers remain the canonical source for accurate data.
+Can you push back the changes to the original data providers?
+This is entirely desirable, and should be technically possible. This is not in place yet, but we have been talking to the data providers to try to achieve this.
+How did you communicate with the sources to get the data exports?
+We spoke to them individually, and negotiated the best format of export they could provide us, and we dealt with the conversion of the source.
+The powerpoint presentation, and a short screencast that demonstrates a user answering a previously intractable research question using the musicSpace interface are now available at the ECS EPrints repository, along with the extended abstract submitted to AHM09.
+4 Comments
+Nov 12 09
+Data Picker for creating mSpace interfaces from SPARQL endpoints
+by Daniel Alexander Smith
+We’ve created a Data Picker interface to create an mSpace interface from any SPARQL endpoint. This allows you to select RDF classes that you wish to see in an mSpace, and select which of its data and object properties should translate into facets in an interface.
+I’ve made a screencast that demonstrates the features of the Data Picker, including how to share the mSpace you’ve created using a unique URL, and how to grab the configuration that has been created, if you want to use the open source mSpace SPARQL code to host the mSpace interface on your own server.
+If you have any questions please feel free to leave a comment or e-mail me.
+Screencast:
+3 Comments
+Nov 7 09
+Why we now prefer the Sphinx XML input format
+by Daniel Alexander Smith
+I’ve recently altered the mSpace automated data import system (of which we are still finalising a full open-source release) from using the MySQL index source in Sphinx to the xmlpipe2 input source. The difference is that for the MySQL index source, the system generates a mega SQL query that JOINs all of your tables and returns a row for each “document” to be indexed, with each column referring to a searchable full-text field. This means that where you have a one-to-many relationship in the data, you have to concatenate the results into a single field. We were using the GROUP_CONCAT function in MySQL to do this. This worked fine until recently.
+A recent project required the interface to allow searching of the full text of large PDF files, and users were noticing that results were not being hit for documents that contained terms they were searching for. After some debugging I noticed that the problem was GROUP_CONCAT truncating the results. Some manual reading led me to discover the MySQL variable group_concat_max_len. I altered this to the maximum allowed, tested out on some documents and everything was fine. For a couple of weeks anyway.
+The problem recurred, and this time no amount of debugging and manual reading could explain why the results were truncating. In my research I also realised that the length of a MySQL result row is limited anyway (to something like 32K, I forget). While this wasn’t the problem in this case, it would become a problem in future, and possibly for this specific project, as PDFs are reloaded from a repository automatically, and their length could well be very large.
+Thus, I chose to suspend learning about the seemingly endless number of MySQL environment variables that limit different individual, combined and row-level length limits, and see if I can bypass this nightmare altogether. Specifically, I looked into the XML index source type of Sphinx. The fundamental difference with this source type is that instead of telling Sphinx what my data looks like in the database that I use for the mSpace itself, I pull all of the data out into a single XML file, and hand that to the Sphinx indexer. There is no reason why Sphinx needs to know about the database, and provided that the document IDs match the primary key of my First Order Facet table, it’ll match up perfectly.
+In order to do this I created a Sphinx XML export plugin for the mSpace server. Naturally this first required me to implement a plugin architecture for the mSpace server backend, but this was on the “medium priority” section of my to-do list anyway. The mSpace import system was altered so that the mSpace is up and running slightly before the Sphinx index is finished (so that the import system can use the new export function of the server to get the XML file), and the new index is now integrated with Sphinx XML input type.
+I am happy to confirm that exporting the data via this method does not suffer from the truncating problems of the MySQL input type, and appears to works perfectly. It should also pay some future dividends having a plugin system with a decent example export plugin ready too.
+Leave a comment
+Oct 27 09
+mSpace SPARQL Demo
+by jl2
+When mSpace first started out, it was designed to interface directly with a SPARQL endpoint as an RDF/Semantic Web Explorer. At the time this proved to be slow and impractical with the kind of user interaction we were looking to provide. In subsequent iterations (and in the forthcoming 2.0 release) we have moved to a dedicated client/server architecture (more details here). This allowed us to have greater control over the optimisation of the structure and indexing of the data we wanted to explore and to provide many additional features, such as “backwards highlighting” and “a-z scroll markers” in the columns.
+Several years have now passed, and there is still interest in a SPARQL (and, indeed, linked data) exploring version of mSpace. Over time triplestore performance has improved, so we have modified the mSpace2.0 client code and make it interact directly with a SPARQL end point. This code is still being tidied up, but we have made a demo available using the BBC /programme linked data.
+http://blog.mspace.fm/demos/bbc-mspacesparql/
+Not all of the features of the full blown mSpace client are available in the SPARQL version but it is very lightweight and requires very little configuration!
+Speed is much better than expected but still not as quick as our dedicated client/server mSpace setup, for an example of that architecture running a similar dataset to the above demo check out our iPlayer Demo.
+UPDATE (25/11/09)
+Here is a new build that is known to also work with IE7
+mspace-sparql-prerelease-2.0.418.zip
+UPDATE (27/10/09)
+A few people have requested the source code for the demo:
+mspace-sparql-prerelease-2.0.407.zip
+Please note this is pre-release software! It is known to work with Firefox & Safari/Webkit, mileage with other browsers may vary
+7 Comments
+Oct 19 09
+Final JISCRI ProgressPost for PAXS: Plugins for Advanced Search and Export (for EPrints)
+by Daniel Alexander Smith
+Title of Primary Project Output
+PAXS: Plugins for Advanced Search and Export (for EPrints)
+PAXS upgrades the search capability of any EPrints installation to add the following features:
+Significant search speed-up
+More accurate results (default EPrints search missed some results by not including all fields in results).
+Word stemming support (for example, a search for “cancer” will return documents that match “cancer”, “cancerous”, “cancers” etc.)
+Unicode coverage (for example, a search for “theatre” will match documents that contain “Théâtre”).
+Easy-to-use user interface (see screenshots below, which show that the interface allows users to add fields to the search, rather than having to scroll through all available fields one a large page on the default EPrints search).
+Screenshot or diagram of prototype
+Here is the PAXS interface for Advanced search:
+Here is the standard interface for Advanced Search within EPrints
+Link to working prototype
+http://paxsdemo.mspace.fm/
+Link to end user documentation
+http://paxs.mspace.fm/
+Link to code repository or API
+http://paxs.mspace.fm/
+Link to technical documentation
+Technical documentation can be found in the code builds on: http://paxs.mspace.fm/
+Date prototype was launched
+Prototypes launched on 11 September and 29 September.
+Project Team Names, Emails and Organisations
+Daniel Alexander Smith, ds at ecs dot soton dot ac uk, University of Southampton
+Joe Lambert, jl2 at ecs dot ac dot uk, University of Southampton
+mc schraefel, mc at ecs dot ac dot uk, University of Southampton
+Project Website
+http://paxs.mspace.fm/
+Table of Content for Project Posts
+http://blog.mspace.fm/tag/jiscri/
+Leave a comment
+Oct 14 09
+Parse an HTML Table with PHP
+by jl2
+I recently was in the position where I needed to parse a table within an HTML file on a number of different pages.  To save myself some time I wrote this simple script to handle the parsing programatically.
+The script will work with most simple tables where the <th> tag has been used to define headers. It is unlikely to work with nested tables! Essentially, it worked for the purposes it was created for but your milage may vary!
+function parseTable($html)
+{
+// Find the table
+preg_match("/<table.*?>.*?<\/[\s]*table>/s", $html, $table_html);
+// Get title for each row
+preg_match_all("/<th.*?>(.*?)<\/[\s]*th>/", $table_html[0], $matches);
+$row_headers = $matches[1];
+// Iterate each row
+preg_match_all("/<tr.*?>(.*?)<\/[\s]*tr>/s", $table_html[0], $matches);
+$table = array();
+foreach($matches[1] as $row_html)
+{
+preg_match_all("/<td.*?>(.*?)<\/[\s]*td>/", $row_html, $td_matches);
+$row = array();
+for($i=0; $i<count($td_matches[1]); $i++)
+{
+$td = strip_tags(html_entity_decode($td_matches[1][$i]));
+$row[$row_headers[$i]] = $td;
+}
+if(count($row) > 0)
+$table[] = $row;
+}
+return $table;
+}
+Download parseTable.php
+51 Comments
+Oct 13 09
+JISC depoST Meetup
+by jl2
+Yesterday was the JISC Deposit Show & Tell meetup in London (#depoST). The idea was to bring everyone together who had a vested interest or active development in a tool for depositing to an online repository (such as EPrints or DSpace etc).
+The day started with 5 minute lightening talks from attendees, here are summaries of some of the most interesting/relevant to our desired use case:
+Drag & Drop Deposit Tool
+This was our own prototype which we demonstrated at the event. We have tried to take a strong end user perspective to try and design a simple tool that reduces the workload involved with submitting to an Institutional Repository (IR).
+For this we have made the following basic assumptions:
+Academic Researchers are busy people
+They may not be technical users
+They are unlikely to ‘markup’ their documents
+The current submission process requires far more work that is necessary to get a paper into an IR:
+Open web browser & browse to repository
+Log in
+Fill in metadata (EPrints has 12 compulsory fields)
+Upload files
+We hypothesise that alot of the metadata required can actually be found within the document that you are uploading and created a small desktop client in Cocoa to demonstrate this.
+The ideal end user experience is being able to drag a number of PDF’s onto the ‘droplet’ application and then be presented with a report. For the most case the user would just have to accept the report but there would also be the facility to make adjustments should the PDF extraction have made a mistake.
+The current state of the prototype is such that only PDF extraction is done, were the project to be funded we would like to interact with the following existing projects to provide an end to end solution:
+SWORD
+http://swordapp.org/
+SWORD is a lightweight protocol for depositing content from one location to another.  It stands for Simple Web-service Offering Repository Deposit and is a profile of the Atom Publishing Protocol
+We would use this for the actual depositing to the repository. Also of interest (although not for our implementation) is the PHP library for SWORD which was mentioned on the events twitter stream: http://github.com/stuartlewis/swordapp-php-library
+The Names Project
+http://names.mimas.ac.uk/
+The project scoped the requirements of UK institutional and subject repositories for a service that will reliably and uniquely identify individuals and institutions.
+More information on Names below. We would also like to make the suggestion of names more contextual, by prioritising results for researchers that the academic had previously co-authored with.
+Mendeley
+http://www.mendeley.com/
+This was not strictly an academic repository deposit tool but was one of the most interesting technologies on show. Mendeley is a VC funded startup with investors from the backers behind Skype and last.fm. Mendeley is a combination of an iTunes-esque desktop client with a Last.fm styled website. Researchers use the desktop client to organise their research, annotating PDF’s, sorting, tagging etc. It is also possible to automatically generate bibliographic references that can be pushed straight to Word.
+Much like the Audioscrobbler idea, all research and additional metadata is uploaded to a centralised service. This allows the researcher to access their library from the web but more interestingly allows Mendeley to start to extract research trends and in the future introduce researchers based on a profile that they have built up about them. The idea of co-author discovery is a known problem to us personally and hopefully this will go along way to creating a solution!
+Jan Reichelt, who presented, stated that whilst not currently available, a full API was on its way!
+EPrints WebDAV support
+http://files.eprints.org/451/ (Video Walkthrough)
+This solution was presented by the EPrints development team and offered a WebDAV or FTP mountable drive directly into an EPrints 3.2 install. The solution offered a browsable folder hierarchy with folders for each year, drilling down to an a folder to represent an EPrint (named via its unique numerical ID – not terribly user friendly).
+On the deposit side, a user would browse to the ‘Inbox’ folder and deposit their documents there. Although the title of the deposit could be given to the folder created inside the inbox, no other metadata was provided automatically and the user was forced back to the standard EPrints web interface to complete the submission. It was suggested that the user might upload a Dublin Core XML file with all the metadata into the inbox folder but this seems altogether unlikely!
+This approach seemed to offer a useful alternative for technical users as it produces a mountable view of the repository within an OS, an example given was the ability to GREP over all files in a repository. This however is not functionality that would benefit a non-technical academic and as such does not solve the issue for the primary end user!
+There are, in my experience, also some issues with the WebDAV protocol:
+Lack of user feedback to errors
+Connections are slow and not particularly robust
+Word SWORD Plugin
+This was a plugin for the Windows version of Word which provided direct deposit access to an Institutional Repository. This was one of the few projects that had a working solution that could be downloaded today! From the demonstration it was however clear that the code was early in development and that steps would need to be made to improve userbuility.
+One of the noteworthy features was the ability to support client side validation templates for repository specific requirements. Perhaps this will be a feature of SWORD 3?
+Names 2 Project
+http://names.mimas.ac.uk
+The Names project is again not strictly concerned with depositing to repositories, instead it is a service which aims to disambiguate authors. This is a service which will be invaluable for any deposit tool/solution!
+The Names project is something we have been keeping a close eye on for a while as the issue of author disambiguation is a reoccurring problem within a number of our projects. The first phase of the project ended in August with no publically available API so it was great to hear that they had recieved futher funding to continue the work and even better to hear that a public beta API was available:
+http://names.mimas.ac.uk/prototype
+The Names project currently uses data from Zetoc, British Library and contextual information from research documents to build a database of all UK research authors. Zetoc is quoted to contain over 10million authors, whilst the Library of Congress named authority file is said to have 6-7million unique authors.
+The progress is promising but on initial tests authors found in the Zetoc web service were not found by the Names prototype.
+11 Comments
+« Older Entries
+Recent Articles
+Modifying the sort order in MySQL – Custom Collations
+Linked Data Engine
+MP Expenses Visualisation (powered by SPARQL mSpace)
+musicSpace Presentation at AHM2009: Using Pivots To Explore Heterogeneous Collections: A Case Study in Musicology
+Data Picker for creating mSpace interfaces from SPARQL endpoints
+Categories
+CSS (1)
+Database (3)
+Javascript (6)
+JISC (6)
+mSpace (9)
+PAXS (4)
+PHP (6)
+Richtags (1)
+Semantic Web (1)
+Server (8)
+UI (8)
+Uncategorized (1)
+Tag Cloudacademic
+agile
+ajax
+author disambiguation
+bbc
+coauthors
+code
+CSS
+deposit
+depoST
+development
+documentation
+eprints
+extreme programming
+framework
+html
+iphone
+iplayer
+Javascript
+JISC
+jiscri
+mobile safari
+mSpace
+mysql
+parser
+PAXS
+pdf extraction
+pdoc
+PHP
+prototype
+rdf
+rdoc
+repositories
+research
+ruby
+safari
+scamp
+scrum
+search
+sparql
+sphinx
+sword
+tables
+unicode
+userbuility
+Recent Comments http://www.kicksplus.fr/index.php?main_page=index&cPath=3_33 on Parse an HTML Table with PHPhttp://reflectionsevents.com/car-insurance/how-to-get-cheap-car-insurance/how-to-get-cheap-car-insurance-with-9-points/ on musicSpace Presentation at AHM2009: Using Pivots To Explore Heterogeneous Collections: A Case Study in MusicologyAndre on mSpace2.0 Architecture DocumentationKate on iPlayer mSpace: The power of custom ColumnsDino on musicSpace Presentation at AHM2009: Using Pivots To Explore Heterogeneous Collections: A Case Study in Musicology
+Archives
+February 2010 (1)
+January 2010 (1)
+December 2009 (2)
+November 2009 (2)
+October 2009 (7)
+September 2009 (2)
+August 2009 (1)
+July 2009 (6)
+About
+The mSpace development team consists of Daniel Smith
+& Joe Lambert and is based at the University of Southampton
+The team has a strong web2.0 and semantic web focus, bringing together skillsets in both backend and UI development and deployment.
+Categories
+CSS
+Database
+Javascript
+JISC
+mSpace
+PAXS
+PHP
+Richtags
+Semantic Web
+Server
+UI
+Uncategorized
+Search
+Copyright © 2017 mSpace. Titan Theme by Jestro.

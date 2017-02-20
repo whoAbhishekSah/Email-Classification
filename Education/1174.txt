@@ -1,0 +1,10 @@
+SHERPA DP - Creating A Persistent Preservation Environment For Institutional Repositories
+Home > Home
+Overview
+There is an increasingly complex ecology of digital resources being created and used by academics, researchers and others across the wide-range of communities that make up the Higher Education sector in the UK. Institutional repositories are beginning to implement a range of different management models and ingest a wide range of content types. However, the consensus on the need to grow the number of repositories and increase the range of content has not been supported by a corresponding consensus on how to ensure preservation of content.
+The Arts and Humanities Data Services are investigating a disaggregated service provider model, in which preservation functions are provided by a third-party institution. In this model the AHDS provides a shared preservation store, and undertakes preservation planning and preservation functions, whilst the repositories continue their usual work to raise awareness and promote deposit of content, ingest, storage of content for delivery and access.
+The initial SHERPA DP project investigated the provision of preservation services for e-print archives operated by the members of the SHERPA consortium. During the project, the AHDS developed a high-level model and a shared preservation environment for use by partner institutions.
+The SHERPA DP2 project will extend the collaborative model to consider the development of preservation services for institutional repositories that archive a wider range of content types and implement different organisational models.
+HomeSherpa DP ProjectSherpa DP2 ProjectPapers and presentationsLinks
+Contact : info@sherpadp.org.uk
+sherpadp.org.uk

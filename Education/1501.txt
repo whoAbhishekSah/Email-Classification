@@ -1,0 +1,65 @@
+The University of Hull - eServices Integration -
+About e-Services Integration
+Web Feedback | University portal
+Search
+The University of Hull
+eServices Integration
+eServices Integration
+Home
+Home
+e-Services Staff
+Presentations
+Projects
+Publications
+Content Management
+About e-Services Integration
+The e-Services Integration Group of Academic Services was formed in the summer of 2003. The
+objectives of e-SIG are to work with colleagues across sections of Academic Services, and the broader University community, to lead and co-ordinate the development of online services for the University.
+e-SIG is currently actively pursuing the following development priorities:
+Further developing the university portal, port.hull, and associated services
+Deployment of the Hypercontent Web Content Management System
+Evaluating and developing tools and environments to support e-Learning and e-Research
+Evaluating and planning the deployment of an institutional repository
+A key element of the work of e-SIG is the development of effective
+national and international partnerships. e-SIG and its predecessors
+have successfully managed a range of externally funded development
+projects. Recent e-SIG externally funded projects include RepoMMan
+(http://www.hull.ac.uk/esig/repomman/) RIDIR (http://www.hull.ac.uk/ridir/),
+and REMAP (http://www.hull.ac.uk/remap/) Projects, funded uner the JISC Digital Repositories Programme, and CREE (http://www.hull.ac.uk/esig/cree/), funded under the
+JISC Portals Programme.
+eSIG also co-ordinates the eRESS Project (http://www.hull.ac.uk/esig/eress.html). The central objective of eReSS is to provide support to the JISC VRE Programme
+by helping to identify suitable solutions for the interoperability of
+Virtual Research Environment tools, applications, and resources. This
+will, of necessity, cover both ongoing activities within the VRE
+Programme and parallel activities in the wider Grid, eResearch and
+related environments of interest. eReSS runs from March 2006 - February 2009, and will work in
+parallel with current and future VRE projects to support their need for
+information on interoperability and associated standards and
+specifications.
+e-SIG participates in the JASIG (http://www.ja-sig.org/) and JASIG-UK (http://www.ja- sig.org.uk/). Ian Dolphin, Head of e-Strategy and e-SIG is Vice President of JASIG (http://www.ja-sig.org/govern.html) and a member of the Board
+of the Sakai Foundation (http://www.sakaiproject.org/). The University of Hull is a member of the Sakai Educational Partners Programme (SEPP).
+The work of e-SIG has been recognized internationally. The Group has been chosen as a Sun Microsystems international “Centre of Excellence”. This recognises work undertaken by e-Services Integration and others across Academic Services and the university as a whole in the now-concluded Digital University Project, including
+Deployment of the university portal, port.hull, based around uPortal from the Java Architectures Special Interest Group (JA-SIG)
+Integration of a range of services accessed from port.hull
+Development of a web content management system
+Developing accessible interfaces for those with a range of visual impairments
+The Centre represents a significant partnership with Sun Microsystems to further develop the aims of the Digital University Project, and brings considerable international prestige and recognition to the university for work in this area.
+Updated July 12th 2007
+Press Release
+Hull Success in JISC Repositories Programme
+The RIDIR project (Resourcing IDentifier
+Interoperability for Repositories) is a project funded under the
+auspices of the Joint Information Systems Committee 'Repositories and
+Preservation' Programme. It is investigating the requirements for, and
+benefits of, the clear use of persistent identifiers in order to
+facilitate interoperability between digital repositories of different
+types.
+The REMAP project is a project funded under the
+auspices of the Joint Information Systems Committee 'Repositories and
+Preservation' Programme. It is investigating the use of a digital
+repository to support the embedding of records management and digital
+preservation within the context of a UK Higher Education institution.
+Accessibility | FOI | Legal |
+Privacy |
+Copyright 2008 The University of Hull, Cottingham Road, Hull. HU6 7RX T: 01482
+346311

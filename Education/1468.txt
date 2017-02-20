@@ -1,0 +1,229 @@
+dotAC
+dotAC
+Exploring the UK research landscape
+Home
+Dec 03
+Fixing Gibbins
+DOTAC, FAIL, JISC, progressPosts No Comments »
+OK – I couldn’t resist:- the coreference identification (rightly) decided that Dr Nicholas Gibbins in ECS was not the same as the Dr Nicholas Gibbons that the JISC data seemed to want.
+So I did it by hand.
+Nice little example of why you can’t trust data from even the most reliable sources 🙂
+And now I think I may fix the data again by adding Les and I as contacts. as we should be.
+JISC DB FAIL.
+Nov 30
+Final Report
+demonstrator, DOTAC, finalProgressPost, JISC, JISCRI, output, product, progressPosts, prototype, rapidInnovation No Comments »
+dotAC: A Linked Data Explorer for UKHE
+Screenshots or diagram of prototype:
+dotAC Explorer
+1. Examining Les Carr [link]
+2. Why is Les Carr related to Gary Wills? [link]
+3. Examining the Readiness 4 REF project [link]
+4. Examining the University of Southampton [link]
+dotAC Editor
+1. Loading initial bundles for “Les Carr”
+2. Examining Les Carr
+3. Disconnecting Les Carr from the bundle
+4. Isolating Thomas Martinez
+5. Joining Thomas Martinez bundles
+Description of Prototype:
+The dotAC prototype consists of three main components: the Explorer, the Coreference Editor, and the knowledge bases.
+dotAC Explorer
+The explorer is a faceted browser that allows the user to examine researchers, organisations, projects and publications within the JISC-funded UKHE community.
+The interface consists of a number of panes: a geographical view, which indicates the location of the currently selected resource (or resources related to the currently selected resource), a detail view which allows the user to drill down and examine a resource in more depth, and a number of related resource views which show entities (people, projects, organisations, publications) that are related to the currently selected resource.
+When a resource in any of these panes is selected, the page header changes to indicate that the focus of the explorer has changed, and the detail pane changes to provide extra information about the selected resource. The related resource panes will also change accordingly.
+The explorer interface allows the user to investigate why a particular resource is related to the currently selected resource, by clicking the ? icon next to the related resource’s name. These relations typically take the form of co-authorship of papers, or co-investigation of projects.
+dotAC Coreference Editor
+The coreference editor is a graphical tool that enables a user to select resources from a Coreference Service and indicate which resources are (and are not) equivalent to each other. The editor consists of two panes: above, a graphical depiction of the selected resources and their equivalences, and below a list of the resources, organised by equivalence class.
+To begin, the user searches for a resource URI or for a literal value; in the latter case, all resources with matching property values are retrieved and added to the editor.
+In the upper pane, groups of equivalent resources are shown as connected components (trees) of the graph. The currently selected resource is indicated by an larger circle. As the user selects different resources in the graph, the groups in the lower pane are reorganised; the lower left pane indicates the equivalence class containing the selected resources, with the selected resource being highlighted within the group. The lower right pane lists the remaining groups.
+The groups is the lower pane may be expanded or collapsed for clarity, as may individual resources within a group (for example, to show variant name forms associated with a particular resource).
+When a user clicks on a resource, a toolbar appears which allows the user to form a link to another resource (by clicking on it), break a link with an adjacent resource (by clocking on the adjacent resource) or isolate the resource (so breaking all links with adjacent resources).
+When the equivalence classes are to the user’s satisfaction, the state of the edited resources and their equivalences may be uploaded to the CRS using the save icon. Alternatively, the user may discard changes using the start over (waste bin) icon.
+Knowledge Bases
+dotAC contains three knowledge bases, which drive the explorer interface and consist of data harvested from a variety of sources:
+dotAC Knowledge Base
+JISC Project Knowledge Base
+OAI (ROAR) Knowledge Base
+Each of these knowledge bases is described using both VoID and Semantic Sitemaps.
+Links to working prototypes:
+dotAC Explorer
+dotAC Coreference Editor
+dotAC Knowledge Base
+JISC Project Knowledge Base
+OAI (ROAR) Knowledge Base
+Link to end user documentation:
+Project overview
+dotAC Explorer documentation
+dotAC Coreference Editor Documentation
+Link to code repository or API:
+http://forge.ecs.soton.ac.uk/projects/dotac/
+Link to technical documentation:
+http://dotac.info/docs/
+Date prototype was launched:
+29 November 2009 (code under constant evolution for duration of project)
+Project Team Names, Emails and Organisations:
+Nicholas Gibbins, nmg@ecs.soton.ac.uk, University of Southampton
+Les Carr, lac@ecs.soton.ac.uk, University of Southampton
+Hugh Glaser, hg@ecs.soton.ac.uk, University of Southampton
+Ian Millard, icm@ecs.soton.ac.uk, University of Southampton
+Marcus Cobden, mc08r@ecs.soton.ac.uk, University of Southampton
+Project Website:
+http://dotac.info/
+http://blog.soton.ac.uk/dotac/
+PIMS entry:
+https://pims.jisc.ac.uk/projects/view/1355
+Table of Contents for Project Posts
+Project Evaluation
+On Users
+User Participation
+On Users
+dotAC Training Day
+Day-to-Day Work
+Welcome to dotAC (July)
+CRS Editor 1st Prototype (September)
+OAI Data Available (November)
+Final Prototypes (November)
+Technical Standards
+Investigating CERIF (August)
+CERIF Discussions (September)
+CERIF Reconsidered (October)
+Value Add
+CERIF Reconsidered (October)
+Small WINs and FAILs
+CERIF Reconsidered (FAIL)
+EPrints 3 RDF (WIN)
+Nov 29
+Final prototypes of dotAC tools
+demonstrator, DOTAC, JISC, JISCRI, output, product, progressPosts, prototype, rapidInnovation, technicalDevelopment No Comments »
+Thanks to a gruelling sprint by Hugh and Ian (and with some help from Patrick McSweeney), we’re pleased to be able to announce the final prototypes of our tools:
+dotAC Explorer
+A faceted browser interface for JISC-funded UKHE data
+dotAC Coreference Editor
+A graphical frontend to the Coreference Service
+Three datasets of linked data for UKHE
+All visible via the RKBExplorer interface:
+OAI Repository data (via ROAR)
+JISC
+dotAC
+Documentation will appear in due course at http://dotac.info/docs/.
+Enjoy!
+Nov 16
+dotAC Training Day: 22nd January 2010
+DOTAC, endUser, JISC, JISCRI, output, progressPosts, Uncategorized 1 Comment »
+One of our goals on dotAC is to reach out to our target communities, specifically to the managers of institutional repositories; we believe that, for linked data-based research information to be a reality, we need to engage with the people who are most likely to be providing that data (see our post on users for more background on this).
+We had originally planned a pair of events: an item at the Repository Fringe in Edinburgh at the end of July, and a dotAC-themed extension to an EPrints Training Day here in Southampton at the beginning of September. The first of these went ahead as planned, with Hugh giving a presentation on the Thursday, but we had to cancel the second due to a clash with the JISCRI workshop in Manchester.
+We’ve now scheduled a replacement event for the 22nd January 2010 (immediately following the EPrints training on the 20th-21st January 2010). We will be running the same session on Linked Data for Institutions and Repositories that we’d originally planned – further details will appear on the EPrints Training website in due course
+Nov 15
+November Progress
+DOTAC, JISC, JISCRI, progressPosts, rapidInnovation, WIN No Comments »
+It’s been a quiet week in Lake WoebegoneSouthampton.
+Actually, that’s a lie. While the new teaching year has been grinding on, we’ve continued to tie together the systems we’ve built.
+One big WIN is that we can now get RDF descriptions directly from EPrints 3-based repositories. I’ll let Chris Gutteridge say it, since it’s his baby:
+EPrints 3.2.0 Linked Data Support committed to SVN!! http://devel.eprints.org/id/eprint/23 , http://is.gd/4UrLc , http://is.gd/4UrLd #ep3 [from twitter]
+We’ve been working with Chris during dotAC to make this happen (following some on-off discussions that date back to AKT). Chris was recently bitten by the Linked Data bug, and has been doing some sterling work on Linked Data-enhanced websites for the Web Science Trust and a number of conferences. Slightly galling, since they put to shame the Linked Data version of the ECS website that Nick built back in the day on the AKT project.
+This is definitely a big WIN for us, because we now have a reliable way to gather SW-friendly publication data from participating repositories that is more transparent and sustainable than harvesting via OAI-PMH. All we now need to do is persuade repository managers to migrate to an up-to-date distribution of EPrints (at the rescheduled dotAC/EPrints training day, currently planned for the New Year) and we’ll be away…
+Nov 10
+UK OAI data available at dotac.rkbexplorer.com
+DOTAC, JISC, JISCRI, progressPosts, rapidInnovation No Comments »
+For dotAC we needed to get publication metadata for the UK. So we used OAI-PMH to get the XML OAI metadata for the sites listed at http://roar.eprints.org/.
+We have now processed these into RDF to have a Linked Data site (resolvable URIs and SPARQL endpoint plus some other things), and have made it public at http://dotac.rkbexplorer.com/.
+Hopefully it may be of use to others as well.
+We have also made the OAI data for the whole world available at http://oai.rkbexplorer.com/.
+Oct 30
+October Progress
+DOTAC, FAIL, JISC, JISCRI, methodology, productivity, progressPosts, rapidInnovation, valueAdd 1 Comment »
+As dotAC progresses, we now feel that we’re in a position to start integrating the different components and datasets that we’ve created so far. We’re planning a sprint for the latter half of October and November to this end, with the main targets for implementation being as follows:
+dotAC RKBExplorer (UK repository data + JISC project data)
+Coreference editor backend
+Geographic visualisations (OpenSpace-based)
+CERIF-RDF translator
+(a brief glimpse of our main project management tool: the whiteboard)
+On a related note, we’ve decided that the state of CERIF adoption in UKHE is just not mature enough for us to be able to rely on data from that source; at last month’s ResearchRevealed workshop, it became clear that any widespread adoption of CERIF by institutions and funding councils was going to be some way in the future, certainly beyond the lifetime of this project. The second REF consultation document talks about developing “a standard format for reporting research income and PGR data” (a subset of what may be represented in CERIF), but with reference to the formats currently required by HESA, and sets the timetable for starting the development of the REF data collection system to be the Spring of 2010. It would therefore seem unwise to rely on any CERIF-based research information (from funding bodies) for the dotAC demonstrator.
+Having considered CERIF implementation in the context of dotAC, and talked to others at the ResearchRevealed workshop, we’ve taken the decision to deemphasise this aspect of our work. We have the mapping from CERIF to DC+BIBO+AKTP that Marcus worked on, and we intend to put together a prototype XSLT transformation from the CERIF XML serialisation to RDF/XML (time permitting), but we’ll be prioritising the other tasks that we’ve set ourselves ahead of this.
+Incidentally, this decision is why we’ve tagged this post both ‘valueAdd’ and ‘FAIL’. Even if it’s only a negative result, we’ve satisfied ourselves that CERIF isn’t the way to go now – and may not be ever – but at the expense of some misplaced effort on our part.
+Consequently, we’ve decided to pull in UK publication metadata via OAI from the repositories listed in ROAR, and to integrate this with the JISC project data that we’ve received from David Flanders. We’re also working with Chris Gutteridge (of EPrints fame) to make sure that we can get Linked Data support into EPrints 3 (this was originally a fall-back plan).
+Oct 15
+On Users
+DOTAC, endUser, JISC, JISCRI, progressPosts, projectEvaluation, rapidInnovation, userCase 2 Comments »
+When we were writing the proposal for this project, we identified three use cases that summarised the needs that we were trying to meet. In the grand tradition of eating one’s own dogfood, we chose use cases to which we could readily relate:
+Use Case 1: A researcher trying to identify potential project partners
+The first use case is based on the experiences of a researcher who is trying to initiate collaborative research in an unfamiliar domain; while they could be expected to have a reasonable awareness of developments in their own domain, they are unlikely to know much about a different domain. In order to successfully identify potential partners, they need to know who is working in the area of interest (and what their track record is like), and what other projects and collaborations currently exist.
+Use Case 2: A research postgraduate student
+A research postgraduate’s requirements are ostensibly similar to those of a researcher, but they are less likely to be familiar with their own domain. They need to get an overview of the current developments in their field, and some sense of who the ‘top’ researchers are, along with their communities of practice.
+Use Case 3: A research council manager
+A research council manager needs to have awareness of the field for whose funding they are responsible, so their requirements are similar to those of the researcher, but they also need some way of determining the effectiveness of funding (possibly by considering the quality and quantity of research outputs), particularly in interdisciplinary areas, and of the geographical distribution of funding.
+These use cases were derived from those that we used when building CS AKTive Space back in 2003; Use Case 3 in particular was derived from some contract work that we carried out for EPSRC (analysing the outcomes of funding in the Life Sciences Interface).
+Although the JISCRI instructions state “you are not the end user”, we’d dispute this. With our researcher hats on (as opposed to our developer hats), we very much fit the first two cases; to put it a different way, we have an itch that we’ve been trying to scratch for some time. We also hope that the JISC programme managers recognise the third use case – their EPSRC counterparts certainly did.
+However, we’ve become aware that this is not an exhaustive set of use cases, and that we’d ignored one group of potential users, namely the administrators of the repositories and research information systems that we’re relying on to provide us with our data.
+To give an illustrative motivating scenario, consider the following:
+At Southampton, we think that we’re pretty savvy about all things repository-related. We have an institutional archiving mandate, and all PhD students are now required to deposit electronic copies of their theses before they’re allowed to graduate. We’ve relied on our repositories (both at a University level, and within Schools) to manage our publications submission for the 2008 RAE.
+We also think that we’re pretty knowledgeable about linked data, and the need to give things unique and dependable identifiers.
+When the University was preparing for the last RAE, it hit a problem. When an eprint was deposited, we had good information about the author that submitted it (namely, that they were a current member of the University), but information about the remaining authors was frequently sketchy; quite often, we didn’t know whether the other authors were current students or staff, former students or staff, or completely external to the University.
+The job of fixing this eventually fell to the staff in the library, who had the unenviable and time-consuming task of working out into which category the authors on every paper fell, and whether or not they were the same as any previously identified authors (the co-reference problem).
+Following the similar work that Nick did on AKT, and the subsequent work that Hugh and Ian did on Co-Reference Services for the Semantic Web, we’ve come to the conclusion that this is a job that is best done as close to the source of the data as possible. The graphical editor mentioned in our September post is our attempt to build a UI for the CRS that makes the job of co-reference resolution as easy as possible for non-Linked Data experts.
+Use Case 4: a repository manager
+A repository manager needs to publish data about the deposits in their repository in a form that’s of most use to the prospective users of that data. For the users in Use Cases 1-3 to get a comprehensive view of UKHE that will satisfy their information needs, a repository manager must ensure that their published data links up with other that from other sources.
+If we are our own subjects for Use Cases 1 and 2, and our programme manager is our subject for Use Case 3, our subjects for Use Case 3 come from the University library: Fiona Nichols, the liaison librarian for computer science, and Isobel Stark, the liaison librarian for chemistry. Both Fiona and Isobel were involved in the pre-RAE data cleaning effort, and they’ve provided some useful insights on the process from a library perspective, and feedback on the prototype of the CRS editor.
+We’re also planning an dotAC-based adjunct to a future EPrints training day to replace the one that we had to cancel in order to attend the JISCRI workshop in Manchester, which should give us an opportunity to push the Linked Data idea (and try out our tools) on a broader audience. Watch this space.
+Sep 28
+September Progress
+DOTAC, JISC, JISCRI, progressPosts, rapidInnovation No Comments »
+Now that the season of mists and mellow fruitfulness is upon us, most of our colleagues are busy preparing for the new intake of undergraduates. We’ve also been busy on dotAC, with a number of parallel threads coming together nicely, and some interesting discussions with our counterparts on related projects.
+The frontend for the coreference service now resembles something that we’re happy to inflict on our trial users, thanks to Marcus’s sterling work. In the screenshot below, you can see a number of bundles (groups of possibly-related resources) displayed as connected graph components. Each node represents a resource with a unique URI, and the edges between resources are a representation of the equivalence statements that allow us to stitch together the scattered parts of the Web of Linked Data.
+In this example, we’ve retrieved a number of bundles that relate to people with the surname Williams. The bundles you see are the result of automated processes that have identified likely coreferent resources; unfortunately, bitter experience has taught us that such automated techniques are defeasible, so it’s frequently necessary for people to check over the data for inconsistencies. In the centre of the screen is a bundle of resources that we think represent Sandra Williams. The resource labelled “11” is used as the canonical resource for Sandra, and is shown as larger than the rest of the resources. However, this bundle contains a ringer: the resource labelled “8” refers to someone other than Sandra, so we’re disconnecting it from the rest of the bundle.
+When we’re happy with the state of the bundles in the editor, we can synchronise our session back with the CRS, for other applications (including the explorer interface that we’re building on top of RKBExplorer) to use.
+Last week, Nick travelled up to Bristol for a workshop at ILRT organised by Nikki Rogers of the ResearchRevealed project. Also present were members of BRII and Readiness4REF – the link between these projects is that we’re all looking at using CRIS data in CERIF format.
+Slideshare plug-in provided by rob
+The experiences of the other projects seem rather to mirror our own; plenty of people are talking about CERIF, but very few seem to be using it, partly due to the lack of documentation, and partly due to perceived weaknesses in the underlying model (as implemented in the EuroCRIS-supplied database schema). The likelihood that CERIF or similar ends up being used for the REF now looks increasingly remote; there probably isn’t sufficient time for both implementation and the necessary shakedown period after the HEFCE guidance is issued in early 2010.
+This said, the workshop was very helpful. Despite its flaws, CERIF is addressing the right domain, and there was interest in mapping CERIF’s model onto other formats, particularly those based on RDF. Ben O’Steen of BRII gave a presentation that mirrors our design decisions for this mapping; rather than invent yet another ontology, best practice (at least as far as the Linked Data Web is concerned) is to reuse fragments of whatever widely-used ontologies seem to fit. Ben’s name for this – Frankenstein ontologies – is apt enough that we’ve been using it ourselves.
+Sep 03
+August Progress
+DOTAC, JISC, JISCRI, progressPosts, rapidInnovation, technicalDevelopment, techStandards No Comments »
+Hello from Manchester, and the JISC Rapid Innovation in Development workshop in Manchester (or to be more precise, the City of Manchester Stadium in all its sky blue glory).
+Progress on dotAC so far has been good, but we’re aware that we’re still laying a number of foundations in parallel for the final service.
+We’ve joined EuroCRIS, the organisation that develops the CERIF data format (we’ll be posting a commentary and critique of CERIF in the near future) and have developed a mapping from CERIF to a selection of common Semantic Web vocabularies (FOAF, BIBO and Dublin Core for a start). We’re now working on a translator that will take the XML serialisation of CERIF and produce an equivalent RDF description; it isn’t clear how many funding bodies will be exporting data in CERIF within the lifetime of the project (it’s being used within the EC in places, NERC have provided us with some data, and EPSRC have said that they’re evaluating it), but we intend to be ready for them when they start.
+On the coreference side, we’re working on a graphical frontend for our coreference service that should make it easier for repository managers to identify the scattered instances of a given researcher (our preliminary discussions with librarians at Southampton suggests that this alone would be a useful outcome for dotAC), which can then feed back into the repository.
+On the repository side, we’re finalising our RDF export from EPrints 3 (predominantly to the same ontologies used for CERIF).
+We’ll be publishing further details of these deliverables both here and on the main project website as they’re completed – it’s getting to the point where these separate threads are naturally converging.
+Previous Entries
+WP Theme & Icons by N.Design Studio
+Categories
+demonstrator (2)
+DOTAC (11)
+endUser (2)
+FAIL (2)
+finalProgressPost (1)
+JISC (11)
+JISCRI (10)
+methodology (1)
+output (3)
+product (2)
+productivity (1)
+progressPosts (11)
+projectEvaluation (1)
+prototype (2)
+rapidInnovation (9)
+technicalDevelopment (2)
+techStandards (1)
+Uncategorized (1)
+userCase (1)
+valueAdd (1)
+WIN (1)
+Archives
+December 2009
+November 2009
+October 2009
+September 2009
+July 2009
+Links
+School of Electronics and Computer Science
+RKB Explorer
+JISC
+AKT
+dotAC
+Meta
+Entries (RSS)
+Comments (RSS)
+WordPress
+Log in

@@ -1,0 +1,26 @@
+The Kultur II group - projects - eNova
+Kultur II Groupresearchers and repository managers engaging with arts research deposit
+Home
+Contacts
+Events
+Projects
+Downloads
+Tyger Tyger (Darwin's Canopy, 2008)
+© Mark Fairnington
+Courtesy of UAL Research Online
+eNova project
+eNova builds on the work of both the current Kultivate project and the previous Kultur
+project to 'kulturise' the MePrints profile page tool for the specific needs and behaviours of creative and visual arts researchers.
+The MePrints extension generates personal research pages and provides a personalised working area that is integrated into the EPrints repository service. As a direct result, researchers no longer need to enter the same data into multiple systems for research purposes. The EPrints repository service and Kultur enhancements are used by the majority of specialist arts focused institutions in the UK.
+The eNova project is funded by the JISC Information Environment programme Repositories: take-up and embedding from 1st March until the 23rd December 2011 and is led by the Visual Arts Data Service; the University for the Creative Arts, and the University of the Arts London are project partners.
+Project documentation, reports and presentations are available from the Downloads area.
+JISC web page for eNova
+JISC-funded allAboutMePrints project led by the University of Southampton
+MePrints demonstrator based at the University of Southampton
+eNova Project Team
+Project Director - Leigh Garrett, Director of the Visual Arts Data Service (VADS)
+Project Manager - Marie-Therese Gramstadt, VADS Projects Officer
+Technical Developer - Carlos Silva, VADS Planning and Development Manager
+University for the Creative Arts Repository Manager - Anne Spalding, Repository and Digitisation Officer, UCA Research Online
+University of the Arts London Repository Manager - John Murtagh, Institutional Repository Manager, UAL Research Online
+The Kultur II Group is led by the Visual Arts Data Service (VADS), a Research Centre at the University for the Creative Arts

@@ -1,0 +1,262 @@
+Trading Consequences | Exploring the trading of commodities in the 19th Century
+Trading Consequences
+Exploring the trading of commodities in the 19th Century
+Search
+Main menu
+Skip to primary content
+Skip to secondary content
+About
+Team
+The Corpus
+Text Mining Input/Output Example
+Partners
+Publications
+Press
+Blog
+Access the Data
+How to use the Commodity Search
+How to use the Interlinked Visualizations
+How to use the Location Search
+How to use the Location Cloud Visualization
+Access data and code via GitHub
+White Paper
+Post navigation
+← Older posts
+Mapping Supply Chains for 19th Century Leather
+Posted on August 22, 2014
+by
+Jim Clifford
+Reply
+Impression of a Buenos Aires slaughterhouse by Charles Pellegrini, 1829.
+[First Published on the NiCHE Website] By Andrew Watson with Jim Clifford For the past two weeks I’ve been in Saskatoon, working with Jim Clifford in the University of Saskatchewan’s Historical Geographic Information Systems (HGIS) Lab. Since January 2014 I’ve been working with Jim and Colin Coates on the Trading Consequences research project thinking about how historians can use these valuable new text mining, database and visualization tools to understand the economic and environmental histories of global commodity flows during the nineteenth century. This trip to Saskatchewan has allowed Jim and I to focus our energies on using Trading Consequences for historical research. We used text-mined spatial data in conjunction with trade statistics and textual sources as a means of testing the search results and functionality of Trading Consequences. To do this, we chose a case study: the history of leather tanning related commodities during the nineteenth century.
+Neckinger Leather Mills Wellcome Images on Flickr Creative Commons by-nc-nd 2.0 UK
+We chose leather tanning for our case study because this topic intersects with both our research interests. Jim is interested in how industrial development across London, including the leather district of Bermondsey, contributed to broader environmental transformations through the development of global commodity flows. Part of my recently completed doctoral research examined the economic and environmental dimensions of hemlock bark harvesting for leather tanneries in Muskoka, Ontario during the same time period. Trading Consequences provides the opportunity to learn more about the ways tanneries in Muskoka and London functioned as part of transnational networks in hides, tannins and leather. Apart from some primary and secondary source background reading, our work over these initial two weeks of research on this project focused almost exclusively on exploring nineteenth century trade statistics for Britain and, to a lesser extent, the United States. Theses statistics came mainly from the Annual Statement of the Trade of the United Kingdom with Foreign Countries and British Possessions, which the HGIS Lab’s research assistant, Stephen Langlois, entered into a Commodity Flows database. With the help of Jon Bath, Director of the Digital Research Centre at U Sask, Jim and I exported the statistics from the Commodity Flows database to create spreadsheets, graphs and maps, which we used to help us understand broad patterns and trends in the global trade of leather tanning commodities during the nineteenth century. One of the tools we used to start to get a sense of the transnational connections of these commodities is SourceMap.com, a web-based supply chain mapping service, that allows users to generate maps populated with directional flow information. Using the information from the Commodity Flows database related to where commodities originated as well as their destination, Jim created four maps representing the flow of leather tanning related commodities at different points in the nineteenth century.
+Read More on the NiCHE Website
+Posted in Historical Research
+|
+Leave a reply
+Seven Tips for Using the Trading Consequences Database and Visualization Tools
+Posted on May 4, 2014
+by
+xandrewwatson
+Reply
+The strengths of the Trading Consequences relational database and visualization tools lie in the information they convey about the geospatial history of particular commodities. There are a variety of ways to explore the database and visualizations. But for someone unfamiliar with the tools and the information they make available, Trading Consequences can be a bit overwhelming at first. In order to help first time users and non-specialists, here’s a list of tips to help you use the tools.
+Start with a commodity, not a location. Interesting information is available for specific places, but is much more limited than the information available for specific commodities. Using location searches can be useful, but only after some initial work has been done to explore a commodity.
+Tip #1 – Do a Wikipedia search
+It helps to have a basic familiarity with the history of the commodity you’re searching. In most cases, if you don’t already know the basics of your commodity’s history, a Wikipedia search will provide more than enough information to get the background (where it came from, what it was used for, where it was consumed/bought).
+Tip #2 – Start with the big picture
+After choosing a commodity to explore, start with the Location Cloud Visualization search bar. For example, here’s the result if Ivory is entered.
+Every location listed in the cloud is a place associated with Ivory in the entire corpus of documents. Each column represents a different decade between 1800 and 1910 (left to right). Locations are listed in alphabetical order, with the largest font representing the most frequently mentioned locations for that decade.
+In this case, immediately obvious is the large number of mentions related to Havana. Your initial inclination might be to pursue what appears to be an abnormal result. But hold off on that for now!
+Tip #3 – Isolate individual continents
+Apart from the largest words in the cloud, it’s hard to make sense of all the information on display. To begin with, use the world map at the top of the screen to isolate the results for individual continents. Hovering the mouse over different continents will highlight locations from each continent in different colours. For example, hovering the mouse over Europe will highlight in green all the places in Europe associated with Ivory in the documents. Similarly, hovering the mouse over Africa will highlight in purple all the places in Africa associated with Ivory in the documents.
+Hovering the mouse over a continent will also display the total number of mentions of Ivory associated with that continent in a small text box next to the mouse (e.g. the total number of mentions for Africa is 3,137).
+Actually clicking on an individual continent will control the location cloud to display only the places from that continent. For example, clicking on Africa will eliminate all locations other than places in Africa.
+This will make it easier to search for patterns in the location cloud. Once you’ve finished exploring one continent, simply click on the continent again to disengage the control and return to the full location cloud. You can click on any number of continents to control for different combinations (clicking on both Europe and Africa, for example, will eliminate all other continents and display locations for places in Europe and Africa alone).
+Try isolating for each continent individually as well as different combinations of continents.
+Tip #4 – Isolate for specific places
+It may still be difficult to identify potential patterns from the location cloud for an individual continent. Hovering the mouse over particular location names in the cloud will allow you to isolate spatial and temporal patterns. Moreover, hovering the mouse over location names in the cloud reveals the number of mentions of Ivory associated with that specific place in that decade. For example, hovering the mouse over Mozambique in the location cloud reveals there are 42 mentions of Ivory during the 1850s. More importantly, most mentions of Ivory associated with Mozambique occur during the 1840s and 1850s.
+Similarly, hovering the mouse over Zanzibar (off the coast of Tanzania) reveals there are 67 mentions of Ivory during the 1900s and that most mentions of Ivory associated with Zanzibar occur between the 1870s and the 1910s.
+This suggests that the ivory trade was important in Mozambique during the early nineteenth century, but that trade through Zanzibar became more important toward the end of the century.
+Actually clicking on a specific location in a particular decade brings up a window display of the timeline distribution of mentions of Ivory associated with that place (normalized by all commodity/location mentions from 1800-1920), as well as a short list of selected sentences from documents that feature Ivory and that location during the decade chosen.
+This visualization will give you a clearer sense of the changing trends in mentions of Ivory associated with that location (in this case Zanzibar).
+Tip #5 – Explore excerpts from the documents
+Once you have identified what you think are likely significant trends, it makes sense to follow up your hypothesis with a quick look through excerpts from the primary source documents in which the mentions occurred. Included in the window that pops up when you click on a specific place in one of the location cloud columns is a link to a list of documents that feature Ivory and the chosen location.
+For example, clicking on the Mozambique location in 1850s column of the location cloud brings up a window with a distribution of mentions and a list of selected sentences. Clicking on the link to the full document list in the pop up window opens a new page with a list of primary source documents. By clicking on the small box next to the name of the document, you can explore the sentences that feature Ivory and Mozambique in that document. The larger the box, the more mentions that document includes.
+Reading through these documents allows you to determine a more accurate picture of the nature of the relationship between Ivory and Mozambique during the 1850s.
+Tip #6 – Explore the other end of the commodity chain
+If you started with the production end of the commodity chain (i.e. Ivory comes from Africa), try exploring the consumption side of the commodity chain (i.e. places where Ivory ended up).
+Instead of isolating Africa, try isolating Europe or North America. Look for similar types of patterns using the same methods described above and then follow up with the primary sources by clicking on promising-looking specific locations on the location cloud.
+For example, isolating Europe in the location cloud reveals a high number of mentions associated with Lisbon (Portugal) earlier in the nineteenth century,
+followed by a rise in the number of mentions associated with Germany toward the end of the century.
+During the nineteenth century, Mozambique was a Portuguese colony and Germany held imperial interests (along with Britain) in Zanzibar. The patterns of mentions of Ivory in Europe, therefore, suggest a strong correlation with the patterns of mentions of Ivory associated with Africa.
+Indeed a quick reading of excerpts from the documents confirms this to be the case.
+In this list of documents from the 1850s, Lisbon is mentioned in relation to Mozambique and Ivory several times.
+Similarly, an 1888 document dealing with relations between Germany and Zanzibar mentions Ivory as a commodity key to peace negotiations.
+Tip #7 – Cross-reference with a full corpus commodity search
+A separate Commodity search bar allows you to cross-reference the information obtained from your exploration of the commodity-location patterns in the Location Cloud Visualization.
+For example, here’s the result if Ivory is entered.
+The list on the right contains all the documents in which Ivory is mentioned (use the ‘next’ button at the bottom to advance to the next page). This list can be narrowed down into ten year blocks by clicking on a specific decade at the bottom left (the number in brackets next to each decade denotes the number of mentions of Ivory in that decade).
+Hopefully these tips will help get you started using the database and visualization tools. Trading Consequences is a great resource with a lot to offer anyone interested in global commodity flows during the nineteenth century. To use these tools effectively, however, requires several sessions in between which users must be spend time reading through the literature to confirm results and determine new avenues of enquiry to guide further use of Trading Consequences.
+Posted in Project Updates
+|
+Tagged digtrade, Guide, HowTo, HowToUseDigTrade, TopTips, TradingConsequences
+|
+Leave a reply
+A Quick Exploration of Ten Nineteenth Century British Imports
+Posted on April 8, 2014
+by
+xandrewwatson
+Reply
+During the 19th century, Britain imported hundreds of commodities from all over the world. Ten of the most important were cotton, wool, wheat, sugar, tea, butter, silk, flax, rice and guano. Below are graphs depicting the number of mentions of each of these commodities by decade and pie charts breaking down the number of mentions of each commodity by continent.
+The Trading Consequences relational database and visualization tools represent extraordinary new research opportunities for historians and historical geographers. A large amount of data is presented at a glance, allowing researchers to pursue obvious lines of further inquiry as well as more obscure connections that might otherwise have been missed. The visualization component is also complemented by the ability to follow up curious or novel relationships with a read of the primary sources that populate the visualizations.
+Let’s take a look at the ten commodities listed above to get a sense for what these visualizations can tell us. Both in terms of what is commonly understood about these trade items, but also in terms of new research questions, the Trading Consequences database and visualization tools provide exciting insights – even at just a glance.
+A couple of notes should be borne in mind when reviewing the graphs and pie charts below. First of all, the sources are all in English. The provenance of the sources means the statistics related to mentions tend to privilege places in Britain and North America. Because most of the sources were created in Britain and North America, they also tend to privilege the consumption end of the commodity chain.
+Second, the main corpus of documents used to populate the database relate to the years 1800-1900. Several collections of documents include sources from earlier and later dates, but mentions related to years before 1800 and especially after 1900 are unreliable. A decline in the number of mentions after 1900 reflects the smaller number of documents after 1900, not necessarily a decline in the significance of a given commodity.
+TOP TWENTY COMMODITIES IMPORTED TO BRITAIN, 1855-1895
+For a little context, below is a graph depicting the top twenty commodity imports to Britain ranked by value during the second half of the nineteenth century. Some commodities, such as wool and wheat are consistently in the top twenty. Others, such as guano, appear just once. Cotton remained the most important commodity by value throughout this period, while others declined (flax) or rose (butter).
+Continue reading →
+Posted in Project Updates
+|
+Leave a reply
+Official Launch of Trading Consequences!
+Posted on March 21, 2014
+by
+Nicola Osborne
+4
+Today we are delighted to officially announce the launch of Trading Consequences!
+Over the course of the last two years the project team have been hard at work to use text mining, traditional and innovative historical research methods, and visualization techniques, to turn digitized nineteenth century papers and trading records (and their OCR’d text) into a unique database of commodities and engaging visualization and search interfaces to explore that data.
+Today we launch the database, searches and visualization tools alongside the Trading Consequences White Paper, which charts our work on the project including technical approaches, some of the challenges we faced, and what and how we have achieved during the project. The White Paper also discusses, in detail, how we built the tools we are launching today and is therefore an essential point of reference for those wanting to better understand how data is presented in our interfaces, how these interfaces came to be, and how you might best use and interpret the data shared in these resources in your own historical research.
+Find the Trading Consequences searches, visualizations and code via the panel on the top right hand side of the project website (outlined in orange).
+There are four ways to explore the Trading Consequences database:
+Commodity Search. This performs a search of the database table of unique commodities, for commodities beginning with the search term entered. The returned list of commodities is sorted by two criteria (1) whether the commodity is a “commodity concept” (where any one of several unique names known to be used for the same commodity returns aggregated data for that commodity); or (2) alphabetically. Read more here.
+Location Search. This performs a search of the database table of unique locations, for locations beginning with the search term entered. The returned list of locations is sorted by the frequency that the search term is mentioned within the historical documents. Selecting a location displays: information about the location such as which country it is within, population etc; A map highlighting the location with a map marker; A list of historical documents and an indication of how many times the selected location is mentioned within each document. Read more here.
+Location Cloud Visualization. This shows the relation between a selected commodity and its related location. The visualization is based on over 170000 documents from digital historical archives (see list of archives below).The purpose of the visualization is to provide a general overview of how the importance of location mentions in relation to a particular commodity changed between 1800 and 1920. Read more here.
+Interlinked Visualization. This provides a general overview of how commodities were discussed between 1750 and 1950 along geographic and temporal dimensions. They provide an overview of commodity and location mentions extracted from 179000 historic documents (extracted from the digital archive listed below). Read more here.
+Please do try out these tools (please note that the two visualizations will only work with newer versions of the Chrome Browser) and let us know what you think – we would love to know what other information or support might be useful, what feedback you have for the project team, how you think you might be able to use these tools in your own research.
+Start page of the Interlinked Visualization.
+We are also very pleased to announce that we are sharing some of the code and resources behind Trading Consequences via GitHub. This includes a range of Lexical Resources that we think historians and those undertaking historical text mining in related areas, may find particularly useful: the base lexicon of commodities created by hand for this project; the Trading Consequences SKOS ontology; and an aggregated gazeteer of ports and cities with ports.
+Bea Alex shares text mining progress with the team at an early Trading Consequences meeting.
+Acknowledgements
+The Trading Consequences team would like to acknowledge and thank the project partners, funders and data providers that have made this work possible. We would particularly like to thank the Digging Into Data Challenge, and the international partners and funders of DiD, for making this fun, challenging and highly collaborative transatlantic project possible. We have hugely enjoyed working together and we have learned a great deal from the interdisciplinary and international exchanges that has been so central to to this project.
+We would also like to extend our thanks to all of those who have supported the project over the last few years with help, advice, opportunities to present and share our work, publicity for events and blog posts. Most of all we would like to thank all of those members of the historical research community who generously gave their time and perspectives to our historians, to our text mining experts, and particularly to our visualization experts to help us ensure that what we have created in this project meets genuine research needs and may have application in a range of historical research contexts.
+Image of the Trading Consequences Project Team at our original kick off meeting.
+What next?
+Trading Consequences does not come to an end with this launch. Now that the search and visualization tools are live – and open for anyone to use freely on the web – our historians Professor Colin Coates (York University, Canada) and Dr Jim Clifford (University of Saskatchewan) will be continuing their research. We will continue to share their findings on historical trading patterns, and environmental history, via the Trading Consequences blog.
+Over the coming months we will be continuing to update our publications page with the latest research and dissemination associated with the project, and we will also be sharing additional resources associated with the project via GitHub, so please do continue to keep an eye on this website for key updates and links to resources.
+We value and welcome your feedback on the visualizations, search interfaces, the database, or any other aspect of the project, website or White Paper at any point. Indeed, if you do find Trading Consequences useful in your own research we would particularly encourage you to get in touch with us (via the comments here, or via Twitter) and consider writing a guest post for the blog. We also welcome mentions of the project or website in your own publications and we are happy to help you to publicize these.
+Testing and feedback at CHESS’13.
+Explore Trading Consequences
+Explore the Location Cloud Visualization
+Explore the Interlinked Visualization
+Run a Commodity Search
+Run a Location Search
+Access Trading Consequences code and resources on GitHub
+Read the Trading Consequences White Paper.
+Posted in Events & Presentations, Historical Research, Information Visualisation, Project Updates, Text Mining
+|
+Tagged digtrade, TradingConsequences, TradingConsequencesLaunch
+|
+4 Replies
+Comparing Apples with Oranges
+Posted on March 18, 2014
+by
+xcolincoates
+Reply
+This Friday we will officially launch Trading Consequences this Friday (21st March), with publication of our White Paper and the launch of our visualization and search tools. Ahead of the launch we wanted to give you some idea of what you will be able to access, what you might want to view and what you might want to compare with these new historical research tools. Professor Colin Coates has been exploring the possibilities…
+The “Trading Consequences” website literally allows us to compare apples and oranges.  Both fruits became the objects of substantial international trade in the nineteenth century, as in the right conditions they can remain edible despite being shipped great distances.
+They are complementary fruits in many ways, as apples are grown in temperate climates whilst oranges prefer warmer conditions.  They may overlap geographically, but typically we associate different parts of the world with each fruit.  In the context of the British world, apples grew in the United Kingdom, of course, but they also came from Canada, New Zealand and the United States, among other locations.  Oranges from places like Spain, Florida or Latin America entered the United Kingdom in the nineteenth century.  The two maps which result from entering “apple” and “orange” into the database show, at a glance, how oranges appeared more often in reference to warmer zones than apples.
+The chronological distribution of commodity mentions was roughly similar in both cases.  Increased attention from 1880 to 1900 reflects in part the expansion of the documentation in that period, but it likely also reflected growth in trade and consumption.  Historian James Murton has pointed out that regular trade in apples developed from Canada to Great Britain in the 1880s, focused primarily in Nova Scotia.  On average, one million bushels of apples reached British markets (Murton, 2012).
+In contrast, both apples and oranges show sudden spikes in the 1830s, for entirely different reasons.  The spike for apples points the researcher to a useful “Report from the Selection Committee on the Fresh Fruit Trade” in 1839.  But the mid-1830s spike in oranges points instead to the activities of Orange Lodges in Ireland.  The other visualisation shows this anomaly even more clearly, as IRELAND takes on a prominence in related geographical terms in the 1830s that it did not occupy afterwards.
+This project entailed teaching computers to read as an historian might, and there are distinct advantages to being able to deal with such a wide range of documentation.  However, all historians must be critical of the sources we use. The visualisations in “Trading Consequences” point towards useful sources for further study, and to suggest that historian may wish to consider some regions in their analysis.  The importance of the United States in the discussions about apples is noteworthy, for instance.  Australia has a large number of mentions of oranges, though it is important to note that a small city boasts the same name and could account for part of the number.  (Interestingly enough, Orange, New South Wales, did not grow many oranges according to the Australian Atlas 2006! But it does have apples.)
+“Fruit” by Flickr user Garry Knight / garryknight
+The increase in mentions of both apples and oranges from the 1880s on may reflect improving living standards in Britain in that period.  Britain’s decision to adopt free trade had led to an increase in a wide variety of imported foodstuffs (Darwin, 2009).  As the heightened attention to both apples and oranges probably shows, these fruits were part of that movement.
+The “Trading Consequences” visualisations show some instructive comparisons, some that may point to different ways to conceive of trade in these resources, and others which illustrate the care with which researchers should approach results.
+References
+John Darwin, The Empire Project: The Rise and Fall of the British World-System, 1830-1970 (Cambridge: Cambridge University Press, 2009)
+James Murton, “John Bull and Sons: The Empire Marketing Board and the Creation of a British Imperial Food System” in Franca Iacovetta et al., eds., Edible Histories, Cultural Politics: Towards a Canadian Food History (Toronto: University of Toronto Press, 2012), 234-35.
+New South Wales Government, Agriculture – Fruit and Vegetables in the Atlas of New South Wales, Available from: http://www.atlas.nsw.gov.au/public/nsw/home/topic/article/agriculture-fruit-and-vegetables.html
+Posted in Environment, Historical Research, Information Visualisation, Project Updates
+|
+Tagged apples, digtrade, oranges, trading records, TradingConsequences, TradingConsequencesLaunch, visualisations
+|
+Leave a reply
+Text Mining 19th Century Place Names
+Posted on November 27, 2013
+by
+Jim Clifford
+Reply
+By Jim Clifford
+Nineteenth century place names are a major challenge for the Trading Consequences project. The Edinburgh Geoparser uses the Geonames Gazetteer to supply crucial geographic information, including the place names themselves, their longitudes and latitudes, and population data that helps the algorithms determine which “Toronto” is most likely mentioned in the text (there are a lot of Torontos). Based on the first results from our tests, the Geoparser using Geonames works remarkably well. However, it often fails for historic place names that are not in the Geonames Gazetteer. Where is “Lower Canada” or the “Republic of New Granada“? What about all of the colonies created during the Scramble for Africa, but renamed after decolonization? Some of these terms are in Geonames, while others are not: Ceylon and Oil Rivers Protectorate. Geonames also lacks many of the regional terms often used in historical documents, such as “West Africa” or “Western Canada”.
+To help reduce the number of missed place names or errors in our text mined results, we asked David Zylberberg, who did great work annotating our test samples, to help us solve many of the problems he identified. A draft of his new Gazetteer of missing 19th century place names is displayed above. Some of these are place names David found in the 150 page test sample that the prototype system missed. This includes some common OCR errors and a few longer forms of place names that are found in Geonames, which don’t totally fit within the 19th century place name gazetteer, but will still be helpful for our project. He also expanded beyond the place names he found in the annotation by identifying trends. Because our project focuses on commodities in the 19th century British world, he worked to identify abandoned mining towns in Canada and Australia. He also did a lot of work in identifying key place names in Africa, as he noticed that the system seemed to work in South Asia a lot better than it did in Africa. Finally, he worked on Eastern Europe, where many German place names changed in the aftermath of the Second World War. Unfortunately, some of these location were alternate names in Geonames and by changing the geoparser settings, we solved this problem, making David’s work on Eastern Europe and a few other locations redundant.  Nonetheless, we now have the beginnings of a database of  place names and region names missing from the standard gazetteers and we plan to publish this database in the near future and invite others to use and add to it. This work is at an early stage, so we’d be very interested to hear from others about how they’ve dealt with similar issues related to text-mining historical documents.
+Posted in Historical Research, Text Mining
+|
+Leave a reply
+Bootstrapping (for historians)
+Posted on October 29, 2013
+by
+xcolincoates
+Reply
+Disciplines have their own vocabularies, and these may sometimes appear obscure to people who peek into the new areas.  My word-processing package used to tell me that it didn’t recognise “historiography” as a word, for instance.  We historians use this word, which denotes the study of historical interpretations, rather frequently, and we normally begin our academic studies with an historiographical discussion in order to situate our analysis in the context of previous studies of similar questions.  So my computer was wrong to insist, with its dramatic red underlining, that “historiography” was not a word.  But more surprisingly, it has stopped doing so now.  Someone, and I know it wasn’t me, must have told Microsoft Word that this is a fully acceptable English-language term.  But its built-in dictionary still doesn’t know what it is.
+When we began working with computational linguists on this project, one word that really stuck out for me was “bootstrapping.”  Not surprisingly, I had never come across some words and acronyms that computational linguists use.  “OCRed data,” for instance, is one example.  But such acronyms and their usage made sense once I learned them.  Bootstrapping was somewhat different:   I knew this was an English word, so I did not mentally have to underline it in red.  The phrase “pull oneself up by one’s bootstraps” was familiar, at least grammatically, even if it does seem illogical and impossible.  And I could visualise what a bootstrap looked like.  But I didn’t fully understand how it fit into the sentences we exchanged – it was not a word, after all, that I used very often.  In contrast, computational linguists seemed to bootstrap fairly frequently, or at least their sentences did.  As an outsider, it seemed rude to ask the meaning of words that I thought I should know.
+“A bootstrap”: Photo taken by Tarquin, 2005. (shared under CC-SA via Wikipedia)
+Fortunately, Jim Clifford explained the term to me:  teaching the computer to teach itself, to pull itself up by its own bootstraps, I suppose.  The processer should recognise when a new circumstance occurs, and then apply that rule when it next encounters the same issue.  Or as the Wikipedia entry puts it:  “a self-sustaining process that proceeds without external help.”  In this context, we humans are, I guess, that external help. Bootstrapping struck me as a key component of the approach that computational linguists take to their studies.
+The importance of “bootstrapping” for this project led me to wonder if some of the people whose writings we were studying used the word.  So I decided to check the Early Canadiana On-line collection.  A simple word search turned up only one instance.  (Of course I know that such a search may have missed many references in the documents that were poorly OCRed – see how quickly I caught on!)  The one example appeared in an 1884 issue of the Canada Medical & Surgical Journal (p. 496), which reprinted an article from the Journal of the American Medical Association on the topic of a “New Form of Saddle-Crutch.”  This saddle-crutch used “boot-strap webbing” made of leather which allowed the user, in this case an over-weight man with a fractured leg, to vary the height of the crutch.
+Image of the “Saddle Crutch” – with thanks for Canadiana.org.
+There undoubtedly is an appropriate metaphor about the merits of “bootstrapping” as a way of dealing with over-sized subject material, such as the vast amounts of printed data that we are attempting to study in the Trading Consequences project.
+Posted in Project Updates
+|
+Leave a reply
+Guest Post on Commodity Histories Site
+Posted on September 11, 2013
+by
+Bea Alex
+Reply
+The Trading Consequences team have written a guest post on the new Commodity Histories website which is live as of today.
+The post describes our early prototype which we created at the beginning of this year.
+You can read the post in full here: Trading Consequences.
+Posted in Project Updates
+|
+Leave a reply
+Plant Diseases in the 19th Century
+Posted on August 7, 2013
+by
+Jim Clifford
+Reply
+A word cloud of diseases found in The Diseases of Tropical Plants by Melville Thurston Cook
+During the 19th century British industrialists and botanists searched the world for economically useful plants. They moved seeds and plants between continents and developed networks of  trade and plantations to supply British industries and consumers. This global network also spread diseases. Stuart McCook is working on the history of Coffee Rust (Hemileia Vastatrix) and there are a few books that examine the diseases that prevented Brazil from developing rubber plantations. Building on this work, we’re using the Trading Consequences text mining pipeline to try explore the wider trends of plant diseases as they spread through the trade and plantation network.
+We need a list of diseases with both the scientific and common names from the time period. The Internet Archive provides a number of text books from the end of the 19th and start of the 20th century. They were written by American botanists, but one book in particular attempts a global survey of tropical plant diseases (The Diseases of Tropical Plants). Because these books are organized in an encyclopedic fashion, it is relatively easy to have a student go through and create a list of plant disease. We’re  working on expanding our list from other sources of the next few weeks. Once the list is complete we’ll add them to our pipeline and extract relationships between mentions of these diseases, locations, dates and commodities in our corpus of 19th century documents. This should allow us to track Sooty Mould, Black Rot, Fleshy Fungi, Coffee Leaf Rust and hundreds of other diseases at points in time when they became enough of a problem to appear in our document collection.
+[This post also appread on JimClifford.ca]
+Posted in Project Updates
+|
+Leave a reply
+Presenting Trading Consequences at CHESS’13
+Posted on July 31, 2013
+by
+xutahinrichs
+1
+On June 1st, we presented the Trading Consequences project as part of CHESS’13, the Canadian History & Environment Summer School that took place in Nanaimo on Vancouver Island, Canada, from May 31-June 2, 2013.
+CHESS provided us with the unique opportunity to present our progress on Trading Consequences to a wider audience of environmental historians to gain feedback on our current prototype, and to engage in a broader discussion on our general approach of combining text mining and information visualization to support research in environmental history.
+As part of CHESS, we ran a half-day workshop. We first presented the goals of Trading Consequences and introduced the idea of leveraging computational methods (in our case, text mining and information visualization) to support history research and research in the humanities in general.
+We then introduced our current visualization prototype to the CHESS participants (all environmental historians). We explained the visualizations’ core functionalities and how the underlying document corpus can be explored along geographical, temporal, and topical (i.e., commodity terms) dimensions.
+For the rest of the workshop, historians freely interacted with the visualization prototype in groups of 2-3 people. We gave them small pointers of what to focus their exploration on. For instance, we asked them to explore the commodities “cinchona” and “cheese” and to zoom into locations that seem of interest in the context of these commodities. Explorations were always followed by brief discussions with the entire group.
+As part of their exploration, some historians immediately started to focus on Vancouver Island as the geographic location where CHESS took place, and verified the mention of commodities there that had been discussed as part of other workshop presentations. Others experimented with commodities and locations related to their own research, and from, there, tried to assess the capabilities of the visualization and underlying data.
+Workshop discussions focused mostly around 3 different themes: (1) the general functionality of the prototype and what the visualizations actually represent, (2) the underlying dataset and, closely connected to this, what kind of insights can be drawn from the visualizations, and (3) the potential of our approach in general.
+Comments about the Visualizations: The historians quickly understood the general purpose and functionality of the visualizations. The basic visualization components, the geographic map, the temporal bar chart, the commodity tag cloud, and the commodity graphs were easily understood from a high level. There was some confusion, however, about lower level details represented in the visualizations. For instance, the meaning of the size and number of clusters in the map was unclear (e.g. do they represent number of documents, number of occurrence of a particular commodity, number of commodity mentions?). Some historians tried to drill down further into the visualizations and watch changes to make sense of these questions – sometimes this strategy clarified things, sometimes it added to the confusion. We gathered all comments and suggestions regarding the visualization design and are currently working on improving the prototype. One important part will be the addition of tooltips and legends to clarify the meaning of the represenations.
+Insights Gathered from the Visualizations: A large part of the discussions focused on what kind of insights can be gathered from the visualizations and from the data set that we are generating in Trading Consequences. Some historians made a point that what the visualizations really represent is the rhetoric around commodity trading in the 19th century: what is shown is where and when a dialogue about particular commodities took place; the visualizations do not necessarily provide information about the occurrence of commodities in certain locations or amounts that were traded from one location to the other. This raises the question of how we can clarify what the visualizations represent exactly and what kind of data they are based on (e.g., by adding more elaborate legends). One perceived strength of the visualizations that was mentioned is the fact that they provide an overview of the documents from a meta-level, in at a scale that humans do not have the capacity of.
+Reactions to our Approach: The historians at CHESS were generally positive about our approach of combining text mining and visualization to help research processes in environmental history and they clearly saw the potential. There was some skepticism of how much a tool like this can actually produce profound outcomes (e.g., because of the noise in the data), and the stability and performance of the visualization prototype has to be improved to support a fluid “dialogue” with the data. Some historians appreciated the use of visualizations as a visual search engine that can help to identify relevant documents in the corpus. Others suggested to add visualizations that can help to analyze particular patterns in the data (e.g. relations between different commodity terms and how these have change over time. We are currently working on visualization prototypes that focus on this latter aspect.
+Posted in Project Updates
+|
+1 Reply
+Post navigation
+← Older posts
+Access the TC Data
+Interlinked Visualization
+Commodity Search
+Location Search
+GitHub
+Location Cloud Visualization
+Read the Trading Consequences White Paper
+Recent Tweets Tweets by @digtrade
+Recent Posts
+Mapping Supply Chains for 19th Century Leather
+Seven Tips for Using the Trading Consequences Database and Visualization Tools
+A Quick Exploration of Ten Nineteenth Century British Imports
+Official Launch of Trading Consequences!
+Comparing Apples with Oranges
+Categories
+Environment
+Events & Presentations
+Historical Research
+Information Visualisation
+Pipeline
+Project Updates
+Semantic Web
+Text Mining
+Recent Comments#EnvHist Worth Reading: March 2014 on Official Launch of Trading Consequences!Sean Kheraj, Canadian History and Environment - #EnvHist Worth Reading: March 2014 on Official Launch of Trading Consequences!Official Launch of Trading Consequences! | Trad... on Official Launch of Trading Consequences!Announcement: Trading Consequences: Database and Visualisations Launched | Digital Humanities Now on TeamTrading Consequences’ Maiden Voyage | NiCHE on Access the Data
+Trading Consequences is a collaborative project between York University, Canada, the University of Edinburgh, UK, the University of St Andrews, UK and the University of Saskatchewan.
+The project is part of the Digging Into Data programme supported by
+the Arts & Humanities Research Council (AHRC), the Economic & Social Research Council (ESRC), Institute of Museum and Library Services (IMLS), JISC, National Endowment for the Humanities (NEH), National Science Foundation (NSF), Netherlands Organisation for Scientific Research (NWO), and the Social Sciences and Humanities Research Council (SSHRC).
+The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336. The University of St Andrews is a charity registered in Scotland, No SC013532.
+For information on the use of cookies on this site please see the EDINA Privacy and Cookies Policy.
+Proudly powered by WordPress

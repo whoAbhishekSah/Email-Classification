@@ -1,0 +1,66 @@
+Main Page - Tbmap (The University of Manchester)
+| Skip to main content | Skip to navigation | Skip to Search |
+[University home]
+Quicklinks
+Choose a Quick Link
+Log in / create account
+Search
+Time-based Media Application Profile
+Project Information
+Main Page
+Project Outputs
+Consultation Materials
+Use Approaches
+Reference Sources
+Related Profile Work
+Dissemination
+People
+Toolbox
+What links here
+Related changes
+Upload file
+Special pages
+Printable version Permanent link
+Main Page
+From Tbmap
+Article
+Discussion
+View source
+History
+Project Outputs * Dissemination * People *
+Time-based Media Application Profile to Support Search & Discovery
+(TBM-AP)
+Contents
+1 Welcome to TBM-AP
+2 Aims & Objectives
+3 Project Approach
+4 Project Materials
+Welcome to TBM-AP
+This project has scoped the area of Time-Based Media (TBM) in tertiary education to produce an prototype exemplar Application Profile (AP) to support search, discovery and re-use of TBM material in this domain. The boundaries of this particular build are outlined in a Purpose Statement to allow the project to constrain the work to manageable levels. This recognises the relationship between the defined scope of the prototype and wider use of TBM across tertiary education and the other sectors that impact on its use. This work is part of a wider group of developments to support Application Profile developments for different types of resource (see Related Profile Work).
+Aims & Objectives
+Determine the nature of TBM and its users in the context of the HE sector
+Define TBM for the purposes of development of an application profile to support Search and Discovery
+Determine the practicality and definition of an optimum solution to improve consensus, sustainability and take-up of project deliverables
+Develop an application profile with associated guidelines
+Project Approach
+The development is situated against examples of known approaches and uses of TBM within and applicable to tertiary education, with some understanding of the impact of related commercial and other industries that affect the role of TBM.
+In addition to producing a technical specification, the programme of work attempts to develop some understanding of what constraints may exist around building consensus and acceptance for the profile.
+The project takes the view that it is unlikely that a single ‘community’ can be defined. It is better to understand more about the many different types of uses and activities around TBM that people want to carry out and use these to provide a set of use cases that cover as comprehensive a scenario range as can reasonably be worked with in a project of this size. The project has sought structured input from domain experts related to TBM, Resource Search & Location, and Repositories to support this approach.
+It is recognised that a lightweight AP is preferable, and it is hoped that identification of the most common requirements and use examples for the media type have provided a relevant initial core set of metadata, and which should remain compatible with other Dublin Core Application Profiles (including those designed to serve specialist user groups). The Search & Discovery requirements on which the profile is based are modeled with FRBR. The profile itself refers to Dublin Core Abstract Model and is based on the Singapore Framework.
+Project Materials
+The initial form of deliverables specified by JISC for the TBM-AP follow the e-prints or SWAP model for bibliographic material:
+Functional Requirements
+Application Model
+Application Profile
+Community Acceptance Plan
+Encoding format and guidelines (potentially)
+Final Report
+More detail on these Project Outputs is provided to support progress of the project and on completion to serve as an access point for the deliverables created.
+Project Outputs * Dissemination * People *
+Retrieved from "http://wiki.manchester.ac.uk/tbmap/index.php/Main_Page"
+|  This page was last modified 22:23, 29 October 2009. | This page has been accessed 37,719 times. |
+Back to menus
+| Disclaimer | Privacy | Copyright notice | Accessibility | Freedom of information |
+Time-based Media Application Profile, The University of Manchester, PO Box 88, Manchester, UK, M60 1QD | Contact details | Feedback
+| Skip to main content | Skip to navigation | Skip to Search |
+This website will look much better in a web browser that supports web standards, but it is accessible to any browser or Internet device.

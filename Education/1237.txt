@@ -1,0 +1,218 @@
+Shuffl project announcements
+skip to main
+|
+skip to sidebar
+Shuffl project announcements
+This journal is used for progress and other announcements relating to the Shuffl project, as part of the required reporting structures.
+The project coordinator is Graham Klyne.
+Blog content is licensed under the Creative Commons attribution-sharealike-nonprofit license.
+Saturday, 24 July 2010
+JSON for linked data - migrating to RDF
+Shuffl [1] is the tool we're planning to use to annotate ADMIRAL [9] datasets and submissions.  For ease of implementation Shuffl was initially written to use JSON data formats for persisting data.  It was always my intention that Shuffl should use RDF, and I've recently being working through some of the changes required to support this for ADMIRAL.
+Recently, my attention was drawn to a blog post [2] by Sandro Hawke [8] titled From JSON to RDF in Six Easy Steps with JRON, which starts out with the observation "Sometimes, if you stand in the right place and squint, JSON and RDF line up perfectly". It goes on to describe a strategy for representing RDF in JSON that aims to retain the convenience of JSON while being capable of representing full gamut of valid RDF.  It happens that the format described is fundamentally similar to the format I've been using to serialize Shuffl data.  This leads me to consider that JRON could be a great way to make RDF programmer-friendly, and provide a migration path for all the web applications that offer and consume JSON data serialization to participate in the web of linked data.
+I've also been experimenting with Jeni Tennison's rdfquery [3] plugin for jQuery [4]. This was a natural choice for use with Shuffl, which is also extensively based on jQuery. It turns out that rdfquery is a gem of a library that seems to be not widely used.  It cleverly manages to bridge the conceptual gap between jQuery-style document access and SPARQL-style dataset queries.
+My most recent development has been to implement a JRON-to-rdfquery mapping [5][6][7] as a jQuery plugin.  The implementation is mostly-complete with respect to the JRON specification [2] - for more details of its status see [6].  In the process of creating this implementation, a couple of issues have been raised concerning the design of JRON:
+representing RDF statements about multiple "root" subjects, and
+handling "bare" URIs when a default (i.e. blank) prefix is defined
+The first of these is not yet resolved, though I'm in discussion with Sandro.  I've resolved the second by introducing an N3-like option to wrap full URIs in angle brackets.
+So How does this relate to migrating a JSON application? My migration plan for Shuffl, as of late July 2010 is in two phases, the first of which is essentially a fairly complex refactoring:
+create a plugin framework for Shuffl to use alternative data serialization formats (done).
+create a plugin to support the current JSON serialization (done)
+modify Shuffl to use the plugin framework (not done)
+The second phase introduces the new RDF-related functionality into Shuffl:
+implement a mapping between JRON [2] and rdfquery databank [3] (done)
+modify Shuffl to use a JRON-compatible JSON format (not done)
+implement a serialization plugin to map Shuffl/JRON to RDF, via an rdfquery databank (not done)
+at which point, Shuffl should be capable of reading and writing both JRON and RDF/XML
+My original plan was to use this approach to convert Shuffl to using mainly RDF, but looking back I can see some attraction in promoting JRON as a first-class citizen in the linked data world.  Compared with RDF, it's really easy to read and write for common data objects.  The existence of relatively simple syntax-transformation software to map between JRON and "proper" RDF shows that interoperability need not be hard to achieve  (my implementation took about 3-4 days, and much of that was building up the test suite). And a format for RDF that is close to "native" JSON means that it is much easier to write simple browser mashup-style applications that can consume and do cool things with this data.
+[1] http://code.google.com/p/shuffl/
+[2] http://decentralyze.com/2010/06/04/from-json-to-rdf-in-six-easy-steps-with-jron/
+[3] http://code.google.com/p/rdfquery/
+[4] http://jquery.com/
+[5] http://code.google.com/p/shuffl/wiki/JRON_implementation_notes (early design notes)
+[6] http://code.google.com/p/shuffl/source/browse/trunk/docs/JRON-for-rdfquery-implementation-notes.txt (post-implementation notes)
+[7] http://code.google.com/p/shuffl/source/browse/trunk/src/rdfquery.jron.js (jQuery plugin source)
+http://code.google.com/p/shuffl/source/browse/trunk/src/test/test-rdfquery.jron.js (test suite)
+http://code.google.com/p/shuffl/source/browse/trunk/static/test/test-rdfquery.jron.html
+(test runner - references some other files from http://code.google.com/p/shuffl/source/browse/)
+[8] http://www.w3.org/People/Sandro/
+[9] http://imageweb.zoo.ox.ac.uk/wiki/index.php/ADMIRAL
+Posted by
+GK
+at
+00:54
+No comments:
+Links to this post
+Labels:
+ADMIRAL,
+JISC,
+JISCMRD,
+JISCRI,
+jQuery,
+jron,
+json,
+progressPosts,
+rapidInnovation,
+rdfquery,
+shuffl,
+technicalDevelopment,
+techStandards
+Thursday, 17 June 2010
+Project partners meeting - 17-Jun-2010 (moved)
+This note should have been posted to the ADMIRAL project blog.  In the spirit of "cool URIs" I'm leaving this stub here, and have copied the original text here [1].
+[1] http://admiral-announce.blogspot.com/2010/07/project-partners-meeting-17-jun-2010.html
+Posted by
+GK
+at
+07:34
+No comments:
+Links to this post
+Labels:
+ADMIRAL,
+JISC,
+JISCMRD,
+progressPosts
+Wednesday, 9 June 2010
+File browsing interfaces working
+The previous post hinted at a more usable interface for file selection for selecting workspace and data files.
+The additional work has now been completed to provide a point-and-click style interface when opening files - as when opening a new workspace or loading a data file into a worksheet data card - when the underlying storage is accessed using webDAV.  I feel this is an important step forward for Shuffl, and paves the way for building some properly usable applications on the underlying framework.
+There do remain some usability problems that need to be resolved, such as improved diagnostics in the face of I/O errors, providing some mechanism to remove cards from a workspace, and improving the back-end storage handler configuration, but these are relatively modest developments compared with the file-browsing capabilities.
+For testing, I have been using XAMPP with mod_dav enabled.  A relatively modest subset of DAV capabilities is being used.
+Posted by
+GK
+at
+14:23
+No comments:
+Links to this post
+Labels:
+JISC,
+JISCRI,
+progressPosts,
+rapidInnovation,
+shuffl,
+WIN
+Wednesday, 28 April 2010
+Shuffl WebDAV test cases all running (WIN)
+We have successfully implemented a WebDAV storage module for Shuffl that supports all storage interface functions, including listing the contents of a collection.This paves the way for a more user-friedly interface for loading and saving workspaces.
+Posted by
+GK
+at
+09:47
+No comments:
+Links to this post
+Labels:
+JISC,
+JISCRI,
+progressPosts,
+rapidInnovation,
+shuffl,
+WIN
+Tuesday, 1 December 2009
+Sustaining Shuffl: the view ahead
+Sustainability and related mattersThis posting constitutes my reflections at the end of the Shuffl JISCRI project about matters relating to open source sustainability and near-term future development plans.Sustainability plan updatedThe sustainability plan at http://code.google.com/p/shuffl/wiki/OpenSourceSustainabilityPlan has been updated to reflect my views on the sustainability issues having reached the end of the project.
+This is not a fully-fledged, long-term sustainability plan, but I think it does indicate a direction of travel, and I feel this covers as much detail as is meaningful at this stage.Due to funding of the ADMIRAL project (http://imageweb.zoo.ox.ac.uk/wiki/index.php/ADMIRAL), a level of continuing Shuffl development is expected to continue until 2011, during which time we intend to flesh out some of the functionality and focus more on the original goals of data curation.CLA adoptedAn Individual Contributor Licence Agreement, based on one approved by Oxford University for the Simal project, has been adopted for Shuffl: http://code.google.com/p/shuffl/wiki/Individual_Contributor_License_Agreement.At some stage, we may wish to consider reviewing this if responsibility for actually publishing the software is transferred to an organization or person other than University of Oxford.Changing requirementsDuring the course of this Rapid Innovation project, the requirements focus has shifted from data acquisition and curation to data visualization, in response to comments from a potential research user.
+This has seemed the right thing to do for a number of reasons, mainly to do with maximizing the potential for early user engagement, but it has meant that some of the original headline goals have been sidelined.I have also not yet made direct contact with other research users, to gather their (possibly different) view of requirements.
+Jun Zhao and I have arranged to visit Helen White-Cooper in the very near future to resume our discussions with her about data habdling requirements and tools, at which time I plan to demonstrate Shuffl, and discuss with her the possibilities for an image annotation version, and other possible applications.In its current state, Shuffl does appear to be a solid base for development of new functionality, with many (though not all) of the fundamental architectural features having been tested and stabilized.Active deployment and ADMIRAL environmentAs noted above, it is our intention that development the data curation aspects of Shuffl will be intensified for the ADMIRAL project, as a number of the work packages have been based on developments of Shuffl.To this end, we will continue to work with Chris Holland, as well as other researchers, to create a deployed system including Shuffl that they will use on a day-to-day basis.For ADMIRAL, we have the advantage that we will be creating an infrastructure service that can be enhanced with features we can use to overcome some of the usability limitations of the current browser-only version of Shuffl.
+For example, we will be able to provide an HTTP request proxy service so that data can be read from and written to servers other than the one from which the Shuffl application has been loaded.
+We can also tailor the storage services to better support file browsing for locating data files and Shuffl workspaces.
+We can also look to host useful data visualization and handling services,Not YAAS (Yet Another Application Server)?It has been noted on the Shuffl discussion list that some of the data visualization work, and the porting of a FlyWeb widget, might be seen as creating just another application server running in the browser.
+Such a direction could leave behind some more distinctive aspects of the original Shuffl concept, and end up reinventing facilities that are provided by other developments such as W3C widgets served by a Wookie widget server.
+Scott Wilson implemented an early proof-of-concept of a Wookie widget running in a Shuffl card, an idea that has so far not been followed through.
+One reason for this was a reluctance to get involved in implememting specialized server-side support as part of the original Shuffl project.With the ADMIRAL project, we can review the option of using a Wookie server as part of the data sharing infrastructure to serve up standard data visualization widgets, rather than re-implementing them as Shuffl cards.
+We would need to understand enough about the Wookie API to hook it into the model API used by Shuffl to link information across cards.
+In this way, we may be able to reap the advantages of data visualization for user engagement without having to put effort into implementing them.
+Posted by
+GK
+at
+08:05
+No comments:
+Links to this post
+Labels:
+endUser,
+JISC,
+JISCRI,
+opensource,
+progressPosts,
+rapidInnovation,
+shuffl,
+sustainability,
+userCase
+Monday, 30 November 2009
+Shuffl sprint 8 - progress review
+The updated sprint plan is at http://code.google.com/p/shuffl/wiki/SprintPlan_8.This was the final sprint, so effort was largely directed mainly towards leaving the project in a clean state for further work.The demonstration application running from Google Code SVN has been enhanced to represent the current state of development, and the underlying framework has been significantly improved and stabilized. While the delivered functionality is less than had been intended, the project is in fairly good shape for ongoing development as part of the Shuffl project, and the basic ideas have been somewhat vindicated.I did not make time to install a copy of the system for Chris Holland, but still hope to do this soon.
+We will be continuing to work with Chris in the ADMIRAL project.See also the final progress report at http://code.google.com/p/shuffl/wiki/20091130_JISCRI_ProjectFinalProgressReport.
+Posted by
+GK
+at
+15:10
+No comments:
+Links to this post
+Labels:
+JISC,
+JISCRI,
+progressPosts,
+rapidInnovation,
+shuffl
+Shuffl final progress report
+The final progress report for the Shuffl JISCRI project has been published in the project wiki, at
+20091130_JISCRI_ProjectFinalProgressReport.
+Posted by
+GK
+at
+08:16
+No comments:
+Links to this post
+Labels:
+demonstrator,
+finalProgressPost,
+JISC,
+JISCRI,
+output,
+product,
+progressPosts,
+prototype,
+rapidInnovation,
+shuffl
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+Followers
+Blog Archive
+▼
+2010
+(4)
+▼
+July
+(1)
+JSON for linked data - migrating to RDF
+►
+June
+(2)
+►
+April
+(1)
+►
+2009
+(37)
+►
+December
+(1)
+►
+November
+(7)
+►
+October
+(9)
+►
+September
+(9)
+►
+August
+(7)
+►
+July
+(4)
+About Me
+GK
+View my complete profile

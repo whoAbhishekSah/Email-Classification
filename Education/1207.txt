@@ -1,0 +1,64 @@
+Archaeology Data Service:
+Research
+SEARCH
+LOGIN
+HOME
+ARCHSEARCH
+ARCHIVES
+DEPOSIT
+LEARNING
+ADVICE
+RESEARCH
+ABOUT US
+BLOG
+SWORD-ARM:
+SWORD & Archaeological Research data Management
+For the latest details and project news, the ADS also maintain a
+project blog
+A SWORD-ARM PowerPoint presentation from the MRD meeting in Nottingham October 2012 is
+available here
+A SWORD-ARM power presentation about Benefits and Evidence from the project given at a JISC workshop in Bristol November 2012 is
+available here
+The Archaeology Data Service (ADS) is the mandated repository for archaeological digital research data funded by the AHRC, NERC and other non-HE bodies. In SWORD-ARM we will work with a number of HE institutions to refine and enhance ADS’s ingest and charging process by creating a SWORD client to streamline and automate deposit. This will strengthen the ADS data management systems and business infrastructure, and deliver real benefits to depositors in terms of their ability to deposit data, create and validate metadata, engage in selection and retention, manage multiple deposits and, crucially, to manage cost estimate and charging processes. SWORD-ARM therefore represents an enhancement to ADS’s role as a discipline-based repository, and an embedding of our role in a number of HE institutions. SWORD-ARM will significantly improve the ability of ADS to handle increasing volumes of data and to charge directly for deposit. It will improve the service offered to our depositors in terms of cost transparency, ease of use and speed of deposit.
+Objectives
+The project will build upon the SWORD protocol to provide a set of modules which will:
+Allow users to upload files to the ADS repository;
+Link files to associated metadata from the OASIS online recording form for fieldwork projects;
+Allow users to add additional metadata for non-fieldwork projects;
+Semi-automate the accessioning of files and associated metadata within the ADS' Collections Management System, streamlining the OAIS process;
+Allow users to set up and manage ‘accounts’, create sample costings to inform selection and retention strategies, and provide for the semi-automated billing of deposit charges.
+Anticipated Outputs and Outcomes
+Extend the use of the SWORD protocol;
+Allow the ADS to enhance its data management structures, semi-automating metadata capture, file upload, and account management;
+Provide an exemplar of the integration of a charging module within data management infrastructures;
+Help researchers to deposit their research data;
+Provide case studies from four UK HE institutions for deposit in a repository using the SWORD client, and a report on the partner institution’s policy for data deposit;
+Embed the outputs within a preservation infrastructure and facilitate the policy objectives of research councils and non HE public bodies to enable project-based charging and deposit.
+Output and Outcomes
+This project planned to enhance and extend the existing research data management infrastructure of the Archaeology Data Service (ADS) within the archaeological community at national level. It hoped to build upon the SWORD protocol to provide a set of modules which would :
+Allow users to upload files to the ADS repository;
+Link files to associated metadata from the OASIS online recording form for fieldwork projects;
+Allow users to add additional metadata for non-fieldwork projects;
+Semi-automate the accessioning of files and associated metadata within the ADS Collections Management System, streamlining the OAIS process;
+Allow users to set up and manage ‘accounts’, create sample costings to inform selection and retention strategies, and provide for the semi-automated billing of deposit charges.
+Output or Outcome type
+Description
+Software and system
+We have created an online system for the upload of small to medium sized archaeological archives. It can be seen at
+http://archaeologydataservice.ac.uk/easy/
+Blog posts
+Blog post have been written at important stages of the project, they can be seen at http://archaeologydataservice.ac.uk/blog/sword-arm/
+Publications
+Moore, R; C Hardman; J Richards and L Xia forthcoming 'ADS easy: an automated e-archiving system for Archaeology'. In CAA 2012: Proceedings of the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (CAA), Southampton, England. G Earl, et. al (eds.). Amsterdam University Press (forthcoming)
+Conference Attendance
+Members of the SWORD-ARM project were amongst ADS staff who attended the Institute for Archaeologists (IfA) annual conference at the Aston Conference Centre in Birmingham in April. We had the opportunity to display our new poster on the ADS stand and talk to many of the delegates about the plans to roll out the ADS-easy system to the community in June 2013. We were also able to incorporate information about the system, and how it will work, in to a specific IfA training workshop on digital archiving. Initial feedback from those at the training workshop was really positive; but interestingly the attendees quickly identified that the requirement for archiving should ideally be enforced through either the planning brief or museum deposition requirements.We have also more recently attended the Computing Applications in Archaeology Conference in Paris (April 2014)
+Save Resource
+Please login or register a myADS account to use this feature.
+Share This Page
+Please login or register a myADS account to use this feature.
+Newsfeeds
+ADS Newsfeed
+Help
+Website
+Email Us
+University of York legal statements | ADS terms of use and access | Cookies

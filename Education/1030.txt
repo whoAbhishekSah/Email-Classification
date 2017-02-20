@@ -1,0 +1,51 @@
+MPLAT: mobile learning support tools
+Home
+Overview
+Project Journal
+Presentations
+Publications
+People
+Contact
+Links
+Blog
+Project Info:
+Start Date:31/10/2006
+End Date:
+Funded By:JISC
+Updates:
+31/10/2006
+MPLAT website launched
+University of Southampton >
+ECS >
+MPLAT >
+Home
+Welcome to the Mobile Learning Support Tools Project Website
+Students of the health care professions generally undertake a number of clinical placements during their
+training. Whilst they are in practice a clinical practitioner will assess the student’s competence against a
+set of learning outcomes and give ongoing feedback to the student. Due to the workload of the
+supervising practitioner, the assessment processes can be fragile, which in turn can impinge on the
+students’ learning. At the same time students in practice are away from their usual learning environment,
+and it can be difficult for them to access their learning resources at the time that they discover the need.
+The principle, upon which this project is based, is that practice based learning and in particular the
+mentoring process, would be improved if the student and mentor had access to tools which allowed on
+the spot on-line entry of results of assessments, such that feedback would be immediate, and thus followup
+actions could be decided instantly.
+This project aims to provide a mobile learning toolkit to support practice based learning, mentoring and
+assessment. This toolkit will provide an interface so that course leader can specify, in a flexible manner,
+the learning outcomes to be met, the method of assessment (including the form of the result, how it will
+be recorded, and by whom), the timing of the assessment(s) and the feedback to be given in response to
+the results, suitable learning resources to support these learning outcomes, and the actions to be taken
+when assessments are not completed in a timely manner. Such a toolkit could be used on a variety of
+programmes, both HE and FE, and in clinical and non-clinical contexts, where work place assessment is
+an integral part of the course.
+The toolkit will enable deployment of the mentor’s assessment interface on a number of platforms,
+ranging from PC’s through to PDAs and Smartphones and will also provide tools such as RSS feeds to
+simplify distribution of the learning resources. The project will contribute to the JISC community by
+adding mobile assessment tools to the E-framework.
+The consortium is a well-connected group. The Computer Scientists who will provide the toolkit have
+previously worked together within the JISC Reference Model projects. Within both TVU and
+Southampton the Computer Scientists have previously worked with their Nursing and Healthcare
+departments. Southampton and TVU both have recently been placed in the same NHS area, and the
+Bournemouth and Poole College is an established FE partner for Southampton University.
+The following scenario, taken from Nursing, illustrates the problems and the need for such a toolkit.
+Contact Us | ©2006 University of Southampton

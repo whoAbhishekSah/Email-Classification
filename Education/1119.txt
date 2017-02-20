@@ -1,0 +1,53 @@
+RepoMMan home page
+RepoMMan
+Text Only
+Site Map
+Home
+Conferences
+Documents
+Links
+Project aims
+Home
+The RepoMMan project
+The Repository Metadata and Management project (RepoMMan) is a project under the auspices of the Joint Information Systems Committee 'Digital Repositories' Programme.
+The aims of the project are described in the 'Project aims' area of this site and a full copy of the RepoMMan proposal and the subsequent Project Plan, in which the work packages have been slightly modified, are available in the 'Documents' section.
+News
+The RepoMMan Project (12/11/07) The RepoMMan Project completed at the end of September 2007.  All the public documents are now available from our 'documents' page.  The code for the RepoMMan tool is available to others under licence.  Because it will need to depend on local Web Services orchestrated by a BPEL engine this cannot be a simple install.  You may be interested in the code for the Flex interface, the Web Services we have deployed, the BPEL orchestrations, or any comination of these.  Please contact us if you want access to our code and, potentially, advice on deployment.
+RepoMMan extension (05/07) The RepoMMan Project has been granted an extension to the end of September 2007.  This extra few months should allow us to complete a number of tasks which were severely delayed by unforseen 'challenges' and which would otherwise have been unfinished.
+The REMAP Project (21/03/07) The RepoMMan team is pleased to announce a successful bid to the JISC for a two-year project to be called REMAP which will run from April 2007. REMAP will build on the work of RepoMMan to look at records management and preservation in a repository context, using BPEL and (eg) RSS to support long-term interaction between users and the documents in a repository. See http://www.hull.ac.uk/remap
+R-D14 RepoMMan Full User Needs Analysis (21/03/07) The full RepoMMan User Needs Analysis report is now available in the 'documents' section of this website.
+D-D4 Development of Fedora materials (28/02/07) We have today 'drawn a line under' our document about developing Fedora materials. This has been available for some time in draft and we have now promoted the document to version 1.0 incorporating some minor amendments. The 50+ page report describes in detail the process of creating useful objects in a Fedora repository. It was written for Fedora release 2.1(.1) but remains largely valid for the latest release, 2.2. It is available from the documents section of this site.
+Open Repositories 2007 (15/02/07) We have added into the 'Conferences' section of this site the poster on 'Repositories as infrastructure' that was presented at OR07.
+JISC Workflows Meeting (15/02/07) The PowerPoint given by Richard Green at the JISC Workflows Activity and Implementation Meeting at Aston on 13/2/07 is available in the 'Conferences' section of this site.
+New deliverables (09/02/07) Two new deliverables have been posted on the 'documents' page of this site.  R-D12 Teaching & Learning and Administrator user needs analysis, and D-D11 Accessing user profile data.
+Open Repositories 2007, San Antonio, Texas (31/01/07) RepoMMan presented in the Fedora strand of this conference where our work received considerable, favourable comment. The PowerPoint presentation is in the 'Conferences' section of the site.
+Coming soon (17/01/07) Over the last two months we have been interviewing potential users from the learning & teaching and administrative communities. A summary report of these interviews, containing a number of new usage scenarios, will be available at the end of the month. At the end of the month, too, we will post our materials from the Open Repositories 2007 conference in San Antonio, Texas, where we are giving a presentation and poster sessions.
+Open Scholarship 2006 (24/10/2006) Chris Awre stood in for Richard Green at short notice (thanks, Chris!) to deliver a presentation 'The Repository as SOA infrastructure' in Glasgow. The powerpoint presentation is in the 'conferences' section of this site.
+Doing research - the diagram (08/09/06) A number of people have asked for a copy of the flowchart diagram 'doing research' which appeared in one of our earlier deliverables. It is now available in the 'documents' section of the site as R-D4a in the 'major deliverables' section.
+Second Management Report (09/08/06) The project's second Management Report is now available in the 'documents' area of the site.
+First Year's Experience with Fedora (09/08/06) Document D-D8 detailing the project's first year experience working with Fedora is now available in the 'documents' area of the site.
+BPEL deployment notes released (29/06/06) Document D-D2 detailing our deployment of BPEL tools and the BPEL engine is now available in the 'documents' section of the site.
+Fedora Users Conference, University of Virginia (29/06/06) The two Powerpoint presentations given at the Fedora Users Conference (18-19 June 2006) in the US are now available in the 'Conferences' section.
+Getting going with Fedora (22/04/06) An updated version of our ongoing beginners' guide has been published (version 0.21). This latest version now includes help with Fedora XACML security features. The document 'D-D4 Iterative development of Fedora Materials' is available in the 'Documents' section.
+Presentation from JISC meeting (29/03/06) The PowerPoint presentation on 'Personal Resource Management Strategies' given at the JISC meeting in Warwick, UK, on 27th March is now available on our 'Conferences' page.
+Revised survey report (03/03/06) A version 1.1 of document R-D3 (research survey data) has been published in the 'Documents' section of the site. This contains a small number of minor revisions.
+Getting going with Fedora (14/02/06) The draft of an ongoing document 'D-D4 Iterative development of Fedora Materials' detailing our experiences 'getting going' with Fedora is available in the 'Documents' section. This is a work in progress and will be updated as we go along. It is offered at this early stage to other Fedora newcomers in the hope that it might help them avoid some of the pitfalls that, in our ignorance, we found. The draft document is posted as-is with no support or warranty!
+Project Report June 2005- January 2006 (14/02/06) The management report covering the first six months of the project's work is now available in our 'Documents' section.
+Researcher interviews (23/1/06) A version 1.1 of our document 'R-D4 Report on research user requirement interviews' is available in our 'Documents' section. The revision incorporates the results of an extra interview undertaken with two medical researchers.
+Fedora workflow group (24/11/05) The RepoMMan team has accepted an invitation to be part of the Fedora workgroup developing a workflow element for their repository system.
+BPEL authoring tool (17/11/05) Report D-D3 detailing our initial experiences with a BPEL authoring tool is available in the 'Documents' section of this site. It explains the use of the Active Endpoints tool by means of a specific worked example.
+On-line research user survey (14/11/05) Our on-line survey is now closed and we are processing the returns. The analysis of our findings should be available by early December. The criteria for the survey are available in document R-D1 in the 'Documents' section of this site.
+Researcher interviews (14/11/05) Initial interviews with research practitioners at the University have taken place; as well as contributing to a collection of case studies, these interviews helped inform an on-line survey which ran from the beginning of October to mid-November. 'R-D4 Report on research user requirement interviews' is available in our 'Documents' section as is a document R-D2 setting out the criteria for the interviews.
+Digital Asset Management with Fedora (24/10/05) RepoMMan contributed to the very useful conference "Digital Asset Management with Fedora" held at the National Library of Wales on 24 October 2005. The abstract and PowerPoint presentation are available in the 'conferences' area of this site.
+Available BPEL runtime environments (09/05) Our literature review 'D-D1 Available BPEL runtime environments, evaluation criteria and evaluation results' is available in the 'Documents' section of this site together with an accompanying spreadsheet of data.
+Further informationFor further information regarding RepoMMan please revisit this site from time to time or contact the Project Manager via e-mail: r.green@hull.ac.uk
+Contact details
+Project Director:
+Ian Dolphin
+Project Manager:
+Richard Green
+e-Services Integration GroupAcademic ServicesBrynmor Jones LibraryThe University of HullCottingham RoadHull
+HU6 7RXUK
+e-mail:
+r.green@hull.ac.uk
+Powered By HyperContent

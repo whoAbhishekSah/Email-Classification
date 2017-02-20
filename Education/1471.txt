@@ -1,0 +1,193 @@
+EASiHE | ECS | University of Southampton
+Home
+Background
+Team
+Contact
+Links
+Blog
+Wiki
+University of Southampton > ECS > EASiHE
+E-Assessment in Higher Education
+A number of technical and policy issues
+are of concern within the University around e-assessment,
+including
+an increasing need for
+interoperability;
+migration from legacy systems;
+quality assurance through item and
+test statistics;
+AER (additional educational
+requirements) and accessibility issues;
+provision of mathematical notation
+in science and engineering questions; and, most importantly,
+student and staff engagement with
+the relevant technologies (such as Web 2.0 and mobile
+devices) and services.
+EASiHE is a JISC and University of Southampton funded project and is run by the University of Southampton School of Electronics and Computer Science and iSolutions. EASiHE has been funded to
+accelerate the process of both implementing an open source,
+service based solution to institutional e-assessment; and
+addressing institutional change by engaging academics and
+students in co-design and co-deployment. In line with the
+recently introduced University e-Learning Enhancement Strategy,
+which places the quality of student learning as its first
+objective, the EASiHE project has provided an open source
+solution for formative assessment by integrating services
+available within the JISC eFramework.
+The project has:
+taken the JISC-funded EdSpace
+repository and elements of the Faroes project to provide
+‘Web 2.0’ content and services to users;
+incorporated the IMS Question and
+Test Interoperability (QTI) standard by integrating the QTIEngine
+assessment delivery engine, and providing QTI migration services sourced from
+the ‘MCQFM’ project;
+ensured the system is informed by
+the LexDis project for accessibility;
+drawn from relevant lessons from the
+mPLAT and Remora projects in providing for mobile
+learning and assessment; and
+incorporated a relatively
+underutilised and ‘new’ form of assessment, peer assessment,
+based upon the PeerPigeon project.
+The following are now available:
+An open source e-assessment repository
+Services for the contribution and migration of assessment questions, tests, and peer assessments
+Services for the delivery of tests and peer assessments
+Documentation supporting the pedagogical design of e-assessments at higher levels of Bloom’s taxonomy
+Dissemination material for the wider sector dealing with institutional change using the processes of co-design and co-deployment
+The rest of this page provides project overview documents and then describes items (1) to (5) in more detail.
+Note about webpage passwords
+Please note that a small number of the webpages that can be accessed via the links below require a login. To request a login please e-mail Lester Gilbert at lg3@ecs.soton.ac.uk.
+EASiHE Project Overview Documents
+The following documents are available:
+The EASiHE Project Final Report
+The EASiHe Project Plan
+The EASiHE Case study details document which includes an overview of how the EASiHE software (i.e. items 1 to 3 in the list above) was used in the EASiHE case studies. Part 2 of this document includes, for each case study, links for more information. These links include links to the EASiHE archive, which includes aprox 1GB of screencasts and screenshots of the final EASiHE software system and eAssessments. (And also many screencasts taken on a weekly basis during the co-design process to record the development iterations.)
+The overview, software, case studies and reports EASiHE posters presented at the JISC Innovation Exchange 28-28 January 2010. (We also presented information about our workshops - see section 4 below.)
+For overviews of EASiHE the slides from the following talks may also be of interest. The
+seminar on EASiHE given at the University of Warwick in February 2010
+; and the
+talk given to the University of Southampton HE Research Group in January 2010.
+Trying out the EASiHE eAssessment platform
+For good starting points that can be used with only a web browser see the bottom of this page.
+1. An open source e-assessment
+repository
+This includes:
+Edshare.
+A resource for collaboration and sharing of materials used in teaching and learning. Using Edshare you can: organise your learning materials into collections and groups according to their subject matter; share your learning materials with other users of the EdShare system; and collaborate by working together to produce new and exciting learning materials. Edshare was created as part of other JISC projects, and more information is available on the Edshare homepage. For more information see http://www.edshare.soton.ac.uk/.
+QTIBox.
+A plugin for Edshare which allows QTI content to be previewed from the repository view.
+For technical information see
+The QTIBox homepage at QTI Tools. For an example of how QTIBox can be used see the 'Bournmouth and Poole College eAssessment Repository' below.
+Bournmouth and Poole College eAssessment Repository.
+An example installation of an eAssessment repository using Edshare and QTIBox. For overview information see section 3.1, page 15 of the EASiHE Case study details document.
+2. Services for the contribution and
+migration of assessment questions, tests, and peer
+assessments
+This includes:
+Eqiat (and Question Bank).
+A QTI editor. This is short for "Easy QTI Item Authoring Tool". It's written in PHP and is a web based QTI authoring tool with the focus on simplifying item authoring. It's very much a "fill in the blanks" approach, sacrificing flexibility for ease of use. Further, the user does not need to have a detailed understanding of the QTI specification It internally calls Validate to validate the QTI it produces.
+For more information see: section 3.2, page 16 of the EASiHE Case study details document for an overview; The Eqiat homepage at QTI Tools for technical information; and also the Example screenshots.
+You can use Eqiat running on the demo server and read the The Eqiat tutorial (pdf version)or (word version)
+Mobile authoring tool.
+An editor to author QTI items for mobiles, with a focus on Android mobiles. More information is available on the ECS mobile QTI sourceforge page. For more information see: section 3.3, page 19 of the EASiHE Case study details document for an overview; The sourceforge homepage for technical information; and the Example screenshots.
+Extended PeerPigeon.
+This provides a tool to deal with peer review (or peer assessment), in particular the process of moving resources between peers according to a Peer Review Plan. This includes a working Peer Review infrastructure, implemented in Ruby, that uses a Ruby script to manage the logic of the peer review process. More information is available on the PeerPigeon homepage and The PeerPigeon page on the EASiHE Wiki. PeerPigeon was created as part of a previous JISC project, and extended during EASiHE.
+Validate.
+A small JQTI-based command line utility which validates QTI items, giving any errors or warnings as output. It is used inside Eqiat.
+Documentation, source and bug tracker are on Validate's Github page accessed via the Validate QTI tools homepage.
+3. Services for the delivery of tests
+and peer assessments
+This includes the following. To help get you started we note that a user new to these services might start by using QTIEngine to deliver (i.e. play) QTI e-Assessments; Android QTI Playr to deliver e-Assessments on Android mobile phones (i.e. without using or requiring access to the Internet); and PeerPigeon to deliver online peer assessments.
+3a. Tools for users and developers
+QTI engine
+An open source engine developed within MathAssess for playing IMS QTI v2.0 and 2.1 content. QTIEngine utilises JQTI 2 to handle QTI xml, and uses a completely customisable XSLT-based rendering solution to generate the rendered questions and tests. It includes MathML support for Internet Explorer+MathPlayer as well as for Mozilla Firefox.
+There is also a Moodle plug-in, which allows the the QTIEngine to run as a component in Moodle. This allows a lecturer to schedule a test (uploaded from the current machine, or imported) and for students take the test as part of a Moodle course. QTIEngine was created as part of previous JISC projects, and more information is available from the QTIEngine homepage and for the QTIEngine wiki at QTI tools..
+PeerPigeon.
+See above in the 'Services for the contribution and
+migration of assessment questions, tests, and peer
+assessments" section for more information.
+Android QTI Playr.
+An Android QTI rendering architecture and tools have been built on top of the core software library JQTI, to deliver an assessment consisting of an assembly of QTI items and to retrieve assessment results. More information is available from section 2.6, page 13 of the EASiHE Case study details document for an overview; and ECS SourceForge for technical information.
+3b. Tools for developers
+These are the underlying tools from which the tools for users and developers from section 3a, and the example applications in section 3c are built.
+JQTI.
+The main library on which the other tools rely. It gives functionality including reading, parsing and interpreting QTI, programmatically constructing and outputting QTI and validating QTI. JQTI is written in Java, and more information is available at the JQTI homepage. JQTI was created as part of previous JISC projects and updated during EASiHE.
+Extended QTIEngine REST API.
+The original QTIEngine does not provide any web service interface for a remote application to retrieve. We have added a RESTful Web service which uses the functions provided by QTIEngine. More information is available from ECS SourceForge.
+VLE Connectors: for
+Moodle/QTIEngine (QTI tools) ; and Perception to
+Blackboard
+/
+Moodle
+. Connectors providing eAssessment delivery engine - VLE links.
+3c. Examples of the tools being used
+Discrete Maths Website.
+This is an example of how the above delivery services (and in particular The QTIEngine Web Service) can be used to implement an online set of eAssessments. Please see the discrete maths website user manual and the complete list of discrete maths website documentation.
+Bournmouth and Poole College eAssessment Repository.
+Another example of how the above delivery services can be used to implement an online set of eAssessments. This is also an example installation of an eAssessment repository using Edshare and QTIBox. For overview information see section 3.1, page 15 of the EASiHE Case study details document.
+4. Documentation supporting the
+pedagogical design of e-assessments at higher levels of
+Bloom’s taxonomy
+This includes:
+Online Information from the 'EASiHE Assembly: Workshop on Higher Learning Skills and Good Feedback'.
+On the EASiHE and JISC SSBR project websites. We held this workshop on 10th February 2009 at the University of Southampton with participants from the University of Reading, University of Portsmouth, the JISC SSBR project, the JISC-Southampton eAssignment project as well as The University of Southampton School of Health Professionals, School of Medicine, School of Electronics and Computer Science and iSolutions. The purpose of the workshop was to discuss and agree good practice for creating formative assessments for higher order learning skills that give outstanding, computer generated feedback. The workshop was lead by an external consultant and included both talks and interactive sessions.
+Writing effective e-assessments:Hints and tips from practitioners.
+Following the successful EASiHE Assembly mentioned above, this EASiHE booklet has been put together by the EASiHE team. We have drawn on advice from experts around the UK, including the guidance generated during the EASiHE Assembly mentioned above.
+EASiHE Workshop with Feasst outcomes: Effective feedback and mobile technology.
+We held this workshop in September 2010 at the University of Southampton with participants from the Institute of Education (London) and the University of Southampton. Material covered included a literature review of approaches to formative eAssessment feedback and a socio-cultural ecology of mobile learning as well as an overview of the EASiHE approach.
+EASiHE Workshop on a Participatory Methodology for the Development of Design Patterns and Application to Formative e-Assessment.
+We held this workshop in October 2009 at the University of Southampton with participants from the Institute of Education (London) and the University of Southampton. Topics included introducing the IOE pattern workshop methodology and the results of using this methodology in the UK HE sector.
+Papers.
+A variety of technical papers published by members of the EASiHE team.
+5. Dissemination material for the
+wider sector dealing with institutional change using the
+processes of co-design and co-deployment
+We have been working with five schools across the university. These are:
+The School of Civil Engineering and the Environment
+The School of Humanities
+The School of Medicine
+The School of Health Sciences
+The School of Electronics and Computer Science
+In addition, via a benefits realisation sub-project we have extended our work to an external institution (
+Bournemouth and Poole College
+). The five schools and Bournemouth and Poole College have been our six EASiHE case studies.
+The following are now available:
+Case study summaries.
+A short summary of each case study, including the lessons learnt, how the university has been influenced and changes to practice.
+Case study details.
+Including detailed notes, screenshots, screencasts and the eAssessments
+More details on selected case studies (Schools of Humanities and Civil Engineering and the Environment).
+The following documents are available:
+EASiHE_civil_user_introduction;
+EASiHE_spanish_user_introduction;
+EASiHE_spanish_student_walk_through.docx.
+EASIHE_spanish_language_case_study_write_up;
+A technical paper "A Formative eAssessment Co-Design Case Study".
+This is to be published in the ICALT 2010 proceedings. This goes into more detail about the technical and cultural obstacles that were overcome in one of the case studies
+A technical paper "IMS QTI Engine on Android to Support Offline Mobile Learning".
+Published in the e-Case and e-Tech 2010 proceedings. This goes into more detail about some of the technology refered to above and in the ICALT 2010 paper.
+The EASiHE Blog.
+Used to keep a public record of the progress of the EASiHE project.
+The EASiHE Wiki.
+Used to keep a partially private (and more detailed than the blog) record of the progress of the EASiHE project.
+EASiHE Talks.
+For overviews of EASiHE please see the slides from the
+seminar on EASiHE given at the University of Warwick in February 2010
+; and the
+talk given to the University of Southampton HE Research Group in January 2010. Also see the
+original presentation on EASIHE from the JISC Programme Meeting October 2008
+Trying out the EASiHE eAssessment platform
+The following are good starting points in no particular order, and can be used with only a web browser:
+Edshare Southampton
+Edshare BPC with QTI Box (link to QTI Engine etc) Installed
+Eqiat
+QTI Engine
+Discrete Maths Example Website using QTI Engine
+JISC TechDis Accessibility Toolbar
+Constructr
+Moodle (e.g. runs on gauss)
+Contact Us | Intranet | © 2010 University of Southampton
+Start date: 01/10/2008
+End date: 31/03/2011
+Funded by: JISC

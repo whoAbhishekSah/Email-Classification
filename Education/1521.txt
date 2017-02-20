@@ -1,0 +1,158 @@
+xEvents
+skip to main
+|
+skip to sidebar
+xEvents
+A geo-aware calendar app for academic events
+xEvents is a JISC-funded web service to run geo-aware calendars of academic events (talks, conferences, workshops, calls for papers). It is being developed in the first instance to support the PhilEvents service, but will be made available to third parties interested in operating similar services as well. xEvents is due to be released in October 2011. The xEvents / PhilEvents project is funded by JISC as part of the JISC GEOspatial Programme.
+This blog currently documents the development of xEvents and PhilEvents.
+You may also be interested in xPapers.
+Friday, 11 November 2011
+PhilEvents: Events in Philosophy
+We're very pleased to announce the official launch of PhilEvents, a new kind of calendar for academic events in philosophy targeted at researchers and graduate students.PhilEvents is a one-stop shop to keep up with all upcoming events in philosophy, from talks to calls for papers and conference announcements. What makes it special is that it is both geo- and theme-aware: it allows academics to see just the events that are either close enough to them geographically or sufficiently important for their research to warrant the trip. This makes PhilEvents orders of magnitude more convenient than keeping up with mailing lists or sifting through ordinary event calendars. The main way to use PhilEvents is through its "Upcoming Events" page, which looks like this:Notice that it knows where I'm browsing from, as well as the research topics I'm interested in:Another crucial feature of this page is what I like to call the "laziness level selector." That's the part of the page where the user tells PhilEvents how far he or she is willing to go to attend various events:That's what allows PhilEvents to present just the right events below.PhilEvents has many other important features not apparent here, for example:It sends off email alerts of upcoming events based on criteria that parallel those of the upcoming events page.It allows anyone to download its events in a variety of formats, for example, CSV and iCal.It supports embedded widgets similar to Google Gadgets, which institutions or individuals can use to embed events on their web pages. This is handy to maintain a calendar in sync with PhilEvents.It supports attaching recordings and live streams of events to event announcements.PhilEvents itself is not a redistributable product, but its data are available under a Creative Commons Attribution-ShareAlike license. The School of Advanced Study is also making available a Blogger-like platform for other organisations to operate calendars like PhilEvents: xEvents. xEvents is still in beta, but anyone is welcome to try it immediately. The School of Advanced Study is not only committed to supporting PhilEvents and xEvents over the coming years, but it will continue active development on these products over the coming months in order to improve them in response to user feedback.I'd like to take this opportunity to thank the whole project team for their great work and enthusiasm throughout the project. Thanks Vithun (programming and graphics design), Prabhu (programming), Chrissy (content management), Lee (user rep), Jean-Philippe (graphics design), Martin (user rep), Dave (user rep), Shahrar (administration), Valerie (administration), and Barry (direction). We're also grateful for the support provided by JISC's Geospatial programme and the Dean's Development Fund at the School of Advanced Study. Table of contents for project postsProject planProject overviewPrimary project benefitsManaging riskThe IPR questionProject teamTimeline and workplanThe budgetProgress, challenges, and reflectionsPhilEvents isn't big data, but it's smart dataThe platform choice: why GrailsMultiple senders with the Grails mail pluginCustomizing Spring-SecurityMulti-tenant architecture: running multiple web sites as one Grails appImage cropping in GrailsMatching IPs, cities, geographic coordinatesFuzzball has arrivedMySQL fulltext and spatial search in Grails
+Posted by
+David Bourget
+at
+15:07
+4
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+DigitalInfrastructure,
+FinalProductPost,
+inf11,
+Innovation,
+JICS,
+JISCdi,
+jiscgeo,
+Product,
+ProductDescription,
+TableOfContents,
+ToC,
+xevents
+Wednesday, 2 November 2011
+MySQL full-text and spatial search in Grails
+For the advanced search in our application, we had to combine full-text and spatial matches within a single query. Since we were using Grails, and in-turn hibernate, we needed to have a MySQL dialect which would allow us to write such a query. This blog post highlights how this functionality was implemented.
+Posted by
+Vithun Kumar
+at
+11:31
+0
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+full-text,
+grails,
+mysql,
+spatial
+Friday, 16 September 2011
+The xEvents production server has arrived
+2 x 6-core Xeon processors with hyperthreading, for a total of 24 effective CPU cores
+48 Gigs of RAM128GB Intel C300 SSD2 x 2 TB Seagate ES2 disks
+Posted by
+David Bourget
+at
+09:07
+1 comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Wednesday, 24 August 2011
+Matching IP addresses, cities, geolocations
+On xEvents, users search events in part based on their locations. Their locations are specified by submitting users as postal addresses. In general, all we know about our visitors are their IP addresses or the city where they live. Given these basic data, how do we enable users to easily find events taking place near them?
+First we have to make sure that the cities of users and events can be cross-referenced. To achieve this we require users to pick their cities or the cities of their events from a list of cities derived from the database available at geonames.org. This is a free database of geographic landmarks (including towns of all sizes) which comes with latitudes and longitudes. Given these constraints, we're able to calculate distances between all our events and all the users who have specified their city in their profiles.
+Things get more complicated when we want to offer a good default city for a newly registered user, or just to guess the city of an unregistered user to provide a good search default. For that we have to rely on a database which matches IP ranges with city names and latitudes/longitudes. After some research we've settled on the IPLigence database because it was the cheapest that seemed to have all the features we needed.
+Unfortunately, it's not good enough for us to get the latitude and longitude of an anonymous user / IP address: we need to know which city they are in, because some of our searches have criteria like “same city”. So we've had to somehow align the city labels provided by IPLigence with those we use for events and registered users. (We couldn't use the IPLigence labels everywhere because the formatting of city names is not good in their data. They also count as cities many administrative regions which are not, for example, many London boroughs are represented as cities in this database. Geonames is much better organised in this regard.)
+So we've had to match the city labels in the IPLigence database with the city labels in the Geonames database. This turned out to be more complicated than initially expected. The general algorithm is to take every IPLigence city label and find the best match in the Geonames database. Here's how we find the best match. First we look to see if there is only one entry in Geonames with the same country code and city name. If so, problem solved, we've got our best match. If there is no match, we abandon that city label (this is very rare). What is common and problematic is multiple matches. In this case, we pick the nearest match based on the coordinates that we have both in the IPLigence and the Geonames database.
+We will follow up soon with another post about how to do geographic distance calculations with MySQL and Hibernate efficiently.
+Posted by
+David Bourget
+at
+09:27
+0
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+xevents jiscgeo geo
+Tuesday, 31 May 2011
+Grails Image Crop Using Jcrop
+A user in an X-Events hosted site should be able to upload his picture and use it as a profile picture. Also, the uploaded picture has to be cropped to a certain resolution before it is used.
+You might have seen many websites nowadays have a profile picture. And when you upload a profile picture, you are usually prompted to crop the picture (sometimes with certain forced resolution), and it is this cropped picture that is used from then onwards. I was required to implement a similar functionality here. I decided to use Jcrop for the JavaScript side of the cropping mechanism as it was based on jQuery and we were already using a bit of jQuery in our application. Here I illustrate how I did the job.
+Posted by
+Vithun
+at
+07:33
+2
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+grails,
+jcrop
+Multi-Tenant Architecture
+As SaaS (Software as a service) takes big steps in these days, lots of new methods or rather less used methods are getting more attention. Making an application truly Multi-tenant is one of the key feature in SaaS. In xEvents, we made the application multi-tenant capable in the initial phase of the project to reduce incremental time and cost factor if we converting into multi-tenant based application in the later stage. We had lots of discussions going back and forth to make right design decision for implementing the multi-tenant enabled platform which is more suitable for xEvents application. We thought it is worth to post here on this topic.Possible Design solution: One of the Key factor while designing the multi-tenant design is the database design. As we will be intent to store all the tenant data in our server and mostly same set of application code will be accessing different tenant data, designing suitable database structure turned out to be a tricky call. In a broad category, we can implement
+in 3 different ways:1. Isolated database for each tenant2. Isolated schema for each tenant3. Shared schema for all tenantsThough i have stated three different individual type, it is a continuum spectrum. Most of the time we need to choose a mixed approach (for e.g. sharing few tables/schemes across the tenant and also few separate table per tenant). Meaning, choosing the correct type is fully depends on type of application. (source: http://i.msdn.microsoft.com/dynimg/IC150005.gif
+)Few worth noting factors while making the design decision : No. of Tenants, customization required per tenant, Scalability, database size / maintenance cost, No. of users per tenant, data privacy/isolation issues. This[1] article clearly listed the pros and cons with a detailed analysis. Multi-tenant grails plugin: Once we are clear with the design in our mind and having grails powered by plugins, now we have to pick-up the right plugin and fine-tune the configuration as per the our requirement. Multi-tenant plugin[2] provides out of box implementation for multi tenant based applications. Though, this is not clearly (rather fully) documented, this page[2] will give you a very good idea to start with and about how this plugin works. Here is our few cents: 1. Although, this plugin suppose single database per tenant, it is little immature as of now[June,2011]. 2. There is another version of this plugin[3] (using Hawk Eventing and Hibernate Hijacker) to support single db per tenant. But this is still in the experiment mode.3. This plugin have incompatibility issue with searchable plugin. we tried few suggestions given in forums to fix this issue, but in vain. (Though, i am not sure of the fact, but this might be because both the plugins modify the datasouce in the beginning or because of the subscription to the hibernate events).
+4. Need to be careful about having common pages like admin page which will access data across the tenant. It is not available out of box from this plugin. [1] http://msdn.microsoft.com/en-us/library/aa479086.aspx[2] http://multi-tenant.github.com/grails-multi-tenant-core/guide/index.html[3] http://multi-tenant.github.com/grails-multi-tenant-single-db/docs/v0.7.2/guide/
+Posted by
+prabs
+at
+06:56
+2
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+database design,
+grails,
+multi-tenant,
+xevents
+Custom Password Encoder for Grails Spring-Security Plugin
+The spring-security (core and others) plugin is very handy for incorporating user (and role) based functionalities for a grails application. The plugin comes with a lot of features out-of-the-box. And more often than not, some of the basic features can be used as is. However, there are occasions when a little bit of customization might be required.
+In this project, I was required to use a custom password encryption algorithm. The spring-security plugin uses the 'SHA-256' algorithm by default. This can be changed to use other standard algorithms (MD2, MD5 etc.) by adding the following lines (if, for example, MD5 encoding is required) in /grails-app/conf/Config.groovy:
+grails.plugins.springsecurity.password.algorithm="MD5"
+But what I wanted was to use a custom algorithm of our own, not the standard ones. Fortunately, this is again, very easy. Because of Spring's dependency injection, we can easily create our own password encoder and inject it. The steps to do the same are explained here.
+Posted by
+Vithun
+at
+05:32
+0
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+grails,
+xevents
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+Subscribe To
+Posts
+Atom
+Posts
+All Comments
+Atom
+All Comments
+Contents
+Home
+Blog Archive
+▼
+2011
+(17)
+▼
+November
+(2)
+PhilEvents: Events in Philosophy
+MySQL full-text and spatial search in Grails
+►
+September
+(1)
+►
+August
+(1)
+►
+May
+(5)
+►
+March
+(1)
+►
+February
+(7)
+Copyright David Bourget and University of London, 2011. This blog's content is license under the Attribution-ShareAlike license.

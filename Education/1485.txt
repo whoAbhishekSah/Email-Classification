@@ -1,0 +1,112 @@
+Welcome to the eSAD website!
+e-Science and Ancient Documents
+About the ProjectThe TeamNewsSubjectsGalleryPublications
+Main Menu
+HomeNewseSAD WorkshopsThe TeamPublicationsGallerySubjectsWeb LinksContact us
+Documents
+Conference papersReports and publicationsWorkshop 13th May 2009Workshop 17th Nov. 2009Colloquium 11-12 May 2010
+External websites
+Vindolanda Tablets Online IIProject Member BlogsDigital Humanities Blogs
+Login Form
+Username
+Password
+Remember Me
+Forgot your password?
+Forgot your username?
+To register please get in touch via the "contact us" form in the main menu.
+Designed by:
+Joomla Templates
+eSAD: e-Science and Ancient Documents, Powered by Joomla! and designed by SiteGround web hosting
+Welcome to the eSAD website!
+Update, and annoucing:"Digital Transformations: New developments in cultural heritage imaging"
+Written by Segolene Tarte
+Monday, 07 February 2011 17:13
+Although the eSAD project has now formally ended, Henriette's doctoral work will carry on until Sept. 2011, and I will also carry on posting news as to what becomes of the research that was conducted in this project, and how I intend to continue working on some of the research questions that arose during the project.
+In the mean time, I'm copying below the workshop announcement for the RTISAD project, a sister project that was started last year as a collaboration between Southampton (G. Earl, K. Martinez) and Oxford (A. Bowman, C. Crowther, J. Dahl):
+You are warmly invited to attend“Digital Transformations: New developments in cultural heritage imaging”a workshop on digital imaging to be held at the University of Oxford on Friday, 25 February 2011.The workshop will focus on documentary evidence, from 3D capture techniques to reflectance transformation imaging (RTI). This workshop is part of the collaborative University of Oxford and University of Southampton pilot project “Reflectance Transformation Imaging (RTI) System for Ancient Documentary Artefacts”, supported by the AHRC DEDFI scheme.Friday, 25 February 2011
+Lecture Theatre, The Ioannou Centre for Classical and Byzantine Studies, 66 St. Giles’, Oxford OX1 3LU
+Time: 10:30 - 17:30
+For free registration, further details and any queries, please go to: http://rtisad-oxford.eventbrite.com/Best wishes,The RTISAD Team:Alan Bowman, Charles CrowtherJacob Dahl, Graeme EarlLeif Isaksen, Kirk MartinezHembo Pagi, Kathryn E. Piquette.
+Last Updated on Friday, 30 March 2012 11:14
+Workshop annoucement: 16th Dec 2010 OeRC
+Written by Segolene Tarte
+Monday, 06 December 2010 18:26
+e-Science and Ancient Documents Project Wrap-up: Outcomes and Outlook
+Investigators: Prof. Alan Bowman, Prof. Sir Michael Brady, Dr Melissa Terras
+Research Assistant: Dr Ségolène Tarte
+Doctoral Student: Henriette Roued-Cunliffe
+The e-Science and Ancient Documents project aimed to use computing technologies to aid experts in the complex tasks of reading ancient and damaged documents.
+A three-year interdisciplinary project, funded under the AHRC-EPSRC-JISC Arts and Humanities e-Science Initiative until December 2010 (and until September 2011 for the doctoral work), the project is based at the Centre for the Study of Ancient Documents and the Oxford e-Research Centre, with the collaboration of University College London. This third and final workshop will present the outcomes and outlooks of the project.
+During this workshop we will present and discuss how we have explored and applied advanced ICT techniques to facilitate the reading of ancient and damaged documents, and how these techniques and tools relate to ongoing research.
+· The morning sessions will present the techniques and tools we have developed to support the act of interpretation, ranging from image capture and processing to tools to support reasoning under uncertainty.
+· The afternoon sessions will introduce connected projects that can benefit from the integration of the outcomes of the eSAD project and that can thus offer a possibility to sustain the eSAD research results beyond its funding period.
+Schedule for the final eSAD workshop
+Thursday 16th December 2010, OeRC conference room, Oxford
+Morning (10:15 – 12:45)
+eSAD session
+10:15 – 10:30
+Welcome coffee
+10:30 – 10:45
+Introduction (Alan, Mike)
+10:45 – 11:30
+Henriette’s talk/demo (35 min + 10 min Q&A)
+11:30 – 11:45
+Tea, coffee
+break
+11:45 – 12:30
+Ségolène’s talk/demo (35 min + 10 min Q&A)
+12:30 – 12:45
+Summary (Alan, Mike) 15 min
+12:45 – 13:30
+Lunch
+Afternoon (13:30 – 15:00)
+Connected projects session
+13:30 – 14:00
+RTISAD project (20 min talk + 10 min Q&A)
+14:00 – 15:30
+Bamboo/VRE project (20 min talk + 10 min Q&A)
+14:30 – 15:00
+Outlook: what’s next? (Alan, Mike, all)
+Last Updated on Monday, 06 December 2010 18:28
+Off to Helsinki for the Eikonopoiia symposium
+Written by Segolene Tarte
+Friday, 08 October 2010 10:42
+Two of the eSAD team members will be going to Helsinki at the end of October (28-29) for the Eikonopoiia symposium.
+The symposium is subtitled: "Digital imaging of ancient textual heritage: technological challenges and solutions". More details about the event can be found here.
+Prof. Alan Bowman will be chairing a plenary session, and Dr Ségolène Tarte will be presenting a paper entitled: "Image capture and processing for enhancing the legibility of incised texts" (to be published in the Commentationes Humanarum Litterarum series of the Finnish Society of Sciences and Letters, and currently retrievable from our reports and publications section).
+Looking forward to this event!
+Last Updated on Friday, 08 October 2010 16:10
+Eἰκονοποιία... or the emergence of
+a community of (digital) shape-makers
+Written by Segolene Tarte
+Tuesday, 16 November 2010 15:18
+The Centre of Excellence “Ancient Greek Written Sources” of the Academy of Finland, on the instigation of the advisory board, of which Prof. Bowman is a member, organized a symposium entitled “Digital Imaging of Ancient Textual Heritage: Technological Challenges and Solutions”. It took place in Helsinki on the 28th and 29th October 2010. As the chosen brand name for the symposium, εἰκονοποιία, also indicates, the themes of the meeting revolved around “image-making”. “Image-making” of textual heritage encompassed both image capture and image processing for the use of documentary scholars and historians.
+Attending the conference and presenting their work, were a group of experts all working closely with papyrologists, palaeographers, and epigraphers, and all specialized in the digitization of and image processing for textual heritage. The intent of digitization is usually to reveal hidden text, like in the case of the Archimedes palimpsest, but also for non-palimpsest texts that are difficult to read, such as the Vindolanda tablets, to enhance the legibility of these texts, and to create digital avatars of the documents that can be further digitally manipulated, processed, and eventually interpreted by documentary scholars and historians.
+This very enjoyable symposium achieved the remarkable thing of assembling technology experts who are usually dispersed and rather isolated from one another. It thereby created a community of “image-making” experts (εἰδωλοποιοί? image-makers, literally shape-makers), where design strategies, technological challenges and solutions to the questions of how to usefully image ancient textual heritage could be shared.
+Each speaker presented: the technologies they used, ranging from X-ray systems and multi-spectral imaging to 3D imaging and Reflectance Transformation Imaging; why they used them, e.g. the choice of an imaging modality based on the composition of inks; and how end-users take an active part in the design and implementation of these imaging projects (Proceedings available here: http://www.eikonopoiia.org/programme.html).
+The scale of the event and the fact that it stretched over two days made it possible to interact with each and every participant. It also permitted rich discussions and exchanges during the break-out sessions, where, amongst others, the following subjects were broached: funding (inevitably!); where to publish and how to disseminate our research; how to visualize meaningfully the results of our research; how to make our results reproducible; what kind of imaging workflows we have adopted…
+Besides a Commentationes Humanarum Litterarum volume, which the organisers are currently editing, and which will regroup the papers presented at the symposium, we all thought that one or even two books could constitute a further output of this event. There was a consensus on the fact that imaging technologies have reached a certain maturity and that the imaging techniques that have been tried and tested should be gathered, documented and detailed along with the type of textual artefacts they are most suited to.
+All participants were also eager to keep this community alive, and it was agreed that a second instalment of εἰκονοποιία would take place some time in 2011, probably in Washington. Looking forward to it!
+[This entry is also posted on the blog of the Centre for the Study of Ancient Documents]
+Last Updated on Tuesday, 16 November 2010 15:33
+Back from an amazing DH2010 conference!
+Written by Segolene Tarte
+Monday, 12 July 2010 14:11
+Just a quick entry to give an update on the presence of the eSAD project at DH2010, and on DH2010 itself.
+If you were lucky to be there, you'll know all this already, but if not, here are some useful links to figure out more on what happened!
+Melissa Terras (reader at UCL's Department for Information studies, who is also co-investigator on the eSAD project) gave the closing plenary lecture (which can now be viewed here). It was an (even more than usual) amazing talk! The text of it can be found on her blog, and is well worth a read! I can't cover it all here, and she did such a great job that anything I'd say would be pale paraphrase. But one thing that definitely came through is that we, in the Digital Humanities, have to stand up for ourselves, be better at communicating what we do and why it matters!
+Ségolène Tarte's paper (presentation available here) received an Honourable Mention for the Fortier Young Scholars Award, along with two other papers (by Edward Finn and Toma Tasovac), the winner of the prize is Maceij Eder, for his paper entitled "Does size matter? Authorship attribution, small samples, big problem". Congratulations to him! There were 70 young scholars present; and 4 papers were short-listed for the award.
+For an overview of how the conference was received and the reactions it provoked, have a peak at the twitter archive for #dh2010.
+Also, keep an eye on arts-humanities.net, where the videos of the talks will progressively be uploaded, and where soundbite interviews can also be streamed! (It is a little difficult to get on the site these days without an "unable to connect to database server" error, but once the traffic settles, all the material will be available there!)
+Last Updated on Tuesday, 13 July 2010 14:58
+More Articles...
+eSAD research featured in THE!
+Heading for DH'10 at KCL
+Talks of the colloquium available for download
+Briefs about the colloquium
+« StartPrev123456NextEnd »
+Page 1 of 6
+Valid XHTML and CSS.
+Designed by:
+Joomla Templates
+eSAD: e-Science and Ancient Documents, Powered by Joomla! and designed by SiteGround web hosting

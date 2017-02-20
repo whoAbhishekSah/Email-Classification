@@ -1,0 +1,257 @@
+WRAP repository blog, University of Warwick
+WRAP repository blog
+Warwick Blogs
+| Contact me
+| About me
+Sign in
+October 23, 2012
+Round up of activity
+Writing about web page http://wrap.warwick.ac.uk/50529
+The last month or so has been a busy time for WRAP; we have topped 7000 full text, open access articles and are busy working towards the next milestone and we have been busy contributing to a range of different blogs and other sources. So a quick round up of activity in honour of Open Access Week:
+State of the Nation : Finch, RCUK, OA and more - Contribution to the UKCoRR blog on a whole raft of issues arising from the task of implementing the RCUK policy and the Finch report.
+SEO analysis of WRAP, the Warwick University Repository - Our contribution to Brian Kelly's work on search engine optimisation of institutional repositories using the Majestic SEO tool.
+Open Repositories 2012 - A short write up on the Open Repositories conference earlier in the year for the CILIP Update magazine (self-archived to WRAP).
+Also for Open Access Week the team are running drop in sessions in our Research Exchange so come along if you have any questions about repositories, open access, WRAP, electronic theses or anything else related! Additionally if you are part of the MOAC DTC or the Society of Biologykeep an eye out for the WRAP team speaking at event near you later in the week!
+Yvonne Budden :
+23 Oct 2012 17:10
+|  Tags: Advocacy Events Open Access
+|  Comments (0)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+September 14, 2012
+Award Winning Article in WRAP
+Writing about web page http://wrap.warwick.ac.uk/38940/
+Congratulations to Professor Mark Harrison and his colleague Andrei Markevich from the New Economic School in Moscow on winning the Russian National Prize for Applied Economics in recognition of his research that filled the final gap in a key piece of Russia's economic history. An accepted version/post-print copy of the article can be found in WRAP More information about Prof Harrison's research can be found in his blog as well as in the press release.
+Yvonne Budden :
+14 Sep 2012 10:00
+|  Comments (0)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+July 26, 2012
+Open Repositories 2012 – Day Two (minus keynote)
+Writing about web page http://or2012.ed.ac.uk/
+The second day started early with my final workshop, the Place of Software in Data Repositories, this workshop focused on work that had been done by the Software Sustainability Institute on the role of software in the research process. Again illustrating the slow move away from the rewards for researchers being tied to traditional publications and an acknowledgment that research now is a diverse process and involve a huge array of skills. But for researchers to gain the rewards for their work there needs to be a systematic way of storing and making these things available. The host of the workshop, Neil Chue Hong from the University of Edinburgh, spoke briefly on a new idea of the 'software metapaper' as a way to cite all the different parts of a project. The 'metapaper' is a neat idea to get around one of the problems that has been discussed in terms of citing datasets, the fact that some journals limit the number of references you can use (which seems anti-intuitive to me but that's another blog post!). The 'metapaper' will include create a complete record of a project, citing within it any publications, methodology, datasets or software objects that might all be published in different places into a single citable object. The first journal of this kind, the Journal of Open Research Software is due to launch soon. The issue of the long term preservations of software arising form JISC funded projects was also mentioned as an issue that JISC is beginning to grapple with now.
+Breakout groups were centred around the range of factors that needed to be considered when making software available in a repository. Which brought up many of the main issues that we had been discussing in relation to datasets, issues of versioning, external dependencies (software is not PERL code alone), drivers to deposit and trust issues can up again. Key amongst these challenges was the issue of sustainability and also of reuse of the software by the software customers. Much of the discussion centred around what exactly it was that you needed to archive for the curation of software, just the text document containing the code? Or would you need to host executable files and the associated virtual machine interfaces as well? What does a trusted repository look like? One interesting issue that also came out of this was the issue of needing to store malicious software, for training purposes and testing, but needing to make these items really clear in an open repository for fear of range of problems! This morning was a great eye opener on the range of questions specialist types of material can raise for repositories making it ever more clear that generalist repositories, like our institutional repository, may not be suitable to try and store everything.
+The main conference started in the afternoon with a fantastic keynote opening by Cameron Neylon, the new director of advocacy at the Public Library of Science (PLoS). I had so much to say about this, it has it's own post (to follow)!
+Following the Keynote was the 'Poster Minute Madness', a brilliant idea for presenting posters at a conference and a way to get people excited about the content of the posters. A surprisingly nerve-wracking experience for presenters despite being only 60 sections long! (Our poster can be found in WRAP, self-archived on the way to the conference.) As before when I last saw this at OR10 in Madrid, I was blown away by the range of activities being undertaken by repositories around the world and the exciting projects people are thinking up! Highlights for me were:
+Brian Kelly and Jen Delasalle on social networks and repositories
+Chris Awre and others on history data management plans
+Helen Kenna and Karen Bates on Salford's digital archives
+QUT's poster on enhanced usage stats (very much our ideal situation)
+But all of the posters were well worth the time taken to read them, I was just disappointed that I didn't get more time talking to people about my poster or talking to others about theirs! The poster reception followed the last events of the day at the stunning Playfair Library.
+From here the conference started the parallel sessions, which as usual reminded me of being at a music festival where three of the bands you want to see are all playing at the same time on different stages! (Here I'll add a huge thank you to the organizers for videoing all the presentations so I could watch the ones I missed!) In the end I plumped for the sessions on the development of shared services, which gave an interesting view of a number of countries who are using national shared services as the base of their repository infrastructure. For every advantage of this kind of service I think of I'm reminded of the really rich, heterogeneous environment we have in the UK where every repository works a little differently for different people and I think it's worth the frustrations that always arise when you try to make the systems talk to each other! It was good to hear about the progress of the UK Repository Net+ project that looks like it has the potential to do a lot of good for repositories in the UK and the news from the World Bank of their aggressive Open Access policies is also really encouraging!
+Yvonne Budden :
+26 Jul 2012 12:38
+|  Tags: Advocacy Events Open Access Or2012 Reflections Research Data
+|  Comments (0)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+July 19, 2012
+Blogging over at Research Support
+Writing about Guest post by Yvonne Budden: Metadata and Online Discoverability from Library Research Support
+Follow the link above to see my blog over on the main Library Research Support blogon metadata, what it is, what it's used for and why you should care!
+It's all about dissemination.
+Yvonne Budden :
+19 Jul 2012 17:28
+|  Tags: Authors Dissemination Metadata Open Access Publishers
+|  Comments (0)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+July 16, 2012
+Open Repositories 2012 – Day One
+Writing about web page http://or2012.ed.ac.uk/
+This is the first of a series of blog posts on my reflections on the 7th International Conference on Open Repositories. I've split the post by the days of the conference mainly to avoid this being the longest blog post ever and to make it easier to refer to later.
+Day one was taken up with half day workshops, a fantastic idea and allowed a level of interaction that some of the later sessions couldn't. All the workshops seemed to feature great discussions on relevant topics and a great comparison of different practises in different countries and institutions. My day one workshops were:
+ISL1: Islandora - Getting Started
+DCC: Institutional Repositories & Data - Roles and Responsibilities
+And an optional evening workshop on EDINA's Repository Junction Broker project.
+The Islandora workshop was fascinating! I'd not seen very much of the software or it potential before and the workshop was a great introduction to everything about the software, from the architecture and underlying metadata to the different Drupal options for customising the front end. Their system of 'solution packs', Drupal modules that allow you to drop in functionality for different functionality and content types into the system is a great idea and allows the system a degree of flexibility not found in other systems yet (although the EPrints Bazaar might get there soon). They demo-ed a books solution pack for paged content as well as discussing forthcoming solution packs for institutional repository (IR) functionality and Digital Humanities projects. Islandora maintain a web-based sandbox environment to allow people to experiment which is wiped clean each evening which I'm looking forward to playing with as we scope new software for future projects. I also like the fact that the software is completely open source, following the replacement of Abbyy OCR software with the open source equivalent Tesseract. Islandora as the 'new' player in the market is managing to provide the same functionality that the other systems do with a collection of exciting add-ons, however I do see that as you add the extra functionality you are having to maintain a number of additional modules as well as the core software which could have resource implications down the line.
+The afternoon workshop run by the Digital Curation Centrewas a nice mix of presentations on the current thinking of a number of projects from around the world and group debate on the weeks 'hot button' topic of Research Data Management (RDM). This topic was to come up time and again in the week as most of the talks and discussions touched on it at least a little. As the title suggested the main thrust of the discussion was around who was responsible for what! Discussions covered a range of topics and some of the messages that came out most strongly for me where:
+Use the discipline data centres as much as possible, no IR (data or otherwise) can, or should, do everything.
+Knowing where the other data centres are is essential.
+Try not to get bogged down trying to 'fix' everything first time, fix what you can and work on the rest later or you could end up doing nothing.
+Interesting point from Chris Awre at Hull, use the IR as a starting point for discussions to move the researcher's thinking from what you have to what they need.
+Try to get into the researchers workflows as early as possible as it makes creating the metadata easier for the researcher, which in turn helps the archive.
+Are repositories qualified to appraise the data deposited with them?
+I'll admit that the whole area of RDM is a scary one but it was good to realise that there are both a, a lot of people out there feeling the same and b, a lot of assistance there for when its needed. The idea of just getting something in place and fixing the rest later feels a bit anti-intuitive to me but, on the other hand, it's what I've been doing with WRAP's development of the last two years, it's just that someone else had to take the first step!
+The final workshop of the day was an informal one in the evening discussing the development of the EDINA's Repository Junction Broker project which is going to form part of the services offered by the UK Repository Net+. This discussions centred around the development of the extension of the middleware tool developed by EDINA to allow publishers to feed deposits directly into repositories as a service to researchers. As ever this sound like a fantastic idea and the debate was active and enthusiastic as the various stakeholders discussed how to make this work for both repositories and publishers. Certain as far as WRAP is concerned if what we need to do is get our SWORD2 endpoint up and running that that is what we have to do, the service offered by the Repository Junction are far too good to miss out on! I'll be watching this develop with interest....
+More on day two soon....
+Yvonne Budden :
+16 Jul 2012 17:57
+|  Tags: Advocacy Events Funders Open Access Or2012 Reflections Research Data
+|  Comments (0)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+July 09, 2012
+JISC/DataCite Event
+Writing about web page http://www.bl.uk/aboutus/stratpolprog/digi/datasets/workshoparchive/archive.html
+Last Friday saw the second DataCite event, jointly hosted by JISC and the British Library, this one focussing on metadata for datasets. This is an area of interest for me not just because of the developments in research data management (RDM) that are starting to impact repositories but also because of my background in metadata. The organisers warned us that they were starting with the basics and getting increasingly complicated as the day went on, this was certainly true!
+The sessions started with a very good introduction, from Alex Ball of the DCC, on some of the essential metadata needed for both data citation and also data discovery. As he put it the different between, known item searching (data citation) and speculative searching (data discovery). The needs of users undertaking both of these activities are fundamentally different but do have overlap. Through analysis of 15 schemas being used by data centres at the moment he highlighted 16 common metadata fields that appear in the majority of the schemas. None of these fields will come as much of a surprise to people creating and using metadata, but might be unfamiliar to the researchers who may have to create this metadata.
+Elizabeth Newbold, from the British Library, spoke about the development of the DataCite schema, listing the essential/mandatory fields that they expect people to provide DataCite with in return for minting the DOIs. These fields mostly represent the fields for data citation as mentioned by Alex but DataCite is hoping that data centres will supply them with some of the additional metadata for discovery as well. This is key to the BLs other presentation from Rachel Kotarski who spoke about developments at the BL in transforming the DataCite metadata into MARC records for use in the main BL catalogue. Rachel spoke about a pilot project run to add the dataset metadata into a trial instance of Primo as a 'proof of concept' to assess whether users were looking for this kind of material and if so what kind of metadata did they want when trying to discover it. At least one JISC RDM project in the room now plans to send much more of their metadata to DataCite to allow better harvesting by the BL and it's certainly something we need to bear in mind when developing Warwick's services in this area.
+David Boyd from the data.bris project laid out in detail how they are building on the new capacity for data storage at Bristol to build integrated services around data registration, publishing and discovery. This was an excellent insight into how one University has conceived the whole data model and highlighted some key areas of integration with other services that is possible with joined up processes. I particularly took away the details of the range of ways in which they are thinking about automating metadata creation to remove some of the burden on researchers. Michael Charno from the Archaeology Data Service gave some insight from one of the existing Data Centres, who have been in the game at lot longer than most, in a fascinating talk entitled '2000 years in the making, 2 weeks to record, 2 days to archive, too difficult to cite?'. The ADS model charges data creators/projects to host their data and presents the data free at point of access to the user. Currently one of their challenges is persuading users to reuse data and data loss, archaeology is inherently a destructive process so the records of the excavation are often the only evidence remaining at the end of the project. Michael pointed us all towards a set of guidance documents and toolkits used by the ADS to advise researchers on creating metadata but admitted they didn't have any evidence on the amount of use these tools got. Another area of work discussed was looking at the mappings between the current schema, developed in house for the ADS compares to the new DataCite schema.
+The final two talks highlighted issues of interoperability with Steve Donegan from the STFC speaking about the difficulties of reconciling the variety of different schemas used by different environmental sciences as part of developing the NERC Data Centre. He highlighted the different metadata needs of scientists who want the raw data and government agencies who want the data at one level of analysis higher for policy decisions. Steve finished by discussing in some technical depth the challenge of making the NERC data complient to the INSPIRE, European standard. Finally David Shotton of the University of Oxford spoke on a range of projects at Oxford looking at the DataCite metadata. Firstly he has worked on a schema to make DataCite metadata available in RDF (new mapping, DataCite2RDF available in draft form http://bit.ly/N3VKsx) using a range of SPAR ontologies. He also spoke about a colleagues project to create a we form to help researchers generate DataCite metadata in an easily exportable XML format and finally on the importance of citing data in the reference list as well as in the text, allowing it to be picked up by services like Scopus and Web of Knowledge.
+Discussions at the end of the day was centred around versioning and DOIs for subsets if datasets as well as the importance of keeping things machine readable as well as human readable! Overall the was a fascinating day that provided a little of everything, from clear guidance on the basics and essential metadata required for the basic functions to very complex topics showing how far good metadata can take you. Lots of food for thought for the development of our own services!
+Yvonne Budden :
+09 Jul 2012 09:31
+|  Tags: Events Open Access Research Data
+|  Comments (0)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+June 29, 2012
+Wellcome Trust strengthens its open access policy
+Writing about web page http://www.wellcome.ac.uk/News/Media-office/Press-releases/2012/WTVM055745.htm
+The Wellcome Trust has announced that it is strengthening the open access policy for the research it has funded, significant changes include:
+In final reports the principal investigator's institution "must provide assurance that all papers associated with the grant comply with the Trust's policy". If they are unable to do so the final payment may be withheld.
+Non-compliant publications "will be discounted as part of a researcher's track record in any renewal of an existing grant or new grant application."
+"Trust-funded researchers will be required to ensure that all publications associated with their Wellcome-funded research are compliant with the Trust's policy before any funding renewals or new grant awards will be activated."
+All three steps will apply to research articles published from 1 October 2009 onwards.
+Researchers wanting help to make sure their publications are compliant can contact the WRAP team at wrap@warwick.ac.uk or contact Sam Johnson to get access to the Wellcome Trust fund for open access publication fees.
+Yvonne Budden :
+29 Jun 2012 09:07
+|  Tags: Funders Open Access
+|  Comments (0)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+April 25, 2012
+RSP Webinar – Advocacy on implementing funders' mandates
+Writing about web page http://www.rsp.ac.uk/events/advocacy-on-implementing-funders-mandates/
+[This post was written at the time of the webinar, 27 March 2012, but a glitch (technical term) means that it didn't go live until now.]
+In light of some of the continued discussions on various boards and forums about the future of Open Access and the impact of funders mandates on things like Elsevier's policies and the recently shelved Research Works Act, it was interesting to hear Scott Lapinski from Harvard University speak about his experiences.
+Some highlights of his talk included:
+Grants aren't always where you think they are! Harvard found NIH grants all over the University not just in the Medical School.
+Challenges included; high number of researchers, researchers not being based on campus, issues of corresponding author vs grant holder, version issues, what to do about the 'non-compliance' letters and the coordinating messages to the range of people who need to be involved.
+Support and advice came from the Harvard Office for Scholarly Communicationwhich has a dialogue will all disciplines and monitors all scholarly communications issues.
+Range of advocacy options were discussed, from meetings and seminars to drop-ins in the linked hospitals as well as advocacy through new web tools for submission and management.
+Scott also recommended getting in touch with researchers you know are non-compliant, stating that you might get a better reaction from a letter saying 'something might be wrong here, but the Library can help', rather than waiting for the letter saying 'you have been non-compliant and now your grants are in danger'.
+All of which may be useful preparation as RCUK funders look to revise their mandates and strat tracking compliance more closely. Although this piece in the THE makes for further interesting reading on this topic.
+[Update]Since this was written Harvard's push for open access has continued with this memorandum to faculty staff on journal pricing.
+Yvonne Budden :
+25 Apr 2012 12:56
+|  Tags: Advocacy Copyright Funders Open Access Publishers
+|  Comments (0)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+March 09, 2012
+Web 2.0, Creative Commons and Orphan Works
+Writing about web page http://www.rsp.ac.uk/
+Today was the RSP's first webinar on 'Web 2.0, Creative Commons and Orphan Works' and as it was on a subject dear to the hearts of many of us here at Warwick we arranged to watch it as a group. Presented by Charles Oppenheim (Emeritus Professor of Information Science at Loughborough University) the webinar covered an array of current topics and concerns around the introduction and ever increasing use of collaborative tools and new licences.
+The central theme, as Prof Oppenheim stated, was around the way copyright is affecting the way we use technology but more importantly how our use of technology is affecting copyright.
+Discussions covered:
+Web2.0 as a novel challenges to the existing configuration of copyright law
+A closer look at 'performance rights' as an integral part of the process of disseminating recorded lectures
+JISC's excellent Web2Rights toolkitas a single source of guidance and advice on all areas of copyright, but primarily Web2.0 material
+Managing complaints (quickly take down, investigate, don't forget to apologise and offer credit or reimbursement as appropriate)
+Basics of Creative Commons Licences
+An important caveat that people can use creative commons licences when they do not have the rights to do so
+[One delegate alerted us all to a browser plug-in to help identify CC licenced material OpenAttribute, which I will be investigating]
+Change is coming, both in the form of the UK's response to the Hargreaves Review and in the EU with a directive on orphan works.
+Vicarious Liability can be argued so that the institution is liable even if the student is only using equipment provided by the University (a wifi hub for instance) but only if the institution can be proved to have had the "right, ability or duty" to control the actions of the student who violated copyright.
+Non-commercial is very much not the same as non-profit, a loss-making activity that takes any money at all is still a commercial activity.
+Creative Commons licences are definitely not just for artworks, but can cover anything and everything (except software with is better with a GNU licence)
+A very interesting and thought provoking talk (as all Prof. Oppenheim's are) what this space for the write up of the second RSP copyright webinar on the topic of proposed changes to copyright law.
+Thanks again to everyone involved in the webinar!
+Yvonne Budden :
+09 Mar 2012 13:21
+|  Tags: Copyright Events Open Access
+|  Comments (0)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+February 02, 2012
+WRAP Mentioned in the Guardian!
+Writing about web page http://www.guardian.co.uk/higher-education-network/blog/2012/feb/02/marcomms-communicating-research
+As part of their series of articles on media and communication in Higher Education the Guardian spoke to Ken Punter, Warwick's Digital and Online Communications Manager. One of the main areas he spoke about was the Knowledge Centre, a brilliant resource which presents some of the work done at the University in a "magazine style", in relation to the concept of impact.
+As part of the article he also mentioned the work the Knowledge Centre team to do related their articles to the open access, full text papers hosted in WRAP. Brilliant publicity for WRAP! I look forward to seeing if it affects our stats and I encourage everyone to read the article and to visit the Knowledge Centre!
+Yvonne Budden :
+02 Feb 2012 17:31
+|  Tags: Advocacy Open Access Statistics
+|  Comments (0)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+Older entries
+February 2017
+Mo
+Tu
+We
+Th
+Fr
+Sa
+Su
+Jan
+|  Today  |
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Visit the WRAP repository
+Visit WRAP
+Twitter Feed
+New additions on twitter
+Twitter / wrap_papers
+Twitter updates from WRAP Papers / wrap_papers.
+wrap_papers: The rational choice approach to entrepreneurship: Mole, Kevin and Roper, Stephen (2012) The rational choic... http://t.co/COKUmmCf #wrap
+Search this blog
+Tags
+Open Access (26)
+Advocacy (25)
+Statistics (20)
+Events (18)
+Google Analytics (16)
+Galleries
+Slideshow of all galleries
+Wordles (3 images)
+Most recent comments
+@Jackie, thanks! I'm very proud of the team and everything we have achived in the past year. Looking… by
+Yvonne Budden
+on this entry
+That's an impressive amount of full text Yvonne. Congratulations to everyone at Warwick. by
+Jackie Wickham
+on this entry
+In my opinion the DEA is a danger to digital liberties and should be thrown out, period Andy @ Lotto… by
+Andy
+on this entry
+Has anyone tried an assessment using the suggested PIs– including the author of the paper? It seems … by
+Hannah Payne
+on this entry
+Hi Yvonne I came across this article myself recently. And I was wondering how much of an issue this … by
+Jackie Wickham
+on this entry
+Blog archive
+Loading…
+Not signed in
+Sign in
+Powered by BlogBuilder
+© MMXVII

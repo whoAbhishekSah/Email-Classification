@@ -1,0 +1,117 @@
+SoDaMaT | Research Data Management at the Centre for Digital Music
+Research Data Management at the Centre for Digital Music
+SoDaMaT
+Sound Data Management Training
+Mapping SoDaMaT training materials to the Vitae RDF
+Submitted by Steve Welburn on Mon, 25/02/2013 - 00:00
+SoDaMaT
+The Vitae Researcher Development Framework (RDF) breaks researcher skills and knowledge into a series of domains and sub-domains within which are placed characteristics of excellent researchers - termed descriptors in the RDF. For each descriptor, the RDF identifies three to five levels of competency (phase 1 being basic skills, phase 5 being most advanced).
+By applying the Vitae Information Literacy Lens we can map the areas covered within the SoDaMaT training materials to the RDF.
+Steve Welburn's blog
+Read more
+Blog Comments
+Submitted by Steve Welburn on Wed, 13/02/2013 - 13:20
+SoDaMaT
+Sadly, due to the large number of spam messages received, we have had to close comments on the blog. There weren't many comments but they were appreciated.
+Steve Welburn's blog
+MAT DTC Software Carpentry workshop at QMUL
+Submitted by Steve Welburn on Fri, 08/02/2013 - 15:46
+SoDaMaT
+The final project workshop was embedded in a Software Carpentry course given by Sound Software to students in the Media and Arts Technology (MAT) Doctoral Training Centre (DTC) at QMUL. The students consisted of new postgraduate Masters students and MAT DTC students in the first year of their PhD studies. The course aimed to give the students a toolbox of useful skills to allow them to perform their research effectively. The format and content was largely similar to the pre-DAFx Software Carpentry Bootcamp but with less of an audio focus (as not all MAT students are involved in audio research). The bootcamp was compressed into two days and had an additional section on research data management.
+Steve Welburn's blog
+Read more
+Publishing virtual machines
+Submitted by Steve Welburn on Fri, 18/01/2013 - 14:34
+SoDaMaT
+We recently had a requirement to publish a virtual machine through the data repository - combining the software to process the data (XUbuntu, python, R etc.) and the data itself. This allows all necessary libraries to be published in consistent versions so that users can just get on with using the data. All users need is a copy of VirtualBox and to install the image.
+All well and good. However, the uncompressed virtual machine was 7.4 GB which is way above the 2GB limit for DSpace to cope with. Compressing it with zip improves the situation somewhat - creating a 4.2 GB archive. This is still "a miss is as good as a mile" territory as far as publishing the data is concerned. This post explains how we got that down to 1.7 GB with minimal changes to the useful content of the archive.
+Steve Welburn's blog
+Read more
+Evidence of the need for Research Data Management.
+Submitted by Steve Welburn on Thu, 13/12/2012 - 00:00
+SoDaMaT
+A lot of the project output is a set of online training materials, put together in a wiki. Attached to these materials are various articles reinforcing the need for good data management in research.
+These articles include: tales of lost laptops and USB devices with PhDs on them;
+various disasters (Fire! Flood! Hurricane!) causing entire buildings to be at risk; terms of service for cloud storage; issues of hard drive reliability; and the lessons to be learnt from the BBC Domesday Project.
+Steve Welburn's blog
+Read more
+Feedback on the SoDaMaT online materials
+Submitted by Steve Welburn on Fri, 23/11/2012 - 15:07
+SoDaMaT
+In order to evaluate the online materials, we asked researchers within C4DM to look at them and to give us informal feedback. Although we received some feedback, we would have preferred to have received more. We hope after the C4DM training sessions in December 2012.
+Overall, comments were positive, with some questions about the structure of the wiki and “how to use it”. Some of the comments regarding the structure were based on reviewing the wiki content as a single page (this option was created in case people wanted to print the materials for offline use).
+Steve Welburn's blog
+Read more
+JISCMRD Programme Workshop
+(24th-25th October 2012)
+Submitted by Steve Welburn on Mon, 29/10/2012 - 00:00
+SoDaMaT
+The JISCMRD programme workshop had several tracks covering the current state of MRD.
+Highlights included:
+data.bris providing 5Tb per project for 20 years – it will be interesting to see how data usage actually pans out in the future. Does providing “large” storage encourage more data, or is it just large enough that people don't have to worry about what to do with their (much smaller) quantities of data ?
+Learning about the CKAN data portal used by data.gov.uk, and possibly suitable for a public-facing service for data publication. Nice features include visualisations, geospatial data, grouping etc.
+Academic DropBox interfaces came up (again) and always seem to focus on “the cloud” as the storage layer. However, the discussion isn't usually about where the data is actually stored - rather it is that users want: (i) their data to be backed up automagically; and (ii) their data to be available wherever they want to use it (largely home or lab). There is no reason that DropBox type functionality can't be provided using a standard institutional shared network drive. The focus on the technology (“the cloud”) rather than the user experience seems to be a flaw in current discussions.
+In the Repositories and Storage session, it was interesting to learn more about Hydra.
+The RDM Training session was split into two parallel sessions as there were so many people interested in presenting – which meant that I could only attend one of the two most relevant sessions in the workshop. However, in that session there were many useful take-home points:
+Jez Cope, U. of Bath, pointed out: the difficulties in getting researchers to attend training sessions; that a lack of specific RDM processes can be an issue; and that getting researchers to create a RDM plan was a successful training activity;
+Gareth Cole, Open Exeter, reminded us that bibliographies are data and that although students like discipline-focussed training they happily identified common themes for data management for a RDM survival guide;
+the discussion session also raised many good points: peer-to-peer training of new students by old-hands; the different training needs of support staff; RDM as an inter-disciplinary activity (research, library and core IT); embedding RDM training with other staff training requirements (e.g. training researchers in creating data management plans as part of training on creating grant proposals); RDM acceptance varies with the experience of the researchers.
+All-in-all, there was lots of interesting content, and a good view of the state-of-RDM. The big issues seem to be user-experience related - and largely around submission interfaces. Partly, this must come from data management moving towards individual researchers as curators of their own data rather than relying on a central curator / data manager. Many of the current smaller projects (including ourselves) are largely catching up with this current state, hopefully we will soon see a more concerted push to move things forward into what people need.
+Steve Welburn's blog
+Read more
+ISMIR 2012
+Submitted by Steve Welburn on Tue, 16/10/2012 - 13:26
+SoDaMaT
+On 8th October, we gave our second conference tutorial on software and data for reproducible research. This time the conference was the International Symposium On Music Information Retrieval (ISMIR).
+Music Information Retrieval (MIR) largely considers two distinct areas: finding useful information from audio (e.g. tempo, beats, pitch, chords, song structure) and finding audio based on user queries (e.g. playlist generation or music recommendation). As such, the emphasis is on analysis of audio and audio-related metadata.
+The tutorial was longer than that at DAFx, with the addition of a live coding example from Chris Cannam and time for some some discussion at the end. My data management presentation was again about 30 minutes.
+Steve Welburn's blog
+Read more
+DAFx 2012 Evaluation
+Submitted by Steve Welburn on Tue, 02/10/2012 - 10:32
+SoDaMaT
+Our initial evaluation plan was to use surveys to gauge the reactions of participants to the training. However, as the DAFx tutorial was open to all conference attendees, we were unable to contact them directly for a survey. Evaluation was therefore largely based on the questions raised at DAFx and a debriefing session with the Sound Software team.
+As mentioned in our initial post on DAFx, “the Dropbox question” was raised at DAFx for backups and questions on where to publish data. Digital audio research has no thematic repositories and few institutions currently have their own repositories. As such, there were few options for data publication for us to offer – for subsequent tutorials, we developed an extended list of possible ways to publish data including general online data sites (e.g. archive.org), research data publication sites (e.g. figshare.com), supplementary materials for journal articles and, if necessary, project web-sites.
+Steve Welburn's blog
+Read more
+DAFx 2012
+Submitted by Steve Welburn on Tue, 25/09/2012 - 09:40
+SoDaMaT
+Following on from the pre-DAfx Software Bootcamp, the DAFx conference itself was 17th-21st September. This gathers international researchers in audio effects and related fields - the program covered spectral processing of audio, physical modelling, time and pitch scaling, auralisation, spatial processing, virtual analogue devices, sound synthesis, touchscreen devices, auditory scene analysis, feature extraction, source separation and other algorithms.
+On Monday 17th September, we presented a 90 minute tutorial in conjunction with the Sound Software project on "More Effective Software and Data in Audio Research". The tutorial started with Professor Mark Plumbley, the head of the Centre for Digital Music, introducing reproducible research and the need for Open Access publications, I then discussed research data management, Chris Cannam showed how to write effective research software and the session closed with Professor Plumbley wrapped-up the session with some pointers on what research groups can do to enable researchers to create reproducible research.
+Steve Welburn's blog
+Read more
+1
+2
+next ›
+last »
+Home
+Data at C4DM
+Blog
+Blog Policies
+Reports and Deliverables
+Contact Us
+Search this site:
+Links
+SMDMRD at SoundSoftwareSMDMRD Wiki
+SWORD Uploader
+SoDaMaT at SoundSoftwareSoDaMaT Wiki
+Projects
+SMDMRD
+SoDaMaT
+Recent blog posts
+Mapping SoDaMaT training materials to the Vitae RDF
+Blog Comments
+MAT DTC Software Carpentry workshop at QMUL
+Publishing virtual machines
+Evidence of the need for Research Data Management.
+Feedback on the SoDaMaT online materials
+JISCMRD Programme Workshop
+(24th-25th October 2012)
+ISMIR 2012
+DAFx 2012 Evaluation
+DAFx 2012
+more
+Twitter
+Follow @RDM_C4DM
+Powered by Drupal

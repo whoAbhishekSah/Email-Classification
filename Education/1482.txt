@@ -1,0 +1,156 @@
+PIOP Mahara - CETISwiki
+Home
+|
+Events
+|
+Comment
+|
+Topics
+|
+Publications
+|
+Contacts
+Log in
+Views
+Article
+Discussion
+View source
+History
+PIOP Mahara
+From CETISwiki
+Jump to: navigation, search
+One of the Portfolio interoperability projects funded by the JISC
+Contents
+1 Contacts:
+2 What we will do
+3 What we will deliver
+3.1 Test account(s)
+3.2 Documentation
+3.3 Mahara Import/Export API with LEAP2A plug-in
+3.4 Report
+3.5 Extended deliverables
+4 Development
+4.1 Mahara to LEAP2A Mapping
+4.2 Mahara Glossary
+4.3 Import/Export Reports
+4.4 Documentation of Import/Export Approach in Mahara
+4.5 LEAP2A Reader
+5 Use Case Scenarios
+5.1 Scenario A: Reflective Coursework
+5.1.1 Work Placements
+5.1.2 Case Notes
+5.2 Scenario B: Competency Evidence
+5.2.1 Entry to Employment
+5.3 Scenario C: Transition
+5.3.1 Graduation
+5.4 New Scenario: Informal Learning
+5.4.1 Flexible Curriculum
+5.4.2 Entry to Employment
+6 Links to materials
+6.1 Project Documentation
+6.2 Mahara User Guides
+6.3 LEAP2A Development Site
+6.4 General Demo Site
+6.5 Example Views
+Contacts:
+Project Co-ordinator: James Ballard,
+University of London Computer Centre
+Project Partner: Niall Barr,
+University of Glasgow
+Development Team: Penny Leach, Nigel McNie,
+Catalyst IT
+Discussion Forum(s):
+Development
+What we will do
+The main aim of this project will be to add import/export functionality to the Mahara e-portfolio system, as part of the 1.2 release. Import and Export are being treated as two separate APIs with a LEAP2A plug-in being developed for each. It is planned that a second plug-in will also be developed for each to avoid having the APIs linked specifically to one format. The Mahara development team at Catalyst IT will be leading this part of the project.
+As we are looking to implement LEAP2A as a standard we also need to evaluate how this maps to the Mahara structure and various use cases scenarios. ULCC and University of Glasgow will be supporting Mahara for a range of users during the project and will include details of how these fit within the LEAP2A specification. It is intended to provide examples for the case scenarios using Mahara where this is possible.
+At the simplest level it is planned that the import/export functionality will be suitable to move content between two Mahara systems, however the LEAP2A import plug-in will allow us to test imports from the other portfolio systems involved in the project and provide feedback on how these worked. This will suggest methods for packaging portfolios to best support the specification.
+What we will deliver
+Development of functionality to the Mahara system will be available to download through the Mahara website under a suitable open Source license and documentation will be made available through the PIOP and the Mahara community site as appropriate. As we complete different stages of the project we will update the details here.
+Test account(s)
+Generic test accounts to be provided on a Mahara installation to be set up once development commences.
+Documentation
+User guides, database mapping information and any explanations of key terms as related to the project to be made available via the Mahara community site and project documentation.
+Mahara Import/Export API with LEAP2A plug-in
+The APIs will be included for download with the standard system, with LEAP2A being the first plug-in supported. These will allow us to test import/export functionality against other systems.
+Report
+Summary of project with achievements, obstacles, and future suggestions.
+Extended deliverables
+This project hopes to provide a standalone LEAP2A viewing tool based on the IMS CCReader.
+The project hopes to provide a PHP library for reading and/or writing LEAP2A, under a liberal open source license.
+Development
+Mahara to LEAP2A Mapping
+I have separated the mappings into artefacts and views, where a view is a collection of artefacts. As such a view should always be degradable into its constituent artefacts. Otherwise the view element is an external link (e.g. RSS feed or You Tube video).
+Mahara Mapping
+Mahara Glossary
+Key terminology about Mahara can be found in the glossary.
+Mahara Glossary
+Import/Export Reports
+Reports of results for Import and Export can be found on the Mahara Wiki. It is expected that these will be continued and refined over the coming months.
+Import/Export Reports
+Documentation of Import/Export Approach in Mahara
+Documentation about the approach taken to import and export in Mahara (naturally, the source is available to inspect too :).
+Import Implementation Docs
+Export Implementation Docs
+LEAP2A Reader
+The LEAP2A content reader is a simple PHP web viewer for LEAP2A data, which can also be used as an file reader library for more complete portfolio tools written in PHP.
+LEAP2A Reader
+Use Case Scenarios
+All of the existing LEAP2A practice scenarios can be found within implementations of Mahara. Some potential additional variants and scenarios are detailed below.
+Scenario A: Reflective Coursework
+Work Placements
+Users on practical work placements will need to keep a reflective journal of activities while off-campus.
+Case Notes
+On many programmes detailed case notes will need to be recorded and collated as a user studies. Particular examples of this are common to Medical and Law programmes, for example diagnosis notes or court case notes.
+Scenario B: Competency Evidence
+Entry to Employment
+A user may reuse evidence of competencies required during a qualification based course to present themselves to prospective employers. As such they may need to repurpose these into suitable formats and systems to support applications. This seems a variant of the existing case to reuse competency evidence in a non-educational context.
+Scenario C: Transition
+Graduation
+A student has used Mahara at University or College to build up an e-portfolio including views that can be used to support job applications. Having left the educational institution the former student now requires the views exported to be taken away in a form that can be viewed without specialist tools.
+New Scenario: Informal Learning
+Flexible Curriculum
+Mahara will be supporting students with learning difficulties to present, share, and discuss work with peers and supporting tutors. As these students may not be following structured programmes, and various requirements, a personalised e-portfolio system is considered more suitable to support learning than a VLE.
+Entry to Employment
+Entry to employment both in a jobseeker context and within the 16-18 e2e work schemes also tend towards the collation of informal learning activities, which again are supported effectively by personal portfolio systems.
+Links to materials
+Project Documentation
+Development Wiki: http://wiki.mahara.org/Developer_Area/Import%2f%2fExport (information and meeting notes)
+Mahara User Guides
+For students: http://demo.mahara.org/artefact/file/download.php?file=4277
+For staff: http://demo.mahara.org/artefact/file/download.php?file=4276
+LEAP2A Development Site
+The development site for import/export functionality is at http://importexport.dev.mahara.org/
+The login details are:
+Username: piopuser
+Password: p10pmahara
+You can grab an export of the data for that account by visiting the 'Export' tab under 'My Portfolio'.
+You can also attempt importing by going to the site administration section, and then to the Add User screen. You can use a LEAP2A file to provide the data for a newly created user. It will import Mahara exports without fuss, and will import feeds from other systems with varying degrees of success - this is documented on our Interoperability page on the Mahara Wiki.
+General Demo Site
+For a general demo of Mahara you can register at http://demo.mahara.org/
+Example Views
+For examples of how people are using Mahara in practice please see below:
+CPD Profile: http://mahara.ulcc.ac.uk/view/view.php?id=10
+Student Projects: http://cterfile.ed.uiuc.edu/mahara/view/view.php?id=327
+Just for Fun: http://demo.mahara.org/view/view.php?id=485
+Combining External Feeds: http://mahara.ulcc.ac.uk/view/view.php?id=1
+Information Portal: http://myportfolio.school.nz/view/view.php?id=44
+Retrieved from "http://wiki.cetis.ac.uk/PIOP_Mahara"
+Categories: Portfolio | PIOP
+Navigation
+CETIS Wiki
+Recent changes
+Help
+Search
+Toolbox
+What links here
+Related changes
+Upload file
+Special pages
+Printable version Permanent link
+This page was last modified 18:34, 23 October 2012.
+This page has been accessed 108,454 times.
+Content is available under a Creative Commons Attribution License.
+Privacy policy
+About CETISwiki
+Disclaimers

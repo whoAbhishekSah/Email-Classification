@@ -1,0 +1,40 @@
+RAPTOR
+Search:
+LoginPreferencesHelp/GuideAbout Trac
+WikiTimelineRoadmapBrowse SourceView TicketsSearch
+wiki:WikiStart
+Context Navigation
+Start PageIndexHistory
+Last modified 19 months ago
+Last modified on 07/16/15 15:32:26
+Welcome to the ​trac for the open source, free to use Raptor software suite; a product of the JISC funded RAPTOR project. Raptor is a software suite for accounting of authentication information,
+primarily designed to assist organisations account for e-resource usage.
+Raptor currently has log file parsers pre-configured for the ​Shibboleth IdP and SP, ​EZproxy, the ​OpenAthens LA IdP, and ​FreeRADIUS as a ​Moonshot or ​eduroam IdP - but is easy to extend to parse any authentication system's log files.
+The Raptor Software
+Overview of the Raptor software - READ THIS FIRST!
+Version Information
+Screenshots
+Installing and Configuring Raptor
+Installing / Upgrading
+Configuration
+Productionalisation
+Using Raptor
+Raptor User Guides
+Report Templates
+Support for the Raptor Software
+Frequently Asked Questions
+Common Problems and Solutions
+Reporting Bugs
+Mailing Lists
+Community Contributions
+Further Technical Information
+GUID Registry
+Adding A New System Event Type
+Misc
+About the Projects which developed Raptor
+The Raptor logo
+Download in other formats:
+Plain Text
+Powered by Trac 0.12.5
+By Edgewall Software.
+Visit the Trac open source project athttp://trac.edgewall.org/

@@ -1,0 +1,128 @@
+Dynamic Variorum Editions
+Dynamic Variorum Editions
+Skip to content
+About us
+Findings
+Meetings
+Team
+Contact
+Updates
+← Older posts
+Bodin Project at the PDL
+Bodin Project starts digitizing Jean Bodin for the PDL
+A
+Tufts Innovates! seed fund grant will help Yannis Evrigenis
+and the Bodin Project
+at Tufts University to digitize Jean Bodin’s Les six livres de la republique.
+The work, which was published in French, Latin and English and contains copious references to other works, will form the basis of a dynamic variorum edition and will be used
+as a test-case for identifying text re-use across linguistic boundaries.
+Yannis has assembled a team of six undergraduate students and one graduate student to work on the digitization of Bodin’s Latin and French text, with help from Bridget Almas and Lisa Cerrato, as well as other members of the Perseus team.
+At the same time, the Tisch Library at Tufts has acquired a 1577 copy of Bodin’s French text and a 1609 copy of the Latin, which it has also digitized through the Internet Archive at the Boston Public Library.
+The extraction of the Latin text began in June 2013 and was completed in July 2013, while that of the French began in August 2013 and is continuing at present, albeit at a much slower pace, since several of the students have left to study abroad and everyone has returned to a regular schedule.
+Two of the students are continuing to work on the project under Evrigenis’s supervision, and in the spring semester, Evrigenis will be devoting a political theory methods seminar to Bodin and the parallel edition of the Six livres that will be open to undergraduates and graduate students who can read Latin.
+We will continue to work on the French simultaneously, and we expect to have the full French text by the end of the 2013-2014 academic year.
+In the meantime, Bridget Almas has begun to test the Latin text against Morpheus, to identify word tokens that are not recognizable by a dictionary and may need to be corrected.
+We intend to subject the French to the same preliminary test, although the additional difficulty in that case will be to identify a suitable lexicon that will incorporate Renaissance French.
+We expect that workable editions of all three versions of the text will be available by the middle of the summer of 2014.
+Posted in Uncategorized
+|
+1 Comment
+Bruce Robertson and Federico Boschetti at Digital Humanities Leipzig
+Ancient Greek OCR at Digital Humanities Leipzig
+Bruce Robertson and Federico Boschetti presented their latest work on ancient Greek OCR at an Open Philology workshop organised by Digital Humanities Leipzig at the University of Leipzig in August.
+Boschetti’s CoPhi editor at work
+You can follow their latest work on Github: Bruce’s work is
+here. Federico’s work is now in the Open Philology repository on github.
+Read the Digital Humanities Leipzig blog entry.
+Posted in OCR
+|
+Tagged OCR
+|
+Leave a comment
+Perseids’ Fragmentary Texts Demo at DH-Case 2013
+Perseids’ Fragmentary Texts Demo at DH-Case 2013
+Bridget Almas and Monica Berti will be presenting a paper at DH-Case 2013 about the Fragmentary Texts Demo they have built using the Perseids environment for collaborative editing developed at the Perseus Digital Library.
+For more, see Monica Berti’s post.
+Perseids Fragmentary Text Demo
+Posted in Uncategorized
+|
+Leave a comment
+Sharing Ancient Wisdoms
+SAWS Project
+The international  SAWS  project has been funded by HERA, Humanities in the European Research Area.
+“The aim of the SAWS project is to present and analyse the tradition of wisdom literatures in Greek and Arabic. Throughout antiquity and the Middle Ages collections of wise or useful sayings were created and circulated, as a practical response to the cost and inaccessibility of full texts in a manuscript age; the project will focus on those which collected moral and social advice.”
+This first programme of trans-European research ends in summer 2013, and is being marked by a Festival of the Humanities in London. This will include a discussion of the implications of this programme for Digital Humanities.
+The SAWS Dynamic Library of Wisdom Literatures is due for preliminary publication in June, with a final version due by 15 August 2013.
+Posted in Uncategorized
+|
+Leave a comment
+Libhpc
+Imperial College Libhpc infrastructure workshop
+The Social Computing Group at Imperial College London will be holding a workshop on its infrastructure project libhpc, which develops some of the ideas for scaling trialled in DVE.
+Libhpc is a framework for running computational intensive applications over a range of different resources (sometimes called heterogeneous computing). It uses an approach called co-ordination forms (or algorithmic skeletons) to re-structure applications so that they can take full advantage of parallel systems, especially those with diverse resources such as GPGPUs and FPGAs. It is especially designed to support scaling using cloud computing resources.
+The workshop will look at the current state of the art with frameworks for large infrastructures, with projects from science and industry presenting overviews of their approaches.
+Read more and book a place...
+Posted in Uncategorized
+|
+Leave a comment
+Open Philology Project
+Open Philology Project
+Gregory Crane, who was an investigator in DVE,  has posted the research plan for his Open Philology Project at the University of Leipzig, where he is Humboldt Chair of Digital Humanities.
+This is a very exciting project, which will be looking at many of the same issues as DVE.
+The project will focus on
+“converting as much Greek and Latin, available as scanned printed books, into an open, dynamic corpus, continuously augmented and improved by a combination of automated processes and human contributions of many kinds.”
+and will address
+“the challenge of creating comprehensive open resources, providing the education needed to understand and to contribute to those resources, and integrating open resources from many different sources into an integrated computational framework for analysis, annotation, and preservation.”
+You can find the post here: http://sites.tufts.edu/perseusupdates/2013/04/04/the-open-philology-project-and-humboldt-chair-of-digital-humanities-at-leipzig/
+Posted in Uncategorized
+|
+Leave a comment
+Use of Perseids to Annotate Text Reuse
+Use of Perseids to Annotate Text Reuse
+Monica Berti, PhD. discussed using Perseids to annotate text reuse in her “Fragmenta Historica 2.0
+Quotations and Text Re-uses in the Semantic Web” presentation at the Digital Classics Association conference in Buffalo, NY on April 5th, 2013.
+Posted in Uncategorized
+|
+Leave a comment
+DVE OCR in Leipzig
+DVE OCR in Leipzig
+Bruce Robertson presented the back-end work on his polytonic Greek OCR at a University of Leipzig symposium with co-author Federico Boschetti.
+Bruce Robertson and Federico Boschetti on Greek OCR at #eHum2012 twitter.com/Monica_Berti/s…
+— Monica Berti (@Monica_Berti) October 10, 2012
+Posted in Uncategorized
+|
+Leave a comment
+Perseids at Perseus
+Online Community Editing for Ancient Texts
+The Perseus Project has announced the development of Perseids:
+“…a web-based, fully audited, version-controlled editing environment built on the Son of SUDA Online (SoSOL) platform, originally developed for the papyrological community but designed for applicability to other editing communities.” ( http://sosol.perseus.tufts.edu/sosol/)
+Perseus is adding support to SoSOL for the CTS/CITE Architecture and OAC core data model. It will enable the collaborative editing of texts in a framework of rigorous and transparent peer-review and credit mechanisms and strong editorial oversight.
+You can read more here: http://sites.tufts.edu/perseusupdates/beta-features/perseus-sosol/
+Perseids/SoSOL is being used at the Leipzig Atheneus hackathon.
+Posted in Uncategorized
+|
+Leave a comment
+Survey of 19th century Greek OCR
+OCR for 19th century Greek
+Bruce Robertson has published some preliminary results of a survey of OCR techniques for 19th century Greek.
+http://www.heml.org/RobertsonGreekOCR/
+Posted in Uncategorized
+|
+Leave a comment
+← Older posts
+Granting Agencies
+The Digging Into Data Challenge is supported by the following national
+agencies:
+NEH
+JISC
+SSHRC/CRSHC
+Other DiD Groups
+Structural Analysis of Large Amounts of Music Information
+Digging into the Enlightenment: Mapping the Republic of Letters
+Using Zotero and TAPoR on the Old Bailey Proceedings: Data Mining with Criminal Intent
+Digging into Image Data to Answer Authorship Related Questions
+Harvesting Speech Datasets for Linguistic Research on the Web
+Railroads and the Making of Modern America—Tools for Spatio-Temporal Correlation, Analysis, and Visualization
+Mining a Year of Speech
+Dynamic Variorum Editions
+Proudly powered by WordPress.

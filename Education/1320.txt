@@ -1,0 +1,75 @@
+Terminology Registry Scoping Study | Home Page
+UKOLN
+Raising Awareness
+Home
+A-Z of projects and activities
+About UKOLN
+Contact UKOLN
+Accessibility
+News RSS
+"A centre of excellence in digital information management,
+providing advice and services to the library, information and
+cultural heritage communities."
+UKOLN is based at the University
+of Bath.
+Related Links
+Project Home Page
+Documentation
+Related work
+Results and dissemination
+Terminology Registry Scoping Study
+Background
+This scoping study was a JISC-funded project which ran from 7 February 2007 to 7 August 2008.
+Further information is available
+on the
+JISC Web site.
+About the TRSS Project
+A terminology registry lists, describes, identifies and points to sets of vocabularies
+available for use in information systems and services. It can cover free and
+publicly available, fee-based and restricted, or organisation-internal vocabularies.
+The registry allows discovery of suitable schemes for information or, potentially, use,
+by exposing rich metadata about them for navigation and retrieval. The metadata can
+hold information allowing the selection of schemes suitable for different purposes,
+address information for contacting owners and maintainers, hypertext-links to connect
+to the vocabularies or maintainer sites, information to differentiate between versions
+and identifiers, names and labels to unambiguously refer to a given scheme.
+The study will analyse issues related to the potential delivery of a Terminology Registry
+as a shared infrastructure service within the JISC Information Environment. The study
+will consider how a Registry might support development of terminology and other
+services within the context of a services oriented environment. The role of a
+terminology registry will be considered in relation to other components of the
+information landscape, in particular with regard to other JISC IE shared infrastructure
+services, such as the JISC IE metadata registry (IEMSR) and the JISC IE service
+(and collection) registry (IESR). In addition the study will draw on experience
+of the use and development of terminology and ontology registries in other domains,
+particularly within the e-Learning and e-Science domains, and will draw on experience
+from international initiatives.
+The study will describe usage scenarios and use cases, investigate requirements
+and sustainability, study costs and benefits. It will look at organisational questions
+such as who is to create, maintain and host the content of the registry and at
+cooperation with similar registries. Architectural issues will be explored, in particular
+the potential for co-ordination of registry efforts within the JISC IE and across domains.
+The scoping study will make recommendations on which JISC can base decisions
+on future provision of a terminology registry. It is envisaged that the work will
+inform the development of the Information Environment, the e-Framework and
+e-Infrastructure initiatives. The project will also contribute to any future
+JISC strategic development activities.
+Lead Institution
+UKOLN at the University of Bath
+UKOLN staff who worked on the project were Koralijke Golub and Michael Day.
+Project partner
+University of Glamorgan, Hypermedia Research Unit, http://hypermedia.research.glam.ac.uk
+Non-funded supporting partners
+OCLC Office of Research, USA: http://www.oclc.org/
+Archive of Project Web Site
+An archive
+of the Terminology Repository Scoping Study
+is available on the Internet Archive.
+On 21 March 2013 the project Web site had been crawled 21 times, dating back to 9 June 2008.
+|
+|
+University of Bath
+UKOLN receives support from
+the University of Bath where it is based.
+Page last revised on:
+17-Apr-2013

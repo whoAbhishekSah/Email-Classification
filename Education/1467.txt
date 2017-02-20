@@ -1,0 +1,17 @@
+dotAC.info
+dotAC: the new information portal for academics in UK higher education
+Welcome to the JISC-funded dotAC project!
+About dotAC
+Project Team
+Documentation
+Code Repository
+Blog
+Project Deliverables
+dotAC Explorer
+dotAC Coreference Editor
+dotAC Knowledge Base
+JISC Project Knowledge Base
+OAI-gathered (via ROAR) Knowledge Base
+CERIF2008 ontology
+CERIF Mapping Documentation
+contact@dotAC.infoElectronics and Computer Science · University of Southampton

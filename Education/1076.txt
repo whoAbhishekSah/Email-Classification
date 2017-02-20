@@ -1,0 +1,96 @@
+R4L: The Repository for the Laboratory - a JISC Project
+University of Southampton
+> ECS > R4L
+> Home
+Home | Overview
+| News | Papers
+and Presentations | Technologies
+| Background
+| People
+Supporting Laboratory
+Research through digital repositories
+R4L Noticeboard, latest ...
+> R4L Final Report
+The project Final Report has been compiled and given to JISC.
+More ...
+> R4L in D-Lib Magazine
+A short article about the R4L project has been published in the March/April 2007 issue of D-Lib Magazine (March 2007).
+More ...
+> New R4L repository architecture design implemented
+The newly redesigned and improved R4L repository
+can be previewed at r4l-dev.eprints.org (16th Feb. 2007).
+More ...
+> R4L in a RIN report
+The R4L project has been mentioned in a
+report
+by the Research Information Network (5th Feb. 2007). More
+...
+> R4L to conduct a SPECTRa survey
+R4L has agreed to conduct a survey on the
+Use of Computers and the Internet in Chemistry Research
+(February. 2007). More ...
+> R4L Probity Service up and running
+The service allows researchers to register
+their results and findings, and can guarantee... (Sept.
+2006). More ...
+What the Project is doing?
+This project will address the area of interactions between repositories
+of primary research data, the laboratory environment in which they operate
+and repositories of research publications into which they ultimately feed
+(through documented interpretation and analysis of the results and in
+explicit linking and citation of the data sets). It will develop prototype
+services and tools to address the issues of working with, disseminating
+and reporting on experimental data. In collaboration with scientific equipment
+manufacturers the project will develop methods to make raw experimental
+data available and richly annotated with metadata, as it is generated
+in the laboratory. The possibilities for aggregating heterogeneous raw
+experimental data from different sources and experiments, via effective
+management of the repository for the laboratory, will also be explored
+and prototype tools developed to enable, manipulate and derive reports
+for publication purposes. It will also engage in discussions with publishers
+and societies to determine anticipated requirements. More ...
+Our sister site eprints.org
+offers focal points for support services, community building, news and information on OAI-based
+open-access institutional archives.
+Project Information
+What is R4L?
+A research project investigating and developing digital data
+and document repositories for laboratory-based science.
+Who are the active Project Partners?
+Southampton University, Association of Learned and Professional
+Society Publishers.
+What is the Timescale?
+June 2005 - May 2007.
+Funding?
+R4L is funded by
+within the programme Digital
+Repositories.
+Click here for more on R4L...
+Contact Information
+Email Dr Simon Coles,
+Project Manager
+OR PHONE:
+Tel: +44 (0)23 8059 4479
+Fax: +44 (0)23 8059 2865
+OR POST TO:
+R4L Project,
+Intelligence, Agents, Multimedia Group,
+Department of Electronics & Computer Science,
+University of Southampton,
+Highfield,
+Southampton
+SO17 1BJ, UK
+Project Partners
+The University of Southampton
+The School of Electronics and Computer Science
+The School of Chemistry
+The Association of Learned and Professional Society Publishers (ALPSP)
+Rigaku MSC
+(Laboratory Equipment Manufacturers)
+Bruker axs
+(Laboratory Equipment Manufacturers)
+^TOP OF PAGE |
+Contact Us | Intranet | ©2007 University
+of Southampton
+This site is produced and maintained by the R4L project, please contact the
+Webmaster for site related comments

@@ -1,0 +1,405 @@
+RISE | Recommendations Improve the Search Experience
+RISE
+Recommendations Improve the Search Experience
+Skip to content
+HomeRISE Project informationSearch interfacesTechnical Resources
+← Older posts
+New case study on RISE and forthcoming changes to Google Code
+Posted on March 26, 2015 by admin
+A case study “The potential of data to inform personalized recommendations at the Open University Library” is included in a new book from Facet due to be published in April 2015.
+Showers, B. Library Analytics and Metrics: Using Data to Drive Decisions and Services.  Facet Publishing    9781856049658
+http://www.facetpublishing.co.uk/title.php?id=049658#about-tab
+The case study covers the approach taken by the RISE project to create recommendations from activity data.
+Google Code
+Google Code have recently announced changes that will lead to the service being shutdown at the end of 2015 ‘Bidding farewell to Google Code’
+The open source code for the RISE project is currently hosted at Google Code https://code.google.com/p/rise-project/
+In the next few months we will be looking for alternative hosting arrangements for the code
+Posted in Update
+|
+Tagged Library Analytics and Metrics
+|
+Leave a comment
+RISE references in JISC Activity Data and JISC CETIS Learning Analytics reports
+Posted on January 25, 2013 by admin
+JISC and JISC CETIS have recently published several Activity Data and Learning Analytics papers with references to the RISE project.
+JISC Activity Data – delivering benefits from the data deluge
+This report covering the potential of activity data includes a short case study about the RISE project
+JISC CETIS Learning Analytics reports
+This series of reports on Learning Analytics explores a number of issues around learning analytics.  Several of the reports contain references to the work of the RISE project.
+Analytics for the whole institution – http://publications.cetis.ac.uk/wp-content/uploads/2012/11/Analytics-for-the-Whole-Institution-Vol1-No2.pdf
+Analytics for learning and teaching – http://publications.cetis.ac.uk/wp-content/uploads/2012/11/Analytics-for-Learning-and-Teaching-Vol1-No3.pdf
+Analytics for understanding research – http://publications.cetis.ac.uk/wp-content/uploads/2012/12/Analytics-for-Understanding-Research-Vol1-No4.pdf
+Posted in Update
+|
+Tagged activity data, JISC CETIS, learning analytics
+|
+Leave a comment
+RISE celebration event
+Posted on January 26, 2012 by admin
+As a final wrap-up for the RISE project we ran a short lunchtime seminar this week for OU staff from the Library and across the University.  It was a chance to say thanks to the people who were involved in RISE and to provide a summary of the work of the project.
+We were fortunate to be able to have the wider university context set for us by Will Woods from IET talking about the University’s work on Learning Analytics which is now a big priority for the University.  Using slides prepared by Kevin Mayles (who is leading the Learning Analytics project) it was interesting to see how closely this links with the activity data work.  We’ve been sharing our experiences from RISE (and the knowledge we’ve picked up about other projects in the strand such as Leeds Met’s Star Trak:NG project) with them and expect to contribute the data we’ve accumulated into the Learning Analytics data warehouse.
+For RISE we put together two short presentations.  One covering the background to the project and summarising the steps we took.  This takes you through how we went about the project, the technical solution we developed and some of the lessons learnt.  It also gives a bit of information about how we are taking RISE forward.
+Rise presentation-2012-01
+View more presentations from Richard Nurse
+The second presentation, by the RISE Project Manager, Elizabeth Mallett, covered the reaction by users to the ideas of recommendations and to the recommendations that they were being shown by RISE.
+Rise presentation-users-2012-01
+View more presentations from Richard Nurse
+After the presentations we had a really useful question and discussion session.
+It was a good lunchtime session and a chance to talk to a slightly different group of people, including academics, about some of the ways that activity data could be used to provide more personalised and relevant services to users.
+I’m sure it has set off a few thoughts in people’s minds about how this approach can lead to improved services.
+Posted in Update
+|
+Tagged #ourise, jiscad, learning analytics
+|
+1 Comment
+World Café table cloth diagrams
+Posted on August 30, 2011 by eam36
+The ideas and comments which participants at the Innovations in Activity Data workshop scribbled so colourfully onto paper table cloths during the World Cafe activity have now been written up .
+The images are as follows: (click on the image to see a full screen version of the image)
+Diagram 1 from table 1: What data?
+What data have you access to?
+How much data – how many years?
+Where is it?
+How do you get access to it?
+World Cafe table cloth diagram1
+Diagram 2 from table 2: So I’ve collected this data what can I do with it?
+Make recommendations?
+Use for business intelligence?
+Share it?
+Your ideas about what you’d want to know
+Who could it be aimed at?
+World Cafe table cloth diagram2
+Diagram 3 from table 3: What are the challenges?
+Barriers to using it?
+Data protection? Legal?
+Skills? Time?
+What’s the value/benefit
+World Cafe table cloth diagram3
+Diagram 4 is also from table 3. It is a sketch of Tony Hirst’s which didn’t quite fit and which I didn’t quite understand! I have drawn it exactly as he did (I think!).
+Tony Hirst's sketch on table 3
+Posted in Innovations in Activity Data
+|
+Tagged #ourise, Innovations in Activity Data, jiscad
+|
+Leave a comment
+Final blog post
+Posted on July 26, 2011 by admin
+What has RISE produced?
+A database based on EZProxy activity data, enhanced with bibliographic data from Crossref,  and containing terms used to search via the RISE interface.
+A web search interface http://library.open.ac.uk/rise to show recommendations to users searching the Ebsco Discovery Solution
+A Google Gadget version of the search interface http://www.open.ac.uk/blogs/RISE/search-interfaces/
+A set of project code http://code.google.com/p/rise-project/ released as open source (GNU GPL) to allow others to parse logfile data into a database and show recommendations
+Next Steps
+A major barrier to the open release of data from RISE has been the lack on open article level metadata.  One future area of work could be to encourage providers to open up their article level metadata to allow others to build services that use it.   It isn’t always clear what can be done with data that can be obtained through APIs and web services and it would be helpful to have a resource that recorded what different data is out there, how it can be accessed (i.e. what record keys do you need), what data can be retrieved, and what you can or cannot do with the data.
+Opening up activity data to an extent that it could be aggregated is clearly in the very early stages.  It would be useful if some standards and formats were established and agreed that could be used and then applied systems.  Part way through the RISE project the OpenURL project at EDINA released the first batch of OpenURL data and  we did a comparison between the data stored by RISE and the EDINA OpenURL data.  If you start with EZProxy data then there is very little cross-over with the OpenURL standard.
+What can other institutions do to benefit from the work of RISE?
+To help people replicate the proof of concept work that RISE has undertaken we’ve put together a few resources to help get people started:
+a technical resources page outlining how RISE approached the work
+a proxy logfile flowchart to show how the data in the logfile can be used for recommendations
+a code repository for the RISE code
+Blog posts here covering topics such as data privacy, anonymisation and data reuse.
+The project email address rise-project@open.ac.uk will continue to be monitored so if there are questions about building recommendations from EZProxy data then by all means get in touch.
+Most significant lessons
+Lesson 1: If you want to make use of activity data then you need to make sure that you retain it for an appropriate period of time.  Our EZProxy logfiles were routinely destroyed after a few months because they were not being used.  Using the data to provide recommendations provides justification for keeping the data (but you still need to ensure you think about when you delete that data from the recommendations system).
+Lesson 2: You can make recommendations out of proxy logfiles but… (Activity Data from proxy logfiles) … it isn’t particularly straightforward.  All the logfiles give you as a recommendation is a relationship that says ‘a user looked at this resource and then looked at that resource’  To make other types of recommendations you need to treat the logfile as the first link in the chain of data.  So you use the user logon to find out which course they are on (to make the recommendation ‘Students on your course are looking at these resources’) and save the search terms they use in your systems (to make the recommendation – ‘People who searched for this subject looked at these resources’).
+Lesson 3: You need some bibliographic data and it isn’t always easy to get from the logfiles or from the systems you use.  And when you get it you can’t always store it locally due to licensing restrictions.  But you need article titles, journal titles and dates for example so you can show users a sensible recommendation.  Users need enough information to be able to judge the potential value of the recommendation.
+If we were allowed a Lesson 4 – it would be that users actually say that they like the idea of recommendations and would be happy to see them in our systems.
+Addressing the big issues
+Privacy, anonymisation and data processing have very much been at the heart of the work that RISE has been undertaking and several blog posts cover these aspects in detail.
+Licensing and reuse of software and data
+RISE EZProxy parser step by step
+EZProxy and Activity Data
+Technical Approaches
+For RISE we have benefited from some of the work that had been carried out before, particularly from the EDINA OpenURL project and the OU LUCERO project in paving the way for some of the privacy and licensing aspects.
+RISE final thoughts
+RISE has been a really enjoyable project, investigating an area that has been a bit different to things that we have tackled before.  It has shown that recommendations can be made from EZProxy data, that users like recommendations and that overall there is a value in showing recommendations to users of new generation discovery solutions.
+Thanks go to everyone who has contributed to making the project work so well, to Liz and Paul, the Project Manager and Developer, to the other JISC projects who have provided us with information or spoken at our events, to the Synthesis project team (David, Tom, Mark and Helen) and to Andy the Programme Manager who have all helped to make the six months of the RISE project go past so quickly and make it so interesting. And a big thanks to JISC for funding the project!
+Posted in Benefits, Licensing & reuse of software and data, Recommendations, Uncategorized, Update, Users, Wins and fails (lessons along the way)
+|
+Tagged #ourise, jiscad
+|
+Leave a comment
+Users
+Posted on July 26, 2011 by eam36
+“A user focused post talking about the use case (user requirements) for the project work, how the project affects your users and how users are being engaged and reacting to the project”
+The user requirements
+The evidence from library users at the Open University is that a significant number find access to online library resources to be difficult and unfriendly.  More than 25% of respondents to the 2010 Library Survey said that they needed help in using online library resources.   The two major areas they found most difficulty with were searching for journal articles and searching databases.  Amongst the open comments were a large number that indicated how hard students found search.   Comments made included:
+“difficult to locate a particular article – the search doesn’t always work”
+“The search engine on the library is not very user friendly. I had to find a specific article recommended in the text and it took several attempts to locate it.”
+“The search facility is poor and doesn’t find stuff that is supposed to be there”
+Taking all the search-related open comments, the top five words used were:  search – library – article – find – difficult.   Five words that could be seen to sum up the user experience of library search for many people.
+At the time of the Library Survey the library used a commercial federated search service.  This meant that to search for articles users would first have to choose from sixteen categories, then enter their search, and then wait while the system sent the search off to a selection of online resources.  They would finally get back a list of results that would trickle back over several minutes depending on how fast a response was received from the database providers.  As well as federated search the library offers searches of the website, the library catalogue and provides links to the native search interfaces of hundreds of electronic journals, databases and ebooks.  A complex and often changing landscape of library resources.
+Difficulties with library search seem to be a common theme across the sector. See this blog post by Jane Burke from Proquest http://mhdiaz.wordpress.com/2011/03/11/the-user-expectations-gap-%e2%80%93-a-brick-wall-instead-of-an-open-door/ .  Many academic libraries have taken a similar tabbed search approach to providing access to library search.  In some ways the objective has been to achieve a simple ‘Google-like’ interface for users.
+To start to address the feedback from users, OU Library Services replaced the federated search tool with the EBSCO Discovery Solution (EDS) in January 2011.   EDS searches an aggregated index of metadata and provides a much more immediate set of relevance-ranked results from a simple ‘Google-like’ interface.   To evaluate the impact of this new service the library carried out a series of 1-to-1 interviews, focus groups and surveys throughout February and March 2011 to test whether users found the new search system to be an improvement.
+The RISE project arose as a result of the need to focus on ways of improving the user experience of library search.   With the adoption of EDS and the availability of a search API it opened up the potential for more innovative search approaches to be taken.  One such approach is to use activity data to improve the user experience by providing recommendations.  This has been a common feature of many websites for several years. Amazon is possibly the best example.
+As the One-Stop focus groups were happening in parallel with the RISE project, some questions on recommendations were included. Students were asked if they use recommendations and ratings and whether they would use recommendations for electronic resources.  Feedback from the students at the focus groups varied depending on whether they were undergraduate or postgraduate. The feedback from the first focus group (undergraduates, a mix of level 1 and level 2 modules) was that they saw ratings and reviews from other students as being beneficial.  One commented that ‘other people’s experiences are valuable’.  They were particularly interested in being able to relate them to the module a student had done and suggest that they would also like to know how high a mark the student had got in their module.  This suggests that some students are very focussed on achievement and saw that recommendations and ratings could help them.
+The second focus group (postgraduates studying a range of Arts, Social Sciences, Education and Science modules) was more cautious about recommendations. They put a lot of important on the provenance of the recommendations, and they were interested in module-specific recommendations about which databases were best, which search-terms might get the best results.
+More in-depth user feedback on recommendations was then gleaned through the RISE project. See User Engagement and User Reaction below.
+User impact
+The MyRecommendations and Google Gadget tools created by RISE have been made available to users as prototype and experimental tools rather than as core library products.   See the Measuring Success Blog post for more details.
+User engagement
+RISE has sought user engagement through several avenues:
+The MyRecommendations search page and One-Stop Google Gadget have been made available through the Library website at http://library.open.ac.uk/rise/  and via the iGoogle gadgets site http://www.google.co.uk/ig/directory?type=gadgets (search for Open University Library). Users have been encouraged to try the tools through library news items and blog posts, and to feed back their comments via an online survey linked from the MyRecommendations home page.
+At a more formal level the project planned and carried out a set of 1:1 face to face interviews with 11 students.  The questions were pre-approved by the Open University’s Student Research Project Panel which also granted permission to contact a selection of students.  Out of 1000 students emailed, 50 agreed to take part and 52 agreed to test MyRecommendations remotely. This was a good response and highlighted an interest in the potential benefits of a recommender system.
+The formal evaluation work was supported by the use of website analytics to track user behaviour in the tools. See Measuring Success for details.
+User reaction
+Overall, user reaction was positive towards recommender systems. All of the students interviewed during the 1:1 sessions said that they liked the idea of getting recommendations on library e-resources. 100% said they preferred course related recommendations mainly because they would be seen to be the most relevant and lead to a quick find.
+“I take a really operational view you know, I’m on here, I want to get the references for this particular piece of work, and those are the people that are most likely to be doing a similar thing that I can use.” - postgraduate education student
+There is also an appreciation that recommendations may give a more diverse picture of the literature on a topic:
+“I think it is useful because you run out of things to actually search for….You don’t always think to look in some of the other journals… there’s so many that you can’t know them all. So I think that is a good idea. You might just think “oh I’ll try that”. It might just bring something up that you’d not thought of.” - postgraduate psychology student
+People using similar search terms often viewed was seen in a good light by some interviewees who lacked confidence in using library databases:
+“Yes, I would definitely use that because my limited knowledge of the library might mean that other people were using slightly different ways of searching and getting different results.” - undergraduate English literature student
+If we were to implement a recommender system in the future, the students suggested the following improvements:
+Make the recommendations more obvious, using either a right hand column or a link from the top of the search results.
+Indicate the popularity of the recommendations in some way, such as X percentage of people on your module recommended A. OR 10 People viewed this and 5 found it useful.
+Indicate the currency of the recommendations. If something was recommended a year ago it may be of less interest than something recommended this week.
+In order for students to trust the recommendations, it would be helpful to be able to select the module they are currently doing searching for. This would greatly reduce cross-recommendations which are generated from people studying more than one module.
+Integrate the recommendations into the module areas on the VLE.
+When asking students to rate a recommendation, make it explicit that this rating will affect the ranking of the recommendations, e.g. “help us keep the recommendations accurate. Was this useful to you?”
+Posted in Uncategorized
+|
+Leave a comment
+RISE Code Now Released
+Posted on July 25, 2011 by eam36
+We are pleased to announce that the RISE code is now released on Google Code.
+See http://code.google.com/p/rise-project/source/browse/trunk/rise/
+It is important to check out the release notes, as this code is not an “out-of-the-box” solution. It can be used as a reference for building your own applications.
+The RISE Team
+Posted in Technical and Standards
+|
+Tagged #ourise, code release
+|
+Leave a comment
+Activity Data from Proxy logfiles
+Posted on July 25, 2011 by admin
+As we reach the end of the RISE project we are trying to summarise a lot of the things that we have learnt about the data and systems that we are using to help others who might look at emulating some of them.  So here are a few things that we have learnt about EZProxy logfiles and how you can use them to make recommendations.
+1. What is in the logfile determines what you can do
+You are restricted by what is stored within the logfile as you need certain elements of data to be able to make recommendations or even to get other data from elsewhere to improve the data you collect.  So you need user IDs to be able to get course information and you need bibliographic data of some form (or at least a mechanism to get bibliographic data related to the data you have in the logfile).  Essentially you need hooks that you can use to get other data.
+2. How you use EZProxy determines what you see in the logfile
+At the OU we link as many systems through EZProxy as we can.  This includes our Discovery Service from Ebsco.   The big implication is that Discovery Services aggregate content so the EZProxy logfiles show the Discovery Service as the provider.  Our logfiles are full of Ebsco URLs and have far fewer resource URLs from other providers.
+3. You can make basic recommendations from the proxy logfiles
+You can make a very simple recommendation from a logfile.  There is a high chance that if a user looks at two resources, one after the other, then there is a relationship between the resources.  If you store that connection as a relationship then that can form the basis of a recommendation ‘These resources may be related to resources you have viewed’.  The more people that look at those two resources one after another the more that reinforces that relationship and recommendation.
+4. You need some bibliographic data  for your recommendations
+To show a recommendation to a user you really need to have something like an article title to display.  Otherwise the user can’t easily judge what the recommendation is about.  For RISE we’ve used the Ebsco Discovery API to retrieve some suitable metadata and then passed that to the Crossref API to get bibliographic data that we can store in the system.  The approach is to a great extent determined by what you have in your logfiles and what systems you can access.
+5. You can get other data to make other types of recommendations
+You can enhance your logfile data as long as you have key bits of data you can use.  So if you have a user ID or logon that matches up with your student information system then you can relate activity to other things such as the course being studied.
+Proxy logfile flowchart
+To summarise the things that we have found with our EZProxy logfiles RISE has put together the following flowchart.
+Posted in Recommendations, Technical and Standards, Update
+|
+Tagged #ourise, ezproxy, jiscad
+|
+1 Comment
+Licensing and reuse of software and data
+Posted on July 22, 2011 by admin
+Background
+The RISE database uses data from the log files of the EZProxy system that the Open University uses to allow off-campus users to connect to electronic resources.  Searches carried out by users through the RISE search interface and RISE Google Gadget are also tracked within the RISE database.
+As part of the project there is a commitment to investigate the potential of making the activity data available openly and an aspiration to release that data under an open licence.  Similar data has already been released by the OpenURL project at EDINA.
+PRIVACY
+Use of Personal Data within the RISE project
+Within the RISE database personal data is stored and processed in the form of the Open University Computer User account name (OUCU).  The OUCU is generally a 5 or 6 character alphanumeric construction (e.g. ab1234) that is used as the login for access to OU systems. This OUCU is stored within the EZProxy logfiles that are ingested into the RISE database and is also tracked by the RISE interface to allow searches to be related to users.
+This OUCU is used within the RISE system for two purposes:
+To be able to make a connection between a search and a module of study associated with the searcher, to allow recommendations based on module; and,
+To be able to remove all searches for a particular user from the recommendations database at their request.
+Processing takes place using a file of data from internal systems to add the module(s) being studied by matching the OUCU in the RISE database with the OUCU stored by internal systems.  The data on which module is being studied is added into the RISE database.  As each new OUCU is added to the database a numerical userID is assigned.  This is a simple incremental integer.
+The RISE database stores details of which electronic resources are accessed by the user and the search terms used to retrieve that resource (for searches carried out through the RISE interfaces)  See the diagram on the Technical Resources page for details.
+Privacy approach
+The RISE project has developed a separate Privacy policy to cover use of activity data as it was felt that the standard OU Privacy policy was not sufficiently explicit regarding the use of data for this purpose.  The newly developed privacy policy is available at http://library.open.ac.uk/rise/?page=privacy
+One of the challenges with using EZProxy data is that the EZProxy logfiles contain records from links in several different systems as we link as many systems as possible through EZProxy. So this privacy policy has also been linked from the Library SFX and Ebsco Discovery Search interfaces.
+As well as explaining how their data will be used the policy provides a mechanism for users to ask for their data to be removed from the system and for their data not to be recorded by the system.  This opt-out approach has been cleared by the Open University Data Protection team.
+The EZProxy logfiles that are used within the system provide a particular challenge to an opt-in approach.   Access to this system is simply through expressing a URL with libezproxy.open.ac.uk within the URL string e.g. http://portal.acm.org.libezproxy.open.ac.uk/dl.cfm  This URL then redirects the user through the EZProxy system.  These links can exist in many different systems.
+Data on accesses to electronic resources is still required to be kept within logfiles to allow the library to comply with licensing restrictions for the electronic resources to allow the library to track any abuse of license conditions.  An opt-out could only be applied to the usage data element of the personal data.
+Users do not login to the EZProxy system directly but are faced with a standard Open University login screen to authenticate if they are not already recorded as being logged in.
+Future privacy changes
+An opt-in approach may be required to comply with the new EU directive on ‘cookies’. Conceivably this may be achievable by redirecting all EZProxy links through an additional authentication process and asking users to agree to storing their usage data.  This acceptance could be stored at the server-side although this introduces a further single-point of failure that could block access to electronic resources.  Alternatively a cookie approach could be taken along with asking the user to accept the cookie.
+PROJECT CODE LICENSING
+By the end of the project the RISE code, covering the data ingestion processes and recommendation code will be made available via Google Code at http://code.google.com/p/rise-project/.  After consideration of suitable open source licenses it has been decided to use the standard license for Google Code GNU GPL v3 http://www.gnu.org/licenses/gpl.html.  This has previously successfully been used to release previous project code created by the OU for JISC projects.
+DATA RELEASE
+Open release of data
+The project aspiration has been to openly release the data collected by the project to allow other services to be constructed based upon this (and other) datasets.  Data to be released would be anonymised to ensure that it is impossible to identify individual search activities.
+Anonymisation process
+Prior to the open release of data it is proposed that the data would be transformed as follows:
+The OUCU would be removed from the dataset leaving the userID
+Module codes would be mapped to a more generic subject description name.
+Remove the .libezproxy.open.ac element from the URL
+Remove ‘singleton’ records.  A threshold (suggested by Huddersfield as being set at 35 students) for the number of users on a course would be applied.  This process is designed to ensure that users cannot be identified individually.
+If necessary RISE would consider removing all records added to the database prior to the date the Privacy Policy and opt-out feature was enabled (20/05/2011)
+This process has been approved by the Open University Data protection team.
+Open Data licensing
+Discussions with the Open University Rights team have identified that we are able to release data from EZProxy,  from search terms used within RISE, and covering the general subjects covered by OU courses.  An appropriate license for this content would be CCZero.  This owes much to the previous work of the Lucero project in paving the way for the open release of data.
+What data could be included?
+What became apparent during the project was that most of the EZProxy request URLs linked through to EBSCO (the reason being that we link our EBSCO Discovery Solution through EZProxy) and that there was very little bibliographic data within the logfiles.  We discovered that we could use the EBSCO accession number to retrieve bibliographic data but that we weren’t licensed to store that data in the RISE database yet alone release it openly.  We found an alternative source of article level metadata (from Crossref) that we could store locally, but again licensing terms prohibit its inclusion within an open data set.
+A conversation was had with JISC Legal, who advised that if restrictions are placed on database vendors, these are usually passed on to subsequent users. Restrictions may not necessarily be just in relation to copyright.  If the database vendor is using third party material ( i.e. obtained from elsewhere) there will very likely be a purchasing agreement/contract/ as well as a licensing agreement (where the copyright position is stated)  between the parties stating what the vendor may do with the data. The vendor would then need to impose the same conditions on the customer, so as not to breach their agreements with the party from where they obtained the material. So it could be breach of contract terms as well as breach of copyright depending on the agreements.
+There is some difference of opinion between Rights experts about the position with article level metadata about whether it could be used and released.  Commercial providers assert in their terms and conditions that you cannot reuse it or share it and libraries are in a position where they have signed license agreements that contain those clauses.  This is an area where agreement about the exact legal position with regards to article level metadata should be established.  Not having openly available and reusable article level metadata would be a distinct barrier to establishing useful and usable datasets of article level activity data.
+Advice from JISC Legal on the copyright issues around metadata, directed us to a quote from their paper  Licensing Open Data:
+“ Where there has been substantial investment in the selection and or presentation of the content of datasets they may attract copyright as well as database right if it was created after 27 March 1996 and if there has been evidence of creative effort in selecting or arranging the data. A database might have copyright protection in its structure if, by reason of the selection or arrangement of its contents, the database constitutes the author’s own intellectual creation. Copyright protection of individual data, including records and metadata that have been “expressively” written or enriched may also subsist in the structure of the database if that structure has been the subject of creativity.”
+So in terms of what we could release openly we are left with a dataset that contains URLs that link to EBSCO, search terms entered through RISE and course subjects.
+Type
+Data
+Basic data: Institution, year and dates
+institution name
+academicYear
+extracted date
+source
+Resource data
+Resource URL
+User context data
+anonymised UserID
+timestamp
+Students subject
+Students level  e.g. [F, UG1, UG2, UG3, UG4, M, PhD1, PhD2, PhD3+
+Staff
+Retrieved from
+SearchTerm
+The dataset includes relationships between resource records in the dataset but there is no easy way of being able to relate that resource to a DOI or article title.  And that leaves the dataset as being potentially of use to other EBSCO Discovery Solution customers but no one else.  So at this stage we have reluctantly decided that we won’t be able to release the data before the RISE project ends.  Further work would be needed to review other data sources such as the Mendeley or OpenURL router data to see if they could provide some relevant article level metadata.
+What format could be used?
+We had a lot of discussion early in the project about the format that data could be released in. Ideally we wanted to release it in three forms: as a pre-populated MySQL database to act as a baselevel database for the open release of the RISE recommendations system code; as an XML file (described originally here); and  as a .csv file matching the format used for the release of the OpenURL data.  In an ideal world we would match the article level data to the OpenURL format and create an OpenURL for the link, but that again relies on a source of open article level metadata.
+Summary
+We have established a suitable privacy regime for activity data
+RISE has established the agreement that data we collect can be openly released provided we take suitable data privacy and anonymisation steps
+We have established that we can use CCzero to license this data
+We have a limitation in not having article level metadata that can be included within the open dataset
+Further work needs to be done to find open article level metadata that could be used
+And a sense of some frustration that we’ve come quite a long way to fall at the final hurdle in terms of open data release.
+Posted in Licensing & reuse of software and data, Wins and fails (lessons along the way)
+|
+Tagged #ourise, ezproxy, jiscad
+|
+Leave a comment
+RISE measuring success
+Posted on July 13, 2011 by admin
+As we reach the end of the RISE project it’s a good time to reflect back on the success of the project.  At the start we said that we were going to measure the success in several specific ways (shown in the table below).  So how have we done?
+How measured
+What success looks like
+User response
+Survey and informal feedback from students and academics. Analytics data.
+Majority of users agree that recommendations are useful and enhanced their use of the search system. Analytics shows positive impact.
+Take-up of tools and data
+Usage of tools and data, downloads of tools and data.
+Tools are being downloaded several times a week and there are some comments about the tools.
+Community feedback
+Feedback.
+Wider discussions with community about potential of tools & ways to use the data.
+User response
+We think this has been amongst the strongest part of the project.  So we’ve had engagement with users through a survey and through a series of 1:1 evaluations with users.  As you can see from the graph of survey results, the majority of users are finding that recommendations are useful.
+When we asked people about the relevance of the recommendations then we found that a high proportion were relevant (50%) with 31% not relevant. That may reflect that the system had been running for only a short period of time and may benefit from more data.
+We’ve setup Google Analytics to be able to track which types of recommendation and which number recommendation is being used.   We’ve done some basic work in looking at the analytics data but there is much more that could be done.  The data shows that search recommendations are more likely to be used than other types (but the caveat with RISE is that not all recommendations are being shown equally)
+Although in comments users have suggested that we show more recommendations, analytics clearly shows that the first two recommendations are much more likely to be viewed than any others.
+Take up of tools and data
+We haven’t been able to release any data but both the RISE web interface and RISE Google Gadget have been available for a few months.  Usage of the tools shows a steady stream of users even though we haven’t done too much promotion of it given the prototype nature.  With over 11,000 page views (12% of them through the Gadget) we have reached a good number of users in a short period of time.
+Downloads and use of the Gadget hasn’t been so easy to track even though there is a Google Gadget Dashboard.  We haven’t however had any comments or ratings by users.  We are expecting to publish the Gadget on the OU Gadget directory in the near future so this will drive the uptake of the Gadget significantly.
+Community feedback
+We’ve had a little over 20 comments on blog posts and some feedback at Activity Data events.  We’ve also had 25 people at the Innovations in Activity Data for Academic Libraries event at the Open University in July.  RISE was also asked to present at a ‘Subscribed Resources’ workshop that formed part of the SCONUL Shared Services programme.
+Overall the RISE project blog has had just under a thousand visits and nearly two thousand page views from users in 32 countries.  Much of the traffic is coming via google.  The most popular posts/pages have been Innovations in Activity Data, the Technical Resources page and the February project update.
+One of the advantages with the Activity Data projects is that we have had the Synthesis project http://www.activitydata.org/ actively working alongside us.  We’ve also had to leave until later in the project some of the dissemination activities.  But it has seemed difficult to get as much engagement with the wider community as we would have liked.
+Overall
+We’re happy with the engagement with users, something that is often difficult to achieve bearing in mind that we are a distance-learning instituion.  We probably would have hoped for more engagement with the community but many of the people who are working in this area are already pretty busy with other projects on activity data.  But overall, within the constraints of a six month project we are reasonably satisfied with what we’ve been able to do.
+Posted in Benefits, Wins and fails (lessons along the way)
+|
+Tagged #ourise, Google Analytics, Google Gadget, jiscad, RISE, success
+|
+1 Comment
+← Older posts
+Welcome Welcome to the RISE Project blog.
+RISE is a project from the Open University Library.
+Funded by JISC, RISE will be investigating the use and issues around user activity data and recommendations
+Search for:
+Recent Posts
+New case study on RISE and forthcoming changes to Google Code
+RISE references in JISC Activity Data and JISC CETIS Learning Analytics reports
+RISE celebration event
+World Café table cloth diagrams
+Final blog post
+Recent CommentsActivity data « Libwebrarian's Blog on RISE celebration eventWhat do the library users think? | Innovations on Search focus groupsThe benefits of reusing activity data | Innovations on Innovations in Activity Data workshop 4 July 2011 The Open University, Milton KeynesFinal blog post | RISE on Activity Data from Proxy logfilesFinal blog post | RISE on Technical ResourcesArchives
+March 2015
+January 2013
+January 2012
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+Categories
+Benefits
+Google Analytics
+Hypothesis
+Innovations in Activity Data
+Licensing & reuse of software and data
+Open data
+Project Plan
+Recommendations
+Technical and Standards
+Uncategorized
+Update
+Users
+Wins and fails (lessons along the way)
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+Tags#ourise
+activity data
+activity data cookbook
+activity data synthesis project
+API
+code release
+Crossref
+data visualisation
+discovery
+discovery services
+Ebsco
+Ebsco Discovery Solution
+EDS
+ezproxy
+federated search
+Google Analytics
+Google Gadget
+hypothesis
+Innovations in Activity Data
+JISC
+jiscad
+JISC CETIS
+learning analytics
+Library Analytics and Metrics
+LIDP
+MOSAIC
+open data
+Open Source
+Open University
+postgraduates
+presentations
+project plan
+recipes
+Recommendations
+RISE
+SALT
+SFX
+success
+undergraduates
+XML
+February 2017
+M
+T
+W
+T
+F
+S
+S
+« Mar
+12345
+6789101112
+13141516171819
+20212223242526
+2728
+Blogroll
+Activity Data Synthesis Project
+JISC Activity Data Programme website
+RISE project webpage on JISC site
+Creative Commons licence This work This work by
+the RISE project is licensed under a Creative Commons Attribution 3.0 Unported License.
+RISE
+Proudly powered by WordPress.

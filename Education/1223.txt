@@ -1,0 +1,106 @@
+Department of Computer Science - Research Project: Service-Oriented Federated Authorization
+Skip to main content
+University of Oxford Department of Computer Science
+Search for
+Search
+Toggle
+Main Menu
+Home
+Admissions
+Research
+(current)
+News & Events
+About Us
+Alumni
+Our Students
+Innovation
+Home
+Research
+Software Engineering
+Projects
+Service-Oriented Federated Authorization
+Service-Oriented Federated Authorization
+1st January 2010 to 31st December 2010
+The focus of this project pertains to meeting the challenges associated with authorization in distributed contexts.
+In many academic organisations there is often a need to integrate centralised systems with other systems based in departments
+or other administrative units.  While issues of technology mismatches and data heterogeneity may be overcome
+via the application of open standards, there may still be issues of interoperability to overcome with respect to authorization:
+different access control approaches may be used throughout the institution—making it virtually impossible to construct
+a global view of “who can see what”.
+We are building upon previous experience to develop a system that allows institutions not only to aggregate data
+from disparate data sources in a secure fashion, but also to link such sources without a reliance on a single authorization
+mechanism.  Specifically, we will extend the sif (service-oriented interoperability framework) middleware
+framework, which was developed within the TSB-funded GIMI (Generic Infrastructure for Medical Informatics) project.
+While the short-term beneficiaries of the work will be administrators associated with the University of Oxford, in
+the medium-term others within the JISC community stand to benefit from the work of this project.
+Selected Publications
+View All
+Formalising and validating RBAC−to−XACML translation using lightweight formal methods
+Mark Slaymaker‚ David Power and Andrew Simpson
+In
+Proceedings of Abstract State Machines‚ Alloy‚ B and Z (ABZ 2010).
+Pages 349–362.
+Springer−Verlag Lecture Notes in Computer Science‚ volume 5977.
+2010.
+Details
+about
+Formalising and validating
+RBAC−to−XACML translation using lightweight formal methods
+|
+BibTeX
+data for
+Formalising and validating RBAC−to−XACML
+translation using lightweight formal methods
+On the secure sharing and aggregation of data to support Systems Biology research
+Andrew Simpson‚ Mark Slaymaker and David Gavaghan
+In
+Proceedings of the 7th International Conference on Data Integration in the Life Sciences (DILS 2010).
+Pages 58–73.
+Springer−Verlag Lecture Notes in Computer Science‚ volume 6254.
+2010.
+Details
+about
+On the secure sharing and
+aggregation of data to support Systems Biology research
+|
+BibTeX
+data for
+On the secure sharing and aggregation
+of data to support Systems Biology research
+Sponsors
+JISC
+Principal Investigator
+Andrew Simpson
+People
+David Power
+Photo not available
+Mark Slaymaker
+Share this:
+Sponsors
+JISC
+See also
+Overview presentation
+SOFA Distribution
+Andrew Simpson
+Models and technologies for secure data sharing
+Software Engineering
+Algorithms and Complexity Theory
+Security
+Automated Verification
+Information Systems
+Programming Languages
+Computational Biology
+Foundations, Logic and Structures
+Software Engineering
+Activities
+Projects
+People
+Publications
+Back to Top
+Calendars
+Internal
+RSS Feeds
+Sitemap
+Privacy & Cookies
+© University of Oxford
+/projects/SOFA/index.html

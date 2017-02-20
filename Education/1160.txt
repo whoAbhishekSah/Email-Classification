@@ -1,0 +1,206 @@
+SAS-Space
+SAS-Space
+The blog of the institutional repository for the School of Advanced Study, University of London.
+Tuesday, 14 August 2012
+The SAS-Space blog has moved
+Head over to SAS Blogs, a new service from the School of Advanced Study, for all the latest news from SAS-Space. Alternatively, choose a post from the list on the right.
+Posted by
+Peter Webster
+at
+13:06
+0
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Tuesday, 29 May 2012
+Collection of the Month: Ruth First Papers
+Our featured collection for June is the Ruth First Papers collection: the collected notes and writings of Ruth First, anti-apartheid activist, investigative journalist, and
+scholar. First worked her entire life to end apartheid in South Africa. She was exiled from South Africa in 1964, with her husband, the prominent South African communist Joe Slovo, and their children. In 1982, while working in Mozambique, Ruth First was killed by a letter bomb sent by the South African secret service.
+2012 is the thirtieth anniversary of Ruth First’s murder.
+Part of the Institute of Commonwealth Studies, the project will also host a major symposium on First's work in London on June 7th: see the project site for further details.
+The digitisation of the data is ongoing, but the first fruits of the project are now available. They include published writings on Gaddafi's Libya, unpublished writings and correspondence, plus some particularly fascinating scrapbooks of newspaper cuttings from the late 1940s.
+Posted by
+Peter Webster
+at
+11:13
+0
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Tuesday, 24 April 2012
+Collection of the Month: IGRS Visiting Fellows
+For May it is the turn of the collection of research papers from Visiting Fellows to the Institute of Germanic and Romance Studies.
+As one might expect, it is an eclectic mix, with work on topics as diverse as student protest in Italy, Muslim identity in contemporary German fiction, and 'The Wicker Man.' During 2011, papers were downloaded on average 40 times each, with the most popular item, on the operettas of Franz Lehar, being accessed some 93 times. The collection is an excellent demonstration of the range of research that is carried out in association with the School.
+Further information on the Visiting Fellowships at the IGRS is available on the Institute site.
+Posted by
+Peter Webster
+at
+10:17
+0
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Thursday, 5 April 2012
+Using the repository for data: LIPARM
+We've always taken a catholic view of the format of material that SAS-Space should hold, but the bulk of our holdings is still nonetheless 'traditional' PDF files. I'm very pleased to note a recent deposit of data from the LiPARM (Linking Parliamentary Records through Metadata) project in the IHR.
+Funded by the JISC, the
+project will allow for the first time the federated searching and browsing of UK
+and Ireland Parliamentary papers by defining and implementing a unified metadata
+strategy for historical and contemporary parliamentary digitisation projects.
+The project has defined a generic XML schema for parliamentary metadata, along with
+controlled vocabularies for key components of this metadata, and will produce a
+platform for a union catalogue of these materials based on the records created.
+Key collections will be enhanced to allow their content to be accessed via the
+catalogue.
+The project has recently deposited the XML schema, an example file, and XML lists of constituencies, Acts and members for Westminster and Stormont. View the data here.
+As well as this particular data being now available and in the public domain for reuse, it gives us food for thought about ways and means of providing more dynamic ways of using data that is already in SAS-Space.
+Posted by
+Peter Webster
+at
+14:04
+0
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+digital scholarship,
+history,
+IHR
+Friday, 30 March 2012
+Societies of Southern Africa: seminar papers series
+Collection of the Month for April is the series of collected seminar papers from the Societies of Southern Africa seminar, which ran at the Institute of Commonwealth Studies from 1969 until the 1980s. The papers were published in twenty volumes, and we will be adding these to SAS-Space over the next few weeks. The first few are now live, including a 1969 paper by Albie Sachs, scholar and activist, and subsequently Judge in the Constitutional Court of South Africa, who completed a doctorate at Sussex University in the 1960s, which formed the basis of this paper, and his 1974 book Justice in South Africa.
+Here, Professor Shula Marks, former Director of the ICS and founder of the series, reflects on the series and its seminal importance for students of southern African history and politics at a critical time. A fuller version of this reflection is also available.
+Professor Marks writes:
+"In a very real sense the seminars at the Institute of Commonwealth Studies were the equivalent for the social sciences of the laboratory for the natural and hard sciences – a place where ideas were tested and probed, expanded and at times jettisoned.
+Scholars – post-graduate students and staff - from all over London and often from all over the UK – were drawn to the Institute – to exchange research with one another and the many visitors to the Institute from all over the Commonwealth.
+"It was with this model in mind that I set out in 1969 to establish a new seminar at the Institute on `The societies of southern Africa in the nineteenth and twentieth centuries’;
+from the papers that are reproduced here you will get some taste of its proceedings, though not of the lively discussions which characterised them.
+The intellectual mix was eclectic and heady: as Colin Bundy has remarked, the seminar was:
+… a rich seedbed for a critical, self-consciously revisionist flowering of southern African scholarship, and especially South African, history. Its activities were fertilised by a number of currents: by British social historians, by French Marxist anthropologists, and by comparative history. One does not have to dig very deep in the first couple of volumes of collected papers to discern the influence of E P Thompson, Barrington Moore, Meillasoux, Genovese, Gunder Frank, and so on.
+"To this list I would add the importance of the proximity of the recently established
+department of African History at SOAS, not least because it did not allow us – mostly radical white South Africans - to forget that South Africa was still in Africa, that any history of South Africa had to be the history of all its peoples, and that we had to address the most profound silence in the historiography of southern Africa, the silence of its African majority.
+In the 1960s there was no South African university teaching African history – though this was to change through the 1970s in part as historians who trained at SOAS and elsewhere in the UK and the USA began to filter back into university positions in South Africa.
+"In many ways the seminar was launched at exactly the right moment – more by serendipity than by good management By 1969, the pall of quiescence that seemed to hang over South Africa after Sharpeville was beginning to show cracks; with the emergence of the Black Consciousness movement and splits in the façade of Afrikaner unity, there was room for more open discussion of Southern Africa.
+But what made the Societies of Southern Africa Seminar special was the presence, mostly, but not only, in London, of a substantial number of academics in a variety of fields; most were inevitably South African but the focus was always importantly southern and not simply South African, with papers on all the countries of the region.
+Many of its participants over the years had left South Africa – or been forced to leave – for political reasons during the era of apartheid, and were still passionately engaged in trying to understand the nature of southern African society.
+Many of the issues addressed could not be stated openly let alone answered in South African universities at the time.
+As a result, as fresh waves of South African students, émigrés and exiles came to the UK, the seminar remained in touch with what has happening in South Africa, and was in a state of constant renewal. This gave its proceedings a particular edge even when the subject matter was remote - in time if not in place - from their immediate concerns.
+"In retrospect it is astonishing how many young and not so young South Africans who were later to make their mark passed through the doors of the ICS – no fewer than four of South Africa's future high court and constitutional court judges were among its student audience in those years.
+In South Africa itself the volumes of the Collected Seminar Papers reproduced here were widely
+– if secretly – read by succeeding cohorts of young students in South Africa in the 1970s and 80s.
+Today, however, as we greet the digital recording of the ICS seminar papers perhaps we can be forgiven for rejoicing in the way in which this project will nonetheless safeguard our past.
+Shula Marks,
+March 2012
+Posted by
+Peter Webster
+at
+14:39
+0
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+Commonwealth,
+history,
+ICS
+Wednesday, 14 March 2012
+W G Hart Workshop Papers
+Collection of the Month for March is the collection of previously unpublished papers from the W. G. Hart Legal Workshop. The workshop is a major annual legal research event organised and hosted by the Institute of Advanced Legal Studies. Beginning in 1981, this eponymous workshop series, subsidised by funds from the W. G. Hart Bequest, has focused on a wide range of comparative and international legal issues and topical interests, and we're delighted to have begun to make selected past papers available in SAS-Space.
+In addition, video recordings of the 2010 event are now available. The 2012 event, on 'Globalisation, criminal law and criminal justice' will take place in June.
+Posted by
+Peter Webster
+at
+16:16
+0
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels:
+IALS,
+law
+Wednesday, 1 February 2012
+Research papers on the Americas
+Collection of the Month for February is a growing collection of occasional research papers from the Institute for the Study of the Americas, and the Institute of Latin American Studies (one of the two institutions that came together to form ISA), recently digitised. Once finished, we'll have added 85 new papers, dating from the late 1980s to the present. The collection has particular strengths in studies of Brazil and Argentina, but also in the history and  economic development of central and south America.
+Posted by
+Peter Webster
+at
+08:00
+0
+comments
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+The new SAS-Space blog
+Loading...
+Explore SAS-Space
+Home
+Latest
+Collections
+Subjects
+Search
+Blog Archive
+▼
+2012
+(8)
+▼
+August
+(1)
+The SAS-Space blog has moved
+►
+May
+(1)
+►
+April
+(2)
+►
+March
+(2)
+►
+February
+(1)
+►
+January
+(1)
+►
+2011
+(13)
+►
+December
+(1)
+►
+September
+(1)
+►
+August
+(1)
+►
+July
+(2)
+►
+June
+(1)
+►
+May
+(2)
+►
+April
+(1)
+►
+March
+(1)
+►
+February
+(1)
+►
+January
+(2)
+►
+2010
+(3)
+►
+December
+(2)
+►
+November
+(1)
+Contributors
+Matt
+Peter Webster
+SAS-Space Admin
+Simple template. Powered by Blogger.

@@ -1,0 +1,138 @@
+SPQR | Website and blog for the SPQR project
+Skip to content
+HomeAbout
+Architecture
+Assessing Jena and Sesame
+Free Text search Using SPARQL
+Objectives
+Assessing linked data tools for SPQR
+Data Sets
+Linked data tools
+Partners
+SPQR tasks
+← Older posts
+RDF triples created by SPQR, downloadable RDF/XML files
+Posted on October 31, 2011 by mhedges
+The RDF triples created by the SPQR project are avaiable for download as compressed RDF/XML, one file for HGV, one combining the Inscriptions of Aphrodisias and the Inscriptions of Roman Tripolitania:
+RDF triples derived from HGV, in RDF/XML form
+RDF triples derived from InsAph and IRT
+SPQR VoID file for describing the SPQR datasets using the Vocabulary of Interlinked Datasets schema
+Posted in Uncategorized
+|
+Comments Off on RDF triples created by SPQR, downloadable RDF/XML files
+PELAGIOS graph explorer live
+Posted on August 30, 2011 by mjackson
+PELAGIOS have deployed a graph explorer to allow exploration of the linked data sets, including those created by SPQR, that they have focused on in their investigations into connecting references to ancient places.
+The graph explorer can be seen here. A blog post gives an overview and has some screen shots.
+The graph explorer uses an API devised by PELAGIOS to search and explore the data.
+Posted in Uncategorized
+|
+Comments Off on PELAGIOS graph explorer live
+SPQR’s linked data online
+Posted on July 28, 2011 by mjackson
+SPQR has been working on converting epigraphic data – data about inscriptions in the ancient world – to linked data. We have now converted data from the following epigraphic data sources:
+Inscriptions of Aphrodisias (InsAph). Originating from Turkey, 200BC-700AD, a collection of over 1,500 Greek inscriptions.
+Inscriptions of Tripolitania (IRT). Originating from Libya, 100BC-700AD, a collection of over 1,000 Greek inscriptions.
+Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Aegyptens (HGV). Originating from Egypt, 300BC-700AD, a collection of 56,000 Greek and Latin papyri.
+Our linked data is hosted in a Virtuoso linked data server and you can browse, query and search it.
+Keyword search. For example:
+Enter “Aphrodisias” or “Marsa Zawaghah” or “Oasis Magna”
+Click Search
+SPARQL
+endpoint:
+e.g. triples with “WHITE MARBLE”: SELECT * WHERE {?s ?p ?o . ?o bif:contains '(WHITE AND MARBLE)'}
+e.g. number of triples with “WHITE MARBLE”: SELECT COUNT(*) WHERE {?s
+?p ?o . ?o bif:contains '(WHITE AND MARBLE)'}
+e.g. Number of subjects: SELECT COUNT(?s) WHERE {?s ?p ?o}
+e.g. Number of distinct subjects: SELECT COUNT(DISTINCT ?s) WHERE {?s ?p ?o}
+Please note that this server is for demonstration purposes only.
+Posted in Uncategorized
+|
+Comments Off on SPQR’s linked data online
+Presentation to The Digital Classicist
+Posted on June 16, 2011 by mjackson
+The Digital Classicist is a international community of scholars and students interested in the application of innovative digital methods and technologies to research on the ancient world.
+On Friday 10th June, SPQR was invited to give a seminar at the Institute of Classical Studies in London. David Scott attended and gave a presentation on Aggregating Classical Datasets with Linked Data, and his talk and audio are available here.
+Posted in Uncategorized
+|
+Comments Off on Presentation to The Digital Classicist
+SPQR is a Pelagios data provider
+Posted on May 5, 2011 by mjackson
+Pelagios (Pelagios: Enable Linked Ancient Geodata In Open Systems) is a project which is looking at adding linked data to online resources that refer to places in the ancient world. SPQR is a data provider for Pelagios, providing linked data containing links to ancient place names in Pleiades and their modern equivalents in Geonames
+in a form that complies to an ontology adopted by Pelagios and makes the data suitable for harvesting and processing by them. This week we made our first set of data available to them.
+Posted in Uncategorized
+|
+Comments Off on SPQR is a Pelagios data provider
+2011 Classical Association Annual Conference
+Posted on April 15, 2011 by mjackson
+The 2011 Classical Association Annual Conference runs from Friday 15th April to Monday 18th April in Durham. We’ll be giving a presentation on SPQR entitled “Supporting Productive Queries for Research (SPQR): the Semantic Web and (KCL) Ancient Datasets” as part of a session on “Ancient Space, Linked Data and Digital Research” on Saturday at 10.00.
+Posted in Uncategorized
+|
+Comments Off on 2011 Classical Association Annual Conference
+SPQR Google Code SVN repository
+Posted on January 28, 2011 by mjackson
+We’ve been writing Clojure scripts to extract and RDFize EpiDoc data from the Inscriptions of Aphrodisias, Inscriptions of Tripolitana and HGV data sets.
+These are hosted and maintained in our Google Code SVN repository at http://code.google.com/p/spqr/. We opted for SVN over our original choice of a GitHub repository as SVN has a lower learning curve.
+Posted in Uncategorized
+|
+Comments Off on SPQR Google Code SVN repository
+Eclipse, Mac and UTF-8
+Posted on November 30, 2010 by bdobrzelecki
+Just a quick note – by default your Mac JVM will use Mac Roman charset (or whatever it is). This results in “???????” for all your Greek letters. To fix this configure your eclipse JVM to use:
+-Dfile.encoding=UTF-8
+Posted in Uncategorized
+|
+Comments Off on Eclipse, Mac and UTF-8
+SPQR Browse / Annotate / Build Queries UI
+Posted on November 26, 2010 by bdobrzelecki
+One of the goals of the SPQR project is to create a centralised knowledge base (KB) by integrating several open datasets which relate to the classical period and supporting scholarly inference through ontological modelling. The Linked Data aspect is parallel to the KB effort and is mainly concerned with ensuring that resolvable URIs are provided for for all entities in the KB. Bringing in existing vocabularies and ontologies is also a problem that can be deferred until later. Initially, the goal is to have a good approximation of an ontology local to the SPQR KB and then perform a mapping exercise by extending the ontology to express relations with external ontologies like EDM and CIDOC-CRM.
+I strongly believe that the most important aspect of the SPQR project is to come up with an intuitive and engaging interface for interacting with the KB. Only if we can show or at least have a plan of how to lure the researchers to interact with our system we will be able to claim a success. The first UI iteration will provide an “old-school” web based interface allowing free text queries, SPARQL queries and possibly some canned parameterised queries.
+The proper way to interact with a graph based KB is to interactively navigate the graph, discover relations, annotate subgraphs, share annotations, visually build graph matching queries and add new links. I have spent some time at my whiteboard and noted down some ideas (see the image below). Expect more details soon.
+The above design has now been transcribed into a more readable document which you can download here: PDF
+Posted in Uncategorized
+|
+Comments Off on SPQR Browse / Annotate / Build Queries UI
+SPQR and Europeana – a more complex example
+Posted on November 4, 2010 by bdobrzelecki
+We tried to model a bit more complex SPQR example using the Europeana data model (EDM). In this example we have two representations of the same papyrus. One is taken from the HGV and the other from the APIS database. We have decided to use papyri.info as a provider of URIs for these objects. We start with two resources identified by the following URIs
+http://papyri.info/apis/perkins.apis.3997
+http://papyri.info/hgv/21935
+Both URIs could represent the actual non-information resource “the papyrus” and be linked by owl:sameAs. However, this may not be the case. Maybe the author wanted to represent a database entry not the PhysicalThing. For Europeana we would like to have an URI for the actual thing and crate two Aggregations linking to database entries. The default question is: who should provide this URI? The most sensible way to proceed is to create one in the SPQR (or Europeana) domain and link by owl:sameAs to any other future URIs. We could also liaise with papyri.info and let them define such an URI. In our sketchy graph we leave this problem as unsolved and our PhysicalThing has “2 URIs”.
+In the papyri.info RDF for both resources (retrievable by adding /rdf to the URI) both URIs are related via the dc:relation property.
+Another problem is that EDM kind of assumes that a view of a PhysicalThing will have a different URI than the WebResource representing a view. Similarly for the landingPage. In the LinkedData world different views are retrieved by means of content negotiation – not different URIs. This issue is known to the Europeana community. We have used a few Europana classes like: Agent for people, Place for places and TimeSpan for dates.
+Take a look at our graph. It has some comments and includes EuropeanaAggregator just to demonstrate its use. The actual SPQR vocabulary is yet to be defined, but we have included a couple of SPQR specific properties as possible renderings of captured metadata.
+Posted in Uncategorized
+|
+Comments Off on SPQR and Europeana – a more complex example
+← Older posts
+Pages
+About
+Architecture
+Assessing Jena and Sesame
+Assessing linked data tools for SPQR
+Data Sets
+Free Text search Using SPARQL
+Linked data tools
+Objectives
+Partners
+SPQR tasks
+Archives
+October 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+January 2011
+November 2010
+October 2010
+August 2010
+Categories
+Uncategorized
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+SPQR
+A Centre for e-Research project blog Powered by Wordpress.

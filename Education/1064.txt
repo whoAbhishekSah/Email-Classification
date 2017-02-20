@@ -1,0 +1,53 @@
+Archaeology Data Service:
+Teaching and Learning
+SEARCH
+LOGIN
+HOME
+ARCHSEARCH
+ARCHIVES
+DEPOSIT
+LEARNING
+ADVICE
+RESEARCH
+ABOUT US
+BLOG
+Teaching and Learning resources
+The ADS supports research, learning and teaching with high quality and dependable digital resources. In addition to the broad range of archival material hosted by the ADS, the resources below are all specifically designed to provide teaching and learning tools for both students and educators in the higher education context. These resources are also useful in the broader educational context wherever archaeological topics are being taught.
+Archaeology Image Bank
+Created and hosted by the ADS for the Higher Education Academy subject centre for History, Classics and Archaeology and updated in 2011 this resource is intended as a tool for locating and sharing archaeological images for use in teaching, studying and research. There is no charge for using the Image Bank but you will be asked to read and accept the terms and conditions of use before viewing any images. Users are also encouraged to donate their own archaeological images using the donation section of this interface, the image donor retains their copyright to all donated images.
+DataTrain: Managing Research Data in Archaeology
+DataTrain are open access post-graduate teaching materials in research data management in archaeology. The material was created by Cambridge University Library with project funding provided by JISC. The online material is hosted by the ADS. There are eight powerpoint presentations with group discussion and written exercises. The aim is to equip first year post-graduate archaeology students with essential skills in looking after their research data for their PhD, including how to prepare these data for archiving and secure its long-term preservation. The material is designed for leaders of post-graduate core research skills courses to re-use and build-upon to suit the requirements of individual university departments.
+Archaeology Alive! Reading Archaeology
+Created and hosted by the ADS and supported by the Higher Education Academy subject centre for History, Classics and Archaeology with content supplied by Michael Reynier at the University of Leicester, 'Reading Archaeology' is a dynamic tutorial for students at undergraduate level. It aims to demonstrate how academic texts can be read more efficiently and more effectively. The tutorial draws heavily on real-life examples of academic texts, essay questions and reading lists.
+Virtual Walkabout
+The Virtual Walkabout tutorial and archives are designed to provide a simple and easily accessible fieldwork project which introduces some of the key concepts of fieldwork to those who may never have been involved in fieldwork before. It starts with a set of simple photographic images of an archaeological site ordered as if part of a walking tour of the site. Students are encouraged to explore the site before being shown how to make a walkabout of their own using the tools provided. *
+Virtual Walkabout archives
+*
+Walkabout Tutorial
+Continuing Professional Development Workshops
+Additional resources
+The resources below comprising both archive and ongoing projects have also proven to be very useful teaching resources.
+England's Rock Art database (ERA)
+These fascinating carvings are threatened by a combination of human and natural factors; many have already weathered away or been lost to activities such as quarrying. We urgently need to record and conserve these ancient marks so they can be studied and enjoyed by future generations. England's Rock Art database (ERA) is a major step towards that goal. ERA currently covers the counties of Northumberland and County Durham, which both have major concentrations of rock art. It is intended that it will one day provide a record for all of England's rock art.
+Guides to Good Practice
+The Archaeology Data Service, with partners in the Arts and Humanities Data Service (which closed in April 2008) commissioned a series of Guides to Good Practice. These Guides provide practical guidance in applying recognised standards to facilitate the creation, preservation, and re-use of digital resources. These guides were extensively updated in 2011. Some of the Guides
+focus on specific methods used by archaeologists, others address broader archiving topics. All Guides identify and explore key issues in digital archiving. The Guides are not intended to serve as method texts, but instead provide pointers to basic literature for those who need more detailed information.
+Medieval Britain and Ireland
+The on-line version of Medieval Britain and Ireland is a new venture for the Medieval Archaeology journal, featuring a searchable digital database for these annually submitted excavation summaries. These annual excavation summaries, reported in the Journal for Medieval Archaeology since 1957, provide an important resource for both researchers in the field and the general public. The digital database enables the user to conduct a range of
+searches, by region, year or keyword. Together with the access to a range of unpublished reports, through the grey literature library, this will make Medieval Britain and Ireland a truly excellent period-based resource.
+Post-Medieval Fieldwork in Britain and Northern Ireland (PMFBNI)
+The on-line version of Post-Medieval Fieldwork in Britain and Northern Ireland (PMFBNI) is a new venture for the Post-Medieval Archaeology journal, featuring a searchable digital database for these annually submitted excavation summaries. The digital database enables the user to conduct a range of searches, by region, year or keyword. Together with the access to a range of unpublished reports, through the grey literature library, this will make Post-Medieval Fieldwork in Britain and Northern Ireland a truly excellent period-based resource.
+Roman Amphora
+The aim of this website is to provide an online introductory resource for the study of Roman amphorae. In the Roman empire amphorae were pottery containers used for the non-local transport of agricultural products. They are crucially important to archaeologists in providing direct evidence for inter-regional and long-distance movement of agricultural products within the empire, and have been an important source of data in the increasingly sophisticated debates about the scale and structure of the Roman economy over the last thirty years. This website concentrates upon the containers alone.
+Preparing an archive for deposit
+The aim of this resource is to provide some introductory instruction on preparing an archive for deposition with the Archaeology Data Service (ADS), however, many of the techniques and methodologies of metadata collation and creation applied here are equally valid for other digital repositories, and perhaps most significantly for your own personal data.
+Save Resource
+Please login or register a myADS account to use this feature.
+Share This Page
+Please login or register a myADS account to use this feature.
+Newsfeeds
+ADS Newsfeed
+Help
+Website
+Email Us
+University of York legal statements | ADS terms of use and access | Cookies

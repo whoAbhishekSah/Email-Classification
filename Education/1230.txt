@@ -1,0 +1,29 @@
+SOURCE: Sharing Objects Under Repository Control with Everyone
+Skip navigation
+|
+|
+|
+|
+|
+|
+|
+SOURCE home
+About
+Reports
+Code
+Feeds
+Events
+Contact
+The S.O.U.R.C.E. project
+The SOURCE project was a two year JISC funded project (Oct 2006 - Oct 2008) working on "opening up the content marketplace", which means we are (still) here to help migrate stuff from one platform to another by providing  bulk-migration tools and architectures.  We do this because we believe content should never be stuck in a single platform (or repository) and that everyone should be free to pick the platform that will deliver their content to their users the best.  Why? Often times institutions "buy into" a platform thinking it has the technology they need for there users, yet as their users change often a better platform comes along that could do the job better (know as 'disruptive innovation'). But don't worry, the SOURCE project is here to help (even beyond the funding of the project)!
+First off, we can provide advice on which platforms will not put your content in a deep dark hole where you can never get at it again.  Secondly, we can provide migration tools and libraries that will help you get your content out of your legacy platform and into a new platform.  Have a browse around our website here to see what we might offer.  Though the project is ended we have created a good chunk of code and are more than happy to share advice, thoughts and experience... or if you just in the mood for a good ole chat about APIs and what a pain in the @r$e they are please don't hesitate to contact us.
+For a 'Plain-English Description of the SOURCE Project' please watch one of these learning objects (or go to about):
+A Plain English Description of the SOURCE project [audience: Higher Education, w/ sound, requires Flash 8+] A Plain English Description of the SOURCE project [audience: Bloomsbury Colleges Consortium, w/ sound, requires Flash 8+]
+Please subscribe to our RSS feed so you can be kept up to date as our project progresses!
+If you are interested in our team blog or wiki please go to the feeds section to subscribe accordingly.
+SOURCE Project Partners:
+Bloomsbury Colleges Consortium (Institute of Education, London School of Hygiene and Tropical Medicine, School of Oriental and African Studies, School of Pharmacy, Royal Veterinary College and Birkbeck College)
+Jorum (National Learning Object Repository - UK)
+The OKI project (The Open Knowledge Initiative)
+Library Systems Team, Birkbeck College, Malet Street, London WC1E 7HX  Telephone 020 7079 0899 Fax 020 7631 6066 Email library-help@bbk.ac.uk
+Last modified on: 06 October 2008

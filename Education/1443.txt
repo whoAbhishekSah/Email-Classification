@@ -1,0 +1,168 @@
+The Word Tree corpus interface
+Home
+Blog
+The Word Tree
+The Word Tree corpus interfaceA JISC Usability/Learnability initiativeCommentsPosts
+New Word Tree site
+Paul Stephenson has now developed the Word Tree further. A stable version is is available at http://wordtree.coventry.ac.uk .
+February 14th, 2013 | Tags: #jiscUX |
+Category: Dissemination,
+Progress | One comment - (Comments are closed)
+Final report
+A copy of the Final report can be found here.
+February 22nd, 2012 | Tags: #jiscUX |
+Category: Progress | Comments are closed
+End of Project Review
+Recap
+TheWordTree had the goal of providing an alternative, interactive user interface to traditional text-analytical tools like KeyWords In Context (KWICs).  The website produced allows users to generate word trees for individual terms, starting from the searched term at the leftmost edge with branches of proceeding words extending to the right.  In most cases, the number of potential branches that could be returned is vastly greater than the number of nodes that can be legibly printed in the visualisation.  Thus, we allow the user to select a filtering function(s) to discard a majority of terms.  The default setting is to select the top n terms ordered by frequency under the selected node.  Other options include lexicographic ordering and part-of-speech filtering.
+Original project goals and progress made
+Clickthrough Paths: User clicks from one term to another.  As they click the Word Tree narrows to show the remainder of the tree.  Alternatively, the user may clear the document subset that they are searching within to show complete trees for clicked terms.
+Frequency Visualisation: The number of occurrences is shown below each node and the area around the node is shaded proportionally to the number of occurrences.
+Directionality (Forward/Backward-facing trees): Only forward-facing trees are functional.
+Document filtering: Documents may be filtered by level, genre or discipline.
+Multi-corpora: Not currently possible.
+Zoom and pan: Currently usable in webkit-based browsers only.
+Image Downloading: Images can be downloaded in SVG format.
+Metrics
+Usability
+Session (frequency/duration)
+Comments
+Clickthrough path depth
+Performance
+JSON Return latency
+Render time
+Obstacles
+Tree Persistence
+It is difficult to persist trees or large hierarchies of data in a traditional web application development stack.  The tree data structure itself does not fit neatly within a relational schema, whilst high out-degrees for commonly used terms makes even loading a complete tree a time consuming operation.  Our word tree application is further complicated by the requirement to filter trees to include only occurrences within document subsets.  As a workaround, we marshal complete trees in to and from memory using SQLite as the database back-end.  This allows versions of the database to be swapped, or loaded dynamically, to allow split testing.
+Speed of Tree Transition
+Moving between trees creates linearly by clicking proceeding terms only a small change in the overall tree, however the entire new tree needs to be recreated and pruned server-side.  Unlike previous works, our trees are computed at the server due to the requirement to perform document filtering (and not transmit the entire corpus at during front-end interface loading).
+Information Overload
+The quantity of information returned is difficult to process cognitively and computationally.  Trees can be pruned in many ways and, in order to be useful, the structure of the corpus being analysed needs to be somewhat internalised.  The primary difficulty in displaying Word Trees is the amount of space they require.  This may be improved in future releases by allowing layers of metadata to be overlaid on the tree similar to the current method of display term frequencies only on hover states.
+Lessons Learned
+Pruning filters are built iteratively, it is better to start with the complete tree precomputed.
+For large trees, pruning must be very aggressive.  JSON downloads greater than 200kb slow the rendering process significantly as the complete data structure must be loaded before drawing can begin — it cannot be streamed.
+A better version would be able to stitch together sub-trees using the cached document set that the user has built iteratively.
+Passing only sub-trees would allow animation when moving between trees or collapsing branches.
+Images could be rasterised at the server for downloading.  SVG does not display well in older browsers (< IE8) which unfortunately are pervasive in academic settings.
+Set operations in SQL are not well suited to determining which sentences to show.  For common terms in the wordtree (‘of’, ‘then’, ‘the’), they can take up to 12s to return on a typical VPS configuration (1Gb RAM, 1Ghz CPU).  This is before pruning begins.
+Traversals in graph databases (e.g. neo4j) do not perform well in memory-constrained environments.
+Document-oriented storage is not useful were hierarchies are deeply nested.  To generate faceted word trees, nodes need to be traversed deeply within documents and query languages that offer this feature tend to be cumbersome (e.g. MongoDB).
+Map-reduce was experimented with briefly (CouchDB) and may provide a more performant query environment, but the learning curve to integrate it with the rest of the software stack proved too daunting.
+The biggest potential win in improving perceived user experience performance stems from rendering data structure visually.  Currently, the use of JSON to transmit the entire tree between server and client prevents nodes from being streamed and rendered in the browser as they are loaded.
+February 22nd, 2012 | Tags: #jiscUX |
+Category: Progress | Comments are closed
+Conference presentations
+We will be presenting the Word Tree at the following conferences:
+Asia Pacific Corpus Linguistics Conference. Auckland, New Zealand, February 15th - 19th, 2012. See  abstract.pdf
+ICAME 33: Corpora at the centre and crossroads of English linguistics. Leuven, Belgium,  May 30th - June 3rd 2012.
+January 30th, 2012 | Tags: #jiscUX |
+Category: Dissemination | One comment - (Comments are closed)
+Report: January 2012
+Here is a  report on the project so far.
+January 30th, 2012 | Tags: #jiscUX |
+Category: Progress | Comments are closed
+Source code
+Source code is available from: https://github.com/conail/wordtree
+January 30th, 2012 | Tags: #jiscUX |
+Category: Progress | One comment - (Comments are closed)
+Beta version January 30 2012
+We now have a beta version of the Word Tree available at http://beta.thewordtree.net/
+This works best with Firefox and Google Chrome - not so well with Internet Explorer v 8.
+We will shortly activate the filter buttons for level, discipline and genre. Other modifications are ongoing, in response to user feedback.
+January 30th, 2012 | Tags: #jiscUX |
+Category: Progress | Comments are closed
+Beta version January 16th 2012
+Faceted Search
+Faceted search features are hidden from the basic search screen.  They can be enabled by clicking on the ‘Advanced’ button.
+Strict Levels
+By laying out terms along strict levels, it is possible to remap child nodes to multiple parents.
+Original Menu
+The original menu allowed users to finely specify search parameters.  However it was difficult to specify the exact set that would produce the most useful tree without knowing the frequency distribution of terms within the corpus beforehand.
+Furthermore, parameters were set globally which led to very shallow trees being created — parameters which suited common terms at the tree base did not lend adequately themselves to returning sparser terms toward the leaves.  Subsequently, these parameters were selected automatically using characteristics of the base term which are then adjusted at each level.
+Redis In-Memory Search
+Determining the sentences which make up the requested tree is by far the most computationally intensive part of the application.  Various inverted index strategies have been attempted, the most efficient being a series of in-memory set operations on a small fraction of document metadata.
+January 18th, 2012 | Tags: #jiscUX |
+Category: Progress | One comment - (Comments are closed)
+Progress Report
+The project has experienced two main problems in developing the WordTree interface. The first relates to the method of domain modeling being applied; the second relates to performance issues.
+1) Domain Modeling
+The WordTree requires multi-level searches (i.e. searches by genre, level, discipline etc.), which causes specific processing problems. (Many Eyes, for example, does not have the ability to do multi-level searches, so we cannot simply replicate the system used there.)
+1.1 SQL (Relational Modeling)
+The following domain modeling options have been trialed:
+a) Relational Tables
+b) Nested Set
+c) Materialised Path
+These methods of domain modeling are a type of relational/database modeling which use SQL (Structure Query Language). With this method of modeling – and because of the way the database is structured - the programme effectively knows what results will be returned when a search is carried out (i.e. there are a limited number of paths/variables that a particular search can take/have).
+For the WordTree project, therefore, relational modeling would not work as it forces the problem into a relational schema.
+1.2 No-SQL (Graph Datatbase)
+The next step was to explore a new, emerging branch of domain modeling (one which is utilized by Facebook and Twitter) called No-SQL. With this method of domain modeling the program does not know what search results will be returned (i.e. the search paths/variables are not predetermined, rather they are carried out in real time).
+Graph Database – a method of No-SQL was explored.
+Graph Database works well with small data sets. From a linguistics perspective, it is also useful as it allows for searches on p-frames (a search for ‘I * * you’, for example, would bring up all words within that frame). However there are several problems with using this method for the WordTree:
+a)     Because this is a state of the art method (and as such large amounts of money are being pumped into development work) it is an unstable system, constantly evolving. This means that using such as system would require ongoing maintenance (time/cost implications).
+b)     Graph Database works well with one document, but it would not work so well for corpora containing lots of documents – multi-level searches (such as ours). From a linguistics perspective, Graph Database would not be useful as it would not allow the user to look for distributional trends, for example. This is the exact problem with visualizations such as Many Eyes, which allow the user to visualize one document, but do not allow the user to notice patterns across lots of documents.
+c)      There are also storage problems – Graph Database requires a lot of RAM/memory. It is good for things like Twitter and Facebook because these searches only need to go, say, 100 deep. The WordTree, however, may need to go 4000 deep (taking into account all of the different linguistic variations/combinations) - meaning it is very slow to return search results.
+1.3 No-SQL (Key Value Store + Document Database)
+The solution was to use something called Schema-less (or Document Database) to generate word trees. With this system the data defines the database, rather than the data being forced to fit the database.
+How does this work?
+This method involves working backwards. The first time a particular search is carried out the process will be slow, taking several minutes for the search results to be returned. A complete tree, encompassing all possible variations/branches, is produced. The tree will then be saved to disk (NOT memory) so that future searches on that same word or phrase will be much quicker. The search can then be refined to produce more specific trees.
+So, rather than growing outwards (for example, a search for the word ‘the’ would bring up all instances of what comes one word to the left/right, then two words, then three, then four, and so on until the tree has fully expanded), the tree will instead work backwards - it will start with the fully expanded tree and then remove what is not relevant.
+How is that achieved?
+To do this a combination of two methods were used: Key Value Store and Document Database.
+With Key Value Store the search paths do not live in the database (as with relational modeling) but instead live in the memory. The latest version of Key Value Store (used for this project) is called Redis. The Document Database system being used is called Mongo.
+What are the benefits of using this method?
+·         It allows multi-level searches.
+·         It produces trees, which show statistical and distributional trends (i.e. it searches across documents).
+·         It allows trees to be transferred between users (each tree has a specific URL).
+Problems with this method
+·         Search returns are very slow for initial searches (as the fully expanded tree has to be generated).
+·         Search returns are also very slow when multiple users are working with the WordTree (see Section 2 below – Performance).
+·         The storage of trees will take up a lot of disk space at Coventry. To overcome this problem a monthly sweep will be carried out to delete uncommon/infrequent search results.
+2. Performance
+As previously mentioned, performance is affected when multiple users are working with the interface. Caching is the solution. Further developmental work is required.
+3. Future work
+If the WordTree is to be used with other corpora further developmental work is needed. There are two main areas:
+1) The ability to specify search criteria depending on the corpora.
+2) The ability to personalise the word trees (how the tree will be displayed).
+December 20th, 2011 | Tags: #jiscUX |
+Category: Progress | Comments are closed
+Usability plan for 2012
+Following on from Stakeholder discussions, in 2012 we will be assessing the effectiveness of WordTree through a combination of quantitative and qualitative usability studies.
+1)      Before making it publicly available, we have circulated the web address for the WordTree to Stakeholder Group One, who will explore and experiment with the system in order to give feedback on how easy it is to use, how effective it is and the extent to which it meets the stated objectives of the project. To help facilitate this, feedback forms are embedded on each page within the system. Stakeholders will use these forms to comment on any particular issue that arises as they navigate around. The system will log the activity they were undertaking or the search they had made at the point that the form was submitted.
+The feedback from stakeholders will be compiled for review in February 2012, and an action plan for system amendments and enhancement created.
+2)      Once these changes have been implemented we will carry out a further  usability study, this time involving people who are completely new to the system. This will take place in the testing facilities at Coventry University’s Serious Games Institute. Each subject will be asked to undertake a series of pre-determined tasks and their performance will be recorded using “Silverback” software. Silverback creates a video recording of the computer screen and where people are clicking as they complete the tasks. It also records their facial expressions via a web cam.
+The purposes of this study will be to identify any common points of confusion or misunderstanding that people experience when navigating through the WordTree interface. The subjects will also be asked to complete a more general questionnaire and give feedback on their experience of using the system.
+The results of the usability study and the Silverback videos will be published on the project blog. The results will also be analysed, with recommendations made for future amendments to the software.
+3)      Quantitative recording tools are also built into this version of the WordTree, in order to monitor the behaviour of users on an on-going basis. In particular, the search terms that people use will be logged and made available for future evaluation.
+Google Analytics will also be embedded into the system. This will provide the project team with detailed reports concerning:
+·         The number of people using the WordTree
+·         The typical paths that people take through the system
+·         How long people typically spend using the system
+·         The geographical location of users
+·         How they found the site
+·         The searches that they made
+·         Which links and buttons are most commonly clicked on each page
+·         The speed of the site
+December 20th, 2011 | Tags: #jiscUX |
+Category: Progress | Comments are closed
+Older Entries »
+Pages
+Blog
+The Word Tree
+Recent Posts
+New Word Tree site
+Final report
+End of Project Review
+Conference presentations
+Report: January 2012
+Blogroll
+English and Languages in the Professions and in Higher Education
+Further research with the BAWE corpus
+Increasing Interoperability between Corpus Tools
+Increasing Interoperability between Corpus Tools - JISC site
+The Word Tree, an Interactive Visual Concordance
+Meta
+Login
+Entries RSS
+Comments RSS
+WordPress.org
+Copyright © 2017 The Word Tree corpus interface - All Rights ReservedPowered by WordPress & the Atahualpa Theme by BytesForAll. Discuss on our WP Forum

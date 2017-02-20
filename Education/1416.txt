@@ -1,0 +1,175 @@
+WILD Thing
+skip to main
+|
+skip to sidebar
+WILD Thing
+Friday, 27 November 2009
+* Title of Primary Project Output: JISCWILD: A tool to enable student wireless interaction with tutor delivered lecture slides.* Screenshots or diagram of prototype:Diagram of Overall conceptScreenshot of Tutor InterfaceScreenshot of Client interfaceScreenshot of DisplayPlugin screen shots in practice (note both the above are PowerPoint slides with embedded web content) * Description of Prototype: Death by PowerPoint, make PowerPoint come alive with the Wild Thing. The Wild Thing concentrates on allowing students in the lecture room to interact directly with slides delivered by a lecturer. Students use web or Wi-Fi enabled devices (including laptops and mobile phones) to send information through for display on presented slides. The Wild Thing is a web based system which enables lecturers to build interaction into standard presentational material. The interaction can be in the form of activities such as simple questions requiring textual or multiple choice response. However, the aim of the system is to enable these activities to scale up to much more sophisticated activity types such as ones enabling pictorial or audio responses. A plug-in exists for Microsoft PowerPoint to enable lecturers to do this quickly and efficiently. As a side benefit to the project work on the Wild Thing system has resulted in a tool which the majority of lecturers around the country will be interested in using. The tool enables directly embedded web content to be displayed within PowerPoint slides removing the requirement for lecturers to have to task switch between applications in the lecture room.* Link to working prototype: The working prototype consists of multiple elements best described by our user documentation see link in section below, however, there is a tutor interface @ The Wild Web system (tutor interface) , a client interface (for mobile devices etc...) @The Wild Web system (client interface) , a display page for Presentational slides @ The Wild Web system (embedded content for slide display) FINAL NOTE: The display content would be embedded in the presentational slide with the use of a plug-in such as our PowerPoint add-in at sourceforge or on the project web page.* Link to end user documentation: Sourceforge or on the project web page.* Link to code repository or API: Sourceforge or on the project web page.* Link to technical documentation: Sourceforge or on the project web page.* Date prototype was launched: November 2009* Project Team Names, Emails and Organisations: Darren P. Mundy, d.mundy@hull.ac.uk, University of Hull; Darren Stephens, d.stephens@hull.ac.uk, University of Hull; Keith Dykes, k.dykes@hull.ac.uk, Independent Developer* Project Website: project web page.* PIMS entry: https://pims.jisc.ac.uk/projects/view/1358* Table of Content for Project PostsPosts about Project Evaluation:Project Evaluation & First Few Weeks .Posts about User participation:Demonstrations & User trials and forthcoming demonstrations .Posts about Day-to-day work:Finishing Versions & Better late than never! & Interface Design & Diagrams and Tools & Design Documentation..Posts about Technical standards:Jscrip, Jquery PHP and God damit! & Amusing Interface Quirks .Posts about Value Add:Finalising the ValueAdd .Posts about Small WIN(s):Teaching an "old" dog, new tricks & Creating Functions and Beating Web Servers.Posts about FAIL(s):Mobiles for Project .
+Posted by
+darren mundy
+at
+09:19
+No comments:
+Labels:
+demonstrator,
+finalProgressPost,
+JISC,
+JISCRI,
+JISCWILD,
+output,
+product,
+progressPosts,
+prototype,
+rapidInnovation
+Wednesday, 25 November 2009
+Demonstrations
+Earlier this month we put on two demonstration sessions for staff members to come and have a play with Wild in practice.
+We talked through the project focus demonstrated the use of the add-in and demonstrated the composition of activities for PowerPoint integration.
+We had a range of staff come to the two sessions encompassing areas such as Study Advice, Primary Education, Coastal Sciences, Campus Management, Computer Science, Theatre and Performance, Creative Music Technology.
+We asked all of the staff who came to consider how the technology could be used in relation to their discipline and how we could push the technology on.
+Since the events we have had a range of different reponses which will lead to a number of different opportunities for Wild's integration into different disciplines over the next Semester and beyond.
+For example, we are going to demonstrate Wild and other Web 2 technologies to a large group of primary education students at the end of this semester with the intent of getting them to explore how new technologies may shape their educational environments of the future (ie. with young children and beyond) - this seems like a good value add to their education and an example of research embedded in techning practice.
+We also hope in the New Year to have the opportunity to use Wild in the context of substantial classes in the physical sciences to explore it's potential for use in very large groups.
+Posted by
+darren mundy
+at
+00:57
+No comments:
+Labels:
+enduser,
+JISCRI,
+JISCWILD,
+progressPosts,
+rapidInnovation,
+Usercase
+Project Evaluation
+Well we're very close to the end of the funded part of the project with the project now set to continue through postgraduate support over the next year.
+In terms of evalution of where we are at a SWOT follows this short piece.Looking back over the project it's clear that there have been some key WINS and some key losses to learn from.
+In terms of the WINS, on submitting the proposal we weren't too sure how we were going to tackle the lecturer tool for composing slides having previously encountered problems with working with MS Powerpoint slides and other presentational tools for the first prototype.
+We knew that the way we were doing things needed to change (a clunky Java application is just not usable across the uninitiated) so the decisions made in creating a web solution and producing an add-in which has a really usable side effect of being able to embed any web content directly into Powerpoint was a real positive.
+Made even more positive when we sorted the add-in for a later version to enable multiple web pages to be displayed on the same slide.In terms of the web system, we are in the position of having the basic functionality working and in addition having a lot of the other functionality ready to be integrated but we perhaps still need to continue to work on the interface to make things easier for users.
+That will happen though as the Wild system starts to be used in anger in a few modules in semester 2.In terms of losses I think the main one has been the inability to get the desired technology through the University and corporate channels.
+However, the technology purchased through the project offers lots of different opportunities for future exploration linked to the Wild thing.SWOT Analysis (at this point)StrengthsThe add-in (has the potential for widespread use given the propensity for the inclusion of web content in presentations)The re-formulated architecture of Wild (offering clear opportunities for expansion)Things work in the Wild, with tasks not too difficult to completeTeam (Clear ideas for how to continue to strangthen Wild)WeaknessesAt present we still need to integrate some of the more advanced question types into the web tool.The Wild system at the moment needs a clean up and will get one over the next couple of days.The Wild web system is working but we need to re-factor the code to make it easier for other developers to add to the system.OpportunitiesWild demonstrated at Making Web 2.0 Work For You and other external events coming up over the next six monthsWild demonstrated internally successfully, need to start to get more people using at the very least the web page insertion tool within their practice leading to transmitted word of mouth and tool usage in multiple circumstances.Clear opportunity to experiment with embedding other forms of feedback mechanism directly into slide content e.g. twitter feeds and using other Web 2.0 technologies linked in with Wild within the lecture room environment.Potential for commercial link up with a local company to move the system forward (still considering whether to actively pursue) - leading to a couple of versions of the software.ThreatsNew versions of PowerPoint will possibly require a new image of the add-in tool.
+As things stand it seems to work retrospectively at the moment i.e. the version of the tool for PP95 works with PP97.Loss of momentum, however, the PG focus should enable the system to move on substantially over the next year.
+Posted by
+darren mundy
+at
+00:32
+No comments:
+Labels:
+JISC,
+JISCRI,
+JISCWILD,
+progressPosts,
+projectEvaluation,
+rapidInnovation,
+SWOT
+Friday, 6 November 2009
+Finalising the ValueAdd
+As you may have noticed tonight is blog catch-up amd as we move towards JISC funding ending its time to look at the value added and things that changed project direction.The wild thing tool provides the following service for lecturers, 1 the integration of live web content directly into PP slides through a mechanism that is user friendly ,easy to understand and requires limited tutor intervention. This has been a significant side effect of the WILD tools production, 2: As things stand the wild tool provides a clear textual question and answer system for slide integration.
+Other question types are not far away but will be added as they are fully tested.I think the clear turning point as regards this project was illustated in one of the earliest blog posts when we realised that a PP add-in could be constructed and linked directly to a web based system rather
+than the team focusing on creating a tool which would manipulate PP slide construction post creation through a different application.
+Posted by
+darren mundy
+at
+12:29
+No comments:
+Labels:
+disruptiveinnovation,
+JISC,
+JISCRI,
+JISCWILD,
+progressPosts,
+rapidInnovation,
+Valueadd
+Finishing Versions
+When David Flanders visited he commented how it would be good to see something such as a twitter aggregator running in a web paneon a slide containing other web content.
+At the time the plug-in was setup to only allow single web page integration into a slide.
+This week that changed now as many web pages as one may want can be integrated.
+In addition to this versions of the plug-in have been finished for PP2003 and PP2007.
+Took a bit of playing but the tool with these additions should be even more stable and user friendly.
+One of the annoyances with the plug-in was its insistance on a slide being selected in the left hand pane in PP before it allowed web content insertion, this has also now been solved.Finally, a bit of time has been put into clearing up the WILD web interface with time to put in next week in addition.A pretty happy successful implementation week.
+Posted by
+darren mundy
+at
+12:16
+No comments:
+Labels:
+implementation,
+JISC,
+JISCRI,
+JISCWILD,
+Methodology,
+productivity,
+progessposts,
+rapidInnovation
+User trials and forthcoming demonstrations
+Been a very busy time with the project approaching completion alongside the semester flying by.
+The plug-in has been used in lecture theatres here on campus over the duration of the semester with the only issue being linked to permissions when logging in as a temporary user.
+A couple of weeks ago the plug-in was demo'd at the making web 2 work for you workshop and low and behold the web insert worked well but WILD fell a bit flat on its backside because of problems with PowerPoint versions and the wireless connectivity.
+Next week we have a couple of user sessions planned for demonstration and I hope that it will encourage a range of campus staff to trial the sytem over the second semester.
+Posted by
+darren mundy
+at
+12:08
+No comments:
+Labels:
+enduser,
+JISC,
+JISCRI,
+JISCWILD,
+progressPosts,
+rapidInnovation,
+Usercase
+Friday, 9 October 2009
+End of a good thing
+Well at the end of today I (keith) will be leaving wild as a full time payed programmer :(BUT FEAR NOT! I will be Returning as a Post grad student to work on WILD some more!I would like to thank Darren S and Darren M for the support and for the oppotunity to work on this fantastic project. I hope my masters can expand the wild project more, as i will be working 12 hours a day on it (-4 hours for food and coffee and -6 for WOW).For a little up date, we have a working Demo (text input only) of the WILD web interface. and we have also 2 other test systems on the go, one that is a copy of the demo but with working upload and the start of multiple choice activities.I have also started some templates for the system in my spare time, heres a looky at one:Default: HereWILD: Here (with some mini Alterations by Darren S)
+Posted by
+Keefus
+at
+06:26
+No comments:
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+Subscribe To
+Posts
+Atom
+Posts
+All Comments
+Atom
+All Comments
+Followers
+Blog Archive
+▼
+2009
+(21)
+▼
+November
+(6)
+* Title of Primary Project Output: JISCWILD: A too...
+Demonstrations
+Project Evaluation
+Finalising the ValueAdd
+Finishing Versions
+User trials and forthcoming demonstrations
+►
+October
+(2)
+►
+September
+(3)
+►
+August
+(5)
+►
+July
+(2)
+►
+June
+(3)
+Contributors
+Keefus
+darren mundy
+malleus bardorum

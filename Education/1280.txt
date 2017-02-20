@@ -1,0 +1,87 @@
+SMART - Student-Managed Access to Online Resources | Student-Managed Access to Online Resources
+SMART – Student-Managed Access to Online Resources
+Student-Managed Access to Online Resources
+Home
+Team
+Secure sharing of Higher Education Achievement Reports (HEARs) at Newcastle University using SMART
+October 5, 2012
+maciejmachulak Leave a comment
+We’ve just released a draft version of the “Secure sharing of Higher Education Achievement Reports (HEARs) at Newcastle University using SMART” document. Our goal is to propose improvements to existing processes at Newcastle University and integrate SMART with some of the applications, as discussed. Please feel free to send your feedback.
+You can also check out SMART white paper – single page that describes the problems in Higher Education that SMART AM solves.
+Categories: Publications, Research
+Puma: building a requester application
+June 30, 2012
+maligree Leave a comment
+Here comes the second part of our hands-on introduction to our lovable Python UMA implementation – PUMA. As Part I, it may not be all that brief, but it is wildly comprehensive and grants you the hottest superpower on the market: rapidly creating sleek, UMA-enabled Requester Applications.
+Read more…
+Categories: Development
+Puma: building a host application
+April 20, 2012
+maligree Leave a comment
+What you see here is the first part of our hands-on introduction to our lovable Python UMA implementation. It may not be all that brief, but it is wildly comprehensive and grants you the hottest superpower on the market: rapidly creating sleek, UMA-enabled applications.
+Let’s get to work, then.
+Read more…
+Categories: Development
+Releasing Puma.
+April 13, 2012
+maligree Leave a comment
+The time has come. We’re proud to announce that after serving us well internally and powering our sleek host and requester applications, it is time to release Puma – the little beast behind the curtain that you should definitely pay attention to – our Python library for swiftly implementing UMA enabled applications.
+Puma code repository: https://bitbucket.org/smartproject/puma-gae
+Building a host application with Puma: right this way
+Building a requester application with Puma: over here
+As a reference implementation, don’t hesitate to check out both:
+PumaHostOne: https://bitbucket.org/smartproject/pumahostone
+PumaRequesterOne: https://bitbucket.org/smartproject/pumarequesterone
+Learn more about the flow using SMARTAM by viewing the following two presentations:
+http://www.slideshare.net/smartjisc/smart-uma-alicetobob-sharing
+http://www.slideshare.net/smartjisc/smart-uma-alicetoalice-sharing
+All code is released under the Apache 2.0 license.
+Categories: Development
+The Business of Open Source
+December 19, 2011
+lukaszmoren Leave a comment
+“I’ve experienced quite a bit about how open source works. It’s been a wonderful learning experience for me and definitely turned me from someone who thought open source code and developers were somehow not as good as closed source equivalents into a person who knows that the opposite is most definitely the case!”(Mark Little, Red Hat, blog)
+Indisputable fact of today’s worlds is an existence of many IT companies that based their success on the Open Source. Talend, Alfresco, Cloudera, Mozilla and last but not least: Red Hat/JBoss (How JBoss did it!) are great examples of that.
+Read more…
+Categories: Conferences, Development, Research
+Tags: open source code, open source projects
+User eXperience & Trusted Claims for UMA – New presentations!
+July 25, 2011
+Maciek Leave a comment
+Our colleague Domenico Catalano has just finished his stay at Newcastle University. During his stay Domenico has given two presentations – one on Exploring Visualization Techniques to Enhance Privacy Control UX for User-Managed Access and the other on Extending the UMA Protocol to support Trusted Claims.
+Read more…
+Categories: Usability, UX
+OAuth 2.0 Implementation in Python
+July 23, 2011
+maciejmachulak 1 comment
+The SMART team has just released a new OAuth 2.0 implementation in Python. You can find the source code here and the documentation for the library is available here. The library in Python has  been developed entirely by Jacek Szpot (with a little help from the SMART team). Jacek joined SMART around 4 weeks ago and we are very excited about this first release.
+The OAuth 2.0 Python library has been released under the Apache 2.0 license and we plan to continue further development. As always, we very much appreciate feedback and we’re open to suggestions on how to make the library better!
+Categories: Development
+Older Entries
+RSS feed
+Google
+Youdao
+Xian Guo
+Zhua Xia
+My Yahoo!
+newsgator
+Bloglines
+iNezha
+About The project will develop an online data access management system based on the User-Managed Access (UMA) Web protocol, a newly proposed technology that builds on OAuth. UMA is in the process of being standardised by the UMA work group (charter of the Kantara Initiative).
+Labels
+Conferences
+Development
+Presentations
+Publications
+Research
+Uncategorized
+Usability
+UX
+Links
+SMART project website
+Top
+Create a free website or blog at WordPress.com.
+SMART – Student-Managed Access to Online Resources
+Blog at WordPress.com.
+Post to
+Cancel

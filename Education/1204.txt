@@ -1,0 +1,39 @@
+SURF X4l - Links
+The SURF X4L Project
+Welcome
+Home
+Partners
+Links
+Documents
+News
+Objectives
+Introduction
+The SURF X4L Project is a project involving
+Staffordshire University, Stoke-on-Trent FE College, Shrewsbury College of Art
+and Technology and The Royal National College for the Blind. The project
+concentrates on the repurposing of content for use within MLEs/VLEs and
+focuses on the various phases needed to enable this to take place effectively.
+These phases will involve formulating necessary
+procedures, and the subsequent training of both support and teaching staff to
+allow them to carry out:
+a)    the identification and acquisition of content including its
+existing metadata where this exists
+b)    the use of tools for the packaging of content, which employ the
+appropriate international specifications and standards (for example IMS and
+SCORM), to capture material and add additional metadata where required
+c)    further use these of tools to disaggregate and re-aggregate the
+content and create standard content packages and import them into VLEs for
+unpack aging and repurposing; where the VLE allows it, use the VLE for
+further desegregation, reaggregation and repurposing to support courses
+within the VLE.   This might include the export of VLE content to CD to
+assist with off-line working.
+d)    the packaging of repurposed content (again using international
+specifications and standards) for export to digital repositories and further
+reuse
+The project will focus on the vast amount of learning content held on HEI
+and FEI intranets and web servers which is not currently easily accessible for
+repurposing and which requires description and packaging for VLE use, as well
+as content from the DNER and other national non-commercial providers.
+©Staffordshire University, 2003
+Last Updated,
+04/07/03, Matthew Phizacklea

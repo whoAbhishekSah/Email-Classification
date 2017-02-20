@@ -1,0 +1,82 @@
+SHERPA
+.
+. . opening access to research
+Home
+|
+Guidance  |  Repositories
+|  Projects  |  Links
+|  About
+Award
+winning SHERPA is investigating issues in the future of scholarly
+communication. It is developing
+open-access institutional repositories in universities to facilitate
+the rapid and efficient worldwide dissemination of research. SHERPA
+services and the SHERPA
+Partnership are both based at the Centre
+for Research Communications at the University of Nottingham.
+SHERPA Services
+RoMEO - Publisher's copyright & archiving
+policies
+JULIET - Research funders archiving
+mandates and guidelines
+OpenDOAR worldwide Directory
+of Open Access Repositories
+SHERPA
+Search - simple full-text search of UK repositories
+SHERPA Resources
+SHERPA speaking events -
+for future events see CRC
+Guidance on depositing material;
+copyright; and open access for authors
+Advocacy Materials for administrators,
+including past SHERPA presentations
+Links to other initiatives and related
+background information
+Current SHERPA & Allied
+Projects
+The SHERPA services and partnership are based at the Centre for Research
+Communications at the University of Nottingham. For more information
+on current projects see the CRC
+website.
+Completed SHERPA & Allied
+Projects
+SHERPA
+Project - which helped develop archives in research-led institutions
+SHERPA
+Plus - expanding the repository network in the UK
+SHERPA DP and DP
+2 - looking at preservation models
+PROSPERO
+- scoping The Depot keep-safe service - now OpenDepot.org
+EThOS
+- developing a national
+eTheses service
+Copyright
+Knowledge Bank - copyright investigation
+DRIVER - developing a cross-European
+repository network infrastructure
+Intute: Repository
+Search - searches across 90 UK academic repositories
+The Depot
+a keep-safe repository for UK academics
+RSP (phase I)
+- support service for UK repository growth - current
+RSP Phase II
+SHERPA:
+Securing a Hybrid Environment for Research Preservation and Access
+News
+Scheduled maintenance - Service at Risk: Dec 2nd AM
+Upgrade to SHERPA/JULIET Released
+RoMEO API - Manual, REST Requests, and Wish List
+Hungarian Version of RoMEO Released
+Útnak indul a RoMEO magyar változata
+Country Statistics for SHERPA/RoMEO
+Access Keys Available for SHERPA/RoMEO API V.2.9
+more news...
+Jobs
+Funders
+We
+gratefully acknowledge the generous support given to SHERPA projects by our fundersSHERPA
+is hosted by the University of Nottingham
+© 2006, University
+of Nottingham Contact us

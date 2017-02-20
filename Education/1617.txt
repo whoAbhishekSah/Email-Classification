@@ -1,0 +1,21 @@
+Database of Archives of Non-Governmental Organisations
+Site navigation
+Home
+The Database of Archives of Non-Government Organisations (DANGO)
+was a project funded by the AHRC and then the Leverhulme Trust.
+It provides information on the availability of records relating
+to non-governmental organisations (NGOs) and pressure groups active in
+the UK since 1945. The project ran until October 2011. Since
+then, the database has not been updated and some links may no
+longer work.
+DANGO was run through the
+Birmingham Centre
+for Modern and Contemporary History at the University of Birmingham,
+which also oversaw the sister project,
+NGOs in Britain.
+Quick NGO Search
+include keyword search
+exact phrase
+Advanced Search |
+Browse Records by NGO
+<%=getDateLastEdited()%>

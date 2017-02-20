@@ -1,0 +1,53 @@
+semtech | ECS | University of Southampton
+Home
+Overview
+Survey
+Publications
+Presentations
+Team
+Acknowledgements
+Contact
+Links
+Blog
+Twitter
+del.icio.us
+Twine
+university of southampton > ecs > semtech
+Semantic Technologies in Learning and Teaching (SemTech)
+SemTech will identify and quantify the benefits of semantic technologies and outline a roadmap for their adoption in the context of HE/FE education, informal learning and exploratory learning. Addressing the HE/FE institutional perspective will involve case studies based on existing work.
+NEWS
+The SemHE workshop concluded successfully in Nice on 30 September 2009; its proceedings are now online at www.semhe.org/programme.html. A press release on the workshop can be found here.
+cloudeofdata.com podcast discussing the SemTech report.
+cloudeofdata.com article on the opportunity of linked data for Higher Education mentions SemTech.
+University of Southampton - ECS Press Delease
+on the SemTech Report.
+JISC e-learning Blog Entry on the SemTech Report.
+The SemTech Report is now an official JISC Report.
+The SemHE workshop is to take place in Nice on 30 September 2009. The workshop is co-located with EC-TEL 2009 and upported by SemTech and ENSEMBLE.
+A paper on the SemTech results has been presented at the SWEL '09 workshop in Brighton, 6-10 June 2009.
+A workshop and a presentation on the results of the SemTech project have been accepted for the ALT-C 2009 conference in Manchester in September 2009. Further details to follow soon.
+A draft of the SemTech report has been submitted to JISC and JISC-CETIS and its final version will be available soon.
+SemTech was presented at the Web Science 2009 conference in Athens
+A new version of the
+SemTech Survey
+website is now available. This website allows you to view a catalogue of semantic technologies registered with the service and a description on how they
+could
+be used in an educational context. You can view semantic technologies used by each service and the value that semantic technologies add to it. You can also view relationships among semantic tools and services, references and comments.
+To register a semantic tool or service or to add your own tags for existing ones all you need to do is create an account setting up a user name and password.
+Motivation
+Semantic technologies appear to hold the promise of significantly enhancing formal and informal learning but certain issues such as building ontology consensus, the logistics of annotating large volumes of learning content and the underpinning pedagogy have been frequently questioned.
+Although a lot of progress has been made and the use of standards like RDF, OWL and SPARQL are gaining popularity, a global semantic Web remains a long-term vision.
+However, progress towards a more modest machine-readable Web has been made, and pragmatic solutions to interoperability based around REST and XML have emerged in the last few years along with prototypes of SPARQL server implementations and new RDF/OWL annotation tools. In addition, Web 2.0 systems have encouraged a lightweight knowledge modelling approach (sometimes called folksonomies) based around techniques such as tagging, clustering, and community authoring.
+These are strong indications that consensus on ontologies can be achieved within a virtual community and that content can be efficiently annotated by community members provided adequate tools become available. Seen in this broader context it can be argued that Semantic Technologies are already impacting on the way in which we learn and teach, and will have an increasing impact as the sophistication of the tools increases.
+A number of open issues, however, deserve further analysis and discussion, such as:
+How do requirements for semantic tools and services differ in formal, informal and exploratory learning contexts?
+Do existing semantics-based applications sufficiently address requirements for learning in different learning contexts?
+How could semantics-based applications benefit each actor in formal higher education (teachers, students, administrators, research students)?
+What are the quantifiable benefits for higher education institutions that become early adopters of semantic technologies?
+What would be a roadmap for further research and semantic application development for education?
+Addressing these issues can have a significant impact on Higher Education (HE) and Further Education (FE) institutions. A detailed analysis of specific benefits of semantic tools for informal and exploratory learning will identify additional business opportunities for entrepreneurs active in this area and provide public and private research funding bodies with an insight into the application of semantic tools. A roadmap for the development and adoption of semantics-based applications can serve as a point of reference for the developments in this area and the open challenges to be addressed.
+SemTech will report current work on semantic technologies in education, provide a roadmap for further developments in this area and address the institutional perspective on semantic technology use by engaging in discussion with other HE and FE institutions in the UK.
+Contact Us | Intranet | © 2008 University of Southampton
+Start date: 01/09/2008
+End date: 28/02/2009
+Funded by:

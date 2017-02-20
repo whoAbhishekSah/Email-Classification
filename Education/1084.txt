@@ -1,0 +1,82 @@
+REMAP
+Browser does not support script.
+Text only | Print | Website Feedback | University portal
+REMAP
+REMAP
+Conferences
+Documents
+Links
+Project Aims
+Contact details
+Project Director:
+Ian Dolphin
+Project Manager:
+Richard Green
+e-Services Integration Group
+Academic Services
+Brynmor Jones Library
+The University of Hull
+Cottingham Road
+Hull HU6 7RX
+UK
+e-mail
+r.green@hull.ac.uk
+Partners
+The REMAP project is funded by the Joint Information Systems
+Committee and is being undertaken by the e-Services Integration
+Group at the University of Hull and Spoken Word Services at Glasgow
+Caledonian University.
+The REMAP Project
+The REMAP project is a project funded under the
+auspices of the Joint Information Systems Committee 'Repositories
+and Preservation' Programme. It is investigating the use of a
+digital repository to support the embedding of records management
+and digital preservation within the context of a UK Higher
+Education institution.
+Further details are to be found on the 'Project
+Aims' page of this website.
+RSS feed for this site
+The rss feed for this
+site is http://www.hull.ac.uk/remap/rss/rss.xml
+Subscribe in order to get notifications when we update the
+site.
+News
+Open repositories 2008 (04/08) The REMAP team
+contributed a poster to the main OR08 conference and a paper in the
+Fedora strand. These presentations can be located from the
+'documents' page of this site.
+Development work (03/08) The team is working on
+infrastructural development to support RMDP (see below) with Fedora
+repositories. To comply with our standards-based approach, this
+work is centred on using the Apple Darwin Calendar Server and the
+iCalendar standard.
+Requirements gathering (11/07) The team has
+spent the summer and early autumn gathering requirements for
+Records Management and Digital Preservation (RMDP) from potential
+users and collaborators. These are now being
+correlated and a report will be produced shortly. We have recently
+planned the first stage of our implementation process which will
+see a persistence layer built above our Fedora repository with
+messaging requirements specified in xCAL.
+Project Plan (08/06/07) The approved Project
+Plan is now available on our 'documents' page.
+First steps (18/04/07) At the project start
+meeting last Friday the team planned the User Requirements
+Gathering phase of the project. This will last for six months and
+will draw on input from staff at both Spoken Word Services and at
+the University of Hull. It is intended that initial discussions
+with participants will take place up to the end of May with
+detailed needs gathering taking place in June and July.
+Project start meeting (30/03/07) The REMAP
+start meeting is now fixed for April 13th (hopefully not an
+inauspicious date!). Shortly after that we should be able to
+publish a draft timetable for deliverables and other milestones.We
+have added an RSS feed to this site so that you can be notified of
+updates (see text box above).
+Project start (08/03/07) The REMAP project will
+officially start on 1st April 2007 and run for two years. At the
+moment the project team is busy arranging a start meeting. Watch
+this space!
+Accessibility ¦
+FOI ¦ Legal ¦ Privacy ¦ © The University of Hull , Cottingham Road, Hull. HU6 7RX, +44 (0)1482
+346311

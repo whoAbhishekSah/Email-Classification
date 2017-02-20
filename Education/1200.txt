@@ -1,0 +1,119 @@
+STARS Project
+User:
+Pwd:
+February 20, 2017 - Mon
+The STARS project is funded by
+JISC
+Blog for the Semantic Tools for Screen Arts Research Project
+Browse through pages:
+About the STARS Project
+Contacting Us
+Site Search:
+STARS and the new-look DShed Website
+Posted by NikkiRogers on 11 November 2009
+Our partners at the Watershed Media Centre in Bristol have newly launched DShed and describe how some of their wide-ranging film content can be searched through the online STARS demo:
+http://www.dshed.net/stars
+Filed under Uncategorized | Leave a Comment | Trackback | del.icio.us | Top Of Page
+STARS at the International Semantic Web Conference 2009
+Posted by NikkiRogers on 5 November 2009
+Two of the STARS developers, Simon Price and Damian Steer, presented a poster about the STARS project at the 8th International Semantic Web Conference (ISWC 2009) which was held 25-29 October 2009 at the Westfields Conference Center near Washington, DC.
+Poster for STARS presented at ISWC
+Filed under Overview, STARS presentations | Leave a Comment | Trackback | del.icio.us | Top Of Page
+STARS gets positive feedback at Digital Performance Documentation Workshop
+Posted by NikkiRogers on 25 September 2009
+Dr Angela Piccini and Nikki Rogers presented STARS today for Day 3 of three-day series of events on the topics of creating, managing and delivering digital documentation of performance work.
+Angela Piccini presenting the STARS project.
+This workshop series was hosted by JISC Digital Media and the University of Bristol Drama Department and today’s afternoon workshop gave participants a chance to work with the STARS visualisation and annotation tool hands-on. A nice video by Paul Clarke describes how STARS was used here.
+Multimedia and static content from earlier days in the series was uploaded to Internet Archive and Flickr and made available for annotation, tagging and cross-linking within the online STARS environment. Participants were extremely positive about the tool and are keen to go on using it in the coming weeks and beyond! We have left a special instance of the STARS website online, containing just this workshop’s data: http://stars.ilrt.bris.ac.uk/StarsWeb-workshop/.
+Filed under STARS presentations | Leave a Comment | Trackback | del.icio.us | Top Of Page
+STARS Workshop 22nd July 2009
+Posted by NikkiRogers on 24 July 2009
+Thanks to all involved for the excellent workshop held in the vibrant and cultural setting of Bristol’s Watershed Media Centre this week.
+Positive feedback to our tool included:
+“STARS’ ‘unique offer’ is the ability to annotate YouTube videos freely from within STARS and to make links from these to other resources in the STARS database and the linked video archives”.
+Screen Shot of the STARS online Demo used in our workshop
+“STARS’ map view for information visualisation is like mind mapping and offers a really useful alternative to working with linear displays of information”.
+“STARS would make an excellent tool to support projects over their lifetime, allowing for annotation through the entire journey of a project as opposed to retrospective tagging”.
+“The Workbench offers a useful mode for collaborative working as well as for personal use”.
+A few bugs and plenty of issues were identified. Functionality we lack in our demonstrator and that we would be keen to implement in a future project includes: the ability for tool users to update their personal details easily, to add links to new YouTube videos themselves and to be able to store their video annotations privately as well as being able to share them with other groups or publicly.
+This project is now concluding and a full User Engagement report will become available shortly.
+Filed under STARSWeb Demonstrator | Leave a Comment | Trackback | del.icio.us | Top Of Page
+STARS Presentation at JISC Digital Conference 2009
+Posted by NikkiRogers on 3 July 2009
+Project Manager Nikki Rogers gave a demo and presentation of the STARS project at the JISC Digital Conference 2009. You can find the powerpoint slides at http://www.jisc.ac.uk/media/documents/events/2009/06/nikki_rogers_3b.pdf.
+Some twittering about the STARS presentation at JDCC09
+People were most impressed with the fact that our STARS video and annotation player works over content distributed on the network – for example I can play and annotate a Richard Layzell video from You Tube alongside one of Richard’s from Bristol University’s National Review of Live Art archive
+The visualisation aspects also went down well as a flexible approach to information visualisation.
+Filed under Overview | 1 Comment | Trackback | del.icio.us | Top Of Page
+Semedia dissemination workshop
+Posted by Jasper Tredgold on 29 June 2009
+I attended one of the wrap-up dissemination events for the SEMEDIA project. This two and a half year EU project brought together commercial and academic partners to look at media search environments. They have produced some very interesting tools – have a look at the showcase. From a STARS point of view one of the most interesting was Yahoo!’s VideoSearch. Using a test video corpus, this tool searches metadata produced by journalists from CCMA (one of the Spanish project partners). The metadata includes temporal properties which allow search results to highlight the most relevant chunks of video. They are also tackling the problem of scaling the generation of metadata – see the project’s research application VideoTagGame.
+Filed under Uncategorized | Leave a Comment | Trackback | del.icio.us | Top Of Page
+The new look StarsWeb demonstrator
+Posted by NikkiRogers on 15 June 2009
+Through regular stakeholder engagement during the project we have developed a new and improved way of presenting the multi-functionality of STARS available online. We aim to have captured the essence of what end-users can actually do with STARS and how they may search, browse, annotate, share and reuse the content it provides access to.
+The New Look StarsWeb demonstrator
+Filed under STARSWeb Demonstrator | Leave a Comment | Trackback | del.icio.us | Top Of Page
+STARS Demonstrator site available
+Posted by Jasper Tredgold on 27 February 2009
+The first STARS demonstrator site is now available. This release marks the first of three planned public demonstrator releases during the 4 to 5 months, culminating in our final software release at the project end in July 2009.
+Highlights of this release include video playback, annotations, and the interactive network map browse tool.
+The STARS software is under active development, and as such there are features missing and known problems. Please consult the project roadmap for more information.
+The demonstrator site is available from http://stars.ilrt.bris.ac.uk/StarsWeb/
+Please try it out – and use the feedback form on the site to send us comments.
+Filed under Uncategorized | Leave a Comment | Trackback | del.icio.us | Top Of Page
+STARS Workshop 9 December 2008: 11am-3pm
+Posted by AngelaPiccini on 27 November 2008
+Attending: Tilo Burghardt, Bex Carrington, Paul Clarke, Jo Elsworth, Peter Flach, Terry Flaxton, Benjamin Miller, Barry Parsons, Angela Piccini, Michael Punt, Nikki Rogers, Damien Steer, Jasper Tredgold
+10.30-11.00 Meet at ILRT, 8-10 Berkeley Square, Bristol
+11.00-11.15 Intro from STARS team
+The STARS team introduced the aims and objectives of the project. Nikki and Angela went back and forth to try to discuss the background to the project in PARIP Explorer. The PARIP project had necessitated the development of an online database of practitioner-researchers. As PARIP researcher at the time, Angela wanted to work towards a database that would reflect the key conceptual and aesthetic issues at the heart of the PARIP project. Specifically, PARIP was concerned with relationships between event and document. Within practice-as-research too often the documents generated by practice come to stand in for the practice itself. How might a database serve to keep the tension between the ephemeral and the artefactual live? By developing the PARIP database as a semantic web application, the aim was to produce an online resource that would be open-ended and user-generated. This was back in 2002 and we were responding to the earliest Web 2.0 innovations. STARS emerged out of the PARIP project and out of a subsequent series of AHRC-funded e-Science workshops. Where PARIP included textual information visualised through an innovative web-based mapping interface, STARS wanted to implement search, play, annotate and re-use functions for moving image content. Adhering to an open source ethos STARS has been working with Watershed and the Arts Council funded Thrive project to develop an application that can be used across a number of institutions – both academic and non-academic – to begin to free up video archives. The goal is for users to be able seemlessly to find, annotate and connect a wide range of materials, to make new meanings and new works from online archives.
+11.15-11.30 Brief intro from Jasper Tredgold and Simon Price about content and login process. Workshop participants will sit in groups of 2 around PCs.
+11.30-11.45 Unstructured ‘play’. The STARS team will observe how workshop participants interact with the tool ‘cold’, without prompt.
+11.45-12.15 More structured session where participants will be given 3 broad questions to explore with the tool. We’re interested in how you go about the task and where you encounter things that you’d like to see work differently. What are your specific needs as individuals and within your disciplinary / practice communities?
+At this point in the day a number of issues were raised by workshop participants that indicated that we needed to do more work to situate the project. Despite the fact that the application is designed to work with online video, some questioned why we had designed the application to work within a browser as that imposed a certain conceptual-aesthetic framing on to the project. This is an important point in terms of the decisions made to work in an open source environment to work with online material. Other participants found it difficult to see the link to their own work, which focuses more on the fragmentation of classificatory systems as a critical-creative practice in itself. Again, this was a really useful observation and we needed to be more explicit about how STARS is situated within the tension between the critical-creative, academic, open source and industrial worlds. We also need to go back to basics to explain what, why and how semantic web.
+12.15-1.00pm Feedback session led by Nikki Rogers, with research details from Jasper Tredgold and Simon Price
+1.00-1.30 lunch (and more informal feedback)
+1.30-2.15 3 x 15-min informal presentations:
+–Barry Parsons of the NRLA/Theatre Collection on the digitisation of the National Review of Live Art archive;
+–Geoff Cox and possibly one other from Plymouth to talk about their work in the Arts and Social Technologies Research group, particularly work with Arnolfini;
+–Peter Flach and Tilo Burghardt on Bristol’s CompSci Visualisation work.
+2.15-2.45 Discussion led by Angela Piccini around common themes and areas for collaborative research
+2.45-3.00 Action points (what do we do next to ensure longevity and future development?) and close
+We generated a lot of feedback from the day that has fed into the next stage of development, which will be blogged about soon.
+Filed under Uncategorized | Leave a Comment | Trackback | del.icio.us | Top Of Page
+ICTs in the Creative and Performing Arts
+Posted by AngelaPiccini on 27 October 2008
+This AHRC-funded workshop event brought together practitioner-researchers from across the UK to present work in progress and to discuss the future needs of the arts now that the AHDS is no longer supporting our work.
+I saw terrific presentations by Sarah Whatley (Coventry) on her project digitising the archives of celebrated choreographer Siobhan Davies; by Gregory Sporton (City University Birmingham) on his Visualisation Research Unit‘s efforts to create contexts in which to produce high-end, blue-skies creative-technical research; by Bonnie Hewson, an AHRC collaborative doctoral candidate investigating the values, purposes, public perceptions and uses of Performing
+Arts Archives in Britain with a view to improving access.
+It was a terrific gathering of the great and the good, including David Robey (head of AHRC’s ICT and e-Science schemes) and a good many of the e-Science gang. I was pleased that the current state of STARS really piqued their interests. Martyn Horner, who used to be on the rdf group at W3C and is now at Glasgow School of Art was particularly impressed with our work on realising the potential of semantic tools.
+in terms of user engagement, I will add all participants to our online group for next Spring’s usability activities. in discussion they confirmed the desireability of:
+1) federated login: shibboleth-like system in order to link stars with other online resources;
+2) they all liked the combination of the rigour of rdf ontologies with the flexibility of user-generated annotations;
+3) they want interfaces to other devices and services;
+4) in order that the video data can be re-used in creative practice, we need to make sure that users can somehow output those multiple video streams with their uris. the division of the screen between player and text is good, but they wanted to know what happens when a user racks up multiple uris of, for eg, pan left sequences of a minute each. i’d want to be able to edit those together into a new work (this is where our creative commons plans came in!)
+Filed under Overview | Leave a Comment | Trackback | del.icio.us | Top Of Page
+« Previous Page
+Latest Articles:
+STARS and the new-look DShed Website
+STARS at the International Semantic Web Conference 2009
+STARS gets positive feedback at Digital Performance Documentation Workshop
+STARS Workshop 22nd July 2009
+STARS Presentation at JISC Digital Conference 2009
+Semedia dissemination workshop
+The new look StarsWeb demonstrator
+STARS Demonstrator site available
+STARS Workshop 9 December 2008: 11am-3pm
+ICTs in the Creative and Performing Arts
+Favorite Links
+Documentation
+Development Blog
+Suggest Ideas
+Support Forum
+Plugins
+Themes
+WordPress Planet
+RSS Feed
+RSS link
+© Copyright STARS Project, Credits: Luka Cvrk, Matteo Turchetto

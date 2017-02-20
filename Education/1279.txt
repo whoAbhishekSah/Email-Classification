@@ -1,0 +1,109 @@
+Home - SGC4L - Student-Generated Content for Learning - Wiki Service
+Skip to content
+Skip to breadcrumbs
+Skip to header menu
+Skip to action menu
+Skip to quick search
+Wiki Service
+Spaces
+Create
+Quick Search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+Available Gadgets
+About Confluence
+Log in
+SGC4L - Student-Generated Content for LearningPagesBlogTutorialsChild pagesPagesHomeBrowse pagesConfigureSpace tools
+Attachments (28)
+Page History
+Page Information
+Resolved comments
+Link to this Page…
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Skip to end of banner
+Go to start of banner
+Home
+Skip to end of metadata
+Created by
+John Baird, last modified by
+Judy Hardy on Apr 05, 2013
+Go to start of metadata
+Project Team Only
+A private area only accessible by the project team.
+Quicklinks
+JISC project page
+Project blog
+PeerWise website
+Pilot implementation of PeerWise in 2010-11
+Student Generated Content for Learning (SGC4L)
+Welcome to the website for the SGC4L project - Student-Generated Content for Learning. This is a JISC-funded project under their Assessment and Feedback programme and aims to evaluate the use of PeerWise use in undergraduate course in Physics, Chemistry and Biology.
+About the project
+The project ran from September 2011 for one year
+It is funded as one of the projects in Strand B of JISCs Assessment and Feedback programme
+Project team
+Project officer: Alison Kay
+School of Physics and Astronomy: Simon Bates (PI); Judy Hardy; Ross Galloway
+School of Chemistry: Colin Pulham, Peter Kirsop
+School of Biological Sciences Heather McQueen
+Since the start of the project, we have also begun collaborations with the following colleagues in other Schools at Edinburgh and at other institutions using PeerWise:
+Paul Anderson School of Informatics, University of Edinburgh
+Morag Casey School of Physics and Astronomy, University of Glasgow
+Kyle Galloway School of Chemistry, University of Nottingham
+Karen Smith Department of Microbiology and Immunology, University of British Columbia.
+Project documents, reports and resources
+Project outputs
+Final report: Student-Generated Content for Learning (SGC4L): Enhancing Engagement, Feedback and Performance
+Briefing paper
+Project development and background
+A detailed description of the pilot implementation of PeerWise in first year Physics courses in 2010-11 is available on the e-learning site project page
+The project plan (Nov 2011)
+Developing students' ability to construct feedback - an article by David Nicol at Strathclyde
+Project poster
+Course implementation details
+University of Edinburgh courses:
+Course implementation details in Physics 1A: Foundations
+Course implementation details in Genes and Gene Action 2
+Course implementation details in Introduction To Java Programming
+Course implementation details in BVM&S Veterinary Pathology
+Course implementation details in Chemistry 1B
+Collaborating institutions using PeerWise
+Course implementation details in Physics 2 (Glasgow)
+Course implementation details in Chemistry F11FC1 (Nottingham)
+Course implementation details in Biology of the Cell (UBC)
+Implementation resources
+Promoting Student Engagement with PeerWise (some perspectives from experiences in Edinburgh's Physics 1 courses)
+'How to do well in PeerWise' screencast created for 2011-12 Physics 1A class. (Contains a description of the scoring algorithm used in PeerWise).
+A short video PeerWise: An instructor's perspective (some reflections on using PeerWise in Physics courses).
+Spreadsheet templates and notes on the PeerWise assessment implementation for Edinburgh Physics 1 courses:
+PeerWise assessment spreadsheet - algorithm 1
+Notes on PeerWise assessment algorithm 1
+PeerWise assessment spreadsheet - algorithm 2
+Notes on PeerWise assessment algorithm 2
+Setting the task for the Edinburgh Biology Genes and Gene Action 2 course:
+A log of the process and information for setting the task for GGA2
+Introductory powerpoint slides for GGA2
+We have been developing ways of being able to judge question quality. Quality descriptors for categorising student questions , and a couple of example questions classified on Bloom's revised taxonomy
+Project outputs and dissemination
+November 2011: JISC online conference activity week. Webinar available online
+March 2012: "Getting Started in Pedagogic Research" event held at the Royal Society of Chemistry. Presentation available online.
+May 2012: JISC Regional Support Centre West Midlands: Peer Assessment event
+May 2012: Institute of Physics Higher Education Group workshop: Manchester "Using student generated content"
+June 2012: Frontiers in Science Teaching. Keynore at Aarhus University Centre for Science Education (programme).
+August 2012: Oral presentation / conference proceedings paper at the American Association of Physics Teachers Summer Meeting, Philadelphia
+August 2012: Workshop submission for Variety in Chemistry Education / Physics Higher Education Conference (ViCE/PHEC) programme
+No labels
+Overview
+Content Tools
+Tutorials
+Powered by Atlassian Confluence 5.9.11
+Printed by Atlassian Confluence 5.9.11
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 487, "requestCorrelationId": "701289c9c016c8"}

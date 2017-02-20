@@ -1,0 +1,142 @@
+Learning Technology |
+Xenith Project
+Intranet : Blogs
+Learning Technology
+Search for:
+Categories
+Archives
+Tags
+Categories
+Advent Calendar (25)
+assessment (2)
+Attribute Images (4)
+case studies (94)
+e-assessment (45)
+e-learning community (124)
+e-portfolio (14)
+events (141)
+guest post (12)
+learner experience (71)
+learning design (135)
+learning technology (376)
+Maintenance (6)
+MOOC (44)
+Moodle (251)
+Moodle Magic (14)
+Open Nottingham (132)
+PARiS (21)
+Rogō (20)
+social media (47)
+TouchStone (20)
+Uncategorized (3)
+video (44)
+Virtual Worlds (13)
+VLE (116)
+Web-based resources (89)
+Xenith Project (11)
+Xerte 3.0 (15)
+Xerte Online Toolkits (61)
+Archives
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+#flsustain
+about us
+assessment
+copyright
+creative commons
+e-assessment
+e-learning community
+e-portfolios
+ELESIG
+feedback
+five minutes with
+futurelearn
+graphics
+images
+JISC
+learning technology
+mobile learning
+MOOC
+Moodle
+OER
+online learning
+Open Nottingham
+PARiS
+Second Life
+statistics
+sustainability
+tandlrecordings
+TouchStone
+Training
+Turnitin
+Twitter
+U-Now
+UKOER
+video
+VLE
+VLE review
+WebCT
+webinar
+Xerte
+XpertRecent Comments[...] Lecture Capture mini conference at Loughborough University, 17th December 2014: On Wednesday December 17th the... http://t.co/qXbLamWYOy  [...]
+said Learning Technology | Lecture Capture mini conf... on Lecture Capture mini conference at Loughborough University, 17th December 2014[...]   [...]
+said Learning Technology | What is a MOOC? | Moodle ... on What is a MOOC?[...] are extracts from an E-Elearning event called Magic with Moodle
+Posted in
+[...]
+said Talking of teaching » Making Moodle work for… on E-learning community – Magic with Moodle[...]   [...]
+said Learning Technology | New location for blog abo... on New location for blog about MOOCsEven more incredibly, the second episode in the current series of the Walking Dead jumped to 20.2 million viewers, making ... said A Beggan on The MOOCing DeadLinks
+About Learning Technology
+IT Status
+Nottingham on iTunes U
+Nottingham on YouTube
+Nottingham's Second Life island
+Rogo OSS e-assessment
+RSS FEED for this blog
+Teaching and Learning website
+U-Now: Open Educational Resources
+WebCT Homepage
+Xerte: Open Source e-Learning
+XPERT: Search for OER
+Learning Technology Home > Xenith Project, Xerte Online Toolkits
+Category: Xenith Project
+This category contains 11 posts
+Xerte Online Toolkits v2.0
+May 3rd, 2013 at 06:05
+Xerte Online Toolkits v2.0 The Xerte Project is delighted to announce the release of v2.0 of Xerte Online Toolkits. We know this has been highly anticipated by all of our users, in particular for the HTML5 delivery options developed in the Xenith project, and a range of new tools and templates. This is the culmination [...]cczjrt
+Xerte Online Toolkits v1.9 released
+December 20th, 2012 at 09:12
+We are pleased to announce the release of Xerte Online Toolkits v1.9, which can be downloaded from our new Xerte website. Many thanks to all the brilliant people who have contributed to this release, which brings you the first instalment of the HTML5 runtime, as well as the usual fixes and enhancements. Installation over a 1.8 [...]H Whitehead
+Xenith Project: Grand Finale
+October 18th, 2012 at 08:10
+Here’s all the films from The Xerte Project AGM: this event really was the ‘grand finale’ for the Xenith Project, an opportunity to present to the Xerte user community the new developments. Over 80 people attended the day from over 50 different institutions and organisations, with the HTML5 output eagerly anticipated. Wyn Morgan, Amber Thomas, [...]cczjrt
+Xenith Project: Outputs
+October 15th, 2012 at 02:10
+The Xenith Project completes this week. From our point of view, the project has been hugely successful, we’re well on the way to providing HTML5 output for Xerte Online Toolkits. The elements of the project we identified in our proposal have been delivered: we’d split the devleopment up into three main areas: analysis and research, [...]cczjrt
+Xenith Project: Project Plan
+October 15th, 2012 at 11:10
+Work Packages Project Management. The project to have dedicated project manager. Project Management to follow the University of Nottingham’s Connected Campus Project Management Framework. Accessibility. TechDIS to identify accessibility features and functionality to be included. Existing code exhibits high native accessibility, so many features already identified. The accessibility work package will focus on potential improvements [...]cczjrt
+Xenith Project: Use Case
+October 15th, 2012 at 10:10
+Xenith Project: Use Cases The project will add HTML5 delivery capability to Xerte Online Toolkits with significant benefits for its user community. Xerte Online Toolkits is well established, in use in hundreds of institutions around the world with an active and enthusiastic community of users and developers. Developers of rich, interactive learning materials are increasingly [...]cczjrt
+Phew! What we did last summer
+October 8th, 2012 at 04:10
+This time of year is always a busy one. New students, new modules, new systems, new services… it’s all new, upgraded and in full use. It barely gives anyone in the University time to think and digest what has happened. As such, perhaps if only in blog form, for the summer just gone, between Olympic [...]A Beggan
+Xerte Project Annual General Meeting
+September 7th, 2012 at 10:09
+The Xerte Project is holding its second annual general meeting at the University of Nottingham on October 10th and 11th. This community event is free to attend. The first day is aimed at those using the software in their institutions, or those supporting end users. You might have heard of the JISC funded Xenith Project: [...]cczjrt
+The Xenith Project: In a Nutshell
+May 4th, 2012 at 02:05
+The Xenith Project is developing an HTML5 delivery system for Xerte Online Toolkits. Content is increasingly being consumed on a wider range of devices with varying screen sizes and operating systems, and there is a need to reduce our dependence on the Flash Player in the delivery of learning materials. The Xenith Project is funded by [...]cczjrt
+Xenith Project Update: April 2012
+May 4th, 2012 at 11:05
+We’re a good way into the work on the Xenith Project now, and time for an update. The project is progressing really well, and we’ve achieved an awful lot in a  very short space of time, setting the project up nicely and answering a lot of the initial questions we had about approaching the HTML5 [...]cczjrt
+Older Posts
+Copyright
+Terms & Conditions
+Privacy
+Accessibility
+Freedom of Information

@@ -1,0 +1,271 @@
+Innovating Research!, University of Warwick
+Innovating Research!
+Warwick Blogs
+| Contact me
+| About the Officers
+Sign in
+November 11, 2010
+Final blog
+Writing about web page http://blogs.warwick.ac.uk/libresearch
+Dear all (or any) followers,
+You have probably noticed by now the significant lack of blogging taking place on this site. Thank you to anyone who has been diligent (and optimistic enough) to still drop by to check for content from time to time and apologies to you and those following our content (or lack of) via RSS. The Research and Innovation Unit of the University of Warwick Library who were responsible for this blog, closed last year however, I would like to reassure you all that Innovative Research and Development Activities are still underway at our Library. We can now be found as part of the Library’s Academic Services Development wing and if you’d like to contact any of the team, please contact donna.carroll@warwick.ac.uk or asofficers@warwick.ac.uk and we’d be happy to help.
+If you are interested in following previous bloggers from this site, Jenny Delasalle’s blog can be located at: http://blogs.warwick.ac.uk/libresearch
+Many thanks and goodbye.
+Dr. Donna Carroll, Academic Services Development Manager
+:
+11 Nov 2010 17:27
+|  Comments (0)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+May 08, 2009
+Copyright and coursepacks
+Writing about web page http://www2.warwick.ac.uk/services/library/main/research/riu/projects/2009reports/coursepack_v1/
+I’m busy learning all about copyright as I am currently exploring whether the library will take on the role of preparing and providing printed module course packs for academic departments.
+Many academic departments already provide their students with printed handouts or course packs of some type and the library could play a larger role in the production of these by offering copyright clearance and can act as a central facility for the distribution of such packs leading to less strain on academic departmental resources as well as reducing strain on the library in terms of the provision of multiple copies and photocopies being kept in the SLC.
+After an initial scoping of various academic departments, support for the library’s provision of such course packs have arisen from a need for:
+All material included in each course pack will be copyright cleared by the library.
+Students will not have to locate the material in the library themselves, therefore increasing student efficiency and reducing the strain on library materials and services.
+Successfully implemented at both UCL and LSE.
+Advantageous for distance learners.
+Students generally appear very keen, cuts the costs of buying recommended textbooks etc. Aids in the widening participation strategy, allowing material to be more easily available to all.
+Potentially more useful for 1st year students to get them started (an important caveat to note is that this may remove their exploration of the library services at an early stage).
+Advantageous for courses where text availability is poor.
+The main concerns and issues arising from our scoping have been:
+Copyright restricts the content of the course packs thus influencing their effectiveness.
+Experiences of other UK Universities has highlighted the difficulties in selling such course packs, with some Universities making a financial loss in doing so.
+Costs and finance have been flagged as a major concern for all interested parties along with distribution methods and the general logistics involved.
+Some departments prefer to give students more openness in what they read and also feel that this would be a method of “spoon-feeding” information to their learners.
+Numerous responses have queried why the library is only interested in producing paper-based course packs and not electronic. The shift to digital online resources such as document scanning, e-books and journal articles has reduced demand for hard copies and as such some of the more successful course pack provisions in other universities have declined in recent years although there is still some interest and demand. Students are expressing a rising preference for online resources although this then can place additional strain on IT systems. It should also be noted that print and digital packs will not always be transferable due to the licensing and restricted access of e-materials. This means that it may not be possible to host the packs online and use a “print-on-demand” system.
+For further information please go to:
+http://www2.warwick.ac.uk/services/library/main/research/riu/projects/2009reports/coursepack_v1/
+:
+08 May 2009 14:18
+|  Tags: Copyright Coursepacks
+|  Comments (0)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+April 24, 2009
+RIU webpages
+Writing about web page http://www2.warwick.ac.uk/services/library/main/research/riu/projects/
+I am currently updating the RIU webpage for “current work”, this should keep you updated with the main projects I am investigating, any input with ideas and opinions as always is appreciated.
+This page can be found at:
+http://www2.warwick.ac.uk/services/library/main/research/riu/projects/
+:
+24 Apr 2009 14:44
+|  Tags: RIU
+|  Comments (0)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+April 15, 2009
+Blogging… at last
+Writing about web page http://blogs.warwick.ac.uk/researchexchange/
+My first entry on the RIU blog to outline some of my current projects:
+1) An exploration of Reading List Management Systems.
+2) Organising the operational procedures for a library provided printed Course Pack pilot for September 2009.
+3) The setting up of an online researcher database as part of the research exchange online resources.
+4) The running of the Wolfson Research Exchange.
+Please check out http://blogs.warwick.ac.uk/researchexchange/ as a new and related blog.
+:
+15 Apr 2009 17:17
+|  Tags: Blogging Blogs Researchexchange Web2
+|  Comments (1)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+July 10, 2008
+Ontology for academic institutional structures
+Writing about web page http://vocab.org/aiiso/schema
+Academic Institution Internal Structure Ontology (AIISO) is an ontology that is fairly new. It has recently been produced as part of the development of a reading list management system that can integrate with virtual learning environments and library management systems.
+However, such an ontology should also be useful as a standard for developers of other semantic web applications in the HEI context. I am thinking, for instance, of Institutional Repositories.
+:
+10 Jul 2008 11:20
+|  Tags: Aiiso Instutional Structure Ontology Standard
+|  Comments (0)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+June 16, 2008
+IslandPines: the Evergreen Open Source Library Management System at UPEI Robertson Library
+Writing about web page http://islandpines.roblib.upei.ca/opac/en-US/skin/roblib/xml/index.xml?ol=UPEI
+The University of Prince Edward Island (UPEI) Robertson Library has adopted Evergreen as their Library Management System (LMS). It took a small team of enthusiastic developers one month to move from Unicorn, a commercial product by Sirsi, to Evergreen, an Open Source LMS.
+UPEI obviously have the capacity to benefit from Open Source, since they have been using DSpace for the library’s digital repository and they now in intend to use Fedora for a Repository and Virtual Research Environment. They are also hosting a Fedora summer school this August, the Red Island Repository Institute 1st Fedora Summer Institute.
+Other current Open Source LMS developments I am aware of are Koha, PMB, BiblioteQ, OpenBiblio, and there are a few more listed on the web. There are also archives management systems, which are Open Source, like Archon.
+Clearly there is quite a range of Open Source systems being installed at present in universities worldwide. Among other things, this wide-ranging experimentation is serving to develop the Open Source systems development and procurement model for universities.
+On the long term, however, one might expect progressive consolidation of the Open Source market around fewer applications within each fuctional niche. Will Evergreen gradually become the system of choice for large LMS instalations?
+(By the way, I would venture to suggest this is what is going to happen with Sakai for the large VLE/VRE niche. On the other hand, it will be interesting to see whether the repository niche will eventually consolidate around any of EPrints, D-Space, or Fedora.)
+Nevertheless, a trend recognised (Adamson 2008) in the LMS sector seems to point at the increasing decoupling of the different components of the LMS. This could facilitate Open Source penetration of the LMS market, but it would also make consolidation around any particular Open Source LMS a more distant prospect.
+Thus, it may well be that the market of Open Source large LMS will ultimately go through a natural process of consolidation, but such consolidation might then happen at module level. In such a context the leading Open Source system for say, the acquisitions module, may be a different one from the leading system for, say, the OPAC.
+In fact a number of Open Source LMS layer components are already being developed, which correspond to the tiered or layered LMS model, the top layer of which is similar to an instutional portal. VuFind seems to fit in this category.
+Although Fac-Back-OPAC was intended as a back-up, stand-alone OPAC system, it is nonetheless an interesting development. Quite enlightening is the story of its development based on a demonstration of how a programmer can write in not so many lines of code a lean programme to do the same a commercial product does.
+_________________________
+Adamson, V., et al. (2008). JISC & SCONUL Library Management Systems Study. Sero Consulting Ltd with Glenaffric Ltd and Ken Chad Consulting Ltd <http://www.jisc.ac.uk/media/documents/programmes/resourcediscovery/lmsstudy.pdf>
+:
+16 Jun 2008 15:12
+|  Tags: Evergreen Library Management System Lms Open Source Upei
+|  Comments (0)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+June 14, 2008
+The Citations Helper in Sakai towards an integrated Reading List management system
+Writing about web page http://confluence.sakaiproject.org/confluence/display/RES/Citations+Helper
+Citations Helper (CH) is a resources tool in Sakai. With CH you can create a list of references that are directly linked to their respective articles, and do this without leaving your Virtual Learning Environment (VLE), i.e. Sakai.
+CH removes much of the labour in the manual hyperlinking of reading list items that consist of persistent, deep links based on OpenURL syntax, or on Digital Object Identifiers. It also has the potential of providing one half of the functionality of a Reading-list Management System (RMS) when CH can be integrated with the Library Management System (LMS).
+Managing reading lists is a core process in any academic library. At the scale of a large university, this process is by no means an insignificant operation, and even a small improvement can bring considerable benefits.
+The Citations Helper in Sakai 2.5.0, coupled with the promising developments in Open Source LMS, gives hope of local implementations that will actually be able to do what no commercial RMS can completely do. My ideal (RMS) would satisfy the following specification:
+Spec 1.- Can the RMS be fully integrated into a VLE by means of an API or otherwise, so that any lecturer can build a reading list conveniently without leaving their same VLE site?
+The RMS would include a facility to look up library items and import their bibliographic data at the click of a button. With CH what it takes for a lecturer to add a reference is only two or three clicks, a search, and then one last click to add the reference to the list.
+CH allows lecturers to build lists of references and manage them within one same application. These lists can be associated to user groups without the need to upload them to the course site of each group.
+It is important that the tool is convenient, because the number of modules with its reading list being managed by the RMS will depend on the rate of RMS adoption by lecturers. Ease of use and proximity should contribute to widespread adoption and therefore coverage and usefulness of the RMS.
+Spec 2.- Can the RMS import bibliographic records from Abstract & Index databases, as well as from the LMS, besides providing a form for manual input in case bibliographic details can not be automatically captured?
+Citations Helper allows cross-search and import from up to eight subscribed databases at the same time, or search and import from Google Scholar, or from the LMS. Scopes can be set on a drop-down menu to narrow the choice to subsets of databases relevant to specific subject areas.
+Spec 3.- Can the RMS format the reading lists in different referencing styles?
+Ideally the RMS should be able to display references in a referencing style of choice. The preferred styles of each academic department should be available from a drop-down menu.
+I don’t think CH does this (yet) but it does allow you to toggle between displaying only a “Title View” of the styled reference you have added and displaying also the “Citation View” of the bibliographic fields. In addition, each reference is automatically hyperlinked to the local link-resolver.
+Spec 4.- Given a title record, can the RMS tell you in which reading lists that title is included?
+One of the commercial RMS can do this when properly integrated with the LMS of the same vendor, and I would expect such two-way integration is also feasible with Sakai if the LMS is Open Source, or if the vendor sees the benefit of cooperating to enable such integration. Obviously, this functionality is particularly useful for the book ordering by the library and in general for the management of its collections.
+Spec 5.- Can the RMS be set so that library staff are alerted every time a new reference is added to a reading list?
+This would allow library staff to order the books well in time, or to suggest feasible alternatives. Ideally the RMS would include a text field for unstructured comments, which library staff may use to annotate the results of their investigations of the different sourcing options for each article, and of course this field could also be annotated collaboratively by the lecturer, as in the wiki approach.
+Spec 6.- Can the RMS hide the references from view while the library makes sure stocks are at an appropriate level?
+The RMS should also allow single references to be hidden from view until they have been resourced to an appropriate level of stock. This would involve a two stage process with suggestion and validation before publishing the list to students on the VLE. On the admin interface of the above mentioned commercial product, a red asterisk appears next to a reference to indicate it has not yet been disclosed to students.
+Spec 7.- Can the RMS produce reports of what is on reading lists and match it against library stock according to copies/student ratios, in order to highlight what needs to be purchased?
+A prestigious UK HEI had the idea of developing an RMS associating their LMS with a CH-like facility that is integrated within their Moodle VLE. This implies the RMS must be able to feed back bibliographic data to the LMS, which can then generate reports highlighting any mismatch between reading list items on the VLE and their stock levels in the library holdings.
+:
+14 Jun 2008 12:16
+|  Tags: Library Management System Lms Open Source Reading List Management Rms Sakai VLE
+|  Comments (0)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+June 11, 2008
+Enterprise adoption of Open Source software
+Writing about web page http://www.cio.com/article/375916/Open_Source_is_Entering_the_Enterprise_Mainstream_Survey_Shows/
+Adoption of Open Source (OS) software in the private sector would now be roughly on a par with commercial software according to this survey among 328 IT and business executives and managers, though not necessarily as many corporations, which was conducted in late April 2008 by CIO.com.
+It would be interesting to have a comparative survey of the Higher Education (HE) sector. I suspect in HE the policy making, and indeed strategy formulation, about OS procurement might also be lagging behind actual implementation.
+“About a quarter of corporations (27 percent) have a formal policy in place regarding open-source applications, though 18 percent expect to adopt such a policy in the next 12 months.”
+Interestingly also, enterprise use of OS software seems to range widely in terms of the level of in-house customisation work that is applied to the software. Yet a significant proportion of use would be simple and straightforward instances of OS software being used as a finished product that you can plug and play.
+“While more than half of enterprises use open source today, the degree of intimacy with the philosophy varies quite a bit. Companies may often (43 percent) or sometimes (24 percent) treat such applications as, well, just free software; they run the application but don’t even look at the source code.”
+This suggests at least two things.
+Firstly, there is quite a lot of OS software around which is good enough, i.e. mature enough and with enough support, to be used out-of-the-box and without much ado. This is OS software that turns out to be virtually cost free in comparison with commercial licences that would also take staff time to implement, administrate, and work around to suit if at all possible.
+A few examples of OS or free software that come to my non-technical mind could fall in this category and seem appropriate for HE: LAMP (Linux, Apache, MySQL and PHP), OpenOffice, Sakai, Moodle, Firefox, Zotero, Liquid XML, etc.
+Secondly, managers responsible for procurement decisions need to have the technical knowledge to be able to identify OS solutions and evaluate them, estimating the different costs involved in each particular case. Costs will depend on maturity of software, staff time and range of technical skills that will be required for implementation, solidness of support community, outsourcing fees, and importantly the forthcoming features chartered on the roadmap of developments for that software.
+This second point directly impinges on one of the strategic challenges currently faced by University Libraries and especially by those not yet converged with their IT departments. How to shift the skills balance of their staff at all grades so as to keep up with the fast pace of an information environment that is increasingly technology driven?
+In this context one should think the role of procurement support agencies like the JISC OS Watch is becoming indispensable. Maintaining a current awareness of the OS market and providing expert advice, such role can cover the lag time in skills adjustment to new technological developments.
+:
+11 Jun 2008 12:52
+|  Tags: Open Procuremement Skills Source
+|  Comments (2)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+April 02, 2008
+Web annotation applications for research
+Writing about web page http://sharedcopy.com/
+Web annotation applications allow you to annotate a web page and share the annotations with other people. Diigo does this, of course, but it also does so many other things.
+I found SharedCopy is a quick and easy way to see what a simple annotation web application would do. It gives you a bookmarklet you can drag on to your browser, which will allow you to highlight text on the web page you are studying, stick comments and discussion threads on to it, and draw shapes on it. Then remember to save your annotations and you get a URL to their hosted copy of that web page with the overlay of your annotations, which you can then share with your collaborators or contributors. And all that for free and without even having to register for a SharedCopy account!
+Although it is hard to tell whether the Gibeo project is still running, the site is still up and can help you to understand the development of this kind of services. Of course there exist many other web annotation systems.
+Nevertheless I will continue exploring Diigo, since it seems quite useful for the researcher. It gives the impression of a sophisticated bookmarking service that could potentially become as community social as Facebook.
+Diigo just now might be useful for a collaborative project involving commentary about web pages. However, researchers may find it cannot (yet) replace other research tools like Zotero, or even CiteULike.
+:
+02 Apr 2008 16:46
+|  Tags: Annotation Application Diigo Research Researcher Sharedcopy System Web
+|  Comments (1)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+Metadata made child easy
+Writing about web page http://www.gogeo.ac.uk/cgi-bin/mdlearning.cgi
+This very nice Flash animation explains quite sweetly the concept of metadata for researchers. Congratulations to the producers, who really have thought laterally!
+:
+02 Apr 2008 14:40
+|  Tags: Animation Edina Flash Metadata Researcher Tutorial
+|  Comments (0)
+|  Close comments
+|  Report a problem
+Please wait - comments are loading
+Older entries
+→
+go to the RIU home
+←
+February 2017
+Mo
+Tu
+We
+Th
+Fr
+Sa
+Su
+Jan
+|  Today  |
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Search this blog
+Tags
+Personal (39)
+Wider-World (31)
+Reading Lists (26)
+Project Results (21)
+Web 2-0 (18)
+Google (7)
+Cilip (6)
+Second Life (6)
+Conference (5)
+Medical School (5)
+Most recent comments
+Are you guys still pursuing the VLE route? There has been some advance made by the open university o… by
+Alejandro Chiner Arias
+on this entry
+Well, yes, there are all sort of fascinating stories about the human factors in the fate VLE develop… by
+on this entry
+estimating the different costs involved in each particular case Is there anyone anywhere capable of… by
+Robert O'Toole
+on this entry
+Thanks for the link to Shared Copy. I've been looking for a site like that. The sites I've found bef… by
+Emma
+on this entry
+I read about these "knol"s recently, and I'm not too sure what they will do. As with all these techn… by
+Jenny Delasalle
+on this entry
+Blog archive
+Loading…
+Galleries
+Slideshow of all galleries
+Africa (19 images)
+Football (9 images)
+Hot air balloon flight (9 images)
+Stratford Upon Avon Boat Club (1 images)
+UK Copyright Swicki
+check out the UK copyright swicki at eurekster.com
+Not signed in
+Sign in
+Powered by BlogBuilder
+© MMXVII

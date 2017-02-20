@@ -1,0 +1,47 @@
+RELOAD Project
+home
+- old website
+- contact
+Introduction
+Welcome to the RELOAD web site. Things are changing. The web-site is undergoing an overhaul and a clean-up. If you wish to access the old web-site you can do so here. In the meantime we have provided the important links to the RELOAD tools
+below.
+Background
+What is RELOAD?
+RELOAD is a project funded under the JISC Exchange for Learning Programme (X4L).
+The project focuses on the development of tools that are based on
+emerging learning technology interoperability specifications. It is
+managed by the University of Bolton with staff located at the University of Bolton and the University of Strathclyde.
+The primary aims of this project are to:
+facilitate the creation, sharing and reuse of learning objects and services
+enhance the range of pedagogical approaches realisable through the use of lesson plans
+These aims will be achieved through the production of a suite of
+software tools for authoring and delivery of standard-compliant
+learning objects incorporating comprehensive user guides and exemplar
+resources. The tools will be of significant value to the JISC and wider
+community, since they provide the crucial "missing link" which allows
+users to author and transfer learning objects, in specification
+compliant format, between authoring and design tools, local and
+distributed digital repositories, and VLEs.
+Tools & Downloads
+The following are the tools created by the RELOAD project:
+The Classic RELOAD Editor
+This editor provides support for IMS Metadata, IEEE LOM, IMS Content Packaging 1.1.4, SCORM 1.2, and SCORM 2004. There are versions for Windows, Mac OS X and Linux. It is Java Swing-based.
+The Eclipse-based RELOAD Editor
+This later release of the Reload Editor is based on the Eclipse Rich Client
+Platform and supports IMS MD (versions 1.1, 1.2.1 and 1.2.4), IEEE LOM,
+IMS CP (versions 1.1.1, 1.1.2 and 1.1.4) as well as SCORM 1.2 and
+SCORM 2004 (3rd edition) specifications. There are versions for Windows, Mac OS X and Linux.
+Learning Design Editor
+This editor provides support for IMS Learning Design version 1.0. It is Eclipse-based and there are versions for Windows, Mac OS X and Linux. It is Java Swing-based.
+SCORM 1.2 Player
+The SCORM Player is a cross-platform desktop application that lets you "play" your SCORM 1.2 package.
+Learning Design Player
+The Learning Design Player is a cross-platform desktop application that lets you "play" your LD Unit of Learning.
+Quick Links
+Classic RELOAD Editor
+Eclipse-based RELOAD Editor
+Learning Design Editor
+SCORM 1.2 Player
+Learning Design Player
+News
+23 July 2008The RELOAD web-site is undergoing an overhaul. The old web-site can still be accessed here.

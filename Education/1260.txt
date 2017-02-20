@@ -1,0 +1,58 @@
+Steeple: Welcome to the JISC Steeple project
+Welcome to Steeple
+Steeple is a JISC funded UK Higher Education community
+project, led by Oxford University, the Open University, and Cambridge
+University. We are hoping that many other UK Higher Education
+Institutions will join in with the project.
+The vision for the Steeple project is to investigate,
+develop and document sustainable institutional infrastructure to support university wide educational podcasting. Steeple also hopes to instigate a viable community around scalable, enterprise-level solutions suitable for the UK-HE sector in the areas of automated video/audio
+capture, video/audio processing, and video/audio delivery ("podcasting").
+The vast majority of our work and outputs can be found in our community wiki, where knowledge and experience is constantly being updated.
+The projects main concerns are:
+Reducing costs for media processing and
+media management
+Making it easier to deliver media into channels important to the institution, such as iTunesU and the web portal
+Supporting and documenting adoption of best practice for sustainability of the architecture and to ensure longevity of institutional investments
+Steeple will look at:
+Scoping, requirements, use cases
+Policies, processes, workflows
+Requirements for public access to video/audio
+Private access to video/audio via LMS or VLE
+Encoding engines
+Service management
+Training and support
+Evaluation and dissemination
+The Steeple development work falls primarily into four areas
+Integration of the encoding engines and creation of encoding workflows
+Further development work to an online database to monitor and track processes
+Creation of a demonstrator web based delivery system for institutional podcasts
+Documenting of activities
+Latest Blogging
+Media Centre
+The full range of video and audio outputs can be found in our Media Resources section.
+A selection of these outputs can be found in our podcasting feeds:
+Video Podcasts: Subscribe iTunes
+Audio Podcasts: Subscribe iTunes
+On this site
+Home
+Project Report
+Frequently Asked Questions
+Resources
+Documents
+Audio and Video
+Presentations
+Software
+News and Events
+Team
+Off this site
+Community Wiki
+Project Blog
+Related Links
+University of Oxford
+University of Cambridge
+Open University
+JISC
+OpenCast
+Podcasting for Pedagogic Purposes
+©
+University of Oxford :: Email steeple@oucs.ox.ac.uk

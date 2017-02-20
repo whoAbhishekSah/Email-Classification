@@ -1,0 +1,17 @@
+eCert at the University of Southampton
+eCert
+Home
+Overview
+Publications
+Development
+Contacts
+Links
+Start date: 01/01/2010
+End date: 31/03/2011
+Funded by:
+University of Southampton > ECS > ECERT
+Developments in ePortfolios enable greater power and flexibility in displaying achievements.
+Current initiatives side-step the problem of inter-institutional certification rather than dealing with it.
+Although proprietary solutions are starting to appear, they tend to be organisation- rather than user- centric.
+This project seeks to address the issue of design for a suitable user-centric "eCertificate" system by working with representatives of the community to establish use case scenarios, to verify this design by building a demonstrator, and then by testing the demonstrator within the group. The demonstrator will be based on a code library which will be developed, and both will be placed in the public domain.
+Contact Us | Business Consultancy | © 2010 University of Southampton

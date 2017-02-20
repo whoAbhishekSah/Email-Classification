@@ -1,0 +1,40 @@
+Latest...Preserv 2 final report 'candid and realistic'The final report from the Preserv 2 project has been described by the JISC programme manager responsible for funding the project, Neil Grindley, as âcandid and realistic about the ... more
+Project Partners
+Project Advisors
+Funded By
+PRESERV 2 is funded by JISC within its capital programme in response to the September 06 call (Circular 04/06), Repositories and Preservation strand
+PRESERV was originally funded by JISC within the 4/04 programme
+Supporting Digital Preservation and Asset Management in Institutions, theme 3: Institutional repository infrastructure development
+MORE INFORMATION?
+EMAIL: Steve Hitchcock, Project
+Manager
+TEL: +44 (0)23 8059 3256
+FAX: +44 (0)23 8059 2865
+PRESERV Project,
+IAM (Intelligence, Agents, Multimedia) Group,
+Department of Electronics & Computer Science,
+University of Southampton,
+Highfield,
+Southampton
+SO17 1BJ, UK
+RSS Admin
+About the ProjectObjectives & OutcomesNews Papers & Presentations PeopleBlogs
+Inspiration and Provision for Preservation of Digital Repositories
+Repository managers are responsible for managing data within their repositories. One way of looking at digital preservation is as data management for the longer term.
+The JISC Preserv 2 project is investigating and developing digital preservation services for repositories, to help repository managers plan for longer-term data management.
+"It is important to build the concept of preservation from the outset"*. In the digital era, the 'outset' for most new research and educational materials will be the institutional repository.
+* JISC Circular 4/04, note 10
+Preservation: managing data for your repository
+Challenge yourself. Is your repository in shape for the future?
+The Repository
+Repositories are changing. Developing your repository architecture, how OAI-ORE helps, and how policy affects your choices.
+Storage
+Choose and control large-scale storage, local or networked (in the 'cloud').
+Preservation Services
+Tools, services and help to identify and plan your technical preservation requirements.
+The Big Picture
+Pulling it all together. Combining repository management, storage and preservation services: 'smart storage'.
+This page
+produced and
+maintained by the PRESERV Project. Contact
+us

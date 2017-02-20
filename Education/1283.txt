@@ -1,0 +1,50 @@
+VRE for the Study of Documents and Manuscripts | BVREH
+Building a Virtual Research Environment for the Humanities
+People
+News
+About
+Home
+Project Blogs
+Project Manager
+Technical Blog
+Recent Presentations
+Oxford VRE Projects
+JISC VRE Programme
+Oxford Centre for Requirements and Foundations
+University Homepage
+BVREH news
+Enter your e-mail address to receive our low volume newsletter
+E-mail:
+Subscribe Unsubscribe
+Recent blog posts
+Project Update - September 2007 (Ruth)Google does Sneakernet (john)DRHA 2006 (john)New website! - March 2006 (Ruth)BVREH at the Oxford Internet Institute - January/February 2006 update (Ruth)more
+External News Feeds:
+Oxford e-Research Centre news
+more
+Home
+»
+VRE For The Study Of Documents And Manuscripts
+A VRE for the Study of Documents and Manuscripts
+April 2007 - March 2009
+Update: The VRE-SDM project has recently been awarded an 'embedding extension' from the JISC designed to embed the VRE pilot within local and national initiatives. The Project Plan for the five month project (June - October 2009) can be found here
+The original 'VRE for the Study of documents and Manuscripts' Project plan is here
+The VRE-SDM ProjectThe VRE for the Study of Documents and Manuscripts was a JISC funded pilot project designed to address the user needs of documentary, textual and manuscript scholars. Focusing in the first instance on the requirements of ancient documentary specialists working in the fields of Epigraphy and Papyrology, the pilot extended the capabilities of the Virtual Workspace for the Study of Ancient Documents and adapted Open Source tools to enable sophisticated annotation and document viewing making use of existing VRE tools to facilitate communication and collaboration between scholars. As such the project provided an exemplar for the construction of Virtual Research Environments across the broader humanities research community.
+The project aimed to create a pilot VRE through which one might:
+View, manipulate and enhance digitized images of documents and manuscripts within a portal framework
+Search across multiple, distributed data sets, images and texts
+Select, store and organise items from the above, in a ‘personal workspace’
+Add annotations to these items to store personal thoughts and responses
+Support collaboration by allowing multiple researchers in separate locations to share a common view of the workspace, in conjunction with real time communication via Chat, VoIP and desktop integration with Access Grid
+Allow a collaborator to comment, point/highlight, discuss and annotate the items in the shared workspace
+Gain comprehensive user requirements and expand the use of the VRE for documentary and manuscript scholars in other fields of humanities research
+Although the pilot focused initially on ancient documents, it has been constructed so as to be usable by textual specialists working in other languages, periods and cultures. The context has also been extended through the potential use of the XDB-Arch system by treating documents not as disembodied texts but as artefacts which can and should be related to their original physical context. This enlarged perspective opens up the possibility of collaboration between documentary scholars and archaeologists in their respective implementations of VRE technologies. Such collaboration is not only of benefit to both communities, but also provides a model for the integration of separate VRE implementations across related disciplines.
+Project Conclusions
+Working with extensive user requirements generated from interviews, filming and discussions, the pilot VRE adapted Open Source tools to enable annotation and sophisticated document viewing, making use of existing VRE tools to facilitate communication and collaboration between scholars. The project reused and re-purposed tools and software wherever possible, choosing to concentrate on the development of user requirements rather than writing proprietary software that would be specific to the system. An instance of the uPortal framework was established which offers interoperability with other Virtual Research and Virtual Learning Environments and allowed the reuse of JSR-168 portlets from other projects whilst making VRE-SDM components easier for others to reuse (JSR-168 portlet containers have been used by a number of other VRE pilot projects). The uPortal open source software, developed by a consortium of Universities additionally allowed the provision of a framework which can be customized directly by users who will be able to compile their own interfaces using portlets which offer the tools and services relevant to their own research. *It should be noted that there are now newer standards for integrating components within a web environment, the most significant open effort being Google's gadget/OpenSocial initiative and the VRE-SDM project is now investigating extending the VRE environment to also support components built to these as well as JSR standards.*
+This means that in the longer term the pilot VRE-SDM has demonstrated that it will be able to provide tools to researchers across the humanities. Some, such as the viewing and annotation tools, are relevant to the broadest range of scholars, while other more specialist tools can be added by the individual users or groups as and when needed. For the ancient documentary specialists the VRE is an environment which emulates the decipherment process, with the extra benefits that scholars can conduct real time meetings and annotate digitized, degraded texts. Additionally, the VRE offers an area within which other more specific tools may be deployed, such as those from the eSAD project (to aid the decipherment of degraded documentary texts through character recognition and decision support software) along with the functionality to search across specific datasets such as the Lexicon of Greek Personal Names (LGPN), the "Vindolanda Tablets Online texts and more besides. This approach of adding elements relevant to the individual scholar or specialism creates a customized workbench re-workable and reusable across the humanities.
+Implications
+There are many implications of the VRE-SDM work, both in ongoing and future collaborations as well as the impact the pilot project had on the scholars working with documents and manuscripts; in particular those working with ancient documents. The potential for broadening the pilot tools to researchers in other disciplines and widening the range of tools available is clear, we already know that researchers within the English faculty at Oxford would have use for such a system and there are many disciplines across the humanities who work with similar artefacts requiring much of the same functionality. The potential of the VRE not only allows researchers to work with documents in a way otherwise impossible; allowing the integration of viewing, annotation, image processing and real time collaboration, but also holds the possibility of speeding up the publishing process for scholars. Whereas in the past a text may be deciphered by an individual over a period of time and published only when they have had the time to write up the entire process, the collaborative aspects of the VRE allow not only for a reading to be discussed and deliberated by as many colleagues as one might wish, but using the ‘private’ and ‘public’ areas of the system also enables the reading of the text to be published immediately with the individual credited for their work prior to print publication. This dramatically increases the speed at which fellow scholars might discuss or comment on the work, leading to a greater understanding of how the text fits into our knowledge and understanding of history.
+As the VRE-SDM is a pilot implementation it is not yet the finished article available and ready for use instantly by scholars in other disciplines. However, a vast quantity of requirements have been generated by the project, both for specific functionality for historians concerned with the ancient world and for more generic use for scholars in English, Music, History and many more besides. Expanding the scope of the pilot and investigating its further potential will be essential in encouraging users to work within the VRE, knowing that they can store their research safely and with longevity with the added guarantee of continued improvement of function. Extra features have already been envisaged by our original user group, including the provision of a system for palaeographical databases of letter forms on which the project hopes to commence work shortly. Equally the pilot would benefit from some expert work on the user interface to provide a more ‘user friendly’ experience to scholars. The project hopes to address this issue and implement further features to establish the VRE for further use in other disciplines shortly.
+Draft Final Report
+Size: 1.25 MB
+Oxford 'BluePrint' Article - June 2007
+Updated 03/06/2009

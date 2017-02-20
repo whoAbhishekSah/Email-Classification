@@ -1,0 +1,58 @@
+PIMMS
+Search:
+LoginPreferencesHelp/GuideAbout Trac
+WikiTimelineRoadmapBrowse SourceView TicketsSearchBlog
+wiki:WikiStart
+Context Navigation
+Start PageIndexHistory
+Last modified 3 years ago
+Welcome to the PIMMS project
+Welcome to the PIMMS project
+PIMMS Online Toolkit
+PIMMS Wiki
+Project Summary
+PIMMS Communication: Blog, Hangouts, Mailing List & Trac
+How to use PIMMS trac and subversion repositories
+Wiki Index
+PIMMS Online Toolkit
+The PIMMS toolkit web pages can be found  here
+PIMMS Wiki
+Welcome to the PIMMS wiki and issue tracking site.
+This site provides a place for the PIMMS team to collaboratively develop technology and discuss/resolve issues pertaining to that technology.
+The content is expected to change regularly, reflecting the current status of PIMMS.
+PIMMS is an eighteen month JISC funded activity to:
+Refactor the Metafor metadata management tool for use in university departments
+Create a new tool for defining experiments
+Engage with university community on usage (and CIM content), particularly vis-a-vis Paleo simulations.
+Connect data holdings at Bristol University and Reading University to Metafor metadata.
+Promulgate the Metafor approach elsewhere in UK
+PIMMS will deploy a system for documenting the provenance of computer simulations of real world earth system processes into two university departments: at the University of Bristol and the University of Reading. This system will be a key part of the data management ecosystem for simulation data – without “PIMMS class” information simulation data can become effectively useless very soon after it is created. By extending and repackaging a prototype infrastructure developed by  METAFOR, and originally deployed to support CMIP5, PIMMS will be able to achieve significant leverage on previous R&D funding to provide a relatively mature system targeted at the university community. Beyond the PIMMS project itself, the eventual goal of the work outlined here will be to see the PIMMS system implemented across multiple institutions and extended to support other scientific domains. With PIMMS in place, community based federated data infrastructures
+which support simulation data reuse,
+yet are based on institutional data holdings, can become a reality.
+Project Summary
+PIMMS (Portable Infrastructure for the Metafor Metadata System) provides institutions with tools to capture information about the workflow of running simulations from the design of experiments to the implementation of experiments via simulations running models. PIMMS uses the Metafor
+methodology for simulation documentation which consists of a common information model (CIM), a set of controlled vocabularies (CV) and software tools.
+PIMMS software tools provide for the creation and consumption of CIM content via a web infrastructure and portal.
+PIMMS will refactor the “CMIP5 questionnaire” metadata management tool, that is collecting climate model metadata for the CMIP5 model inter-comparison project, so that it can be more easily portable into stand alone installations within the university environment and customised to address the specific requirements of individual research groups. Initial model descriptions may take time to complete but once they have been created the PIMMS infrastructure can be used to document subsequent variations by describing only those elements that are changed.
+An established PIMMS infrastructure will fit seamlessly into the research metadata workflow and significantly reduce subsequent documentation effort.
+The key to the customisation of PIMMS is in the modularity of its tools and the clear separation of structure (CIM) from content (CV).
+The PIMMS project will extend the CMIP5 controlled vocabulary to encompass descriptions of paleoclimate models and will also demonstrate how the CIM can be used to document an Integrated Assessment Model (IAM) . This proof of concept
+prototype will create a new controlled vocabulary in collaboration with Ermitage
+and use it to reconfigure PIMMS to collect metadata in a different discipline.
+PIMMS will further explore how the CV that is used to configure PIMMS may be of further use to our stake holders and the wider JISC community through the development of the University of Cambridge chemicaltagger tool.
+PIMMS will provide a local portal so that research groups can view and search their own content, as well as publish their metadata content to institutional, national and international services. In addition PIMMS will also include data node software so that data documented with PIMMS can also be published to the web, both locally, and to national and international services.
+PIMMS Communication: Blog, Hangouts, Mailing List & Trac
+Pimms Blog The blog provides regular updates about how PIMMS is getting on
+Hangout Wiki Page The PIMMS team meet on google hangout every Tuesday at 3:30pm
+pimms@… The PIMMS mailing list is used to communicate with the whole project team and interested parties from other projects
+Tasks on the PIMMS project are managed through the trac tickets on this website
+The PIMMS kick off meeting was held at the 9th of November 2011 at the University of Reading Department of Meteorology, notes on the meeting can be found on the  kick off wiki page
+How to use PIMMS trac and subversion repositories
+The Rules
+Wiki Index
+Metadata manager environment setup
+Download in other formats:
+Plain Text
+Powered by Trac 0.12.2
+By Edgewall Software.
+Visit the Trac open source project athttp://trac.edgewall.org/

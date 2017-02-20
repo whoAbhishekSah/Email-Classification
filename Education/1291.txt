@@ -1,0 +1,143 @@
+Bristol University | Computer Science | SubSift
+Skip to main content
+Home
+Study at Bristol
+Undergraduate study
+Find a course
+Why choose Bristol?
+Accommodation
+Fees and funding
+Open days
+New undergraduates
+Postgraduate study
+Find a programme
+How to apply
+Accommodation
+Fees and funding
+Why choose Bristol?
+New postgraduates
+International students
+Undergraduate applicants
+Explore the University
+Schools & faculties
+Research
+Business & enterprise
+News
+People & contacts
+University of Bristol
+Computer Science
+Current students
+Staff
+Alumni
+SubSift
+About
+Demos
+Documentation
+API
+Download
+Blog
+Contact
+Related links
+JSONMatch
+University home > Faculty of Engineering > Departments > Computer Science >
+SubSift
+SubSift
+SubSift, short for submission sifting, matches submitted conference or journal papers to potential peer reviewers based on similarity to published works.
+Conference organisers and journal editors can use the interactive SubSift demonstrations on this site to help support their academic peer review process.
+SubSift for Developers
+Developers can incorporate SubSift's functionality into their own applications using the web services hosted on this site as a research community resource. SubSift web services can be used individually or composed into workflows, such as the original submission sifting workflow depicted is the schematic below.
+The SubSift software is open source and freely available. If our publicly hosted SubSift web services are not appropriate for your particular application then the software is available as a download on Google Code.
+Introducing SubSiftPeter Flach at KDD 2009
+How SubSift worksSimon Price at WAPA 2010
+Conferences using SubSift
+ECML-PKDD: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases.
+KDD: ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+PAKDD: Pacific-Asia Conference on Knowledge Discovery and Data Mining.
+SDM: SIAM International Conference on Data Mining.
+Journals using SubSift
+Machine Learning, since January 2010.
+Data Mining and Knowledge Discovery, since January 2013.
+Citing SubSift
+When referring to SubSift in a general context, please cite:
+Price, S, Flach, PA, Spiegler, SR, Bailey, CP, Rogers, N., SubSift web services and workflows for profiling and comparing scientists and their published works. Future Generation Computing Systems, 29(2), ISSN 0167-739X, (pp. 569-581) 2013.
+BibTeX and other formats available here.
+Publications
+Price, S, Higher-order Frameworks for Profiling and Matching Heterogeneous Data. PhD thesis. University of Bristol. June 2014.
+Definitive publication:  Price, S, Flach, PA, Spiegler, SR, Bailey, CP, Rogers, N., SubSift web services and workflows for profiling and comparing scientists and their published works. Future Generation Computing Systems, 29(2), ISSN 0167-739X, (pp. 569-581) 2013.
+Price, S, Flach, PA, Mining and Mapping the Research Landscape. Digital Research 2013. September 2013
+Price, S, Flach, PA, Spiegler, SR, Bailey, CP, Rogers, N., SubSift web services and workflows for profiling and comparing scientists and their published works, 6th IEEE International Conference on e-Science (e-Science 2010), Brisbane, Australia, (pp. 182-189), 2010.
+Price, S, Flach, PA, Spiegler, S., SubSift: a novel application of the vector space model to support the academic peer review process, Workshop on Applications of Pattern Analysis (WAPA 2010), JMLR Workshop and Conference Proceedings, 11, (pp. 20-27), 2010.
+Flach, PA, Spiegler, SR, Golenia, BSG, Price, S, Guiver, J, Herbrich, R, Graepel, T, Zaki, MJ., Novel Tools To Streamline the Conference Review Process: Experiences from SIGKDD'09. SIGKDD Explorations, 11, (pp. 63-67), 2009.
+University of Bristol,
+Senate House,
+Tyndall Avenue,
+Bristol, BS8 1TH, UK
+Tel: +44 (0)117 928 9000
+Information for
+Current students
+Staff
+Connect with us
+Twitter
+Facebook
+YouTube
+LinkedIn
+Flickr
+More social media
+Study at Bristol
+Undergraduate study
+Postgraduate study
+International students
+Accommodation
+Students' Union
+Sport, exercise and health
+Research
+Find a researcher
+Faculty research
+Impact of our research
+Research quality and assessment
+Engaging with the public
+Explore the University
+Maps and travel
+Tours and visits
+The University on film
+Explore the city of Bristol
+Global research
+Support the University
+Alumni and friends
+Donate
+Jobs
+Working at Bristol
+Job listings
+A–Z of the University
+#
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+See all
+Help
+Terms and conditions
+Privacy and cookie policy
+© 2002-2015 University of Bristol

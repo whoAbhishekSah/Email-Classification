@@ -1,0 +1,37 @@
+sapir
+About
+sapir
+The University of Newcastle
+has already established a Shibboleth
+origin as part of the Core-middleware
+IAMSECT project,
+and this work will be built upon in order to
+widen the use of Shibboleth within
+the institution.
+The University
+Library has developed a large
+portfolio of electronic resources
+with all the complexities of
+authentication and authorisation
+that this involves. The Athens access
+management system has helped to simplify access issues
+to an extent, but the fact that Shibboleth is an international
+standard inevitably means it is in the interests of institutions
+to investigate the practicalities
+of implementing this new method of access with commonly-used
+resources while at the same time clearly documenting
+the issues that may arise, and helping the community
+with future developments. In addition to this, the work
+will look at other commonly used resources and resource
+management tools.
+About sapir
+Aims & Objectives
+Project outputs
+Dissemination
+Existing documentation
+Contact
+sapir
+project
+©2005 Newcastle University Library
+Telephone: (0191) 222 766
+[ contact the sapir team ]

@@ -1,0 +1,56 @@
+UK Data Archive - SKOS-HASSET
+UK Data Archive
+HELPCONTACT USSIGN UP
+The UK's largest collection of digital research data in the social sciences and humanities
+HOMEABOUT USCREATE & MANAGE DATADEPOSIT DATAHOW WE CURATE DATAFIND DATANEWS & EVENTS
+FIND DATAOUR CATALOGUEONLINE DATA BROWSINGOUR HASSET THESAURUSReShareINTERNATIONAL DATA ARCHIVESOUR PROJECTSSKOS-HASSET
+FIND DATA OUR PROJECTSSKOS-HASSET / OVERVIEWOVERVIEWPROJECT OUTPUTSKEEP IN TOUCHThis project, funded under the JISC Research Tools Programme, will apply the Simple Knowledge Organization System (SKOS) to the Humanities and Social Science Electronic Thesaurus (HASSET), and test its automatic indexing properties.
+The objective of this project is to apply Resource
+Description Framework (RDF) to HASSET, the UK Data Archive's
+leading and well-respected English language social science
+thesaurus.
+Its aims are threefold: firstly, it will apply SKOS to HASSET,
+thus creating SKOS-HASSET; secondly, it will test SKOS-HASSET's
+automatic indexing capabilities in relation to survey data
+resources; thirdly, it will improve the Archive's thesaurus online
+presence, by enhancing the existing management interface, the
+user-facing pages and all the Archive's underlying thesaurus
+database tables and structure.
+It will provide not only a SKOS-enabled product for use within
+the social science information and research communities, but also
+advice and recommendations on how the terms within this product can
+be applied automatically to text.
+Once created, SKOS-HASSET will be taken as the terminology
+source for an automatic indexing parser and applied to question
+text, abstracts and publications from the Archive's collection. The
+results will be compared to the gold standard of humanly-undertaken
+indexing, and shared.
+Licensing issues for the product will be addressed to ensure the
+widest possible accessibility. A user forum will be set up to
+encourage pooling of knowledge around this high quality and robust
+tool. User engagement will be paramount, with the wider user
+community being contacted from early on in the life of the
+project.
+The timing of this project is ideal as it follows on directly
+from the Archive's review of its thesauri and will help to take
+forward their development.
+Dates: 1 June 2012 - 31 January 2013
+Please enable JavaScript
+The UK Data Archive website is intended to be viewed with JavaScript enabled, although every effort has been made to ensure our content is accessible regardless of your JavaScript settings.
+SEARCH OUR SITE
+DEPOSIT YOUR DATAFIND DATALEARN ABOUT US
+DATA LIFECYCLE
+CREATING DATA: designing, planning consent, collection and management, capturing and creating metadata
+PROCESSING DATA:
+entering, transcribing, checking & validating, anonymising and describing
+ANALYSING DATA: interpreting, deriving, producing outputs & publishing, preparing for sharing
+PRESERVING DATA: migrating, backing-up, storing, creating metadata and documentation, archiving
+ACCESS TO DATA: distributing, sharing, controlling access, promoting
+RE-USING DATA: for follow-ups, new research, research reviews, scrutinising, teaching & learning
+Most of our data are free to use. You need to register to access data
+ACCESS DATA
+VIEW OUR CASE STUDIES OF USE
+FIND DATA FAQ
+JOIN OUR MAILING LIST
+TERMS AND CONDITIONSCOOKIESACCESSIBILITYSITE MAP
+© Copyright 2002-2017 University of Essex. All rights reserved.

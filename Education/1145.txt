@@ -1,0 +1,60 @@
+mSpace.fm
+mSpace
+Projects
+Research & Papers
+Who & How
+Explorer
+Mobile
+Archives
+Indienet
+News Film Online
+Richtags
+Continuum
+doingPad
+Musicspace
+You are currently browsing an online newsfilm archive
+Rich Tags
+Supporting Better Exploration of Digital Repositories with Semantic Social Tagging
+A JISC Digital Repositories Programme Funded Project (Feb 07 - Jan 08)
+Overview
+Vision
+Category search within digital repositories is poorly supported. This means that people wishing to access the assets of digital repositories are largely limited to keyword search, which means they must know what they want in order to look for it. Our participant studies of digital repositories use have shown that, when restricted to keyword search, it is perceived as often easier to use a search engine like Google rather than keyword search on a local repository, even if this is to find a local artefact. An advantage that local repositories currently have over massive search services, however, which is not being leveraged, is local or community-based knowledge. This knowledge of context, such as who works with whom; how one project "Over Here" relates to another project "Over There." In this proposal we plan to investigate how cross-repository browsing/exploration can be assisted via social, semantic tagging mechanisms, and to deliver a test framework and web services both to investigate the use of and to deploy services for such meaningful mechanisms.
+Deliverables
+The Tools and Innovation Thread is interested in both software tools as well as the exploration of new approaches, models and evaluative reports to improve the efficacy of repository functions.1 With this project, we propose to deliver:
+1. Web services to support the creation of and access to semantic tags associated with IR artefacts for the purpose of cross-repository exploration.
+2. A test framework to support the publishing and discovery of cross-repository tags.
+3. Exploration of automatic association of such tags with repository artefacts.
+4. Evaluations of social semantic tagging in use.
+5. Exploration of role of Trust in take-up and use of social tagging for EPrints exploration.
+6. Recommendations both in terms of architecture and usability, stemming from evaluation for the larger scale deployment or adaptation of social semantic tagging.
+Methodology
+Our technology approach, for a technique we are developing called semantic tagging is described below, and supports the capture, association and sharing of semantically enriched repository artefact categorisation. Our design approach is to use user-centred design and iterative evaluation to assess and refine services supporting Semantic Tagging.
+Overview
+Semantic Tagging
+Use Cases
+Benefit
+Operationalising
+Deliverables
+mSpace
+What Is mSpace?
+mSpace News
+Awards
+Dev Blog
+Nightly Builds
+Projects
+Explorer
+Mobile
+Archives
+Indienet
+News Film Online
+Richtags
+Continuum
+doingPad
+Musicspace
+Research & Papers
+Reaserch Issues
+Related Research Papers
+Who & How
+Contact
+Team
+Sponsors

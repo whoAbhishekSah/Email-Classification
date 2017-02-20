@@ -1,0 +1,13 @@
+User Needs and Potential Users of Public Repositories: An Integrated Analysis
+User Needs and Potential Users of Public Repositories: An Integrated Analysis
+A JISC-funded project, part of the 2005 Digital Repositories Programme.
+This was a joint initiative between the University of Wolverhampton (Dr Alesia Zuccala; Prof Mike Thelwall) and the University of Loughborough (Rajveen Dhiensa; Prof Charles Oppenheim).
+Project manager: Alesia Zuccala a.zuccala @ wlv.ac.uk
+Final report
+Description: This project
+focused on evaluating five different types of public repositories in the UK – i.e., repositories that are intended for use by people outside a hosting institution. Individual mission concerns for the selected elite repositories were be assessed through an analysis of their user needs, including a comparative evaluation of each type to determine how individual findings can be used to inform the practice of the others.  Our approach was to carry out this evaluation using a complementary set of qualitative and quantitative research techniques. The qualitative approach was to interview stakeholders and users associated with each repository, and the quantitative approach
+involved using a newly developed “Web intelligence” technique, designed to collect and analyse Web link statistics.
+We
+contributed to the Digital Repositories Programme specifically by delivering a report for each type of public repository and providing a Web intelligence service to the repository stakeholders, which
+demonstrates how inlinks to and co-links with their Website can be used to monitor and/or assess their current Web network positioning.  Insight of this nature should help them to better understand and address community needs, and work towards building stronger links (i.e., Web links and real-world links) between themselves and other relevant organisations or activities, at both a national and international level.
+Official JISC project page

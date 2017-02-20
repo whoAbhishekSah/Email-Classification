@@ -1,0 +1,66 @@
+Rapid Portals for Seismological Waveform Data | Edinburgh Data-Intensive Research
+Skip to main content
+Search form
+Search
+Edinburgh Data-Intensive Research
+Main menuProjects
+Open Questions
+People
+Publications
+Partners
+Presentations
+Seminars
+Student Projects
+Contact
+Account
+Latest news
+Publication
+C2MS: Dynamic Monitoring and Management of Cloud Infrastructures
+1 year 7 months ago
+Presentation
+Ad hoc Cloud Computing
+1 year 7 months ago
+Publication
+Evolutionary Computation and Constraint Satisfaction
+1 year 8 months ago
+Publication
+Ad hoc Cloud Computing
+1 year 10 months ago
+Software release
+DICOM Confidential 1.4.4 released
+2 years 2 weeks ago
+Story
+Congratulations to Gary McGilvary on his PhD
+2 years 5 months ago
+Publication
+Ad hoc Cloud Computing (PhD Thesis)
+2 years 5 months ago
+Publication
+Quantification of Ultra-Widefield Retinal Images
+2 years 6 months ago
+Publication
+Precise montaging and metric quantification of retinal surface area from ultra-widefield fundus photography and fluorescein angiography
+2 years 6 months ago
+Software release
+New DICOM Confidential Release
+2 years 7 months ago
+Pages1
+2
+3
+4
+5
+6
+7
+8
+9
+…
+next ›
+last »
+more
+You are hereHome
+Rapid Portals for Seismological Waveform Data
+8 June 2009 - 2:46pm — Jano.van.Hemert
+The main aim of this project is to remove the barrier of uptake to the seismology community of an application that allows analyses of seismic waveform data. This will be achieved by embedding this analysis application in a community gateway, which already exists in the form of a web portal.
+The important barriers to uptake are the installation and understanding of the analysis package, the difficulty in transporting large amounts of data as input to an analysis, and direct visualisation of the results.
+With Rapid we will quickly produce a solution that overcomes these barriers. We will use it to generate intuitive interfaces to the analysis application in the form of self-contained web portlets. These portlets will be directly embedded in the community gateway and link to the data available in the Orfeus Data Center; the primary European centre for this kind of data. All the data and computing will be orchestrated via our technology, and the results, e.g. graphs of waveforms, will be presented to seismologists via an existing web portal.
+Acronym: RapidSeisValue: £38,854Dates: 1 June 2009 to 30 November 2009Project members: Jano.van.HemertJos.KoetsierPartners: Observatories and Research Facilities for EUropean SeismologyDepartment of Earth and Ocean Sciences, University of LiverpoolProjects: RapidProject Status: Finished

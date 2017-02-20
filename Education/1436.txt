@@ -1,0 +1,107 @@
+CRIG - DigiRepWiki
+CRIG
+From DigiRepWiki
+[ CRIG Home |
+CRIG Telcon 29/3/07 |
+CRIG Scenarios |
+CrigCasts (Podcasts) |
+Unconference (Bloomsbury, Dec 6/7) |
+ReST Workshop (Bloomsbury, Feb 8) |
+RepoChallenge (Southampton, April 2-4) |
+DRY Barcamp (Bath, Friday June 6) |
+Roadshow (July 08) |
+RepoCamp (LoC 25 July 08
+]
+The Common Repository Interface Group
+Contents
+1 JISC Common Repository Interfaces Group (CRIG)
+2 Workplan
+3 Membership
+4 Events (Chronological Order)
+5 Channels of Communication
+[edit]JISC Common Repository Interfaces Group (CRIG)
+JISC set up the Common Repository Interfaces Group (CRIG) to help identify problem spaces in the repository landscape and suggest innovative solutions.
+The CRIG consists of a core group of technical, policy and development staff with repository interface expertise.
+It encourages anyone to join who is dedicated and passionate about surfacing scholarly content on the web.
+Please see below for joining details.
+[edit]Workplan
+For an interactive version of the diagram below (i.e. the image as a 'table of contents' that links to important pages throughout this wiki) please see: http://www.flickr.com/photos/wocrig/2469877865/
+The original CRIG workplan is here [1].
+The CRIG workplan is being supported by a the WoCRIG (Wisdom of CRIG) support team, commissioned via this invitation to tender [2].
+[edit] Membership
+Les Carr, University of Southampton (co-chair)
+Jim Downing, Cambridge University (co-chair)
+Julie Allinson, Digital Library Manager, University of York (SAFIR and SWORD projects)
+Chris Awre, University of Hull
+Richard Green, University of Hull (RepoMMan project)
+David F. Flanders, The Bloomsbury Colleges consortium (WoCRIG project)
+Paul Walk, UKOLN, University of Bath
+Wilbert Kraan, JISC CETIS
+Richard Jones, HP Labs
+Martin Morrey, Intrallect Ltd.
+Andy Powell, Eduserv Foundation
+Peter Millington, SHERPA, OpenDOAR
+Rachel Heery, Repositories Research Team, UKOLN, University of Bath
+Rachel Bruce, JISC
+Neil Jacobs, JISC
+Phil Barker, JISC CETIS/ ICBL, Heriot-Watt University
+R. John Robertson, Repositories Research Team, JISC CETIS, University of Strathclyde (eFramework rep)
+Peter Burnhill, EDINA
+Lorna Campbell, JISC CETIS, University of Strathclyde
+Cormac Connolly, Economic and Social Research Council
+Howard Noble, University of Oxford (ASK project)
+Chris Gutteridge, University of Southampton (University of Southampton, EPrints)
+Simon Coles, University of Southampton (R4L project)
+Ross MacIntyre, MIMAS
+Philip Hunter, University of Edinburgh (IRIScotland project)
+Phil Cross, University of Bristol (Intute Repository Search project)
+Rob Sanderson, University of Liverpool
+Brian Matthews, CCLRC
+[edit] Events (Chronological Order)
+Many members of the CRIG met informally at the Content Packaging/Objects event held 1st February 2007.
+The first CRIG meeting on scenario development was held via teleconference on 29th March 2007.
+A series of CRIG "chats" were held via teleconference on Nov 8th, 2007 and podcast to the JISC community
+An Unconference [3] event took place on December 6th and 7th at Birkbeck College in Bloomsbury London.
+A Barcamp on 'ReST in Repositories' took place at the George Birkbeck Bar in Bloomsbury London on February 8th, 2008.
+The first Repository Challenge took place at the Open Repositories conference (OR08) in Southampton April 2nd through the 4th, 2008.
+A Barcamp on DRY Metadata took place at the University of Bath on 6th June 2008.
+The CRIG USA Roadshow took place in July 2008.
+The finale of the CRIG Roadshow was the first ever RepoCamp at the Library of Congress on Friday 25th July 2008 in Washington DC
+CRIG BarCamp on ORE coming soon.
+[edit] Channels of Communication
+Please tag any posts with crig or jisc-crig
+To join the JISCmail listserv (where event announcements are delivered) please email d.flanders [a+] bloomsbury.ac.uk
+CRIG Blog Planet Feed (RSS): http://feeds.feedburner.com/jisc-crig
+CRIG on Flickr: http://www.flickr.com/photos/wocrig/
+CRIG on Facebook http://www.facebook.com/group.php?gid=9227306310
+CRIG on Twitter tag with: #crig http://twemes.com/crig
+Retrieved from "/repositories/digirep/index/CRIG"
+Categories: CRIG
+Views
+ArticleDiscussionEditHistory
+Personal tools
+138.38.146.4Talk for this IPCreate an account or log in
+Navigation
+Repositories Research
+About
+News
+Events
+Info and activities
+Projects
+Clusters
+Scenarios/use cases/UML
+Workflows
+Deposit API/SWORD
+Application Profiles
+CRIG
+FAQs
+Links
+Recent changes
+Sandbox
+Help
+Search
+Toolbox
+What links here
+Related changes
+Upload file Special pages Printable version
+This page was last modified 13:58, 7 October 2008. This page has been accessed 86,094 times. Content is available under Attribution-ShareAlike 2.5. About DigiRepWiki Disclaimers

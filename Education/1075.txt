@@ -1,0 +1,42 @@
+R2Q2: Rendering and Response processing services for QTIv2 questions
+Home
+Overview
+Presentations
+Publications & Software
+People
+Contact
+Links
+Blog
+Project Info:
+Start Date:01/03/2006
+End Date:31/08/2006
+Funded By:JISC
+Updates:
+06/02/2006
+Project Kick off meeting in Birmingham
+R2Q2: Rendering and Response processing services for QTIv2 questions
+University of Southampton >
+ECS >
+R2Q2 >
+Home
+Welcome
+At the recent JISC/CETIS conference (Autumn 2005) it was recommended that the
+community needed to 'kick start' the use of the IMS Question and Test
+Interoperability version 2.0 specifications. At this meeting it was felt that in
+order to achieve this there needed to be a robust set of tools and services that
+conformed to the QTIv2 specification.
+The R2Q2  aims to produce a complete engine to  render and respond
+to all QTIv2 question types. The engine will be wrapped in a Web service so that
+it can integrate easily into the JISC e-Framework.
+Many other projects have built partial solutions to these objectives, so the
+first phase will be to capture the lessons learnt and incorporate these into the
+design of R2Q2.
+We will then take that main requirements of the QTI specification and refactor them such that the main functions are divided into internal Web Services.
+These sub-Services are Web Services with no public interface, yet have all the advantages of Web Services (interoperable and
+loosely coupled systems with well defined interfaces ).
+The specific objectives are to:
+Produce a Web service that will render and respond to all QTIv2 question
+types as defined by the templates given in the specification.
+Report on the design and implementation
+Publish the Web Service Description (WSDL and plain English) and Code
+Contact Us | ©2006 University of Southampton

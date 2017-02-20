@@ -1,0 +1,367 @@
+Sir Louie Project | Just another OUCS Blogs weblog
+Sir Louie Project
+Just another OUCS Blogs weblog
+Skip to content
+HomeAbout
+← Older posts
+Sir Louie Project Has Now Finished
+Posted on March 19, 2013
+by
+Adam Marshall
+As the Sir Louie Project has now come to an end, all future posts about reading lists in Sakai will be posted in https://blogs.it.ox.ac.uk/adamweblearn/
+Posted in
+Uncategorized
+|
+Comments Off on Sir Louie Project Has Now Finished
+Creating Reading Lists in Sakai
+Posted on May 10, 2011
+by
+Adam Marshall
+Overview
+This post outlines the improvements made to Reading Lists within WebLearn. This was made possible by virtue of the successful completion of the JISC funded Sir Louie Project. (Thanks to Angela Carritt for help with this post.)
+It is now possible to invoke SOLO,
+the Bodleian Library’s search interface, from within WebLearn and, at the click of a button, import any citations
+into a WebLearn Reading List.
+When viewed by a student, the Reading List will contain up-to-date availability information and links to full text versions of Journal Articles.
+How to create a Reading List
+First of all you need to create a new Reading List from within the Resources tool. Navigate to a suitable folder and then select “Add > Add Reading List”.
+You may search the library catalogue or Google Scholar or import an existing Reading List in RIS format (End Note and Refworks). In this example we are going to use SOLO to find books and Journal articles.
+One the SOLO search page you can search for a book by typing a search term in the “Oxford Collections” text box. Remember to click the Search button.
+Matching items will be returned and each will contain an “Import into WebLearn” link. Click on this to push the item into you Reading List.
+You will see a confirmation screen.
+You may also search the Journal Catalogue.
+“Oxford Collections” finds (full) journals by title (e.g. The Spectator, Nature, English Historical Review) but does not find individual articles within journal (e.g. Prof blogs article on x
+in the Specator).
+“Journal articles beta” finds journal articles by author / title and therefore is good for finding Prof blogs article but is less good for finding whole journals. In terms of readings lists:
+“Oxford collections” should be selected for books and full journals (if for an example a lecturer recommends browsing the most recent issues of a particular journal which occasionally happens)
+“Journal articles beta” should be selected for journal articles.
+To find an individual article, select the Journal Articles tab.
+To add the article to your reading list, click the “Import into WebLearn” link.
+Again there will be a confirmation screen.
+Back in your WebLearn browser window, you will see that the Citation Count now shows two entries.
+You need to click on the “Edit Reading List” button to view the Reading List (and then save).
+The “Tutor View” of the Reading List will now look like this.
+Click “Continue” to move to the “Save” page.
+Give the file a sensible name. This page also allow access to be configured.
+The Reading List has a URL and which can be circulated or maybe a Web Content link could be made.This is what the list will look like to the student.
+The “Find It” link will show availability.
+For journals they will be links to the full text. These links are dynamic so if the full text URL ever changes, the Reading List will NOT need updating.
+Links
+Please contact your subject librarian for help using SOLO. You may also find the following useful:
+Creating Reading Lists (from Indiana University)
+Searching using SOLO (PDF)
+Bodleian Library Guides
+Bodleian Library Training
+Sir Louie Project
+Sir Louie Project Blog
+Posted in
+Uncategorized
+|
+Tagged
+Ex-libris Primo, Reading lists, Sakai
+|
+Comments Off on Creating Reading Lists in Sakai
+Juice DAIA
+Posted on May 3, 2011
+by
+Adam Marshall
+The Juice DAIA extension developed as part of the Sir Louie project is now linked from the Juice ‘extensions bazaar’: http://juice-project.org/extensions_bazaar
+Posted in
+Uncategorized
+|
+Tagged
+DAIA, Juice JavaScript library
+|
+Comments Off on Juice DAIA
+Configuration changes to Primo II
+Posted on April 14, 2011
+by
+Adam Marshall
+This relates to the original post “Configuration changes to Primo”
+With the new SP 3.0.3, the architecture of Primo tiles has changed a bit, therefore the full Section 2 of “Configuration changes to Primo” can be replaced by this text:
+Requested change
+Addition of the class ‘WLTab’ to the <li> element wrapping the ‘Additional Services’ tab heading in the Primo Central resuls page.
+Reason
+The <li> element wrapping the ‘Additional Services’ tab heading in the Primo results list is usually given a css class of “WLTab”. This is used by the javascript to identify the correct location in the page carry out some operations to add the ‘Add to WebLearn’ functionality. However, in the Primo Central results when the ‘Additional Services’ tab is the first tab (in order, left to right), this class was not allocated. This resulted in the javascript not working. The addition of the class to the relevant div was requested so the javascript would work for all records.
+Change made
+The WLTab class was added to the relevant <li> element
+Detail of change
+This was achieved by modifying the default results tile for Primo. By default, the results are built up dynamically from resultsTile.jsp. This file resides in: fe_web>tiles (full path: /exlibris/primo/p3_1/ng/primo/home/system/thirdparty/openserver/server/search/deploy/primo_library-app.ear/primo_library-libweb.war/tiles).
+The following changes are made to the tile. The following change is to generate the additional class only when the first tab is the “Additional Services” tab (internal name: getit_link2).
+New lines of code replace one existing line and are as follows:
+<li id="exlidResult${resultStatus.index}-ViewOnlineTab" class="EXLViewOnlineTab EXLResultTab ${specialTabClass} ${tabState.viewOnlineTab.iconCode}">
+Existing line to be replaced by the code inside the dotted lines as shown below (the line above the dotted line is intended to help  locate the region to edit):
+<%-- viewonline,getit_link1,locations,details,reviewsandtags,recommendations, getit_link2 --%>
+<c:if test="${tab=='viewonline' && not empty tabState.viewOnlineTab}">
+---------------
+<c:choose>
+<c:when test="${not empty tabState.moreTab}">
+<li id="exlidResult${resultStatus.index}-ViewOnlineTab" class="EXLViewOnlineTab EXLResultTab ${specialTabClass} ${tabState.viewOnlineTab.iconCode}">
+</c:when>
+<c:otherwise>
+<li class="EXLViewOnlineTab WLTab EXLResultTab ${specialTabClass} ${tabState.viewOnlineTab.iconCode}">
+</c:otherwise>
+</c:choose>
+----------------
+If the first tab is not the additional services tab, then we need the class for the link of additional services tab only. To achieve this, we modify the code as follows. Existing line to be replaced:
+<li id="exlidResult${resultStatus.index}-MoreTab"MsoPlainText">EXLResultTab ${specialTabClass} ${tabState.moreTab.iconCode}">
+by the following line:
+<li id="exlidResult${resultStatus.index}-MoreTab"MsoPlainText">WLTab EXLResultTab ${specialTabClass} ${tabState.moreTab.iconCode}">
+Changes were also made in fullRecord.jsp tile to achieve consistency among brief results and full record display. New lines of code replace one existing line and are as follows. Existing line to be replaced:
+<li class="EXLViewOnlineTab EXLResultTab ${specialTabClass} ${ (renderForm.tabs[0] eq 'viewOnlineTab') ? 'EXLResultSelectedTab':''} ${tabState.viewOnlineTab.iconCode}">
+by the code inside the dotted lines as shown below(the lines above and below the dotted lines are intended to help  locate the region to edit):
+<%-- viewonline,getit_link1,locations,details,reviewsandtags,recommendations, getit_link2 --%>
+<c:if test="${tab=='viewonline' && not empty tabState.viewOnlineTab}">
+---------------------------
+<c:choose>
+<c:when test="${not empty tabState.moreTab}">
+<li id="exlidResult0-ViewOnlineTab" class="EXLViewOnlineTab EXLResultTab ${specialTabClass} ${(renderForm.tabs[0] eq 'viewOnlineTab') ? 'EXLResultSelectedTab':''}${tabState.viewOnlineTab.iconCode}">
+</c:when>
+<c:otherwise>
+<li id="exlidResult0-ViewOnlineTab" class="EXLViewOnlineTab WLTab EXLResultTab ${specialTabClass} ${(renderForm.tabs[0] eq 'viewOnlineTab') ? 'EXLResultSelectedTab':''}${tabState.viewOnlineTab.iconCode}">
+</c:otherwise>
+</c:choose>
+---------------------------
+<c:choose>
+<c:when test="${tabState.viewOnlineTab.popOut == 'on'}">
+However, we also want to add the class WLTab to the “Additional Services” tab when it is not the first tab. For this reason, we modify another part of the code.
+Existing line to be replaced:
+<li class="EXLMoreTab EXLResultTab ${(renderForm.tabs[0] eq 'moreTab') ? 'EXLResultSelectedTab':''}${specialTabClass} ${tabState.moreTab.iconCode}">
+by the following line:
+<li class="EXLMoreTab WLTab EXLResultTab ${(renderForm.tabs[0] eq 'moreTab') ? 'EXLResultSelectedTab':''}${specialTabClass} ${tabState.moreTab.iconCode}">
+Posted in
+Uncategorized
+|
+Comments Off on Configuration changes to Primo II
+Juice and DAIA and Sakai and Primo
+Posted on April 6, 2011
+by
+Adam Marshall
+From Owen Stephens:
+Juice is a javascript library built on JQuery developed with the intention of making it easier to add additional functionality to library interfaces – see http://juice-project.org/ for more details.
+I’ve been working on a project with the University of Oxford called Sir Louie (funded by JISC) which is integrating some of their library systems with their online learning environment (locally called ‘Weblearn’, but the software is Sakai – https://confluence.sakaiproject.org/). Specifically we wanted to add the display of ‘availability’ information in the Sakai Citation Helper tool – basically a tool which allows a tutor to build a reading list – details at https://confluence.sakaiproject.org/display/RES/Citations+Helper
+The approach we decided to take was to use Juice to add the functionality, and use DAIA as the format for the availability information. The intention is that using Juice, this functionality could be added to any web environment displaying bibliographic information that can speak to a DAIA compliant availability service.
+The result is documented at http://juice-project.org/node/41 (with a few screenshots). If anyone wants to have a go at implementing in an independent environment I’d be very happy to work with them on it and make sure it works.
+A few notes on some issues encountered with DAIA – for feedback and if anyone has suggestions how we might have dealt with them it would be very welcome:
+Biggest issue was with online vs physical availability. DAIA doesn’t allow (as far as I can see) you to make this differentiation explicit. Which means that if you have a ‘loan’ service with a ‘href’ there is no way of knowing if you have a loanable physical item with a url to some service/display (e.g. reservation, record in OPAC) or an online item with the link to the full-text. We had to work around this by setting up two DAIA services – one for ‘online’ availability, and one for other availability. The Juice extension is designed to allow different display of ‘online’ and ‘other’ as well – partially driven by this issue.
+A second issue is that the use of ‘available’ vs ‘unavailable’ with ‘delay’ and ‘expected’ respectively seems slightly unclear to me. It feels like saying something is ‘unavailable until’ or ‘available only after this delay’ are basically the same thing?
+The final issue was the more mundane challenge of translating DAIA availability statements into something compact and digestable in the ‘citation helper’ user interface. The decisions I made in implementation were:
+If there is an Open Access copy always offer a link to it first above any other information
+Aside from this categorise things as either ‘For loan’ or ‘For reference’ – essentially stuff you can take away or stuff you can only use in the library. This is a slightly false division and doesn’t reflect some subtleties like stack request services, but in terms of summarising the available options for an end user it feels like enough – after all for physical items they are going to have to visit the library anyway.
+Due to the nature of the service and the available information in this instance all ‘available loans’ are counted as ‘copies for loan’ – so the service summarises overall availability, not current availability (i.e. 3 copies, 2 currently on loan). Clearly being able to express this would be ideal, but we don’t have access to this level of detail from the library systems in question at the moment – which puts the problem of displaying this information in an understandable format to one side for the moment.
+Posted in
+Uncategorized
+|
+Tagged
+DAIA, Ex-libris Primo, Juice JavaScript library, Reading lists, Sakai
+|
+1 Comment
+Documentation and screenshots for the DAIA Juice extension now available
+Posted on April 5, 2011
+by
+Adam Marshall
+From Owen Stephens:
+Documentation and screenshots for the DAIA Juice extension now available at http://juice-project.org/node/41
+We will hopefully get a link added to http://juice-project.org/extensions_bazaar in due course.
+The code developed here has been added to the Juice source tree at http://code.google.com/p/juice-project/source/browse/#svn%2Ftrunk%2Fextensions, so anyone downloading the full Juice version will get it.
+Posted in
+Uncategorized
+|
+Tagged
+DAIA, Ex-libris Primo, Juice JavaScript library, Reading lists, Sakai, SFX
+|
+Comments Off on Documentation and screenshots for the DAIA Juice extension now available
+Ex-libris SFX web service request sequence diagram
+Posted on February 22, 2011
+by
+Adam Marshall
+Request:
+protocol//host/library-availability/library?id=id [&format=format] [&callback=callback]
+where id is a valid openuri, for example
+http://oxfordsfx-direct.hosted.exlibrisgroup.com/oxford?ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&ctx_tim=2010-12-17T17%3A09%3A33IST&url_ver=Z39.88-2004&url_ctx_fmt=infofi/fmt:kev:mtx:ctx&rfr_id=info:sid/primo.exlibrisgroup.com:primo3-Article-elsevier&rft_val_fmt=info:ofi/fmt:kev:mtx:&rft.genre=article&rft.atitle=Chemical%20changes%20that%20predispose%20smoked%20Cheddar%20cheese%20to%20calcium%20lactate%20crystallization&rft.jtitle=Journal%20of%20Dairy%20Science&rft.btitle=&rft.aulast=Rajbhandari&rft.auinit=&rft.auinit1=&rft.auinitm=&rft.ausuffix=&rft.au=Rajbhandari,%20P.&rft.aucorp=&rft.date=200908&rft.volume=92&rft.issue=8&rft.part=&rft.quarter=&rft.ssn=&rft.spage=3616&rft.epage=3622&rft.pages=3616-3622&rft.artnum=&rft.issn=00220302&rft.eissn=&rft.isbn=&rft.sici=&rft.coden=&rft_id=info:doi/10.3168/jds.2009-2157&rft.object_id=&rft_dat=%3Celsevier%3EOM09120A_00220302_00920008_09706824%3C/elsevier%3E&rft.eisbn=&rft_id=http%3A%2F%2Fsolo.bodleian.ox.ac.uk%2Fprimo_library%2Flibweb%2Faction%2Fdisplay.do%3Fdoc%3DTN_elsevierOM09120A_00220302_00920008_09706824%26vid%3DOXVU1%26fn%3Ddisplay%26displayMode%3Dfull
+Possible values of ‘format’ are json, jsonp and xml (not supported yet), default value is json.
+callback parameter only applies to format jsonp, default value is callback.
+Response: Requested information in requested DAIA format.
+Sequence diagram for the service
+Posted in
+Uncategorized
+|
+Tagged
+OpenURL, SFX, UML
+|
+Comments Off on Ex-libris SFX web service request sequence diagram
+Ex-Libris Primo web service requests sequence diagrams
+Posted on February 22, 2011
+by
+Adam Marshall
+Request:
+protocol//host/library-availability/library?id=id [&format=format] [&callback=callback]
+id is a valid DAIA URI, for example
+http://solo.bodleian.ox.ac.uk/primo_library/libweb/action/display.do?doc=UkOxUUkOxUb15585873&vid=OXVU1&fn=display&displayMode=full
+Possible format values are json, jsonp and xml (not supported yet), default value is json. callback parameter only applies to format jsonp, default value is callback.
+Response: Requested information in requested DAIA format.
+Sequence diagram for the service
+Posted in
+Uncategorized
+|
+Tagged
+DAIA, Ex-libris Primo, UML
+|
+Comments Off on Ex-Libris Primo web service requests sequence diagrams
+About the Electronic Item Availability Service (EIAS)
+Posted on January 12, 2011
+by
+Adam Marshall
+The purpose of this middleware is to find availablity for items that are electronic. The API that can return information about these items is a hosted service run by SFX.
+A good way to see examples of the service in use it to visit SOLO, http://solo.ouls.ox.ac.uk/, search for a item in the Journal Articles section and then click on the additional services tab for one of the results. Clicking on the “Open source in a new window” pops it out and allows you to see the URL. Next add &sfx.response_type=simplexml to the end of the URL and you get back details about the item. As an example try http://preview.tinyurl.com/5sosem7 .
+The idea is that EIAS will receive a request for details about an item, rather than being passed a URL, it will get an OpenURL, which it can send through to the SFX service and then translate the returned response to DAIA to that the client can parse and easily understand it.
+Posted in
+Uncategorized
+|
+Tagged
+DAIA, EIAS, Ex-libris Primo, Juice JavaScript library, OpenURL, Sakai, SFX
+|
+Comments Off on About the Electronic Item Availability Service (EIAS)
+Configuration changes to Primo
+Posted on December 13, 2010
+by
+Adam Marshall
+We thought it may be useful to detail all the changes that need to be made to Ex-Libris Primo in order that it may communicate with WebLearn (Sakai)
+1. Addition of a URI to Primo OpenURL
+Requested change
+A new http URI to be added to the OpenURLs generated by Primo which would provide a persistent link back to the Primo record. This should be added as an rft_id
+Reason
+In the existing setup the only way of identifying the originating Primo record is by examining the rft_dat element of the OpenURL. As rft_dat is simply an arbitrary string, this is not a preferred mechanism for storing the id for the Primo record, and so rft_id is seen as more appropriate. The rft_id must be a URI according to the OpenURL v1.0 specification. Additionally when using DAIA to return availability information for a resource, a URI must be used to identify the resource, therefore it makes sense to assign a URI when creating the OpenURL in Primo.
+Change made
+For ‘local’ items (i.e. not those available via Primo Central) an encoded http URI providing a persistent link to the Primo record has been added to the OpenURL generated for the record as a rft_id.
+E.g. rft_id=http%3A%2F%2Fsolo.bodleian.ox.ac.uk%2Fprimo_library%2Flibweb%2Faction%2Fdisplay.do%3Fdoc%3DUkOxUUkOxUb11462895%26vid%3DOXVU1%26fn%3Ddisplay%26displayMode%3Dfull
+Detail of change
+This was achieved by modifying the default URL templates that primo uses to establish OpenURL. These are changed in Back Office > Advanced Configuration > All Mapping Tables > Sub System “Delivery” >Templates. Changes are made for openurl, openurlfulltext, openurl_journal, openurlfull_journal, openurl_article and openurlfull_article keys.
+2.   Addition of class to <li> element in Primo Central results page
+Requested change
+Addition of the class ‘EXLMoreTab’ to the <li> element wrapping the ‘Additional Services’ tab heading in the Primo Central resuls page.
+Reason
+The <li> element wrapping the ‘Additional Services’ tab heading in the Primo results list is usually given a css class of “EXLMoreTab”. This is used by some javascript to identify the correct location in the page carry out some operations to add the ‘Add to WebLearn’ functionality.
+However, in the Primo Central results when the ‘Additional Services’ tab is the first tab (in order, left to right), this class was not allocated. This resulted in the javascript not working. The addition of the class to the relevant div was requested so the javascript would work for all records.
+Change made
+The class was added to the relevant <li> element
+Detail of change
+This was achieved by modifying the default results tile for Primo. By default, the results are built up dynamically from resultsTile.jsp. This file resides in: fe_web>tiles (full path: /exlibris/primo/p3_1/ng/primo/home/system/thirdparty/openserver/server/search/deploy/primo_library-app.ear/primo_library-libweb.war/tiles).
+The following changes are made to the file. The following change is to generate the additional class only when the first tab is the “Additional Services” tab (internal name: getit_link2).
+New lines of code are highlighted.
+<%-- viewonline,getit_link1,locations,details,reviewsandtags,recommendations,getit_link2 --%>
+<c:if test="${tab=='viewonline' && not empty tabState.viewOnlineTab}">
+<c:choose>
+<c:when test="${not empty tabState.moreTab}">
+<li id="exlidResult${resultStatus.index}-ViewOnlineTab">
+</c:when>
+<c:otherwise>
+<li id="exlidResult${resultStatus.index}-ViewOnlineTab">
+</c:otherwise>
+</c:choose>
+However, we also want to add the class WLTab to the “Additional Services” tab when it is not the first tab. For this reason, we modify another part of the code.
+<c:if test="${tab=='getit_link2' && not empty tabState.moreTab}">
+<li id="exlidResult${resultStatus.index}-MoreTab">
+Changes were also made in fullRecord.jsp file to achieve consistency among brief results and full record display. The following lines were added:
+<c:if test="${tab=='viewonline' && not empty tabState.viewOnlineTab}">
+--------------
+<c:choose>
+<c:when test="${not empty tabState.moreTab}">
+<li id="exlidResult0-ViewOnlineTab">
+</c:when>
+<c:otherwise>
+<li id="exlidResult0-ViewOnlineTab">
+</c:otherwise>
+</c:choose>
+----------------
+<c:choose>
+<c:when test="${tabState.viewOnlineTab.popOut == 'on'}">
+3. Addition of ‘Add to WebLearn’ functionality in Primo results list
+Requested change
+Addition of ‘Add to WebLearn’ icon, text and link to each Primo record in the case the user had triggered a search of Primo from a WebLearn Citation Helper to build a reading list. The link should be an OpenURL with the base URL being a WebLearn URL which could be defined when the Primo search was triggered from the WebLearn Citation Helper.
+Reason
+In order to allow the addition of resources to WebLearn Citation Helper lists from Primo, only when the context was appropriate, using a standardised metadata format.
+Change made
+Javascript and JQuery used to enable the creation of the ‘Add to WebLearn’ link and the display of the link only when relevant to the context (i.e. the Primo search has been triggered from a WebLearn Citation Helper too build a reading list).
+Detail of change
+New javascript function ‘addWebLearn()’ added to the following file:
+$fe_web/javascript/v3.js
+This function:
+Checks if the window.name starts with ‘Weblearn Solo’
+Extracts the WebLearn URL to use from window.name
+Loops through each .EXLSummaryContainer div to:
+Extract the URL to call SFX menu
+Modify the URL to get an XML response only
+Extract the OpenURL from the response (looks for the first href)
+Substitute the baseurl in the returned OpenURL with the WebLearn URL extracted above
+Appends the resulting link with icon/text to .EXLSummaryFields div
+The function was based on the function EXLTA_getSfxLink() written by Hanan Jacob as part of the EXL Tab API (EXLTA) (see http://www.exlibrisgroup.org/download/attachments/29590016/EXLTabAPI.03a.js?version=1&modificationDate=1288719708000)
+The function is currently as follows:
+function addWebLearn() {
+var weblearn = new Array();
+weblearn = window.name.split(' - ');
+if (weblearn[0] == "WebLearn Solo"){
+$('.EXLSummaryContainer').each(function() {
+try {
+var WLhref = $(this).closest('.EXLSummary').find('.EXLMoreTab a').attr('href');
+var WLmodifiedHref = WLhref.replace(/display\.do/,"expand.do").replace(/renderMode=poppedOut/,'renderMode=prefetchXml');
+var WLxml = $.ajax({url: WLmodifiedHref ,global: false,async: false,error:function(){log('WebLearn sfx retrieval error')}}).responseXML;
+var WLhtmlText = $(WLxml).find('element').text();
+var WLurl = WLhtmlText.match(/href="([^"]*)"/)[1].replace("http://oxfordsfx-direct.hosted.exlibrisgroup.com/oxford",unescape(weblearn[1]));
+$(this).find('.EXLSummaryFields').append("Import into WebLearn");
+}
+catch(WLerr) {
+log('Could not insert WebLearn link: ' + WLerr);
+}
+});
+}
+}
+Addition July 2011
+Note from Owen Stephens: Section 3 no longer applies as written here – instead of a function we now have a separate script so:
+Copy the weblearn.js script from primo-s-web-2 to the live server
+Ensure that the weblearn.js script is called from the home screen, brief results and full results – we made this change on primo-s-web-2 but I’m not sure if we just put the call into the pages directly, or from another script.
+Posted in
+Uncategorized
+|
+Tagged
+Ex-libris Primo
+|
+Comments Off on Configuration changes to Primo
+← Older posts
+Search
+Search for:
+TagsCOiNS
+DAIA
+DLF-ILS DI
+EIAS
+Ex-libris Primo
+Juice JavaScript library
+LIAS
+OpenURL
+Reading lists
+Sakai
+SFX
+UML
+Archives
+March 2013 (1)
+May 2011 (2)
+April 2011 (3)
+February 2011 (2)
+January 2011 (1)
+December 2010 (2)
+November 2010 (5)
+October 2010 (2)
+September 2010 (1)
+August 2010 (6)
+July 2010 (2)
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+Sir Louie Project
+The views expressed on this blog are those of the project team and not necessarily those of the University of Oxford IT Services.
+powered by WordPress
+IT Services Blogs hosted by University of Oxford IT Services
+This site uses cookies:
+Find out more.Okay, thanks

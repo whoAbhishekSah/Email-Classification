@@ -1,0 +1,169 @@
+T-SPARC Blog | Technology-Supported Processes for Agile and Responsive Curricula
+T-SPARC Blog
+Technology-Supported Processes for Agile and Responsive Curricula
+Menu
+Skip to content
+Baseline ReviewApproachFindings and ObservationsAudienceAuthenticityAvailability of InformationComplianceConstraintsCoordinationDrivers for DesignExisting Use of TechnologyHolistic and Distributed Approaches to DesignRelationships vs MechanismsRepresentationSpecialised LanguageStaff SupportStakeholdersThe Programme DirectorTime and Space for DesignMethodsReflectionContact UsMeet The TeamOur ApproachesProject OverviewSharePointStakeholder Feedback
+Search for:
+Presenting at ALT-C and Ongoing Developing of the Rough Guide
+September 13, 2012UncategorizedOliver
+Sonia Hendy-Isaac (Senior Lecturer in Curriculum Design for Employer Engagement at BCU) from the project team presented at the ALT-C Conference on September 11th 2012. Following on from the previous blog post, below is some further commentary from Sonia on how the Rough Guide was received on its first public outing:
+“The ALT-C conference was an interesting affair, and the challenge for myself and the other JISC funded projects (Ulster’s viewpoint cards and the OU’s OULDI frameworks) was engaging a room full of people who love technology; especially since all of our presentations focused on the humanisation of the curriculum design process and not necessarily the technology itself!
+The Rough Guide had its first public outing and was well-received; there was significant interest in development of a WBL version of it. One of the key discussions in the mini break-out sessions focused on how to use the RG to improve institutional commitment to innovation in curriculum design through strong stakeholder engagement at inception, and the use of discussion to inform design and ways to evidence this. There was also much discussion about the size of the RG and the potential resistance to reading such a volume! I spent some discussing our approach to offer a two-page overview with the opportunity to delve beyond that and the use of the briefing days which introduce the RG within BCU. All in all, a fabulous event – wish I could have stayed longer to have continued the discussions and debates…still, there’s always next year!”
+Oliver
+‘Rough Guide to Curriculum Design’ Undergoing Internal & External Peer-Review
+September 12, 2012Communication, General Update, Rough Guide, Stakeholders, TechnologyOliver
+Following on from previous posts relating to the development of the Birmingham City University (BCU) ‘Rough Guide to Curriculum Design’, we’ve now shared a first draft of the document both internally for review by  local experts/stakeholders, and externally for review by colleagues at other institutions.
+Sonia Hendy-Isaac (Senior Lecturer at BCU in Curriculum Design for Employer Engagement) from the project team presented at the ALT-C Conference on September 11th 2012, and showcased the draft document with the JISC and colleagues from other projects to the wider sector for the first time.
+After the session, Sonia commented:
+“There was some really good interest – it was well received by the group”.
+Professor Paul Bartholomew (T-SPARC Project Manager) spoke about the emergence of the Rough Guide:
+“It has been designed in response to curriculum design support needs that have emerged as a consequence of the pilots undertaken during the T-SPARC project at Birmingham City University.
+Once the final content has been established the guide will be offered to staff in both a document and  multimedia format (with supplementary video elements) and embedded directly into the new SharePoint based Design and Approval of Programmes System (DAPS).”
+It is envisaged that after the second phase of pilots using the technology supported processes for programme design and approval are completed by summer 2013, the Rough Guide will form an integral part of the new process and systems.
+For more information, or to download a review copy of the Rough Guide, please contact oliver.jenkins@bcu.ac.uk
+Oliver
+Development of the Rough Guide to Curriculum Design
+March 15, 2012Uncategorizedtsparc
+Following on from the work completed by the sabatical members of staff (that worked alongside T-SPARC project staff) last summer, CELTs Sonia Hendy-Isaac (Senior Lecturer in Curriculum Design for Employer Engagement) has been adding to, and updating the resource recently. Working alongside Oliver, they have process mapped the new programme design and approval process from start to finish and looked at where support and guidance in the following areas could be offered:
+Philosophy (why)
+Process (what)
+System (how)
+Tools
+Information on stakeholders are placed on blue post-its, tools in yellow.
+Interestingly, we have realised recently that although the development of this resource has taken longer than originally expected, the project team are in a much more informed position now to talk about the ‘whats’ and ‘hows’ now that we have actually implemented the new processes and systems within the pilots. The rich feedback from pilot teams and personal experiences of using the live system has enabled us to give more informed guidance on how the system can be used most effectively.
+The content about how the system should be used to augment the process will be integrated into the SharePoint workflows and interface, the information / guidance on the philosophies, process, and tools to support the progamme design and approval process will also be available at appropriate points and offered to user groups dependant on the role that they are assigned.
+Sonia is now putting the ‘meat on the bones’ and an initial draft is due by the end of next month.
+Oliver.
+SharePoint 2010 – How to ‘drive’ user adoption
+November 28, 2011Uncategorizedtsparc
+I came upon this post over the weekend and think it will be particularly interesting to SharePoint developers as a commentary on issues to consider whilst delivering systems to the end users. I found it particularly poignant with relation to where T-SPARC are currently with the roll-out and piloting of the new programme design and approval system. Hope you find it useful.
+(Original post can be found here at http://sharepointbusinessanalyst.com)
+A secretary walks into a Giant Car showroom and demands ‘OK tell me how much it is… I’ll take it?’ This is without actually telling the bemused sales guy; what make she wants, the model, the colour, age, size of the engine, spec etc. She had failed to ask her boss all of these things (end user) who had instructed her to ‘go out and get a car’, as he she took his instructions literally.
+The salesman rubs his hands together and she goes and blows £300k of her bosses’ hard earned money on the latest supercar. All he needed was a basic saloon car to get around town!
+Ok this didn’t really happen but the exact same thing happens week in week out with Internal Communicators who use SharePoint as their Intranet and/or Content Management systems and never ask users what they need and would like to see.
+Between IT and Internal Comms, they are the ones that often decide what the end users will need and want as they ‘know’ their audience and have done the requirements gathering. (Often a 1 hour meeting with them to tell them what they were going to do!)
+The days of static content (pushed out by Internal Comms) are well and truly numbered. On an Intranet, users not only demand and expect content that is fresh and relevant to them personally but also applications that will make their lives easier. With SharePoint, you will be amazed how many applications can be built within days, without any custom coding and often life changers for the users. This will also drive user adoption and get people visiting the content you want them to more often. These can be anything as simple as a holiday request form, through to a Recruitment system.
+You just need to ask them what their pain is!
+8 Great Tips to get the most out of SharePoint
+Don’t let IT Run the project – SharePoint is a business facing application. Unless there is a fresh installation needed, try to keep the project run by someone in the business who understands the challenges in the business rather than of the technology.
+Requirements gathering – Ask end users what they want by actually asking the question ‘tell me about the challenges in your business’. Count the blank looks on people’s faces when you ask ‘tell me what you want SharePoint to do.
+Custom code – There is always a time and a place for this but avoid wherever you can. For every 5 days of development, the same can be achieved with configuration in 1.
+‘Out of the box’ Features – Get to know all of the features that are in SharePoint. Knowing what the product can actually offer can avoid custom code!
+3rd Party Products – SharePoint, like all systems, has its shortfalls, but there are thousands of products that can be bolted onto SharePoint to address these. These costs a fraction of the cost of developing from scratch and are supported also.
+Micro-Projects – Wherever possible, try to deliver SharePoint offering in small chunks. This will make SharePoint become viral and also make it easier to improve on each piece that you deliver. Hard to do with a ‘big bang’ approach.
+End User Training – Train Train Train – Allow a decent budget for training end users on how to actually use SharePoint. How will people use the tool if they don’t know how to?
+Support – Log a ticket approach doesn’t work with SharePoint. Try to identify the ‘power users’ that can be accessible to help the business users.
+Oliver
+Welcome to the T-SPARC blog homepage!
+November 16, 2011Uncategorizedtsparc
+I’m guessing that you’ve arrived here this week after taking part in the JISC Online Conference, ‘Innovating e-Learning 2011‘ and clicking one of the links to our project blog and website. (If not, please feel free to look around!)
+First of all, welcome, and thank you for clicking one of the links to the site and showing an interest in our project. If you would like any further information or access to documentation you can either email me at oliver.jenkins@bcu.ac.uk or alternatively start or comment upon threads within our session workspace. The topic for the session is ‘Socio-technical ramifications of a new technology-supported approach to course design and approval’ and is being delivered by Paul Bartholomew (BCU) and Jim Everett (University of Strathclyde).
+A brief guide to the T-SPARC project site:
+Project blog (this page) – http://blogs.bcu.ac.uk/tsparc/
+Meet the team – http://blogs.bcu.ac.uk/tsparc/meet-the-t-sparc-team/
+Project overview – http://blogs.bcu.ac.uk/tsparc/what-is-t-sparc/
+SharePoint development site – http://blogs.bcu.ac.uk/tsparc/sharepoint-dev/
+Baseline review info – http://blogs.bcu.ac.uk/tsparc/t-sparc-baseline-review/
+Feedback from stakeholders – http://blogs.bcu.ac.uk/tsparc/stakeholder-feedback/
+Contact details – http://blogs.bcu.ac.uk/tsparc/contact-us/
+Oliver
+SharePoint Development Update
+November 11, 2011Uncategorizedtsparc
+Following a meeting yesterday with BCU’s Head of Project Management in Corporate ICT, several updates have been agreed that will move the system development process forward in the coming months whilst piloting the new workflows:
+The project will have made available the services of our in-house SharePoint 2010 developer over the next couple of weeks to finish all minor tweaks and adjustments to ensure the beta version that is made available to the pilot programme teams is fit for purpose (design informed from initial piloting phase of SharePoint 2007).
+Corporate ICT have agreed that in true ‘Agile’ fashion, our developer will work alongside me (Oliver) in the same physical space whilst I act in a ‘Business Analyst’ capacity. This will allow us to define and solve issues in real time and help to ensure that the developers time is spent 100% on the project during these development sessions.
+Once the software is ready for the piloting phase to begin (we envisage this being in the next couple of weeks) we have agreed that there will be a number of development windows during the process. These will be set at approximately 6 week intervals so that new requirements can be defined (with input and feedback from pilot teams) and technical solutions prepared so that once a development window is reached, the developer will have a set of definitive business requirements to work from.
+As a caveat to the above development window structure, we have also agreed that if an issue becomes obstructive or starts to impede the programme development process in any way (due to unforeseen circumstances or usability issues, for example) , we will have the resources made available immediately to develop emergency solutions.
+The services of one of BCU’s Senior Project Managers for the Corporate ICT Project Office who has extensive knowledge and experience as a software tester has been made available to the project to assist with final testing and run-throughs of test scripts.
+Corporate ICT have another project that is in progress at the moment, the DAM project, (the Digital Asset Management system) which will deliver a single, University-wide repository system for the Universities video, audio, document and image files. It was suggested that T-SPARC project members have successfully gained buy-in to the project from a wide range of stakeholders (both internally, and externally) and have valuable experiences to share that could assist with the effective implementation and embedding of other CICT projects within the institution in the future. Conversations around this topic will continue.
+Again, positive momentum in the right direction and further evidence of the deep institutional buy-in that the project continues to develop as we transition into the piloting phase.
+Oliver
+Continued Support for T-SPARC Pilots
+October 28, 2011Uncategorizedtsparc
+We have recently identified a pilot course team from BCU School of Property, Construction and Planning that will be reworking six inter-related FT and PT degree courses, with various professional body affiliations, in the course of the current year using T-SPARC systems, tech and methods. We we’re pleased to learn today that additional Programme Directors from BIAD (Birmingham Institute of Art and Design) had put themselves forward as pilot programmes following a demonstration of techniques and systems yesterday. From a total of around 8 programmes that were represented at the review meeting for courses going through review and approval, we think that 6 have put themselves forward!
+Additionally, we already know that other pilots have been firmed up in the Faculty of Health and Birmingham City Business School.
+Oliver
+T-SPARC voted ‘Most exciting change overall’
+October 14, 2011General Update, SharePointtsparc
+Paul and Oliver attended the penultimate JISC programme meeting in Nottingham this week. One of the sessions on day 2 was called the ‘Curriculum Design Market Place Activity’ which was an opportunity for projects to showcase some of their work and demonstrate how they have helped to change and enhance some aspects of curriculum design within their institutions. The idea behind the Marketplace was to sell the benefits of your products (i.e. outputs) to different stakeholders. Prizes were awarded in 4 different categories:
+Greatest potential impact on teaching (teachers, staff developers, curriculum teams) – Won by Viewpoints at Ulster
+Greatest potential impact on learning (learners) – won by PC3 at Leeds Met
+Greatest potential impact on business processes (managers, administration, quality processes) – won by SRC at Manchester Met
+Most exciting change overall – won by T-SPARC at Birmingham City University
+Particular reference was made to the innovative use of the Microsoft SharePoint [2010] system that is in development here at BCU that augments the programme design and development process. Some of the comments delegates left about T-SPARC are below:
+“Very well developed system for responsive curriculum design using technology supported workflows.”
+“A radically different approach. Shows how good design can impact pedagogy.”
+“The project has enabled real transformational change and resulted in new curriculum design processes and also considered the pedagogy.”
+“This project does everything!”
+“Greatest range of beneficiaries. Simplifies processes and promotes deeper consideration of learning and teaching.”
+Reflections on Project Management Methodologies
+September 6, 2011Agile, Communication, Process Mapping, Project Management, SharePoint, Technologytsparc
+In previous posts you will have heard how our approach to project management and business analysis has changed over the past 18 months. This post aims to give an update to readers about current T-SPARC project management methodologies.
+When I initially started with T-SPARC I felt that it was important to make process mapping work for the relevant stakeholders groups. At the time that meant internal staff that we were consulting with on their views of current process, the hurdles they face through the lived experience of curriculum design any their opinions on how processes could be improved. Convoluting university processes with complex system diagrams didn’t seem appropriate, so we opted for a softer, user-friendly approach with relatively simple swim-lane diagrams. These were purposely designed to be easily interpreted by members of staff being consulted. It was during this process that we realised the process maps weren’t there just to communicate processes, but to encourage dialogue between stakeholders.
+The next stage was defining the business requirements for the proposed new processes. From the information gathered during the stakeholder engagement events (including the multimedia review that was conducted during 2009), a vision of the new processes was developed that detailed how Microsoft SharePoint would be used to augment the new course design and approval processes.
+The project then employed a SharePoint software developer as a contractor to work on the project alongside existing university staff to add capacity. At this point we had used PRINCE2 as a project management methodology with varying levels of success. Things such as the management structure, risk register, issue log and work package protocol were defined to PRINCE2 standards, but our CICT department felt that this project management style would not suit the [rapid] development of the new SharePoint infrastructure. Collectively, CICT and T-SPARC felt that a new approach should be sought to allow the iterative and ongoing development of the workflows. Agile (Scrum) methodology had been looked at by our CICT department in the past and used by members of their team and a decision was made to manage the T-SPARC SharePoint development using Agile methodology.
+Agile allows for regular ‘Sprint’ meetings where developers, business analysts and project manager(s) evaluate previous Sprints, and define the next ones. A Sprint is a series of objectives that must be achieved to produce the next iteration of the software (or product). This approach allows a series of prototypes to be designed and tested on an ongoing basis, this in turn allows functionality to be defined iteratively and gives project teams the ability to test each iteration of the software with users and feed back to developers to add to the next Sprint for implementation and then further testing.
+In addition to the regular Sprint meetings, Agile allows for daily ‘Scrum’ meetings where developers and BA’s (business analysts) meet to discuss the previous days progress, and targets for the current day. This approach has led to the rapid development and rapid integration of new features into the system.
+Something thing that has been noted is that the Agile approach can lead to a lack of definitive project documentation! The nature of the rapid development means that rather than the product specification being designed and defined during the initiation of the project – post requirements gathering and analysis, the specification is defined with input from stakeholders on an ongoing basis. This leads to a Sprint log being developed, to be used as a set of Sprint deliverables, which can be updated at the end of each Sprint to define the next set of deliverables. However to counteract this lack of documentation, with Agile, you do get a series of prototypes that are developed and tested by stakeholders which ensures that the end product is fit for purpose.
+We realised that two key aspects of Agile are communication between and commitment from developers and project staff. We started using the Sprint and Scrum meetings but then realised that ongoing and more responsive dialogue was needed and for this we decided to use Skype as it allows for ‘share screen’ functionality which has been extremely useful for answering quick queries without having to leave our desks.
+Another observation that we have made; tightly constrained project management methodologies can restrain competent and confident members of staff. Certain staff need to be empowered with the freedom to make decisions, project teams need the need ability to be able to relax the constraints of the methodologies and be creative and to encourage the ‘doing’. Project managers need to be able to relax the constraints of particular project management methodologies to allow this, especially when using the more fluid and dynamic Agile methods. The flip side is that less competent and confident members of staff may rely on more tightly defined project management methodologies to define processes and work packages. You need buy-in from all members of a project team, and all involved need to be practiced in Agile methodologies for it to work properly.
+For more information on Agile project management methodologies click here.
+Oliver
+Student Handbook / Course Guide Update
+April 15, 2011Uncategorizedtsparc
+I have been working on changes to the student handbook now for several months. During this time I have researched into what students are currently given on arrival to the University, how that compares with other Universities and how we can make things better at Birmingham City University.
+From staff and student focus groups, it was reported that the current Student Handbook was bulky, inaccessible and unappealing. To combat this, some faculties and schools had created a bridged versions of the handbook called ‘Survival Guides’ but these were not formally approved and would have to complement the handbook with a risk or reiteration.
+Therefore it was decided that there should be two levels to the information that students receive. This would be University level, the generic information that all students need to know and then the Course level information which would also include Faculty or School level information.  It was agreed that it would be appropriate to house the University level information on the University website and students would be issued with a ‘Course Guide’ during induction which would have all the information that students need to know about their course, with links to where more information could be found.
+The Course Guide was created and has been piloted on 6 courses across 2 faculties. Feedback so far has been positive from staff and students, although staff were keen that the guide must remain concise and student focused, it was felt that it should not be made verbose and cumbersome by items needed for approval which students could be directed to elsewhere. Students have described the guide as being much more visually appealing and easy to use.
+The Course Guide will go to Senate on 11th May 2011 with a view to it being approved to be rolled out University wide for the 2011/2012 intake.
+Hannah
+Posts navigation
+← Older posts
+Recent Posts
+Presenting at ALT-C and Ongoing Developing of the Rough Guide
+‘Rough Guide to Curriculum Design’ Undergoing Internal & External Peer-Review
+Development of the Rough Guide to Curriculum Design
+SharePoint 2010 – How to ‘drive’ user adoption
+Welcome to the T-SPARC blog homepage!
+Recent CommentsPresenting at ALT-C and Ongoing Developing of the Rough Guide « T-SPARC Blog on ‘Rough Guide to Curriculum Design’ Undergoing Internal & External Peer-ReviewCurriculum Design Technical Journeys: Part 2 « JISC Curriculum Design & Delivery on SharePointSheila’s work blog » Curriculum Design Technical Journeys - Part 2 on SharePointSharePoint 2010 – How to ‘drive’ user adoption « T-SPARC Blog on Meet The TeamWelcome to the T-SPARC blog homepage! « T-SPARC Blog on Baseline ReviewArchives
+September 2012
+March 2012
+November 2011
+October 2011
+September 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+January 2010
+December 2009
+September 2009
+August 2009
+Categories
+Accessibility
+Agile
+Communication
+Data Protection Policy
+General Update
+Pilot Course Team Blog Posts
+Process Mapping
+Project Management
+Rough Guide
+SAPs
+SharePoint
+Stakeholders
+Technology
+Twitter
+Uncategorized
+VOXUR Units
+YouTube
+Copyright © 2015 - 2017 · Birmingham City University · All rights reserved

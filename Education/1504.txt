@@ -1,0 +1,81 @@
+Past Projects | Edina
+Skip to main content
+Toggle navigation
+Support
+News
+Search form
+Search
+Who we areOur PeoplePeople A-ZOur SkillsOur LocationWhat we doWe DevelopWe DeliverWe AdviseWork with usYour NeedsYour SolutionYour Next StepContact Us
+Past Projects
+Home
+Past Projects
+The following services are no longer offered by EDINA:
+Bibliographic
+Geographic
+Multimedia
+Learning and Teaching
+Middleware & Infrastructure
+Bibliographic
+AGDEX, 2000 – 2004. Extensive database of over 85,000 article titles or abstracts from the agricultural press, compiled since 1971 by the Scottish Agricultural College (SAC).
+Art Abstracts, 1998 – 2003. Bibliographic references and abstracts of articles from 280 periodicals - journals, yearbooks and museum bulletins - published in English and other major languages, from 1984 to the present. Art Abstracts is published by H.W. Wilson.
+Art Index Retrospective, 2000 - 2004. Provided searchable indexing spanning 55 years of art journalism from 420 noted publications around the globe, reflecting coverage provided from 1929 to 1984. Art Index Retrospective is published by H.W. Wilson.
+BIOSIS, 1996 – 2006. Electronic version of Biological Abstracts (BA), the largest printed reference publication for life sciences information; and Biological Abstracts/RRM (Reports, Reviews, Meetings), the companion printed reference to books, meetings and research reviews. BIOSIS Previews database covers data from 1985 onwards.
+CAB Abstracts, 1999 – 2012. Bibliographic database compiled by CAB International. Covered the significant research and development literature in the fields of agriculture, forestry, aspects of human health, human nutrition, animal health and the management and conservation of natural resources.
+EconLit, 2000 – 2004. Indices and abstracts of more than 550 international economic journals. Produced by the American Economic Association.
+Ei Compendex,1998 – 2003. Most comprehensive interdisciplinary engineering information database in the world, with almost 7 million summaries of journal articles and conference proceedings, referencing 5,000 journals and conference material from the 1970's onwards. Produced by Engineering Information Inc. (Ei).
+ESPMD,1998 – 2002. Access to abstracts and references to the literature covering air, land, water, and noise pollution as well as bacteriology, ecology, toxicology, risk assessment, environmental engineering, environmental biotechnology, waste management, and water resources. ESPMD is published by Cambridge Scientific Abstracts.
+Index to the Times,1996 – 2000. Coverage of The Times between 1790-1980, comprising Palmer's Index to The Times (covering the years 1790 to 1905), and the Official Index to The Times (covering the years 1906-1980). Published by Chadwyck-Healey.
+INSPEC,1998 – 2008. Regarded as the premier database for access to the world's leading scientific and technical literature in physics, electrical engineering, electronics, communications, control engineering, computers and computing and information technology. Produced by the Institution of Electrical Engineers.
+UPDATE > Land Life Leisure, 2002 – 2014. Bibliographic database of land-based literature that covered the popular press as well as scholarly journals on; agriculture, countryside management, environmental change, equine studies and leisure and tourism. UPDATE data was supplied by the University of Wales Aberystwyth with contributions from the Royal Agricultural College and Harper Adams University College.
+Linguistics and Language Behaviour Abstracts, 2000 – 2002. Assisted both generalists and specialists in keeping abreast of cutting-edge developments in disciplines concerned with the nature and use of language. Linguistics and Language Behavior Abstracts comes from Cambridge Scientific Abstracts.
+MLA Bibliography, 2000 – 2004. Indexes critical scholarship on literature, language, linguistics and folklore. Produced by the Modern Language Association of America.
+PAIS International, 2000 – 2004. Bibliographic index with abstracts covering the full range of political, social, and public policy issues. Produced by the Public Affairs Information Services, Inc.
+Palmer's Index,1996 – 2000. The only index to articles in The Times for every issue from October 1790 to December 1905. Palmer's Index is published by Chadwyck-Healey.
+PCI,1996 – 2000. On-line access to the Periodicals Contents Index (PCI) for the periodical literature in their academic disciplines. PCI is published by Chadwyck-Healey.
+SALSER, 1995 -2016.   Union catalogue of journals available at academic and research libraries in Scotland.   Data for all SALSER contributing libraries providing current information is available through SUNCAT, the Serials Union Catalogue for the UK.
+Social Services Abstracts, 2000 – 2002. Bibliographic coverage of current research focused on social work, human services, and related areas, including social welfare, social policy, and community development. From Cambridge Scientific Abstracts.
+Sociological Abstracts, 2000 – 2002. Access to the research literature in sociology and related disciplines in the social and behavioural sciences. From Cambridge Scientific Abstracts.
+Ulrich's International, 2000 – 2004. Includes annuals, continuations and conference proceedings, deriving input data from over 80,000 U.S. and foreign serials publishers.
+Geographic
+Geodoc, 2008 – 2016. Geospatial metadata creation and publication tool
+GoGeo, 2008 – 2016. Geodiscovery portal for the discovery of georeferenced data and resources
+Scottish Spatial Data Infrastructure Discovery Service (SSDI), 2009-2016. Discovery and metadata service for Scottish geospatial resources.
+Unlock, 2009 – 2016. Georeferencing placenames and geographic data searching
+Multimedia
+Education Image Gallery, 2003 – 2010. Provided access to a collection of 60,000 images, drawn from the vast resources of the Hulton Archive, Photodisc and the Getty Images® News Service.
+Education Media Online, 2002 – 2006. Provided access to 10 collections of film and video, digitised through the JISC's Managing Agent and Advisory Service (MAAS), covering a range of disciplines that include 20th century history and medicine.
+Film & Sound Online, 2006 – 2010. A set of collections of film and video, hosted by EDINA and cleared and digitised through JISC's Managing Agent and Advisory Service (MAAS).
+NewsFilm Online, 2008 – 2012. A collection of some 3,000 hours of downloadable television news, cinema newsreels and associated materials, selected from the ITN/Reuters archives including several key cinema newsreels.
+Jisc MediaHub, 2012 – 2016. Resources from a wide range of collections, some licensed for educational use by Jisc Collections, others made available by different providers. The Jisc-licensed multimedia content is now available through a new service, MediaPlus.
+Learning and Teaching
+Jorum, 2010 – 2013. A national online repository service helping to build a community for the sharing, reuse and repurposing of learning and teaching materials. Now available from Jisc at jorum.ac.uk.
+National Learning Network (NLN) Materials, 2003 – 2007. Flexible 'bite-sized' episodes of learning, the NLN materials represent a substantial and wide-ranging collection of e-learning materials; not whole courses but designed to support a wide range of subject and topic areas. Available at www.nln.ac.uk/
+Middleware & Infrastructure
+UK RepositoryNet+, 2007 – 2013. A Jisc-funded socio-technical infrastructure supporting deposit, curation & exposure of Open Access research literature.
+Repository Junction Broker, 2013 – 2015. A middleware service for handling the deposit of research articles from a provider to multiple repositories. This proto-service developed into Jisc's Publications Router.
+UK Access Management Federation, 2011 – 2016. EDINA provided support for the authentication service, which is now being run completely by Jisc. See the service website.
+EDINA is a centre for digital expertise and online service delivery at the University of Edinburgh. We are a division of Information Services.
+The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336.
+We are keen to learn how we can work with you.
+Latest News
+Developing Metadata Application Profiles - book published
+06/02/2017
+Practical guidance for any librarian learning to deal with data
+12/01/2017
+CLOCKSS Archive triggers two journals for open access
+10/01/2017
+EDINA across the web
+Twitter
+Facebook
+LinkedIn
+Blogs
+YouTube
+Contact Us
+EDINA
+University of Edinburgh
+3 Lady Lawson Street
+Edinburgh EH3 9DR
+Telephone: +44 (0)131 650 3302
+Email: edina@ed.ac.uk
+Get in touch
+Privacy & Cookies | Accessibility

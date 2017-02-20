@@ -1,0 +1,309 @@
+Managing Research Data blog
+Managing Research Data Blog
+Research data management home
+Blog
+Contacts
+RoaDMaP
+You are here:
+Home
+Research data management
+Blog
+MOOC over
+10-Feb-2017 by Nick Sheppard
+Well I passed...but my noble intention was to post every week about the course content, which I only managed for weeks one and two with a half-finished post languishing for week 3 ' Working with data'. Instead and in lieu of paying Coursera for a course certificate, I'll just leave this here as proof of completion and try to pick out a few highlights below and how they relate to our service here at Leeds:
+In my defence, this course was obviously an adjunct to my day job and though the content was good, I was disappointed by the lack of community, with very little activity on the course forums such that I gained little from the MOOC format than just working through the self-paced MANTRA course. Inevitably, also, this course was necessarily generic and one of the big challenges of RDM education I think is applying the theoretical principles to specific disciplines - indeed this is common feedback from the Research Data Management Essentials training we deliver at Leeds (I've just signed up for Data Management for Clinical Research from Vanderbilt University which started this week and which might inform our engagement with the Faculty of Medicine and Health).
+Probably the main lesson I've learned, from the day job and reinforced by this course, is that each aspect of RDM is related to all the others which really drives home the importance of good data management planning.
+Week 3: Working with Data
+Good file management in research is so obvious that a lot of researchers don't give it proper consideration (citation needed) and it's important to adopt conventions for directory structure, folder naming, file naming and versioning files, especially where files will be shared across a research team or with project partners. For University of Leeds guidance see https://library.leeds.ac.uk/research-data-organisation.
+Storage, backup and data security is also crucial during the live stage of a project and we spend a lot of time poring over data management plans, advising researchers of institutional best practice. A challenge here is the sheer number of relevant institutional policies and we are working on a tool that helps to navigate these issues under the rubric 'Safe Data Sharing Essentials'
+File formats and transformations - Given the sheer number of proprietary file formats this is a major consideration for potential data reuse and for long term archiving and RDL recommends that wherever possible data should be saved in an open, non-proprietary, format. Of course this is not always possible and in a large, research intensive University there will always be specialist software outputting more or less exotic files and we must make informed decisions around reuse and preservation.
+The UK Data Archive provides a table of optimal data formats but it is pragmatic rather than comprehensive and there is PRONOM, the technical registry from the National Archives, more comprehensive but less user-friendly.
+We have been thinking about developing a resource to help inform these decisions, perhaps based on local file formats - a good idea from the University of Edinburgh that we might borrow is their File Format Registry Wiki.
+I'm also looking forward to this upcoming webinar from the Open Preservation Forum on 27th February, Managing the Research Data Challenge.
+Week 4: Sharing Data
+The clue is in the title that we also anticipate our 'Safe Data Sharing Essentials' toolkit will enable, well, safer sharing of data, especially (not only) qualitative data from human participants, through informed consent, ethical review and appropriate anonymisation for example.
+As identified recently by David Kernohan "the point of article submission may be the first time a research has encountered the need to manage or share data" [Uses and abuses of journal data policies (part 1)] which can cause problems where there is inadequate consent for future reuse, for instance, and which may not have been fully considered at ethical review. We hope the toolkit will encourage data sharing, with safeguards where necessary (e.g. restricted access subject to an end user agreement.)
+Week 5: Archiving Data
+As per the earlier observation, archiving data cannot be taken in isolation and is probably the area in which I personally have the most to learn. We have begun to liaise with colleagues from Special Collections, looking at our respective data deposit workflows and it has been interesting to learn about their use of Bitcurator to analyse files. In addition to file formats/handling/preservation there are also synergies across our teams on policy and legal issues.
+Special Collections have recently been awarded Accredited Archive Service status from the National Archives and we have also begun to think about working towards equivalent certification for our service, most likely the Data Seal of Approval.
+Add a comment.				 	»
+Open Research Leeds
+06-Feb-2017 by Nick Sheppard
+Since it was set up in January 2012, mandated by Jisc as part of the Roadmap project, the Research Data Leeds @ResDataLeeds Twitter account has been somewhat underused with a grand total of 7 tweets between 2012 and 2015.
+Latterly, however, we have been utilising the account a lot more, focusing on building a network, disseminating datasets and highlighting broader issues around RDM and scholarly communication so we are rebranding the account as Open Research Leeds @OpenResLeeds and will explicitly disseminate open access research papers from WRRO and associated datasets as primary research outputs. Please come and join our network!
+Add a comment.				 	»
+On metrics
+30-Jan-2017 by Nick Sheppard
+Research Data Leeds is now being tracked by altmetric.com and by IRUSdata-UK which means we can begin to actively contribute to Jisc's R&D Project - Research data metrics for usage.
+Currently any social dissemination from RDL can euphemistically be described as "extremely limited" with the only activity so far having been posted by yours truly:
+We needn't be too disheartened however given that the emphasis thus far, at Leeds and elsewhere, has been on developing infrastructure and policy, identifying and promoting best practice.
+It's also perhaps not that common for researchers to disseminate their datasets independently from their papers (or to cite others' data?) and we should take the lead in dissemination, promoting data as a primary research output in its own right:
+Research data by its nature is esoteric, and tribology (the science and technology of interacting surfaces in relative motion) is unlikely to be of wide general interest. Nevertheless there is a great deal we can do to increase the chance of discovery by specialists, by building and interacting with appropriate networks for example (a search for #tribology on twitter indicates there's a potential networked audience) and by optimising repositories and their metadata.
+One aspect to this is another Jisc project, the UK Data Discovery Service (UKDDS) which Leeds has contributed to and which is now in phase 3, during which Jisc plan to add additional research data collections into UKDSS from UK HEIs and Data Centres and also get everyone involved with the Research Data Metrics for Usage project (see recent post from Jisc's Chris Brown).
+As of yesterday we are now one of 20 repositories that have installed a plugin which pings the IRUS server with a defined OpenURL string every time an item is downloaded from the repository, and which complies with the COUNTER code of practice (thanks to Paul Needham at Cranfield for his help with this.)
+Participants are listed here along with a link to the respective repositories and break down in terms of software as follows:
+Platform
+No. of repositories
+No. of items
+Downloads to Dec 2016
+Downloads in Jan so far
+Total downloads
+DSpace
+4
+489
+6,909
+736
+7,645
+EPrints
+11
+1,668
+40.667
+3,705
+44,370
+Fedora
+1
+194
+7,839
+853
+8,692
+Figshare
+4
+149
+4,806
+609
+5,415
+It will be a little while before I can get any meaningful download stats for Research Data Leeds and in the meantime I'll explore data for other repositories; it will also be interesting to run doi's against the altmetric api to see if there are any high scores among them (using the method described here http://ukcorr.org/2015/06/12/ranking-altmetrics-diy/).
+Add a comment.				 	»
+Data Management Planning
+16-Jan-2017 by Nick Sheppard
+Only weeks into January and like an inveterate smoker, I'm struggling to honour my New Year's resolution and falling behind in my MOOC. Largely due to already scrabbling up the learning curve of a new role. When I do get round to it I find it very useful and naturally complementary to everything I am learning on the job.
+We're now approaching the end of week 3...but I only completed the assignment for week 2 yesterday, focused on the humble Data Management Plan, or DMP to its friends.
+The practical assignment presented us with a scenario to use as the basis for a DMP, suggesting a couple of tools, DMPTool from the University of California and DMPOnline from the Digital Curation Centre as well as the framework provided by the DCC Checklist for a Data Management Plan, v4.0. From a UK perspective it might be more typical to use DMPOnline but I've already had a play with that so in honor (sic) of today's Presedential inauguration and the Special Relationship I chose to try DMPTool which also includes a template from NSF-SBE as cited in the scenario.
+As a newcomer to RDM it's the sheer complexity of the myriad aspects and associated best practice that is so daunting which is where formal planning comes in, to impose some order on the primordial project chaos.
+Using the DCC Checklist a DMP breaks down as follows:
+A DMP then serves two primary functions:
+to describe the data produced in the course of a research project
+outline the data management strategies that will be implemented both during the active phase of the research project and after the project ends
+Research funding bodies, including the Economic & Social Research Council (ESRC), the Engineering and Physical Sciences Research Council (EPSRC) and the Wellcome Trust in the UK as well as the EU Horizon 2020 programme, increasingly require a DMP as part of the application process but even if you don't have formal funding for your research, writing a DMP can be an invaluable exercise, for PhD and other Post Graduate Researchers for example, which was the focus of a recent training session delivered by my colleagues Rachel and Graham, 'Research Data Management Essentials for your Research Degree' (this was delivered to a cohort of 24 PGRs with more signed up than showed up. There is a waiting list for future sessions so clearly an appetite for RDM amongst PGRs, see here for details of future sessions.)
+Back to research funding bodies, who I have no doubt wish to make life easier for researchers, also require a DMP for somewhat more pragmatic purposes:
+Transparency and openness - since many funding bodies are allocating public money, they have a responsibility to ensure research outputs are preserved and made accessible to the public
+Return on investment - maximise potential reuse of data and if someone invents the wheel, ensure that money doesn't need to be spent again to reinvent it
+By now I do have some experience of real life DMPs, mainly based on our application stage template which is primarily to identify any potential costs but which we also use to promote best practice; for the practical exercise I tried to expand beyond the parameters of the supplied case study rather than just rewrite it in the form of a DMP.
+For example, the scenario refers to computer-assisted telephone interviewing (CATI) software where "the final, cleaned data will consist of a single SPSS file" but I googled CATI (outputs as something called Blaise data files) and tried to think through the implications of SPSS as a preservation format:
+Data format and dissemination
+Blaise data files are a proprietary data format and therefore not suitable for preservation and data sharing.
+SPSS is also proprietary software, nevertheless in widespread use within research institutions and unlikely to
+present access problems in the short to medium term. However the data will also be exported as .csv where
+possible and (anonymised) interview transcripts will be retained as plain text (.txt) to ensure accessibility
+without specialist software.
+I found DMPtool fairly user-friendly though the NSF-SBE template arguably repeats requirements in some of the section guidelines, also commented upon by others, and could perhaps be clearer to avoid overlap.
+The other aspect of data management planning that I am particularly interested in is the emphasis that it should be a 'living' document, revisited throughout a research project. I may be wrong but I get the sense that this rather paid lip-service and would like to explore tools and strategies to prompt a PI to proactively revisit their DMP. I was at pains to emphasise this in my own plan stating that "it will be proactively reviewed on a monthly basis and/or at
+suitable project milestones (TBC)". It won't of course, but I have the excuse that this is only pretend...
+Add a comment.				 	»
+Research Data Management and Sharing - Coursera MOOC, week 1
+06-Jan-2017 by Nick Sheppard
+True to my New Year's resolution I've completed week 1 of the Coursera MOOC from The University of North Carolina at Chapel Hill and The University of Edinburgh.
+I've found the course content reasonably engaging so far, largely as revision given my recent immersion in all things RDM, and I managed to pass the quiz on Understanding Research Data (14 items) first try, albeit not with full marks (86% - I got wrong a question associated with the Research Data Lifecycle but that was more an issue of terminology. That's my excuse anyway.)
+I've been working at the sharp end of RDM now for a whole month and have obviously been on a steep learning curve (discounting that week watching telly and eating chocolates) so my reasons for wanting to do this course are not only to consolidate my own learning but also to engage with the RDM community and to check out options for RDM training here at the University of Leeds. I have previously explored the excellent MANTRA resource from the University of Edinburgh which heavily informed my interview presentation, Research Data Management: Partnering with research way back on 19th September.
+The 'M' part of this MOOC does appear to be more minuscule than massive at the moment with no activity on the discussion forums. Some other MOOCs I've taken have erred at the opposite extreme with thousands of threads to sift through. I'm also currently the only one using the #RDMSmooc hashtag on twitter.
+Perhaps the first week in January is just not the best time for a somewhat niche area of interest while the rest of the population is focused on trying to break their mince pie habit and other more mainstream resolutions? (According to a slidedeck from Edinburgh's Pauline Ward, the cohort for March-April 2016 comprised 1,294 "Active Learners" and resulted in 273 "Course Completers")
+In terms of actual content, week 1 has been about the basics, "understanding research data" in 2 main sections, "What are data?" and "Understanding Data Management" comprising several short videos delivered by Dr Helen Tibbo with interactive transcripts along with a summary and additional resources (which I've collated in Mendeley and added to an open Mendeley group here.)
+There were also a couple of Supplementary Videos featuring real academics and information professionals discussing their real life experiences.  I found these particularly engaging, perhaps unsurprising given my surfeit of theoretical learning to date, also somewhat ironic given our "post-truth" age: "So when you make a statement about the world or about anything in it, you're relying on some evidence for that statement." Try telling that to the politicos!
+As my own theoretical knowledge of RDM segues into the practical, I found Nancy Y. McGovern's statement a suitable conclusion for week 1 "I certainly get the sense in libraries that people feel like we have a completely known set of data management practices. I don't believe we do. I think for a lot of domains those practices are still emerging. So, I think that we should be really open to identifying new kinds of data management practices, and figuring out what our role might be in them."
+So all in all I'm looking forward to week 2 "Data Management Planning", just be nice to have some company!
+Add a comment.				 	»
+My New Year's resolution...
+22-Dec-2016 by Nick Sheppard
+To complete a MOOC!
+I've started a few, including Research Data Management and Sharing from Coursera which is co-delivered by Helen Tibbo, University of North Carolina and Sarah Jones from the Digital Curation Centre based at the University of Edinburgh.
+I'm not sure I've ever stuck to a New Year's resolution either but the next cohort starts on 2nd January 2017 and runs for 5 weeks, which is longer than I've been formally working on RDM so I really have no excuse.
+By committing publicly here to blogging throughout the course, hopefully this time will be different. If you would like to join me sign-up at Coursera and follow #RDMSmooc on Twitter.
+The syllabus:
+Week 1: Understanding Research DataWeek 2: Data Management PlanningWeek 3: Working with DataWeek 4: Sharing DataWeek 5: Archiving Data
+Season's greetings and see you online in 2017 (when I also resolve to do more exercise, improve my diet, reduce my carbon footprint and generally be a better person...)
+Image source: https://commons.wikimedia.org/wiki/File:New-Year_Resolutions_list.jpg
+This work has been released into the public domain by its author. This applies worldwide.
+Add a comment.				 	»
+Ghosts of repositories past
+15-Dec-2016 by Nick Sheppard
+I don't remember Kennedy being assassinated in 1963 on account of not having been born but when Princess Diana was killed in on August 31st in 1997 I was living in a bedsit in North London.
+Well there was another dramatic JFK moment on Wednesday June 24th 2015 when Jorum, the national OER repository, was retired. At least if you were working in educational technology. I was presenting at an OER workshop organised by CILIP when the news broke, where all the speakers were referencing Jorum as central to their practice. That particular event was on "Using free, shared, information literacy resources" and a significant Jorum initiative had been to curate themed collections of resources including 'Information and Digital Literacy Skills' and 'Research Data Management'.
+In theory OERs from Jorum are available from Jisc's new app and resource store (currently in beta). Currently a search for "RDM" allegedly returns 17 results but I can only see two of these (perhaps a temporary beta issue?) An archived snapshot of Jorum is also available from the Wayback Machine but as far as I can tell most of the browse or search functionality doesn't work and resources can't be downloaded.
+In any case I was pleased to discover that a large number of RDM resources, including but not only those from Jorum, have been archived by Laura Molloy in Zenodo - https://zenodo.org/communities/dcc-rdm-training-materials/?page=1&size=20
+Of course OER lives on after Jorum, in its own right and as part of broader open scholarship, and I'm very interested in some of the commonalities between OER and RDM both in the technical context of repositories - complex and esoteric file types, potentially interactive content - and in terms of educational potential. In the context of research led teaching, are openly licensed research data de facto OER?
+1 comment.				 	»
+Other RDM blogs
+13-Dec-2016 by Nick Sheppard
+I can't figure out if I can add RSS feeds from other blogs to this platform (Jadu) so just dropping some links in here for the time being. Passers by please let me know if you are aware of any others:
+Research Data and related topics (Jisc)
+Digital Curation News
+Digital Archiving at the University of York
+Edinburgh Research Data Blog
+N.B. I found these above on a Google Site from the University of Sheffield
+Research Data Alliance (blogs)
+Highly Relevant - Research support news from the Lancaster University Library
+Unlocking Research (University of Cambridge)
+LSHTM Library blog
+Feedly from Jez Cope as commented:
+http://feedly.com/jezcope/Research%20data%20management
+1 comment.				 	»
+An introduction (to RDM)
+12-Dec-2016 by Nick Sheppard
+As the very newest member of the Research Data Management team here at Leeds, Rachel has seen fit to entrust me with the password for this blog and for the Twitter account @ResDataLeeds, both of which we hope to use to communicate with institutional stakeholders and with the wider RDM community.
+I have worked in Scholarly Communications for nearly ten years supporting Open Access (OA) and repository systems up the road at Leeds Beckett University, including exploring issues around RDM. Inevitably, though, I am currently on a steep learning curve, albeit one that the sector as a whole is still traversing together.
+Resoundingly the case has now been made for Open Access to research papers, if not necessarily the best mechanism to achieve it (gold or green routes), and the sector is moving (almost) as one, with HEFCE requiring that to be eligible for REF submission, journal articles and conference papers must be deposited in an open access repository on acceptance for publication. There is also an evolving consensus that underlying research data should also be made available, openly where possible but with suitable access restrictions where necessary - for reasons of commercial sensitivity for example.
+While HEFCE do not currently advocate a comparable mandate for research data, their consultation paper published last week asks how they can incentivise units of assessment to share and manage their research data more effectively as well as emphasising that research datasets and databases that meet the REF definition of research* will (continue to) be eligible for submission in the outputs element of the assessment (HEFCE, 2016).
+Whether or not you are thinking about the REF, as a key element of the research process, RDM should be considered at the very outset of a research project and a plan put in place to manage data throughout its lifecycle as illustrated below:
+© Stuart Macdonald/EDINA. Used with permission
+See our guidance for more information around how we can support your data management planning at the University of Leeds or please get in touch
+* Definition of research for the REF
+1. For the purposes of the REF, research is defined as a process of investigation leading to new insights, effectively shared.
+2. It includes work of direct relevance to the needs of commerce, industry, and to the public and voluntary sectors; scholarship8; the invention and generation of ideas, images, performances, artefacts including design, where these lead to new or substantially improved insights; and the use of existing knowledge in experimental development to produce new or substantially improved materials, devices, products and processes, including design and construction. It excludes routine testing and routine analysis of materials, components and processes such as for the maintenance of national standards, as distinct from the development of new analytical techniques. It also excludes the development of teaching materials that do not embody original research.3. It includes research that is published, disseminated or made publicly available in the form of assessable research outputs, and confidential reports (as defined at paragraph 115 in Part 3, Section 2).
+Assessment framework and guidance on submissions (Annex C, p48)
+Add a comment.				 	»
+How the Institutional Data Repository helped me promote my data
+07-Sep-2016 by Rachel Proudfoot
+Guest post from James Mooney, Lecturer in Music Technology, University of Leeds
+As part of International Data Week, Sept 11-17 2016, James Mooney reflects on his experience of using the Research Data Leeds institutional data repository.
+Background
+I have recently completed a project that involved curating, researching and staging three performances of live electronic music compositions by the English composer Hugh Davies (1943-2005). Staging these concerts has, in many cases, involved building the equipment required to perform them from scratch, based on incomplete or ambiguous information gleaned from archival documents. In addition, these are experimental pieces, with scores that comprise text-based instructions and descriptions rather than standard notation, as well as other inherently unpredictable elements that mean that the pieces turn out differently every time they are performed. These were, in other words, pieces that could only be fully understood by performing them. In this situation, the practice-based elements of the project - that is, the performances - are a valuable project output in their own right, since they convey much more about the nature of the pieces than could ever be understood from any abstract or theoretical description of them.
+Rationale
+I was interested in using the Research Data Leeds Repository because it offered the possibility of rendering these performances as outputs - entities as concrete, readily identifiable, and as easy to reference as, say, a journal article would be.
+Using the Repository allowed each of these three concerts to be packaged as an output, complete with title, abstract, DOI, and authorial information, as well as video-recordings of the pre-concert talk and each of the pieces themselves, and programme notes in PDF format. In this way they could be: (a) preserved for posterity; (b) viewed and auditioned by individuals who were not able to attend the original events; and (c) used and referenced in future research.
+Preparation of Materials
+In anticipation of their inclusion in the Repository, all three performances were video recorded. Detailed pre-concert lectures delivered in advance of each of the three concerts were also video-recorded. Extensive programme notes - prepared in hard copy for the performances themselves - were also retained in PDF format for inclusion in the Repository.
+Decisions also needed to be made in relation to the 'granularity' of the materials to be presented. Would we, for example, package each individual piece as a separate entity within the Repository, or would one entity per concert be preferable? Would we include separate video files for each individual piece performed, or a single continuous video file for each concert? Or both? Ultimately, we opted for one entity per concert but with separate files for each individual piece. This configuration, we felt, represented the best balance between representing the original aims of the project (which had specified three concerts as outputs), and catering the potential needs of future researchers (who might appreciate being able to refer to individual pieces quickly and easily).
+Having made these decisions, the video-files naturally had to be prepared accordingly. The videos of the concerts were edited so as to provide an individual video-file for each piece performed. Titles and credits for each individual piece were added using Final Cut Pro.
+Readying these materials for the Repository also necessitated gaining permission from the various rights-holders, including composers (or their next of kin, if deceased), performers, and in some cases, publishers. If carried out methodically, this need not represent too onerous an administrative burden. In this case, a standard email was drafted, and responses recorded in a spreadsheet, which was then uploaded to the Repository along with the other materials.
+Access the Hugh Davies data online.
+Benefits and Applicability
+Packaging the concerts as outputs in this way represents a more sustainable option than using websites like YouTube and Vimeo, where the continued availability of the videos is contingent upon the integrity of one individual's user account (which could cease to be maintained for a variety of different reasons), and upon third-party terms and conditions that may change unpredictably. It also represents a preferable option to hosting such outputs on an individual's personal website, or on a bespoke institutionally-hosted one, since these options will only be effective for as long as somebody is ready and able to maintain them. In contrast with these less-than-ideal options, the Repository allows these outputs to be preserved in perpetuity, theoretically at least.
+Depositing materials in this way would potentially be beneficial for any research-based activity that incorporates a practice-based element. For the current project, similar repositories are planned as documentation for the project exhibition, and as a 'video proceedings' for the project conference. So long as appropriate materials (e.g. video and other digital formats) are gathered while the practice is under-way, such materials can be combined with a title and abstract at a later date, and packed as an output, complete with digital object identifier (DOI).
+Colleagues writing funding proposals may wish to build plans for packaging outputs in the Repository into their grant applications. This would doubtless be attractive to funders, who will welcome any efforts to assure the sustainability of digital outputs.
+James MooneyLecturer in Music TechnologySchool of MusicFaculty of Performance, Visual Arts and Communications University of Leeds                                                                                                                                                                                                                                                                                                          http://music.leeds.ac.uk/people/james-mooney/
+Related links
+International Data Week 11-17 Sept 2016
+Research Data Leeds repository
+The Hugh Davies data in the Research Data Leeds repository
+Add a comment.				 	»
+Next
+Subscribe to blog feed
+Search Managing Research Data blog
+Recent posts
+MOOC over
+Open Research Leeds
+On metrics
+Data Management Planning
+Research Data Management and Sharing - Coursera MOOC, week 1
+My New Year's resolution...
+Ghosts of repositories past
+Other RDM blogs
+An introduction (to RDM)
+How the Institutional Data Repository helped me promote my data
+Archives
+February 2017
+January 2017
+December 2016
+September 2016
+May 2015
+March 2015
+February 2015
+September 2014
+July 2014
+May 2014
+March 2014
+October 2013
+July 2013
+June 2013
+April 2013
+March 2013
+February 2013
+December 2012
+November 2012
+October 2012
+September 2012
+July 2012
+June 2012
+March 2012
+February 2012
+January 2012
+Tags
+#RDMSmooc
+AHRC
+altmetics
+altmetric
+arts
+BBSRC
+benefits
+blogs
+book
+case study
+COUNTER
+Coursera
+data
+data management planning
+DataFlow
+DCC
+DMP
+DMPOnline
+DMPTool
+engineering
+EPrints
+ESRC
+F5
+file formats
+format
+funder requirements
+HEFCE
+humanities
+IRUSdata
+Jisc
+JISCMRD
+JiscRDM
+Jorum
+MANTRA
+metadata
+monograph
+MOOC
+MRC
+music
+NERC
+OA
+OER
+open access
+Open Research Leeds
+OpenResLeeds
+performance
+project update
+publisher
+qualitative-longitudinal data
+RCUK
+RDM
+RDM policy
+RDMSmooc
+RDMSMooc
+regional collaboration
+repositories
+repository
+repository requirements
+research support staff
+sharing
+Sheffield
+SpinFX
+statistics
+STFC
+storage
+survey
+Timescapes
+training
+tribology
+Twitter
+virtualised storage
+Wellcome
+White Rose
+White Rose Consortium
+York
+Zenodo
+Back to the top
+Terms and conditions
+Privacy

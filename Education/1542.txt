@@ -1,0 +1,71 @@
+BBC News Archive - Matthew Somerville
+Matthew Somerville
+BBC News Archive
+As well as the home page archive,
+I try and maintain an archive of the BBC News front page,
+which can be used to generate some interesting data.
+Welcome to the Tardis.
+Disclaimer: As these are just prototypes, some of these require JavaScript to work
+properly and aren't guaranteed to work in everything (though I hope they do).
+Tag Clouds
+An interesting way of summarising the BBC headlines.
+Main headline, time weighted
+Main headline, not time weighted
+All headlines, not time weighted
+History of individual stories
+A timeline, both visual and textual, for each unique story
+mentioned on the front page. For example, the history of
+#4771586,
+Crash lands shock Oscar triumph.
+This is interlinked from the other prototypes.
+Searches
+Image Search
+This prototype searches the headline text and alternate text of photos used to illustrate
+stories on the front page of BBC News, and displays the photos that match:
+(e.g.
+Clarke)
+Category Search
+Search headlines by category using this prototype:
+AfricaBackground/ Preparation_-_will_not_publishBusinessBusiness/ CompaniesCricketCricket/ EnglandEducationEnglandEngland/ Beds/ Bucks/ HertsEngland/ BerkshireEngland/ BradfordEngland/ BristolEngland/ CambridgeshireEngland/ CornwallEngland/ Coventry_warwickshireEngland/ CumbriaEngland/ DerbyshireEngland/ DevonEngland/ DorsetEngland/ EssexEngland/ GloucestershireEngland/ HampshireEngland/ Hereford/ WorcsEngland/ HumberEngland/ KentEngland/ LancashireEngland/ LeicestershireEngland/ LincolnshireEngland/ LondonEngland/ ManchesterEngland/ MerseysideEngland/ NorfolkEngland/ North_yorkshireEngland/ NorthamptonshireEngland/ NottinghamshireEngland/ OxfordshireEngland/ ShropshireEngland/ SomersetEngland/ South_yorkshireEngland/ Southern_countiesEngland/ StaffordshireEngland/ SuffolkEngland/ TeesEngland/ TyneEngland/ WearEngland/ West_midlandsEngland/ West_yorkshireEngland/ WiltshireEntertainmentEntertainment/ ArtsEntertainment/ FilmEntertainment/ MusicEntertainment/ ShowbizEntertainment/ Tv_and_radioFootballFootball/ World_cup_2006Front_pageHealthIn_picturesNorthern_irelandOther_sportsOther_sports/ Olympics_2012Other_sports/ Winter_sportsPrep_obits_-_will_not_publishProgrammesProgrammes/ MoneyboxProgrammes/ NewsnightProgrammes/ PanoramaProgrammes/ Real_storySci/ TechScience/ NatureScotlandScotland/ Edinburgh_and_eastScotland/ Glasgow_and_westScotland/ Highlands_and_islandsScotland/ North_eastScotland/ South_of_scotlandScotland/ Tayside_and_centralSport/ AthleticsSport/ Commonwealth_gamesSport/ CricketSport/ Cricket/ EnglandSport/ Cricket/ Other_international/ PakistanSport/ FootballSport/ Football/ EuropeSport/ Football/ Fa_cupSport/ Football/ InternationalsSport/ Football/ Teams/ C/ CelticSport/ Football/ Teams/ E/ EvertonSport/ Football/ Teams/ L/ LiverpoolSport/ Football/ Teams/ M/ Man_utdSport/ Football/ World_cup_2006Sport/ Football/ World_cup_2006/ Teams/ EnglandSport/ Football/ World_cup_2006/ Teams/ FranceSport/ Front_pageSport/ GolfSport/ Other_sports/ CyclingSport/ Other_sports/ Olympics_2012Sport/ Other_sports/ Winter_sportsSport/ TennisTalking_pointTechnologyUkUk_politicsUk_politics/ WalesWalesWales/ MidWales/ North_eastWales/ North_westWales/ South_eastWales/ South_westWorldWorld/ AfricaWorld/ AmericasWorld/ Asia-pacificWorld/ EuropeWorld/ Europe/ GuernseyWorld/ Europe/ Isle_of_manWorld/ Middle_eastWorld/ Middle_east/ Country_profilesWorld/ South_asia
+Headline Search
+This prototype searches the headline text for
+stories on the front page of BBC News:
+(e.g. Iran)
+Search
+This general search prototype looks through the headline text and accompanying text for
+stories on the front page of BBC News, linking through to the
+timeline prototype.
+(e.g. Clinton)
+Categories
+An improved version of a current prototype, showing the
+distribution over time by category of headlines.
+Image timeline
+Displaying all the pictures used to illustrate front page stories,
+the image timeline provides a
+visual overview of a month's news. This page is large, and can be
+slow to load.
+Story timelines
+Any combination of stories can be plotted on a visual timeline.
+The system also lets you store one you've created (by using the
+search) with a title for ease of access; for example, the
+timeline of Big Brother 2007.
+Metadata
+The following dates are missing from my archive
+and prototypes, due to various problems such as server failures:
+2005
+1st–3rd, 5th–7th, 30th November; 6th–31st December
+2006
+26th January, 4th–5th September, 25th–31st October,
+13th–18th and 27th–30th November, 11th–21st December
+The following dates are missing from the archive,
+but are still in the prototypes, as the summary files
+were made before I lost the archived archive:
+2006
+1st–24th October
+Tagcloud generation code mostly from
+Chriag Mehta's code.
+Slider by Erik Arvidsson.
+Matthew’s ramblings on Twitter
+Matthew’s code on GitHub
+Matthew’s photos on Flickr
+Get in touch

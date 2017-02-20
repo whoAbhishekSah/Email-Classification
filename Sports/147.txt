@@ -1,0 +1,191 @@
+Observations of the diverse wildlife found in Lincolnshire, UK.
+. . . . Page Index . . . .
+This page
+Home - Introduction
+Recent updates
+Use of images
+Site evolution
+Acknowledgements
+Feedback (contact)
+Links
+Site Map (species index)
+Butterflies
+Micro Moths a
+Micro Moths b
+Macro Moths 1
+Macro Moths 2
+Macro Moths 3
+Macro Moths 4
+Macro Moths 5
+Macro Moths 6
+Beetles Page 1
+Beetles Page 2
+- Weevils
+- Ladybirds
+Bugs
+Dragonflies, etc.
+Flies Page 1
+Flies Page 2
+Flies Page 3
+Hoverflies
+Sawflies
+Bees and Wasps
+Other Insects
+Spiders
+Galls page 1
+Galls page 2
+Plants
+Animals
+Birds page 1
+Birds page 2
+Leeches, etc.
+What is it?
+page updated01.10.2016
+"A Nature Observer's Scrapbook"
+Introduction
+....... hopefully, that title, "A Nature Observer's Scrapbook", will imply that this site has no pretensions,
+in any way, to being an authoritive wildlife guide or a reference site.
+The images and diary records that follow simply represent the astonishing diversity of species that I have stumbled across in my 'home patch' near Horncastle in East Lincolnshire, UK. The entries date from 2003 when I bought my first digital camera. Initially I thought I might find half a dozen butterflies, a few moths and one or two beetles but I gradually awoke to the huge variety of natural wonders that exist all around us - if only we care to stop and look. On a few occasions I have gone out with the deliberate intention of looking for something in particular. I rarely find what I am looking for but, I do come across all sorts of surprises and chance encounters.
+Initially, I tried to keep my intrusion into the natural world to a minimum and most subjects were photographed as they were found. But latterly, hand tremor has made that less successful and I have resorted to carefully scooping up tolerant subjects and bringing them indoors where I have more camera control - and can occasionally add a scaled background which is vital for identification of a lot of species. All specimens are then released back from whence they came, to their natural environment.
+NB.
+All dates are in the dd.mm.yyyy format.
+Changes to the site since 6th April 2014.
+The most recent updates are at the top and clicking on a specific 'Update' should take you directly to that item.
+DatePageUpdate
+01.10.2016
+Other Insects
+Scorpion Fly (revised text)
+31.08.2015
+Butterflies
+Holly Blue (new image and text)
+27.05.2015
+Spiders
+Nursery Web Spider (new image and text)
+27.02.2015
+Macro Moths Page 5
+Burnished Brass (new species)
+24.02.2015
+Macro Moths page 4
+Green Pug (new image)
+17.02.2015
+Macro Moths page 2
+Gem (new species)
+15.02.2015
+Birds page 2
+Robin (new species)
+14.02.2015
+Birds page 2
+Jay (new species)
+13.02.2015
+Birds page 2
+Pied Wagtail (new species)
+12.02.2015
+Birds page 1
+Dunnock/Accentor/Hedge Sparrow new species.
+Birds page 1
+Lapwing, new image.
+11.02.2015
+Birds page 2
+Fieldfare, new image.
+Birds page 2
+Turnstone, new species.
+25.01.2015
+Birds page 2
+Blackbird, new species.
+22.01.2015
+Birds page 2
+Fieldfare, new species.
+Birds page 2
+Redwing, new species.
+18.01.2015
+Macro Moths page 4
+Flightless female Winter Moth, new image
+13.01.2015
+Birds page 2
+Long-tailed Tit, new species added
+12.01.2015
+Birds page 2
+Goldfinch, new species added
+Birds page 2
+Chaffinch, new species added
+Birds page 2
+Blue Tit, new species added
+Birds page 2
+Great Tit, new species added
+Birds page 2
+Coal Tit, new species added
+15.11.2014
+Macro Moths page 4
+Winter Moth text updated, new image.
+10.11.2014
+Macro Moths page 2
+Mottled Umber, new male moth image.
+20.04.2014
+Spiders
+Clubiona, Sac spider, text correction.
+06.04.2014
+Flies page 2
+Bee-fly, new images and text update
+Use of images.
+I am only too well aware that there are many excellent images out there on the web but, copyright issues often do not make it possible to use them to embellish what I have found. Therefore, where it is felt appropriate, links are provided pointing to parent websites where topic supportive images can be viewed.
+By the same token, all images on this site are copyright protected and inbound links are allowed.
+While the use of individual images may be favourably approved for non web based personal use, educational, charitable or non-profit purposes (provided that the copyright attribution is retained), formal approval should be sought from ....
+. . . . .
+this mail address
+.... advising of the circumstances in which a specific image will be used.
+Publication approval for any other purpose will be considered on its merits.
+Site evolution.
+This DIY attempt at a multi-linked-page site (using X/HTML and CSS) started out way back in 2004 as a 'for my eyes only'
+concept - a sort of, 'I wonder how that's done?', experiment. It was a tortuous road with many visits down
+blind alleys.
+I cannot claim that the site was 'designed'. It just grew. As problems were solved other options opened up.
+It was initially developed on an IE6 browser and a 15 inch monitor with a screen resolution of 1024 x 768 pix. (That's
+by way of an excuse should any 'odd' things show up on your system.)
+After some persuasion to 'embrace a multi browser audience' - and many tweaks, twiddles and
+validation cycles later, it appears to comply with W3C X/HTML and CSS standards. It 'should' now
+be viewable (more or less as intended) with the IE6, IE7, IE8 (in 'compatibility' mode), Opera 7.23, Mozilla 1.6 and the Apple Safari browsers.
+One of my self imposed goals was to keep the lefthand navigation sidebar viewable at all times. As a result, the layout
+is a bit lop-sided when viewed full screen in Opera and Mozilla but that is an attempted compromise to keep
+the content viewable should anyone want to use a minimised window.
+Acknowledgements.
+While building the site, I relied heavily on a well thumbed edition of,
+'A Visual Quickstart Guide',
+HTML for the World Wide Web , 5th edition, by Elizabeth Castro,
+- very good value at Amazon.co.uk.
+That apart, probably the best HTML teaching aids that I came across were the two validation engines that I used,
+the
+CSE HTML Validator Lite and the
+W3C MarkUp Validation Service .
+These validators not only point out what may be wrong with the coding, they also offer hints and suggestions about putting it right!
+And then there was the invaluable friendly help, advice and encouragement received
+from the
+uk.people.silversurfer newsgroup gang, who kept me going as I struggled through the 'dark days'.
+As the site audience grew and information accuracy became paramount I came to rely extensively upon the expertise of a large band of very knowledgeable experts, largely drawn from the Lincolnshire Wildlife Trust and the Lincolnshire Naturalists Union, for verification of species identification. Whatever merit the site may have is down to their enthusiastic help and encouragement - for which I am truly grateful.
+And finally, ....... feedback.
+Should you find any broken links, errors, typos, questionable statements or identifications or, indeed, any irritating facets of the site design, or maybe you have a follow-up question or general comment, please feel free to contact me at
+. . . .
+this feedback address.
+Thank you for viewing. I hope you found something of interest.
+Links.
+Mentioned within this site are several links to other websites where context supportive information can be found. The following sites are among those which I return to
+regularly and can recommend.
+Lincolnshire Wildlife Trust
+Lincolnshire Naturalist's Union
+'ukmoths' photo gallery
+Nature Notes from Skye
+Nature Notes from Argyll
+Paul Mabbott Ladybird Surveys
+Nature Diaries Webring
+[
+Join
+Now | Ring
+Hub | Random
+| <<
+Prev | Next
+]
+. . . .
+.....
+page visits to the website, since it's inception in 2005, have now been recorded by
+StatCounter.com .
+Website hosted by
+http://www.TouchdownOnline.co.uk

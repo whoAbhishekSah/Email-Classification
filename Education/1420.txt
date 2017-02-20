@@ -1,0 +1,351 @@
+Walking Through Time
+Historical Mapping using Locative Media
+Walking Through Time
+Home
+About
+Who
+Final blog post - Walking Through Time
+Posted by admin in Uncategorized on July 28th, 2011
+Walking Through Time closing blog
+This is a final closing blog post that summarises the achievements of JISC follow-on funding for Rapid Innovation - Benefits Realisation Small Project Funding.
+The WTT project has taken many turns in its two year history and has forged many links that continue to demonstrate the rich nature of both the idea behind it and the collaboration that made it happen.
+As of July 2011 the iPhone App has been downloaded over 9000 times and it continues to attract attention with limited marketing.
+The App site is here:
+http://www.walkingthroughtime.co.uk
+The link the to App in the Apple store is here:
+http://itunes.apple.com/gb/app/walking-through-time-edinburgh/id381528712?mt=8
+The app was launched at the end of July 2010 in time for the Edinburgh International Festivals. At this time the project team had secured an agreement with the Landmark Information Group to allow free public access to their historical maps for a period of time that covered the festival. This made the free app very attractive because along with 3 maps from the National Library of Scotland, the app allowed multiple maps of Edinburgh.
+In addition to the maps, two guided tours were included that featured audio files embedded within the app:
+1.
+Margaret Stewart a historian at the Edinburgh College of Art provided a very personal narrative to the history of places surrounding the Royal Mile.
+2.
+The Edinburgh World Heritage Trust recorded a selection of narratives by two Scottish actors to extend their popular House Histories trail.
+The tours appear as trails that are linked between landmarks in the map. Each landmark is identified by a pin point in the map, and touching/clicking the pin give access to text and audio file (where available).
+Gallery of working app (click here for larger images):
+Education and Cultural impact
+The app has made good impact into the education and cultural communities and WTT was presented through an invited lecture and accompanying workshop at the Digital Futures of Cultural Heritage Education symposium at the University of Edinburgh (DFCHE), March 2011. The DFCHE project was funded by the Royal Society of Edinburgh, and led in collaboration by the School of Education at the University of Edinburgh and the Royal Commission on the Ancient and Historical Monuments of Scotland and the National Galleries of Scotland. DFCHE had two specific aims: 1. To begin to establish a research agenda for museum and gallery education for the digital age, 2. To inform policy and practice in the use of social media and user-generated content by the Scottish cultural heritage sector.
+Business / Spin out
+Following the immediate success of the app during the Edinburgh Festival 2010 the project team began conversations with Landmark Information Group to develop a UK version of the app which would allow the public to walk/drive across the UK using an 1850 map. Particular excited by the prospect of finding out what was under the M1 as one drives to London, the idea, coupled with the exciting download statistics from the festival led to a series of conversations about a fully licensed product.
+Landmark remain keen to develop a product, however concerns over the pricing framework have meant that discussions have since stalled. In order to justify the release of UK wide maps, the company would have to charge a significant price for the app (something in the region of £4 for a single map).
+More recently following a presentation of the app at the Scottish Technology Showcase (7th June SECC, Glasgow) interest has now turned to developing international language versions of the app for Edinburgh Tourists. Since the app capitalises upon the free maps that are made available by the National Library of Scotland, and 60% of visitors to Edinburgh are international, developing foreign language versions may be better way of capitalising what the project team has achieved.
+Invited Talks
+The app has attracted a great deal of attention across academic communities for a number of reasons:
+1. For the GIS community the very user centred approach in its simplicity as an iphone App has given the team access discussions about how GIS technologies can access new audiences.
+2. The museum community has embraced the App as a model demonstrator of novel audience engagement that connects historical data with contemporary media.
+3. The IT / HCI community enjoy it’s critical design approach – the turn toward using old maps as oppose to adopting new cutting edge technology.
+These connections and interests have led to range of invited talks and presentations in which WTT was discussed in the context of multi-disciplinary production and agile development:
+SACHI: the St Andrews Computer Human Interaction research group
+St. Andrews University
+Invited research seminar: 29th March 2011
+http://sachi.cs.st-andrews.ac.uk/activities/seminars/
+Learning Sciences Research Institute, Nottingham University
+Invited research seminar: 11th January 2011
+http://portal.lsri.nottingham.ac.uk/Seminars/Lists/Events/Archived%20Events.aspx
+The Royal Commission on the Ancient and Historical Monuments of Scotland (RCAHMS), Edinburgh
+Invited research seminar: 8th August 2011
+http://www.rcahms.gov.uk
+Conference presentations
+The App has also been presented as part of a series of conference presentations and papers:
+The Digital Landscape Architecture conference, at Anhalt University of Applied Sciences, Germany. 26th to 30th May, 2010.
+Speed, C. and Southern, J. (2010) Handscapes - Reflecting upon the Use of Locative Media to Explore Landscapes.
+http://www.kolleg.loel.hs-anhalt.de/landschaftsinformatik/436.html
+Also published in the conference proceedings:
+http://www.abebooks.co.uk/9783879074914/Peer-Reviewed-Proceedings-Digital-Landscape-3879074917/plp
+MappingtheCITYinFILM a Geo-historical Analysis.
+An International Interdisciplinary Conference
+School of Architecture / School of Politics and Communication Studies
+University of Liverpool. 24th -26th February 2010.
+http://www.liv.ac.uk/lsa/cityinfilm/index.html
+Speed, C. (2010) Walking Through Time: Use of Locative Media to Explore Historical Maps.
+The Digital Humanities 2011 conference
+Stanford University Library, Stanford. 19th – 22nd June 2011.
+https://dh2011.stanford.edu/?page_id=3
+Co-organised Panel: Virtual Cities/Digital Histories featuring papers by:
+Robert C. Allen, Natasha Smith, Pamella Lach, Richard Marciano, Chris Speed, Todd Presner, Philip Ethington, David Shepard, Chien-Yi Hou, & Christopher Johanson
+Speed, C. (2011) Walking Through Time and Tales of Things.
+https://dh2011.stanford.edu/wp-content/uploads/2011/05/DH2011_BookOfAbs.pdf
+The App was also presented the Scottish Technology Showcase, Scottish Exhibition and Conference Centre, Glasgow. 7th June 2011.
+http://www.scottish-enterprise.com/microsites/technologyshowcase.aspx
+Awards
+ALISS (Association of Librarians and Information Professionals in the Social Sciences) is a not-for-profit unincorporated professional society. It is an independent group which was formed in April 2005 by the former committee of ASSIGN (Aslib Social Science Information Group and Network).
+http://www.alissnet.org.uk/
+Walking Through Time article / paper published in ALISS Quarterly was nominated for the first prize (£50)
+Chris Speed Walking Through Time in Volume 5, no. 3 ISSN 17479258, April 2010 of ALISS Quarterly
+http://www.alissnet.org.uk/uploadedFiles/Aliss_Quarterly/completeproofapril2010.pdf
+Network Activity
+Following the conference presentation at MappingtheCITYinFILM a Geo-historical Analysis in Liverpool in 2010, Speed was invited to consult and become a member of an AHRC/BT funded research network.
+Through a series of meetings the network established a small but critical community who offered expert inquiry into cultural opportunities for GIS and new media to engage with historical documents / material.
+http://www.liv.ac.uk/lsa/cityinfilm/intro.html
+Chapters
+Research from the WTT project has informed two book chapters:
+Mapping Cultures, published by Palgrave Books
+Edited by Les Roberts
+Chris Speed: Walking Through Time: Use of Locative Media to Explore Historical Maps
+Due early 2012
+Heritage and Social Media: Understanding and Experiencing Heritage in a Participatory Culture, published by Routledge books
+Edited by Elisa Giaccardi
+Chris Speed: Mobile Ouija Boards
+Due early 2010
+Link to code repository or API:
+Source Forge Site: http://sourceforge.net/projects/walkthrutime/
+download the XCode project here
+Project Team:
+Chris Speed, c.speed@eca.ac.uk - Edinburgh College of Art
+Ian Campbell, i.campbell@eca.ac.uk - Edinburgh College of Art
+Karlyn Sutherland, karlyn_sutherland@hotmail.co.uk, Edinburgh College of Art
+Dave Berry, Dave.Berry@ed.ac.uk - Information Systems, University of Edinburgh
+Peter Pratt, Peter.Pratt@ed.ac.uk - Information Systems, University of Edinburgh
+Petra Leimlehner, Petra.Leimlehner@ed.ac.uk - Information Systems, University of Edinburgh
+Jeff Haywood, Jeff.Haywood@ed.ac.uk - Information Systems, University of Edinburgh
+James Reid, James.Reid@ed.ac.uk - EDINA
+Tim Urwin, T.Urwin@ed.ac.uk - EDINA
+Project Website:
+◦    http://walkingthroughtime.eca.ac.uk/
+PIMS entry:
+◦    https://pims.jisc.ac.uk/projects/view/1718
+demonstrator, finalProgressPost, JISC, jiscri, output, product, progressPosts, prototype, rapidInnovation, WalkThruT
+No Comments
+Times Higher
+Posted by admin in Location Services,
+Smart Phones on January 14th, 2010
+Small but perfectly formed piece in todays Times Higher Supplement
+I do wish they would cite the whole team, but all news is good for WTT
+JISC, jiscri, news, press, WalkThruT, WTT
+No Comments
+News of the World!
+Posted by admin in GPS navigation,
+Location Services,
+Locative Media,
+Work on Project on January 6th, 2010
+Walking Through Time was featured as a full page news story in the Scottish national newspaper The Sunday Herald. On page 5 too!
+check out the online version here:
+http://www.heraldscotland.com/news/education/latest-iphone-app-lets-users-satnav-through-time-1.995767
+it seems to have captured the publics imagination.
+Published on 3 Jan 2010
+“Time travelling used to be an expensive, clumsy business.
+According to TV shows and films such as Dr Who and Back To The Future, would-be explorers of the fourth dimension need at least 1.21 gigawatts or a large blue police box to get anywhere. But a new iPhone application developed in Scotland could simplify the whole process.
+Walking Through Time is a new app created by academics at Edinburgh College of Art (ECA). It applies the satnav technology used by Google Earth, but instead of pinpointing where the user is on a current map, it shows where they would have stood two centuries ago.”
+endUser, jiscri, news, projectEvaluation, WalkThruT, WTT
+No Comments
+New public site
+Posted by admin in Uncategorized on December 30th, 2009
+We’re beginning to get some external interest so we thought we’d better make a more public site!
+here it is, small but beautifully formed:
+http://www.walkingthroughtime.co.uk/
+Add new tag, JISC, jiscri, WalkThruT, WTT
+No Comments
+WalkThruT: A web app that provides historical maps to people with smart phones
+Posted by admin in Uncategorized on November 28th, 2009
+Screenshots or diagram of prototype:
+•    http://walkingthroughtime.eca.ac.uk/?page_id=2
+•    Final copy of user manual and description
+Link to working prototype:
+Please contact: c.speed@eca.ac.uk to get URL
+Link to end user documentation:
+◦    We feel that the YouTube video was the most effective and user centred piece of explanatoy documentation:
+◦    http://www.youtube.com/watch?v=bJwYv-6wgf8
+◦    Micro Site: http://www.walkingthroughtime.co.uk
+Link to code repository or API:
+◦    Source Forge Site: http://walkingthrough.sourceforge.net/
+Link to technical documentation:
+◦    Technical Report
+Date prototype was launched:
+◦    User testing began throughout September, with a refined version available at the end of September: 30/9/09
+Project Team:
+Chris Speed, c.speed@eca.ac.uk - Edinburgh College of Art
+Ian Campbell, i.campbell@eca.ac.uk - Edinburgh College of Art
+Karlyn Sutherland, karlyn_sutherland@hotmail.co.uk, Edinburgh College of Art
+Dave Berry, Dave.Berry@ed.ac.uk - Information Systems, University of Edinburgh
+Peter Pratt, Peter.Pratt@ed.ac.uk - Information Systems, University of Edinburgh
+Petra Leimlehner, Petra.Leimlehner@ed.ac.uk - Information Systems, University of Edinburgh
+Jeff Haywood, Jeff.Haywood@ed.ac.uk - Information Systems, University of Edinburgh
+James Reid, James.Reid@ed.ac.uk - EDINA
+Tim Urwin, T.Urwin@ed.ac.uk - EDINA
+Project Website:
+◦    http://walkingthroughtime.eca.ac.uk/
+PIMS entry:
+◦    https://pims.jisc.ac.uk/projects/view/1350
+Table of Content for Project Posts
+◦    http://walkingthroughtime.eca.ac.uk/?p=32 - Technical Start
+◦    http://walkingthroughtime.eca.ac.uk/?p=98 - Is this the answer - Geolocation
+◦    http://walkingthroughtime.eca.ac.uk/?p=107 - Getting Started
+◦    http://walkingthroughtime.eca.ac.uk/?p=110 - Our Edinburgh?
+◦    http://walkingthroughtime.eca.ac.uk/?p=114 - The artists view
+◦    http://walkingthroughtime.eca.ac.uk/?p=118 - Meeting one a summary of work up to that point
+◦    http://walkingthroughtime.eca.ac.uk/?p=121 - Art meets Tech - Chris and Karlyns write up
+◦    http://walkingthroughtime.eca.ac.uk/?p=130 - Tech fights back - early prototyping using balsamiq
+◦    http://walkingthroughtime.eca.ac.uk/?p=150 - Mr Speed and his iPhone
+◦    http://walkingthroughtime.eca.ac.uk/?p=155 - Outline of what came next
+◦    http://walkingthroughtime.eca.ac.uk/?p=162 - Summary of the work up to that point
+◦    http://walkingthroughtime.eca.ac.uk/?p=169 - Cross Platform - how does Android look or the day before Dave came to visit
+◦    http://walkingthroughtime.eca.ac.uk/?p=176 - First cut is the deepest? A summary of feedback up to this point
+◦    http://walkingthroughtime.eca.ac.uk/?p=179 - Meeting summary
+◦    http://walkingthroughtime.eca.ac.uk/?p=183 - Post JISCRI event
+◦    http://walkingthroughtime.eca.ac.uk/?p=185 - Web Application findings
+◦    http://walkingthroughtime.eca.ac.uk/?p=188 - Google API changes
+◦    http://walkingthroughtime.eca.ac.uk/?p=190 - Caching - web app fights back
+◦    http://walkingthroughtime.eca.ac.uk/?p=193 - One of the last formal meetings
+◦    http://walkingthroughtime.eca.ac.uk/?p=205 - lo, the user speaks…
+◦    http://walkingthroughtime.eca.ac.uk/?p=209 - Chris’s project Evaluation
+◦    http://walkingthroughtime.eca.ac.uk/?p=214 - The Developers speak
+◦    http://walkingthroughtime.eca.ac.uk/?p=226 - Chris speaking for the Users
+demonstrator, finalProgressPost, JISC, jiscri, output, product, progressPosts, prototype, rapidInnovation, WalkThruT
+1 Comment
+Another workshop and demo
+Posted by admin in Art,
+Location Services,
+Smart Phones,
+budget on November 25th, 2009
+The project was presented at this conference:
+http://www.fieldworkconference.net/
+last week, and an iPhone was available for loan from Inspace (The University’s very cool digital gallery)
+the project was on show and delegates of the conference walked the vicinity around the gallery. Plus we reflected upon one of the walks with the aid of a data projector, and i used my macbook to record it - but its pretty awful…
+Add new tag, Art, jiscri, WalkThruT
+No Comments
+The App!
+Posted by admin in GPS navigation,
+Historical Maps on November 25th, 2009
+Ok so this is it, the project ended 4 weeks ago, but we’ve been fiddling with it ever since.
+Its a very cool product and has opened up many possibilities in terms of research, innovation and possible industrial links.
+This is the link:
+EDIT -PP
+TBC - having to make a last minute adjustment - sorry Chris
+EDIT -PP
+you will need a password, and if you’re part of an HE organisation just email me and i’ll let you in:
+c.speed@eca.ac.uk
+The reason that its protected to HE organisations is simply the mapping licenses, but this may change over time if the Prime Minister keeps his word!
+jiscri, WalkThruT
+No Comments
+Final Budget Report
+Posted by admin in budget on November 25th, 2009
+This is the final budget report from the project
+please click here to download
+or here if it doesn’t work…
+http://fields.eca.ac.uk/work/walkingthroughtime/finalbudgettemplate_jiscri.xls
+and if that really doesn’t work, here is a zipped version!!!
+http://fields.eca.ac.uk/work/walkingthroughtime/finalbudgettemplate_jiscri.xls.zip
+budget, jiscri
+No Comments
+User Participation
+Posted by admin in Uncategorized,
+Work on Project on November 18th, 2009
+User Participation
+Dave and Chris have previously blogged about the test-run with the Historical Society, which was largely unsuccessful due to a series of problems from the outset. Despite not being able to fully access the application (but having seen several demo’s on Chris’s computer), both Robin and Andrew seemed very enthusiastic about the potential for the application, which was really encouraging. Both seemed to grasp the concept and methods of navigation well, despite admitting to not being particularly computer literate or owning a mobile phone!
+Shortly after (following some trouble-shooting) were the test runs with staff and Diploma students from college. The first was with Vicky, from the conservation unit. Having never used an iPhone before, she found the application fairly straightforward to navigate, although concern was expressed at the size of the buttons along the bottom of the main screen – there were a few occassions where the wrong menu was selected, and due to signal problems it often took a long time to return to the main screen.
+A quick run-through outside Old College
+Generally, this round of testing went without too many hitches. Remembering to turn 3G on makes a big difference. I’m not particularly iPhone savvy, so had to be instructed by Peter over the phone on how to switch it on – I’m not sure if it’s safe to assume that other iPhone users would know to (or how to) do this?
+On the move….and walking through time!
+Figuring it would be a popular route for future users (sightseers, students, historians etc.), we walked from Chamber Street to the bottom of the High Street. Although the maps loaded pretty quickly, Vicky found the naming and filing to be quite confusing and frustrating, and suggested that there should be an option to list all of the maps chronologically, rather than just by scale or name (i.e. ‘Edinburghshire’).
+Vicky in the 18th century…
+At the time of testing, the conservation students had a project site in Aitchison Close, so we paid a visit. It was really great to see Vicky get excited by selecting and tagging the different maps! She was really positive about the benefit the application could have on projects and site visits. Her only suggestion at this point was that perhaps it would be worthwhile considering photographs of former streetscapes and buildings (either through markers or as a seperate option in a chronological list similar to the maps). We discussed the concept of the markers a bit more – I thought perhaps this was where the answer could lie, but Vicky felt that it would be better to have the images already available rather than hoping that someone else had uploaded them (or having to track them down and upload them personally).
+We walked back up the High Street towards Chamber Street, and hit a few minor glitches along the way – despite a full signal, on several occassions Vicky’s screen went white then sent her to the start-up screen to log in again. Thankfully this seemed to be shortlived! Before returning the iPhones to Peter and Petra we both created routes using the markers we had created. Again, this was something that Vicky was enthusiastic about – like the team, she felt that pre-existing routes laden with information (as well as the users ability to create their own) would be a valuable and interesting learning tool.
+Later in the same week I went out and about with Feng, Klas (both students) and Ian. We walked from Chamber Street to the Castle Esplanade, then through some of the nearby closes where Ian knew there had been several radical changes.
+Klas, Feng and Ian discussing their finds on the Edinburgh Castle Esplanade
+Again, the application ran smoothly, with the only draw back being the length of time it took to load some of the maps. This seemed to be largely due to the poor (or non-existent) signal we got in the closes and courtyards. It’s annoying that this hinders it so much, but even more annoying is the fact that it’s outwith our control.
+Everyone was really excited about the application, especially Ian – we got an amazing commentary from him as we walked around, which gave a great insight into how adding all this information (via markers, routes etc) could greatly enrich the users experience of and interaction with the city.
+Having already discussed the previous feedback from Vicky, Robin and Andrew, the group had little else to add, other than comments about the occassionally disappointing 3G signal. From the esplanade we walked back towards Nicolson Square before heading to Chamber Street (with no signal problems!). Klas (an M.Phil. student) is interested in the relationship between people and the city of Edinburgh, and was encouraged by the potential for the application as a research/design tool.
+All in all, the application got a huge thumbs up from all who tested it, which was a great result for us.
+Thanks to everybody for volunteering – your feedback has been much appreciated and greatly valued!
+endUser, JISC, jiscri, progressPosts, rapidInnovation, testing, user, userCase
+No Comments
+Value Add
+Posted by admin in Locative Media on November 8th, 2009
+Reflection of the value added nature of the project.
+1.Web App
+WTT has been quite a journey, one of the most significant aspects of the project that has a value added quality is the webapp. I started with an aspiration to make an iPhone app - largely because i’d done this before and seen the benefits of releasing something through the App Store and getting lots of users! However this was always going to be a problem for an app that relies on licensed  EDINA maps that only HE’s could see!
+Peter was cool though and saw the bigger picture - he was always for a web app, cross platform and flexible for updating.
+Having gone through the project now its astonishing what the team have achieved with the a web app and its clear that it was never an option to pursue an Iphone app.
+Pros are:
+1. Obviously any cross platform route has got to be good, and its refreshing to offer people access on a bunch of media.
+2. The iterative development cycle using a web app meant that it was much easier to role out and update as we (petra and peter) went along - the consequences of ad hoc distribution are slow and tedious, so this was so fast and so nippy.
+3. There is some faith in the future of a simple web app rather than the laborious nature of the App stores that prevent agile production and lock down apps.
+Cons.
+1. No access to an App store so you can’t reach a wide audience, mind you this was never possible due to the limitations of the EDINA license. But if we had the license sorted out it would be great to reach anyone who was browsing their App Store - many people use this as a convenient filter to safe apps.
+2. The app may have been faster if native. In the end it works very well on iPhone 3GS but less well on an 3G.
+2. A less technical reflection is on the experience of using the app. Its an exciting concept and one that when turned in to reality offers some stunning thoughts. I’ve always believed that the blue dot on my Google Map was me. So when i find myself (the dot) walking across an old map something funny is going on. Something dramatic.
+2.Walking Through Time
+Maps were always on walls or table for me, i was never in them, so to find myself inside them is strange and exciting - its a sci-fi moment and something that Dr.Who or Marty McFly wouldn’t be without. Users are starting to communicate this - not just the logical expression of appreciation for using old maps but the cognitive excitement for walking landscapes using a different time frame.
+It makes you wonder what time frames people are walking cities in - are a couple who have lived in an old place walking through it with the same eyes as a young couple? Do the memories of old places overwhelm the idea of the new? If this is even slightly true then a contemporary google map may not be the only one that should be used for navigation.
+3. Releasing the EDINA maps
+Working with James has been great - they are so quick and flexible its amazing. An extraordinary outcome seems to be the potential for releasing public access to the app that allows them to use the maps and develop a love for them. Obviously we can’t release to the public but you can see from HE testers that the maps take on a value that would normally be restricted to historical use only. The app seems to invigorate the maps with a powerful sense of memory and value because they become compared with the contemporary space.
+We presenting the app to Landmark on Thursday to try and spark enthusiasm for its commercialisation, and you would hope that they would at least like to trial it with users.
+Add new tag, disruptiveInnovation, JISC, jiscri, progressPosts, rapidInnovation, valueAdd, webapp
+No Comments
+« Older Entries
+Art
+budget
+GPS navigation
+Historical Maps
+Locative Media
+Smart Phones
+Location Services
+Uncategorized
+visualisation
+Work on Project
+February 2017
+M
+T
+W
+T
+F
+S
+S
+« Jul
+12345
+6789101112
+13141516171819
+20212223242526
+2728
+Tags"FAIL" and progressPosts
+"WIN"
+Add new tag
+area
+Art
+augmented reality
+budget
+demonstrator
+development
+disruptiveInnovation
+endUser
+finalProgressPost
+GPS
+Heritage
+history
+iPhone
+JISC
+jiscri
+map
+news
+output
+Place
+press
+product
+progressPosts
+projectEvaluation
+prototype
+rapidInnovation
+situationists
+social
+SWOT
+technicalDevelopment
+techStandards
+testing
+timetravel
+user
+userCase
+valueAdd
+walks
+WalkThruT
+webapp
+Windows Mobile
+WTT
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+Fusion theme by digitalnature | powered by WordPress
+Walking Through Time by The Programming Team is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.Based on a work at walkingthrough.sourceforge.net.
+Entries (RSS) and Comments (RSS) ^
+SetTextSize
+SetPageWidth

@@ -1,0 +1,24 @@
+Sorry, the FMS IT SKILLS site is down for essential work till next week.
+For Health Education England North East (was Northern Deanery), please go to:
+madeinheene.hee.nhs.uk
+Also, www.medev.ac.uk (MEDEV subject centre) was SHUT DOWN December 2014
+Since April 2012, Higher Education Academy ( www.heacademy.ac.uk ) Health Sciences team has provided support for learning and teaching in higher education.
+Please go to the HEA Health and Social Care pages at:
+www.heacademy.ac.uk/disciplines
+OR for RESOURCES & DOCUMENTS (including those from MEDEV) search HEA resources at:
+www.heacademy.ac.uk/resources
+Otherwise, please re-check the URL you entered.
+Possible other causes of this error....
+- Using https:// for a non https site (try http:// instead) -
+- Typing the web site name
+incorrectly -
+- Trying to access a URL that
+does not exist -
+- No web site currently configured at this address -
+Error: 503 from camelotwww-01
+If this error
+persists, please report it to the FMS LTSU web services team
+FMS LTSU web services
+FMS Learning Technologies Support Unit (formerly LTMS)
+Faculty of Medical Sciences
+University of Newcastle upon Tyne.
