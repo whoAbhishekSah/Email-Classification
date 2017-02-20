@@ -1,0 +1,223 @@
+www.intrasonics.com | More Than Meets The Ear…
+More Than Meets The Ear...
+Developer Portal Login
+MARKETS & USES What We Do
+Home
+Measuring Advertising Reach
+Synchronised Apps
+Success Stories
+Australia – KIA Game On
+Belgium – Fastest Quiz In The World
+Belgium – Absynthe Minded
+Canada – TVA L’Académie Secrète
+Canada – Cineflix Copper
+Canada – Cineflix Instant Cash
+Canada – TVA Le Tricheur
+Mexico – TV Azteca + Telegana
+Norway – SOLO Goodiebag
+Spain – Antena 3 ANT3.0
+Spain – MTV Gandia Shore
+Sweden – TV4 – Odd One Out
+UK – BBC Antiques Roadshow
+UK – Channel4 Facejacker
+USA – Sony Pictures – PIXELS
+Case Study Downloads
+Sony PIXELS – Movie Play Along App
+SOLO Goodiebag – Loyalty & Rewards
+KIA Game On – Interactive Advertising
+Fannex Live – In Stadium Entertainment
+Interactive Toys
+PRODUCTS SDKs & More
+SDKs For iOS & Android
+Pricing
+Web Browser SDK
+Trigger Engine
+Event Engine
+Heartbeat Engine
+Real Time Encoding
+Raspberry Pi Encoder
+TECHNOLOGY How It Works
+How It Works
+Technology FAQs
+Try Our New Demo App
+Join Our Developer Portal
+ABOUT US Who We Are
+About Us
+Management Team
+Our Customers
+Careers
+CONTACT Get In Touch
+Welcome to Intrasonics
+We provide broadcast grade audio watermarking
+technology all over the world
+Some of the things we make possible…
+National Audience Research
+Measuring Advertising Reach
+Synchronised Apps for TV, Radio & Cinema
+Loyalty Schemes for Brands and Broadcasters
+Interactive Toys & Wearables
+TV Azteca + Telegana
+Loyalty points collection app
+Live sports audience participation
+Watch TV Azteca & earn points
+Spend points on products & prizes
+Make live in-match predictions
+Channels: Azteca 7 & 13
+Country: Mexico
+App Creation: Nyx Technology / Interactive TV
+Download our Case Study
+Le Tricheur (Cheat)
+Quiz Show with a Twist
+Audience 1m
+Watch the show on TV
+Play along in the app
+Identify who’s cheating
+Country: Canada
+Production: TVA Productions
+App Creation: Studio WE ARE
+En Ska Bort (Odd One Out)
+Gameshow with Play-Along
+Audience 1m
+Watch the show on TV
+Answer Odd One Out questions
+Win SEK1m (€100,000)
+Channel: Sweden TV4
+Production: ELK Format
+App Creation: Netlight
+Play Along App
+Watch Pixels Movie
+Answer Quiz Questions
+Shoot the Invaders!
+Studio: Sony Pictures
+App Creation: Trigger
+Blu-ray/DVD/Digital Release
+Download our Case Study
+Solo Goodiebag
+130,000 Installs
+Loyalty Points Collector
+Watch Solo Ads on TV and Online
+Earn $OLO Dollars
+Get Free Stuff
+Country: Norway
+App Creation: Try/Apt
+Download our Case Study
+KIA Game On
+370,000+ Downloads
+Synchronised Virtual Tennis
+Watch KIA Ads
+Return Sam Groth’s Serve
+Win a Car
+Creative Agency: MNet
+Global Mobile Awards 2015 Winner:
+MOST INNOVATIVE APP
+BEST MOBILE ADVERTISING & MARKETING
+Download our Case Study
+1m+ Installs
+Interactive Cinema App
+Play Pre-Movie Quizzes
+Compete in Interactive Games
+Win Popcorn, Ice Cream & Tickets
+Launched in the UK in 2013
+Now Active in 7 Countries
+TVA Yoopa
+L’Académie Secrète
+Educational Companion App
+Ask Detective Steve Questions
+Play Games & Gather Clues
+Learn & Have Fun
+Production: Trio Orange
+App Creation: Groupe TVA
+BBC
+Antiques Roadshow
+Playalong Valuation Game
+Watch the Show on TV
+Predict the Valuations
+Compete with Friends & Family
+The BBC’s First Synchronised
+Second Screen Playalong
+SBS VIER
+Fastest Quiz In The World
+Rapid Fire Quiz Playalong
+Watch for Quiz Questions in Ad Breaks
+Answer as Fast as Possible
+Win a Chance to be on TV
+Agency: TBWA
+App Build: In The Pocket
+Channel4 Facejacker
+70,000 App Sales
+Comedy Show Loyalty App
+Watch Facejacker on C4
+Run the app
+Unlock bonus content
+Production: Hat Trick
+App Creation: Widebeam Digital
+WINNER: BEST APP
+BROADCAST DIGITAL AWARDS 2012
+Cineflix
+Instant Cash
+Playalong Gameshow App
+Watch Instant Cash
+Answer Questions
+Climb the Leaderboard
+App Creation: Turbulent
+Production: Cineflix
+MTV España
+Gandia Shore
+Reality TV Companion App
+Watch Gandia Shore on MTV
+Unlock Exclusive Content
+Engage with the Stars of the Show
+App Creation: Moderna
+Production: Magnolia TV
+Copper
+On Showcase
+Drama Show Companion App
+Watch Copper on TV & Run the App
+Explore Interactive Storylines
+Learn about NYC in the 1860s
+App Creation: Invoke
+Production: Cineflix / BBC America
+Antena 3 ANT3.0
+700,000+ Installs
+Multi-Show Companion App
+Interact with Talk Show El Homiguero
+Watch Luna and Solve Mysteries
+Get Exclusive Content with Los Protegidos
+World’s First Cross-Schedule App
+9m+ Items of Content Delivered
+Audio Watermarking SDKs for iOS, Android & Web Browsers. Find Out More
+Audience Research
+Many radio stations all over the world are continuously encoded with Intrasonics audio watermarks. Depending on where you are, perhaps when you listen to your favourite radio station, it’s carrying our watermarks (not that you could hear them).
+FIND OUT MORE
+Advertising Reach
+By inserting audio watermarks into broadcast ads, advertisers can track real exposure via Intrasonics-enabled apps on viewers’ phones and tablets. This makes possible a whole new paradigm in measurement and mobile ad targeting.
+WATCH OUR VIDEO
+Synchronised Apps
+We provide our audio watermarking SDKs to agencies, app developers, production houses and broadcasters. We’ve seen them create some award-winning second screen apps that synchronise perfectly with content on TV, radio and in cinema.
+SEE SOME EXAMPLES
+Interactive Toys
+Using our compact and low cost decoder modules, we can help manufacturers produce physical devices such as toys and mascots that can detect audio watermark triggers in broadcast TV shows or in movies and respond in all kinds of ways.
+HOW DO WE DO THAT?
+Our New Developer Portal is Live:   Sign Up Now
+Some of our Valued Customers
+Broadcasters:
+Agencies & App Publishers:
+Production Companies:
+Intrasonics Limited
+Bateman House
+82-88 Hills Road
+Cambridge CB2 1LQ
+United Kingdom
++44 (0)1223 927 070
+This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+RECOMMENDED LINKS
+Synchronised Apps
+SDK Products & Pricing
+Broadcast Products
+Technology FAQs
+TRY OUR NEW DEMO APP Try a quick demonstration of our technology. Install our new demo app on any iOS device.
+And then play one of the videos on our demo videos page.
+JOIN OUR DEVELOPER PORTAL We welcome developers to join our Developer Portal and access our Evaluation SDKs. We provide everything necessary to show you how easy it is to integrate our technology into any app.
+Sign Up Now.
+© 2001 - 2016 Intrasonics Limited / S.à.r.l.
+Privacy Policy

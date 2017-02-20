@@ -1,0 +1,110 @@
+Tier 2 Consulting | Agile Development and Middleware Consulting
+Skip to content
+Consulting
+Resources
+Blog
+Contact
+Careers
+People
+Middleware Consulting
+Agile Web Development
+Business Solutions
+Document Control
+Biotech
+Insurance
+RedHat Technology
+JBoss Middleware
+OpenShift Container Platform
+Costs
+Search for:
+Because business is software™
+Agile software development and middleware consulting
+The world of enterprise IT is fast moving and the landscape is peppered with disruptive operators shaking up conventional business models. Companies who let legacy systems dictate the way they do business risk losing ground to competitors with a digital blueprint for customer engagement and retention.
+Businesses embarking on a digital transformation recognise the need to build and deploy new services quickly and efficiently, using innovative technology and ‘devops’ processes to encourage collaboration within project teams focused on finding customer-driven software solutions, fast.
+Factor in a ‘mobile-first’ line of thinking and you’ll be searching for a technology services partner that comes from a delivery background, with a first class pedigree in creating mobile and business applications, using agile methodologies.
+Your partner of choice will be comfortable leading multi-functional project teams, helping new and established businesses shape their transformation by leveraging robust technologies.
+We aim to be your partner of choice.
+Tier 2 Consulting is the only dedicated Red Hat Premier Middleware Partner supporting clients across the UK & Ireland. We focus entirely on providing consultancy, training and application development services to users of enterprise and community versions of Red Hat JBoss Middleware.
+We excel in core Red Hat JBoss technologies, including Enterprise Application Platform (EAP), Fuse ESB, Business Rules Management System (BRMS), and Business Process Management Suite (BPM Suite).
+We provide high quality middleware consultancy, invaluable best-practice JBoss development advice and advanced training and support – with two of our senior consultant/trainers voted #1 and #2 in the Red Hat EMEA Middleware Trainer of the Year Awards.
+Put simply, we have the skills, knowledge and ability to help organisations exploit Red Hat’s established JBoss Middleware technology and their emerging Cloud and Mobile technologies.
+And we have proven expertise in building standards-based JEE web applications, bespoke software and mobile solutions for businesses in compliance-driven environments.
+Established in 2002, we partner growth businesses across a range of sectors, with the quality of our work evidenced by a number of long-standing clients, including GlaxoSmithKline, King’s College London, Suzuki GB, Evident Legal, Motability Operations and Red Hat themselves
+Our reputation is built on trust and competency – helping our clients do more for less with the best technology, in a world being transformed by digital communications.
+RedHat Premier Business Partner
+“Premier Partner status is about proven skills and services, giving customers confidence that we know what we are doing in the Red Hat world. We know this type of quality collaboration works, and we believe that with this award ‘partnership’ has been taken to another level”
+Andy Kennedy, Managing Director
+Want to know more?
+Contact Us
+Click on the links below to review our areas of expertise or visit our RESOURCE HUB for Case Studies, White Papers and individual Product Data Sheets.
+Middleware Consulting
+Agile Web Development
+Business Solutons
+JBoss Technology
+WHO WE WORK WITH
+Tier 2 provides high quality web application development and systems integration services to clients in a range of industry sectors. We have particular expertise in the compliant driven worlds of finance and pharmaceuticals and our regulatory knowledge adds significant value to the project teams we work with in these areas.
+The long-standing nature of the relationships we have with global brands and prominent UK businesses is testament to the quality of work we deliver. Our customers include:
+GlaxoSmithKline • Evident • Shell Shipping and Trading • Red Hat • Lloyd's of London • Invapay • Suzuki GB • King's College London • Bowring Marsh • Evident Legal • DNVGL •
+Netdev • Attenda • Blackboard / WebCT • Munich Re • Motability Operations • Croton Stokes Wilson • Decus Insurance Brokers • Cambridge University Press • Wincanton • Guy Carpenter • Document Risk Solutions • Advanced 365 • Sapient • Exari
+BLOG
+Mobile applications – Move With Us Case Study
+“Tier 2 Consulting have created mobile applications that deliver operational efficiencies, build trust and leverage our data intelligence to the benefit of all parties. These apps are a perfect example of how we continually strive to do property, properly™.”  Ben Greco, Managing Director Move With Us wanted to ‘externalise’ their […]
+Continue reading...
+New Year, new clients – same commitment to exceeding expectations
+Tier 2 Consulting has kicked off 2017 by netting a number of substantial projects for both existing and new clients, with formal confirmations received in the last few trading days of 2016 – always a great time of year to score. The work spans a number of technology areas and will involve long term on-site […]
+Continue reading...
+JBoss Developers are not just for Christmas
+Thinking about buying-in JBoss Technical Services or Consultancy skills in the New Year? Great, but here’s some reflective, festive food for thought. The Red Hat Partner Program puts validated technical skills at the heart of the process. So there is a big, tangible difference between companies you might be considering that come with little or […]
+Continue reading...
+Getting Started With OSGi Versioning
+One of the useful features of OSGi is the ability to have multiple versions of the same Java classes deployed in a single JVM at the same time.  This is helpful if you have multiple applications deployed that are dependent on different versions of third-party framework, or your own utility classes. You can therefore use […]
+Continue reading...
+Keep in Touch
+Keep in touch with project work and latest blog posts by joining our mailing list.
+CONTACT
+Head Office: Tier 2 Consulting, Business and Technology Centre, Bessemer Drive, Stevenage, Hertfordshire, SG1 2DX.
+Sales enquiries: sales@tier2consulting.com
+Technical support: support@tier2consulting.com
+General information: info@tier2consulting.com
+Office: +44 (0) 1438 310 124
+Support: +44 (0) 1438 310 125
+Fax: +44 (0) 1438 310 001
+Tier 2 Consulting Limited is a company registered in England under registration number 4361268.
+Registered office is Hardy House, Northbridge Road, Berkhamsted, Herts HP4 1EF
+©2016 Tier 2 Consulting Ltd. All rights reserved
+Quick contact form:
+Last Name*
+First Name*
+E-mail*
+How can we help?*
+Tweets by @tier2consulting
+Home
+Middleware Consulting
+Agile Web Development
+Business Solutions
+JBoss Technology
+People
+Contact
+Blog
+Resource Hub
+Sitemap
+Privacy Policy
+Terms & Conditions
+Home
+Middleware Consulting
+Agile Web Development
+Business Solutions
+Business Solutions
+Document Control
+Biotech
+Insurance
+Red Hat Technology
+Middleware
+OpenShift Container Platform
+Costs
+Contact
+Blog
+Tier 2 Resource Hub
+People
+Careers
+×

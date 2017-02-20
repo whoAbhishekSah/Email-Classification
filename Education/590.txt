@@ -1,0 +1,124 @@
+GeoSciTeach | A customisable smart phone application for GIS supported teaching & learning
+GeoSciTeach
+A customisable smart phone application for GIS supported teaching & learning
+Skip to content
+About
+Why we are doing this
+What we are doing
+How we will do it
+People
+Project team
+Advisory board
+Scenarios
+Electrical Noise
+The Glasshouse
+Plant response to climate change
+GeoSciTeach app
+GeoSciTeacher (customisable app)
+Walk through customisation
+GeoSciTeach (activity app)
+Walk through activity
+Project Blog
+About
+Funded by JISC – GeoSciTeach: A teacher-based geo-spatial application for orchestrating scientific fieldwork activity
+The project runs from 1st February until 31st October 2011. It is hosted at the London Knowledge Lab, a collaboration of Social Scientists from the Institute of Education and Computer Scientists from Birkbeck, London
+See our project blog for latest updates and progress.
+Summary
+GeoSciTeach aims to contribute to the geospatial strand of the JISC Infrastructure for Education and Research Programme by developing, deploying and evaluating an innovative application using modern mobile smart phones, that will provide a customisable template for GIS supported learning and teaching. The application aims to increase the use of geospatial tools in teacher training education, and inform future requirements for their integration into teacher training curriculum. The project has three main objectives:
+To design and develop an application using the advanced sensing functionality of mobile smart-phones, to collect geo-annotated data in real-time and deposit them in open repositories;
+To design and develop innovative geo-spatial based science learning activities that can be effectively integrated into the secondary teacher-training curriculum, and be made available as teaching resources;
+To evaluate the application in supporting teacher trainees’ geo-spatial skill development and their ability to integrate geospatial based learning activities into their teaching practice.
+The project works closely with PGCE tutors and trainee teachers from the Institute of Education, London, to enable their input into the user and technical requirements of the application; the pedagogical design of the learning activities it is be used to support, and evaluation of the application. While the mobile application is primarily focused on real-time interaction with the users, it will also support data capture in a format suitable for creating visual representations of captured activity data via Web 2.0 mashups, related web-based mapping tools and on-line repositories.
+4 Responses to About
+Ruth Amos says:
+May 23, 2011 at 6:00 pm
+Just back from the advisory group meeting on the project. all looks very interesting and am looking forward to seeing how the app works at Kew, and to exploring how we might see intersting and engaging applications for the project in school science.
+Reply
+Bob Emery says:
+June 10, 2011 at 2:05 pm
+Just downloaded app. and can’t open it? It needs password! how can i obtain. it!…..please can you send me the password…
+Many thanks an. Bob
+Reply
+Benji Chasteen says:
+October 28, 2011 at 6:10 pm
+GeoSciTeach RSS feed request to Before It’s News
+Hi Sara Price,
+My name is Ben Chasteen and I’m the Science/Technology editor at Before It’s News http://www.beforeitsnews.com. Our site is a People Powered news platform with over 4,000,000 visits a month and growing fast. We like to think of our selves as the “You Tube” of news.
+We would be honored if we could republish your blog RSS feed in our Science/Technology category. Our readers need to read what your GeoSciTeach blog has to say.
+Syndicating to Before It’s News is a terrific way spread the word and grow your audience. Many other organizations are using Before It’s News to do just that.
+I just need you to reply with your permission to do so. Please include the full name and email of the person who will be attached to the account, and let me know the name you want on the account (most people have their name or their blog name).
+You can also have any text and/or links you wish appended to the end or prepended to the beginning of each of your posts on Before It’s News. Just email me the text and links that you want at the beginning and/or ending of each post. If you know html you can send me that. If not, just send me the text and a link to your site. It should be around 200 characters or less (not including links).
+Thank you,
+Ben Chasteen
+Science/ Technology Editor
+Before It’s News
+775 East Blithedale Ave. #362
+Mill Valley, CA 94941
+ben(AT)beforeitsnew.com
+http://www.beforeitsnews.com
+______________________________________________________
+Reply
+Tecnologia 4G says:
+October 3, 2012 at 7:39 pm
+Very good initiative. I watch over this project. The development of science is very important for a better education and a better awareness of society. Congratulations on your promotion.
+Reply
+Leave a Reply Cancel reply
+Enter your comment here...
+Fill in your details below or click an icon to log in:
+Email (required) (Address never made public)
+Name (required)
+Website
+You are commenting using your WordPress.com account. ( Log Out / Change )
+You are commenting using your Twitter account. ( Log Out / Change )
+You are commenting using your Facebook account. ( Log Out / Change )
+You are commenting using your Google+ account. ( Log Out / Change )
+Cancel
+Connecting to %s
+Notify me of new comments via email.
+Categories
+GeoSciTeach app (30)
+Example contexts of use (2)
+Example use in Kew Gardens (2)
+GeoSciTeach – what is it; who is it for (6)
+How to use GeoSciTeach (7)
+User experience (8)
+What do teachers & students think (7)
+Geospatial in science education (7)
+Links (3)
+Participant design and usability (12)
+Project Plan (8)
+Project progress & update (37)
+Technical Development (14)
+Search for:
+GeoSciTeach
+@markpower which were they? I count two? 				5 years ago
+davidrumsey.com #jiscgeo 5 years ago
+Another good Q: based on lib of congress - repositories, what form do they take?Metadata standards must allow for all types of data #jiscgeo 5 years ago
+Importance of creating critical mass in student populations - embedding good activities - faculty need to be trained as well in GIS #jiscgeo 5 years ago
+Good Q from @dfflanders: how do you get the powers that be to buy into GIS stuff? Powers that be had no idea of GIS architecture @stanford! 				5 years ago
+Blog Stats
+6,033 hits
+Top Posts & Pages
+About
+Projected timeline, workplan & project methodology
+Blog Calendar
+February 2017
+M
+T
+W
+T
+F
+S
+S
+« Dec
+12345
+6789101112
+13141516171819
+20212223242526
+2728
+GeoSciTeach RSS feedProject blog stats [to 12/12/11]A Teacher Toolkit for Integrating Geospatial Concepts into Science LearningWhat is GeoSciTeach?Going geospatial in science – a framework for teachersGeospatial in scienceLearnability (of using app)Comparing bananas and coffeeThinking geographically and spatiallyOther contexts of useThoughts about linking the use of ‘GeoSciTeach’ with the classroomEmail Subscription
+Enter your email address to subscribe to this blog and receive notifications of new posts by email.
+Join 6 other followers
+This work by Institute of Education & Birkbeck College is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+GeoSciTeach
+Create a free website or blog at WordPress.com.

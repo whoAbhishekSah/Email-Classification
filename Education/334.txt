@@ -1,0 +1,84 @@
+CUSTOMER
+CUSTOMER
+Home
+About
+Pages
+About
+Categories
+News
+Uncategorized
+Archives
+May 2012
+February 2012
+December 2011
+August 2011
+June 2011
+May 2011
+March 2011
+February 2011
+24				May
+Engaging with Students
+An essential part of our project is to involve and engage students with the ’Green @ CU’  Facebook page as a way of promoting energy messages, prompting responses, and sharing links, such as to the game.  During the year, one of our reflections has been ‘How do you get students continuously involved, particularly in a formal way?’.  For instance, Hall Representatives are volunteers, and currently can choose what takes their interest.  During this year, the Students’ Union has reviewed the structure between Vice Presidents and Halls Reps.  One of the great outcomes, which will be used to continue ‘Green @ CU’ beyond the formal funding by JISC, is that three Environmental Hall Representative posts will be created for students in 2012/13.  They will receive a bursary only after completing certain tasks which will include termly targets for meeting with University environmental staff and, for instance, posting items on the Facebook site.  Hopefully they will also be enthused by environmental issues.  It will be interesting to see if this new structure supports student to student communication on sustainability.
+In the meantime, we have arrived on YouTube – the environmental day in February, and a short piece about getting involved in ‘Green @ CU’:
+http://www.youtube.com/watch?v=VpsHxqkXrt0&feature=relmfu
+http://www.youtube.com/watch?v=-IKI_jDS6N4
+Posted in News by: ccx061
+No Comments
+15				May
+Term 3 Update
+The CUSTOMER project has entered the final term, and students are busy with exams.
+We have all the meters in place, the dashboard working and data is being analysed.
+Students are trying to recruit others to the Facebook site.  It’s been a challenge due to the exam period, but all the Energy Ambassadors have contributed.
+Version 2 of the game has been launched that has slightly less sensitive mouse controls, and performance improvements by reducing the number of polygons.  The main task for this work package is to obtain feedback on version 2.
+Key activities for the next couple of weeks are further recruitment to Facebook Green@cu and as many as possible playing the game.  A key meeting has been with the Hall Reps, who from next academic year are going to have three Environmental posts with bursaries, as currently the work they carry out is on good will.  This should help with the constant challenge of being high profile to students when there is so much that competes for their attention.
+Printers have been installed in three halls and students recruited as Printer Assistants to stock printers with consumables.  The introduction of printers into halls has been well received, though going forward much will depend upon whether they do save energy and whether there will be additional funding to support the provision of staff as Printer Assistants.
+Posted in News by: ccx061
+No Comments
+14				Feb
+Presented at JISC Dashboard workshop
+On 9 February 2012, Elise Smithson and Dr Panos Petridis gave a presentation on Green@CU  at the JISC Workshop Information for Energy Efficiency Improvement – Dashboards, Displays, Reports and Other Measures to Change User Behaviour.  Pictured here are: Gideon Howell, Coventry University’s Carbon Reduction Officer; Wendy Taylor, Project Manager for the CUSTOMER Project; Panos Petridis, Senior Research Assistant in the Serious Games Institute at Coventry University and Elise Smithson, Principle Investigator and Assistant Director of Estates (Environment).
+Posted in News by: ccx061
+No Comments
+21				Dec
+Student Engagement
+We met with our Student Energy Ambassadors for the last time before Christmas.  In our reflections on this term’s activities, we recognise that getting students involved and interested in Green@CU (student branding for CUSTOMER) is tough.  Our enthusiasm is still high and we have put together our action plan for the launch of the “serious” game in January, including actively signing-up students to Facebook and gaming with small prizes. The game uses the floor plan of one of our typical student residences – Singer Hall – and will challenge players to a series of low energy quests as they explore their living environment.  This will make for an exciting and unique phase of the project.  We are all meeting in the New Year to play the game before its launch- looking forward to it!
+Posted in News by: ccx061
+No Comments
+05				Aug
+Progress Report
+Wrote the progress report for JISC yesterday, but need to update it with the news about meter installation dates and check a few bits with others.  Elise Smithson will finish it off and submit it in my absence.
+Posted in News by: ccx061
+No Comments
+05				Aug
+Sensors
+A meeting with BAS re sensor costs and site survey planned for next week.  CO2 detectors probably not sufficient and now considering wireless PIR detectors.  I just hope they won’t be too expensive.
+Posted in News by: ccx061
+No Comments
+05				Aug
+Meter installation
+We now have revised dates for meter installation to commence on 22 August, which wll be confirmed on Monday.  They should be in when I get back from my holiday.
+Posted in News by: ccx061
+No Comments
+03				Jun
+Student Research and Engagement
+The survey and focus group data has now been analysed and a report on the findings submitted to our JISC Programme Manager.
+Posted in News by: ccx061
+No Comments
+17				May
+Student Energy Survey
+159 students from across Coventry University’s different accommodations completed an online survey on accommodation, energy and the environment.
+Key findings include:
+65% of the respondents already try to save energy and improve their environmental behaviour
+approx 65% of respondents wanted to know how much gas, electricity and water they used in their student accommodation
+58% of the respondents said they were only slightly interested in environmental issues, with only 26% stating they were very interested
+Two third of respondents wanted to know how their room occupany affected energy usage and 58% were happy to have sensors in their rooms in accommodation to facilitate improved energy management
+A substantial majority of respondents stated they would be strongly motivated to change their behaviour if there were financial incentives, either through cost savings, receiving vouchers or discounts, or to avoid fines.
+Posted in News by: ccx061
+No Comments
+28				Mar
+Ethics Approval
+Our University Ethics Approval process has signed off the student survey and focus groups, and we can now proceed with capturing responses.
+Posted in News by: ccx061
+No Comments
+« Previous Entries
+© 2017 CUSTOMER | Entries (RSS) and Comments (RSS)

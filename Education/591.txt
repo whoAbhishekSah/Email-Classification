@@ -1,0 +1,180 @@
+G.E.C.O.
+geospatial engagement and community outreach
+Home
+Projects
+INSPIRE
+Project Plan
+Mind Map
+Events
+Join the GECO and 15/10 geo projects conversation by using the tag/hashtag: #jiscGECO
+The overarching purpose of GECO is to foster a community(ies) of users of geospatial resources (data, services, support). Geospatial, taken in its broadest sense underpins a vast array of academic endeavour - geography represents a fundamental organising axis for information.
+Presentations from the Geospatial in the Cultural Heritage Domain Event now online
+Mar 192012
+This is a very brief post to let you know that you can now find the presentations from the Geospatial in the Cultural Heritage Domain – Past, Present & Future over on the event page we have set up.
+The liveblog can be found here and is full of detailed notes from the presentations. We have also made the images of the event available over on Flickr, access all of the images from #geocult here.
+Thank you to all of those who had already filled in our feedback survey on  the event. We’re really pleased that so many of you found the event useful and enjoyable. We would still love to hear from you if you attended the event in person OR if you took part via the liveblog or tweets. The survey can be found here: https://www.survey.ed.ac.uk/geocult
+If you did attend or blog about or otherwise commented on the day do let us know and we’ll link to your post from the event page or our storify archive on the event.
+And finally… we will be uploading audio of all of the talks and discussions along with video of some of the presentations very shortly. We’ll let you know when they go live!
+Share/Bookmark
+March 19, 2012
+Posted by Nicola Osborne at 5:11 pm Events Tagged with: #geocult Comments Off on Presentations from the Geospatial in the Cultural Heritage Domain Event now online
+Liveblog: Geospatial in the Cultural Heritage Domain, Past, Present & Future
+Mar 072012
+Today we are liveblogging from our one day event looking at the use of geospatial data and tools in the cultural heritage domain, taking place at Maughan Library, part of Kings College London. Find out more on our eventbrite page: http://geocult.eventbrite.com/
+If you are following the event online please add your comment to this post or use the #geocult hashtag.
+This is a liveblog so there may be typos, spelling issues and errors. Please do let us know if you spot a correction and we will be happy to update the post.
+Good morning! We are just checking in and having coffee here at the Weston Room of the Maughn Library but we’ll be updating this liveblog throughout the day – titles for the presentations are below and we’ll be filling in the blanks throughout the day. Continue reading »
+Share/Bookmark
+March 7, 2012
+Posted by Nicola Osborne at 9:49 am Events Tagged with: #geocult, culturalheritage Comments Off on Liveblog: Geospatial in the Cultural Heritage Domain, Past, Present & Future
+Programme Now Available for Geospatial in the Cultural Heritage Domain – Past, Present & Future
+Feb 292012
+We are delighted to announce our final programme for the Geospatial in the Cultural Heritage Domain, Past, Present & Future (#geocult) event which takes place next week, Wednesday 7th March 2012, at the Maughan Library, Kings College London.
+A fantastic programme of speakers will explore the use of geospatial data and tools in cultural heritage projects with breakout discussions and unconference sessions providing opportunity for networking and further discussion of this exciting area.
+We are delighted to announce that our speakers for the day will include:
+Humphrey Southall of the University of Portsmouth will talk about OldMaps online, which just launched today at the Locating the Past (#geopast) event in London.
+Stuart Dunn from Kings College London, talking about the new Digital Exposures of English Place Names (DEEP) project which is building a gazeteer that tracks the changing nature of place names.
+Chris Fleet of the National Library of Scotland, and co-author of Scotland: Mapping a Nation, will talk about recent developments at the NLS.
+Claire Grover of University of Edinburgh will talk about the new Digging Into Data project Trading Consequences which will use data mining techniques to investigate the economic and environment impact of 19th century trading.
+Natalie Pollecutt from the Wellcome Library will be talking about their project: Medical Officers of Health (MOH) Reports for London 1848-1972 which is building a free online data set on public health in London.
+Michael Charno, Digital Archivist and web developer at the Archaeology Data Service, will talk about Grey Literature and spatial technologies.
+Stuart Nicol of the University of Edinburgh will talk about Visualising Urban Geographies, a recent project to create geospatial tools for historians.
+Jamie McLauglin from the University of Sheffield will talk about Locating Londons Past, a website which allows you to search digital resources on early modern and eighteenth-century London, and to map the results.
+Stuart Macdonald of University of Edinburgh will talk about AddressingHistory, a website and crowdsourcing project to geospatially reference historical post office directory data.
+Sam Griffiths of University College London, will talk about “Classifying historical business directory data: issues of translation between geographical and ethnographic contributions to a community PPGIS (Public Participation GIS) project”.
+Kate Jones of the University of Portsmouth will talk about Stepping Into Time, a project to bring World War Two bomb damage maps into the real world by using web and mobile mapping technology.
+We will also be welcoming Rebekkah Abraham and Michael Daley from We Are What We Do to talk about HistoryPin, a website and mobile app which enables you to browse and add historical images to a map of the world, exploring the past through georeferenced photographs.
+The detailed programme for the day can be found on our Eventbrite page where you can also book your free place at this event. Bookings close on Friday 2nd March 2012 so book soon!
+We will also be live blogging, tweeting and recording this event so do also keep an eye on the blog here, the #geocult hashtag, and on our Geospatial in the Cultural Heritage Domain – Past, Present & Future page where you will be able to access materials after the event.
+Share/Bookmark
+February 29, 2012
+Posted by Nicola Osborne at 5:45 pm Events Tagged with: #geocult, AddressingHistory, ADS, culturalheritage, DEEP, DID, DiggingIntoData, events, HistoryPin, LocatingLondonsPast, london, MOH, NLS, oldmapsonline, PPGIS, SteppingIntoTime, VUG Comments Off on Programme Now Available for Geospatial in the Cultural Heritage Domain – Past, Present & Future
+Upcoming Event: “Geospatial” in the
+Cultural Heritage domain, past, present and future
+Feb 212012
+We are very excited to announce that bookings are now open for the next JISC GECO workshop!
+“Geospatial” in the  Cultural Heritage domain, past, present and future (#geocult) , taking place on Wednesday 7th March 2012 in London,  will be an opportunity to explore how digitised cultural heritage content can be exploited through geographical approaches and the types of tools and techniques that can be used with geo-referenced/geotagged content.
+Issues we are keen to discuss include selection of maps/materials, issues of accuracy and precision, staff and technical requirements, sustainability, licensing.
+The event will take place at Maughan Library, Chancery Lane, part of Kings College London. We are most grateful to the lovely people at the KCL Centre for e-Research for securing us this super location.
+Library Entrance by Flickr User maccath / Katy Ereira
+We are currently confirming the last few speakers and titles for talks so will post something here on the blog once the programme is finalised.
+We already have a great draft schedule and some fantastic speakers confirmed so this promises to be a fascinating and stimulating day of talks and breakout sessions.
+As we are sharing details of this event at pretty short notice we would be particularly grateful if you could book your place as soon as possible and please do tell your colleagues and friends who may be interested!
+Book your free place now via our Eventbrite page:  http://geocult.eventbrite.com/
+If you would like to propose any additional talks or ask any questions about the event please email the JISC GECO team via:  edina@ed.ac.uk.
+Share/Bookmark
+February 21, 2012
+Posted by Nicola Osborne at 4:27 pm Events, Misc. Tagged with: #geocult, culturalheritage, culture, digitisation, events, geospatial tools, heritage, london Comments Off on Upcoming Event: “Geospatial” in the
+Cultural Heritage domain, past, present and future
+Happy New Year from JISC GECO!
+Jan 092012
+A Very Happy New Year from all at the JISC GECO project!
+The JISC geo projects have all presented their final products to the world at the end of 2011 and we are looking forward to seeing how those tools and resources are used by the community throughout 2012 – and you have a favourite project, a great example of how you are using one of the products created or ideas for how they should be developed we’d love to hear from you.
+We expect 2012 to be an exciting year for all things geo – it is after all the centenary of the Scott Expedition to the South Pole and the year in which the London Olympics will create a whole new excuse for geospatial tie-ins and visualisations!  The JISC GECO team will be blogging about geo and INSPIRE throughout the year and we will also be running several events this spring beginning, kicking off with a geo culture event in late February. If you are interested in taking part please drop us an email or watch out for further news here on the blog.
+As ever we welcome guest posts, particularly from UK Further and Higher Education geo community, and your suggestions for posts or events that should be mentioned here.  In the meantime here is something sparkly to properly celebrate the fact that it’s a brand new year!
+Share/Bookmark
+January 9, 2012
+Posted by Nicola Osborne at 11:39 am Misc. Comments Off on Happy New Year from JISC GECO!
+How do you solve a problem like Geo? Highlights from the JISC Geo Event and Discussions
+Dec 212011
+It’s been a few weeks since the JISC Geo Tech & Tools Product Launch event at London so we thought it was time we updated you on some of the follow up activities…
+On the second day of the JISC Geospatial Event in London, we had two sessions to gather around tables (and/or move between them) and discuss some questions around the themes emerging from the JISC Geo projects. It followed on from the previous days thoughts “to figure out which products are going to help catalyse the spatial revolution in .AC.UKs”, but this session involved discussion that looked out wider than the presented products.
+In session 1 discussions included:
+How do we get faculty/students to support students in spatial, scribed by GeoCrimeData
+What human infrastructure do institutions need to establish for a spatial foundation?, scribed by ELOGeo.
+How do we balance supporting novice spatial users alongside experts? Or, is geospatial analysis necessarily GIS?, scribed by Pelagios.
+How to fully exploit spatial analysis within research. (2nd half of blog post), scribed by STEEV.
+How spatial and temporal analysis can enhance research. (1st half of blog post), scribed by STEEV.
+For session 2 themes running through the projects and 6 stages/ways of working with data were identified and discussed.
+Creating geospatial data
+Managing geospatial data, scribed by U-Geo.
+Repurposing geospatial data, scribed by Halogen.
+Analyising geospatial data
+Sharing geospatial data, scribed by ELOGeo.
+Expressing geospatial data
+We would love to hear your thoughts on the discussions – leave your comments on any of the blog posts linked to here or add your comments on any of these topics here. If you were part of these discussions and think an important point didn’t get noted down, do add it as a comment as well.
+We will be sharing more materials from the JISC Geo End of Programme events early in 2012 but in the meantime here are some video highlights – also available from our new Podcast stream [Click on subscribe via iTunes] – to enjoy:
+JISC Geo Timelapse
+View the whole of the first day of the JISC Geo in just 1 minute:  JISC_Geo_Launch_Event_Timelapse
+Highlights from the JISC Geo Show & Tell
+Hear about the best projects at the Show & Tell events where all 12 JISC Geo projects showed off their work along with some guest exhibitors: Highlights from the JISC Geo Show & Tell
+Share/Bookmark
+December 21, 2011
+Posted by Gregory Marler at 5:36 pm Events Tagged with: geospatial, jiscGECO, jiscGEO Comments Off on How do you solve a problem like Geo? Highlights from the JISC Geo Event and Discussions
+Space and Time in the Digital Humanities Workshop, hosted by NeDiMAH and JISC LiveBlog
+Nov 302011
+Today we are liveblogging from the Space and Time in the Digital Humanities Workshop, hosted by NeDiMAH and JISC which is taking place in London and follows on (in the same venue) from the JISC Geo meeting earlier in the week. As usual this is a liveblog so all of the same caveats as normal apply about errors and omissions. The hashtag for today is: #spacetimewg
+Leif Isaksen (also of the PELAGIOS project) is introducing us to the day by saying that Greenwich is the place where space and particularly time is measured from. If you go out into Greenwich you will see a big laser in the sky and that’s the Greenwich Meridian. And if you look at Ptolomy’s Greek Parallels Intercept you will see that London is also marked there. Ptolomy’s regular grid was the first to start looking at time in
+NeDiMAH is a new funded network for Digital Methods in Humanities and Arts from the European Science Foundation with objectives to create a map visualizing the use of digital research across Europe; an ontology of digital research methods; a collaborative interactive online forum for the European community of practioners active in the area. There are also a number of working groups.
+Continue reading »
+Share/Bookmark
+November 30, 2011
+Posted by Nicola Osborne at 9:32 am Events Tagged with: #spacetimewg, jiscGEO, location, pelagios, place, semanticweb 1 Response »
+JISC Show & Tell, Timelapse and Awards Results
+Nov 292011
+This post has now been updated to reflect the results of the JISC Geo Awards.
+These timelapses show the morning and afternoon  Show & Tell session at the JISC Geo Programme meeting:
+Morning Session Timelapse
+Flickr Video
+Afternoon Show & Tell Session
+Flickr Video
+Following the Show & Tell session the JISC Geo Programme Awards were presented to projects in the JISC Geo programme based on their achievements to date and, in the case of the Best Project award, the votes of the community collected at the end of the Show & Tell Session.
+Project Blog Post (Single Entry) of the Year was awarded to xEvents (#xevents). The nominees were: GEMMA (#gemmaProject); IIGLU (#jiscG3); NatureLocator (#naturelocator); xEvents (#xevents).
+Project Blog (Overall) of the Year was awarded to IIGLU (#jiscg3). The nominees were: GeoSciTeach (#GeoSciTeach); IIGLU (#jiscg3); NatureLocator (#naturelocator); PELAGIOS (#pelagios).
+Project Manager of the Year was awarded to Amir Pourabdollah, ELOGeo (#elogeo). The nominees were:
+Amir Pourabdollah, ELOGeo (#elogeo); Chris Higgins, IGIBS (#iGibs); Stuart Macdonald, STEEV (#STEEV); Elton Barker, PELAGIOS (#pelagios).
+Hybrid Project Manager/Developer of the Year was awarded to Nick Malleson, GeoCrimeData (#geoCrimeData).
+Project Developer of the Year was awarded to the GEMMA Team (#gemmaProject). The nominees were:
+GEMMA (#gemmaProject); Halogen 2 (#halogen2); PELAGIOS (#pelagios).
+Project of the Year was awarded by the JISC Geo Community, via voting at the JISC Geo Programme meeting, to NatureLocator (#naturelocator). The nominees included all 12 of the JISC Geo projects.
+If you are one of our fabulous project winners please do feel free to post a copy of your certificate on your own blog. You can download them from the JISC Geo Flickr Set.
+Share/Bookmark
+November 29, 2011
+Posted by Nicola Osborne at 4:44 pm Events Tagged with: jiscGEO Comments Off on JISC Show & Tell, Timelapse and Awards Results
+JISC Geo Programme Meeting – Day Two
+Nov 292011
+Today we are in day two of the JISC Geo Programme Meeting and we are liveblogging as appropriate – so any spelling issues etc. will be corrected as soon as possible – please do comment on content etc. below.
+David Flanders of JISC is introducing the day: The aim of today is to identify recommendations for the future.
+There will be three sessions which run as presentation and then break out groups around a theme. Each table will have a scribe. The goal will be to discuss potential recommendations for how JISC should advance spatial. That recommendation will then be written up by the project manager and the scribe for a given group and posted on that project’s blog and they can then be looked at further, a soft of ad-hoc community consultation. We will run this process three times today.
+Continue reading »
+Share/Bookmark
+November 29, 2011
+Posted by Nicola Osborne at 11:58 am Events Tagged with: jiscGEO 2 Responses »
+JISC Geo Programme Meeting – Day One – Show & Tell
+Nov 282011
+Today we are blogging from the JISC Geo Show & Tell event taking place at RAVE (Ravensborough College), which sits right next to the Millennium Dome/O2 Arena in London. The hashtag for today is #jiscgeo – please tag any of your own blog posts, images or tweets with this. The full programme of JISC Geo Programme Meeting events over the next few days can be found here.
+The day will split into 2 halfs. This morning we will have a Keynote from Julie Sweetkind-Singer, Assistant Director of Geospatial, Cartographic and Scientific Data & Services, Stanford University. This will be followed by an introduction to all of the JISC Geo projects by David F Flanders, JISC Programme Manager for Geospatial Innovation. Then we will break for lunch and in the second half of the day there will be a Show & Tell session where each project shows off their work around lab-style tables. We will be liveblogging the first half of the day but then manning both a INSPIRE table and a JISC GECO events table so we will blog highlights of this afternoon towards the end of the day.
+David Flanders, is introducing us to the day with an alert to keep that QR code reader app handy – there’ll be lots of QR codes appearing through the day… Also there will be blogging, tweeting, images, videos, etc. going on all day. All of these should be available under Creative Commons licences and available after the event. Please make your posts etc. available similarly and use the #jiscgeo hashtag.
+Continue reading »
+Share/Bookmark
+November 28, 2011
+Posted by Nicola Osborne at 9:41 am 15/10 Projects, Events Tagged with: jiscGEO 1 Response »
+Older Entries
+#jiscGeo Project UpdatesThe 15/10 Projects are…
+ELOGeo
+GEMMA
+geoCrimeData
+GeoSciTeach
+Halogen 2
+IGIBS
+IIGLU (aka JISC G3)
+NatureLocator
+PELAGIOS
+STEEV
+U.Geo
+xEvents / PhilEvents
+Follow the G.E.C.O.!
+Subscribe to the GECO Podcast
+Click to subscribe via iTunes or RSS
+JISC GECO Email List
+Click here to join the GECO email list
+jiscGECO ProjectPresentations from the Geospatial in the Cultural Heritage Domain Event now online March 19, 2012 Nicola OsborneLiveblog: Geospatial in the Cultural Heritage Domain, Past, Present & Future March 7, 2012 Nicola OsborneProgramme Now Available for Geospatial in the Cultural Heritage Domain – Past, Present & Future February 29, 2012 Nicola OsborneUpcoming Event: “Geospatialâ€� in the
+Cultural Heritage domain, past, present and future February 21, 2012 Nicola OsborneHappy New Year from JISC GECO! January 9, 2012 Nicola OsborneRecent CommentsBookmarks for January 21, 2014 - What I Learned Today... : What I Learned Today… on Geospatial in the Cultural Heritage domain, past, present and futureReview of Old Maps Online Launch | archaeoinaction.info on Geospatial in the Cultural Heritage domain, past, present and futureNeDIMAH Space and Time Syposium // randomosity on Space and Time in the Digital Humanities Workshop, hosted by NeDiMAH and JISC LiveBlogGregory Marler on JISC Geo Programme Meeting – Day TwoJISC Geo Show & Tell event | Go-Geo! blog on JISC Geo Programme Meeting – Day One – Show & TellMeta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+The Geospatial Engagement and Community Outreach (G.E.C.O.) project is funded by JISC and run by EDINA. EDINA is a JISC National Data Centre based at the University of Edinburgh. The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336.
+For information on the use of cookies on this site please see the EDINA Privacy and Cookies Policy.
+© 2013 G.E.C.O.
+Suffusion theme by Sayontan Sinha

@@ -1,0 +1,63 @@
+[IT Services]
+OXCRI - integrated use of XCRI at Oxford University
+Search  Main IT Services Site | Contact | A to Z | Help | Status | Rules | |OXCRI - integrated use of XCRI at Oxford UniversityHomeoxcriOXCRI - integrated use of XCRI at Oxford University
+OXCRI is a project to unify the delivery of information about
+continuing professional development courses at Oxford using XCRI.
+The University's Computing Services, Careers Service, and Department
+of Continuing Education have created web services to share and
+aggregate information in a neutral XML format about their extensive
+program of courses for students and staff.
+1. Aims and objectives
+The project aim is dynamic production of Oxford CPD courses in XCRI
+format. We have
+Generated XCRI CAP from three different existing datasets
+Aggregated the information locally via a skills portal
+Reported on appropriateness of the schema for this type of data
+Experimented with using XCRI for internal management of course data
+A more detailed report is available in report.xml.
+2. XCRI data feeds
+The OUCS course feed is documented at
+http://active.oucs.ox.ac.uk/oucs/courses/xcri/oxcap.phpThe Skills Portal feed is at
+http://www.skillsportal.ox.ac.uk/oxcri/cap.phpThe Continuing Education feed is at
+http://www.oucs.ox.ac.uk/oxcri/conted.xml
+3. Software
+In order to experiment with ‘business rules’, and to
+use extra XML validators,
+we have reimplemented the CAP schema natively in
+RELAX NG, and enhanced it with Schematron rules to make the data
+constraints even more precise. When used with an editor like oXygen
+which can read documentation elements, helpful tooltips are
+available for each element.
+The relevant files are
+RELAX NG XML syntax schemaRELAX NG XML compact syntax
+schemaW3C syntax schema (converted from
+above)NVDL schema, which additionally
+validates any embedded XHTML; this also uses a
+schema for Dublin Core
+4. Project methodology
+The three participating units joint developed PHP scripts and
+templates to produce XCRI CAP from their existing database systems
+storing course details. The XCRI CAP is delivered through
+standard web servers as REST services.
+5. Project manager
+Sebastiam Rahtz, OUCS, 13 Banbury Road, Oxford OS2 6NN
+sebastian.rahtz@oucs.ox.ac.uk
+6. Project team
+Keith Lewis (OUCS)
+Alys Morgan (Skills Portal)
+Nic Hollinworth (Continuing Education)
+1. Aims and objectives
+2. XCRI data feeds
+3. Software
+4. Project methodology
+5. Project manager
+6. Project team
+About | Contact | Privacy | Cookies
+| Feedback | Accessibility |
+© University
+of Oxford.
+IT Services documents are
+available in alternative formats through advance request from the Help
+Centre.
+Written by Sebastian Rahtz, 2007-09-27.
+Latest revision by Sebastian Rahtz Mon, 20 Jun 2011[Change Page Style: Simple text | Printable version | Normal ]

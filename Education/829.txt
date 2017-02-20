@@ -1,0 +1,12 @@
+LIPID Project Webfolio | Webfolio | Pebble Learning
+Default FontSans SerifSerifCursiveMonospace
+Default ColoursBlack/WhiteWhite/BlackWhite/Dark GreyYellow/Dark BlueBlack/Light GreyBlack/Light CyanBlack/Light MagentaBlack/Light BlueBlack/Light YellowBlack/MagentaBlack/GreenBlack/CyanBlack/YellowBlack/Red
+LIPID Project Webfolio
+Loading...
+Project OverviewLIPID BLOGLIPID ResourcesProject Overview
+The LIPID project is being funded by JISC to demonstrate the use of the Sweet.Net toolkit which is part of the eLearning Framework (ELF). Our use will be to transfer data between the SITS student management system and the PebblePad ePortfolio system. The aim of the project is to allow students to draw upon institutionally held data such as grades or contact information which will then appear in their personal area within PebblePad. Students will then be able to use this information to support further progression or job application. The project brings together The University of Wolverhampton Centre for Excellence in Learning and Teaching and Registry departments, Queen Margaret University College in Edinburgh and Pebble Learning The University of Wolverhampton and Pebble Learning will be developing the links to the toolkit and getting the systems to interoperate. Once this work is complete Queen Margaret University College will be implementing the solution to ensure the portability of the work to other organisations. The project runs from March 1st to August 31 2006.
+Tree view
+Colin Dalziel created this on 29 April 2009.This was last edited on 29 April 2009.Report inappropriate content.
+The PebblePad ePortfolio © system has been developed by Pebble Learning in collaboration with the University of Wolverhampton.
+Pebble Learning is responsible for this installation of PebblePad.
+Assertions made by users of the system are subject to this disclaimer and this code of conduct.

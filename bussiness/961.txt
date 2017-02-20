@@ -1,0 +1,4 @@
+Warning:
+require(/home2/cinemasi/public_html/katelan.co.uk/wp/wp-includes/random_compat/random.php) [function.require]: failed to open stream: No such file or directory in /home2/cinemasi/public_html/katelan.co.uk/wp/wp-includes/compat.php on line 338
+Fatal error:
+require() [function.require]: Failed opening required '/home2/cinemasi/public_html/katelan.co.uk/wp/wp-includes/random_compat/random.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/cinemasi/public_html/katelan.co.uk/wp/wp-includes/compat.php on line 338

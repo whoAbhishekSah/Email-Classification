@@ -1,0 +1,173 @@
+CERIF for Datasets | C4D is a project funded under JISC's Managing Research Data Programme
+CERIF for Datasets
+C4D is a project funded under JISC's Managing Research Data Programme
+Home
+About C4D
+C4D Partners
+C4D Team
+C4D Deliverables
+System Status
+University of Glasgow
+University of St Andrews
+University of Sunderland
+Last Post – BLOG NOW CLOSED
+October 1, 2013
+Valerie Leave a comment
+Hello,
+THIS PROJECT IS NOW CLOSED
+The official project closure date was 30th September 2013.
+We don’t plan to blog much more but please do feel free to get in touch with any questions as we are still working on research data management.
+Valerie McCutcheon
+valerie.mccutcheon@glasgow.ac.uk
+Anna Clements
+akc@st-andrews.ac.uk
+Categories: C4D
+C4D Paper presented at International Conference
+September 26, 2013
+Anna Clements Leave a comment
+Today, the paper,  “CERIF for Datasets (C4D):  Linking and contextualising publications and datasets, and much more…” was presented  by Nikos Houssos  (@nhoussos) at a workshop on Linking and Contextualising Publications and Datasets at the 17th International Conference on Theory and Practice of Digital Libraries: TPDL2013,  Valletta, Malta
+Conference details at http://www.tpdl2013.info
+The paper is due to be published by Springer in an upcoming edition of “Communications in Computer and Information Science” (CCIS)
+Slides available  : TPDL C4D Final
+Categories: C4D
+ORCID Report Published by Jisc
+September 20, 2013
+Valerie Leave a comment
+This report summarises some views on potential uses of the ORCID unique global person identifier and includes linkages to CERIF:
+http://www.jisc.ac.uk/publications/generalpublications/2013/future-of-orcid-in-uk-he.aspx
+Categories: CERIF
+Tags: Jisc, ORCID
+CERIF For Datasets – Paper
+September 9, 2013
+Valerie Leave a comment
+I’m very pleased that Nikos Houssos will be presenting our Cerif For Datasets paper at the forthcoming conference:
+http://lcpd2013.research-infrastructures.eu/
+We also included a link to the outputs of our recent workshops in the latest EuroCRIS newsletter on 2nd September.
+https://cerif4datasets.wordpress.com/2013/08/02/cerif-4-datasets-workshops-outputs-july-2013/
+Categories: C4D, CERIF, Dissemination, euroCRIS
+University of Glasgow Data Registry Update
+August 15, 2013
+Valerie Leave a comment
+I’m very enthusiastic that our live data registry has live metadata in it.  It also has a CERIF export option .
+Most of the metadata records include links to data held in third party repositories.
+Real Datasets
+We’ve lots on our to do list but making progress with our new (more responsive, more robust, and dedicated) server being set up,  DataCite almost ready to go (pending new server), and considerations over standardising fields being discussed with other ePrints sites based around the ReCollect plug-in for Datasets produced by the University of Essex.
+Categories: Glasgow
+Tags: CERIF, Essex, Glasgow, ReCollect
+CERIF 4 Datasets Workshops Outputs – July 2013
+August 2, 2013
+Valerie 2 comments
+Discussing issues Glasgow
+Many thanks to everyone who attended the workshops in Glasgow and London and contributed to the lively exchange. It was great to see so many colleagues travelling from near and far to take part and share their experiences.
+A summary of the feedback from those who returned a form can be viewed here:
+Attendees Feedback
+Overall feedback was very positive.  In fact I noticed that the most negative comments came from the project team members ourselves!
+An informal ammalgamated summary of the discussion notes is available now:
+Issues Discussed at CERIF 4 Datasets Workshops July 2013
+The key issues raised included:
+1) Clarifying the specification for research data management
+2) Getting Senior Management committment
+3) Setting up suitable systems and processes
+4) Getting staff to engage with Research Data Management
+5) Quantifying costs and getting budget
+6) Integration of services across organisational boundaries
+As well as including key points in our final report to Jisc we will be following up on some of these issues e.g. for item 1 we will speak to ARMA about co-ordinating work on clarifying data management requirements. More blog posts may result and there may be email requests and updates to workshop attendees.
+Simon Hodson speaking at London
+Breakout group London
+Workshop Slides
+Jisc Background to the RDM Programme
+RCUK data policy
+Project Key Findings and CERIF overview
+Sunderland Case Study
+Glasgow Case Study
+St Andrews Case Study
+Digital Curation Centre support
+Archeology Data Service
+UK Data Archive  This team provide lots of freely available training & other resources
+If we have any comments on the report, please don’t hesitate to get in touch using the comment button below or by email to valerie.mccutcheon@glasgow.ac.uk
+Any other ideas or comments not covered at the workshop are most welcome and will be considered for the project manager’s final report which I plan to post on this blog by the end of September.
+Anna and I are both away on holiday next week but I will follow up on any comments or feedback on my return week commencing 12th August.
+Once again, thanks to everyone who helped to make the workshops a success.
+Categories: C4D, CERIF, Dissemination, Glasgow, JISC, St Andrews, Sunderland
+Tags: ADS, Archaeology Data Service, CERIF, UK Data Archive, UKDA
+Datasets, Publications, and ORCID
+July 31, 2013
+Valerie Leave a comment
+Hi All,
+Here is a link to a paper we recently published.
+http://eprints.gla.ac.uk/83882/ (DOI http://dx.doi.org/10.1629/2048-7754.80)
+It is primarily about open access to publications but as funders often require some reference to datasets it does include some comment on what we are doing to integrate information about datasets into the overall open access process.
+In addition a few folk were interested in ORCID.
+Here is a screen shot of the article attached to my ORCID id.
+ORCID SCREEN SHOT
+University of Glasgow have subscribed to ORCID and we are currently in the early stages of working out how we will synchronise information about research outputs etc and hope to be able to share our journey with the community.
+Categories: Glasgow
+Older Entries
+RSS feed
+Google
+Youdao
+Xian Guo
+Zhua Xia
+My Yahoo!
+newsgator
+Bloglines
+iNezha
+Subscribe
+Enter your email address to receive notifications of new posts by email.
+Recent Posts
+Last Post – BLOG NOW CLOSED
+C4D Paper presented at International Conference
+ORCID Report Published by Jisc
+Categories
+C4D (83)
+CERIF (18)
+Dissemination (9)
+Downloads (1)
+EPSRC (5)
+euroCRIS (6)
+Glasgow (28)
+IRIOS (5)
+JISC (9)
+NERC (3)
+St Andrews (8)
+Sunderland (4)
+Uncategorized (1)
+Archives
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+December 2011
+November 2011
+October 2011
+Blogroll
+CERIF in Action
+Digital Curation Centre
+IRIOS
+IRIOS-2
+JISC
+Research Clusters
+Research Outcomes
+Top
+Create a free website or blog at WordPress.com.
+CERIF for Datasets
+Blog at WordPress.com.
+Post to
+Cancel

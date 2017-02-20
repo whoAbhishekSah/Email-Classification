@@ -1,0 +1,64 @@
+National Centre for Text Mining — Text Mining Tools and Text Mining Services
+You are in: Home | Welcome to NaCTeM
+Home
+Aims & Objectives
+NaCTeM Services
+Text Mining Tools
+Text Mining Infrastructures
+Resources
+Terms & Conditions
+FAQ
+News & Events
+People
+Projects
+Publications
+Community
+External Collaboration
+Vacancies
+Teaching & Tutorials
+Feedback
+How to Find Us
+Welcome to NaCTeM
+The National Centre for Text Mining (NaCTeM) is the first publicly-funded text mining
+centre in the world. We provide text mining services in response to the requirements
+of the UK academic community. NaCTeM is operated by the University of Manchester.
+On our website, you can find pointers to sources of information about
+text mining such as links to
+text mining services provided by NaCTeM
+software tools, both those developed by the NaCTeM team and by other text mining groups
+seminars, general events, conferences and workshops
+tutorials and demonstrations
+text mining publications
+Let us know if you would like to include any of the above in our website.
+What text mining can do for you
+Text mining offers a solution to the challenge of 'data deluge', information overload and information overlook. For more information, please see:
+NaCTeM Brochure
+Mining Biomedical Literature.
+Event extraction for systems biology by text mining the literature
+Supporting the education evidence portal via text mining
+Using text mining for study identification in systematic reviews: a systematic review of current approaches
+Event-based text mining for biology and functional genomics
+Processing biological literature with customizable Web services supporting interoperable formats
+Enhancing Search: Events and Their Discourse Context
+A method for integrating and ranking the evidence for biochemical pathways by mining reactions from text
+Text Mining supporting Search for Knowledge Discovery in Diabetes
+NaCTeM has developed text mining services and service exemplars for the UK academic community. Our services are underpinned by a number of generic natural language processing tools:
+TerMine is a Term Management System which identifies key phrases in text.
+AcroMine is an acronym dictionary which can be used to find distinct expanded forms of acronyms from MEDLINE.
+Kleio is an advanced information retrieval system
+providing knowledge enriched searching for biomedicine.
+FACTA+ is a MEDLINE search engine for finding associations between biomedical concepts.
+IRS facilitates advanced searching of documents by making use of added value features extracted from full texts using NaCTeM text mining tools.
+History of Medicine (HOM) – A semantic search system over historical medical archives
+MEDIE uses semantic
+search to retrieve biomedical correlations from MEDLINE.
+Info-PubMed uses a
+gene/protein dictionary and deep parsing to understand
+protein interactions
+[Firefox Required].
+A member of
+Featured NewsTwo Research Associate positions available at NaCTeMWorkshop at Biocuration conference at Stanford UniversityInvited talk at Text and Data Mining event in ParisNew article describing method and enriched corpus for normalising phenotype mentions in textParticipation in panel session on improving uptake of text and data mining in the EUProf. Tsujii awarded Okawa prizeFeatured News FeedOther News & EventsInvited talk at HBIO 2016Keynote talk at DAMDID 2016Keynote talk at SEPLN 2016Participation in panel session on evidence synthesis at ICHI 2016Talk at Café Scientifique, Manchester Other News Feed
+Content copyright © 2016, The National Centre for Text Mining — University of Manchester
+Site maintained
+by
+Paul Thompson. Last updated: 25th July 2016

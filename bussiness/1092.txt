@@ -1,0 +1,40 @@
+Nine Tiles
+developers of digital networks for time-critical media
+We have over 30 years' experience of developing
+digital networking systems.
+Our Flexilink technology meets the requirements for 21st-century digital networks that IP can't meet, including:
+Lowest possible latency for live media
+Low per-packet overheads (both header size and processing requirement)
+Flexible addressing
+Support for mobility and security
+Ease of management
+An outline of the rationale behind Flexilink is here.
+We also play a leading role in international standardisation, including ETSI ISG NGP, MPEG, AESSC SC-02, and IEC Project Team 62379, which is developing a Common Control Interface to make it easy to configure and control networked audiovisual equipment (see www.iec62379.org).
+Download from here ITU-T's report on applications that need the low latency our Flexilink technology provides.
+Flexilink digital network technology
+provides a guaranteed, low-latency service for media streams even when sharing the network with other traffic
+transparent, efficient, and easy to manage -- no need for elaborate traffic management
+interworks with legacy IP-based protocols
+FAQ
+Aubergine implementation platform and development environment.
+Follow these links for details of:
+design and development services
+legacy products
+Nine Tiles,
+The Hall,
+9, Station Road,
+Waterbeach,
+Cambridge CB25 9HT
+England.
+phone:
++44 1223 862599
++44 1223 511455
+e-mail: webenq
+[at] ninetiles.com
+J S & Dr C R Grant trading as Nine Tiles
+---oOo---
+The name Nine Tiles is a reference to the game of Mah-jongg, in which the Calling Nine Tiles
+hand (shown below) scores the maximum.
+If you came here looking for building materials, or any other sort of tiles, then sorry, but
+we can't help.
+Copyright ©2001-2016 Nine Tiles

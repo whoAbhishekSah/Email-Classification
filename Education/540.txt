@@ -1,0 +1,28 @@
+FAILTE:
+home page
+Home | About |
+Documents | Team | Links
+FAILTE
+FAILTE stands for Facilitating Access to Information on Learning Technology for Engineers.
+FAILTE is the gaelic word for WELCOME, and is pronounced something like 'fawl-sha'.
+Contact
+Please contact Phil Barker,
+if you require further information on FAILTE.
+Introduction
+FAILTE aims to provide a unified approach to the description and cataloguing of electronic learning resources for engineering. We are building an internet resource catalogue and other services which we hope will
+help lecturers select and access suitable computer- and web-based learning materials for their courses.
+SearchLT, the service we are developing is available at searchLT.engineering.ac.uk, but pleased be warned that this is a work in progress, and will improve with time. You can also access SearchLT via the EEVL engineering website
+Also Available
+About the Project
+Further information about the FAILTE project, including what we are doing, how we are approaching the task and who is involved.
+Documents
+Full project plan, reports and papers produced as part of the project.
+Team
+Contact details for members of the team and links to their own websites.
+Links
+Other websites relevant to the work of the FAILTE project.
+To contact the maintainers - mail philb@icbl.hw.ac.uk
+HTML
+by Phil Barker, ©
+All rights reserved.
+Last modified: July 08, 2002.

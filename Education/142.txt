@@ -1,0 +1,58 @@
+Dario Landa-Silva - Office Space Allocation System
+Back to the Research Activities
+Automated Office Space Allocation
+Objectives
+The difficulties concerning the problem of office space allocation in universities have caused an increasing amount of concern
+within higher education over the last few years. Attempts to alleviate this problem have been tried, either by increasing the available
+office space or by increasing the efficiency of how the space is used.
+The Automated Office Space Allocation software has been developed at the ASAP
+research group at the the University of Nottingham under the Joint Technology Applications Programme (JTAP) of the HEFC's Joint
+Information Systems Committee (JISC). The aim has been to apply the latest meta-heuristic technology to produce a state-of-the-art, user friendly
+and interactive tool for office space administrators. Emphasis is on producing a usable, intuitive system that will provide good quality solutions to room
+allocation problems and will allow the user to manually alter these solutions and then go back to the system. The basic idea is that the
+user will find a high quality solution by using the system and his/her own knowledge of the problem in hand. This is a project that started
+in August 1996 and as a result of the initial three years stage, we obtained the first version of the system. In the second stage since May 1999 the
+system has been improved with new algorithms and features, it is a Windows 2000/NT application and is capable of reading in space data from any
+Windows ODBC supported database format.
+Brief Description
+The software provides useful statistical and graphical information for administrators and network connectivity enables central
+office space administrators to monitor up to date allocations and statistics on a wide variety of aspects of office space utilisation.
+The functionality of this first version of the software is limited since the focus of the Metaheuristics
+and Multiobjective Approaches for Space Allocation project was the scientific research rather than the commercial development of the system. For
+any comment, feedback or further interest please
+email me.
+The description of the data files structure needed to run the software and some test problems used in our experiments
+are available here. The Technical Documentation and the
+User Manual are also available.
+Loading the data files
+Select File then Open in the main menu.
+Select the data files set to be loaded.
+The following window appears.
+Here you can change any of the data files.
+Click the OK button.
+The following window appears.
+The name name of the data file set loaded is in the title bar. On the left panel, there is a tree view showing
+the main sections of available information within the system: Fitness Statistics, Guidelines, Resources Summary, Rooms Summary, Space View
+and List of Room Changes.
+Performing the office space allocation
+Select File then System User in the main menu.
+The following window appears.
+Select the desired Search Process Type.
+Click the Run Algorithm button.
+The system performs the allocation.
+Evaluating the allocation
+Select the Fitness Statistics section in the left panel to view the resulting statistics of the
+current allocation.
+The Resources Summary section shows the data and allocation of every single resource in the
+current problem.
+The Rooms Summary section shows the data and occupants of every single room in the
+current problem.
+The UnAllocated Resources section shows those resorces that have not been scheduled.
+Select Windows and then Layout Window in the main menu to display any exiting
+layout drawing of the office space in the current problem.
+Related Information
+The test data sets for this project were created from real data collected from British Universities.
+The publications, including the PhD Thesis in pdf format, related to the office space allocation research project are available here.
+Here there is a brief description of the
+office space allocation problem.
+Last Update: 20 September 2005

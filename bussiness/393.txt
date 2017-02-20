@@ -1,0 +1,72 @@
+360 is Performance, Security & Virtualization
+360 is Performance, Security and Virtualization
+About
+Clients
+Blog
+Library
+Contact
+Bango provides Google, Facebook & Microsoft with payment analytics
+360is designed and architected a fully virtualised US data centre, including servers, switching, shared storage, and lights out management for Bango’s payment and analytics services. More
+CNRI is an energy company operating in the North Sea, Canada, and Africa
+360is designed and deployed a high performance, GPU-accelerated, virtual desktop platform for 60 geologists. It allowed staff to work remotely and CNRI to achieve a 2:1 ratio of analysts to Schlumberger Petrel licenses. More
+Your successful project
+Our engineers will take you from defining the problem to figuring out a strategy, and implementing the solution. More
+graph
+performance
+storage analytics
+data
+tuning
+benchmarking
+engineering
+re-architecting
+Read more
+ethical
+hacking
+security
+audit
+compliance
+penetration
+test
+incident response
+Read more
+architecture
+cloud
+cloudstack
+virtualization
+storage
+data centre
+vendor evaluation
+design
+devops
+virtual desktop
+software development
+Read more
+Latest News
+White Papers & Articles
+Understanding, Commissioning, & Maximising Value from Penetration Testing
+What are the different kinds of penetration test? What should we do with the results? How can we get maximum value from the exercise?
+Read more
+Newsletter
+Update Soon
+360is will be posting the latest edition of our security briefing for clients here.
+Read more
+Lessons From WikiLeaks
+What does Wikileaks teach us about Information Security? How should we protect confidential information? What can you do to avoid your own leak?
+Read more
+Preparing for Security Event Management
+SEM/SIEM is the largest, most complex, most costly investment an Information Security manager will make. Don't get it wrong.
+Read more
+Performance
+Security
+Virtualisation
+White Papers & Articles
+Home
+About
+Clients
+Blog
+Library
+Contact
+Follow us on Twitter
+Connect on LinkedIn
+Copyright ©2013 360IS
+Registered Office: 82b High Street, Sawston, Cambridge, CB22 3HJ

@@ -1,0 +1,131 @@
+On Wikipedia, Cultural Patrimony, and Historiography | booktwo.org
+booktwo.org
+Blog
+Talks
+Videos
+Portfolio
+About
+Contact
+RSS Feed
+On Wikipedia, Cultural Patrimony, and Historiography
+September 6, 2010
+On Friday, I spoke at dConstruct in Brighton. Huge thanks to everyone at Clearleft, and everyone who came, for a really great time.
+I talked about a number of things. I started out talking about Geocities, and how it was a very real thing, a place that I grew up in, and how it was lost too easily. This, despite efforts like the Wayback Machine from the Internet Archive (which, incidentally, is kept in a shipping container).
+William Gibson spoke recently at BEA. He said this:
+“If you’re fifteen or so, today, I suspect that you inhabit a sort of endless digital Now, a state of atemporality enabled by our increasingly efficient communal prosthetic memory. I also suspect that you don’t know it, because, as anthropologists tell us, one cannot know one’s own culture.”
+Which struck me pretty hard, that bit about atemporality, and the flatness of digital memory, but particularly our lack of awareness of this situation. I talked about the Library of Alexandria, and the Yo La Long Dia, and the National Libraries of Bosnia-Herzegovina and Iraq—all examples of cultural destruction caused in part by neglect and willful disregard for our shared patrimony.
+These losses, despite their horror, will always happen: but what can we do to mitigate and understand them? In a world obsessed with “facts”, a more nuanced comprehension of historical process would enable us to better weigh truth, whether it concerns the evidence for going to war, the proliferation of damaging conspiracy theories, the polarisation of debate on climate change, or so many other issues. This sounds utopian, and it is. But I do believe that we’re building systems that allow us to do this better, and one of our responsibilities should be to design and architect those systems to make this explicit, and to educate.
+One of the ways to do this might be to talk more not only about history, but about historiography. History not as a set of facts, but as a process, and one in which, whether we agree or not with the writers, our own opinions and biases are always to be challenged
+I talked about Wikipedia because for me, Wikipedia is a useful subset of the entire internet, and as such a subset of all human culture. It’s not only a resource for collating all human knowledge, but a framework for understanding how that knowledge came to be and to be understood; what was allowed to stand and what was not; what we agree on, and what we cannot.
+As is my wont, I made a book to illustrate this. Physical objects are useful props in debates like this: immediately illustrative, and useful to hang an argument and peoples’ attention on.
+This particular book—or rather, set of books—is every edit made to a single Wikipedia article, The Iraq War, during the five years between the article’s inception in December 2004 and November 2009, a total of 12,000 changes and almost 7,000 pages.
+It amounts to twelve volumes: the size of a single old-style encyclopaedia. It contains arguments over numbers, differences of opinion on relevance and political standpoints, and frequent moments when someone erases the whole thing and just writes “Saddam Hussein was a dickhead”.
+This is historiography. This is what culture actually looks like: a process of argument, of dissenting and accreting opinion, of gradual and not always correct codification.
+And for the first time in history, we’re building a system that, perhaps only for a brief time but certainly for the moment, is capable of recording every single one of those infinitely valuable pieces of information. Everything should have a history button. We need to talk about historiography, to surface this process, to challenge absolutist narratives of the past, and thus, those of the present and our future.
+More photos of the books are, as ever, available on Flickr.
+UPDATE: You can listen to the whole talk, and me saying “um” a lot, over at Huffduffer. The slides are also available.
+NOTE: Yes, the books are out of order in the photos. Kindly do not draw inferences from this. It’s just a photograph. Seriously.
+93 Comments
+[…] Wikipedia, cultural patrimony, and historiography — “History not as a set of facts, but … […]
+Pingback by Wikipedia, cultural patrimony, and historiography | Hammer of Truth 2010 — September 10, 2010 @ 2:15 am
+don’t forget the discussion pages on Wikipedia, which often contain much more information, both about the article and about the article’s subject, and about people’s ideas of the article and its subject…
+Comment by brian — September 10, 2010 @ 2:42 am
+[…] the full entry here.
+Tagged with: historiography, international politics, Internet, Iraq, literature, new media, […]
+Pingback by Wikipedia’s not just any old encyclopedia: James Bridle | Passing Comments — September 10, 2010 @ 10:50 am
+[…] James Bridle of BookTwo has created a twelve volume, hardcover, leather-bounded series of books containing every edit made to the Wikipedia page on The Iraq War. It is beautiful.
+Category: Linked […]
+Pingback by Linked: James Bridle prints ‘Iraq War Book’, From Wikipedia – Novelr - Making People Read — September 10, 2010 @ 3:23 pm
+[…] a post on Monday, Mr. Bridle talked about Wikipedia and the lack of understanding readers have about the backstory of each entry on the Web […]
+Pingback by The Story Behind a Wikipedia Entry - NYTimes.com — September 10, 2010 @ 4:06 pm
+[…] y disputas, con cada edición. Sobre por qué eligió Wikipedia para materializar este concepto, él dice que la ve como un subconjunto de toda la InternetNo es sólo un recurso para compaginar todo el […]
+Pingback by La entrada de Wikipedia sobre la guerra de Iraq convertida en una enciclopedia en ALT1040 (Internet) — September 10, 2010 @ 5:16 pm
+[…] the New York Times pointed to a compelling article about how WikiPedia entries are made.  The article, or post, really, came from Booktwo, a blog kept by UK-based publishing vet James Bridle, who describes himself as an […]
+Pingback by Booktwo: A Cool Blog About the Future of Books « PWxyz — September 10, 2010 @ 5:51 pm
+[…] the New York Times pointed to a compelling article about how WikiPedia entries are made.  The article, or post, really, came from Booktwo, a blog kept by UK-based publishing vet James Bridle, who describes himself as an […]
+Pingback by Booktwo: A Cool Blog About the Future of Books | Olala Books — September 10, 2010 @ 5:55 pm
+[…] нейното формиране post factum – в аудио презентация и в блога му.
+Публикувано от Спас Колев на септември 10 2010, петък, в […]
+Pingback by Не съвсем неутрално : Уикиархеология и други връзки — September 10, 2010 @ 6:08 pm
+[…] James Bridle’s publication of a 12 volume set chronicling every edit made on the Iraq War Wikipedia entry has been making the rounds this week. I was moved by this project not only for the author’s intent but for what it symbolizes about how data and facts exist in our online lives. Bridle positions the project as a work of Historiography, writing: This is historiography. This is what culture actually looks like: a process of argument, of dissenting and accreting opinion, of gradual and not always correct codification. […]
+Pingback by Experiencing the digital through the analog. | Mediated — September 10, 2010 @ 7:33 pm
+[…] of the online world’s illusion of atemporality, and the need to establish the basis for a digital historiography that provides more than just a commitment to preservation. It requires curation, and curation […]
+Pingback by Nick Sweeney · what Bagpuss can teach us about the internet — September 10, 2010 @ 8:52 pm
+[…] “the future of literature and the publishing industry.” He discussed the usefulness of maintaining a complete history of Wikipedia edits, using the “Iraq War” entry as an […]
+Pingback by Do Internet-connected books have a future sooner than later? « Write Edit Teach — September 10, 2010 @ 10:00 pm
+[…] 在星期一张贴，布赖德尔先生谈到关于维基百科和读者都缺乏了解有关背景故事的Web站点上的每个条目。 […]
+Pingback by 维基百科条目背后的故事 « My China – 我的中国 — September 11, 2010 @ 9:20 am
+[…] Boutique book publisher and geek James Bridle has printed the 12,000 edits made to the controversial Wikipedia entry for Iraq War between […]
+Pingback by 12 volumes of Wikipedia’s edits of the Iraq War entry | Cory HOLT — September 11, 2010 @ 5:50 pm
+[…] James Bridle: On Wikipedia, Cultural Patrimony, and Historiography “Wikipedia is a useful subset of the entire Internet, and as such a subset of all human culture. It’s not only a resource for collating all human knowledge, but a framework for understanding how that knowledge came to be and to be understood; what was allowed to stand and what was not; what we agree on, and what we cannot… This is historiography. This is what culture actually looks like: a process of argument, of dissenting and accreting opinion, of gradual and not always correct codification.” […]
+Pingback by Bloggers’ Week in Review: The Web’s Best Writing « — September 11, 2010 @ 9:49 pm
+[…] qui leur est associée. Wikipeida a une API, ainsi on peut faire quelque chose comme de fabriquer des livres à partir de l’ensemble des versions successives de l’article de Wikipedia concernant la guerre […]
+Pingback by Changer nos façons de travailler (3) « teXtes — September 12, 2010 @ 12:35 am
+[…] book publisher and geek James Bridle has printed the 12,000 edits made to the controversial Wikipedia entry for  Iraq War between […]
+Pingback by Consider » Blog Archive » Wikipedia and the Meaning of 9/11 — September 12, 2010 @ 3:21 am
+[…] Bridle’s incredible talk on Wikipedia, Cultural Patrimony and Historiography. He talked about the stories behind our digital information, the history and the historiography […]
+Pingback by Brainfood // katy lindemann // seemingly unconnected — September 12, 2010 @ 2:47 pm
+[…] قام الأمريكي James Bridle بطباعة جملة التعديلات التي أدخلت على […]
+Pingback by عندما يطبع تاريخ صفحة حرب العراق على Wikipedia في 12 مجلدا | المجلة التقنية — September 12, 2010 @ 5:52 pm
+[…] an editor, publisher, writer, curator, producer, programmer, designer and cook”, se define James Bridle que acaba de concretar un proyecto increíble al publicar 12 volúmenes que contienen las 12 mil […]
+Pingback by Imprimen la discusión sobre el artículo de Wikipedia de la Guerra de Irak | tejiendo redes — September 13, 2010 @ 2:18 am
+[…] matthewmarco: In case you missed it, a history of the Iraq War in Wikipedia: http://booktwo.org/notebook/wikipedia-historiography/ […]
+Pingback by In case you missed it, a … « Studies of Matthew T. Marco — September 13, 2010 @ 6:33 am
+[…] request that we not cite Wikipedia, and I came across this project that neatly underscores why—a 12-volume book set comprised of every Wikipedia edit to “the Iraq War” entry over a 4 year span. Talk about “warring” worldviews. What a unique record of and […]
+Pingback by Erica Glasier: Oversocialized! » Blog Archive » Ah, University: where the girls smell like beer and the boys smell like Axe. — September 13, 2010 @ 2:55 pm
+[…] the precise way to word the record of events with disputed accounts to, well, edits such as this:According to Bridle, Wikipedia acts as a subset of the entire Internet, which in turn is a subset of human culture. He […]
+Pingback by Journalist publishes the 12,000th draft of history — September 13, 2010 @ 4:52 pm
+[…] September 13, 2010 — finnellj
+From ReadWriteWeb: Boutique book publisher and geek James Bridle has printed the 12,000 edits made to the controversial Wikipedia entry for  Iraq War between […]
+Pingback by The Iraq War: A Historiography of Wikipedia Changelogs 2006-2009 « News & Events Blog – Denison University Library — September 13, 2010 @ 7:18 pm
+[…] Shared The real truth on Wikipedia is in the edits. […]
+Pingback by Christians dagbok – 2010-09-13 | En sur karamell — September 13, 2010 @ 10:02 pm
+[…] digital flatland?   To rather wonderfully illustrate some of these ideas, John created a twelve-volume history of the Iraq war. It captures every revision to the Wikipedia page for the war, expressing the attitudes to and […]
+Pingback by Dconstruct 2010: Design and Creativity | Cogapp — September 14, 2010 @ 10:23 am
+[…] Every edit made to the Wikipedia page The Iraq War, published as a bound, multi-volume set. Via booktwo: This particular book—or rather, set of books—is every edit made to a single Wikipedia article, […]
+Pingback by A History Of The Iraq War, Through Wikipedia Edits | Disinformation — September 15, 2010 @ 6:06 pm
+[…] Bridle, author of the blog Book Two, has compiled the entire editing process of one Wikipedia page – that of the Iraq War – in a book. Or […]
+Pingback by Wikipedia Historiography « Light Sound Dimension — September 15, 2010 @ 9:51 pm
+[…] there are often disagreements, as history can look different depending on your point of view. In The Iraq War: A Historiography of Wikipedia Changelogs, James Bridle places 12,000 changes and almost 7,000 pages for the corresponding Wikipedia entry in […]
+Pingback by History of the Iraq War through Wikipedia edits — September 16, 2010 @ 9:00 am
+[…] I imagine it to be maybe not so interesting but what an idea! You should read his take on the whole thing, it’s just a little article he wrote, not 7000 pages of anonymous online […]
+Pingback by August Animals — September 16, 2010 @ 2:24 pm
+[…] On Wikipedia, Cultural Patrimony, and Historiography | booktwo.org This particular book—or rather, set of books—is every edit made to a single Wikipedia article, The Iraq War, during the five years between the article’s inception in December 2004 and November 2009, a total of 12,000 changes and almost 7,000 pages. […]
+Pingback by links for 2010-09-16 « Embololalia — September 16, 2010 @ 7:02 pm
+[…] came across an article today (at Booktwo.org) that I think has some really interesting ideas in it… …But I do […]
+Pingback by Historiography… « BCM301 — September 17, 2010 @ 4:39 am
+[…] ha un API che fa in modo che sia possibile creare un libro di tutti gli editing fatti su un determinato articolo, per esempio “La guerra in […]
+Pingback by Un libro è un sito web off-line « goodthing.it — September 17, 2010 @ 5:49 pm
+[…] Project Page […]
+Pingback by James Bridle: ‘The Iraq War: A History of Wikipedia Changelogs’ « Things I like — September 19, 2010 @ 4:53 pm
+[…] Article sur la genèse créative de Wikipédia. […]
+Pingback by Le blog de Né Kid, agence d'intégration » Nouvelle rubrique : la revue de presse de Né Kid — September 20, 2010 @ 9:07 am
+[…] On Friday, I spoke at dConstruct in Brighton. Huge thanks to everyone at Clearleft, and everyone who came, for a really great time. I talked about a number of things. I started out talking about Geocities, and how it was a very real thing, a place that I grew up in, and how it was lost too easily. This, despite efforts like the Wayback Machine from the Internet Archive (which, incidentally, is kept in a shipping container)… +booktwo.org […]
+Pingback by “On Wikipedia, Cultural Patrimony, and Historiography” via #booktwo.org « Miguel Guarrior — September 21, 2010 @ 9:21 am
+[…] Stop motion star wars kid
+Iraq war wikipedia books […]
+Pingback by Links from yesterday’s class | Art for the Internet — September 22, 2010 @ 8:06 pm
+[…] On Wikipedia, Cultural Patrimony, and Historiography (BookTwo)
+This entry was posted in Uncategorized. Bookmark the permalink.
+← Late August reads […]
+Pingback by Some Links… | Madeline Mundt — September 24, 2010 @ 1:27 am
+[…] where the bluring and crossing of this is producing interesting physical and digital artifacts. The twelve volume histroy of the Iraq war being one example that struck me – taken entirely from Wikipedia. Similarly the amazing video […]
+Pingback by on DOers and DOing at the Do Lectures | factorydesign — September 24, 2010 @ 3:04 pm
+[…] Collister picks up on some news which has been doing the rounds: James Bridle has published, in proper book dead-tree form, all the edits made to the ‘Iraq War’ Wikipedia page, […]
+Pingback by Editing Wikipedia: a postmodern phenomenon? « Kyle Christie's Blog — October 3, 2010 @ 7:16 pm
+[…] research project that shows us the massive collective collaboration on Wikipedia articles is The Iraq War: A Wikipedia Historiography. This project done by James Bridle tries to explore the history and historiography facilitated by […]
+Pingback by Wikipedia University – designing the new student | D!gital Visi0ns — October 4, 2010 @ 1:59 pm
+[…] do like this I came across on John M Jones’ twitter feed. Putting Wikipedia into a type of book bound […]
+Pingback by Wiki Wiki Wiki | — October 4, 2010 @ 11:31 pm
+[…] On Wikipedia, Cultural Patrimony, and Historiography | booktwo.org […]
+Pingback by MEMBER CENTER: | hand bag shopping — October 6, 2010 @ 5:12 pm
+Comments are closed. Feel free to email if you have something to say, or leave a trackback from your own site.
+You have been reading booktwo.org, the blog of James Bridle: literature, art, and technology, since 2006. Grab the RSS Feed for posts.
+Sign up for very occasional emails about my activities, including lectures and exhibitions:
+You may also enjoy the following posts:
+Cloud Index
+Satellite Shadows
+welcome.js
+The Art Borders Project
+The Climate of Opinion
+Designed and built by STML

@@ -1,0 +1,22 @@
+Synote| ECS | University of Southampton
+Home
+Overview
+Blog
+People
+Contact
+ecs > lsl > Synote >
+Annotating Media Resources
+The MACFOB project aims to develop a web-based multimedia annotation tool that will meet the important and pervasive user need of making multimedia web resources (e.g. podcasts) easier to access, search, manage, and exploit for students, teachers and other users through developing and deploying technologies that support the creation of synchronised notes, bookmarks, tags, images and text captions.
+Synote (Synchronised Annotation) is the annotation tool to be developed under
+MACFoB (Multimedia Annotation and Community Folksonomy Building), a JISC
+funded project carried out at Learning Societies Lab, School of Electronics
+and Computer Science, University of Southampton.
+Contact Us | Intranet | © 2008 University of Southampton
+Start date: 01/01/2008
+End date: 31/03/2009
+Funded by:
+Updates
+1st January
+Website Launched
+23rd December
+Project Start

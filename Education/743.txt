@@ -1,0 +1,111 @@
+Research data management - and other related topics...
+Skip to content
+Menu
+About
+Research data shared service
+Research data spring
+Research Data Network
+#codesign16
+Research data management
+and other related topics…
+Does my data look good in this?
+A few weeks ago, UCA organised a workshop for all those interested in research data management in the creative arts. Amy Robinson reports back with a few takeaways and some useful links. Exploring research data management in the creative arts Booked up within a flash and oversubscribed, the Jisc-funded workshop, ‘Does my data look good …
+Read more
+Posted by danieladuca on 06/02/2017 in Research at Risk, research data spring and tagged art, creative arts, research data, research data in arts.
+Electronic Lab Notebooks: Solutions for Paperless Research
+Introduction For researchers working in labs the importance of recording experiments, results, workflows, etc in a notebook is engrained into you as a student. However, these paper-based solutions are not ideal when it comes to sharing and preservation. They pile on desks and shelves, vary in quality and often include printed data stuck in. To …
+Read more
+Posted by Christopher Brown on 18/01/2017 in #codesign16, codesign17, General and tagged ELN, research, research data, research data management.
+Making sense of journal data policies
+From the Jord project onwards, Jisc have been aware of the difficulties that an unclear data policy presents when selecting a suitable journal for publication, and in complying with journal requirements once a journal has been selected. We have found that data policies are deeply idiosyncratic and often express similar ideas and processes in very …
+Read more
+Posted by dkernohan on 16/01/2017 in Research at Risk.
+Get involved again… co-design stage 2
+Late last year we kicked off a co-design consultation to identify what big new ideas Jisc should focus on once we have completed our current R&D projects. That consultation focused on 6 possible challenges: What does the imminent arrival of the intelligent campus mean for universities and colleges? What should the next generation of digital …
+Read more
+Posted by caro11ne on 10/01/2017 in #codesign16, codesign17, Research at Risk and tagged #collaboration, codesign17, digital skills.
+Metadata focus groups – report published
+In the latter half of 2016, the Research Data Shared Service project commissioned a series of focus groups with the pilot institutions. Nicky Ferguson from Clax Ltd. joined Research Consulting to conduct these focus groups. Alongside wider data and cultural issues, Nicky concentrated specifically on metadata issues. The focus groups consisted of brief presentations, discussions, …
+Read more
+Posted by Dom Fripp on 12/12/2016 in General, RDM shared services, Research Data Management Businesss Case and tagged dataset, focus groups, metadata, report, researchers, workflow.
+Collaboration and conversation at the 3rd Jisc Research Data Network Meeting
+Arriving for the first time in St Andrews last Wednesday (on St Andrew’s Day!) for the research data network meeting I could see the town nestling off to the east as the taxi swung around to some modern buildings just off the main road. I was to spend the whole day in the excellent facilities …
+Read more
+Posted by caro11ne on 06/12/2016 in RDM shared services, Research at Risk and tagged RDA, research data, research data network, research data shared service, sensitive data.
+Research Data Alliance (RDA) UK Workshop
+Introduction At the beginning of this month we hosted our first Research Data Alliance meeting in the UK. The Research Data Alliance (RDA) is a unique community-drive organisation of over 4,500 volunteers, over 44 organisations, from 115 countries, but with a shared interest to discuss and develop ‘data bridges’ to enable open data sharing across …
+Read more
+Posted by Christopher Brown on 28/11/2016 in Research data blogs and tagged RDA, research data, Research Data Alliance.
+Finding out what researchers really, really want from a research data shared service
+By Rob Johnson, Research Consulting ‘So tell me what you want, what you really, really want’ sang the Spice Girls back in 1996. I’m pretty sure they didn’t have research data in mind at the time, but 20 years on we’ve been asking the same question of researchers in relation to Jisc’s research data shared service (RDSS). The …
+Read more
+Posted by johnkaye on 27/11/2016 in RDM shared services, Research at Risk, Research data blogs and tagged Data Asset Framework, guide, RDM shared service, research data, research data management, Survey.
+Research Data Network meeting full agenda
+Next week about 100 delegates are descending on the University of St Andrews to attend the third Jisc Research Data Network event.  The aim of these events is to bring together people in the higher education sector to exchange knowledge around the practical implementation of research data management (RDM).  Attendees are expected from 28 different …
+Read more
+Posted by tamsinburland on 23/11/2016 in RDM shared services, Research at Risk and tagged DOI, research data management, research data network.
+Research data in the creative and performing arts
+Around this time last year, I started to consciously collect research data while I was creating the pieces for my first UK art exhibition. Having done some work in biochemistry and quite familiar with the concept of scientific research data, I took this as a challenge. I was overly optimistic about my experience and really …
+Read more
+Posted by danieladuca on 22/11/2016 in Research at Risk and tagged arts, CAiRO, KAPTUR, KULTUR, RDIVA, research data in arts, VADS4R.
+Post navigation
+← Older posts
+Subscribe my emailLeave Blank:Do Not Change:Your email:
+Search for:
+#JiscRDM #JiscRDM Tweets
+Tags#collaboration
+#dataspring
+#skills
+#vre
+archiving
+big data
+British Library
+case studies
+citations
+Diamond review
+digital skills
+discovery
+DOI
+EPSRC
+equipment sharing
+guide
+journal research data policy registry
+metadata
+OR2016
+ORCID
+PASIG
+preservation
+RDA
+RDM
+RDM costing
+RDM shared service
+RDM shared services
+research
+research at risk
+research data
+Research Data Alliance
+research data in arts
+research data management
+research data medatata
+research data metrics
+research data network
+research data policy
+research data shared service
+research data spring
+safe share
+sensitive data
+shared services
+social science
+uk data service
+unique identifiers
+Jisc research projects latest postsUses and abuses of journal data policies (part 1)Journal research data policy registry - Published on February 2, 2017 by dkernohan...moreReport: Open by default?Technology Foresight - Published on January 30, 2017 by Martin Hamilton...moreUKRDDS Phase 3 – enabling discovery of research dataResearch Data Discovery Service - Published on January 30, 2017 by Christopher Brown...moreA summary of DiD3 final reports from the UK projectsDigging into Data Challenge Phase 3 - Published on December 6, 2016 by Christopher Brown...moreUKRDDS Phase 3Research Data Discovery Service - Published on November 25, 2016 by Christopher Brown...more
+1
+2
+3
+…
+6
+»
+Header image:
+CC BY Alan Levine
+https://flic.kr/p/9inMT3
+Jisc Involve

@@ -1,0 +1,47 @@
+The University of Manchester Login Service
+Login Service
+Secure login for
+The University of Manchester websites and federated e-resources
+Please Login
+Username:
+Password:
+Warn me before logging me into other sites.
+Forgotten your password?
+In accessing and using information on University systems, I will comply with
+all applicable legislation, and regulations, policies and procedures of the
+University. I will only use this information in relation to my University
+duties and activities. I will not disclose any information that is subject to
+restrictions on disclosure.
+Important Security Advice
+Always check that this page has the correct address (URL) before logging in. It should always begin with
+https://login.manchester.ac.uk and also say "The University of Manchester (GB)"
+Log out and close your web browser when you have finished using services
+that require authentication.
+Read more
+security advice from IT Services
+Your IT Accounts and Online Identity
+Sign Up to get your IT Account, or check your IT account information
+Change
+your password
+Recover a forgotten
+username or password or unlock
+your account
+Contact the IT Servicedesk for help with your IT accounts
+Federated Access to Library Resources
+Use Library Search
+for searching all the Library's resources in one place.
+Access our
+Databases A to Z
+My Manchester
+A personalised
+online space that
+gives you easy access to learning
+resources, services, student support
+and information.
+View My Manchester as a guest
+The Directorate of IT Services
+The University of Manchester
+Oxford Road, Manchester, M13 9PL, UK
+Royal Charter Number: RC000797
+UManCAS v2.3.1
+Based on JA-SIG CAS

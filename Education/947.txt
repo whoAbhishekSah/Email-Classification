@@ -1,0 +1,93 @@
+OSS Watch - independent expert advice on open source software
+Skip to Navigation
+Skip to Content
+The OSS Watch website uses cookies to help us understand how our site
+is used and improve our service. Find out more about cookies.
+This is OK, don't tell me again
+OSS Watch provides unbiased advice and guidance on the use, development, and licensing of free software, open source software, and open source hardware.
+If you want to find out more about any of these topics, we're the people to ask.
+@osswatch
++osswatch
++44 (0) 1865 283416
+Toggle navigation
+Home
+Events
+Information for …
+Newcomers
+Academic End Users
+Software Developers
+IT Managers and Technical Staff
+Strategic IT Decision Makers
+Resources
+Briefing Notes
+Strategy and Policy
+Open Source Software Development
+Intellectual Property Rights (IPR), Licensing and Patents
+Building Communities
+Case Studies
+Examples of Open Source Software
+National Software Survey
+Videos
+Book Reviews
+Presentations
+Newsletters
+About
+About OSS Watch
+OSS Watch Team Blog
+Contact Us
+FAQ
+Open Source Options for Education
+Updated 03/01/2014 Looking for
+open source alternatives to closed source software? We maintain a list of options for
+open source software for use in the education sector for everything from
+libraries and administration systems to subject-specific teaching tools.
+Wherever possible we also link to real-life examples and case studies of
+use by educators and institutions.
+Openness Rating
+Is your software open or fauxpen? This is the question that OSS Watch, in partnership with Pia Waugh, developed the Openness Rating to help you find out.
+Using a series of questions covering legal issues, governance, standards, knowledge sharing and market access, the tool helps you to identify potential problem areas for users, contributors and partners.
+Get started with the Openness Rating tool.
+Briefing Notes
+We publish Briefing Notes covering a wide range of issues relating to
+open source software use and development.
+Latest briefing notes:
+new Preserving And Curating Software
+new Recruiting and working with student developers
+new Open Source and the Cloud
+updated Sustainable Open Source
+More Briefing Notes
+You can search our resources using the search box above or you can browse
+specific resource aimed at your particular role or by subject using the
+links at the bottom of the page.
+If you don't find what you are looking for please mail us and
+we will do our best to help.
+Recent Posts
+Subscribe to RSS headline updates from:
+Powered by FeedBurner
+More on the OSS Watch blog
+Events
+Come and meet us at the events below
+See more OSS Watch events on Lanyrd
+Sign Up For Our Mailing List
+Receive alerts and announcements from OSS Watch via email.
+Sign up now
+Tweets by @osswatch
+Information for
+Newcomers
+Academic end users
+Software developers
+IT managers and technical staff
+Strategic IT decision makers
+Resources
+Strategy and policy
+Open source software development
+Intellectual property rights (IPR), licensing and patents
+Building communities
+Case studies
+Unless otherwise indicated, this page is © 2007-2014 University of Oxford.
+OSS Watch - independent expert advice on open source software
+is licensed under a
+Creative Commons Attribution-ShareAlike 4.0 International License
+.
+OSS Watch values your input and questions. If you have feedback on this
+document, or any OSS Watch activity, please send it to: info@oss-watch.ac.uk.

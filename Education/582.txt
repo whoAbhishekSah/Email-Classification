@@ -1,0 +1,23 @@
+GRAND
+GRAND
+GRanularity, Audit, N-tier, and Delegation
+IntroductionNewsTeamResourcesFeedback
+GRAND
+n. a JISC-funded project at Newcastle UniversityGRanularity, Audit, N-tier, and Delegation
+Introduction
+The GRAND project addresses three core areas in Access and Identity management. These areas being "Granularity and Delegation", "Audit and Accounting" and "N-tier authentication".
+The project will take a look at the practical real world issues uncovered by addressing those areas in a large institute. The project will achieve this by investigating cutting edge approaches
+that address these areas and by making these approaches a practical, usable, widely deployed reality.
+Granularity and Delegation
+"Granularity and Delegation" will be treated as one subject area, as these two closely related concepts display a great deal of overlap. One of these key overlaps being when addressing delegation, with a major consideration
+being how fine grained to make the delegated authority. The project will consider the best approach to delegation in terms of enabling an apsect of someone's role to be delegated, rather than allowing users to mimic another users full aspects of a role.
+Careful structuring of access control groups using tools such as the Grouper group management tool, can be used to enable delegation of an aspect of a user's role. The project will investigate the policy, procedure and user education issues around ensuring that this structuring allows secure, flexible, sustainable and most importantly usable delegation of aspects of a role in real world situations.
+Audit and Accounting
+The project will develop and documents use cases, supporting policy and technical tools necessary to add useful audit function to Shibboleth and Grouper deployments. Currently Shibboleth produces logs suitable for audit purposes and Grouper 1.5 will also provide audit logging support, yet these will be seen as separate entities.
+As part of "Audit and Accounting", tools will be developed to process these logs and produce legible output which can be used to build a picture of what actions a user could carry out at the time of being logged in to a system.
+This area of the project will also look at the data protection and privacy issues inherent in creating audit trails and historical records.
+N-tier Authentication
+The development of N-tier authentication will help to extend portal based syndication and personalisation approaches to applications that contain potentially sensitive data such as print credit systems and student self service portal, currently we are limited to non-sensitive data. The lack of a robust secure authentication channel between front end portals and web application systems is a barrier to integrating sensitive applications into personalised portals.
+This project will establish and report use cases that require N-tier authentication as a base to produce a specification for a login handler. From this specification the project will aim to develop a Shibboleth plugin that supports SPNEGO autologin offered by Shibboleth and exposes Kerberos tickets to Shibboleth so that they can be used for N-tier approaches.
+Latest NewsStructuring Groups In Grouper13/01/11, 10:16Identity Management Matters18/11/10, 15:42Fall 2010 Internet2 Member Meeting08/11/10, 13:35Improved information flow leads to better wireless access07/10/10, 11:26User Login Metrics Use Case04/10/10, 16:30Analysing Shibboleth and Grouper logs27/09/10, 15:36
+©  2009 Newcastle University.

@@ -1,0 +1,41 @@
+ACRID: a JISC-funded UEA-STFC project about climate date
+About ACRID
+People
+News & Progress
+Outputs
+CRUTEM
+> CRUTEM3 workflow
+> CRUTEM archive
+UEA :
+ENV :
+CRU :
+Projects
+Welcome to the ACRID project web site
+About the ACRID project
+The ACRID project is a collaboration between UEA, STFC and the Met Office, funded by
+JISC as part of their Managing Research Data programme, with the aim to develop an
+approach to publishing climate research data in a way that facilitates citing, re-use
+and the provision of full provenance information for processed data.
+The Advanced Climate Research Infrastructure for Data (ACRID) project is funded by JISC as part
+of their Managing Research Data programme.
+This programme is targeting a number of areas, including projects that encourage the publication of
+research data using improved methods of citing, linking and integrating datasets.
+More information about the ACRID project and how it links into this strand of the JISC Managing
+Research Data programme is available
+here.
+The overall aim of the ACRID project is to implement a linked-data
+approach for sharing some example climate datasets, and in doing so develop the necessary architecture, infrastructure
+and tools that might be implemented more widely within the climate science community.
+The ACRID project will try to
+demonstrate how the publication of datasets developed by the climate science community might be improved, so that
+the provenance of the published data can be more clearly recorded (e.g. data sources and versions, software versions,
+and processing options);
+published data can be recreated more straightforwardly from source data even a number of years after publication;
+data can be cited in a way that links more directly to the precise version of data that was used and, by using
+the linked-data approach, make relationships between different datasets clearly visible.
+We will not be aiming to develop an operational system within the ACRID project, though we hope that the project results
+will lead to approaches and techniques that the project partners and others might employ in the future.
+Although the case studies are key elements of our project, we expect that the approaches and prototypes
+we develop, assess and implement will provide useful guidance and exemplars for other areas of climate
+science.
+Last updated October 2010 by Tim Osborn

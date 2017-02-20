@@ -1,0 +1,7 @@
+Code Red Technologies
+Home
+Code Red Technologies has been acquired by NXP Semiconductors
+Following the acquisition of Code Red Technologies by NXP Semiconductors, the content of this site is no longer available.
+Code Red Technologies products now form the basis of NXP Semiconductors' LPCXpresso product. Read more about LPCXpresso here.
+The Code Red Technologies support website is still available here.
+Existing users of Red Suite should read this FAQ for further information.

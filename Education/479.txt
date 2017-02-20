@@ -1,0 +1,81 @@
+About us | Edinburgh Data-Intensive Research
+Skip to main content
+Search form
+Search
+Edinburgh Data-Intensive Research
+Main menuProjects
+Open Questions
+People
+Publications
+Partners
+Presentations
+Seminars
+Student Projects
+Contact
+Account
+Latest news
+Publication
+C2MS: Dynamic Monitoring and Management of Cloud Infrastructures
+1 year 7 months ago
+Presentation
+Ad hoc Cloud Computing
+1 year 7 months ago
+Publication
+Evolutionary Computation and Constraint Satisfaction
+1 year 8 months ago
+Publication
+Ad hoc Cloud Computing
+1 year 10 months ago
+Software release
+DICOM Confidential 1.4.4 released
+2 years 2 weeks ago
+Story
+Congratulations to Gary McGilvary on his PhD
+2 years 5 months ago
+Publication
+Ad hoc Cloud Computing (PhD Thesis)
+2 years 5 months ago
+Publication
+Quantification of Ultra-Widefield Retinal Images
+2 years 6 months ago
+Publication
+Precise montaging and metric quantification of retinal surface area from ultra-widefield fundus photography and fluorescein angiography
+2 years 6 months ago
+Software release
+New DICOM Confidential Release
+2 years 7 months ago
+Pages1
+2
+3
+4
+5
+6
+7
+8
+9
+…
+next ›
+last »
+more
+About us
+The Edinburgh Data-Intensive Research group sits in the School of Informatics of the University of Edinburgh and is part of the UK's National e-Science Centre and the school's Centre for Intelligent Systems and their Applications. We collaborate closely with the National e-Science Hub of the University of Glasgow and EPCC of the University of Edinburgh.
+Our mission
+Data-intensive refers to huge volumes of data, complex patterns of data integration and analysis and intricate interactions between combinations of users and systems that deal with these data. Our mission is to advance methods that harness the power of data and computation in collaborative environments. Our goal is to support the life cycle of data to information to knowledge in a multi-disciplinary and multi-organisational context. To achieve this we pursue research in e-Science and Informatics and apply our methods in several scientific and industrial domains.
+Our expertise
+Our group does interdisciplinary research with the aim to progress methods in computer science and tackle data-intensive challenges in diverse areas of science and business. The remit of the group comprises the following.
+Effective algorithms for data analysis, data mining and combinatorial optimisation.
+Distributed and data-intensive systems for efficient orchestration of data and computation.
+Reusable components and new conceptual models for systems that can be deployed across disciplines.
+Notations to describe and optimise data-intensive processes, manifest as DISPEL.
+Intuitive interfaces and collaboration environments to enable domain-specific researchers to make use of the above systems.
+The following image contains links to items on specific areas of expertise.
+Our success
+In our annual progress reports we summarise our success in terms scientific output and major achievements. Have a look at our growing list of publications or keep track of our latest successes in our news section (RSS feed).
+Our software solutions
+Rapid allows fast development and low-cost maintenance of custom web portals for scientific computing; intended for portal designers.
+powerNest is a software tool enabling experimenters to explore the effect of sampling on noise propagation throughout qPCR assays; intended for end-users.
+DICOM Confidential is middleware to anonymise medical imaging DICOM data; intended for service providers.
+OGSA-DAI is middleware to assist with access and integration of data from separate sources via the grid; intended for service providers.
+Locality_Aware_Two_Phase I/O (LA_TwoPhase I/O) is optimization of Two_Phase I/O collective technique that replace the rigid aggregator patter by a new dynamic and adaptive I/O aggregator pattern.
+PRAcTICaL-MPI is a portable optimization of MPI which is fully transparent for both applications and MPI implementations. The main goal of PRAcTICaL-MPI is to enhance the performance and scalability of MPI‐based applications and to reduce the volume of communications by applying run-­‐time lossless compression in a transparent way for applications and MPI implementations.
+cookies policy

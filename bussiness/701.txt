@@ -1,0 +1,264 @@
+Home Page | Crystal Vision
+You are here: Home
+Select a product...
+3GDA105C
+3GDA105N
+3GDA105R
+3GDA111C
+3GDA111N 3GDA111R
+3GDA204R
+3GDA210R
+3GDA-VF
+AADA416FM
+AADA416FR
+AADA-STM-1
+AADA-VF ADCA412
+ADDEC-210
+ADP 310
+ALLDAC
+ARC-20MC
+AVDELAY 3G
+Clip N Key V121
+Clip N Key V121 8G
+Clip N Key V221
+Clip N Key V221 8G
+CoCo 3G
+DACA214
+DADA208
+DADA208D DADA208N
+DADA-VF
+EMDEC-200
+FRX 3G
+FRX-VF
+FTX-L 3G
+FTX-VF
+LKEY 3
+LKEY-SQZ
+MADDA105
+MADDA111
+MON210
+MultiLogo V132
+MultiLogo V132 8G
+MultiLogo V432
+MultiLogo V432 8G
+Q-Down123
+Q-Down183
+Q-Down-AG 3G
+Q-Down-ATG 3G
+Q-Down Mini
+REFGEN
+Safe Switch 3G
+Safe Switch-L 3G Safire 3 Safire 3 Xpress
+Smart Switch 3G
+SW221 3G
+SW803 3G
+SYN103
+SYN 3G
+SYN-A 3G
+SYNNER 310
+TANDEM10-VF
+TANDEM 310 TANDEM 320
+Up-Down 3G
+Up-Down-A 3G
+Up-Down-AFD 3G
+Up-Down-AT 3G
+Up-Down-ATX 3G
+Up-Down-AS 3G
+Up-Down-AFDS 3G
+Up-Down-ATS 3G
+Up-Down-ATXS 3G
+VDA110M HD
+VDA110R HD
+VDA210M HD
+VDA-VF
+ViViD 3G
+ViViD 3G-20
+ViViD 3GS
+ViViD 3GS-20
+ViViD HD-40
+Visit Registered Area
+Home
+About us
+About Crystal Vision The people
+Terms and conditions
+Warranty
+News
+Pressroom
+Exhibitions
+Careers
+Cookies policy
+Contact usContact us
+Join Registered Area
+Request product info
+Request quote
+Request product demo
+Request distributor
+Request company ID
+Products
+Products overview
+SD products
+HD products
+3Gb/s products
+Audio-only products
+Obsolete products
+Video interface
+Up and down conversion
+Video A to D conversion
+Video D to A conversion
+Video distribution
+Synchronisation
+Aspect ratio conversion
+AFD insertion/reading
+Routing and switching
+Reference generation
+Video delay
+Colour correction Fibre optics
+Audio interface
+Audio embedding
+Audio conversion
+Audio distribution
+Audio delay
+Audio processing
+Keying
+Chroma keying
+Logo and linear keying
+Clip storage
+Frames
+Control
+Support
+Get support
+Software updates
+Project design help
+Registered Area Product Registration
+Submit RMA
+Resources
+Resources overview
+User manuals
+Brochures
+Technical papers
+Videos
+VisionWeb GUIs
+New for Broadcast Video Expo (BVE) 2017 newsletter
+2017 NAB Show preview press release
+FTX-VF and FRX-VF fibre optic transmitter and receiver brochure
+Product Software and Firmware Version document updated 27th Jan
+SNMP MIBs
+and MIBs guide updated 27th Jan
+XML files and XML files guide updated 27th Jan
+Vision frame software updated (now at v1.1)
+DADA-VF digital audio distribution amplifier brochure
+AADA-VF analogue audio distribution amplifier brochure
+CABSAT 2017 preview press release
+User manual for FTX-VF fibre optic transmitter
+BVE 2017 preview press release
+User manual for SYNNER-VF synchroniser
+User manual for FRX-VF fibre optic receiver
+2016-2017 Vision Product Range catalogue
+IBC video: Crystal Vision's flexible approach to creating IP products
+IBC video: How to get a great live chroma key in three minutes
+Broadcast Video Expo 2017, UK (Stand M01)
+CABSAT 2017, UAE (Stand B2-56)
+2017 NAB Show, USA (Booth N3010)
+Tweets by @crystalvisionuk
+Follow @crystalvisionuk
+Vision and Indigo frame systems
+Safire 3 chroma keyer
+MultiLogo logo keyer
+MultiLogo logo keyer
+Safe Switch 3G 2 x 2 fail-safe switch
+Up-Down 3G up/down/cross converter
+This jQuery slider was created with the free EasyRotator software from DWUser.com.
+Use WordPress? The free EasyRotator for WordPress plugin lets you create beautiful WordPress sliders in seconds.
+OK
+Rotator powered by EasyRotator, a free and easy jQuery slider builder from DWUser.com.
+Please enable JavaScript to view.
+Everything modular from Crystal Vision
+What customers say...
+Crystal Vision's approach, technical expertise and professionalism are superb and dealing with them is a really refreshing experience.
+Colin Smith, Senior Engineer at Moving Picture Company, UK
+When we designed and installed the new central technical areas for the BBC in
+central London, it was one of the largest installations taking place in Europe at the
+time. Crystal Vision provided all the modular equipment. Their flexible
+delivery schedule and attentive customer support helped us to hand over a
+successful installation and allowed the customer to fine-tune their requirements as the project progressed.
+Harry Watts, Director of Dega Broadcast Systems, UK
+If somebody had said to you back then that such a product would become available today, you would not have believed them. Amazing piece of kit.
+Michael Norwood, Broadcast Systems Engineer at BBC NI, UK, describing the Up-Down-ATXS 3G up and down converter
+Techex selected Crystal Vision's logo keyers for this project due to their relative density compared to other solutions available and their unique ability to handle the Houses of Parliament's audio insertion requirements.
+Dominic Foulkes, Technical Manager at Techex, UK - after purchasing 79 MultiLogo logo keyers
+On such a busy and unpredictable night as the UK General Election, there is no time to worry about technology or managing delays and synchronisation. We needed the underlying technology platform to be stable and foolproof, ensuring a seamless output.
+Danny Popkin, Technical Development Manager at BBC Studios and Post Production, UK
+We've had no problems with the Crystal Vision kit  it just works.
+Steve Usher, Project Manager at ITV, UK  after purchasing 317 interface boards for The London Studios
+We know that Crystal Vision equipment is extremely reliable and its compact size makes it ideal for OB truck applications. The quality of the video up/down converters is one of the best on the market and this is important for a truck which will cover some of the highest profile sporting events in the world.
+Wolfgang Reeh, Owner and Managing Director at TV Skyline, Germany
+Crystal Vision are pro-active in finding out what the customer wants from a product, and if they can customise their products for you they will, without fuss. They are approachable without being bureaucratic or overbearing.
+George Bowler, formerly of SIS LIVE, UK
+Our choice of Crystal Vision was based on functionality and the future use of the equipment. The hardware is robust and provides a front panel view of critical status indicators. When we added more equipment it was received in less than a week without the need to expedite shipping. Crystal Vision has been responsive to our needs and I would recommend them without hesitation.
+Terry Beacham, formerly Director of Engineering at WGGB-TV, USA
+Crystal Vision provides very good support and flexibility in adapting its product line to our sometimes bizarre requirements. This is teamed with fast delivery.
+Julian Parsons, formerly Technical Development Manager at SIS LIVE, UK
+We have been using Crystal Vision 'glue' products for many years and have found them to be very reliable and cost-effective.
+Graham Deaves of Lime Pictures, UK
+The London Studios have used Crystal Vision products for a long time. They are very happy with the products and were quite happy to stick with the same supplier.
+Harry Watts, Director of Dega Broadcast Systems, UK
+Our goal was quality, reliability and cost-effectiveness. In Crystal Vision we found the answer to all these three major requirements which will now define the studios' standards.
+Yosef Lerea, formerly Technical Manager at United Studios, Israel
+Crystal Vision interface boards were chosen for the HD upgrade of "EastEnders". Quick delivery was important to meet the timescales and therefore avoid delaying the show's production.
+Danny Popkin, Technical Development Manager at BBC Studios and Post Production, UK
+We have always had a good relationship with Crystal Vision. We recognised that the company was willing to develop existing boards and software to meet our requirements. Furthermore, the multi-functionality of some of Crystal Vision's products meant a lower number of boards were required, making their system truly cost effective.
+Gary Welsh, formerly Operations Director at STV, UK
+The equipment fitted our solution and the support and communication were excellent  and we were happy with how Crystal Vision dealt with our 'on the fly' feature requests.
+Frank Stephan, Head of Production Systems at ProSiebenSat.1 Media AG, Germany
+We have a lot of Crystal Vision equipment in use in various studios, we know it and generally find it highly reliable. Should we have problems, or failures, the response of the company is excellent, with queries dealt with quickly and efficiently.
+Tim Hall, formerly Technology Project Manager at BBC News, UK
+I liked the modular approach to the systems offered by Crystal Vision. Pricing was very competitive and I was impressed by Crystal Vision's demonstration of their products. Furthermore, Crystal Vision's reputation is confirmed through their excellent relationship with respected companies such as the BBC.
+Dave Paget, Senior Lecturer at De Montfort University, UK
+We wanted to make efficient use of limited space, so we needed sufficient card density in the frames to enable a complex solution to fit in a single frame.
+Paul Burgess, Senior Project Engineer at BBC Wales, UK
+Crystal Vision makes infrastructure and keying products for broadcast engineers in the television industry.
+Providing logo and chroma keyers and the full range of interface, we specialise in up and down converters, synchronisers, routing switches, audio embedders and video delays - products that regularly win the big project evaluations.
+Why do
+engineers choose our products? Because people like dealing with us.
+We're known for our quick delivery, competitive pricing, responsive customer support and five year warranty.
+We have headquarters in the UK, a sales and support team in the USA and distributors across the world - making it easy to buy the products, wherever you are.
+Products with features you won't find elsewhere
+Video interface
+Everything you need for converting, distributing, delaying, processing and synchronising your video signals... discover more
+Audio interface
+Deal with embedded or separate analogue, AES and Dolby E audio, with our embedders,
+de-embedders, converters, distribution amplifiers and delays... discover more
+Chroma keying
+Create realistic virtual images with our real-time chroma keyers, perfect for any live bluescreen or greenscreen application - from weather to the most demanding virtual studio... discover more
+Logo keying and clip storage
+Choose from simple or sophisticated products for adding graphics to video sources. Add one simple logo, get powerful video and audio branding with three-layer keying and storage for 500 graphics, perform the smoothest picture squeeze, or store 300 seconds of moving video to play out wipes... discover more
+Frames
+Our
+products are individual boards that need to be housed in rack frames. Choose the Vision frame system if you're planning an IP or 4K installation or would like extra features on your SDI products, and choose the Indigo frame system for three frame sizes and the biggest range of boards... discover more
+Control
+How would you like to operate your boards? Choose the control method that suits you most, whether it's board edge operation, one of our control panels, GPIs, PC software, your web browser or SNMP... discover more
+Support from the industry's most responsive company
+User manuals
+It's easy to get step-by-step instructions on product operation: detailed PDF user manuals are available for download from our password-protected Registered Area... log in and download manuals
+Request a password to download manuals
+Brochures
+Download the brochure you need - from the
+Indigo and Vision Product Range catalogues for an overview of what we do, to individual leaflets for each board where you can find block diagrams, technical specs, ordering information and more... view the brochures
+Register your products
+There's a big benefit to registering your Crystal Vision products: you'll upgrade the standard three year warranty to five years... register your products
+Project design help
+Broadcasters often talk to us when they are beginning to plan a project - with project design
+a complimentary service we offer. Just tell us what you want to achieve with your system, and we'll work out the best way to do it... get our project design help
+Tell us what you want to achieve with your system
+Contact the sales team
+Our knowledgeable sales team can answer your technical questions, demo the products, provide a quote or put you in touch with your local distributor... discover more
+E-mail our sales team
+Request details of your distributor
+Contact customer support
+We're known for our reliable, long-lasting and easy-to-use products, but if you need help our UK and USA customer support teams are at the end of a phone or e-mail - with a full rack of equipment set up to mimic any installations... discover more
+E-mail technical support
+E-mail US technical support
+Home | Products | About Crystal Vision |
+Product Registration | Get support | Pressroom | Contact details | E-mail us | Cookies policy
+Crystal Vision Ltd. is registered in England number 03139895. Registered office: Lion Technology Park, Station Road East, Whittlesford, Cambridge, CB22 4WL, England.
+Tel: +44 (0)1223 497049   Fax: +44 (0)1223 497059   E-mail: sales@crystalvision.tv

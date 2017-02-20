@@ -1,0 +1,505 @@
+The credit crunch: what happened? - New Economist
+New Economist
+New economic research, data, events and analysis from a London-based economist
+Home
+Archives
+Profile
+Subscribe
+« Back again |
+Main
+| Austan Goolsbee »
+Tuesday, August 19, 2008
+The credit crunch: what happened?
+While Ken 'worst is yet to come' Rogoff is trying his level best to scare global financial markets about the credit crunch, research is now starting to filter through about just what happened last year. A new IMF working paper by Nathaniel Frank, Brenda González-Hermosillo and Heiko Hesse, Transmission of Liquidity Shocks: Evidence from the 2007 Subprime Crisis, does some of the spadework. As they explain, liquidity crisis soon segued into a solvency crisis (think Northern Rock, Bear Sterns):It is found that the interaction between market and funding illiquidity increased sharply during the recent period of financial turbulence, and that bank solvency became important. ...What started out as a liquidity crisis, turned into a solvency issue.It wasn't simply credit that dried up, it was trust - the whole basis of interbank money markets. Banks were unwilling to trust the disclosures or assurances of their counterparties. As a result central banks had to pump hundreds of billions into financial markets to address the liquidity spiral and to ensure the solvency of key financial institutions.
+So why did these interactions and correlations spike when the sub-prime crisis hit?The analysis presented here suggests that increasing financial integration and innovation can make market and funding liquidity pressures readily turn into issues of insolvency.The easy answer would be to blame the quants and financial engineers. But the real culprit was greed, reinforced by the lousy risk management and lax prudential standards of most major banks (and their clients, many of whom bought products they did not understand). While the money kept rolling in the door, senior managers were quite happy to avert their eyes to the ever-mounting risks.
+I was not surprised by the sub-prime crisis; it was an accident waiting to happen. But I didn't expect the credit crunch to have been protracted, particularly once central banks interviened with such gusto.
+Rogoff is probably right to say that we are only about half-way through the crisis. But the key issue for me is not whether another major bank goes bust (some of them clearly deserve to). It is whether the risk of US recession is now receding (a U-shaped downturn), or whether we are instead facing a 'W'-shaped downturn, with another growth dip looming. So far my controversial call of no US recession this year has held up, and I still think I am odds on to be proved correct. But the outlook for 2009 has becoming bleaker; there are now too many uncertainties to rule out an eventual recession.
+Tuesday, August 19, 2008 at 10:07 PM in Central banks, Discussion papers, Economy - USA, Financial markets
+| Permalink
+Comments
+«It wasn't simply credit that dried up, it was trust - the whole basis of interbank money markets. Banks were unwilling to trust the disclosures or assurances of their counterparties. As a result central banks had to pump hundreds of billions into financial markets to address the liquidity spiral and to ensure the solvency of key financial institutions.»
+That's entirely ridiculous -- usually as in the recent event it is solvency issue that causes illiquidity. Once most banks realized that there were a trillion or two of losses in the banking system, that's when liquidity disappeared, not viceversa.
+Banks were unwilling to trust their counterparties because they knew most of them had to be insolvent, not just because they suddendly became paranoid.
+Central banks have put hundreds of billions to address that insolvency, not the liquidity problem, which is just a code-word for not wanting to say "insolvency".
+The basic problem is not that CDOs are illiquid and one has to hold them to maturity to get cash out of them, but that they are largely worthless and who holds them is insolvent, and once the ponzi scheme stopped because banks had run out of greater fools, they found themselves holding too much of the worthless paper they had created, or even worse, having lent too much money to those who were buying them.
+Vendor financing is a wonderful way for salesmen to tunnel money our of their companies...
+Posted by:
+Blissex |
+Sunday, August 24, 2008 at 08:35 PM
+Banks are intermediaries with one major job, to evaluate risk and make good loans. It became clear that they were fools, completely unaware (at best) how to run their central business. After proving this, why should they still be in business?
+The "Banking Crisis" will only resolve after the managements of these banks are fired, either explicitly or by going out of business.
+Posted by:
+Andrew Garland |
+Monday, September 01, 2008 at 07:20 PM
+I wonder what is supposed to be so new about that analysis? Anyone working in the financial sector was aware of this around this time last year!
+Posted by:
+Eva |
+Sunday, September 14, 2008 at 09:45 PM
+Re: not in a recession
+Only if you accept the veracity of the governments numbers.
+I submit that anyone that accepts and promulgates a recession argument using these politically manipulated figures is naive or corrupt.
+Either way, it's a statistic that has been engineered to become meaningless.
+It's the new depression.
+Posted by:
+jim |
+Saturday, September 20, 2008 at 05:59 AM
+Obviously, U.S. government data are correct. For example, if inflation is understated, then so is nominal GDP.
+The Panic of 2008
+The Bush Administration and the Bernanke Fed recognize the problem. Bad debt locked-up lending to the point where banks wouldn't even lend to each other. The $700 billion injection of cash, in exchange for bad debt, will remove the reason banks are distrustful of lending. It's a brilliant policy, and supports my statements on the causes of this crisis.
+The U.S. already captured the real assets and goods, in exchange for employment of export-led economies, and the U.S. government will sell those MBSs in the future when housing prices rise again, which this policy will facilitate. I've stated before, this is an appropriate response to the government policies of export-led economies, and the benefits of this policy will far exceed the costs.
+Posted by:
+Arthur Eckart |
+Sunday, September 21, 2008 at 02:06 PM
+In simple terms, a crisis caused by banks being too nervous to lend money to us or each other. Where they will lend, they charge higher rates of interest to cover their risk. In the real world, that means more expensive mortgages, dearer credit cards, pain for pension savers and other investors as stock markets fluctuate wildly, and in the worst cases repossession and bankruptcy. There is often confusion between the two but they are not the same. A recession is usually taken to mean two successive quarters of negative economic growth. A credit crunch can be separate to or part of a recession. Years of lax lending inflated a huge debt bubble as people borrowed cheap money and ploughed it into property.Lenders were free with their funds, especially in the US, where billions of dollars of so-called Ninja mortgages - no income, no job or assets - were sold to people with weak credit ratings.
+---------------------------
+francis
+Link Building
+Posted by:
+francis |
+Wednesday, October 01, 2008 at 12:14 AM
+Now that government has created the housing bubble it is on to health care!
+Posted by:
+Will Cochran |
+Wednesday, October 01, 2008 at 06:40 PM
+This analysis isn't new, nor that insightful. Anyone with an ounce of economic sense understands that the underlying force of inflating a "bubble" is greed and the deflating element is "fear".
+Posted by:
+Sade Jordan |
+Friday, December 05, 2008 at 06:47 AM
+Nobody ever relates the solvency crisis to when fast food restaurants started accepting credit as a form of payment, but it always turns back to housing. People have to eat too! There were a lot of Whoppers and Taco Grandes being eaten in those McMansions. Heck, that's practically why they're called McMansions!
+Posted by:
+Sam |
+Saturday, December 13, 2008 at 03:35 AM
+Many think this might be viewed as underestimating the economic climate and what it can produce; others imagine it as long term vision and common sense.
+Posted by:
+saç ekimi |
+Wednesday, September 02, 2009 at 10:26 PM
+but to better understand and interesting topics and information about the necessary details thanks.
+Posted by:
+neon tabela |
+Friday, October 02, 2009 at 04:22 PM
+thanks..
+Posted by:
+pasta malzemeleri |
+Monday, October 05, 2009 at 12:55 PM
+Its amazing how interesting it is for me to visit you very often :)
+Please come visit my site
+Business Phone Directory of Miami Florida FL when you got time.
+Posted by:
+Business Phone Directory of Miami Florida FL |
+Thursday, October 15, 2009 at 05:49 AM
+Its amazing how interesting it is for me to visit you very often :)
+Please come visit my site
+Tampa Business Directory when you got time.
+Posted by:
+Tampa Business Directory |
+Thursday, October 15, 2009 at 05:51 AM
+Well, nice article buddy… Someone will love to read this infor if I tell her about this. She’s really interested in this subject. Thanks again… Please come visit my site
+Jacksonville Business Services And Classifieds when you got time.
+Posted by:
+Jacksonville Business Directory Forum Blog Classifieds |
+Saturday, October 24, 2009 at 07:07 AM
+This is just another reason why I like your website. I like your style of writing you tell your stories without out sending us to 5 other sites to complete the story. Please come visit my site
+California CA Phone Directory when you got time.
+Posted by:
+California CA Phone Directory |
+Saturday, October 31, 2009 at 03:58 AM
+Nice blog, its great article informative post, thanks for sharing it. Thanks for the information!
+Posted by:
+laptop |
+Thursday, November 05, 2009 at 07:40 AM
+great article. thanks for the useful informations.
+Posted by:
+rent a car |
+Thursday, November 05, 2009 at 07:41 AM
+administration so dont give up saving our nation. We support you.God bless you.
+Posted by:
+acı cehre |
+Thursday, November 05, 2009 at 07:42 AM
+Very interesting. I am personally wrestlying with the constructs of the Universe that we see indirectly, but have no explaination, such as Wimps. Big Bang as perhaps a collision of universes
+Posted by:
+araç kiralama |
+Thursday, November 05, 2009 at 07:42 AM
+The analysis and qualitative survey shows how financial integration and innovation can make market and funding liquidity pressures readily turn into issues of insolvency .
+Posted by:
+Michelle Boudreau |
+Friday, November 06, 2009 at 04:59 AM
+I'm really very useful to follow a long-time see this as a blog here Thank you for your valuable information and I'd love to take one of those for a spin. We need a lambo rental service in Pittsburgh. Any takers.
+hosting
+web hosting
+web tasarımı
+Very interesting. I am personally wrestlying with the constructs of the Universe that we see indirectly, but have no explaination, such as Wimps
+Posted by:
+Account Deleted |
+Wednesday, November 11, 2009 at 11:04 PM
+Live market Share Tips and NSE Nifty Tips for trading in Indian Stock Market
+Also more information about Credit Crunch and Liquidity
+Posted by:
+BullRider |
+Monday, November 16, 2009 at 12:24 PM
+I found your blog on google and read a few Thanks for the information you mentioned here, I'm looking forward to see your future posts. Cheers !! Please come visit my site
+Business Trade Guide of Glendale Arizona AZ when you got time.
+Posted by:
+Business Trade Guide of Glendale Arizona AZ |
+Friday, November 27, 2009 at 08:33 AM
+The analysis and qualitative survey shows how financial integration and innovation can make market and funding liquidity pressures readily turn into issues of insolvency .
+Posted by:
+oyun oyna |
+Monday, December 07, 2009 at 09:43 AM
+«It wasn't simply credit that dried up, it was trust - the whole basis of interbank money markets. Banks were unwilling to trust the disclosures or assurances of their counterparties. As a result central banks had to pump hundreds of billions into financial markets to address the liquidity spiral and to ensure the solvency of key financial institutions.» That's entirely ridiculous -- usually as in the recent event it is solvency issue that causes illiquidity. Once most banks realized that there were a trillion or two of losses in the banking system, that's when liquidity disappeared, not viceversa. Banks were unwilling to trust their counterparties because they knew most of them had to be insolvent, not just because they suddendly became paranoid. Central banks have put hundreds of billions to address that insolvency, not the liquidity problem, which is just a code-word for not wanting to say "insolvency". The basic problem is not that CDOs are illiquid and one has to hold them to maturity to get cash out of them, but that they are largely worthless and who holds them is insolvent, and once the ponzi scheme stopped because banks had run out of greater fools, they found themselves holding too much of the worthless paper they had created, or even worse, having lent too much money to those who were buying them. Vendor financing is a wonderful way for salesmen to tunnel money our of their companies...
+Posted by:
+matbaa |
+Tuesday, December 08, 2009 at 08:20 AM
+thanks
+Posted by:
+web tasarım
+|
+Wednesday, December 09, 2009 at 11:34 AM
+i love the style,
+i have several similar one, i usually wear them to work or shopping. Please come visit my site
+Greensboro Business Services And Classifieds when you got time.
+Posted by:
+Directory Greensboro City |
+Saturday, December 26, 2009 at 06:40 AM
+Really great work. Congrats to everyone who are involved with this project. The website layout and graphics are really cool. Please come visit my site
+Directory Colorado Springs City when you got time.
+Posted by:
+Directory Colorado Springs City |
+Tuesday, January 05, 2010 at 07:00 AM
+Really great work. Congrats to everyone who are involved with this project. The website layout and graphics are really cool. Please come visit my site
+DBusiness Trade Guide of Colorado Springs Colorado CO when you got time.
+Posted by:
+DBusiness Trade Guide of Colorado Springs Colorado CO |
+Tuesday, January 05, 2010 at 07:02 AM
+heh, I wish you good luck
+Posted by:
+generic viagra |
+Thursday, January 07, 2010 at 10:03 PM
+I forgot about those! Maybe they look good w/ the right outfit? I didn't like skinny jeans when I first saw them. lol. Please come visit my site
+Greensboro Business Services And Classifieds when you got time.
+Posted by:
+Greensboro Business Services And Classifieds |
+Sunday, January 10, 2010 at 06:56 AM
+I forgot about those! Maybe they look good w/ the right outfit? I didn't like skinny jeans when I first saw them. lol. Please come visit my site
+Greensboro Phone Book when you got time.
+Posted by:
+Greensboro Phone Book |
+Sunday, January 10, 2010 at 06:57 AM
+this shows creativity
+thanks
+Posted by:
+LINKBUILDING |
+Wednesday, January 20, 2010 at 03:19 PM
+Well its good to read past posts as this shows how close the global financial sector came to complete colapse. I hope the sub-prime market will never be allowed to exist again and something good can come out of all this mess.
+Posted by:
+Forex Trader |
+Wednesday, January 27, 2010 at 06:15 PM
+A concise account of how the credit crunch happened. I feel that the more people that understand how this happened, the closer we will be to preventing it happening once more.
+Posted by:
+New York liposuctions |
+Friday, February 05, 2010 at 06:42 AM
+A rise in interest rates made housing prices plummet. Why did this situation force home owners to default on their mortgage payments? Was it because they couldn't keep borrowing against the value of their homes and using that money to make those mortgage payments? And if so, wouldn't these home owners have reached a point of no return, even if interest rates had remained low? You can't borrow from Peter forever to pay Paul. I'd be interested in an answer.
+Posted by:
+table pad company |
+Wednesday, February 17, 2010 at 12:44 PM
+We Provide The Best Sure Shot Nifty Future Tips For 100% Intraday Profits only.You will get Smallest Stoploss, Nifty Future Tips
+on SMS and Messenger
+Posted by:
+Nifty Future Tips |
+Sunday, March 21, 2010 at 05:49 PM
+administration so dont give up saving our nation. We support you.God bless you. thanks
+Posted by:
+Sac ekim |
+Wednesday, March 31, 2010 at 12:01 PM
+The real culprit was greed, reinforced by terrible risk management.
+Posted by:
+Preston Wilcott |
+Tuesday, May 04, 2010 at 08:58 AM
+Next
+»
+The comments to this entry are closed.
+Information
+Follow @theneweconomist
+About
+Recent Posts
+Economist job of the week: Director of Global Economics, European University Institute
+Weekend reading/viewing: Explaining the rise of child labour in Victorian Britain
+Economist job of the week: International economist at Standard Life (2 posts)
+UK recession roundup: the magnificent seven
+UK’s double dip recession: your questions answered
+Dixit on 'the 21st Century’s Economic Hurricane'
+Economist job of the week: Director of Economic Analysis, Competition Commission
+Introducing EconAcademics.org
+Chart of the week: Spanish unemployment
+Nudging behaviour: When incentives do (and don't) work
+Recent Comments
+Account Deleted on Chart of the week: Spanish unemployment
+Account Deleted on I’m back
+Jorge Moromisato on I’m back
+Ben Shomshor on I’m back
+Lawrence Jay Kramer on HSBC: Measuring the global output gap
+Lake Forest Photographer on How rural villages have gained from China's great migration
+Generic Imdur on Why Berlusconi must go
+unsecured business financing
+on Meet the Governor
+cannot delete file on The credit crunch: what happened?
+sous vetement on India: reservations and rent-seeking
+Archives
+May 2012
+April 2012
+November 2011
+January 2009
+December 2008
+August 2008
+May 2008
+April 2008
+March 2008
+February 2008
+Economist Weblogs
+Charles Kenny
+Crisis Talk (World Bank)
+Indian Economy Blog
+Real Time Economic Issues
+26econ (Aaron Schiff)
+A Few Euros More
+A Fistful of Euros
+A Random Walk
+Adam Smith Institute Blog
+Adam Smith Lives! (Sandy Peart)
+Agoraphilia
+Aguanomics (David Zetland)
+Aid Watch (Bill Easterly)
+ALEA Blog
+Alpha.Sources
+An Economist in Paradise (Fazeer Sheik Rahim)
+Andrew Leigh
+Andrew Norton
+Angry Bear
+ArgMax (John Irons)
+Asymmetrical Information (Jane Galt)
+Bacon Butty (Clive Bates)
+Baseline Scenario
+Beat the Press (Dean Baker)
+Becker-Posner Blog
+Ben Muse
+Big Picture (Barry L. Ritholtz)
+Bonobo Land (Edward Hugh)
+Brad DeLong
+Bronte Capital
+Cafe Hayek (Don Boudreaux)
+Calculated Risk
+Capital gains and games
+Capital Spectator (James Picerno)
+Care Talk (Nancy Folbre)
+Carpe Diem (Mark Perry)
+CBO Director’s Blog
+Chicago Boyz
+Chris Blattman
+Clive Crook (FT.com)
+Constant Dream
+CoreEcon (Joshua Gans)
+Curious Capitalist (Justin Fox)
+Dani Rodrik
+Daniel Drezner
+Daniel Gross
+Debtwatch (Steve Keen)
+Demography Matters
+Division of Labour
+Doing Business (World Bank)
+Dynamist (Virginia Postrel)
+EclectEcon (John Palmer)
+Econbrowser (James Hamilton)
+EconLog (Arnold Kling)
+Economic Investigations (Gabriel Mihalache)
+Economic Logic
+Economic Principals
+Economics
+Economics and... (KNZN)
+Economics of Contempt
+Economics Roundtable (blog of blogs)
+Economics UK (David Smith)
+Economics Unbound (Michael Mandel)
+Economist's View (Mark Thoma)
+Economix (NYT)
+Economonitor
+Economonkey
+EconoPundit
+EconoSpeak
+EconTalk (Russ Roberts)
+EconWeekly (Francisco Torralba)
+Emerging Markets EconoMonitor (RGE)
+Emirates Economist
+Empirical Skeptic
+Environmental and Urban Economics (Matthew Kahn)
+Environmental Economics (Brad Ewing)
+Environmental Economics (Tim Haab, John Whitehead)
+Euro Intelligence
+Europe EconoMonitor (RGE)
+Eurozone Watch
+Everyday Economist (Josh Hendrickson)
+Fama/French Forum
+Felix Salmon
+Felix Salmon (Portfolio.com)
+Finance Professor (Jim Mahar)
+Financial Literacy and Ignorance (Annamaria Lusardi)
+Financial Rounds
+Floyd Norris (New York Times)
+Floyd Norris, NYT
+Fly Bottle (Will Wilkinson)
+Follow the Money (Brad Setser)
+Freakonomics Blog
+Free exchange (The Economist)
+Geary Behavioural Economics Blog
+Geoff's Blog
+George Borjas
+Global Development: Views from the Center
+Global Economics (Nouriel Roubini)
+Global Economy Matters
+Globalisation and the Environment
+Greg Mankiw
+Happiness and Public Policy (Will Wilkinson)
+Healthcare Economist (Jason Shafrin)
+Heavy Lifting
+History of Economics Playground
+How the World Works (Andrew Leonard)
+Infectious Greed (Paul Kedrosky)
+Information Aesthetics (Andrew Vande Moere)
+Innovation Online (Karl Smith)
+Institutional Economics (Stephen Kirchner)
+Interfluidity (Steve Randy Waldman)
+International Political Economy Zone
+Italian Economy Watch
+Jeff Frankel
+Johan Norberg
+John Quiggin
+Kalimna (Harry Clarke)
+Knowing and Making
+Knowledge Problem (Lynne Kiesling)
+Kudlow's Money Politic$
+Lawrance Lux
+Macro and Other Market Musings (David Beckworth)
+Macro Man
+Macroblog
+Mahalanobis (Michael Stastny)
+Marginal Revolution
+Marginal Utility (Tom Bozzo)
+Market Power (Phil Miller)
+Maverecon (Willem Buiter)
+Max Speak (Max Sawicky)
+Megan McArdle (The Atlantic)
+Mostly Economics
+Neuroeconomics
+New School Economic Review
+Newmark's Door
+News N Economics
+Nordic model
+Nudge blog
+Organizations and Markets
+OrgTheory (Fabio Rojas)
+Our word is our weapon
+Paul Krugman
+Peter Gallagher
+Political Calculations
+Poor and Stupid (Donald Luskin)
+PrestoPundit (Greg Ransom)
+Private Sector Development Blog
+Real Time Economics (WSJ)
+Richard's Real Estate and Urban Economics Blog
+Robert Peston, BBC
+Economic Resources
+Central Banks, Monetary Authorities (EDIRC)
+Conference Calls (Inomics)
+Country Trade and Market Analysis Profiles
+Current Account Sustainability
+Development weblogs
+Ecological economics encyclopaedia
+Economic Associations and Societies (EDIRC)
+Economic Department Rankings (EconPhD.net)
+Economics Departments, Institutes and Research Centers (EDIRC)
+Economics Research Network (SSRN)
+Economics Roundtable Blog of Blogs
+EconPapers
+Fed in Print (FRBSF)
+International Economics Network
+Lecture Notes Online
+New Economics Papers (NEP)
+OECD Economics
+OECD Factbook 2009
+OECD Information by Country
+OECD Statistics
+Official Statistics on the Web
+Resources for Economists (Bill Goffe)
+Roubini Global Economics Monitor
+SOSIG Economics Gateway
+Statistical Offices (EDIRC)
+Statistical Resources on the Web
+WebEc (Web Resources in Economics)
+Categories
+Ageing, pensions, demographics
+Anglosphere
+Arts, culture, music
+Avian flu
+Behavioural economics
+Book reviews
+Books
+Business, management, capitalism
+Central banks
+Chart of the week
+Data, statistics, surveys
+Design, photography, fonts
+Discussion papers
+Economic and social models
+Economic history, leading economists
+Economic policy
+Economic resources and sites
+Economic theory
+Economist jobs
+Economy - Africa
+Economy - Asia
+Economy - Australia
+Economy - Britain
+Economy - China
+Economy - Europe
+Economy - India
+Economy - international, comparative
+Economy - Japan
+Economy - USA
+Education, skills and training
+Employment relations
+Environment, energy
+Equality and diversity
+Exchange rates
+Financial markets
+Flat tax
+Food, restaurants, recipes
+General
+Government
+Growth, productivity, competitiveness
+Happiness, well-being, satisfaction
+Inflation and interest rates
+Internet, digital, ICT
+Labour markets
+Life
+London
+News and current affairs
+Nordic
+Offbeat, inexplicable, quirky
+Offshoring and outsourcing
+Politics - Britain
+Politics - election campaigns
+Politics - Europe
+Politics - general
+Politics - USA
+Poverty and inequality
+Psychology, behavioural economics
+Science and technology
+Social policy
+Talks, seminars and conferences
+Tax, savings and budgets
+Think tanks
+Trade and development
+Trade unions
+Weblogs
+Weekend reading
+See More
+Disclaimer
+This is a personal web site, produced in my own time and solely reflecting my personal opinions. Statements on this site do not represent the views or policies of my employer, past or present, or any other organisation with which I may be affiliated. The information on this site is provided for discussion purposes only, and are not investing recommendations. Under no circumstances does this information represent a recommendation to buy or sell securities.

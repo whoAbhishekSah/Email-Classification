@@ -1,0 +1,397 @@
+Jisc student experience blog | Supporting innovation in learning, teaching and the student experience
+Skip to content
+Menu
+Home
+About
+Jisc student experience blog
+Supporting innovation in learning, teaching and the student experience
+Featured post
+Co-design challenge: How can we use data to improve teaching and learning?
+By
+Sarah Davies October 31, 2016
+#codesign16, Consultation, Curriculum Design, Get involved, Technology Enhanced Learning
+data
+Welcome to the summary of the #codesign16 discussion on data-driven improvements in teaching and learning.
+We will be using this blog to collate feedback and post summaries of the discussions happening in various forums during the consultation phase. So please come here to see how the discussion develops and add your views. Comment below, or post on your own blog and share it with us.
+You can also join the discussion by:
+Tweeting using the hashtag #codesign16
+Answer the challenge questions in this google form
+Emailing the challenge lead directly at Ruth.drysdale@jisc.ac.uk
+We will run a webinar as part of ALT online conference Wednesday 7th Dec  14:00-14:45 to discuss the key themes emerging from discussion.
+So what do you think?
+Whether this area tickles your fancy or raises your hackles, we’d like to hear from you. Have a look at the full text of the challenge and share your thoughts, ideas and frustrations before 25 November
+Posted by Sarah Davies on October 31, 2016 in #codesign16, Consultation, Curriculum Design, Get involved, Technology Enhanced Learning and tagged data.
+Joint Jisc ALT #Codesign16 Data informed webinar
+By
+ruthdrysdale November 22, 2016
+e-Learning general
+The joint Jisc- ALT webinar had a fantastic turn out with 127 registered to attend the event and join in the #Co-design16 challenge discussion on ‘How can we use data to improve teaching and learning?’
+The full recording is available at http://bit.ly/2gGfFGx,
+Areas covered included; evidence to demystify myths, as well as how to use data to inform rather than drive how curriculum enhancements, link qualitative survey data with behavioural quantitative data often associated with Learner analytics, supplementing engagement data to TEF measures, new data sources like ULN/PLR. Whilst grappling with the issues of how to get the data out of the systems!
+Below are some highlights with Sarah Davies beginning by following up on Andy’s ‘Here be data monsters’ blog http://bit.ly/2guVdXX where he asks if we should stay away or explorer further these 5 monsters?
+Data-informed course improvements
+Research based on analytics ‘big data’
+Collating evidence on what works
+Designing for maximum employability
+Monitoring reactions for real-time improvements
+But the collective cry from the #Codesign16 consultation so far warns about the danger of over-reliance on data and the importance of:
+Narrative
+Student engagement
+Understanding in the round
+Qualitative measures
+After Sarah’s introduction there was plenty of interesting chatbox comments as listed below;
+Martin Hawksey (ALT)
+13:15
+personally it worries me to see an absence of theory when using data in learning and teaching
+Lina Petrakieva (GCU)
+13:17
+The problem is that theories are developed from data and we are still in the process of collecting and making sense of that data
+Rebecca Galley (OU)
+13:18
+No they are proven by data
+jasper shotts
+13:21
+Need to make survey activities relevant to learners and context of learning – that way tiny adjustments to survey design and good timing can yield data of greater value
+Jasper’s point above is pertinent given Jisc’s recent work investigating students’ expectations of the digital environment and have just deployed the Digital Student Experience Tracker. QAA and HEA have also been doing a lot of work with the sector around how to better use survey data in the quality enhancement processes.
+Rebecca’s myth busting activity below got a lot of likes from other participants:
+Rebecca Galley (OU)
+13:22
+Lol – you could start anywhere. A colleague here has a ‘myths’ board. We put regularly cited ‘facts’ about what students do or don’t do, like or don’t like and he checks out the data to see if he can prove or disprove them
+Marieke Guy (QAA) tweeted: #codesign16 Already some concerns over ‘data-driven’ decision making – ‘data-informed’ preferred …responsible metrics and all that 😉
+Marieke Guy
+13:35
+Still much work to be done on outcome measures and how they relate to good quality teaching (think TEF?!) – so one for Rebecca’s myth board is NSS scores and the connection to challenging teaching approaches.
+Rebecca Galley (OU)
+13:37
+@Marieke Indeed – the relationship between satisfaction, engagement, pass and progression (e.g. employability/ destination) is complex. We need to decide how we prioritise these.
+Joe introduced a new data source:
+Joe Wilson
+13:22
+It is worth looking at the data structures / data sets that are already available in Scotland Scottish Candidate number and information on progression for those 16-24 held by Skills Development Scotland and bits with Scottish Funding Council In England ULN (universal candidate number) and in England for candidates on certain programmes ILR individual learning Record ( so many learners have a learning record ? and a unique identifier )
+Ross Anderson (North Lindsey College)
+13:23
+Our Jisc Student Data Service information was very interesting and prompted a few surprises
+Jisc Student Tracker tool Interesting reference from Brain:
+BrianWhalley
+13:28
+Something about criteria and generating result data with students at http://www.tandfonline.com/doi/full/10.11120/plan.2008.00200029?scroll=top&needAccess=true
+Dan raises an interesting point about how to categorise different sorts of data:
+Dan 1
+13:29
+would it be worthwhile for this to be organised by pedagogical teaching methods so that individuals can look to improve specific aspects of a course i need of improvement to offer insights of development eg. formative assessment, or peer learning etc.
+jasper shotts
+13:31
+yes I agree with capturing pedagogic intent – simply working to best “outcomes” might dilute/narrow the learning experience –
+John reinforces the point made by Sheila MacNeill in her blog ‘… I have to overcome my biggest problem and that is actually getting at the data. I’ve blogged about this before and shared our experiences at this year’s ALT conference.  It is still “a big issue.”  As is consent, and increasingly, data processing agreements.
+John Langford
+13:32
+In terms of data sources, there is a limit to what can be extracted due to limitations on actual access to data, particularly for institutions that are hosted.
+Lina introduces a new angle by mentioning the challenges in gathering data from different types of study:  – how is this being address in the Learner analytics world?
+Lina Petrakieva (GCU)
+We have two very different sets of data that we need to take into account and each of them provide different challenges – own time study (online and offline) and class teaching study
+Brian references a blog that asks ‘….whether we put too much faith in numerical analysis in general and complex learning analytics in particular’
+BrianWhalley
+13:34
+Wrt general analytics, Mike Feldstein recently posted: http://preview.tinyurl.com/zhbl6ku
+There was a lot of discussion around sharing data with students directly, but caution was raised, and advice that tutors should interpret the data and discussed with the students, as many institutions are doing in the Jisc Learner Analytics communities
+The delegates were then asked to vote on which ‘monsters’ have the most potential;
+Delegates voted for 1st None, 2nd A: Data informed course improvement and a closely followed 3rd C: collating evidence on what works.
+Whilst they voted that None then D: Designing for maximum employability, were the most dangerous!
+BrianWhalley
+13:46
+My worry about B is that institutions will go for this to ‘prove’ their TEF
+Patrick
+13:49
+I prefer that D is about students achieving their goals. This is a key element of how
+is success measured in HE? Maybe this is more of the narrative that will support TEF
+self assessments
+Dan mentioned that for FE, employability is their bread and butter, whilst HE delegates wanted to ensure that they aren’t just a production line for employers and that HE is about deep learning and critical thinking. Are these the same terms but in different contexts?
+Ross Anderson (North Lindsey College)
+Student voice, surveys, curriculum design, course evaluations, links with employers are all some of the things we use for A
+Ross Anderson (North Lindsey College)
+13:47
+I think there is a difference in what FE and HE see as employability
+Samantha
+13:12
+skills required for employability vary widely over time, would be concerned about curriculum tailored more to meet business needs/trends at the expense of a more holistic learning orientated course
+Stephen 1
+13:47
+A danger in a HE context is generalisation across subjects and disciplines and institutions.
+Several liked Megan’s comment:
+Megan Robertson (Aston U)
+13:50
+Teaching Degree Apprentices we emphasise that we’re giving them tools for their CAREER not their present job
+CRA webinar also just had this debate in a Measure of Success Webinar capturing Learning Gain for Work placements webinar.
+Joe Wilson
+13:50
+@sam so it is an ongoing iterative process to give learners skills they need for jobs market – and does impact on course design
+But the last word goes to Rebecca:
+Rebecca Galley (OU)
+13:53
+I think data is better at telling us what doesn’t work rather than what does. There is a risk that it pushes us down risk-averse and vanilla learning and teaching routes
+So areas covered were; evidence to demystify myths, as well as how to use data to inform rather than drive how curriculum enhancements, link qualitative survey data with behavioural quantitative data often associated with Learner analytics, supplementing engagement data to TEF measures, new data sources like ULN/PLR. Whilst grappling with the issues of how to get the data out of the systems!
+Please stay engaged in the #Codesign16 consultation as we move into the next phase of ideas identification, which we would like you to vote on in the new year, so keep an eye on this blog.
+Posted by ruthdrysdale on November 22, 2016 in e-Learning general.
+Week 3 with 1 left to go…
+By
+ruthdrysdale November 17, 2016
+e-Learning general
+As week 3 of the #Codesign16 draws to a close, we are starting to summarise the discussions to date. We will present these during a joint Jisc – ALT webinar 13:00-14:00 on Monday 21st November. Please Register HERE and join in to give us your feedback.
+You can also answer the 6 #Codesign16 challenge questions about how data could be used to improve teaching and learning  on this Google Form
+Below is a storify of last week’s Jisc #Codesign16 Chat on twitter:
+[View the story "Week 3 - Where we are at now..." on Storify]
+Posted by ruthdrysdale on November 17, 2016 in e-Learning general.
+Codesign challenge: Here be data monsters
+By
+Andy McGregor November 15, 2016
+#codesign16, e-Learning general
+Carta Marina
+I’ve always been fascinated with those old maps with the vast unknown spaces populated with sea monsters or massive serpents. But I’ve never understood whether the monsters were intended as warnings to stay away or as enticements to explore. I get the same feeling about our co-design challenge of using data as a way to help students, teachers and managers improve learning and teaching. I know there are big, dangerous monsters in that territory but is that a reason to keep out or a reason to visit? So, I have listed five monsters lurking in the territory of data to improve learning and teaching. Which should we stay far away from and which should we seek out?
+An interesting implication of Jisc’s learning analytics project is that as all learning analytics data will be collected in a standard way and stored in the Jisc learning records warehouse. If agreement from all parties is obtained then this dataset could be used to explore all sorts of theories about how learners engage and the links between engagement and outcomes. The dataset could include some or all of VLE usage, attainment data, library and electronic resource usage and data from attendance systems for students over a number of years. What questions could we try and address by analysing this data? What other data sources could we use alongside it? NSS? UKES? This is perhaps the least ugly of the monsters in this list as I think in the right hands it could provide fascinating insights for teachers and administrators. But there is still the possibility that too much store is put in the data at the expense of other, just as important measures.
+One of the surprising things about the use of technology for learning and teaching is that there is not a lot of evidence available for what works and what doesn’t. This can make it difficult to choose how to focus efforts to improve teaching and learning using technology. Is it more productive to devote efforts to electronic management of assessment than to ensure widespread lecture capture?  Which has the biggest impact on student experience? It could be possible for us to gather, collate and share this evidence more effectively across the sector making it easier to make the case for investing in technology and focusing efforts on what really matters for students, teachers and ultimately the institution. Could this kind of evidence be used in concert with learning analytics to provide insights on changes in behaviour? Like monster number one, it seems to me that the real risk here is that people just focus on metrics and forget all the other important factors that need to be considered.
+It is not always the most popular comparator in the world of education but can we learn lessons from the way that data is used in sport? In football, a complex, dynamic sport not easily reduced to numbers, use of analytics has still had a massive impact on the sport. This has not changed the fact that the most important things in football are the human interactions, training, people management, motivation etc, but what data has done is allow those humans to be even more obsessive about identifying the fine details of where performance can be tweaked and improved. I suspect teaching is even more complex than football, certainly goals are less clear, but I still wonder whether allowing teachers and administrators to access fine details about student engagement and performance in near real time couldn’t provide those teachers with new levels of detail they could explore to find ideas for improvement. Like other of the monsters on this list, the danger here is that we get too caught up in metrics and forget that above all human interaction is the most important part of education or that metrics start to change behaviour as people chase certain numbers believed to be correlated with success.
+The increasing focus on employability could provide the seed for another monster. It could be possible to use learning analytics in concert with employment destination datasets and information about the local and national economy to closely tailor courses and the student experience to maximise employability  and to explicitly design courses to address global skills gaps and particular regional employer needs. While this may be a good idea from an employability point of view, preparation for work is not the sole purpose all education and do we risk losing those other valuable benefits of education by stressing employability too strongly?
+Perhaps the biggest, ugliest monster I can think of in this area is the exploration of technologies that monitor human reactions in real time such as Microsoft’s emotion API. The data enthusiast in me can see how that data would be fun to play with and how it could be useful for teachers to refine which parts of lessons were creating a reaction. But could this kind of data really tell you anything meaningful about the complex interactions that make up learning?  And even if it could, is it worth the price of the creepiness of this kind of constant monitoring?
+Should we stay well away or should we set off exploring? Let us know what you think. Either by commenting on the blog or tweeting with the hashtag #codesign16. If you’d rather express your opinions less publicly then feel free to email me andy.mcgregor@jisc.ac.uk or complete our form.
+Posted by Andy McGregor on November 15, 2016 in #codesign16, e-Learning general.
+The story so far
+By
+Sarah Davies November 11, 2016
+e-Learning general
+Storify of the discussion so far:
+[View the story "Data-informed improvements in learning and teaching" on Storify]
+Posted by Sarah Davies on November 11, 2016 in e-Learning general.
+Data, Quality Assurance and improving the Student Experience
+By
+mariekeguy1 November 9, 2016
+Case Studies, co-design, Course Data, Curriculum Design, data literacy, digital capabilities, Digital capability, e-Learning general
+data, quality assurance
+Data is a fact of life for everyone in higher education. And there’s a lot of it. Among other things, there’s data about students, staff, estates and research. At a national level data turns into metrics, benchmarks and performance indicators. There are percentages, proportions, a standard registration population, headcounts and full person equivalents.
+Data–driven decision making
+This proliferation of internal and external data leads institutions into taking a more data-driven approach to strategic decision making, one which focuses on student outcomes and experiences.
+The findings of Higher Education Reviews (HERs) undertaken by the Quality Assurance Agency (QAA) highlight some of these approaches. Data is being used to improve the student experience in many ways: from supporting changes in curriculum and assessment approaches, to strategic decision making on estates and improving key performance indicators. For example, at De Montfort University they have implemented a new suite of self-service reports and data visualisations that have led to more affective academic monitoring and strategic planning[1].
+A set of examples of good practice from reviews is given at the end of this post.
+These new approaches are complimented by the recent development of the Jisc learning analytics service[2] and current Higher Education Statistics Agency (HESA) data futures work[3].
+Data and quality assurance
+Going forward data is becoming even more important in quality assurance. HEFCE’s 2016-17 Annual Provider review (APR)[4] makes use of student and other data that providers already submit to HESA, funders and regulators. Some of these metrics will also be used in the Teaching Excellence Framework (TEF).
+TEF
+APR
+Student recruitment patterns (HESES & HEIFEIS from HESA)
+x
+Sub contractual arrangements (HESES & HEIFEIS from HESA)
+x
+Student non-continuation rates (HESA and ILR)
+x
+x
+National Survey of Students (NSS) commissioned by HEFCE and administered by Ipsos-MORI
+x
+x
+HESA UK performance indicators, based on returns from the Destination of Leavers from Higher Education Survey (DLHE)
+x
+x
+Differential student degree outcomes (HESA and ILR)
+x
+Financial data (HEFCE, SFA)
+x
+Estates management record (HESA)
+x
+Assurance information (HEFCE)
+x
+Full details of how the metrics will be defined and used is given in the TEF specification for year 2[5]. Within the TEF assessors will also be supplied with contextual data on each provider. This will include details of the student cohort such as level of study, age, ethnicity, disability, domicile, entry qualification and subject.
+Data will also play a role in the ‘Verification of a provider’s approach to its own review processes’ that QAA will be undertaking.[6] The requirement is for a one-off, desk-based process to confirm providers’ readiness to operate with in HEFCE’s new approach to quality assessment. The first year will involve pilot activity with a range of providers, verification activity for all remaining providers will be undertaken during 2017-18.
+Beyond data and into context
+It is important to point out that data isn’t the complete picture for either the APR or the TEF. As James Wilsdon explained in the Metric Tide report on Research Assessment[7]: “Carefully selected indicators can complement decision-making, but a ‘variable geometry’ of expert judgement, quantitative indicators and qualitative measures … will be required.”
+Wilsdon’s review identified a number of principles for the use of metrics. Humility was one of them. Humility is explained as ‘recognising that quantitative evaluation should support – but not supplant – qualitative, expert assessment’. Data and metrics can be a way into discussing a particular issue – such as first year retention. They are a useful starting point, then part of a narrative that provides colour, richness and context to the issue or topic you are interested in. Hence the TEF includes a written submission.
+So there is no escaping the use of data in quality assurance, or most other areas of higher education. However we need to ensure that ultimately this data helps us improve the learning and teaching delivered to students. Jisc’s co-design challenge [8] looks at the challenges in doing this and offers opportunities to explore the next steps for institutions in making data work for them.
+Good practice case studies
+Manchester Metropolitan University’s programme review and modification procedures provide proportionate and risk-based consideration of programme health and curriculum currency. The ‘Enhancing Quality and Assessment for Learning’ (EQAL) initiative provided the University with an opportunity to review its monitoring of taught programmes. As part of this initiative, a dashboard was developed to replace a more traditional annual monitoring approach. The dashboard provides unit and programme teams with a wide range of quantitative and qualitative real-time data relating to the attainment, achievement and satisfaction of the student cohort to identify trends or concerns.
+Middlesex University reviews its course monitoring process regularly using a comprehensive range of data, including feedback from students via the NSS. The introduction of new software has enabled the presentation of data in a more accessible format and in a timely manner, such that results of KPIs like NSS and progression can be considered and actioned well before the formal AMR process and monitored at regular intervals.
+At the Open University there is a well-developed approach to the use of data, with staff presenting analysis in an accessible graphical format to faculties, and for review purposes. In addition, the IET produces institutional-level analysis of key data which feeds into strategic enhancement projects. Reviews make use of data from an extensive range of sources, including surveys, associate lecturers and external examiners. This data is used extensively to monitor students’ progression, retention and achievement and provide interventions where necessary.
+At Liverpool John Moores University monitoring of student performance and experience key performance indicators is now managed through the University’s centralised online dataset, WebHub. It provides extensive analytical capabilities and monthly updated reports on the University’s key performance indicators, alongside those of higher education sector comparators, which are regularly accessed by 1,400 staff across the University at all levels, from module leaders to the Senior Management Team. Content includes every type of data recorded on the University student records system, including average tariff points, employability and degree class outcomes of graduates, yearly retention and completion rates, and weekly updated student engagement and feedback data. These are accessible at University, faculty, school, programme and module level.
+The University of Birmingham has well embedded mechanisms for collecting and analysing data on student learning. A Student Access and Progress Committee consider the performance of different student groups. A range of data are also considered as part of the Annual Review process, with the outputs considered by the University Quality Assurance Committee and, also, high level academic oversight. Student learning data also enables a local response and means to identify areas for enhancement. As a result of these processes, an assessment literacy project was identified in 2014-15. Data is also collected for non-academic activities, for example a space utilisation analysis and an annual survey on student and staff satisfaction with the University’s VLE.
+Paul Hazell is the Evaluation and Analytics Manager and Marieke Guy is a Data Analyst in the Evaluation and Analytics team at the Quality Assurance Agency for Higher Education.
+Links
+[1] QAA Good practice case study – De Montfort University – Use of data in academic quality management – http://www.qaa.ac.uk/en/ResearchAndAnalysis/Documents/Good%20practice%20case%20studies/GPKB-case-study-De-Montfort.pdf
+[2] Jisc learning analytics available at: https://www.jisc.ac.uk/rd/projects/effective-learning-analytics
+[3] HEDIIP available at: https://www.hediip.ac.uk/about-hediip/
+[4] Details of HEFCE Annual Provider Review available at: http://www.hefce.ac.uk/pubs/Year/2016/201629/
+[5] Details of TEF specification for year 2 available at: https://www.gov.uk/government/consultations/teaching-excellence-framework-year-2-technical-consultation
+[6] See www.hefce.ac.uk/news/newsarchive/2016/Name,108839,en.html
+[7] Metric Tide available at: http://www.hefce.ac.uk/pubs/rereports/Year/2015/metrictide/Title,104463,en.html
+[8] Jisc co-design challenge on ‘How can we use data to improve teaching and learning?’ available at: https://www.jisc.ac.uk/rd/get-involved/how-can-we-use-data-to-improve-teaching-and-learning
+Posted by mariekeguy1 on November 9, 2016 in Case Studies, co-design, Course Data, Curriculum Design, data literacy, digital capabilities, Digital capability, e-Learning general and tagged data, quality assurance.
+Data-driven improvements: stories from the schools sector
+By
+Sarah Davies November 7, 2016
+e-Learning general
+I had the pleasure of attending the #edtechuk global summit on Friday, hearing about the space where education (all sectors), technology and entrepreneurship meet. It was really interesting to be at an event where schools, HE and FE are all considered, and I picked up a couple of tales from the schools sector which I thought were relevant to our current codesign challenge on how data can be used to improve learning and teaching.
+Sherry Coutu (@scoutu) is an entrepreneur, investor and adviser with an interest in raising aspiration and participation in STEM subjects, particularly in girls. She was talking about the power of data to help schools make effective interventions in raising awareness and understanding of STEM subjects and entrepreneurial skills. She highlight two applications of data which have been useful: first, that analysing longitudinal data can help to identify what the key timing and frequency needs to be for interventions (such as visiting speakers) to have the maximum impact. Secondly, she showed how Founders4Schools used geographical data about the location of start-up and scale-up companies to highlight the availability of business leader speakers to schools, particularly those in areas of social and economic variation. Together these interventions can significantly raise learner interest in STEM subjects and business.
+And as a reminder of the importance of straightforward activity data in helping to guide teachers and students, Colin Hegarty (@hegartymaths) an award-winning teaching and founder of Hegartymaths, gave an example of one student who left a comment on his site complaining that the questions were too difficult. Colin was able to see that the student had left it until just before school, and hadn’t viewed any of the teaching material before attempting the questions. He flagged this up to the student’s local teacher, who discussed effective strategies with the student, leading to improved study behaviours and improved scores. Hegarty summarised this something along the lines of “often the best thing about the technology is that it can help students to recognise that learning maths is hard work and they do need to put the time in.” We see this approach in the student-facing learning analytics apps, which serve to give students an unglossed picture of how much time they’re spending on various types of activity, and there’s evidence that this leads to long-term changes in behaviour.
+What can we learn from these approaches in higher and further education? What are you already doing with data that effectively helps you help your students?
+Posted by Sarah Davies on November 7, 2016 in e-Learning general.
+Day 4 of the Codesign challenge – linking to Jisc Learner Analytics
+By
+ruthdrysdale November 3, 2016
+e-Learning general
+Jisc has been supporting the UK HE and FE sectors in the area of Learner Analytics. Read more about this work here:
+The Co-design Challenge ‘How can we use data to improve teaching and learning?’ compliments our learner analytics work as it is considering which other data sources could be used for quality enhancement purposes along with Student Satisfaction data (NSS), HESA retention data  or Students Destinations data (DLHE)
+Here are some tweets from the day …
+Posted by ruthdrysdale on November 3, 2016 in e-Learning general.
+Data-driven improvements in learning and teaching: day one
+By
+Sarah Davies November 1, 2016
+e-Learning general
+Here’s the summary of the first day of discussions.
+[View the story "How can we use data to improve teaching and learning?" on Storify]
+Posted by Sarah Davies on November 1, 2016 in e-Learning general.
+Beyond learning analytics: collaboration, interoperability and standards in higher education learning data
+By
+Shri Footring October 26, 2016
+Uncategorized
+e-Learning general
+We are at a key point for data and analytics in higher education, but if we want to ensure that it reaches its full potential we first need to facilitate a shared ‘data space’ in which the people and organisations who are vital to its success are able to come together and collaborate.
+Now is the time to do this: as more institutions start collecting analytics data as new infrastructure, data and tools become available, we need to place data issues at the forefront.
+In this joint workshop by Jisc and the Open University, we are inviting this diverse group of stakeholders to debate about what needs to happen in order to move this important research area forwards.
+By the end of the session we hope to have made important steps towards more joined up working practices in learning analytics for research.
+Agenda (draft)
+10:00 – 16:00, Thursday 3 November 2016
+Hosted by The Knowledge Media Institute at The Open University
+The Open University
+Walton Hall
+Milton Keynes
+MK7 6AA
+Directions      Campus Map     There is plenty of free parking on campus.
+All sessions to be held in the Knowledge Media Institute
+10:00 – 10:30
+Arrival, registration and refreshments
+10:30 – 10:35
+Welcome and Introduction to the day
+10:35 – 10-55
+Towards an Education Dataspace: Issues, Challenges and Opportunities
+– Prof John Domingue, Knowledge Media Institute, The Open University
+10:55 – 11:15
+Towards a Shared Data and Analytics Architecture
+Dr. Phil Richards, Chief Innovation Officer, Jisc
+11:15 – 11:30
+Short break, tea / coffee
+11:30 – 13:00
+Presentations from workshop participants outlining current areas of work as well as ideas for future research and collaboration possibilities
+Manchester Metropolitan University – Professor Mark Stubbs
+University College London – Samantha Ahern and Steve Rowett
+Leeds Institute of Medical Education – Gareth Frith
+The University of Northampton – Jim Harris
+The Open University – Quan Nguyen
+The National Forum for the Enhancement of Teaching and Learning in Higher Education – Lee O’Farrell
+13:00 – 14:00
+Lunch, networking
+14:00 – 15:15
+Parallel session 1: Data
+What datasets are you currently using? Which would you like to access in the future? How can we enable this?
+14:00 – 15:15
+Parallel session 2: Technical
+What is required to underpin our aims in order to enable interoperability, the use of shared standards and vocabularies?
+14:00 – 15:15
+Parallel session 3: Cultural
+What are the inhibitors to our goals? How can we overcome them?
+15:15 – 15:45
+Feedback from parallel sessions and whole group discussion
+15:45 – 16:00
+Plenary: Actions and next steps
+16:00
+Close
+Posted by Shri Footring on October 26, 2016 in Uncategorized and tagged e-Learning general.
+Post navigation
+← Older posts
+Co-design 2016
+Tweets by @
+Categories#altc
+#onlinedirectory
+#scalinglearning
+#suoll
+announcement
+Assessment and feedback
+Case Studies
+Challenges/Solutions
+co-design
+Conferences and Events
+Course Data
+Culture
+Curriculum Design
+data literacy
+digital capabilities
+Digital capability
+digital leadership
+Digital literacies
+Digital student
+Donna Lanclos
+e-Learning general
+Electronic management of assessment
+Employability
+Events
+FE and Skills
+Framework
+Get involved
+Good practice
+ideas
+Institutional capability
+lawrie phipps
+Leadership
+Lifecycle
+Open education
+progress update
+project management
+project outputs
+Publications and resources
+Scaling up online learning
+Social Media
+technology
+Technology Enhanced Learning
+Tracker
+twitter
+UCISA
+Tags#JISCEL12
+#OLsuccess
+altc2016
+Analytics
+assessment
+Assessment & Feedback
+blogging
+change
+change management
+conference
+Connectivism
+course
+Course Data
+Course Data
+CPD
+data
+Dave White
+digital literacies
+digital literacy
+e-learning
+e-Learning general
+evaluation
+feedback
+GitHub
+Google
+innovation
+JISC
+JISC-CETIS
+jiscassess
+keynote
+mobile
+Network
+Next Generation Learning Environments
+Open learning analytics
+prospectus
+publication
+Rhizomatic
+SEDA
+staff development
+stuff
+udigcap
+Visitors and Residents
+webinar
+webinars
+XCRI-CAP
+Jisc student experience blog.

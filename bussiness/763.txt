@@ -1,0 +1,162 @@
+Home - EnSilica
+COMPANY
+About Us
+Careers
+Leadership Team
+Vision and Values
+Quality
+Working with Us
+Customers
+Testimonials
+Alliances
+Industry Associations
+NEWS
+What’s New
+CONTACT
+Contact Form
+Local Offices
+Search
+IC & SYSTEMS DESIGN
+ASIC Services
+Our experienced engineering team can provide digital and analog consultancy to help deliver your ASIC design to market.
+Overview
+Specification Development
+System Level Design
+Verification
+Physical Design
+Logical Implementation
+SOC Design
+When developing new System on Chip (SoC) devices our experienced teams can deliver turn-key design solutions.
+Overview
+Chip Specification
+Digital Design
+Analog / Mixed Signal
+RF Design
+Test Development
+FPGA Design
+Specialist FPGA expertise that allows us to deliver truly optimal designs that maximise performance and reduce unit costs.
+Overview
+FPGA System Design
+FPGA Verification
+Embedded
+Delivering high quality embedded solutions and specialising in high-speed board designs with significant firmware & software content.
+Overview
+Design for Manufacture
+Electronic Circuit Design
+Software Development
+eSi-Modules
+IC SUPPLY
+Supply Chain Management
+EnSilica offers fabless customers a complete Volume Production Delivery service from GDSII tape-out to volume production.
+Overview
+Process & Vendor Selection
+Packaging
+Test & Qualification
+Volume Production Delivery
+Prototype Development
+EnSilica provides a range of prototyping methods including FPGA-based and silicon MPW schemes that reduce ASIC development costs, timescales and risk.
+Overview
+MPW or FPGA Selection
+Package Selection
+Characterisation
+SILICON IP
+Processor IP
+Highly configurable, silicon proven microprocessor architecture for embedded systems.
+eSi-RISC Overview
+eSi-1600
+eSi-1650
+eSi-3200
+eSi-3250
+eSi-3260
+Digital IP
+A broad portfolio of proven IP cores delivering high quality solutions to our customers.
+Overview
+eSi-ADAS
+eSi-Comms
+eSi-Connect
+eSi-Crypto
+Analog IP
+Silicon proven Analog IPs that enable customers to be successful in dynamic and competitive markets.
+Overview
+MARKETS
+Delivering Success
+EnSilica has over 15 years experience helping its customers deliver 100’s of successful designs time-after-time.
+Consumer & Healthcare
+Communications & IoT
+Industrial
+Automotive
+ASIC ServicesOur experienced engineering team can provide digital and analog consultancy to help deliver your ASIC design to market.READ MORE
+IC Supply ServicesEnSilica offers fabless customers a complete Volume Production Delivery service from GDSII tape-out to volume production.READ MORE
+FPGA Design ServicesSpecialist FPGA expertise that allows us to deliver truly optimal designs that maximise performance and reduce unit costs.READ MORE
+SoC Design ServicesWhen developing new System on Chip (SoC) devices our experienced teams can deliver turn-key design solutions or bespoke consultancy.READ MORE
+What We Do
+EnSilica is one of the UK’s leading fabless design house focused on complete turn-key chip and systems design, development and supply.
+The company has world-class expertise in delivering digital and analog-mixed-signal designs to its customers worldwide in the consumer, communications, industrial and automotive markets.
+The company offers a broad portfolio of core IP covering embedded processors, cryptography and communications.
+EnSilica has a track record in delivering high quality solutions to demanding industry standards.
+READ MORENews and Events
+Meet EnSilica @ MWC 2017 in Hall 7, stand 7B1516th January 2017 - 12:05 pmEnSilica Sponsors 2nd Automotive Sensors and Electronics Summit (23-24 Feb, Berlin)16th January 2017 - 11:35 amSee EnSilica @ IoT Tech Expo 2017 (23-24 Jan, London) Stand #123 – Showcasing IoT design and IP solutions16th January 2017 - 11:03 amEnSilica opens specialist Design Centre for RF and low power sensing applications based near Oxford25th October 2016 - 7:00 am
+Core Expertise and Experience
+The EnSilica engineering teams have the expertise and experience to deliver high quality solutions that are on-time, on-budget and right first-time.
+IC & SYSTEM DESIGNWorld-class design solutions for ASIC & SOC, FPGA & DSP and Embedded Systems
+READ MORE
+IC SUPPLY SERVICESTurnkey test and production services, from first samples to mass production
+READ MORE
+SILICON IPDigital and Analog IP including eSi‑RISC CPU Cores, Comms, Cryptography, Connectivity and ADAS
+READ MORE
+Solutions Across Industry Segments
+EnSilica has over 15 years experience helping its customers deliver 100’s of successful designs time-after-time and across a broad range of industries.
+Consumer Electronics & HealthcareCommunications & IoTIndustrialAutomotive
+Delivering Success
+The level of repeat business the company receives is a testament to its ability to enable its customers to deliver products to specification, on-time and on-budget and to go beyond customer expectations. See the full list of Customer Testimonials.
+“The solution developed by EnSilica, with its excellent features, has enhanced greatly the functionality of our product. We look forward to joining hands again with the team to develop more high-performance IC solutions.”
+Ken TsuiVice President Design Engineering
+“EnSilica is now selected as the sole CPU vendor for Semisens. We are glad that the right partnership made our device achieve the best performance and the highest value in this competitive market.”
+Dave LeeSoC Design Manager
+“If EnSilica commit to a deadline and a budget, then they will deliver. If you have an RFQ for an important design task requiring senior engineers you should send it to EnSilica.”
+Xavier DuretIC Technical Lead
+“EnSilica provided RTL-to-GDSII and DFT services to support the development of our first Smart Building technology ASIC development.  The teams response and professionalism was impressive.”
+Andy HeatonFounder and CEO
+Get In Touch
+EnSilica is headquartered in the UK and has offices in India and the USA.
+The company has an worldwide network of local design, support and sales partners.
+Europe (HQ)Call us: +44 (0) 118 3217 310
+Email us: info@ensilica.com
+Find us: Google Maps
+Wokingham (HQ),
+West Forest Gate, Wellington Road,
+Wokingham, Berkshire RG40 2AT, UK
+Other Offices: Oxford | Bristol
+AmericasCall us: +1 855 642 1070
+Email us: info@ensilica.com
+440N. Wolfe Road, Sunnyvale, CA 94085, USA.
+Asia PacificCall us: +91 80 2258 4450
+Email us: info@ensilica.com
+HSR Layout, 1st sector, Bangalore, 560102. India
+Worldwide Sales PartnersSales and support from our worldwide partners.
+Find a partner near you
+Send us mail
+Please specify your area of interest:*FPGA ModulesSystem Level DesignFPGA Design ServicesASIC Design ServicesProduct DevelopmentIP coresCareersAlliance partnerOther 0 + 1 = ? Please prove that you are human by solving the equation *
+About Us EnSilica is a leading fabless design house focused on complete turn-key chip design, development and supply along with circuit board design and embedded application development services for our clients worldwide from initial specification to finished design, production delivery and supply management.
+Complementary to this we offer a broad portfolio of core IP covering embedded processors, cryptography and communications.
+Quick Links Contact Us
+Local Offices
+esi-RISC Cores
+ASIC Design Services
+FPGA Design Services
+Embedded Design
+IC Supply Services
+Silicon IP
+Latest News
+Meet EnSilica @ MWC 2017 in Hall 7, stand 7B15
+EnSilica Sponsors 2nd Automotive Sensors and Electronics Summit (23-24 Feb, Berlin)
+See EnSilica @ IoT Tech Expo 2017 (23-24 Jan, London) Stand #123 – Showcasing IoT design and IP solutions
+EnSilica opens specialist Design Centre for RF and low power sensing applications based near Oxford
+EnSilica Teams with BaySand to Provide ASIC MPW Customers with Configurable IP Solutions
+@EnSilica Tweets by EnSilica
+© Copyright - EnSilica |
+Call Us -
+UK: +44 (0) 118 3217 310 - USA:
++1 855 642 1070 - India: +91 80 2258 4450
+TwitterLinkedinYoutubeMailRss
+Scroll to top

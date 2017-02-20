@@ -1,0 +1,44 @@
+Learning Materials Application Profile Scoping Study
+Institute for Computer Based Learning
+Site navigation
+skip site navigation menu
+Home
+Projects
+skip page navigation menu
+Page navigation
+Top
+Aims and objectives
+Approach
+Outputs
+Who, funding
+menu
+About this website
+Learning Materials Application Profile Scoping Study
+Aims & Objectives
+Aims
+To scope out the metadata application profile requirements for learning materials in relation to digital repositories.
+Objectives
+Synthesize and analyse advice that is currently available to managers of repositories of educational materials who need to define a metadata element set to describe those materials. This will provide the managers of such repositories with an appreciation of the various domain issues they may need to consider and the range of metadata that they might be expected to accommodate.
+In addition, the study will inform advisory services from different domains about the range of competing demands on repository resources that may be made by others.
+Approach
+A typical collection of learning materials is likely to include a wide range of resource types (e.g. images, web pages, digital media, assessment items) all of which require description.
+In addition there are other factors related to activities such as rights management, ensuring accessibility and preservation that may need to be considered when describing resources. Expert and advisory groups for most object types or activity domains have developed their own specialized metadata and have their own perception of the minimum effort required for best practice.
+For the scoping study we drew up a list of relevant domains; described the relative importance of each domain to the management and use of learning materials, identified domain experts and interviewed these experts to ascertain the recommendations they provide to repository managers on what would be considered an adequate minimum element set. In analysing this information we investgated the application of the FRBR (functional requirements for bibliographic records) domain model, with extensions to show the educational context, to learning materials.
+Outputs
+The scoping study produced a report, for the JISC, on behalf of JISC CETIS, collating the advice from the domain experts.
+More importantly, through synthesis and analysis of this advice the report provides managers of repositories of learning materials with information about the various domain issues they may need to consider and the range of metadata that they might be expected to accommodate.
+In addition, the report may inform advisory services from different domains about the range of competing demands on repository resources that may be made by other domains.
+Plan and Progress
+Project announcement on my JISC CETIS Blog.
+The full project plan is available (MS Word document)
+list of domains relevant to LMAP.
+Draft repository and content model for comment and discussion
+Final report [pdf] submitted to JISC on 09-Dec-2008.
+Links to related resources
+See
+PhilB's del.icio.us posts tagged as LMAP
+Who did this and who paid them
+The work was carried out by Phil Barker, of ICBL, Heriot-Watt University, on behalf of JISC CETIS, with funding from the JISC.
+Maintained by Phil Barker
+Last modified: 09 December 2008.
+© For more information about this website, including terms of use, go to http://www.icbl.hw.ac.uk/aboutweb.html

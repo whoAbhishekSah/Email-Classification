@@ -1,0 +1,263 @@
+DEVELOP | The Blackboard Enhancement Project
+DEVELOP
+The Blackboard Enhancement Project
+Skip to content
+About the Project
+Aims and Objectives
+Project Background
+Project Deliverables
+Project Documents
+Case Studies
+Legal Skills e-Portfolio Templates Study
+Henley Business School MBA Case Study
+Academic Writing In Context Video Widget Case Study
+Outcomes
+People
+Related Sites
+← Older posts
+Top Tip for e-feedback: Saving Blackboard Rubrics
+Posted on November 10, 2015 by Maria-Christiana Papaefthimiou
+If you are using Rubrics in Blackboard to give feedback to your students, please remember that there are two steps you need to take in order to save the information on the Rubric:
+Save the Rubric AND
+Submit OR Save as draft.
+See screenshots below. If you fail to do both the Rubric data is not saved!
+Save the Rubric
+And submit or save draft
+Posted in Uncategorized
+|
+Leave a comment
+Highlights from the Blackboard T&L Conference, Antwerp, April 2012
+Posted on May 8, 2012 by Maria-Christiana Papaefthimiou
+I was lucky to attend a useful and productive Teaching and Learning event organised by Blackboard in Antwerp, which was attended by 240 delegates from HEIs across Europe. There were 5 parallel strands covering innovative teaching, efficiency, staff development, digital literacies, mobile technologies and a number of training sessions.
+Rubens - Antwerp Cathedral
+I presented a paper on the work we did on the DEVELOP project which was attended by a large group of people and received good feedback. Our innovative work has impressed a number of HEIs who asked for further information about our e-portfolio development. Below are some inetersting highlights form the various presentations I attended:
+Use of educational mobile apps is increasing with 64% of institutions having at least one mobile app. Some of the drivers of mobile technologies is personalised learner centred situated collaborative ubiquitous lifelong learning; the marketing to prospective students and the demand by current students. The University of Northampton shared their experience of using Blackboard’s own mobile app (it was reported that they were cheaper than the competition). More information at: Nile.northampton.ac.uk
+Mobile Learn (accessing Blackboard courses and tests on mobile devices) and Mobile Central (a collection f different aspects of the institution accessed on mobile devices including campus tours, augmented reality with maps etc.) are Blackboard Products that are currently implemented by a number of HEIs. Northampton University: http://www.youtube.com/watch?v=dP2jViZeyqI.
+In his keynote, Prof. Dr. Cor N.A. Molenaar talked about the need to change the way we teach and what we teach, to listen and tune in to the new generation of students and the world they live in (http://www.youtube.com/watch?v=3B1F-_QzUPA&feature=youtube_gdata_player), and encouraged us to communicate in a different way http://www.youtube.com/watch?v=Hzgzim5m7oU&feature=youtube_gdata_player.
+As many institutions look for ways to respond to students’ rising expectations against the backdrop of pressures to reduce costs, there is a lot of interest in embedding technology, and Blackboard specifically, into the students’ assessment experience. Assessment and feedback with Blackboard is increasing within the various UK universities. Common drivers include student expectations for services and transactions online; high student numbers (assessment types to handle, deliver feedback at scale); new global markets: fully online (cost efficiencies); NSS New regime: institutions are concerned about quality, their offering, and higher customer expectation.
+Common uses are the use of online testing; assessing online activities such as discussions, blogs, wikis, and e- portfolios; delivering marks and feedback online; and online submission and administration of coursework. Blackboard can be customised for all assessment purposes.
+University of Lincoln – use of Bb for delivering formative marks and feedback, but the final marks are handled by another system (SITS).
+University of Salford Use Turnitin for online submission and are currently looking into the administrative processes of assessment
+University of West of England are taking an administrative perspective.
+Staffordshire University take the academic perspective to enhance assessment and feedback experience for students through online medium and grow into distance learning. The question here is what is the academic change process to move a traditional process online?
+Issue mentioned: Staff resistinmg the marking online.
+The use of electronic marking and feedback was presented by the Vrije University Amsterdam.  The use of Turnitin (through Blackboard) and more specifically PeerMark and GradeMark features, has provided enhanced student engagement and logistical efficiency for the staff, reporting 40% time saving for staff.
+“The digital literacy of academic staff affects the way students perceive and use technology during their studies and beyond”. This is what research in Liverpool John Moores University has showed, which resulted in university strategy to provide opportunities for staff to develop their capabilities. Six students are placed for a full year in each one of the University faculties to support staff and students in using Blackboard, by providing training and one-to-one help. In addition to the University benefit, the students gain considerable experience and increase their employability prospects.
+Use of voice tools for a more personalised student experience, and time savings for staff was reported by Liverpool John Moores. Case studies presented covered the use of voice feedback formatively on draft assignments and also for summative  feedback on final examinations, by posting it on the Blackboard gradecentre; use of audio for adding a summary after the lecture when students can refresh their learning; used at PGCert, to promote reflective practice, use of voice board posting recordings on discussion board to answer the question on what is a good learning experience, where participants can revisit original idea at end of course to see how they progressed; voice can also be embedded in PDF files.
+The pervasive use of Blackboard to support Assurance and Enhancement was presented by Kevin Jacques, Teaching Fellow, Director of T&L, University of Lincoln. The School of Computer Science at the University of Lincoln has spent two years creating and applying Quality Assurance mechanisms and procedures that are wholly implemented using standard toolsets available in Blackboard, resulting in totally paperless quality assurance. The procedures include all aspects of academic quality assurance from the setting and moderation of assessment documentation; marking and feedback to students; internal and external engagement with assessment work moderation; gathering of student evaluation of modules of study and the recording and storing of annual module Quality Assurance and Enhancement reports pertaining to all modules of study across the curriculum. The session identified benefits in maintaining a wholly Blackboard supported, paperless approach to maintaining and evidencing quality standards.
+The Use of Bb for placement learning was presented by the University of Arts, where students used the VLE as a means to find information about placement opportunities; feedback on their experience and keep the information up-to-date; and use the blog to communicate with their tutor at the university and theirs peers. This was
+Blackboard Roadmap
+Blackboard is a multiple learning platform incl. Moodle and Sakai
+New service Pack SP8 was announced. SP10 has a Facebook concept, social networking Portal for students to see what is happening across courses and further developments on profiles.
+Bb are taking a Broader view on education on the education lifecycle: learn, collaborate, mobile, analytics, connect, Transact
+Bb Digital content: YouTube, Kaltura, and OERs. In addition, commercial content (Pearson, Macmillan McGraw Hill, and Wiley) are now available for Blackboard.
+Posted in Dissemination
+|
+Leave a comment
+Legal Skills student feedback on “automatic creation of templates”
+Posted on April 27, 2012 by Guy
+The aim of the widget of the Portfolio Templates widget was to ease and, where possible, to automate the creation of the portfolios. In fact the project bid sets out the aim like this:
+Portfolio Template widget provides students with a clear framework within which to work in their portfolios by automatically creating the pages and templates required when selecting a Portfolio option. The structure of these frameworks would be pre-determined by tutors or others.
+Later, the core project team at the time (Maria, Karsten and me) created scoping documents that articulated the purposes of the widgets more clearly in terms of instructors and users. The e-Portfolio Templates widget was described thus:
+Instructors
+Students
+Benefits of the Templates widget
+Instructors can specify a pre-existing structure for students to use in their e-portfolios, outlining required templates or pages and putting these templates or pages in a particular order.
+Students can select a structure to load their e-portfolio with all the pages they need or that are required of them.
+So, what did the students say about using the tool?
+Of the evaluation forms we received (165 in total, across the 7 workshops we ran in October), all seemed to unanimously agreed that the tool made setting up the required e-portfolios easy, simple or likeable. As one student said of the e-portfolio:
+“Easy since it builds itself.” (q1, E11)
+One commented that the e-portfolio was time-saving, despite not having seen how one would create the e-portfolio without the widget:
+“I liked the fact that everything was on the system therefore saving us time.” (q2, D23)
+The widget not only saved time then but also did so demonstrably, even to those without knowledge of how long the process took previously (anything upward of 45 minutes). This may have been down to the fact that the screen that shows while the templates are being loaded says the process will only take a few moments — and generally delivers on that promise. The student is also notified as each template is added. One has to wonder if they would feel it was as time-saving, had the loading screen simply told them to wait.
+These facts may have helped make the portfolio more likeable, as seen in the two comments below:
+“Didn’t have any issues, liked the fact that it built the portfolio subheadings for us.” (q2, B4)
+“I like the fact that the tables are already in the portfolio. Also, I had no problems.” (q2, F4)
+Note in that last quote that the student doesn’t even seemed think of the automated addition of templates as a process he had to wait through — they are simple “already” there.
+Other feedback suggested that students may have some familiarity with cumbersome tools or arduous tasks in which they are asked to set up everything from scratch:
+“I liked the fact it was automatic — I didn’t have to make each element by myself.” (q2, G22)
+This point is an important one to bear in mind when we come see the students’ feelings about using electronic portfolios as opposed to paper-based ones (to appear in a future post soon).
+A couple of complaints about the automated creation of templates feature did creep into the feedback.
+“It was easy to follow, and most of the parts were already set up. However, it is not easy to find in Blackboard.” (q2, B6)
+“PRO It was simple to set up. CON One of the section in the career portfolio didn’t load.” (q2, E16)
+The problems with finding of the tool in Blackboard may have been down to the students’ general lack of familiarity with Blackboard and the fact that it was embedded within a course (which they would anyway have needed to access to get to relevant resources). The section of the career portfolio that didn’t load was identified as a technical glitch in the workshop itself and I then helped the student recreate the portfolio properly.
+Largely though, and as witnessed by members of staff present at the workshops:
+“It was just a breeze.” (q1, F5)
+I will publish my next post on what students thought of the prompts that are supposed to guide them through creating their e-portfolios. It should be available from 4pm next Monday (30th).
+Posted in Uncategorized
+|
+Leave a comment
+Corrected video link
+Posted on April 26, 2012 by Guy
+Alex Spiers at Liverpool John Moores University was kind enough to point out that the audio in one of the video series I posted last week wasn’t working. I’ve now corrected this.
+The new, audible Video Upload widget demo can now be seen at this address: http://screencast.com/t/y5mbVQVve
+Posted in Dissemination, Uncategorized
+|
+Leave a comment
+Legal Skills student feedback — introduction
+Posted on April 26, 2012 by Guy
+In the next week or so, I will be publishing a series of posts here on the feedback we got from students on the Legal Skills piloting of the e-Portfolio Templates widget. This post is really just to explain how I’ll be doing that!
+Each post will address a different topic or theme of the evaluation. First, I collected together all the feedback we received, coded each sheet so as to keep students anonymous, and then grouped quotations by topic. I will attribute quotations that I post to the anonymous code by including it in parentheses after each quotation. Here’s a real example:
+“It was relatively easy to use / very straightforward. I like the fact is computer based rather than sheets and sheets of paper.” (q2, F19)
+The F19 in the parentheses above gives the workshop the student attended (there were 7 workshops in all, so the letters run from A-G) and the number is given purely so we can see if two or more quotations have come from the same student, without having to identify them. The number of students present at each workshop varied so figures for attendance by group letter are given below:
+A: 21
+B: 28
+C: 24
+D: 24
+E: 19
+F: 25
+G: 24
+As you can see, the parenthetical suffix to the quotation also notes the question to which the student was responding when giving the feedback. It was interesting how different students addressed the same topics or themes across different questions. When I initially started looking at this feedback with Pat, I started to wish I had arranged for more quantitative answers but, having spent more time sorting through them myself, I’m now confident that leaving space for open, free-text answers has led to much richer data.
+Here is the key for the questions:
+q1: How easy/difficult did you find it to create your e-portfolio?
+q2: What did you like about creating the portfolio (if anything) and what issues did you have (if any)?
+q3: How useful was the wizard (the prompts on the left) in guiding you through the process?
+q4: To what extent do you think this approach would be useful for other tools that you have used?
+Finally all the posts will be collected together under the tag “legal skills student feedback” so that you can find them all as a series.
+I will publish my first post on what students thought of the automated creation of templates in their e-portfolios at about 4pm tomorrow.
+Posted in Uncategorized
+|
+Tagged legal skills student feedback
+|
+Leave a comment
+DEVELOP Video Series
+Posted on April 20, 2012 by Guy
+This week I (rather hastily) produced a series of videos for Maria to use at the Blackboard Teaching and Learning conference in Antwerp next week. I’ve made them available here too to view at your leisure!
+Each one demonstrates a different tool (in each I explain each step I take) and last just under 5 minutes in length.
+e-Portfolio Templates widget: http://screencast.com/t/8py2IgrxI15y
+e-Portfolio Feedback widget: http://screencast.com/t/2F6tlQlLl
+Tagging/Recommender widget: http://screencast.com/t/Yd0xMqfxM
+Video Upload widget: http://screencast.com/t/MwVcIoK6in9 http://screencast.com/t/y5mbVQVve [updated link as audio wasn’t working — thanks to Alex Spiers at LJMU for pointing this out]
+Posted in Uncategorized
+|
+Leave a comment
+Blackboard Conference in Antwerp
+Posted on April 19, 2012 by Guy
+As part of our ongoing evaluation of the DEVELOP project outputs and the dissemination of our findings, Maria will be attending the Blackboard conference in Antwerp next week to present the widgets and the feedback we have gathered. You can get to the programme overview here. The description for the presentation Maria will deliver is outlined below:
+Project DEVELOP aims to extend the functionality of Blackboard Learn by developing widgets to allow student-centred learning: e- portfolio (feedback, and template), tagging/recommender, and video widgets. We have been working with academics and students to develop the widgets using a rapid prototyping approach.
+This session will demonstrate the following:
+1. The three e-portfolio widgets provide students with templates that are easy to use, enabling tutor – to – student feedback.
+2. The tagging/recommender widget enables tutors to tag content in their course encouraging student discovery within the Blackboard Learn course site.
+3. The video widget enables tutors to quickly and effectively upload videos on course sites stored in a dedicated server.
+4. Case studies that evaluate the use of the widgets and their impact on student learning and engagement.
+In order to demonstrate the tools and how they work, I have created some videos for Maria to play in the session, though I will make them available here in due course. I will also be summarising the feedback we received earlier in the academic year from our major case study in Legal Skills (an initial summary can be found here, but in the posts that follow I aim to include quotes and more details about the sessions).
+Posted in Dissemination, Uncategorized
+|
+Leave a comment
+Durham Blackboard Users’ Conference 2012
+Posted on March 6, 2012 by Guy
+Though this post comes a little late (circumstances prevented my doing it sooner) I thought it about time to post a little something on the Durham Blackboard Users’ Conference back at the beginning of January. The theme this year was ‘openness’ but as usual the conference provided a useful overview of the problems UK institutions using Blackboard are facing at the moment — and the biggest of these seems to be providing adequate support for the plethora of tools available through Blackboard whilst resource across the Higher Education sector is being shrunk.
+My own presentation felt quite fitting then in that I outlined how DEVELOP had provided what one tweeter called “just in time” help for students creating and maintaining e-portfolios.
+My slides are here — as is evident by a quick flick through them, I tried to encourage discussion at points and get a feel for what the audience were used to using and whether something like the widgets I was presenting would be of any help.
+Interestingly, only half of the attendees at the session were using any e-portfolio tool, which made me curious as to why the other half had attended. Only two of those using e-portfolio tools were using the Blackboard Basic portfolio tool. I am currently in correspondence with one of them to see if they would be interested in trying the widgets at their institution.
+The rest of the presentation addressed the design, development, and evaluation of the tool — the results of which can be seen over certain posts of this blog.
+Posted in Dissemination
+|
+Leave a comment
+Some reflections on using the Portfolio Feedback Tool
+Posted on February 16, 2012 by patparslow
+Guy has blogged about the development of the Portfolio Feedback Tool and some of the issues we (mainly he) identified.  The tool itself is not quite at ‘production’ stage, but is usable enough that I decided to use it to provide feedback on portfolios of work being produced by some of our programming students.
+The process was not without difficulties – but, I have to say, these were not problems with the tool itself.
+We asked 30 students to produce a portfolio of work, covering a 9 week period of lab practicals, using the standard portfolio tool in Blackboard.  As part of the specification, we asked for a set number of pages (10) within the portfolio.
+Some of the students created 10 portfolios.  Some create one portfolio with a smaller number of pages.  Many decided that uploading screenshots so they could then include them in their portfolio pages was too cumbersome, and that they would create Word (or, slightly better, Zoho or Google Docs) documents, and just include links to those in the portfolios rather than writing the content online.  Coupled with this, the Blackboard system was running particularly slowly during at least two of the early sessions, which made their alternative choices seem more sensible at the time, so we extended the definition so that the technology did not cause too much of a barrier.
+Consequently, the number of portfolios actually available in the VLE to assess using the feedback tool was somewhat limited.  The real show stopper, however, was that one student had a perfectly legitimate cause for extenuating circumstances to be considered, and there was therefore a significant delay to the original deadline.  During this period, the other students were obviously keen to receive their marks, but we were unable to give feedback because it could provide an unfair advantage to anyone handing in at a later date.
+One big advantage of the Portfolio Feedback Tool is that it allows the comments to be immediately available to the student.  I must confess, it had never occurred to me that this would also prove to be a stumbling block, but in this case, I had to resort to typing the feedback in to a word document, to give to the students later.  Consequently, this means that for summative work, the tool needs to have an option to delay the publication of the feedback, so that assessment can be done, but comments are withheld until later – a Use Case which hadn’t been identified previously.
+Posted in Pilots and Implementation, Uncategorized
+|
+Leave a comment
+Online Educa 2011
+Posted on December 19, 2011 by Guy
+The entrance to the Hotel InterContinental, Berlin, venue for Online Educa 2011.
+From the 30th November to the 2nd December, I was lucky enough to go to Berlin to present for the Online Educa Conference. When I say lucky, I really mean it — I had the opportunity to meet many interesting people and discuss many interesting issues and ideas. I also presented as part of the conference on the DEVELOP project and was able to demonstrate what we had managed to achieve with the e-Portfolio Templates widget, show some of the work we are currently trying to finish for the e-Portfolio Feedback widget (about which more soon), and report on the feedback we had received from staff and students.
+The presentation was sandwiched between two others — one by Thomas Strasser (Vienna University of Education, Austria) on his e-portfolio experiences with Mahara, the other by Iolanda Bernabé Muñoz (Universitat Jaume I, Spain) on the use of e-portfolios for developing emotional competencies. (You can see some great sketch summaries of their talks by Linda Saukko-Rauto here and here.) I have to admit that both presenters made me a little nervous as they were presenting on the use of e-portfolio technology for very sophisticated outcomes whereas, by contrast, I felt as though the story I had to tell was simply about getting the Blackboard tool to work for us and about simply making the technology more about help and less of a hindrance. However, my presentation seemed to be fairly well received and I think some in the audience appreciated a perspective on a struggle with proprietary software.
+I have uploaded the slides for the presentation here. (For some reason, I still seem unable to embed slides from Slideshare on this blog…)
+They contain a lot of screenshots and as a result I didn’t actually use them much; the slides were a back-up in case I couldn’t get the videos to work. For the videos I used the same that I played for the JISC webinar back on the 18th November. I include the links again here for convenience:
+Templates widget silent demo.
+Feedback widget silent demo.
+I tried to be honest about what felt to me like our humble achievements when compared to the others and managed to make people laugh a little too which is always a nice thing to be able to do. I was also glad to be able to make connections with the presentation Thomas made before mine as he talked about the different types and uses of e-portfolios in relation to his own work with students. I hope to be able to take what I got from the conference and follow up on the various connections that were made — all too often, in my experience, conferences provide great opportunities to network, discuss and develop ideas in a space away from the usual working environment, only for the return to that environment and its various demands to quash any chance of those ideas making any kind of real impact. Reflecting on previous experiences, I hope that I am able to keep some of the discussions I had there open and give those ideas some time to breathe and grow.
+Posted in Uncategorized
+|
+Leave a comment
+← Older posts
+Search for:
+Recent Posts
+Top Tip for e-feedback: Saving Blackboard Rubrics
+Highlights from the Blackboard T&L Conference, Antwerp, April 2012
+Legal Skills student feedback on “automatic creation of templates”
+Corrected video link
+Legal Skills student feedback — introduction
+Recent CommentsAnne Marie Cunningham on Meeting with Joe Doak, Real Estate and Planningpatparslow on Legal Skills workshops — first impressionsGuy on The Design of the Portfolio Feedback WidgetNadja Guggi on The Design of the Portfolio Feedback Widgetkarlund on TagAll, IE and Houston We Have A Problem!Archives
+November 2015
+May 2012
+April 2012
+March 2012
+February 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+Categories
+Content/Destination
+Dissemination
+e-Portfolio Export
+e-Portfolio Feedback
+e-Portfolio Templates
+Evaluation
+Pilots and Implementation
+Plugin development
+Project Management
+Recommender
+Tagging
+Uncategorized
+Video
+Tagsadvanced group management
+Basic LTI
+bbNG:textbox
+blackboard
+blackboard conference
+blackboard course
+blackboard organisation
+blackboard user group
+building blocks
+conference
+dissemination
+dropbox
+e-portfolio
+feedback
+geekcode
+hear
+ilearn
+legal skills student feedback
+pdp
+persistence
+pilots
+recommendation
+red award
+risis
+setup
+sign-up tool
+tagging
+upload
+usage statistics
+versioning/history
+video
+widgets
+wiki
+Meta
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.org
+DEVELOP
+Proudly powered by WordPress.

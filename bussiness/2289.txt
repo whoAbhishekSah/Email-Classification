@@ -1,0 +1,59 @@
+Plasma Physics and Fusion - Physics, The University of York
+Skip to Content
+Department of Physics
+Search
+Physics
+University
+University | A to Z | Departments
+» Physics» Research» Plasma Physics and Fusion
+Physics homeUndergraduate studyPostgraduate studyResearch
+Condensed Matter Physics
+Nuclear Physics
+Biological Physical Sciences Institute
+York Plasma Institute
+Independent Research Fellowships & support for applications
+Early Career Forum
+News & eventsPublic and SchoolsPeopleAlumniIndustryPhysics Intranet
+Plasma Physics and Fusion Research
+The Plasma Physics and Fusion research activities carried out at the York Plasma Institute fall primarily into three main areas:
+Magnetic Confinement Fusion
+‌
+In magnetic confinement fusion, hydrogen gas is heated to a temperature ten times hotter than the centre of the Sun, becoming a plasma. The plasma is confined in a toroidal geometry by a combination of magnetic fields within a fusion reactor known as a tokamak.
+Laser Plasmas & Fusion
+‌
+High powered lasers focussed onto a solid (or gaseous) target are used to produce plasmas. These rapidly expanding plasmas produce interesting high density states of matter. These high density plasmas can be used to simulate astrophysical plasma expansion and to understand other plasma properties.
+Low-Temperature Plasmas
+‌‌‌
+Low-temperature plasmas have a huge range of technological and medical applications. These include plasma etching for semiconductor chip manufacture, plasma deposition (e.g. for solar cells or protective coatings), plasma TVs and new plasma medicine applications (e.g sterilisation, biocompatible materials, cancer treatment). Research focusses on experiments and modelling to improve understanding of the plasma proceses and thereby optimise applications and develop new ones.
+More specific research areas
+Non-linear theories and computational studies of tokamak plasma instabilities, including explosive plasma instabilities that may provide a model for so-called "ELM" events (an important scientific research area for ITER).
+Theoretical studies of the self-consistent interaction of energetic ions (produced either by fusion reactions or heating schemes) and plasma waves in tokamaks.
+Experimental and interpretive modelling studies of tokamak edge plasmas
+Diagnostic development for magnetically confined plasmas
+Investigating and understanding extreme ultra-violet laser action produced in plasmas formed from laser-heated solids
+Application of x-ray lasers to measure the opacity of plasmas relevant to the convection zone of the sun
+Experiments and modelling related to the development of Laser Fusion, particularly Re-entrant Cone-Guided Fast Ignition
+The study in the laboratory of plasmas relevant to astrophysical problems
+The effects of extreme electric fields on plasma emission
+Lower temperature plasmas of technological interest created by lasers
+Atmospheric pressure plasma jets are being explored for medical applications (e.g. sterilisation)
+Techniques to further improve the plasma etching processes in semi-conductor chip manufacture
+Microplasmas are being developed for a range of applications, including coordination of many small microplasmas into large 2D arrays
+Fusion research is undertaken with a view to understanding the basic plasma physics processes in tokamaks to help reduce uncertainties in the performance of future tokamaks (ITER, in particular). There is a close collaboration with the Culham Science Centre, home of the JET and MAST-U tokamaks, which provides access to world-leading experimental tokamak facilities and additional expertise for our postgraduate students. We also have a linear magnetic confinement plasma device at the York Plasma Institute laboratories.
+Laser plasma experiments are usually carried out at the Central Laser Facility, Rutherford Appleton Laboratory, Orion at AWE or at large European laser laboratories. A small in-house nanosecond laser in the York Plasma Institute laboratories is used to produce plasmas for testing diagnostics prior to experiments on larger facilities.
+The York Plasma Institute laboratories house a broad range of low-temperature plasma experiments. These include laboratories for atmospheric plasma jets, microplasmas, low-pressure plasma, laser spectroscopy and plasma etching. The emphasis is on 1) characterising and understanding the plasma properties, and 2) working with industry to improve existing technological applications of low-temperature plasmas and development of new ones.
+Theory and computational modelling is an important part of all of our research areas. We have extensive expertise in both analytical and computational modelling. The York Plasma Institute has a range of computational facilities, including a Beowulf cluster. We employ large, national computer facilities, such as Archer and HPC-FF.
+Department of Physics
+University of York,
+Heslington,
+York,
+YO10 5DD,
+UK
+Tel:
+work
++44 (0)1904 432201
+| Fax:
+fax
++44 (0)1904 432214
+Legal statements
+© University of York | Modify | Direct Edit

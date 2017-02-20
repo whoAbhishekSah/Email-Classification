@@ -1,0 +1,69 @@
+Institutional Innovation
+Institutional Innovation
+Home
+Aims of the SSBR project
+SSBR Project work plan
+Related JISC programmes and support projects
+Reports
+Developing Themes
+Synthesis
+Warning:
+DOMDocument::loadXML() [domdocument.loadxml]: Extra content at the end of the document in Entity, line: 3 in /home/jiscssbr/public_html/wpmu/html/wp-includes/functions.php on line 4317
+Projects Outputs
+Benefits Realisation
+BR Projects
+BR Final Reports
+BR News
+BR Assemblies
+BR Funding Phases
+Events & Activities
+ASSEMBLIES
+Programme launch
+Making Connections
+Institutional Impact
+Institutional Pragmatics
+Institutional Innovation Exchange
+Festival of Assemblies
+Emergent Technologies
+Institutional Change
+Programme Review Meeting
+Employer Engagement
+Workforce development
+Support
+Newsletter
+Database
+Web Conference
+Projects feeds
+Platform
+JISC Comms
+Home
+The SSBR project delivered Support, Synthesis and Benefits Realisation (SS, BR) services to the JISC Institutional Innovation Programme and its constituent projects. The project was based on a community (network) approach to programme support.
+The SSBR final report can be found here.
+The support, synthesis and benefits realisation project (SSBR) aimed to foster the development of a community of interest/expertise for the purpose of realising the benefits of the programme.
+The project is designed to facilitate network interactions to promote knowledge discovery and exchange in four modes:
+peer to peer between the projects,
+between the projects and the programme
+between project teams and their institutional stakeholders
+and between the projects and the wider educational community.
+The work plan consisted of support and synthesis activities in two broad, inter-related phases:
+discovery, analysis and synthesis (Oct 2008 – January 2010 … and ongoing to March 2011)
+benefits realisation (June 2009 – May 2011)
+Trackback
+Comments are closed.
+Projects Outputs
+Warning:
+DOMDocument::loadXML() [domdocument.loadxml]: Extra content at the end of the document in Entity, line: 3 in /home/jiscssbr/public_html/wpmu/html/wp-includes/functions.php on line 4317
+du lich da nang
+Institutional InnovationSynthesis
+Projects Outputs Developing Themes Briefings
+Warning:
+DOMDocument::loadXML() [domdocument.loadxml]: Extra content at the end of the document in Entity, line: 3 in /home/jiscssbr/public_html/wpmu/html/wp-includes/functions.php on line 4317
+Benefits Realisation
+BR Projects Final reports Blog News BR Assemblies BR Funding Phases Support
+Newsletter Assemblies Database Web Conference All Projects feeds Platform Comms Events
+Programme launch Making Connections Institutional Impact Institutional Pragmatics Institutional Innovation Exchange Festival of Assemblies Emergent Technologies Institutional Change Programme Review Meeting Employer Engagement Workforce development
+Links
+Elluminate
+SSBR Docs
+JISC Services
+Log In

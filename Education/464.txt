@@ -1,0 +1,50 @@
+[The Erewhon Project] - University of Oxford
+The Erewhon Project
+Home
+Blog
+Team
+Resources
+Contact
+Home
+Home
+Team
+Calendar
+Resources
+JISC Application
+Contact
+Links
+OUCS
+JISC
+BRII Sister Project
+The Erewhon Project
+The Erewhon project exists to research and develop methods of accessing University information and services from mobile devices whilst also creating a comprehensive geo-location database to facilitate the anticipated demand for location based services (LBS).
+The core deliverables are:
+Implementation of a geo-location data model, syndication interface, and API for organisational resources.
+Provision of demonstration location-aware applications.
+Adaptation of selected Sakai tools for use on relevant mobile devices.
+Guidelines on effective use of mobile devices in UK HE/FE.
+For the latest on our work and general related musings, please visit our blog at:http://oxforderewhon.wordpress.com
+Erewhon is funded by the JISC (Joint Information Systems Committee) Institutional Innovation Programme from October 2008 to March
+2010.
+Latest Blog Entries
+The open-sourcing of Mobile OxfordThu, 04 Mar 2010 15:48:16 +0000
+read more
+Live bus locations from ACIS/OxonTimeThu, 04 Mar 2010 10:59:23 +0000
+read more
+Slides from a presentation to ‘The Alternative Guide’ JISC Project 	Assembly – 9th December 2009Tue, 02 Feb 2010 15:36:49 +0000
+read more
+Erewhon at Handheld Learning ConferenceTue, 06 Oct 2009 10:51:56 +0000
+read more
+Mobile Oxford & Erewhon @ FOTE 2009Fri, 02 Oct 2009 08:21:07 +0000
+read more
+Stay Informed
+Subscribe to our mailing list, we'll keep you informed on really useful information/tools and events related to the Erewhon Project.
+design by studio7designsopensourcetemplates
+Home
+Blog
+Team
+Resources
+Contact
+Accessibility
+OUCS
+© University of Oxford

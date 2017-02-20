@@ -1,0 +1,17 @@
+Atlas-Live
+Atlas-Live
+Live, local information on mobile
+Home
+Interactive Archaeology
+Live Cities
+Open Studios
+JSN Platform
+Contact Us
+Delivering Local Information to Mobile
+Atlas Live specialises in applications that deliver live and local information to mobile devices. Enabling people to discover what is around them and to be kept up to date when it changes.
+Our technology supplies a wide range of information and real-time data for a geographical area including travel, advertising, local government, tourist, and community events. Our technology powers the Open Studios, Live Cities and the Interactive Archaeology applications.
+Mobile applications created by Atlas Live benefit from a native look and feel but can be simultaneously deployed to both the iPhone and Android systems. We have created our own development framework called JSN that enables extremely cost effective mobile applications to be created.
+With JSN, users benefit from easy to follow menus, visualisation with maps, and a host of innovative features specially designed for the mobile user.
+Contact us to discover how we can put your business at your customers’ fingertips.
+Atlas-Live is proudly powered by
+WordPress

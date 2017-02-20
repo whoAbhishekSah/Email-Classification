@@ -1,0 +1,84 @@
+ArchivePress
+External links, forms and search boxes may not function within this archived website.
+«MAY
+NOV
+APR »
+18
+«2009
+2010
+2013 »
+0 captures
+2 Jul 09 - 20 Dec 15
+Close
+Cymraeg
+Help
+Blog
+Project
+Bibliography
+News
+In the cloud
+Welcome to the ArchivePress website
+ArchivePress is a blog-archiving project being undertaken by the University of London Computer Centre and the British Library Digital Preservation department, funded by the JISC Information Environment Programme under its Rapid Innovation Grants Call (03/09).
+The project will explore practical issues around the archiving of weblog content, focusing on blogs as records of institutional activity and corporate memory. As an alternative to the web crawling/harvesting approach of the Internet Archive and the UK Web Archive, ArchivePress will test the viability of using RSS feeds and blog APIs to harvest blog content (including comments, embedded content and metadata). The archived content will be stored and managed using instances of Wordpress, thereby maintaining the blogs’ native data structures, formats and relationships.
+We hope to develop tools and methodology that will enable organisations to use simple, free, open source blogging software to manage a central archive of designated institutional blog outputs, even if they are spread over different blog hosts and platforms. The benefits of this approach will include:
+targeted gathering of selected weblogs
+improved reliability and authenticity of records
+citable blog content with persistent identifiers
+automated, ongoing harvesting, via newfeeds
+accessibility of content, using native blog interfaces
+use of native web and database file formats, compatible with registry-based preservation activities.
+Inputs
+ArchivePress: JISCRI proposal (PDF) – the proposal accepted by JISC (April 2009)
+Set a blog to catch a blog – a post on the JISC-PoWR blog which first suggested this approach.
+Considerations for the preservation of blogs (PDF) – a briefing paper by Digital Preservation Europe. Also a response to this on ULCC’s DA Blog.
+Outputs
+This blog, where we can discuss with the Digital Preservation community, such as preservation, authenticity, citation, context, versioning, reuse.
+Methodology and guidance for the effective capture and management of blog posts.
+Scripts/plugins to enable WordPress to be used as a blog aggregator and archiving engine. (Currently in preparation on Google Code.)
+Recent Posts
+ArchivePress End of Project: Last Post
+ArchivePress for WordPress 3
+Latest progress and plans
+ArchivePress First Release Candidate out NOW!
+ArchivePress final Alpha release
+Recent Comments ArchivePress » Blog Archive » ArchivePress End of Project: Last Post on Blog table of contentsRana Norberg on Making things simple?Jim Groom on ArchivePress First Release Candidate out NOW!Alan Levine on ArchivePress First Release Candidate out NOW!Archival musings « ArchivePress + APrints on ArchivePress: a different tool for a different purpose
+Archives
+November 2010
+October 2010
+August 2010
+April 2010
+March 2010
+February 2010
+December 2009
+November 2009
+October 2009
+August 2009
+July 2009
+June 2009
+Partners
+British Library Web Archiving Programme
+JISC Information Environment Tearm
+ULCC Digital Archives
+Meta
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.org
+Theme Switcher
+Ahimsa
+AndyBlue
+ap-simplex
+AP Fluid Blue
+Atahualpa
+b2theme
+Fluid Blue
+Inanis Glass
+MiniMoo
+P2
+plaintxtBlog
+simpleX
+WordPress Classic
+WordPress Default
+Except where stated, posts and content on this blog are licenced under a Creative Commons Attribution 2.0 UK: England & Wales License. Comments posted to this blog will also have the same licence.
+Powered by WordPress.
+Theme by DT Website Templates.

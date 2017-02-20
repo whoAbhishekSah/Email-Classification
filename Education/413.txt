@@ -1,0 +1,342 @@
+Digital Curation Centre | because good research needs good data
+Skip to Navigation
+Contact us
+Search this site:
+Home >
+12th International Digital Curation Conference
+20 - 23 February 2017
+Accommodation
+Birds of a Feather (BoFs)
+Call for Papers
+Demonstrations
+Posters
+Programme
+Registration
+Research & Practice Papers
+Social Events
+Speakers
+Submission Dates
+Submissions
+Supporters
+Workshop submissions
+Workshops
+Latest newsNext events
+"Towards Automating the Data Analytics Process" - Keynote lecture by Professor Chris Williams
+18 February, 2017
+| in DCC News
+RISE, a self-start tool for research data management service review
+17 February, 2017
+| in DCC News
+IDCC17 - Associates rate extended to Friday 3 February
+30 January, 2017
+| in DCC News
+12th International Digital Curation...
+20 February 2017
+- 23 February 2017
+Quincentenary Conference...
+How can the DCC help you?
+About us
+We are a world-leading centre of expertise in digital information curation...
+What is digital curation?
+Digital curation involves maintaining, preserving and adding value to digital research data throughout its lifecycle...
+Working with HEIs
+Under the institutional engagement programme we have been working with HEIs to provide tailored support...
+Editor's choice
+DMPonline & DMPTool roadmap
+Sarah Jones on the recent reciprocal visits between our teams...
+Kevin Ashley on open data
+The DCC Director in conversation with Maciej Chojnowski...
+Digital Preservation Awards 2016
+The DPC's quest has begun. Deadline 26 July...
+Recent blog posts
+Roadmap retrospective: 2016
+RDMF16 Technology Breakout Session
+RDMF16 Research Software Breakout Session
+DMP themes: And then there were 14...
+All blog posts >
+Sign up for our newsletter
+Email address: *
+> Newsletter archive
+Tag cloud
+tools
+research data
+research data management
+curation
+RDM
+DMPonline
+DCC
+data management
+data sharing
+training
+IDCC15
+more tags
+Home
+Digital curationWhat is digital curation?
+Why preserve digital data?
+Planning for preservation
+Digital curation FAQHow can the DCC help you?
+DCC Curation Lifecycle Model
+DRAMBORA
+Freedom of Information Act
+Open Source Software and Open Standards
+Submitting funding proposals to the Medical Research Council
+Glossary
+About usDCC staff directory
+DCC Charter
+History of the DCC
+DCC Phase 3
+Partnershipse-Science
+CODATA
+Research & Development
+About this siteWebsite terms of useCopyright, use and liability
+Use of your data
+Cookies we use
+Accessibility
+NewsWhat's New archive
+EventsInternational Digital Curation Conference (IDCC)
+Data Management Roadshows
+Research Data Management Forum (RDMF)
+Workshops
+Other DCC eventsFeedback
+External events
+ResourcesBriefing PapersIntroduction to CurationAnnotation
+Appraisal and Selection
+Curating Emails
+Curating e-Science Data
+Curating Geospatial Data
+Data Accreditation
+Data Citation and Linking
+Data Protection
+Database Archiving
+Digital Repositories
+Freedom of Information
+Genre Classification
+Interoperability
+Persistent Identifiers
+Trust Through Self Assessment
+Using OAIS for Curation
+Web 2.0
+What is Digital Curation?
+Common Directions in Research Data Policy
+5 Steps to Research Data Readiness
+Citizen Science
+Making the Case for RDM
+Legal Watch PapersCreative Commons Licensing
+IPR in Databases
+Science Commons
+Sharing Medical Data
+Standards Watch PapersInformation Security Management: Using BS 10012:2009 to Comply with the Data Protection Act (1998)
+Information Security Management: The ISO 27000 (ISO 27K) Series
+ISO 15489
+PREMIS Data Dictionary
+What are Metadata Standards
+Using Metadata Standards
+Workflow Standards for e-Science
+Technology Watch PapersCASPAR
+Planets Testbed
+Preservation and Curation in Institutional Repositories
+Web Archiving
+How-to Guides & ChecklistsAppraise & Select Research Data for Curation
+Cite Datasets and Link to Publications
+Develop RDM Services
+Develop a DMP
+Discover Requirements
+Five Steps to Decide What Data to Keep
+Five Things You Need to Know About RDM and the Law
+License Research Data
+Track Data Impact with Metrics
+Using RISE
+Where to keep research data
+Write a Lay Summary
+Developing RDM ServicesReviewing research data platform capabilities at CISER
+Using EPrints to Build a Repository for UEL
+Assigning DOIs at Bristol
+DMPs in the Arts and Humanities
+Improving RDM at Monash
+Improving Research Visibility
+Increasing Participation in Training
+RDM Training for Librarians
+RDM strategy: moving from plans to action
+Storing and Sharing Data in Hull
+Curation Lifecycle ModelLifecycle Model FAQ
+Curation Reference ManualPeer review
+Editorial Board
+Completed chaptersAppraisal and Selection
+Archival Metadata
+Archiving Web Resources
+Automated Metadata Generation
+Curating Emails
+File Formats
+Investment in an Intangible Asset
+Learning Object Metadata
+Metadata
+Ontologies
+Open Source for Digital Curation
+Preservation Metadata
+Preservation Scenarios for Projects Producing Digital Resources
+Preservation Strategies
+Principles for Enabling Access to Engineering Design Information Through Life
+Scientific Metadata
+The Role of Microfilm in Digital Preservation
+Chapters in productionLifecycle Planning
+Using the OAIS Reference Model for Curation
+Video Data
+Policy and legalFive Steps to Developing a Research Data Policy
+Overview of funders' data policies
+Funders' data policiesAHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Cancer Research UK
+European Commission
+The Wellcome Trust
+Institutional data policies
+Policy tools and guidance
+RDM guidance webpages
+Roadmaps to EPSRC Expectations
+Freedom of information FAQ
+MRC data plan FAQ
+Open source FAQ
+Data Management PlansChecklist
+DMPonline
+FAQ on DMPonline
+FAQ on Data Management Plans
+Funders' requirements
+Guidance and examples
+ToolsTools and Services Catalogue
+CARDIO
+Data Asset Framework
+Case studiesADS and the Data Seal of Approval
+Integrative Biology
+CARMEN
+SCARP
+Wide Field Astronomy Unit (WFAU)
+MESSAGE
+Repository audit and assessmentDRAMBORADRAMBORA FAQ
+Trustworthy Repositories
+Nestor
+Birds of a Feather
+Anticipated applications
+StandardsDisciplinary Metadata
+DIFFUSEAbout
+DIFFUSE FAQ
+Standards by type
+Standards by title
+Standards developing organisations
+Publications and presentations2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+Roles
+Curation journalsIJDC
+Informatics research2008
+2007
+2006
+2005
+2004
+2003
+2002
+External resourcesTools & ServicesManaging Active Research Data
+Depositing and Ingesting Digital Objects
+Archiving and Preserving Information
+Managing and Administering Repositories
+Sharing Output and Tracking Impact
+Guidance, Reports and Directories
+Projects and Initiatives
+Organisations and Networks
+Standards and Specifications
+Repositories
+Resources of Historical Interest
+Online Store
+TrainingForthcoming training events
+Request a training sessionTraining costs
+Training enquiry form
+Previous training eventsCuration webinarsVideos and slides
+Digital Curation 101
+Tools of the Trade training
+Training and reference materialsCareer profiles and related data management skills
+DC 101 training materials
+Disciplinary RDM trainingConceptualise
+Create or receive
+Appraise and select
+Ingest
+Preservation action
+Store
+Access, use and reuse
+Transform
+Curate and preserve
+RDM for librarians
+Skills frameworks
+Data management courses and training
+ProjectsFOSTER
+4CSummary of cost models
+Research Data Registry
+Past projectsREDm-MED
+DryadUK
+KRDS/I2S2
+Closing the Curation Gap
+DaMSSI
+DigCurV
+Incremental
+CARDIO
+I2S2
+ERIM
+SRF
+LIFE costs tool
+PREPARDE
+Life Science Case Studies
+Open Science Case Studies
+SCARPAbout SCARP
+SCARP Synthesis
+ERIS
+DaMSSIDaMSSI-ABC
+CommunityResearch Data Management Forum (RDMF)
+Interviews: Setting the SceneBob Mann
+Ann Borda
+Laura Mitchell
+Richard Wright
+Sheila Anderson and Hamish James
+Neil Thomson
+ContributeEvent
+Glossary item
+News item
+Online resource
+Social media directory
+DCC Associates NetworkRegistration form
+DCC blogs
+Survey: Budgeting for RDM
+Tailored supportInstitutional EngagementsEast London
+Northampton
+The Open University
+Advocacy
+Business case
+DMP
+Data discovery & reuse
+Guidance
+Policy & strategy
+Requirements gathering
+Training
+Connect:
+Blogs
+Flickr
+RSS
+Twitter
+YouTube
+Google+
+© 2004-2017 DCC
+Sitemap
+Accessibility
+Terms and Conditions
+Privacy and Cookies

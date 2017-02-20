@@ -1,0 +1,46 @@
+Untitled Document
+Mandate
+Documents
+Meetings
+Projects Partners
+Contact Details
+Mandate | About mandate
+This project is funded by the Joint Information Systems Committee (JISC).
+The aim of the project is to develop a toolkit to support the
+creation and implementation of digital asset management and
+preservation in the further education setting, and demonstrate its
+application in the setting of John Wheatley College (JWC).
+The toolkit is available here.
+The project will format, index, and store existing unstructured
+digital materials created in currently disparate processes and from
+the research practice create and test templates and workflow models
+for routine use in John Wheatley College and for application across
+the sector. The project will develop appropriate structures for
+web-based storage of information that will contribute to the end
+goal of improved digital preservation.
+The project will examine the roles of various staff
+– teaching
+staff, librarians, administrators, technicians - in the creation of
+appropriate metadata and will apply quality control mechanisms to
+support correct application.
+The project will support the establishment of routines which
+address issues associated with the creation of documents related to
+quality assurance for learning programmes and associated learning
+materials in terms of their metadata declaration, and the roles of,
+and collaboration between administrative staff, teaching and other
+curricular support staff and library staff. The project will examine
+the roles of and relationships between these staffing groups and
+develop workflow models and templates to support the effective
+creation of metadata suitable for storage and retrieval processes
+and also suitable for supporting managed information lifecycles.
+The toolkit will be made available on the project website and in
+appropriate repositories, and will include:
+Support for assessment of initial college position
+Database specifications
+Metadata collection templates
+Cross-walks and mappings
+Workflow process diagrams and explanations
+Model strategy for adaptation and use by other colleges
+Project report (including case study)
+Training Programme specification
+Case Study of application of toolkit in John Wheatley College

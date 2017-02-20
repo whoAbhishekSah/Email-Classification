@@ -1,0 +1,90 @@
+Sustainable Energy Research Group
+Accessibility Tools
+Search for:
+HomeAbout
+Consultancy
+Facilities
+Vacancies
+Related Websites
+Research Themes
+Renewable Energy
+Solar Photovoltaics
+Wind Energy
+Tidal Energy
+Low Head Hydro Power
+Wave Energy
+Cities and Infrastructure
+Energy and Behaviour
+Data and Modelling
+Energy and Buildings
+Energy for Development
+Environmental Impacts
+Microgeneration Technologies
+Projects & Research Timeline
+Grants and Contracts
+Phd Projects
+Publications
+CCWeatherGen (software)
+CCWorldWeatherGen (software)
+Solar Southampton (tool)
+Solent Region Energy and CO₂ (mapping)
+People
+News
+Events
+Lectures
+EWTEC 2015
+Energy for Development
+RENKEI Spring School
+Education
+MSc Projects
+School Events
+Contact Us
+University Homepage
+Recent News
+5th October, 2016
+University of Southampton projects on Africa rural electrification represented at 3rd International Off-grid Renewable Energy Conference Read More →
+22nd September, 2016
+Preliminary IMPETUS domestic water demand model results presented at IMA Europe 2016 conference Read More →
+5th September, 2016
+Kitonyoni solar PV mini grid project visit Kenya, 2nd October, 2016 Read More →
+Tweets by EnergySoton
+Follow @EnergySoton
+The Sustainable Energy Research Group (SERG) is part of the Energy and Climate Change Division (ECCD) within the Faculty of Engineering and the Environment at the University of Southampton.
+The Sustainable Energy Research Group (SERG) aims to promote and undertake fundamental and applied research related to the efficient use of energy in the built environment. This is alongside pre-industrial development in the areas of renewable energy technologies. SERG undertakes research in core areas of energy, specifically in Cities and Infrastructure, Data and Modelling, Energy and Behaviour, Energy and Buildings, Energy for Development, Environmental Impacts, Microgeneration Technologies and Renewable Energy (Solar Photovoltaics and Marine Energy).
+For more information about any of these core areas of research, please click on the links above or click on a specific area of research below.
+Current Projects
+Please click on the logos for more information on the  Sustainable Energy Research Group’s (SERG) current projects.
+Upcoming Events and News
+Please click on any of the upcoming events and news stories below for more information.
+Recent Publications
+Anderson B., Lin S., Newing A., Bahaj A.S. and James P.A.B.  (2016). ‘Electricity Consumption and Household Characteristics: Implications for Census-Taking in a Smart Metered Future’. Computers, Environment and Urban Systems. view paper
+Blackmore T., Myers L.E. and Bahaj A.S. , (2016) Effects of turbulence on tidal turbines: Implications to performance, blade loads, and condition monitoring, International Journal of Marine Energy, volume 14 pages 1-26. View paper.
+Torriti J., Hanna R., Anderson B., Yeboah G. and Druckman A., (2015) Peak Residential Electricity Demand and Social Practices: Deriving Flexibility and Greenhouse Gas Intensities from Time Use and Locational Data. Indoor & Built Environment, Special Issue on “Behaviour and Energy Use in the Indoor and Built Environment”. view paper.
+Essend  H., Amoako Johnson F., Madise N., Mathews Z., Falkingham J.C., James  P A.B., Blunden L.S. and Bahaj A S. (2015) Infrastructural challenges to better health in maternity facilities in rural Kenya: community and healthworker perceptions. Reproductive Health. view paper.
+George G.I., Kotha R., Parikh P., Alnuaimi and Bahaj, A. S. (2015) Social structure, Reasonable Gain, and Entrepreneurship in Africa, Strategic Management Journal. view paper.
+Newing A., Anderson B., Bahaj, A.S. and James, P.A.B.
+(2015)
+The role of digital trace data in supporting the collection of population statistics – the case for smart metered electricity consumption data. Population Space and Place, 1-13. (doi:10.1002/psp.1972)
+Buchanan K., Russo R. and Anderson, B. (2015) The question of energy reduction: the problem(s) with feedback. Energy Policy, 77 (doi:10.1016/j.enpol.2014.12.008).
+Blackmore T., Benoit G., Myers L.E., Germain G. and Bahaj A.S. (2015) The Effect of Freestream Turbulence on Tidal Turbines, In Proceedings of the 11th European Wave and Tidal Energy Conference (EWTEC), Nantes.
+Shah K., Blackmore T., Blunden L., Myers L.E. and Bahaj A.S. (2015) From Lab to Field: Deployment of a Scale Turbine in a Tidal Estuary, In Proceedings of the 11th European Wave and Tidal Energy Conference (EWTEC), Nantes.
+Coles D.S., Blunden L.S. and Bahaj A.S. (2015) Energy Extraction Potential from the Alderney Race, In Proceedings of the 11th European Wave and Tidal Energy Conference (EWTEC), Nantes.
+Dimitriou T., Teli D., James P.A.B., Bahaj A.S., Ellison L. and Waggott A. (2014) Impact of current occupant behaviour on potential carbon savings in a council owned tower block undergoing retrofit, CIBSE ASHRAE Technical Symposium. view paper
+Papafragkou A., Ghosh S., James P.A.B., Rogers A. and Bahaj A.S. (2014) A simple, scalable and low-cost method to generate thermal diagnostics of a domestic building, Applied Energy, Volume 134, pp 519-530. view paper
+Blackmore T., Batten W.M.J. and Bahaj A.S. (2014) Influence of turbulence on the wake of a marine current turbine simulator, Proc. R. Soc. A, volume 470 number 2170. view paper
+Bahaj A.S., Blunden L.S., James P.A.B, Kanani C., Essendi H., Matthews Z., Falkingham J.C. and George G.I. (2014) Energy for development: Replication of rural decentralised off-grid electricity generation through technology and business innovation, In Proceedings of the Grand renewable energy international conference and exhibition, Tokyo 28 July – 1 August 2014.
+Blackmore T. and Bahaj A.S., (2014) Turbulence and its effect on the thrust and wake of a porous disc rotor simulator, In Proceedings of the 2nd Asian Wave and Tidal Energy Conference, Tokyo 28 July – 1 August 2014.
+Keogh B., Myers L.E. and Bahaj A.S. (2014) Marine current turbine performance and wake evolution with changes in channel geometry, In Proceedings of the 2nd Asian Wave and Tidal Energy Conference, Tokyo 28 July – 1 August 2014.
+Shah K., Myers L.E. and Bahaj A.S. (2014) Scale experimental modelling of a multiple row tidal array, In Proceedings of the 2nd Asian Wave and Tidal Energy Conference, Tokyo 28 July – 1 August 2014.
+Coles D.S., Blunden L.S. and Bahaj A.S. (2014) Two dimensional depth averaged numerical modelling of large marine current turbine arrays, In Proceedings of the 2nd Asian Wave and Tidal Energy Conference, Tokyo 28 July – 1 August 2014.
+Buchanan K., Russo R. and Anderson B. (2014) Feeding back about eco-feedback: how do consumers use and respond to energy monitors? Energy Policy. view paper
+Browne A., Medd W., Pullinger M. and Anderson B. (2014). Distributed Demand and the Sociology of Water Efficiency. In K. Adeyeye (Ed.), Water Efficiency in Buildings: Theory and Practice. Chichester, United Kingdom: Wiley. view book
+Blackmore T., Batten W.M.J., Müller G.U. and Bahaj A.S. (2014) Influence of turbulence on the drag of solid discs and turbine simulators in a water current, Experiments in Fluids, Volume 55, Article 1637. view paper
+Browne A.L., Medd W., Anderson B.,and Pullinger M. (2014). Method as intervention: Intervening in practise through quantitative and mixed methodologies. In Y. Strengers & C. Maller (Eds.), Intervening in social practices for sustainability: Beyond behaviour change. Routledge.  view book
+Zhang L.X., Wang C.B. and Bahaj A.S. (2014) Carbon emissions by rural energy in China, Renewable Energy, Volume 66, pp.641-649. view paper
+Browne A.L., Pullinger M., Medd W. and Anderson B. (2014). Patterns of practice: a reflection on the development of quantitative/mixed methodologies capturing everyday life related to water consumption in the UK. International Journal of Social Research Methodology, 17(1), 27–43. view paper
+Anderson B. (2014). Small Area Estimation as a tool for thinking about spatial variation in energy demand. In Spatial Variation in Energy Use, Attitudes and Behaviours: Implications for Smart Grids and Energy Demand. London: Policy Studies Institute.
+Galloway P.W., Myers L.E. and Bahaj A.S. (2014) Quantifying wave and yaw effects on a scale tidal stream turbine, Renewable Energy, Volume 63, pp.297-307. view paper
+View all publications
+Comments are closed.
+Sustainable Energy Research Group : The University of Southampton

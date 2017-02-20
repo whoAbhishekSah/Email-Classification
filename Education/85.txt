@@ -1,0 +1,52 @@
+Information Systems Security Research Group (ISSRG)
+Information Systems Security Research Group (ISSRG)
+Key Aims
+The ISSRG's mission is to research and develop leading edge user
+friendly security solutions for distributed systems. The group has many
+years of experience of research in Federated Identity Management, Public Key Infrastructures,
+Privilege Management Infrastructures, Trust Management and Privacy Management, having participated in many EC
+and UK projects since the late 90s.
+The ISSRG are the authors of PERMIS,
+a fully functional open source authorisation (or privilege management)
+infrastructure written in Java. The source code is available here.
+PERMIS is fully integrated with Shibboleth and Globus toolkit
+to provide policy based
+authorisation for
+federated and/or Grid applications using the industry standard
+SOAP/SAML protocol.
+We have successfully run several academic conferences including IFIP CMS in 2004 and 2012, and EuroPKI in 2005.
+Areas of Research Activity
+Research grants associated with members of this group are available in
+detail and summary form. Members are engaged in the following areas of
+research (research areas in more detail) .
+Public Key and Privilege Management Infrastructures
+Policy based security
+Privacy and Security
+User Friendly Security
+Trust management and metrics and Reputation Systems
+Security and Risk Management
+Autonomic Security
+Some Current and Past Project Links
+PERMIS - PERMIS provides
+application builders with software to make access control decisions, and also gives
+them tools for managing policies, role assignments, and delegations
+between users. (http://sec.cs.kent.ac.uk/permis)
+OpenPERMIS - The OpenPERMIS
+website hosts the open source code that is used to construct the
+PERMIS release packages. (http://www.openpermis.info)
+Logins
+For Life - The Logins for Life project was a joint venture between
+the ISSRG and the University's IS department, addressing the needs of the
+University to engage with stakeholders throughout their lives. (http://www.kent.ac.uk/is/projects/loginsforlife/index.html)
+TAS3
+- The TAS³ Integrated Project (Trusted Architecture for Securely Shared
+Services) was a European wide project that developed privacy protecting services for applications handling
+personal information, which is collected & stored at distributed
+locations and used in a multitude of business processes. (http://www.tas3.eu)
+CLASSe
+- The CLASSe project is a GEANT open call project which is adding the IETF ABFAB protocol suite to the OpenStack cloud software. It
+follows on from the successful EPSRC funded My Private Cloud project,
+which added several TAS3 services to the Eucalyptus open source cloud software, and the Sticky Policy Security APIs for the Cloud project,
+which integrated protocol independent federation into the OpenStack software.
+Page Last Updated by David Chadwick 19th January 2014
+© University of Kent

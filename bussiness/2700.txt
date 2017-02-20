@@ -1,0 +1,24 @@
+Welcome | Holistic Systems
+Jump to navigation
+Search form
+Search
+Welcome
+Recent Articles
+Why Haskell ?28 Feb 2016Haskell is an advanced, next generation programming language rapidly gaining popularity due to compelling advantages.
+Information Security Fundamentals #109 Oct 2015This article is for people who have IT systems or data they would like to protect and who would be disappointed to find them irrevocably destroyed.
+10 Web Technology Predictions for 201127 Dec 2010Since everyone else is doing it, just for once I thought I would jump on the bandwagon and make my top web technology predictions for 2011.
+Recent Projects
+Agency Finder15 Oct 2015Interactive maps combine data from google maps, job search direct and data extracted from 3000 digital agency websites.
+The app uses an innovative approach of downloading it's entire database into the browser to allow extremely rapid searching.
+Where are they now Facebook App15 Oct 2015A browser based app that allowed you to trace your friends on a google map and show either their current location or their birth town.
+The app allowed filtering friends based on their preferences, interests and relationship status amongst other things.
+Home
+Projects
+Articles
+Links
+Twitter
+Linked In
+Rss
+Newsletter subscribe
+E-mail *
+Powered by Drupal

@@ -1,0 +1,49 @@
+MathTran - Translation of Mathematical content
+MathTran - Home
+Home
+Project
+Links
+Contact
+Introduction
+MathTran is a JISC
+funded project to provide translation of mathematical
+content as a web service.
+This pages here provide information about the project.
+We have set up a separate MathTran server
+that which will offer translation of mathematical content as a web service.
+This project will started on 1 December 2006, and finish on 30 June 2007.
+Mathematical Content
+Mathematical content presents particular difficulties in both print and electronic media.
+Accented and non-latin characters used to cause electronic difficulties, until Unicode replaced
+the previous 8-bit (256 possible values) character sets. Now it is possible to cut and paste
+Greek, for example, from a web page and into a Word document. But not mathematics.
+The project will contribute to the program by easing the problems caused by mathematical
+content in electronic media. We expect its contribution to grow over time, as its key tools
+become more widely accepted.
+The Ideal Solution
+An ideal solution would
+Accept LaTeX input
+Use TeX typography
+Convert to and from MathML
+Provided graphics outputs in multiple formats
+Be efficient, and support interactive (instant preview or wysiwyg) use
+Run everywhere, from web server to stand-alone PC
+Handle the full range of published mathematical constructions
+Integrate with other applications, e.g. that need to edit or display mathematical content
+Where we are now
+The Higher Education community is a long way from having an ideal solution.
+There is at present a patchwork of partial solutions. The most widespread solution,
+for print, is to use LaTeX in the traditional way. This fails, for electronic media,
+on 3, 5, 6 and 8. It is also very closely tied to using LaTeX not only for the mathematics
+but also the text. Our proposal will address these points but will leave further work on
+6 and 7 to realise the ideal solution.
+There is, of course, pressure to remedy the deficits in any partial solution. This can lead
+to unanticipated and uncomfortable programming requirements, or worse development dead ends.
+To learn more
+Further information can be found on the Project page
+on this site, and on the
+MathTran
+page at JISC.
+Alternatively, you might like to read the
+project proposal (PDF, 117Kb).
+Copyright Š 2007 The Open University

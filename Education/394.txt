@@ -1,0 +1,397 @@
+DepositMOre - Extending DepositMO to deposit more content in real repositories
+Skip to content
+DepositMOre
+Extending DepositMO to deposit more content in real repositories
+Log in
+Categories:
+Uncategorized
+Leeds builds a new digital library: role of the Watch Folder tool
+The University of Leeds is building a new digital library based on EPrints, and began its investigation by using the Watch Folder produced by the DepositMO project, reporting progress on the use of this tool as a repository partner of DepositMOre. This was an exciting development, and although the Watch Folder was subsequently displaced by a commercial application for workflow reasons at Leeds, it demonstrates how deposit and workflow issues implemented in this project tool have risen up the agenda.
+John Salter, software developer for the digital library at Leeds, answers our questions about the impact of the Watch Folder on the work and how the approach to content deposit it exemplifies has influenced the DL project at Leeds.
+Which tool did you use and why?
+At Leeds we were setting up a new Digitisation Studio, Digitisation Service and alongside that a new Digital Library, based on the EPrints platform. The studio is tasked with digitising content from our Special Collections (books, slides, manuscripts and other unique resources, such as our theses), the University Gallery, as well as paid-for requests both internal and external to the University. It will be producing a large number of digital objects, mainly contained in folders that represent the object being digitised, e.g. several TIFFs representing individual pages of a manuscript would be held in one directory.
+For this ‘bulk’ style work, the Watch Folder script seemed like a good place to start, but…
+The digitisation landscape at Leeds is an evolving beast. During the period of the DepositMOre project we have purchased another piece of software: KE EMu**. This application will be the canonical source of object metadata: title; creator; copyright; physical preservation (and anything in between), and also manage the incoming digitisation requests and workflow for the Studio. Consequently our process for adding the digital objects to the repository is changing from an almost linear:
+Request -> Digitise -> Enhance (e.g. crop) -> Save -> Deposit -> Catalogue
+to something more like:
+Request -> Digitise -> Enhance -> Save ————\
+\-> Catalogue (including checking copyright) -> Deposit
+It is important to note that some of the material we digitise cannot be made Open Access. We need to be stringent in checking what rights we have to disseminate this material. Some content we digitise is not for the public domain. Some will allow small thumbnails to be made available, but copies available by request only.
+The Digitisaton Studio is still answering many questions:
+what is the *best* format in which to save things for dissemination?
+what should we store?
+— RAW from the camera
+— software-specific versions (e.g. CaptureOne) created before the TIFF
+— any number of intermediate cropped/colour-corrected versions
+— the ‘master’ TIFF (preservation copy)
+— processed versions (thumbnails)
+how to manage the request process to delivery?
+and many more. The answers to these questions determine how we design the automated deposit process for items we have created.
+Our storage configuration also means that the EPrints server can see the Studio work area which makes the HTTP transport layer less attractive as a means to move items into the repository. If the deposit-by-reference scenario discussed on the SWORD blog gets resolved, it would make our situation a bit more SWORD (and Watch Folder) friendly.
+What are the benefits for your repository of using the tool?
+Using the tool would allow new items that the Studio had created to be automatically loaded to the EPrints server. The metadata for the items could then be added by a cataloguer role rather than the digitisation role.
+The Watch Folder script could still come in useful for other ingestions. The Digital Library is not just a platform for items that the Library holds. It is a place for the digital content of the University. As we develop the collections we hold, we may well find pockets of data that lend themselves to the Watch Folder process. We may also find people who would find the Word Add-in useful.
+What difficulties were encountered in using the tool, and how were these resolved?
+The Watch Folder script doesn’t contain much in the way of comments, or debug information. I had to pick it apart to see what it was doing, and where/how it was failing. There are a few assumptions in the code that when combined with the lack of documentation made it difficult to run out-of-the-box, e.g.
+my $file = $dir . “CONFIG”;
+The $dir variable may well have been specified without a trailing slash – specifying C:\folder results in the file C:\folderCONFIG being read for the config instead of C:\folder\CONFIG.
+I don’t have much experience of running perl on a Windows platform. The code does handle ‘windows’ platforms e.g. ‘if ($OSNAME eq “MSWin32”)’ in some places, but do I need to handle different path seperators (‘\’ vs. ‘/’)?
+It doesn’t cater for https (and therefore sends passwords over the wire in plain-text). Our digital library uses our standard usernames and passwords (via LDAP), so we need https. There was also a bug in EPrints – the edit URI sent back for an item was http, not https.
+Do you have any remaining issues about continuing use of the tool, and if so what are these?
+The Watch Folder script is not non-techie friendly. Running something from the command line is not somethng that our average user is very used to. Use of the Watch Folder is best suited to either someone with some technical ability, or possibly run centrally as a service if the files to be deposited were on a shared drive. Currently our standard desktop (Win7) has ActiveState Perl on it, and also includes all modules required to use Watch Folder to an https host so it could be used by most members of staff.
+There should be a way to disconnect a directory from the synchronise process in a controlled way. The use of hidden files may make this difficult/problematic.
+How is/should the process monitored? Currently the process results in two copies of the content, one local and one in the repository. Ideally we want a process that deposits the files, confirms that the repository file is identical to the sent file (the script does this by MD5 hashing the file), and then removes the original file (possibly leaving a ‘receipt’). The script pulls content from the server as well as pushing changes back to the server. We are dealing with large volumes of data and wouldn’t want it all to be replicated locally.
+In EPrints, the thumbnailing process works on the whole image. For some of our content (e.g. illuminated manuscripts – initial letter is beautifully ornate, rest of page is dense text) the automatic thumbnails are not the best (in terms of visual appeal). The pull/push model could be useful for dealing with these thumbnails:
+File -> Upload (push) -> Thumbnail -> Download (pull) -> Enhance thumbnails -> Upload Thumbnails
+A human could review the automatic thumbnails and replace any with a same-sized version of the most visual parts of of the file. This has its own complications in EPrints – thumbnail regeneration is brutal. It removes all thumbnails and replaces them – and would lose these special versions if they couldn’t be identified in advance.
+How much content has the tool delivered to your repository (pointing to some good examples)?
+Currently, none. But the use-case in Leeds has outgrown the script. In the long term, most content in our Digital Library will be automatically deposited. Without KE EMu, the Watch Folder script would be a useful tool to achieve this.
+**This is the official paragraph for KE EMu:
+“KE EMu provides a central store for metadata for Special Collections, the University Art Gallery and University Archive. It will streamline our processes for accessioning new acquisitions to Special Collections, the Gallery and Archive, and thereafter cataloguing them, and helping to manage all aspects of their storage and use within the Library. EMu is compliant with several archival and gallery standards, including ISAD(G) and Spectrum. It provides APIs that will be used when depositing digitised versions into our Digital Library.”
+John Salter, University of Leeds
+Posted in Uncategorized.
+Tagged with depositmore, jisc, users, Watch Folder.
+No comments
+By Steve Hitchcock
+– June 26, 2013
+Polynomial Texture Map (PTM) Extension: feedback from archaeology users
+The Polynomial Texture Map (PTM) Extension application for EPrints is an example that begins to tackle the effective organisation, description and presentation of multiple research data objects (perhaps 100s) from a file archive within a single repository item. In the previous post we saw a glimpse of how this works through a visualisation of the workflow for deposit of an archaeology image archive. In this post we report initial feedback from the first users to test the application, who were also instrumental in informing the purpose and design of the app for archaeology.
+Our users regularly make field trips to archaeological sites in the UK and worldwide to capture information using cameras and other electronic equipment. The intention is to upload this information in processed form for secure storage and controlled access. An institutional research data repository is a possible target for this.
+At some times this upload might happen on a daily basis, and at the end of an intensive day in the field the data collector wants the upload process to be as simple and fast as possible. The resulting image collection in the repository has to be uploaded, unpacked, fully documented and presented for ease of sorting, searching and viewing all images. It is not feasible this could be completed manually, image-by-image, in the circumstances, so a typical repository process for unpacking an archive file would be inadequate in terms of automatic documentation and presentation.
+This is the challenge for the new app. Below is summary feedback on the use of the PTM app as originally shown (slide 27) in the RSP presentation. For the record, and for others who may seek to develop the app further and design similar apps, this is followed by edited correspondence on which the summary is based. Some usability issues with layout and workflow, and limitations on the number of objects that can be handled, have been tackled. Remaining issues include the transfer to the repository of XML metadata generated by the recording equipment with the original files.
+Summary feedback
+• The system is almost there. There are some usability issues, but I guess most of them are related with the eprints itself, not the ptm app. The final unzipped content page needs a bit of work, as at the moment you cannot access original files one by one, only by downloading whole zip.
+• I think the main benefit of this system will be when actual XML file can be used to get all the metadata and have all the form fields prefilled. Sadly those XMLs do not exist yet but can be automatically generated, which we will. At the moment there are too many steps from upload to deposit.
+• We’ve started to collect data tho, and it will be a massive task (I think we have almost 1000 entries) which I think requires bulk upload functionality
+Hembo Pagi, Southampton archaeologist
+• It would be ideal if the ingestion process stripped out the thumbnail and showed that on the archive page and then elsewhere on the page showed the snapshots, perhaps in a gallery view.
+Graeme Earl, Southampton archaeologist
+Feedback correspondence
+Point of contention: to start a data deposit with New Item or New Dataset button in an EPrints repository enabled with the ReCollect research data app?
+After some false starts and the ironing out of unexpected effects following initial implementation of the PTM app on the test server, the substantive work of using the app began.
+Graeme Earl, 14 March 2013
+In summary I would like the ingest process to extract thumbnail images from a specific folder and embed or link these from the deposit page. We have had agreement from our partners who developed the RTI format that this would be an appropriate addition, and I think it was also listed in my original workflow document.
+Hembo Pagi, 19 March 2013
+The main issue I see is the workflow. When you start with the New Dataset and click Next you are not provided Dataset information page. Why is this step skipped? At the moment to do the full upload and data entry process you do following:
+1) Clicked New Item button
+2) Selected Dataset and clicked Next
+3) Clicked Previous
+4) Uploaded zip package. Was waiting until done, then clicked Unpack PTM icon
+5) Filled in required fields
+one note: on Snapshot image, can Type be preselected as for PTM?
+When done, clicked Next
+6) Nothing was filled, clicked Next
+7) Chose the RTI Shelf, then clicked Next
+8) And finally clicked Save it for later
+All fine, except when I see the final list of files in Preview tab Source images are linked to one file instead of list of source images.
+Hembo Pagi, 21 March 2013
+One new detail about the workflow which I hope is not too big an issue to implement. We have been talking with our collaborators who work with similar stuff and they have set in their software (which generates PTMs and all the package including XML) a different way of handling snapshots. Here is how the next release the RTIBuilder will output the folder structure:
+In the “finished-files” folder there would be a jpeg file which serves as the thumbnail for each RTI or PTM found in the finished-files folder.  There is only one thumbnail for each RTI image. In addition, folks could make a “snapshots” folder within the “finished-files” folder where they can place an arbitrary number of snapshots, named however they wish. Here’s an example:
+finished-files/
+— ceramic-1_2742.ptm
+— ceramic-1_2742_ptm.jpg
+— ceramic-1_2742.rti
+— ceramic-1_2742_rti.jpg
+— snapshots/
+— — snapshot1.jpg
+— — snapshot2.jpg
+Graeme Earl, 21 March 2013
+It would therefore be ideal if the ingestion process stripped out the thumbnail and showed that on the archive page and then elsewhere on the page showed the snapshots, perhaps in a gallery view. I imagine that thumbnail display will be a common requirement for many data types.
+Hembo Pagi, 17 April 2013
+And the big files still do not work.
+Tim Brody, 18 April 2013
+I’m unsure what you mean by clicking Next you skip a screen? When you click “New Dataset” you land onto the page with the combined upload and information fields on it. You don’t need to click Next after you upload something, just scroll down to the metadata? (I wouldn’t lay it out like this, but I defer to Patrick (McSweeney) et al who designed it (ReCollect app).)
+I’ve bumped the max files to 200.
+Hembo Pagi, 19 April 2013
+I got it now … I always clicked New Item from the top and then from the next view where you have item types I picked Dataset. Then the metadata page is skipped. I think it is confusing if there are two ways to add the dataset.
+Its good to know that the limit is 200. We can take that into account.
+Finally, it think it would me more accurate to call your plugin RTI (Reflectance Transformation Imaging) extension as it can include .rti type of files as well.
+Hembo Pagi, 6 June 2013
+We have not done any data uploads yet. We’ve started to collect data tho, and it will be a massive task (I think we have almost 1000 entries) which I think requires bulk upload functionality, but lets get the current version working and documented first.
+I think the system is almost there. There are some usability issues, but I guess most of them are related with the eprints itself, not the ptm app. The final unzipped content page also needs a bit work, as at the moment you cannot access original files one by one, only by downloading the whole zip. So, not a big thing.
+I think the main benefit of this system will be when an actual XML file can be used to get all the metadata and have all the form fields prefilled. Sadly those XMLs do not exist yet but can be automatically generated, which we will. At the moment there are too many steps from upload to deposit. Several of them can be skipped if the XML data could be used.
+We are grateful to Graeme Earl, Hembo Pagi and Gareth Beale for their expert specification of the required application, and their subsequent feedback on the implementation of the PTM Extension.
+Posted in Uncategorized.
+Tagged with deposit tools, depositmore, jisc, Polynomial Texture Map Extension, user testing, users.
+No comments
+By Steve Hitchcock
+– June 25, 2013
+Unpacking large image collections: Polynomial Texture Map (PTM) Extension workflow and implementation
+This project’s YouTube Import Plugin performs what we called the ‘grunt’ work of large file import and metadata completion, saving the depositor time and effort. A video import will typically be a single item, but if your large file contains a series of images, say up to 100 images, how would the repository organise, describe and present these? That was the problem posed by archaeologists at the University of Southampton. To begin to answer it in this post we describe the workflow in use of another tool produced by Tim Brody for the DepositMOre project, also available in the EPrints Bazaar, the Polynomial Texture Map (PTM) Extension.
+If this sounds like a more specialised app, it is, but one which nevertheless demonstrates some exemplary features for wider deposit applications that involve the capture and description of multiple objects within a single repository item. It is deposit at-scale issues like these that will characterise the extension of institutional repositories to handle research data outputs, of which the archaeology case here is one example.
+What is a PTM?
+First we need to know what a PTM is and explain the process by which these are produced. The detail of objects from archaeology finds are intensively imaged and documented in situ in the field or in the lab. One can imagine a series of camera shots from different angles. In fact, an object is instead photographed using a fixed-position camera, using a camera rig or dome-like apparatus, while the position of the light source is varied, thus recording a series of surface details by a process called Reflectance Transformation Imaging (RTI). A good explanation of the process can be found in this paper.
+If the hardware is clever, so is the software, which processes the recorded images in a sequence of output formats:
+Camera-raw -> digital negatives -> JPEG (for processing) -> RTI (using RTI Builder) -> PTM archive
+The series of camera images is first processed to produce conventional JPEG. This is then transformed into an RTI using special software and can be disseminated as a PTM archive, which is what we use to upload to our repository in this case. For our purposes, RTI can be seen as a general case including PTMs. The critical step performed by the RTI software is to transform the image set into a form that supports analysis, description and presentation. What we need to do is enable that functionality from a repository that additionally supports secure long-term storage and distribution.
+Uploading and unpacking a PTM archive in a repository
+Let’s see what we have when we upload a PTM archive to a test EPrints repository without the PTM Extension app. The repository recognises a zip file, just like any other compressed package, but knows nothing about what is inside or how to unpack this file.
+For the next stage we will install two apps from the Bazaar on our test repository. First, the ReCollect app to enhance the use of the repository for collecting standards-based metadata for describing research data. We will classify our images as research data. This app adds a New Dataset button to begin to deposit research data.
+Second, the PTM Extension is installed. This time when we deposit our data archive it is recognised as a PTM, as shown by the appearance of a PTM action tool to the right, among the familiar action tools available for an EPrints file.
+If we click on the right-hand PTM icon it offers the chance to Unpack the PTM archive into its constituent components.
+Below we can see those unpacked components. This is a relatively simple archive, just three components, but a typical archive could contain many more.
+If we look at the metadata for the dataset, in contrast to the video import example which had largely completed the required fields automatically, here our file-level and dataset fields are empty. File-level information is critical in an archive containing many files and should be available, we are advised, from the XML camera output. We shall discover how more progress can be made towards adding metadata and completion in the next post when we present user feedback on use of this tool for serious PTM archives.
+Our archaeology colleagues at Southampton have worked with the project throughout both phases, the original DepositMO project as well as DepositMOre, and acted as testers for the Watch Folder and Word Add-In tools. It was those insights that led, eventually, to the PTM extension tool described here. We are grateful to Graeme Earl, who initiated, inspired and maintained the archaeology interest in this work, and to Hembo Pagi and Gareth Beale for their expert description of the required application, and their subsequent feedback on the implementation of the PTM Extension.
+Posted in Uncategorized.
+Tagged with deposit interface, deposit tools, depositmore, jisc, Polynomial Texture Map Extension, user interface.
+No comments
+By Steve Hitchcock
+– June 25, 2013
+YouTube Import Plugin: feedback from repository partners
+The YouTube Import Plugin for EPrints resulted from a request by repository partners at the University for the Creative Arts (UCA) and Goldsmiths University of London for the DepositMOre project to facilitate video downloads. In the previous post we visualised the workflow for using this tool based on an example video import from the University of Southampton. In this post we report initial feedback from these first repositories to use the import plugin.
+The video import plugin does not just work at the developer’s test site at Southampton. The video record below is a real item in Goldsmiths Research Online (GRO) repository, which used the tool to download the video, captured with a pre-production version ahead of the release of the tool in the Bazaar.
+Unlike in the Southampton video example, which involved searching YouTube for ‘University of Southampton’, in this case a search of Vimeo for ‘Goldsmiths’ would not include this video in the results. Nowhere does this item in Vimeo refer to the creator’s affiliation with Goldsmiths. In other words, this import would only happen by working with the creator or through local insight.
+It should also be noted that a perennial problem with EPrints development projects is that new tools typically work with new or beta versions of EPrints while real repositories are often one version behind. In this case plugins and tools from the EPrints Bazaar work with EPrints v3.3, that latest version at the time of this work and the first version enabled to work with packages in the Bazaar, while many repositories are on v3.2. Some of the responses that follow relate to that lag in versions.
+Feedback from UCA
+How much content has the tool delivered to your repository (pointing to some good examples)?
+One good example is Andy Joule’s Annimilus.
+There are at least 15-20 further items that could be added to the repository. However, for some of these items the records are already in UCA Research Online and there is no way to upload from vimeo/youtube into exisiting records. It is easier to import from vimeo and youtube before creating the metadata.
+We showed our VC and two deans a UCA Research Online record which included an imported video using the import tool for vimeo and they were very happy at the way in which the video played immediately from the repository.
+What are the benefits for your repository of using the tool?
+The benefits are likely to be ease of use of importing the films from vimeo and youtube and the metadata that comes with the films rather than uploading by hand as it were. Once more of these are uploaded and other researchers see the work of others this is likely to increase deposit of such films. Increased visibility and discoverability.
+What difficulties were encountered in using the tool, and how were these resolved?
+The plugin works in Firefox but not on IE. I understand that the issue might well be resolved on EPrints 3.3. We are on v3.2.
+Do you have any remaining issues about continuing use of the tool, and if so what are these?
+It would be useful to use the tool to upload additional information to existing records.
+Anne Spalding, Mar-Apr 2013
+Update 21 June: I am delighted to be able to tell you that a researcher has recently asked me to upload 5 vimeo films. I wanted to say that it is now working and I am not experiencing the problems we had before.
+Feedback from GRO
+How much content has the tool delivered to your repository (pointing to some good examples)?
+This one for example – see above – worked absolutely fine – downloaded correctly etc.
+We’ve not really got a way of browsing for purely video file attachments, and we’re really just aiming to broaden the toolset that people can use to encompass the broadest range of research materials possible on GRO (so we’re not targeting particular item uploads at the moment).
+Do you have any remaining issues about continuing use of the tool, and if so what are these?
+Currently, this video downloading tool (for youtube/vimeo) is accessible in the dropdown menu on the manage deposits page on GRO. It would be much better to have the video scraping tool integrated into the upload documents section for an item – item:film/video, in upload:’video details from URL tab’ – so just like you would upload a pdf to attach to a citation, you can input a url in a field in that tab, and it will automatically pull the information, embed the video, and download a copy, all in one (then in the details stage you can edit the information it has pulled to correct or add to it).
+James Bulley, Apr-June 2013
+We are grateful to Anne Spalding (UCA) and James Bulley (Goldsmiths) who worked with the YouTube Import Plugin and provided this valuable repository and user feedback, and to Marie-Therese Gramstadt and Carlos Silva of UCA for facilitating our initial meeting with the Kaptur partners.
+Posted in Uncategorized.
+Tagged with deposit tools, depositmore, jisc, users, YouTube Import Plugin.
+No comments
+By Steve Hitchcock
+– June 21, 2013
+YouTube Import Plugin: workflow and implementation
+What content in the wilds of the Web would repository managers ideally like to add to their institutional repositories? That was the first question we posed to repository partners at the outset of the DepositMOre project. The first answer, from colleagues in the Kaptur project arts consortium, was video. From that emerged the YouTube Import Plugin by Tim Brody, available in the EPrints Bazaar. Despite the name this plugin will import video from Vimeo as well as YouTube.
+This post will elaborate the workflow for using this tool, based on the visualisations of this process from the recent RSP presentation by the project. A related post will present important initial feedback on the use of this tool by those partners, at the University for the Creative Arts (UCA) and Goldsmiths University of London.
+If DepositMO was a development-centred project, DepositMOre has focussed on repository and user needs. That is, instead of producing tools and inviting repositories and users to try them, we tried to produce the tools that repositories wanted to improve the deposit processes for specified types of content from external sources. Thus this YouTube Import Plugin, and the Polynomial Texture Map Extension tool that we will describe in another post, were not included in the original project proposal, but emerge from the same thinking that lay behind the EasyChair tool, which was.
+Visualising video import with the plugin
+1 Let’s find something to import by searching for content from the University of Southampton on YouTube. This produced ‘About 64 200 results’. We’ll select this nice video about using the Raspberry Pi. We copy the URL of this video.
+2 Switching to work with EPrints, after logging in we go the the Manage deposits section where we want to deposit a New Item, although in this case we select instead the Youtube plugin from the dropdown import list, and click on Import. This plugin will have been installed by a repository administrator from the EPrints Bazaar using a simple one-click process.
+3 This invites us to paste the URL of the video we found, to be imported from YouTube. We click on Import Item to begin the process.
+4 Arriving at the familiar start page for depositing new items in EPrints, the Item Type selection list, we notice two features: our import has completed (a short video so this import was quite fast, but for a much longer video this may not have completed by this stage and would complete in the background); the item type is automatically selected as ‘video’.
+5 Now following the conventional EPrints deposit workflow, and skipping the file-level deposit page, we can edit the item. Here we notice again that selected metadata has been prefilled by the importer with information from the original YouTube page for the selected video. This information may typically be less extensive than provided for many items found in EPrints, but it should complete most of the fields required by EPrints, the starred fields, for the form to submit successfully.
+But wait, we are missing information on the given name or initials of the creator of the video. YouTube credits tend to be more informal usernames rather than the formal surname/given name construct expected by a library-based repository. If the required information is not available we must artificially complete this field (e.g. by duplicating the username) to reach the next stage.
+6 We’re done. We have a record to display, and a video to play. The version displayed is an embedded version from the YouTube source, but the process also captures a backup version of the video that is stored securely in the repository.
+We are not claiming this video importer represents any technological breakthrough. In effect it performs the grunt work of repository deposit for video, filling out metadata forms while downloading the video content in the background. Saving time and effort may be the greater benefit to the repository manager in this context.
+This process does not imply anything about transfer of rights for the video content. The tool takes no view on rights and leaves this for the repository administrator to check with the creator in the usual way. YouTube offers limited rights for content creators to download copies of their own work, and referring to this repositories should be able to work with creators to obtain permissions for identified content to be added to the repository.
+In the next post we will consider the feedback on using this tool from our partner repositories at the University for the Creative Arts and Goldsmiths.
+Posted in Uncategorized.
+Tagged with deposit interface, deposit tools, depositmore, jisc, YouTube Import Plugin.
+No comments
+By Steve Hitchcock
+– June 21, 2013
+Questions of more for institutional repositories: the final story (nearly) of DepositMOre
+On the questions of more content for institutional repositories, how they can obtain it, how we contextualise the process, how much IRs want more full-text content and how much of it they want.
+Since our last post some time ago DepositMOre has been busy working with repository managers, developers and users to build new tools to support and enhance the deposit of content types specified by our repository partners. With the project drawing to a close we were grateful of the chance to give a summary presentation to the Repositories Support Project event on Increasing the full-text deposits in your institutional repository, in London on 12 June. For broader coverage, and pictures, of this event see the RSP’s short report of proceedings.
+What follows is a brief summary of the DepositMOre talk and of the response to the presentation, including the live Twitter commentary, and some followup thoughts on the questions of deposit and content building by institutional repositories.
+[slideshare id=22984054&doc=hitchcock-rsp-london-21-130614105628-phpapp02]
+A PDF version of the slides is also available.
+A perspective on the talk
+The presentation reviewed, with copious illustration, use of the new tools produced by both the DepositMOre project and the forerunner DepositMO project, emphasising the new features of deposit workflow for users. Those new tools covered were an EPrints app for importing and documenting videos from YouTube and Vimeo (YouTube Import Plugin), and an app for archaeologists to upload, unpack and organise comprehensive and extensive PTM image collections within a repository (Polynomial Texture Map Extension), a more specialised app but which nevertheless demonstrates some exemplary features for wider deposit application. Both of these tools will be described in more detail in subsequent blog posts. Also briefly mentioned was a new use of the Watch Folder tool, described here on previous occasions, in building a digital library at the University of Leeds.
+For those who were at the #rspevent, I was given a premature 5-minute warning mid-way through the presentation, and had to wind up unexpectedly fast. The parts I skimped, the more detailed slides, were the user feedback – on the YouTube plugin (slide 21) and on the PTM tool (slide 27) – and the concluding comments were not elaborated as much as intended, which I shall try to rectify below. The user feedback is an important part of this work so I hope you will take the chance to view these slides at greater leisure.
+The talk began with reference to Frederic Merceur’s concerns about apparent duplication of full-text publications from the Ifremer repository on the researcher social media site ResearchGate. An interesting discussion followed on the list. My reaction was, why not turn this round: enable institutional repositories (IRs) to download copies of content by their researchers, not from ResearchGate but from other relevant external sources? We began this work before Fred’s comments, but that’s what we have been seeking to do with the tools developed in DepositMOre.
+On the questions of more content for IRs
+In summing up the talk, and the experience of the project, we asked whether obtaining more content in this way was what IRs need to do. Perhaps the questions about ResearchGate suggested an underlying caution among IRs generally about content sharing with other repositories and services. In which case, what are IRs for? In the competitive environment for content, especially for open access publications in the UK following the emergence of new open access publishers, government intervention, the Finch report and subsequent RCUK policy announcements, is content volume the battle front or do IRs prefer to establish roles in other areas? If this sounds like the “eternal existential question” for institutional repositories (see Twitter commentary below), I have to say it is currently real and acute. It is a question that has to be addressed by individual IRs, but one that recognises a wider change in the environment – political, economic and academic – that affects all IRs.
+Perhaps there were clues to the case for more deposit in the afternoon break-out session at the RSP meeting, centred on the topic:
+What strategies are followed currently in your institution to increase deposits: technical, organizational and policy issues
+Participants worked in six groups, and in the report back, to my recollection, no group referred to any of the earlier presentations. Given the connected titles of the breakout and the event, Increasing full-text deposits, this suggests a lack of impact from the talks. If so, as one of the presenters and a member of a breakout group, I would speculate that may be because participants are focussing on process and, if I may use a word I emphasised in my talk, workflow in a library context rather than technology and tools. That might also explain the apparent lack of impact of SWORDv2 against the successful v1, where the tendency has been to explain v2 in terms of technology process and benefits.
+In any of these cases, we have to allow for one of two possibilities relating to the deposit process, or to content building:
+IRs are less interested in altering the process of deposit because it works well already, or the case for new deposit tools has not been made effectively by the projects in the context of overall repository workflow and priorities.
+IRs do not believe that substantially increasing full-text content is an urgent primary target.
+Live Twitter commentary on this presentation
+RepoSupportProject ‏@RepoSupport Steve Hitchcock presenting next: ‘DepositMOre: Applying Tools to Increase Full-text Content in Institutional Repositories’ #rspevent 12:04 PM – 12 Jun 13
+UKRepNet @UKRepNet @stevehit now presenting DepositMOre project at #rspevent, (linked to this blog) 12:06 PM
+RepoSupport @stevehit presents on the #DepositMore project #openaccess #rspevent #ir pic.twitter.com/t9jHvs5Lxm 12:08 PM
+@UKRepNet #rspevent DepositMore re-uses technology developed for previous DepositMO project, such as the Watch Folder, http://blog.soton.ac.uk/depositmo/2012/01/18/watch-folder-deposit-tool/ 12:11 PM
+@RepoSupport #RSPevent Steve Hitchcock talks about a tool to gather more full text items into your repository: DepositMOre 12:13 PM
+Lucy Ayre ‏@lastic Tea break! Now DepositMo: tools on desktop & Word that sync files to IR. Sound like EndNote tools to me. #rspevent 12:13 PM
+@UKRepNet @stevehit EasyChair Deposit Tool newly developed for DepositMOre, http://bit.ly/12FsNP7  for ingesting conference papers into IRs #rspevent 12:15 PM
+@UKRepNet @stevehit DepositMOre aiming to import YouTube videos too – w/ simple auto-added metadata (to be eventually completed by IR staff) #rspevent 12:19 PM
+@RepoSupport Steve Hitchcock explains easy ways of getting videos into your repository, and how to unzip PTM files easily. #RSPevent 12:21 PM
+@UKRepNet DepositMOre doing pioneering work for processing archaeological contents (unzipping PTM files) and ingesting them into IRs #rspevent 12:24 PM
+Neil Stewart ‏@neilstewart Q of the role for repositories from @stevehit what are we here to achieve? Seems like the eternal existential question #rspevent 12:24 PM
+Grant Denkinson ‏@GrantDenkinson #rspevent agree entirely on workflow being key – tools to help researchers research etc. 12:24 PM
+@neilstewart But @stevehit also emphasises the need to be in researchers’ eyeliners during the research workflow #rspevent 12:25 PM
+@UKRepNet A change in repository landscape is taking place: the great Jisc era is coming to an end – @stevehit at #rspevent 12:26 PM
+@UKRepNet @stevehit mentions #ResearchGate as example of public gradually turning into private funding for infrastructure for res info mgt #rspevent 12:30 PM
+Post-event follow-up to tweets
+Steve Hitchcock ‏@stevehit @lastic Interesting pt about EndNote. @depositMO tool is ‘Save As’ for Word sync’ed to repo via SWORD2. How does EndNote compare? #rspevent 12:44 PM – 13 Jun 13
+@stevehit @neilstewart @UKRepNet Q more real than existential? Will be much more open content. But good for repos? More competition #rspevent 12:51 PM
+Lucy Ayre ‏@lastic @stevehit EndNote ribbon lets u tag Word content & import to EndNote. Mainly tho it moves citations from EN to Word. Can I test @depositMO? 9:15 AM – 14 Jun 13
+@stevehit @lastic Word Add-in tool (and Watch Folder) can be found at http://www.eprints.org/depositmo/  (see reqs: Windows only, Office 2010) 9:58 AM
+@stevehit @lastic Those were user tools. Repository tools from @DepositMO, eg YouTube importer, available from EPrints Bazaar http://bazaar.eprints.org/ 10:01 AM
+Posted in Uncategorized.
+Tagged with deposit interface, deposit tools, depositmore, jisc, Polynomial Texture Map Extension, presentations, user interface, Watch Folder, YouTube Import Plugin.
+No comments
+By Steve Hitchcock
+– June 20, 2013
+DepositMOre: new deposit tools follow the content
+DepositMO 2, Spiderman 3, Scream 4? There’s a reason JISC doesn’t do sequels, and not just because it isn’t in the business of funding films. And there’s a reason this project is DepositMOre and not DepositMO 2: it’s in the call.
+Where DepositMO developed new deposit tools, DepositMOre is intended to be about applying those tools to test if they can result in a measurable increase in content for real repositories – within 6 months – because that is what the JISC call for projects specified. We are learning early in this work that in the era of ‘big data’ institutions are identifying eligible content by their researchers in external sources and finding they need help to import this content to their repositories, that is, the deposit tools follow the content rather than the other way round. A follow-on project, but with a twist, not just more of the same.
+EasyChair deposit tool: identifying content from the EasyChair conference system with a one-click button for deposit in a repository
+The tools developed in DepositMO, such as the Word Add-in, although visionary and original, are intended to support deposit of newly created content. Since we don’t expect to be able to stimulate an orgy of new research writing in 6 months specifically as a result of this project, the more pragmatic approach is to try and identify existing content that should be in a repository but isn’t. This sort of approach – finding the ‘low hanging fruit‘ – is hardly new to repositories.
+So the emphasis in DepositMOre is on tools for content discovery, of extant content that should have a copy in a repository, and the means of simplifying the heavy lifting – and thus saving time – of deposit .
+If you read the project proposal you will find an example using the EasyChair conference system. EasyChair manages papers submitted to conferences. In many cases, conference proceedings are published, and once papers have been reviewed and selected then EasyChair has done its job. Not all papers are published, however, and many remain, unintentionally, exclusively in the EasyChair files, but these papers are searchable.
+The aim of the DepositMOre EasyChair tool is to search the EasyChair corpus, and then check against the contents of a specified repository to find if a given paper has already been deposited there. As can be seen in the illustration above, if an EasyChair paper is not matched in the repository then a deposit button appears; when a match is found a green tick is placed against ‘Deposited’ and the deposit button is greyed out to prevent duplication. Metadata describing the paper is displayed for the author or repository administrator to decide whether to activate the deposit, and is used to populate the repository record for the selected paper deposit.
+Combining EasyChair search and repository comparison search is important, if probably not infallible, for expediting deposit. It’s the time-saving feature that will be at the heart of DepositMOre tools offered to repositories.
+A similar approach can be envisaged for another discovery service linking to academic papers, Microsoft Academic Search (MAS): find papers and perform a match against current repository content, with an option to deposit, again using a simple button. Why not Google Scholar (GS)? MAS has an API, which means you can perform machine-based searches and process and import the results to another service; GS does not currently support this.
+Deposit tools that work with EasyChair or MAS or other services are likely to be made available in the EPrints Bazaar. That’s another change from DepositMO – at release tools will work with EPrints and not DSpace. That again is dictated by the pragmatics of the project’s short timescale and the need to work with real repositories. All our partners manage, or have access to, an EPrints repository.
+The evolution of the project does not end there. Our initial meetings with partners have begun to point at extant content they have already identified, but which is not easy to import to their repositories. In this case the potential attractions for repository managers of a DepositMOre tool are less discovery and more location and heavy lifting (time saving). Examples uncovered so far include video sources for arts repositories, and large collections of structured image data for an archaeology partner.
+So the target of the project becomes clearer – it’s foremost about partner repositories and content, and the tools should follow those leads. That is the big change from DepositMO.
+In the next posts we will introduce our repository and content partners, and show how they are leading us towards the development of new deposit tools for specified content.
+Posted in Uncategorized.
+Tagged with deposit tools, depositmore, EasyChair tool, jisc.
+No comments
+By Steve Hitchcock
+– November 27, 2012
+DepositMOre: the timeline so far
+Que Sera, Sera, but timing is everything, so they say. DepositMOre follows on directly from the DepositMO project, but temporally the linkage was not quite as expected. Here we review how the project finally got to the start line, to begin to understand whatever it will be and whatever small changes delay may have wrought.
+We last blogged here about DepositMO on 14 February. At that time we had submitted a bid to a JISC call for proposals – Deposit Projects: Benefits Realisation – to build on the work through a new project, already identified in the bid as DepositMOre. The aim of that call was to offer some direct continuation for projects in the original JISC Repository Deposit programme strand, for successful bids. For that reason there would be a fast-track presentation and evaluation of bids, with a view to new projects starting in March 2012, and finishing within 6 months.
+While we heard positive feedback from the evaluation committee, we didn’t get the green light to begin in March. Instead the light turned green in July. Bigger wheels than this decision have been turning at JISC, so some indecision was understandable, even if we were left in a period of uncertainty, not sure when or if the new project would get approval. Despite the delay, it says a great deal about the commitment of JISC and programme manager Balviar Notay to this area of work, and we are grateful that she persisted and delivered the project to us.
+Projects emerge from calls, and are directed by those calls. The requirement of this call was to show deposit of more content in real repositories, using the tools developed in the first phase of the work, in our case DepositMO. In other words, a focus on deposit rather than development. A consequent requirement was that we partner with some institutional repositories: in DepositMO we had partnered with technical developers. These would not be the same partners, although the small core project  team at Southampton would be the same.
+This, then, is what the project looks like, as described in the project proposal. This was the final version to be submitted to JISC and includes changes responding to feedback from the evaluation committee. Although this was the version that was finally accepted, and forms the basis of the project, the outcome remained uncertain at this stage. It can be seen from the cover page that this version was anticipating a schedule starting in June 2012.
+So with repository partners on board and the bid submitted, we waited to report the formal outcome to them, believing throughout that the outcome was imminent. When that decision arrived some months after the original submission and presentation we realised we would have a job to keep all the partners with us on a revised schedule, and that we would have to be flexible on a that schedule. It was unlikely we would be able to start immediately.
+Does anyone remember the summer of 2012? In the UK it was essentially the Olympics, then everyone went away to recover. I’m pleased to say, however, that we were able to use that time to work with the respective repository partners to put together a revised project timescale that they could work with. As a result the project will run for 6 months to end March 2013.
+There has been one significant change. I was fortunate to work with Dave Tarrant as the axis of DepositMO at Southampton. Dave motivated the shape and development profile of both projects, but in the intervening period has committed to representing Southampton in other big projects. In his place we are delighted to welcome Tim Brody to DepositMOre. Tim is known for his distinguished work in the repository field, most recently as lead developer for EPrints but also for related repository services such as ROAR, Citebase, and others.
+Given the time that elapsed since the bid, the subsequent space that created for discussion and thinking about the work, and surrounding developments, not everything about the project will be exactly as envisaged. We will explore what has changed in terms of technical development, and introduce each of our repository partners, in the next posts.
+Posted in Uncategorized.
+Tagged with depositmore, jisc, projectPlan, projectTeam, timeline.
+No comments
+By Steve Hitchcock
+– November 23, 2012
+From DepositMO to DepositMOre: what’s in a name?
+Hands up those who know what the MO stands for in DepositMO. I see a few familiar hands, from people who know the project or have been attentive to this blog. What about those new to the project – can you work out what it stands for? Well, it is Modus Operandi, and refers to the aim of the project to change the modus operandi of repository deposit. Obvious really, if you connected deposit to repositories, and from experience knew that it might be a good thing if the process of repository deposit could be improved, from a user perspective.
+Alright, we agree, it’s not the most intuitive of project names. But with one leap to a new project we are free, and the genius of the original name becomes apparent. Simply appending two characters to the name we have DepositMOre, and all becomes clear. Well yes, you still have to make the connection with repositories, but once that is known the purpose of the project is clear: deposit more content in real repositories. Need we say MOre?
+Yes, we do, but that’s for another post, where we’ll bring you up to date with the story of the new project so far.
+Posted in Uncategorized.
+Tagged with depositmore, jisc.
+No comments
+By Steve Hitchcock
+– November 2, 2012
+User testing results: a simple analysis
+The series of blog posts on user testing requires some summary, even if it is best not to be over-analytical about the results of user tests, especially if you were responsible for designing the tests. That is perhaps best left to others, and this post will include some points highlighted by Dave Tarrant, the developer of one of the deposit tools tested.
+First, let’s recap some of the key issues, constraints and highlights of the user tests already noted in earlier posts.
+The first post on the tests made the following claim: “What I can tell you now is that we had no disasters in organising the tests, from my point of view, and I think I would have known. Therefore, like an auditor, I shall present the report as a valid representation of the tools under test.”
+We were clear about what was being tested: “In this case we are testing the process of repository deposit using two new tools, that is, it is a usability test. In these tests we will not be testing the users’ capacity to install the tools themselves, but to use tools already set up for use.” Interpretations of the results have to take care not to stretch the limits of the test, for example, we can make no claims about the wider applicability, uptake or impact of the tools, simply the ability of users to use them for the specified tasks.
+“User testing depends on providing clear instructions to users.” By providing the full instruction document, not only does this show what users were asked to do in the tests, but the clarity of the instructions and the possible impact on the tests can be judged. The structure of the test also points directly to the structure of the results: what users said in response to before-and-after questionnaires, what users did in the test, times taken to perform the specified tasks and completion rates.
+We learned from the before-test questions that users included “a mix of experienced and new repository users, a reasonable profile for this test since the tools are aimed at both types of users.”
+With reference to times and task completion we were able to compare the relative performance of the two tools under test, the Word Add-in and the Watch Folder: “The total time taken to complete image deposits was in all cases longer than the time taken to deposit and update Word docs. There was more variability in times of image 1 deposit, but less so for subsequent image deposits when the procedure was more familiar. Some image deposit cases were not completed, but all doc deposits were completed.” This is perhaps the result that might attract most attention, and is the area that Dave Tarrant focusses on below.
+The detail of the test results can be found in what users did. We had two ways of recording what users did, based on the repository record indicating process and the degree of task completion, and notes taken by a test observer providing additional insights on process and spontaneous user reactions.
+But what did the users say about the tools they tested? The after-test questions gave us some insights: “These summary results suggest that on balance use of these tools might encourage more deposit, just, most clearly in the case of the Word tool, but it won’t be so easy to wean users off the standard repository deposit interface on the basis of these tools.”
+Developer’s view of the test results, by Dave Tarrant
+Contradicting the mantra “repositories are built for finished publications”, the ‘own’ content brought to the tests for deposit by these users was mostly content that might not be considered as formal ‘publications’. It is these more diverse content-owning communities that are least supported by current repository software. As we see demand for data publication in repositories, for example, the types of content deposited in repositories is only going to grow beyond traditional publications.
+During the testing carried out in DepositMO, users were asked to use both the new clients and the existing repository interfaces to deposit a number of different content types. The results from these tests are clear: on average, both direct deposit clients (Word Add-in and Watch Folder) took less time for deposit.
+Using the Microsoft Word Add-In developed as part of DepositMO, the average deposit time for a document (from opening Word to completed deposit) was done in less than half the time that it took to deposit the same item via the native repository interface.
+The Watch Folder client also resulted in speedier deposit, with a 12% gain in time to deposit over the standard repository interface. In its current form the Watch Folder client does not provide the simplest means of metadata control and thus in some cases additional time was incurred to complete this stage using the repository metadata interfaces.
+Some of the quotes recorded during testing suggest at an attitude change is possible, with one user finding the experience “Quite fun”. Over 50% of the users reflected that the tools would encourage them to submit more of their own content to the repository.
+With users who are already experienced in repository deposit it is clear that combining new and existing tools into one experience can be confusing, particularly as a user’s collection size grows. All users suggested that the tools “need some work”, specifically in informing the user about the actions being implemented both locally and remotely.
+Omission of DSpace user testing
+The results reported apply to a controlled test environment “with Web-connected laptops running Windows 7 and connecting to a demonstrator EPrints repository running the SWORDv2 extensions.” Similar extensions have been added to DSpace, and we intended to run the same user tests with a demonstrator DSpace repository as we had with EPrints. We had a possible test site and users lined up. In pre-tests, the setup ran successfully with the Watch Folder tool, but we were unable to to complete a deposit process with the Word Add-in tool and the DSpace demo repository. What this shows is the complexity of managing and synchronising a communication process between a series of tools – Word Add-in, repository software, repository instance, SWORDv2, DepositMO extensions – where three of the components are new and under test for the first time. Perhaps we should rejoice that the EPrints user tests worked at all given these odds. This would have been resolvable with more time, but the project had already been granted an extension to complete the SWORDv2 and DepositMO extensions for DSpace, and further time could not be justified. We decided against a shortened DSpace test with just the Watch Folder tool.
+We can draw no further implications from this, although we note that Marco Fabiani at Queen Mary University of London, ironically and by complete coincidence our target DSpace test site, has reported issues with installing the Watch Folder to work with DSpace. Users did not test installation of the deposit tools, and this is known to be an area requiring further attention, particularly for the Watch Folder.
+Summary
+The wow! factor seen during a demonstrator presentation is, unsurprisingly, harder to sustain in practice, and noticeably harder as a user’s collection size grows. It’s not just about the initial deposit. As collection size grows, issues of metadata control and versioning become more critical. This is why there are no simple comparisons to be made between the instant deposit tools (Word Add-in and Watch Folder) and the more structured native repository deposit interfaces. Instant deposit may be at the expense of providing careful metadata now, although further refinements to the tools might be able to improve metadata control without losing deposit time.
+The critical point is not in the comparisons. We can now see more clearly how different repository deposit tools can support different users with different deposit demands – “these more diverse content-owning communities that are least supported by current repository software” – widening the base of repository users. With the growing emphasis on research data management, especially using data repositories, the need for choice in repository deposit – offering tradeoffs between time to deposit and degree of documentation – is only going to become more acute. After all, repositories wish to acquire more content without adding unnecessary barriers to deposit.
+Posted in Uncategorized.
+Tagged with depositmo, inf11, jisc, user testing, user testing results, users.
+No comments
+By Steve Hitchcock
+– February 14, 2012
+Next »
+Subscribe
+About DepositMOre
+DepositMOre is working with selected repository partners to build and apply new discovery and deposit tools and to show statistically MOre deposits in these repositories as a result.
+DepositMOre follows directly from the DepositMO project (Jun 2010 to Jan 2012), which demonstrated new, SWORDv2-based tools to support repository deposit of in-progress and completed works directly from authoring and content management applications into digital repositories based on EPrints and DSpace. The DepositMOre project runs for 6 months to end June 2013.
+Web: Resources developed by the project
+Presentations: DepositMOre on Slideshare
+Twitter:
+@depositmo
+Search for:
+Recent Posts
+Leeds builds a new digital library: role of the Watch Folder tool
+Polynomial Texture Map (PTM) Extension: feedback from archaeology users
+Unpacking large image collections: Polynomial Texture Map (PTM) Extension workflow and implementation
+YouTube Import Plugin: feedback from repository partners
+YouTube Import Plugin: workflow and implementation
+Recent CommentsIan Wellaway on Watch Folder deposit toolMarco Fabiani on Watch Folder deposit tooldavetaz on Watch Folder deposit toolMarco Fabiani on Watch Folder deposit toolMarco Fabiani on Watch Folder deposit toolArchives
+June 2013
+November 2012
+February 2012
+January 2012
+September 2011
+May 2011
+February 2011
+January 2011
+November 2010
+October 2010
+September 2010
+July 2010
+Syndicate This Page RSS Feed for this page
+Tagsaim
+budget
+communityBenefits
+copyright
+CRUD
+deposit interface
+depositmo
+depositmore
+deposit tools
+deskside
+Dropbox
+DSpace
+e-prints
+EPrints
+inf11
+institutionalBenefits
+IPR
+jisc
+jiscLMS
+library
+license
+objectives
+open digital repositories
+outputs
+Polynomial Texture Map Extension
+presentations
+projectMethodology
+projectPlan
+projectTeam
+repository usability
+repository usability review
+requirements
+riskAnalysis
+successPlan
+SWORD
+SWORDv2
+timeline
+training
+user interface
+users
+user testing
+user testing results
+Watch Folder
+Word Add-in
+YouTube Import Plugin
+February 2017
+M
+T
+W
+T
+F
+S
+S
+« Jun
+12345
+6789101112
+13141516171819
+20212223242526
+2728
+Proudly powered by WordPress and Carrington.
+Carrington Theme by Crowd Favorite

@@ -1,0 +1,18 @@
+OxCAP website front page
+OxCAP Project
+OxCAP is a JISC funded initiative to expose data (as an XML feed) about courses at Oxford. This project has the explicit backing of the PVC for Education and the Registrar.
+It is agreed that we concentrate on graduate training opportunities.
+Blog Posts
+JISC want public information about courses in XCRI-CAP format so that they can offer a portal which aggregates feeds from “all UK institutions”. This will serve 2 purposes: (a) to allow hard-to-find distance learning courses to be found and, (b) to allow fee-paying students to compare what courses institutions offer so that they can make an informed decision about where to go.
+Advantage for Oxford: this will show the world how much excellent graduate training is on offer and will help us to attract the best students
+Individual training providers will supply details about their courses in electronic format (RSS, XCRI-CAP, CSV etc) to the Oxford Open Data platform which is managed by OUCS. Information about the courses will be stored and will then be available as a series of data feeds; there will be an authenticated feed for internal use (by the SES tool) and a Creative Commons licensed public feed (containing slightly fewer courses) which can be consumed by anybody that finds a need. In addition, we will generate supporting software artefacts (improved SES tool and JavaScript library for displaying courses on departmental websites).
+The service will be piloted from October 2012 and all aspects will be improved based on user and community feedback.
+Process and policy guidance will be developed in conjunction with the training providers to ensure all the outputs from the project are sustainable.
+Advantage for Oxford: this will allow students to take full advantage of the training on offer leading to better trained researchers and academics and will make better use of university resources.
+The project is managed by Adam Marshall (OUCS) and Bridget Taylor (Social Sciences) and overseen by the Student Enrolment System Steering Group, reporting to the Education Committee.
+Photo credit: http://www.flickr.com/photos/oxforduniversitycricket/5786649005/
+There are two blogs linked to this project:
+https://blogs.oucs.ox.ac.uk/opendata/
+https://blogs.oucs.ox.ac.uk/adamweblearn/category/oxcap/
+The Oxford Open Data service can be found here
+https://course.data.ox.ac.uk/catalogues/

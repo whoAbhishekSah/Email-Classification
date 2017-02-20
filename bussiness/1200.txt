@@ -1,0 +1,127 @@
+Raspberry Pi - Teach, Learn, and Make with Raspberry Pi
+Home
+Close Menu
+Blog
+Downloads
+Community
+Help
+Forums
+Education
+Resources
+Training
+Menu
+Search
+Buy
+Raspberry Pi
+What is a Raspberry Pi?
+Resources for the classroom and beyond
+Latest blog post
+6
+What’s on at the Raspberry Pi Big Birthday Weekend 2017
+It’s the Raspberry Pi Foundation and Code Club’s fifth birthday!
+More from the blog...
+41
+Get ‘Back to my Pi’ from anywhere with VNC Connect
+VNC Connect makes it easy to remotely access your Pi from anywhere
+1
+Lifelong Learning
+Matt Richardson on how education with computers should continue well into adulthood.
+28
+Raspberry Pi Zero PiE-Ink Name Badge
+Josh King upgrades the simple name badge into an e-ink masterpiece.
+2
+Inclusive learning at South London Raspberry Jam
+Certified Educator Grace Owolade-Coombes welcomes young coders with autism and Tourette's
+See the blog archive
+Teach, Learn and Make with Raspberry Pi
+Raspberry Pi in Education
+Latest Education News
+16
+The Raspberry Pi Foundation’s Digital Making Curriculum
+Helping people everywhere to learn new skills
+Raspberry Pi in Education...
+Picademy
+Our flagship face-to-face training for teachers and other educators.
+Pioneers
+Digital making challenges that inspire people aged 12 to 15 to design, build, and share ideas
+Raspberry Jam
+Community events to share knowledge, learn new things, and meet other Pi enthusiasts
+Code Club
+Code Club is a worldwide network of volunteer-led coding clubs for children
+Resources
+Free resources to teach, learn and make with Raspberry Pi
+Astro Pi
+Two Raspberry Pis on the International Space Station running experiments created by schools
+Picademy USA
+Free continued professional development for teachers in the United States
+Sign up for the Education newsletter
+Get monthly updates for educators from the Foundation's education team
+Raspberry Pi Products
+Buy Raspberry Pi
+Latest Product News
+220
+Zero grows a camera connector
+Lots more Zeros in stock, with a new feature added
+Raspberry Pi products...
+Raspberry Pi 3 Model B
+The third generation Raspberry Pi
+Raspberry Pi 2 Model B
+The second generation Raspberry Pi
+Raspberry Pi 1 Model A+
+A cheaper, smaller, low-power version of the Raspberry Pi 1 Model B+
+Raspberry Pi Zero
+The $5 computer
+Raspberry Pi Touch Display
+The 7" Touchscreen Monitor for Raspberry Pi gives users the ability to create integrated projects
+Raspberry Pi Case
+The official Raspberry Pi case
+Sense HAT
+Sensor board and LED matrix add-on board used in the Astro Pi space mission
+Compute Module IO Board V3
+Development kit for the CM3/CM3L/CM1
+The MagPi
+The official Raspberry Pi magazine
+Latest product
+The MagPi issue #54
+Build your very own Magic Mirror with our complete guide, then follow it up by learning about the command line, object-oriented programming, and C
+More from the MagPi team...
+SCRATCH CODING CARDS REVIEW
+Flash cards with Scratch code on to help kids learn and experiment
+IMPORT MODULES: LEARN TO CODE IN PYTHON
+Use import in Python to access other programmers' code modules in your own programs
+FUNCTIONS: LEARN CODE WITH PYTHON AND RASPBERRY PI
+Learn to use Functions when programming Python on a Pi
+BRANCHING: LEARN IF, ELSE AND ELIF IN PYTHON
+Give your Python programs smarts with conditional branching: If, Else and Elif
+BUILD A MAGIC MIRROR IN ISSUE 54 OF THE MAGPI
+A magical mirror, object-oriented programming, night-vision cameras and much more
+OFFICIAL PROJECTS BOOK VOLUME 2 ON SALE AT AMAZON
+Amazon express delivery can get you a Projects 2 book in time for any occasion
+HELLO WORLD: NEW COMPUTING MAGAZINE
+A completely free magazine for educators
+Essentials books now on Amazon!
+Get The MagPi Essentials series – python games, Sonic Pi and more – in 26 countries via Amazon
+About
+About Us
+Team
+Governance
+Our Supporters
+Support
+Help
+Documentation
+Learning Resources
+Training
+Downloads
+FAQs
+Contact
+Contact Us
+Social
+Twitter
+Facebook
+Google+
+GitHub
+Vimeo
+YouTube
+Raspberry Pi FoundationUK registered charity 1129409
+Cookies
+Trademark rules and brand guidelines

@@ -1,0 +1,49 @@
+OJIMS
+Search:
+LoginHelp/GuideAbout TracPreferences
+WikiTimelineRoadmapBrowse SourceView TicketsSearch
+wiki:WikiStart
+Context Navigation
+Start PageIndexHistory
+Last modified 8 years ago
+Overlay Journal Infrastructure for Meteorological Sciences (OJIMS)
+A project funded under the JISC Capital Programme call for Projects: Strand D: “Repository Start-up and Enhancement Projects” (4/06) and NERC
+The project has three fundamental aims:
+Creation of overlay journal mechanics
+Creation of an open access subject based repository for Meteorology and atmospheric sciences.
+Construction and evaluate business models for potential overlay journals.
+Project Partners
+The Royal Meteorological society (aided by  Fiona's Red Kite)
+NCAS (Based at Leeds University)
+The British Atmospheric Atmospheric Data Centre
+Photo of Project Partners
+Demos and deliverables
+OJS Journal Demo for data journal  http://zonda3.badc.rl.ac.uk/index.php/MetData
+CEDA operational document repository  http://cedadocs.badc.rl.ac.uk/ notes on running CEDA docs repository.
+Documents and reports
+The following project documents are available on this site:
+Business Model report
+Survey of Scientists
+Survey of Organisations
+OJIMS final report (coming soon!)
+Please see the attached documents for the links to download these reports.
+For information about other documents please contact Fiona Hewer 07906 346624 [fiona@…].
+Useful Stuff
+Attachments
+FRK_RMetSOJIMS_SurveyOfOrgsV2 9Mar2009.pdf
+(5.6 MB) -
+added by scallagh 8 years ago.
+Survey of Organisations
+FRK_RMetSOJIMS_SurveyOfScientistsV2 9Mar2009.pdf
+(7.2 MB) -
+added by scallagh 8 years ago.
+Survey of Scientists
+FRK_RMetSOJIMS_BusinessModelsV2p1.pdf
+(19.4 MB) -
+added by scallagh 8 years ago.
+Business Models report
+Download in other formats:
+Plain Text
+Powered by Trac 0.12.2
+By Edgewall Software.
+Visit the Trac open source project athttp://trac.edgewall.org/

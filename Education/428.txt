@@ -1,0 +1,142 @@
+DOULS
+DOULS
+Distributed Open University Learning Systems
+Home
+About
+Aims and objectives
+Methodology
+Deliverables
+Team
+Documents
+Specifications
+Draft Gadget Functional Specifications
+Dissemination
+Processes
+Visioning
+Deliverables
+Buddy Gadget
+December 21st, 2011
+Jason Platts Comments off
+The Buddy Google gadget is a networking application that enables students to find others with similar academic interests and communicate with them.
+Read more…
+Categories: Development, DOULS, Gadgets Tags: #jiscdvle
+Open Forum search gadget
+December 21st, 2011
+Jason Platts Comments off
+The Open Forum search Google gadget gives students the opportunity to find help/information across some public OU resources based on keyword search.
+OU Open forum search gadget
+Read more…
+Categories: Development, DOULS, Gadgets Tags: #jiscdvle
+Collaborative tools status gadget
+December 21st, 2011
+Jason Platts Comments off
+The collaborative tools status Google gadget informs students as to whether there is any unread content within collaborative activities on their course VLE sites.
+Grab of the collaborative status gadget
+Read more…
+Categories: Development, DOULS, Gadgets, Moodle Tags: #jiscdvle
+Updates to Online Student Personas
+November 18th, 2011
+Judith Comments off
+The Online Student Personas have been updated in light of recent student testing activity.  A full report can now be viewed.
+Categories: Updates Tags:
+ePortfolio Toolset podcast available to view
+November 18th, 2011
+Judith Comments off
+A podcast that describes the Open University’s new ePortfolio Toolset is now available to view .  The podcast briefly describes the toolset which includes the ePortfolio Activity Tool which brings integration between Moodle and Google.  This tool enables module teams to scaffold students reflective activities and content generation in two modes.  In the first mode Module teams will be able to configure the tool to enable students to pull specific documents, templates or collections of these into their Google Docs accounts.
+In the second mode module teams are able to configure the tool to deliver forms to students via the Moodle interface. Student data entered within those forms can be saved to the students Google Docs account or as a .RTF.
+Categories: Updates Tags:
+About the Google Collaborative activity
+November 14th, 2011
+Jason Platts Comments off
+The Google Collaborative activity is a Moodle 2 module (source code) that enables the sharing of a centrally managed Google document with Moodle course groups. This activity acts in a similar manner to a Moodle wiki – the system creates/controls the document whilst giving the correct level of access to users who can interact with it and add content as they wish. Google documents offer feature-rich collaboration and the activity supports standard documents, spreadsheets and presentations.
+Read more…
+Categories: Development, DOULS, Moodle Tags: #jiscdvle
+About the Moodle Portfolio activity tool
+November 14th, 2011
+Jason Platts Comments off
+The Portfolio activity Moodle 2 module (source code) is a key part of the portfolio toolkit offering at the Open University. The module helps module teams to deliver structured material to a student’s portfolio; files/folders either on their desktop pc or stored in the cloud using Google Docs.
+Read more…
+Categories: Development, DOULS, Moodle Tags: #jiscdvle
+Some developments complete – code now available
+October 27th, 2011
+Jason Platts 1 comment
+A number of project developments have now cleared testing and have been added to our VLE code-base ready for the next system release (which is the beginning of December).
+These are:
+Portfolio activity Moodle module
+Google collaborative activity Moodle module
+OpenSocial gadget connector for Moodle
+VLE Study planner gadget
+The code source generated from the project now has a place to live:
+https://github.com/JISC-DOULS
+Some of these developments are up in the github area now – note that documentation is a bit sparse at present.
+We will hopefully have some blog posts up in the next few weeks detailing these developments and demonstrating their features.
+Some will be demonstrated as part of the JISC Innovating e-Learning pre-conference  activity week.
+Categories: Development, DOULS, Moodle, Updates Tags: #jiscdvle
+OU Study planner gadget
+July 29th, 2011
+Jason Platts 1 comment
+It’s been a long (long) time since the last blog post about the project and there is a list of a whole lot of things that we have been working on to disseminate. So here goes with item number 1 – the study planner gadget.
+As mentioned, back in May, in a blog post by our project director Niall Sclater (The Distributed Learning Environment Comes a Step Closer) we have produced a Google (OpenSocial) Gadget that displays a student’s Moodle course website(s) study planner(s). Since this initial version there have been a number of minor updates and improvements and now the gadget is in testing ready for release, the end of, next month. There were some useful lessons learned during the development and I’m going to try and document them in this post, along with an overview of how the gadget works.
+OU study planner gadget on iGoogle
+Read more…
+Categories: Development, DOULS, Gadgets, Moodle Tags: #jiscdvle
+Exporting Moodle calendar data to Google calendar
+February 17th, 2011
+Jason Platts 2 comments
+The Moodle calendar is used as a personal calendar tool by students and also contains event information from curriculum modules such as assignment and tutorial dates. This data is also exposed via the module websites (Moodle courses). All this calendar information can be downloaded in iCalendar format or as a feed and imported into supporting calendar applications such as Outlook.
+One aspect of the DOULS project is to improve the integration between our institutional VLE (Moodle) and Google Apps for education (which is available to all students as part of our email provision). A development task in the project is to update the calendar export process so that students can get
+the data from the VLE into their Google calendar much more easily.
+Once in the Google calendar the events should synchronise with data on the VLE so if any events are changed,  for example a tutorial start time, then the Google calendar should reflect this change. There are a number of advantages to using the Google calendar over the Moodle calendar alone as you can then: use the Google calendar gadget to view the information on your homepage (which links in to the other part of the project), get text alerts for upcoming events,  sync the calendar with an Android phone. Read more…
+Categories: Development, DOULS, Moodle Tags: #jiscdvle
+Older Entries
+RSS
+Google
+Youdao
+Xian Guo
+Zhua Xia
+My Yahoo!
+newsgator
+Bloglines
+iNezha
+Twitter
+Pages
+About
+Aims and objectives
+Deliverables
+Methodology
+Team
+Deliverables
+Documents
+Dissemination
+Processes
+Specifications
+Draft Gadget Functional Specifications
+Visioning
+Recent Posts
+Buddy Gadget
+Open Forum search gadget
+Collaborative tools status gadget
+Updates to Online Student Personas
+ePortfolio Toolset podcast available to view
+Post Categories
+DOULS (15)
+Development (11)
+Gadgets (6)
+Moodle (7)
+Updates (5)
+Tags#jiscdvle
+Archives
+Select Month
+December 2011  (3)
+November 2011  (4)
+October 2011  (1)
+July 2011  (1)
+February 2011  (1)
+January 2011  (1)
+December 2010  (1)
+November 2010  (2)
+July 2010  (1)
+Top
+WordPress
+Copyright © 2010-2012 DOULS
+Theme by NeoEase. Valid XHTML 1.1 and CSS 3.

@@ -1,0 +1,1064 @@
+Energy Balance
+Energy Balance
+Pages
+Blog Postings
+Talks and Media Appearances.
+Monday, October 10, 2016
+The 2016 Nobel Prize for Chemistry, Awarded for: “The Design and Synthesis of Molecular Machines.”
+The following commentary will appear in the next volume of the journal Science Progress of which I am an editor. Meanwhile, here is a preview of it.
+Jean-Pierre Sauvage, Sir J.
+Fraser Stoddart and Bernard L. Feringa share the 2016 Nobel Prize for Chemistry1,
+awarded jointly to them "for the design and synthesis of molecular
+machines". A molecular machine, or nanomachine, is any discrete number of molecular components that
+produce quasi-mechanical movements (output) in response to specific stimuli
+(input).2 This was demonstrated3 in 1983, when Jean-Paul
+Sauvage managed to synthesise a catenane
+(Figure 1), which is formed by linking together two ring-shaped molecules by a mechanical bond, a recently coined term
+to describe the connection between the components of a mechanically-interlocked
+molecular architecture such as a catenane
+or a rotaxane. In order that the molecular machine can perform a specific task,
+its components must be able to move in relation to one another, as is the case
+for the two interlocked rings in the catenane.It was Fraser Stoddart, who in
+1991 synthesised a rotaxane4, which has a molecular axle threaded
+through a molecular ring (Figure 2a,b), and demonstrated that the ring could move
+up and down the axle, leading to such devices as a molecular elevator, a
+molecular muscle and a molecule-based computer chip. In 1999, Bernard Feringa managed
+to demonstrate a molecular motor5, in which the rotor blade spins
+continually in the same direction. Using a molecular motor, he managed to
+rotate a glass cylinder that was 10,000 times bigger than the motor itself. The
+concept of a “nanocar” has emerged, a version of which was developed at Rice University
+by the research group of James Tour6, and consisted of a molecule
+with an H-shaped 'chassis' with fullerene groups attached at the four corners
+to act as wheels (Figure 3). However, since the original device did not have a
+molecular motor, it might not be regarded as an actual “car”. Feringa and his
+co-workers have synthesised a molecule with four motorized "wheels" ,
+which they deposited onto a copper surface and used electrons from a scanning
+tunnelling microscope (STM) to provide sufficient energy that they could drive
+some of the molecules in a specific direction, in similar fashion to steering a
+car. As a result of inelastic electron tunnelling, conformational changes are
+induced in the rotors which propels the molecule over the surface. Since it is
+possible to change, individually, the direction of the rotary motion in the motor
+units, either random or preferentially linear trajectories can be attained for
+the self-propelling molecular 'four-wheel' device. It is believed that it might
+be possible to produce more sophisticated molecular “cars”, in which a more
+complete control of the direction of motion can be achieved.7 Jean-Francois Morin et al.8
+are working on a nanocar of the future, fitted with carborane wheels and a
+light powered helicene molecular motor. However, although a unidirectional
+rotation was observed for the motor in solution, it has not yet proved possible
+to drive it on a surface by means of light-energy. A nanocar race event,
+initially scheduled for October 2016 and described as “The First Ever Race of
+Molecule-Cars”, has been postponed9 “in order to give enough time
+for the teams to prepare and for the microscope to be optimized. This
+postponement is essential to make the event a true « sports-science »
+challenge.” As yet, the real future
+for molecular machines is unknown and probably unknowable, but we may note the
+following, taken from the 2016 Nobel Prize for Chemistry website10. “The
+groundbreaking steps taken by Jean-Pierre Sauvage, Fraser Stoddart and Ben
+Feringa in developing molecular machinery have resulted in a toolbox of
+chemical structures that are used by researchers around the world to build
+increasingly advanced creations. One of the most striking examples is a
+molecular robot that can grasp and connect amino acids. This was built in 2013
+with a rotaxane as its foundation.
+Other
+researchers have connected molecular motors to long polymers, so they form an
+intricate web. When the molecular motors are exposed to light, they wind the
+polymers up into a messy bundle. In this way, light energy is stored in the
+molecules and, if researchers find a technique for retrieving this energy, a
+new kind of battery could be developed. The material also shrinks when the
+motors tangle the polymers, which could be used to develop sensors that react
+to light.” Thus, the promise of real-world applications surely
+glisters.
+References.
+(1) https://www.nobelprize.org/nobel_prizes/chemistry/laureates/2016/press.html
+(2)
+Ballardini R. et al (2001)
+Acc. Chem. Res.
+34, 445.
+(3)
+Dietrich-Buchecker,
+C. O., Sauvage, J. P. and Kintzinger, J. P. (1983) Tet. Lett. 24, 5095.
+(4)
+Anelli,
+P. L.; Spencer, N.; Stoddart, J. F. (1991)  J. Am.
+Chem. Soc., 113, 5131.
+(5) Feringa, B. L.
+et al. (1999) Nature. 401, 152.
+(6) Shirai, Y.
+et al. (2005) Nano Lett. 5, 2330.
+(7) Kudernac, T. et al. (2011) Nature. 479, 208.
+(8) Morin, J-F., Shirai, Y. and Tour,
+J. M. (2006). Org. Lett. 8, 1713.
+(9) http://nanocar-race.cnrs.fr/indexEnglish.php
+(10) https://www.nobelprize.org/nobel_prizes/chemistry/laureates/2016/popular-chemistryprize2016.pdf
+Captions
+to figures.
+Figure 1. Picture of a
+catenane, generated from crystal structure data reported by M. Cesario, C. O.
+Dietrich-Buchecker, J. Guilhem, C. Pascard and J. P. Sauvage in the Journal of
+the Chemical Society, Chemical Communications, Year 1985, Pages 244-247. Credit:
+M Stone. https://upload.wikimedia.org/wikipedia/commons/a/ac/Catenane_ChemComm_244_1985.jpg
+Figure 2. (a) Graphical
+representation of a rotaxane https://upload.wikimedia.org/wikipedia/commons/c/cd/Rotaxane_cartoon.jpg
+Credit: M Stone. (b) Crystal structure of rotaxane
+with a cyclobis(paraquat-p-phenylene) macrocycle. This  picture was generated from crystal structure
+data reported by Jose A. Bravo, Francisco M. Raymo, J. Fraser Stoddart, Andrew
+J. P. White, and David J. Williams in the European Journal of Organic Chemistry
+1998, 2565-2571. It shows a rotaxane with a cyclobis(paraquat-p-phenylene) macrocyle. https://upload.wikimedia.org/wikipedia/commons/0/01/Rotaxane_Crystal_Structure_EurJOrgChem_page2565_year1998.jpg
+Credit: M Stone.
+Figure 3. Chemical structure
+of a nanocar, in which the “wheels” are C60 fullerene molecules.
+Attribution:
+Materialscientist at en.wikipedia https://upload.wikimedia.org/wikipedia/commons/e/ea/Nanocar2.png
+Posted by
+Professor Chris Rhodes
+at
+9:09 am
+1 comment:
+Links to this post
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Tuesday, July 19, 2016
+Atomic Level Data Storage.
+This brief commentary will appear in the next issue of the journal Science Progress of which I am an editor. Meanwhile here is a preview of a fascinating development in computing technology.
+There is a growing trend to store more of our data in
+large data centres using cloud computing resources. Indeed, the amount of data
+produced by humans increases by more than one billion gigabytes per day. Thus,
+it is necessary to construct continually more data centres, the running of
+which consumes large amounts of energy. In order to maintain the capacity of
+storage media in pace with demand, it is necessary to reduce the amount of
+space that each piece of information occupies. However, there are limits to how
+small we can go, due to the roughness of the materials used for data storage,
+meaning that thousands of atoms are necessary to specify each piece of
+information. However, if the smoothness of the material could be honed down to
+the level of individual atoms, it might be possible for each data element to
+consist of just a single atom. Researchers at Delft University of Technology
+have achieved precisely this, by placing chlorine atoms on a copper surface,
+which form a perfect square grid. At particular locations on the grid, there is
+a chlorine atom missing, leaving a hole. Using the tip of a scanning tunnelling
+electron microscope (STEM), it is possible to move another chlorine atom into
+the hole from elsewhere in the grid. A good analogy is with a sliding puzzle, in which small
+square elements are moved around with a finger, so that the hole is effectively
+moved around the grid.Multiple holes can be moved around in precise
+arrangements to form “bits” (101010, etc), “letters” (ABC, etc), then “words”, to
+describe eventually an entire text. The Delft researchers have managed to
+construct an entire one kilobyte, containing 8,000 atomic bits, where each bit
+is represented by the position of a single chlorine atom. Although there have
+been previous reports of simple logos, e.g. “IBM” and “2000”, being “written”
+by towing around atoms molecules on surfaces, this is by far the largest
+atomically assembled architecture so constructed to date. In addition, the
+memory also contains atomic-scale markers which render it possible to steer the
+STM tip through the large array of bits. These markers are of particular
+importance, since they both mark the start and end of each line, and can furthermore
+identify the presence of contamination or a crystal defect in a sector of the
+grid which impede its facility for data storage. Such features are essential if
+the technology is to be scaled-up further.
+The areal storage density of the memory is 502 Terabits
+per square inch, which exceeds existing state-of-the-art hard-disk drives by a
+factor of three orders of magnitude. To place this storage density in context,
+the text of all the books ever written by humans could be written on the
+surface the area of a postage stamp. In its present form, the memory needs to
+be kept in an ultra-clean, vacuum-environment and at low temperatures (< 77
+K). It is hoped that the relative robustness of the material will enable it to
+be used outside the laboratory and in practical applications.
+Kalff, F.E. et al.
+(2016) Nature Nanotechnology, Published
+online 18 July 2016.  doi:10.1038/nnano.2016.131
+Posted by
+Professor Chris Rhodes
+at
+10:44 am
+2 comments:
+Links to this post
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Wednesday, June 29, 2016
+Perovskite Solar Cells - Some Recent Developments.
+I have written the following article, which will be published later in the year in the journal Science Progress of which I am an editor. However, given the importance of its subject and the wide interest in perovskite solar cells, I am posting it here as a preview.
+Introduction.
+Perovskite solar
+cells were the subject of a current commentary, previously  published in this journal1 These
+are solar cells whose structure utilises a perovskite-type compound as the
+light-harvesting active layer.1 The term 'perovskite solar cell'
+originates from the ABX3 stoichiometry of the absorber materials,
+which translates to a perovskite crystal structure (Figure 1). The most
+extensively studied absorber material is methylammonium lead trihalide (CH3NH3PbX3;
+where X is a Cl, Br or I atom), with a bandgap energy in the range of 1.5—2.3 eV.
+The related material, formamidinum lead trihalide (H2NCHNH2PbX3)
+is also promising, with bandgaps that occupy the range 1.5—2.2 eV.
+Indeed, since the smallest bandgap approaches more closely the optimum value
+for a single-junction cell than does methylammonium lead trihalide, it is
+expected that higher efficiencies might be attained using these materials2.
+It has
+been shown that the bandgap in the methylammonium lead halides can be tuned by
+varying the halide content, and2,3 that the diffusion lengths for
+both holes and electrons in these materials are greater than 1 micron4.
+The latter feature means that charges can be transported over long distances in
+the perovskite, and the materials are effective in thin-film architectures. The
+charges per se have been demonstrated
+to comprise predominantly free electrons and holes, and are not bound excitons.
+This is a consequence of the fact that the binding energy for excitons is sufficiently
+low that charge separation can occur at room temperature5.
+The
+rise in power conversion efficiencies of solar cells based on perovksite
+materials has been little short of meteoric, considering that just 3.8% was
+achieved in 2009 6 but this had climbed to 22.1% in early 2016 7
+(Figure 2). Working on the premise that even higher efficiencies should be
+attainable and that the production costs of perovskite solar cells are relatively
+low, they have attracted sufficient commercial interest that a number of start-up
+companies have expressed their intention to be selling actual photovoltaic
+modules by 2017 8,9. In view of the potential widespread importance
+of perovskite solar cells in the future, it is most appropriate to include
+mention of them in undergraduate courses. To this end, a very timely account
+has been published which demonstrates how a simple such cell can be constructed
+for the purposes of practical demonstration10.
+Production of perovskite solar cells.
+The processing of and fabrication of perovskite solar cells is
+considerably less demanding than is the case for the more usual silicon-based
+cells, for which costly multistep processes are necessary, needing to be carried
+out in a clean room, involving high vacuum facilities, and temperatures in
+excess of 1000 °C 11. In contrast, organic-inorganic
+perovskites can be produced using wet chemistry techniques under standard laboratory
+conditions. Thus, it has proved possible to synthesise the above mentioned
+methylammonium and formamidinium lead trihalides by means of various solvent-based
+and vapour deposition methods, with the indication that future production on
+the large scale should be possible12,13. Despite the attractive
+simplicity of the method, solution processing leaves voids, platelets, and
+other defects in the perovskite layer, which might act to impede the photovoltaic
+efficiency of the cell. To avoid such problems, a method has been presented14
+that produces perovskite films with both a large crystal dimension and a smooth
+structure, with more advantageous light conversion efficiencies. An alternative
+approach, which involves solvent-solvent extraction at ambient temperature, enables
+the generation of crystalline films which cover an area of several square
+centimetres, in a controlled fashion, down to a thickness of 20 nanometers, and
+without creating pin-holes.. An alternative method15 involves
+annealing the spin coated, or exfoliated lead halide in the presence of
+methylammonium iodide vapour at temperatures close to 150 °C. This offers
+certain advantages over solution processing, since it may enable the creation
+of multi-stacked thin films over larger areas16, as might be a
+useful feature when it is desired to make multiple-junction cells. As a general
+point, we note that vapour deposition methods yield more uniform thicknesses
+than are created by simple solution processing. Both solution based and vapour
+deposition approaches have their own advantages, and should prove scalable at
+the manufacturing level, with much reduced costs and complexity in comparison
+with making silicon photovoltaic cells. Solution methods are cheaper than
+vapour based approaches, although the latter naturally eliminate some of the
+need for solvents and having to deal with solvent residues. Planar thin film
+layers can be created using both approaches, and either find application in
+mesoscopic designs, for example to place coatings on a metal oxide scaffold, as
+is typical for the perovskite or dye-sensitized solar cells that are currently
+made. However, a major uncertainty over the use of perovskite solar cells
+concerns their stability over the longer time, in view of the observation that
+such materials undergo degradation under typical environmental conditions, with
+concomitant losses in light conversion efficiencies.
+Estimating the efficiency limit for perovskite
+solar cells.
+The Shockley–Queisser limit (detailed balance)17
+for radiative efficiency is about 31% under an AM1.5G solar spectrum at
+1000 W/m2, as applied to a Perovskite with a bandgap of 1.55 eV18.
+This is somewhat less than the radiative limit of gallium arsenide (bandgap
+1.42 eV) which can reach a radiative efficiency of 33%. A detailed balance
+model for the maximal output power of a solar cell that can be achieved on the
+proviso that certain conditions are met17:
+(1) Carrier populations obey Maxwell–Boltzmann statistics. In
+particular, the quasi-Fermi levels of electrons and holes must be split homogeneously
+through the cell, where the magnitude of the “split” is equal to the applied
+voltage. This assumes that the mobilities of the electrons and holes
+(photocarriers) are sufficiently large, and indeed, charge carrier mobilities
+up to 10 cm2 V−1 s−1 have been observed
+in perovskites.
+(2) The only existing recombination mechanism is that of a band-to-band
+(monomolecular) process, while other nonradiative recombination processes, such
+as Auger recombination and trap (defect)
+assisted recombination can be ignored.
+(3) The internal light conversion efficiency is 100%, such that for each
+photon absorbed, one electron-hole pair is created; and in reverse, one photon
+is produced for each recombination of an electron-hole pair. Indeed, an internal
+quantum efficiency of close to 100% has been demonstrated for perovskites19.
+(4) It is assumed that a photon recycling effect operates within the
+cell. Although one photon is created by one electron-hole pair recombination, occurring
+during the radiative recombination process, that photon can be reabsorbed
+elsewhere in the cell, such that a new electron-hole pair is generated. This
+photon reabsorption process can be enhanced so to achieve maximum solar cell
+efficiency by using particular designs to achieve light trapping and angular
+restriction. Nonetheless, whether such a photon recycling effect actually occurs
+in perovskite solar cells has yet to be convincingly demonstrated.
+The detailed balance model18 for the efficiency limit of CH3NH3PbI3
+solar cells can be described by:
+J(V) = Jt(V) + Je(V) - Jp
+where V V {\displaystyle V} is the applied voltage
+for the solar cell system, J p {\displaystyle J_{p}} Jp
+is the photocurrent (photogenerated current) which results from the absorption
+of incident sunlight, Je is
+the current density loss from radiative emission, and Jt J e
+{\displaystyle J_{e}} J t {\displaystyle J_{t}} Je and Jtjjis the loss
+of current density as a result of trap-assisted nonradiative recombination.
+Many approaches have been made, including analytical calculations, to identify
+various relevant properties of perovskites, such as bandgap, effective mass,
+and defect levels, while other structure-function methods have been explored as
+a means to interpret the more detailed properties of these materials as they
+might function in photovoltaic applications20.
+Architectures for perovskite solar cells.
+There are various different arrangements (“architectures”)
+possible for the design of a perovskite solar cell (Figure 3), according to the
+particular function of the perovskite material in the device, or the nature of
+the top and bottom electrode. Where positive charges are to be harvested by a
+transparent bottom electrode (cathode), such devices can broadly be classified
+as being 'sensitised' (where the perovskite functions primarily as a light
+absorber, and the subsequent charge transport takes place in other constituent materials),
+or 'thin-film', where the majority of the electron or hole transport is
+confined to the body of the perovskite per
+se. In the sensitised version, the perovskite material is coated onto a
+charge-conducting mesoporous scaffold as a light absorber, which
+is typically TiO2,
+and the photogenerated electrons are transferred
+from the perovskite layer to the mesoporous sensitised layer through which they
+diffuse to the electrode and are delivered into the circuit. In the case of the
+thin-film architecture21, both negative and positive charge carriers,
+generated by light absorption, are transported through the perovskite layer to
+charge selective contacts. Since the concept of dye-sensitized solar cells was
+at the root of perovskite cells, initially it was the sensitized architecture
+that was used, until it became recognised that better results could sometimes be
+achieved by placing the materials in a thin-film architecture. In terms of longer
+term stability, it is to be noted that sensitised architectures are likely to
+suffer from degradation as induced by absorption of ultraviolet light, which
+may limit the photovoltaic efficiency of such devices over time.
+Stability of perovskite solar cells.
+The stability of perovskite solar cells, under environmental operating
+conditions, is critical. In this regard, the solubility of the organic
+constituent of the absorber material in water is likely to cause a rapid
+degradation in humid environments22. One potential solution to this
+is to encapsulate the perovskite absorber as a composite along with carbon
+nanotubes within a matrix of a relatively unreactive polymer: this, at least,
+avoids an immediate deterioration of the material in moist air at elevated
+temperatures22,23. Nonetheless, evidence is lacking that such
+encapsulation methods would be successful over the longer timescale. A further
+consideration, which applies to devices which contain a mesoporous TiO2
+layer sensitised with the perovskite absorber, is a demonstrated instability to
+UV-light24, which appears to be related to holes that are photogenerated
+within the TiO2, along with oxygen radicals
+that are formed on the surface of the material24. Thermal stresses
+are another factor, and it is of note that the very low thermal conductivity determined
+for CH3NH3PbI3 [0.5 W/(Km) at room temperature]
+may limit the rapid transfer of heat through the material, and so provide some
+protection against thermally induced stress and degradation over the working
+lifetime of the solar cell25.  Perovskite films contain a residue of PbI2
+which has been shown to affect adversely the long term stability of
+devices based upon perovskites14. In contrast, if a metal oxide
+layer is used instead of the organic transport layer, it has been shown that
+the cell can retain 90% of its photovoltaic capacity after 60 days26.
+Clearly, however, this refers only to a quite short timescale and issues of
+longer term stability remain.
+Recent
+Research on Lead Halide Perovskites for Solar Energy Conversion.
+A representative overview of current
+research in the field of perovskites for solar energy conversion devices is
+given by a recently published special issue of Accounts of Chemical Research. The
+following is a summary of some of the papers contained there. The first paper27
+in the issue discusses organic–inorganic semiconductors with perovskite crystal
+structures, which can be converted to efficient solar cells using
+solution-processed active layers. Since these are made from earth-abundant
+materials, and the necessary processing is not complicated, the likelihood is
+that it will prove possible to manufacture them cheaply and on a large scale.
+One critical difference between these materials and more traditional inorganic
+semiconductors is that they furnish soft solids, in which a high degree of
+thermally activated motion is present. The paper considers the internal motion
+of methylammonium lead iodide (CH3NH3PbI3) and
+formamidinium lead iodide ([CH(NH2)2]PbI3),
+with particular emphasis on: (i) rotational-librational motion within the
+cuboctahedral cavity; (ii) the spatial movement of large electron and hole
+polarons; (iii) the transport of ionic defects bearing charges. As a
+consequence of the above mentioned processes, various unconventional properties
+are produced, which include frequency-dependent permittivity, low electron–hole
+recombination rates, and current–voltage hysteresis27. Another paper28
+explores the relationship between structural and electronic properties on a
+molecular to mesoscopic scale for hybrid perovskites, some of which have been
+demonstrated to have solar cell power conversion efficiencies exceeding 20%. It
+is shown that, in hybrid lead-halide perovskites, dielectric screening is a
+function of the local microstructure of the hybrid crystals, in addition to
+basic chemical composition. It is concluded that band-gap engineering is
+possible and the elementary photoexcitation dynamics can be controlled in order
+to fine-tune the performance of the perovskites as they are present in
+different optoelectronic devices28.
+A theoretical approach29 is
+employed to investigate the structural stability and electronic states of the
+representative (110), (001), (100), and (101) surfaces of tetragonal CH3NH3PbI3,
+taken to be a representative model for hole-transporting-material/CH3NH3PbI3
+interfaces. Calculations, made on several different PbIx
+polyhedron terminations, revealed the presence of two principal phases on all
+of the four surface facets, which can by classified as vacant- and flat-type
+terminations. Under conditions of thermodynamic equilibrium, the former are the
+more stable. Evidence was obtained for a coexistence of both terminations on the
+(110) and (001) surfaces. It was concluded that the surfaces may be partially
+responsible for the relatively long carrier lifetime which is observed
+experimentally for the perovskite solar cells, in which there are no mid-gap
+surface states. It is reasoned that the shallow surface states on the (110) and
+(001) flat terminations may furnish effective intermediates for hole transport
+to hole-transporting materials, which may help to improve the overall performance
+of perovskite solar cells29. Another paper considers rational
+strategies for the fabrication of perovksite solar cells with high efficiency,
+high stability and at low cost30. Important factors for the actual
+achievement of these aims include the architecture, processing route and the
+nature of the necessary materials employed in the construction of the solar
+cells, which are usually constructed in the form of multilayer heterostructures
+of light harvesting materials, of which electron and hole transporting layers
+are critical components30. The structure and dynamics of hybrid
+perovskite materials are considered31 in regard to the impressive
+improvement in the power-conversion efficiencies in solar cells based on these
+materials, which have risen above 20% in a mere 6 years. For a
+solution-processable material, this is outstanding, and it is accordingly
+essential to comprehend the physical and chemical phenomena that underpin the
+photovoltaic efficiency processes. In the majority of attempts to understand
+semiconducting materials and their optoelectronic and charge transport
+properties, a model is often adopted in terms of a lattice of ions which are
+displaced from their static positions by harmonic vibrations alone. However,
+many recent studies indicate that this is an oversimplification of hybrid organic-inorganic
+perovskite materials, where even at ambient temperature there is a range of dynamic
+effects operating, in addition to those of fairly minor harmonic vibrations. In
+their evaluation, the authors focus upon the mechanical “softness” of these particular
+materials in comparison with other efficient photovoltaic materials, which
+permits large ionic displacements to occur, even at ambient temperature. Accordingly,
+their analysis extends beyond the usual simple static band structure model, in
+regard to phase-transition behaviour and molecular/octahedral rearrangements. Atomic
+diffusion phenomena are considered, particularly in terms of the migration of
+intrinsic and extrinsic ionic species. Thus, hybrid organic-inorganic
+perovskite are revealed as being highly dynamic in nature, whose charge-transport
+and optical properties are influenced appreciably by structural fluctuations
+and long-range motion of ions31.
+Aspects are considered32 of
+the so termed “inverted” planar device structure (i.e., p-i-n), for
+inorganic–organic hybrid perovskite solar cells, in which p-type and n-type
+materials are employed, respectively, as bottom and top charge transport
+layers. Thus, power conversion efficiencies of up to18% have been demonstrated
+for devices of this kind, which can be processed at lower temperatures, more
+flexibility, and with only minor J–V hysteresis effects. A
+comprehensive and critical overview is made of the according mesoporous and
+planar structures, in addition to both the regular and inverted planar
+structures. Further consideration is given to how the inverted planar structure
+of perovskite solar cells has been developed, with particular attention being
+made to such effects as film growth, band alignment, stability, and hysteresis32.
+It has been emphasised33 that in order to optimise further hybrid
+perovskite solar cells, a clearer understanding is necessary of how light is converted
+into currents of electricity and also of how the reverse process functions. A
+description is given of how optical-pump–terahertz-probe (OPTP)
+photoconductivity spectroscopy may be used to investigate these phenomena since
+it permits a monitoring of the dynamics of mobile charge carriers inside the perovskite
+structure, which has been excited by means of a short laser pulse to deliver a
+photon whose energy is within the solar spectral range. It is concluded that the
+trapping of charges is the principal cause of mono-molecular
+charge-recombination, where the trap depths are quite shallow (tens of
+millielectronvolts). In contrast, bimolecular recombination is the result of
+direct band-to-band electron–hole recombination. The latter significantly
+violates the simple Langevin model. Values for the mobility of charge-carriers,
+as obtained from OPTP measurements and how these depend on both the composition
+and morphology of the hybrid perovskites are discussed33.In another
+paper34, published experimental evidence on the photophysics of
+perovskites is examined within a coherent theoretical framework, based upon
+well established knowledge of materials optoelectronics. One critical unknown
+is whether photon absorption leads to a population of unbound, conductive free
+charges or rather excitons, formed as a result of a Coulomb interaction
+occurring immediately below the band gap energy. It is concluded that all
+hybrid halide perovskites behave as free-charge semiconductors, and it
+is this feature, along with a range of band gap energies that encompass the
+whole solar spectrum, which determines perovskites as materials from which highly
+efficient, single and multijunction solar cells can be made34. Also
+included in the series is a paper which explores the physical changes that may
+occur in perovskites that have undergone illumination over a prolonged period35.  Three model systems were employed: (i) a
+free-standing perovskite film on a glass substrate, (ii) a symmetrical system
+with nonselective electrical contacts, and (iii) a working perovskite solar
+cell (either a planar or a porous structure).The authors make a critical
+distinction between photoinduced effects and photo- and electric-field induced
+effects, and it is demonstrated that the photoinduced effects are large and of
+great significance to the properties of the perovskite materials35.
+In another paper36 is
+considered the lifecycle of organic–inorganic lead halide perovskites,
+especially in regard to (i) the nature of the precursor solution, (ii) the
+formation of solid-state perovskite thin films and single crystals, and (iii)
+the transformation of perovskites into hydrated phases upon exposure to
+moisture. It is shown that information about the thermally driven creation of
+the perovskite structure is readily provided by a range of spectroscopic and
+structural characterization techniques. It is concluded that in order to make stable,
+high-quality perovskite thin films for future generation photovoltaic and light
+emitting devices, a fundamental understanding of lead halide perovskite
+formation and degradation pathways is advantageous36. Another paper
+considers the effects of light and electron-beam irradiation on hybrid lead
+halide perovskites and their solar cells37. Electron beams are used
+in the characterization of these devices but radiation damage is incurred,
+meaning that such exposure should be kept to a minimum. While some overall
+picture of the effects of light on these materials and devices is possible, it
+is not as yet feasible to predict the longer term stability of these solar
+cells, under actual working conditions37.
+In its July 2016 issue, the flagship
+magazine of the Royal Society of Chemistry, “Chemistry World”, published an
+overview38 of the current state of the art for solar cell
+technologies, including perovskites. It is proposed that the latter can be made
+in thin-film forms and are sufficiently flexible to manufacture using a
+roll-to-roll process. It is also possible to boost the performance of
+conventional silicon solar cells by layering perovskites onto them. There is
+research being undertaken to reduce the potential environmental toxicity of
+perovskites by eliminating lead as one of the elemental components. A potential
+solution to the problem of degradation of the cell from hydrophobic lithium
+salts, which are used as a hole-transport dopant, is to use instead a
+hydrophobic hole-transporter in conjunction with a doping technique that
+employs a pre-oxidised salt of the respective hole-transporters, to produce
+perovskite cells that are efficient in their light-to-power conversion but much
+less moisture sensitive. A computer screening has been made of over 4 trillion
+possible compounds in an effort to identify the next generation of inorganic
+photovoltaic materials, the data from which have yet to be fully analysed.
+References.
+(1) Rhodes, C.J. (2014) Sci. Prog.,
+97, 297.
+(2) Eperon,
+G. E. et al. (2014) Energy
+& Environmental
+Science, 7, 982.
+(3) Noh,
+J.H. et al. (2013) Nano
+Letters,
+13, 1764.
+(4)
+Stranks, S. D. et al. (2013) Science, 342, 341.
+(5) D’Innocenzo, V. et al. (2014) Nature Communications, 5, 3586.
+(6) Kojima, A. et al. (2009) J.
+Am. Chem. Soc., 131, 6050.
+(7) http://www.nrel.gov/ncpv/images/efficiency_chart.jpg
+(8) http://www.oxfordpv.com/News/20130610-Oxford-PV-reveals-breakthrough-in-efficiency-of-new-class-of-solar-cell
+(9) http://www.wsj.com/articles/perovskite-offers-shot-at-cheaper-solar-energy-1411937799
+(10) Patwardhan,
+S. et al. (2015) J. Phys. Chem. Lett. 6,
+251.
+(11)
+http://www.engineering.com/Blogs/tabid/3207/ArticleID/6773/Is-Perovskite-the-Future-of-Solar-Cells.aspx
+(12) Saidaminov, M.I. et al. (2015) Nature
+Communications, 6, 7586.
+(13) Snaith,
+H.J. (2013) J. Phys. Chem. Lett., 4, 3623.
+(14) Zhang, H. et
+al. (2015) Adv. Energ. Mater., 5, 1501354.
+(15) Chen, Q.
+et al. (2014) J.
+Am. Chem. Soc. 136, 622.
+(16) Liu, M., Johnston, M.B. and
+Snaith, H.J. (2013) Nature, 501, 395.
+(17) Shockley, W. and Queisser, H.J. (1961) J. App. Phys.,
+32, 510.
+(18) Sha, W.E. et al. (2015) Appl.
+Phys. Lett. 106, 221104.
+(19) Yang, B. et
+al.
+(2015) J. Am. Chem. Soc. 137, 9210.
+(20) Stoumpos, C.C. and
+Kanatzidis, M.G. (2015) Acc. Chem. Res., 48, 2791.
+(21) Eperon, G. E. et
+al.
+(2014) Adv. Func. Mater., 24, 151.
+(22) Habisreutinger, S.N. et
+al. (2014) Nano Lett., 14, 5561.
+(23) http://www.nature.com/news/cheap-solar-cells-tempt-businesses-1.15986
+(24)
+Leijtens, T. et al. (2013) Nature Communications
+6, 2885.
+(25) Pisoni, A. et al. (2014) J. Phys.
+Chem. Lett., 5, 2488.
+(26) You, J. et al. (2015)
+Nature Nano.,
+11, 75.
+(27) Frost,
+J.M. and Walsh, A. (2016) Acc. Chem. Res., 49, 528.
+(28)
+Kandada, A.R.S. and Petrozza, A. (2016) Acc. Chem. Res., 2016, 49, 536.
+(29) Haruyama, J. et al. (2016) Acc. Chem. Res., 49, 554.
+(30) Seo, S., Noh, J.H. and Seok, S.I. (2016) Acc.
+Chem. Res., 49, 562.
+(31) Egger, D.A., Rappe, A.M. and Kronik, L. (2016)
+Acc. Chem. Res., 49, 573.
+(32) Meng, L. et
+al. (2016) Acc. Chem. Res., 49,
+155.
+(33) Johnston, M.B. and Herz, L.M. (2016) Acc.
+Chem. Res., 49, 146.
+(34) Saba, M. et
+al. (2016) Acc. Chem. Res., 49,
+166.
+(35) Gottesman and Zaban, A. (2016) Acc. Chem.
+Res., 49, 320.
+(36) Manser, J. et
+al. (2016) Acc. Chem. Res., 49,
+330.
+(37) Lein-Kedem, N., Cahen, D. and Hodes, G. (2016)
+Acc. Chem. Res., 49, 347.
+(38) Hugues, E. (2016) Chemistry World, July, 58.
+Captions
+to Figures.
+Figure 1. Crystal
+structure of CH3NH3PbX3 perovskites (X=I, Br
+and/or Cl). The methylammonium cation (CH3NH3+)
+is surrounded by PbX6 octahedra. https://upload.wikimedia.org/wikipedia/commons/d/df/CH3NH3PbI3_structure.png
+Credit: Christopher Eames et al. - http://www.nature.com/ncomms/2015/150624/ncomms8497/full/ncomms8497.html
+Figure
+2. Solar cell efficiencies of various
+cell technologies as tracked by the U.S. National Renewable Energy Laboratory
+(NREL). http://www.nrel.gov/ncpv/images/efficiency_chart.jpg
+Credit:
+U.S. Department of Energy.
+Figure 3. Schematic of a sensitized
+perovskite solar cell in which the active layer consist of a layer of mesoporous TiO2
+which is coated with the perovskite absorber. The active layer is contacted
+with an n-type material for electron extraction and a p-type material for hole
+extraction. b) Schematic of a thin-film
+perovskite solar cell. In this architecture in which just a flat layer of
+perovskite is sandwiched between to selective contacts. c) Charge generation
+and extraction in the sensitized architecture. After light absorption in the
+perovskite absorber the photogenerated electron is injected into the mesoporous
+TiO2 through which it is extracted. The concomitantly generated hole
+is transferred to the p-type material. d) Charge generation and extraction in
+the thin-film architecture. After light absorption both charge generation as
+well as charge extraction occurs in the perovskite layer.
+https://upload.wikimedia.org/wikipedia/commons/3/38/Perovskite_solar_cell_architectures_1.png
+Credit: Sevhab
+Posted by
+Professor Chris Rhodes
+at
+8:03 am
+9 comments:
+Links to this post
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+University Shambles
+My first novel University Shambles is available at http://www.universityshambles.com/
+Professor Chris Rhodes
+About Me
+Reading, United Kingdom
+View my complete profile
+Subscribe To
+Posts
+Atom
+Posts
+All Comments
+Atom
+All Comments
+Follow by Email
+Oil Prices
+Oil Prices at Oilprice.com
+Related sites
+Archdruid Report
+ASPO International - The Association for the Study of Peak Oil and Gas
+Climate Change - Dr.-Ing. Alexander Koewius and Prof. Dr. Christopher J. Rhodes
+Crude Oil Price, Commodity Prices
+Do the Math
+EIA - US Energy Information Administration
+Energy from Thorium
+Forbes - Energy Source
+GraphOilogy
+International Energy Agency (IEA)
+jamesgdyke | As simple as possible, but no simpler
+Kurt Cobb - Resource Insights
+Our Finite World
+Peak Oil Matters
+Peak Oil News and Message Boards | Exploring Hydrocarbon Depletion
+Post Carbon Institute
+Resilience.org
+RESTATS
+Richard Heinberg
+Scitizen
+Statistical Review of World Energy - BP
+The Coal Authority
+The Oildrum
+The Rational Pessimist
+Wolf at the Door (archive - no longer updated)
+Search This Blog
+University Shambles on Amazon
+University Shambles
+To get the BRENT oil price, please enable Javascript.
+To get the oil price, please enable Javascript.
+Please Enable Javascript for this Oil Price widget to work
+Blog Archive
+▼
+2016
+(5)
+▼
+October
+(1)
+The 2016 Nobel Prize for Chemistry, Awarded for: “...
+►
+July
+(1)
+►
+June
+(1)
+►
+May
+(1)
+►
+January
+(1)
+►
+2015
+(15)
+►
+December
+(2)
+►
+November
+(1)
+►
+October
+(2)
+►
+September
+(2)
+►
+August
+(2)
+►
+June
+(1)
+►
+May
+(2)
+►
+April
+(1)
+►
+February
+(1)
+►
+January
+(1)
+►
+2014
+(27)
+►
+November
+(1)
+►
+October
+(1)
+►
+September
+(2)
+►
+August
+(3)
+►
+July
+(6)
+►
+June
+(1)
+►
+May
+(2)
+►
+April
+(3)
+►
+March
+(1)
+►
+February
+(4)
+►
+January
+(3)
+►
+2013
+(22)
+►
+December
+(3)
+►
+November
+(3)
+►
+October
+(2)
+►
+July
+(3)
+►
+May
+(1)
+►
+April
+(1)
+►
+March
+(2)
+►
+February
+(3)
+►
+January
+(4)
+►
+2012
+(33)
+►
+December
+(6)
+►
+November
+(1)
+►
+October
+(2)
+►
+August
+(2)
+►
+July
+(2)
+►
+June
+(3)
+►
+May
+(1)
+►
+April
+(2)
+►
+March
+(2)
+►
+February
+(5)
+►
+January
+(7)
+►
+2011
+(33)
+►
+December
+(4)
+►
+November
+(4)
+►
+September
+(5)
+►
+July
+(3)
+►
+June
+(2)
+►
+May
+(3)
+►
+April
+(6)
+►
+March
+(3)
+►
+February
+(1)
+►
+January
+(2)
+►
+2010
+(32)
+►
+December
+(2)
+►
+November
+(1)
+►
+October
+(1)
+►
+September
+(2)
+►
+August
+(2)
+►
+July
+(3)
+►
+June
+(4)
+►
+May
+(1)
+►
+April
+(2)
+►
+March
+(4)
+►
+February
+(6)
+►
+January
+(4)
+►
+2009
+(78)
+►
+December
+(2)
+►
+November
+(4)
+►
+October
+(8)
+►
+September
+(4)
+►
+August
+(5)
+►
+July
+(3)
+►
+June
+(6)
+►
+May
+(5)
+►
+April
+(11)
+►
+March
+(13)
+►
+February
+(8)
+►
+January
+(9)
+►
+2008
+(131)
+►
+December
+(8)
+►
+November
+(10)
+►
+October
+(7)
+►
+September
+(9)
+►
+August
+(11)
+►
+July
+(11)
+►
+June
+(15)
+►
+May
+(15)
+►
+April
+(14)
+►
+March
+(11)
+►
+February
+(10)
+►
+January
+(10)
+►
+2007
+(133)
+►
+December
+(7)
+►
+November
+(10)
+►
+October
+(11)
+►
+September
+(10)
+►
+August
+(7)
+►
+July
+(12)
+►
+June
+(13)
+►
+May
+(12)
+►
+April
+(13)
+►
+March
+(13)
+►
+February
+(11)
+►
+January
+(14)
+►
+2006
+(134)
+►
+December
+(12)
+►
+November
+(13)
+►
+October
+(13)
+►
+September
+(13)
+►
+August
+(12)
+►
+July
+(13)
+►
+June
+(14)
+►
+May
+(16)
+►
+April
+(11)
+►
+March
+(10)
+►
+February
+(2)
+►
+January
+(5)
+►
+2005
+(8)
+►
+December
+(8)
+Professor Chris Rhodes. Watermark template. Powered by Blogger.

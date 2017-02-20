@@ -1,0 +1,101 @@
+The Boeing 737 Technical Site
+THE BOEING 737 TECHNICAL SITE
+Created by Chris Brady Sept 1999
+Contents
+Search this website:
+Introduction
+Welcome to the Boeing 737 Technical Site. Here you will find technical, operational, and
+training notes; articles and photos contributed by
+737 pilots and engineers from around the world.
+All of the information, photographs & schematics from this website and
+much more is now available in a recently updated 374 page  printed book or in electronic format.
+Feel free to use anything here
+for your own personal use. If you are an organisation then please contact me for licence to use any of the images. Please note that I have a library of many thousands of technical images in high resolution.
+Please treat your company FCOMs as the final authority in case your aircraft
+have differences. This website and the 737 Technical Guide have no connection to the Boeing Company.
+If you have any suggestions or corrections to any of the
+information here, please email
+them on to me and I will write them into the site for the benefit of other
+visitors.
+Follow the Boeing 737 Technical Site on social media using the links on the right to be notified of any updates.
+This site uses cookies to personalise ads, to provide social media features and to analyse traffic. It therefore also shares information about your use of the site with
+social media, advertising and analytics partners. See details
+All of the information, photographs & schematics from this website and much more is now available in a 374 page printed book or in electronic format.
+*** Updated 17 Jan 2017 ***
+Tweet
+Website updates & news...
+17 Feb 2017 - VP-BVS Vim Airlines 737-500 RTO and runway excursion at Riga on 17 Feb 2017
+16 Feb 2017 - 737-1/200 skin skin cracking AD issued
+14 Feb 2017 - Another 737-800 tailstrike
+13 Feb 2017 - 737 MAX differences quiz added
+10 Feb 2017 - 737-NG skin skin cracking AD issued
+08 Feb 2017 - 737 MAX differences page added
+07 Feb 2017 - 737-1/2/3/4/500 aft entry and aft galley doorway skin cracking AD issued
+05 Feb 2017 - Circuit Breaker Location Chart - Where and how to find the c/b's
+04 Feb 2017 - The Portugese GPIAA have today issued their final report into the tailstrike on landing at Funchal, Maderia of 737-800, G-GDFC operated by
+Jet 2 on 17 Feb 2014.
+01 Feb 2017 - PK-GNK Garuda 737-800 runway excursion on landing at Yogyakarta
+29 Jan 2017 - HK-5197 AerCaribe 737-400SF runway excursion on landing
+25 Jan 2017 - Boeing on course to increase 737 production rate
+25 Jan 2017 - Description and photos of 737 heavy maintenance
+19 Jan 2017 - Water spray testing of the 737 MAX
+17 Jan 2017 - Description and photos of the MAX flightdeck
+14 Jan 2017 - Photo added of a 737-300 BDSF at Belfast
+13 Jan 2017 - MAX cold weather flight testing commences at Yakutsk
+11 Jan 2017 - Boeing finalises
+MAX-10 specifications
+06 Jan 2017 - KNKT report issued into the runway excursion of Merpati Nusantara 737-500 PK-MDT at Makassar on 26 Dec 2011
+04 Jan 2017 - SAIB Issued for 737-1/2/3/4/500 aircraft for a new inspection procedure for cracking in the fuselage skin panels at the chem-mill steps.
+27 Dec 2016 - 737-800, VT-JBF operated by
+Jet Airways has overran the runway whilst manouvring for take-off at Goa
+23 Dec 2016 - The Romanian CIAS have released their final report into the YR-BAS 737-400 runway excursion on landing on 7 Jan 2016 at Cluj
+19 Dec 2016 - Aerolineas Argentinas to be the first operator in Latin America to have 737 MAX
+17 Nov 2016 - FCC Update P9.0 released
+11 Dec 2016 - Iran Air orders 50 737 MAX 8s
+10 Dec 2016 - JY-JAQ 737-400 hard Landing and RH MLG collapse at Kabul
+09 Dec 2016 - Indonesian NTSB issue preliminary report into 737-300SF, PK-YSY Trigana Air Service
+MLG collapse on landing at WAVV, Wamena
+07 Dec 2016 - LN-NII Norwegian/Go2Sky 737-800 Take-off and cabin pressurisation incident
+30 Nov 2016 - FMC Update 14 described.
+25 Nov 2016 - New 737-400 overwing stub beam upper chord rivet cracks AD
+27 Oct 2016 - N278EA 737-700 Runway overrun on landing
+17 Nov 2016 - Boeing selects Taikoo (Shandong) Aircraft Engineering for 737-800BCF conversions.
+09 Nov 2016 - HK-5139 AerCaribe 737-400F MLG Failure on landing at Bogota
+09 Nov 2016 - New 737NG AD Final Rule issued today on wheel well wire chafing damage.
+06 Nov 2016 - MAX new engine panel described
+04 Nov 2016 - 737 MAX - Fly-by-wire Spoiler System described
+20 Oct 2016 - 737CL Aft pressure bulkhead AD issued.
+14 Oct 2016 - The Australian ATSB have released their final report into Virgin Australia 737-800, VH-YID, in which a member of cabin crew was injured as a result of overcontrolling during an overspeed event in a high speed descent.
+13 Oct 2016 - The Indonesian KNKT have released their final report into the runway overrun on landing of Lion Air 737-400, PK-LIQ at Supadio Indonesia on 2 Nov 2010.
+11 Oct 2016 - 737NG window fastener fatigue damage AD issued
+09 Oct 2016 - The publishers have just announced that they are giving a 20% discount on the printed Boeing 737 Technical Guide until 12 October. Use offer code "TREAT20" at checkout.
+04 Oct 2016 An ASL Airlines (in TNT livery), 737-400F, OE-IAG, has suffered a partial right hand main landing-gear failure, following what appeared to be a normal approach and landing on Runway 25 at EGAA in benign weather conditions.
+27 Sep 2016 - The 737 Technical Guide is now available in Chinese
+27 Sep 2016 - AAIU report published into 737-800 in-flight fumes event from APU oil
+26 Sep 2016 - AD issued requiring installation of an automatic shutoff system for the center and auxiliary tank fuel boost pumps on 737-1/2/3/4/500 aircraft
+23 Sep 2016 - Boeing considering the LEAP-1C for MAX-10
+22 Sep 2016 - MAX flight test program - Update
+22 Sep 2016 - HA-FAX 737-400F Runway Excursion on Landing - Update
+16 Sep 2016 - Book updated
+12 Sep 2016 - 737-300SF, PK-YSY operated by Trigana Air Service
+has suffered an MLG collapse on landing at WAVV, Wamena, Indonesia.
+10 Sep 2016 - Article on tailstrikes added
+08 Sep 2016 - CFM56-7BE "Evolution" exhaust photo added
+08 Sep 2016 - 737-NG aft pressure bulkhead widespread fatigue damage AD issued
+06 Sep 2016 - Photo: Luxair 737-800
+31 Aug 2016 - New 737NG MLG trunnion pin AD issued
+31 Aug 2016 - More details on FMC U13
+31 Aug 2016 - Joseph Sutter designer.of the 737 dies at 95
+30 Aug 2016 - SE breakaway thrust incident report issued by AAIU
+29 Aug 2016 - MAX line drawings added
+28 Aug 2016 - N766SW Loss of inlet cowl and engine failure
+27 Aug 2016 - FMC pages updated to include details of U11, U12 and preview of U13.
+22 Aug 2016 - New 737 Restauraunt opens in China
+19 Aug 2016 - FAA issues Special Conditions for 737MAX Non-Rechargeable Lithium Battery Installations.
+18 Aug 2016 - Final report issued for EX37005 737-300 landing accident at Osh in 22 Nov 2015
+15 Aug 2016 - 737-3/4/500 fuselage skin cracking AD issued
+13 Aug 2016 - The AAIB have issued their final reports into two similar erroneous airspeed and altitude events to 737-800s in icing conditions
+12 Aug 2016 - EASA issues Safety Information Bulletin for 737NG for Cold Soaked Fuel Frost Dispatch
+08 Aug 2016 - SAIB issued for 737NG for procedural changes for horizontal stabilizer position settings during de-icing
+This site has had
+visitors to date.

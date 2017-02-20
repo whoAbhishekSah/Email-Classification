@@ -1,0 +1,142 @@
+CLARION | The JISC CLARION project's blog
+CLARION
+The JISC CLARION project's blog
+HomeAbout
+Data flow from Source to Destination
+August 13, 2010
+The CLARION project has achieved a major milestone – a full working prototype of the system.
+Data can now flow from its source through to its destination RDF repository.
+Along the way it gets reviewed, assessed for when it can be released, marked-up with contextual metadata, transformed into CML and then RDF, and finally stored in a semantic repository, where it can be queried with a SPARQL query.
+So the stages involved now look like this:
+Chemist creates crystallographic data and stores it in their file store
+An atom-feed provides notification of the new data to the Embargo Manager (EmMa)
+EmMa emails scientist notifying her about new data needing reviewing
+Scientist uses EmMa to review data, add contextual metadata, and specify conditions for releasing data from embargo
+Scientist is notified a week before embargo-release condition is met
+EmMa waits for embargo conditions to be met
+Crystallography data is transformed into RDF and stored in repository
+Data is queried using SPARQL queries
+Our next activities will be to consolidate some of the infrastructural code used, and to ensure that the security used to restrict data access is adequate.
+We will then work on adding chemical search indexing, and importing NMR data.
+2 Comments				|
+Uncategorized								 |
+Permalink
+Posted by brianbrooks
+CLARION Design Principles
+May 13, 2010
+“Principled Design” is a term used occasionally (especially in computer architecture) to describe an approach in which you list and explain your assumptions and constraints before describing the design itself. This has a number of benefits: –
+It’s often more constructive to debate assumptions than details
+A set of principles is useful when considering alternatives when designing an architecture.
+A design will often flow from the assumptions and constraints; explaining the principles is often the easiest way of explaining the design.
+The architecture of CLARION is based on a number of guiding principles: –
+Subsystems exist on the web
+We have designed the system as a set of applications with defined roles, rather than as a monobloc. This is sometimes a practical necessity, and allows us to keep the parts relatively simple. By using web standards for interfaces (RESTful HTTP based APIs, Atom feeds for data transfer) and making sure each sub-system implements its own security, we keep the parts simple and increase the flexibility of the system. It will hopefully also lead to easier re-use and interoperability.
+Prefer to reference rather than duplicate
+We avoid making duplicates of data unless there’s a need. Our Embargo Manager component only holds metadata, and if access control is required, it proxies through to the original resources. We make a duplicate copy for the repositories Chem1 and Chem0, since we assume that the originating systems probably won’t provide curation services.
+Prefer to do things automatically
+It should go without saying, but we try to automate anything that could create unnecessary work for users.
+Manual semantification as early as possible
+The SPECTRa project report (http://www.lib.cam.ac.uk/spectra/documents/SPECTRa_Final_Report_v10.doc) described a “Golden moment” at which the researcher is concentrating on the data, and can easily add informative metadata without too much thought or recollection. If we can’t automatically calculate metadata, it should be collected from the user as soon as possible.
+Automatic semantification as late as possible
+More automatically produced metadata produced early in the process means more data to deal with, and especially more provenance to keep track of. This is wasted, since we could produce this metadata whenever we choose, and since we are continually improving our metadata extraction routines, the best metadata will be produced last.
+1 Comment				|
+Uncategorized								 |
+Permalink
+Posted by jimdowning
+Tools used for managing the CLARION project
+March 23, 2010
+CLARION Project Management
+To plan and keep track of the CLARION project’s activities, we are using a project management methodology based on incremental development in fixed-duration periods of 2 weeks (iterations).  We run a delivery and planning meeting every fortnight, at which the latest version of the software is demonstrated, progress is assessed and the next 2 iterations are planned.  We plan out the upcoming iteration in detail (to a resolution of 2 man-days or less per task) and the one after in broader brush strokes (to a resolution of 4-5 man-days).  The overall development strategy is also tracked (and updated) in coarser grained detail.   Mid-cycle, we run a progress meeting where we assess the progress of the current iteration.  This gives us early warning in case we need to re-plan the next iteration.
+We use the simple issue trackers provided by bitbucket.org to plan and track work (details below), and the wiki to record documentation and presentations.  In the design and planning stages, the wiki is particularly useful in recording technical decisions, which will be useful in the future (when writing the project report, for example!).
+This agile approach has worked well so far, and progress has been rapid.   The approach relies on accurate near-term estimation of work.  So far we have been underestimating by 1-2 man-days per iteration (typically 8 – 16% of total resource).  We regard this as OK, as we would rather include stretch tasks than leave people rudderless, so we try to construct each members work for the iteration such that there is a realistic base of work that can be delivered and demonstrated, and a couple of days of stretch goals, usually background research or preparation for the next iteration.
+Tools for managing the project and its communications:
+Here are the locations and details for CLARION bits and pieces:
+* Blog: https://clarionproject.wordpress.com/
+* Wiki: http://bitbucket.org/clarion/clarion/wiki/Home
+* Twitter: http://twitter.com/CLARIONproject
+* Project Management Tool: BitBucket
+* Infrastructural software & tools: See list in BitBucket
+* Code development tools & standards: See list in BitBucket
+Leave a Comment »				|
+Uncategorized								 |
+Permalink
+Posted by brianbrooks
+Productive meeting with John Davies, departmental crystallographer
+March 4, 2010
+The CLARION tech team (Sam Adams, Nick Day and myself) met with John Davies this afternoon to discuss the technical details of how we are going to bring the X-ray crystallography data into the CLARION infrastructure. In our parlance; how the X-ray Adapter will query the data and present it as an Atom feed for consumption by EmMa (the Embargo Manager).
+John has two sources of data we could usefully import: –
+Processed data in CIF format
+Hand-drawn 2D molecule diagrams for each sample, and author names in CCDC database format.
+We’d love to get hold of those diagrams – they’re better than the ones we can generate automatically, especially for the complicated and organometallic molecules some of the chemists in the department specialize in. The names of the authors would also be really useful for the embargo manager, and would avoid duplicated human effort. The problem is that the CCDC database format is (as far as we know) binary and proprietary. So, we’re going to do some quick investigations to see whether it’s possible to use some of CCDC’s software to extract the data in more tractable formats.
+Physically getting hold of the data itself looks to be pretty straightforward, we should be able to use cron to drive rsync and then our adapter (which is essentially a feed builder). As the meerkat says: “Simples!”
+6 Comments				|
+Uncategorized								 |
+Permalink
+Posted by jimdowning
+Principal Investigators’ opinions on Open Data
+January 29, 2010
+A goal for the CLARION project is to make it easier for scientists to release their experimental results into the public domain as Open Data.
+We’ve been talking to some Principal Investigators in the Chemistry dept to hear their attitudes towards releasing data.
+For all the PIs interviewed, the need to release data is not in the forefront of their mind.
+During the introductory preamble, they tend to look at you with a “Why are you asking me?” expression.
+The trick to make them think about open data is to find an angle that concerns them.
+Three things that are close to a PI’s heart are money, publications, and visibility.
+Good questions to ask are:
+•	Do any of your public-funding agencies require you to make your research results public?
+•	Have you needed to provide supporting experimental data for any of your papers?
+•	Would you like to increase the visibility and citations of your work?
+Questions such as these help the researcher to realise that making their research data open could be advantageous to them – and that IT solutions could help them do it.
+Almost without exception the PIs approve of the concept of Open Data.
+Several of them actively post data into public databases such as the Protein Data Base.
+However, we find a range of opinions as to the timing of release.
+Some are happy to release data almost as soon as it’s collected; others after a paper has been published; and others would only do so after any intellectual property had been patented.
+As might be expected, the desire to protect intellectual property seems to inversely correlate with the “pureness” of the work.
+The more applied the science, the more patentable the work, and hence the need to be sensitive to protecting IP.
+A common concern from a PI is whether their group’s data would be useful to anyone else.
+Difficult one to answer this with anything beyond “Well, you never know until you try it”.
+But again a good way to help them think is to ask them what data they’d like to see from other researchers in their area, or from papers that they’ve read.
+Just about always they will say that there’s something they’d like to see – commonly, the supporting data used for a graph.
+A diversity of opinion is good; diversity is the seed from which the fittest will grow.
+However, it does tend to complicate any IT solution…
+1 Comment				|
+Uncategorized								 |
+Permalink
+Posted by brianbrooks
+Introducing Sam Adams
+December 2, 2009
+Sam Adams joined CLARION a few weeks ago as the project’s software developer. Sam has just submitted his PhD in chemistry informatics, and has lots to offer the project. We’re already starting to take Sam’s prototype of the embargo manager component around the chemistry department for feedback on the UI and on open data publication.
+I’m hoping Sam will be able to make JISC Dev8D event, so I can introduce him to many of you in person there.
+1 Comment				|
+Uncategorized								 |
+Permalink
+Posted by jimdowning
+EP2DC c.f. CLARION?
+September 17, 2009
+At the JISCRI meeting the other week I was very interested to hear about the EP2DC project. It’s clear that finding, clearing and publishing data that supports already-published research is going to be an important aspect of CLARION (although ePrint publication will be a secondary concern) so it will be interesting to see what the EP2DC team come up with, and to share experiences.
+1 Comment				|
+Uncategorized				 | Tagged: clarionproject, jiscri				 |
+Permalink
+Posted by jimdowning
+« Previous Entries
+Archives
+August 2010
+May 2010
+March 2010
+January 2010
+December 2009
+September 2009
+August 2009
+July 2009
+May 2009
+April 2009
+Categories
+Uncategorized
+Links
+CLARION on Twitter
+Meta
+Register Log in
+Create a free website or blog at WordPress.com.
+CLARION
+Blog at WordPress.com.
+Post to
+Cancel

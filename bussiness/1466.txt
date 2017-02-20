@@ -1,0 +1,172 @@
+info NeoGnostic
+info NeoGnostic
+iNG is a blog for 'new' thoughts about the information society - including librarianship, knowledge management, information architecture, content management, collection management - with an emphasis on electronic resources. Also about professional issues, often with a slant towards (perhaps that should be 'tilt at') CILIP and the profession.
+::. Owner : Chris Armstrong .::. +44 1974 251302 .::. lisqual@cix.co.uk .::. Feed :
+.::
+Subscribe
+Click here for RSS Feed
+Tell me when this blog is updated
+email:
+what is this?
+Blogroll Me!
+IAL parent site
+Twitter Updates
+follow me on Twitter
+Petitions to UK Government
+About Me
+Name:
+Chris Armstrong
+Location:
+Aberystwyth, Wales, United Kingdom
+I am the owner and managing director of Information Automation Limited (IAL), a company that specialises in research, consultancy and training for the information profession. We are particularly interested in all forms of electronic information resources (e-journals, e-books, etc) and
+I teach a course in electronic publishing at the Department of Information Studies in Aberystwyth. Drilling down still further(!), my interests centre on the quality and evaluation of electronic information, and in the thinking that underpins activities in library and information science.
+View my complete profile
+www.flickr.com
+This is a Flickr badge showing public photos from chrisinwales. Make your own badge here.
+Tuesday, September 09, 2008
+Defining e-books and publishing
+In the week in which my 'definition' article - Books in a virtual world: The evolution of the e-book and its lexicon - has finally seen the light of day (Journal of Librarianship and Information Science 40 (3): 193-206; and deposited/soon available on E-LIS & CADAIR), it was thrilling to see a post on if:book by Bob Stein in which he distilled some years of thinking into a 'definition' of publishing in the digital era - a unified field theory of publishing in the networked era. [I found his 'death of fiction' possibility less than thrilling, but the theory does not depend on that!]Bob departs from my approach by describing the networked book, not as either a physical entity or as content delivered, but as a social activity - an interaction or dialogue: as discourse moves off the page onto the network, the social aspects are revealed in sometimes startling clarity. These exchanges move from background to foreground, a transition that has dramatic implications.I think this essay may prove to be a very important piece of writing, and I hope that Bob keeps his promise to move it "into CommentPress so that the discussion can be more extensive than the blog's comment field." Of course, this is just a 'field theory' and, on closer examination, the model may not work so he is asking for comments on "which parts need deepening, fixing or wholesale reconsideration." Thekey questions a unified field theory has to answer:
+What are the characteristics of a successful author in the era of the digital network?Ditto for readers: how do you account for the range of behaviors that comprise reading in the era of the digital network?What is the role of the publisher and the editor?What is the relationship between the professional (author) and the amateur (reader)?Do the answers to 1–4 afford a viable economic model?
+Key to the theory "is the author's commitment to engage directly with readers" - and thus - inevitably, the readers' commitment to engaging with the author. Bob says thatreaders will increasingly see themselves as participants in a social process. He acknowledges that there will be levels and levels of engagement, but I think that this may be the weakness in the theory. Will readers engage? Do any but a handful wish to engage in this way? Jumping from author-text to reference material, to images, to primary sources, to Google, to author-notes, etc? Won't most readers who are reading from pleasure either not bother or become lost in the faux-scholarly process?But this is a theory, and I like it! I think that as a natural next stage there needs to be work done to support the theory - just as the JISC National e-Books Observatory Project is about exploring impacts, observing behaviours and developing new models to stimulate the e-books market - we need research - the publishers certainly need research - to see if the model is acceptable to the public at large, a public which still largely prefers books to e-books. Maybe the new reading experience will simply loose people along the way: the unconverted, the unregenerated, who just want to read! Will they everacknowledge the possibility of a flatter hierarchy that displaces the writer from the center or from the top of the food chain and moves the reader into a space of parallel importance and consideration ... acknowledge the intrinsic relationship between reading and writing as equally crucial elements of the same equationThe theory only works if sufficient publishers and readers buy-in to the model - even after a "transitional period (5, 10, 50 years)" - and I think that some research needs to be done now: more than just "careful listening to users/readers/authors" - indeed, some or all of Bob's thoughts/questions at the end of his essay may well be the basis of the research questions.>>Technorati tags: publishing; publishers; e-books; networked books; society>>IceRocket tags: publishing; publishers; e-books; networked books; societyLabels: e-books, networked books, publishers, publishing, society
+Posted by Chris Armstrong @ 7:57 am Permalink
+Trackback URL: http://www.haloscan.com/comments/chrisinwales/8394195540309539451/
+Add tag
+|
+Links
+Tuesday, July 08, 2008
+On reading and design: more thoughts
+I have just been reading a short editorial piece by Patrick Tucker in The Futurist: The 21st Century Writer. It is a reflective piece on Tim O’Reilly’s “Tools of Change” conference, and focusses on publishing in an electronic age. Unsurprisingly.For the serials publisher and the journalist, there is the thought that with half the world reporting and editorialising in blogs: We’ve entered an era where the acts of thinking, writing, and to a certain extent publishing are indistinguishable, and where charging money for editorial content is becoming an ever trickier proposition. I liked particularly the first part of this, suggesting that the act of "thinking out loud" has migrated to the Internet in the form of blogs. Especially, as in that very idea, is captured the reason why traditionally sponsored journalism should endure - it is (or should be) so much more than thinking out loud, as I am doing here, and it is distinguishable from my ramblings by its pedigree and publishing house.For the book publisher, there is a reprise of my previous posts (one & two) on the subject: the mission is to make an industry built on a fifteenth-century technology viable in the twenty-first century. That means reinventing the concept of the book for the digital age. There's (sic) is perhaps the biggest challenge.>>Technorati tags: publishing; blogs; ebooks>>IceRocket tags: publishing; blogs; ebooksLabels: blogs blogging, ebooks, journalism, publishing
+Posted by Chris Armstrong @ 7:28 am Permalink
+Trackback URL: http://www.haloscan.com/comments/chrisinwales/7789181775698861671/
+Add tag
+|
+Links
+Friday, June 27, 2008
+Writings about e-book publishing, 2008: update
+There has been a rush of article added to my Writings about e-book publishing, 2008 over the last 5 or 6 weeks. So much so, that it is already approaching the length of last year's page!The last item to be added, an article by Laura Dawson in Book Business, comes from a journal newly available in electronic mode (to which you must subscribe, but which looks worth watching). It is doubly interesting as the editorial (by Noelle Skodzinski) quotes Michael Cader, founder of Publishers Marketplace, as saying Get your mind-set out of the book business and into the reader business ... which has a ghostly echo of my last piece here, A necessary change in reading? Cader added, "Publishers have to leverage the damn book".>>Technorati tags: books; ebooks; readers>>IceRocket tags: books; ebooks; readersLabels: books, e-books, readers
+Posted by Chris Armstrong @ 8:02 am Permalink
+Trackback URL: http://www.haloscan.com/comments/chrisinwales/2716538824815481714/
+Add tag
+|
+Links
+Tuesday, June 10, 2008
+A necessary change in reading?
+I often write about reading in this blog; it is a fairly natural - even logical - progression or collocation for anyone thinking about information, books or libraries. In Is Google Making Us Stupid, Nicholas Carr wonders if - like the Italian humanist Hieronimo Squarciafico [who, after Gutenberg's printing press] worried that the easy availability of books would lead to intellectual laziness, making men “less studious” and weakening their mindshe should see the Internet, epitomised in Google, as destroying the possibility of immersive reading, leaving us with only the skills to scan and skim. He references both the recent Google Generation report from UCL, which spoke of new forms of “reading” [which] are emerging as users “power browse” horizontally through titles, contents pages and abstracts going for quick wins and Maryanne Wolf, a developmental psychologist at Tufts University and the author of Proust and the Squid: The Story and Science of the Reading Brain, who worries that the style of reading promoted by the Net, a style that puts “efficiency” and “immediacy” above all else, may be weakening our capacity for the kind of deep reading that emerged when an earlier technology, the printing press, made long and complex works of prose commonplace.He also speaks of the plasticity of our brains which - even in adults - re-write neural pathways to re-learn skills like reading. He suggests that the circuits woven by our use of the Net will be different from those woven by our reading of books and other printed works.Perhaps (I hope) he paints a black-and-white picture that is too stark, that does not allow of a possibility to skim when it is required and to read comprehensively when needed. In yesterday's post about Sara Lloyd's article on publishers and e-books, I wrote that Sara noted that the: question really is no longer, “Will consumers read on screens in the future?”… [but] is rather, “How will consumers read on screens in the future?” She went on to say that reading is changing "and will continue to change substantially" and to note different modes of reading, including a more exploratory style of online reading and researching that is different from 'immersive reading'. "A new generation of more consciously transliterate readers" will require more of their books - however we define these - and thus more of their publishers. The 'new book' will require "publishers to become enablers for reading, and its associated processes."Maryanne Wolf argues that the way we read influences or dictates the way we think. If that is true the Internet is truly spawning a world of butterfly minds! Carr quoted a recent essay, [in which] the playwright Richard Foreman eloquently described what’s at stake:
+I come from a tradition of Western culture, in which the ideal (my ideal) was the complex, dense and “cathedral-like” structure of the highly educated and articulate personality—a man or woman who carried inside themselves a personally constructed and unique version of the entire heritage of the West. [But now] I see within us all (myself included) the replacement of complex inner density with a new kind of self—evolving under the pressure of information overload and the technology of the “instantly available.”But, perhaps this is not so new. Samuel Johnson wrote Knowledge is of two kinds.
+We know a subject ourselves, or we know where we can find information upon it. (Samuel Johnson (Boswell's Life of Johnson) It's just that technological progress makes it all so much easier, and quicker, and available, and automatic. Because someone, somewhere has published it on the Internet. And those same publishers need to be at the centre of these digital conversations, driving their development and providing the tools for readers to engage with the text and with each other if they are to remain relevant... [they] had better be the ones defining what the shape of a ‘networked book’ should be ... because if they are not someone else sure as hell will be.So, publishers - design me a new book, create me a new content with context, deliver a networked book or an e-book, amaze me with interface artifice - but please, PLEASE understand how we read and ensure that in providing the context you do not destroy my ability to enjoy the content.The e-book must allow immersive reading as well as surface skimming; must allow my construction of my unique version of the entire heritage of the West as well as my research into that cathedral's foundations. We are told in Carr's article that reading is not an instinctive skill for human beings. If we must learn new reading skills, we must also hang on to the old. And Carr ends: That’s the essence of Kubrick’s dark prophecy: as we come to rely on computers to mediate our understanding of the world, it is our own intelligence that flattens into artificial intelligence.>>Technorati tags: books; ebooks; reading; publishing; publishers>>IceRocket tags: books; ebooks; reading; publishing; publishersLabels: books, publishers, publishing, reading
+Posted by Chris Armstrong @ 12:25 pm Permalink
+Trackback URL: http://www.haloscan.com/comments/chrisinwales/4942443234099068053/
+Add tag
+|
+Links
+Patents; Google; and Re-inventions of wheels
+According to Edlyn Simmons (chapter on 'Patents' in Armstrong and Large, Manual of Online Search Strategies, Ashgate, 1992): In most countries, no patent is granted until the application has been examined to determine whether the claimed invention is new, useful and inventive.Which makes me wonder how - as reported in Lorcan Dempsey's Blog - Google can file a patent application for "what it calls a 'virtual bookshelf site'". As the posting points out there are over a dozen such sites, including LibraryThing (see left-hand column, here), and Google already has MyLibrary within Google Book Search.>>Technorati tags: bookshelf; Google; LibraryThing; patents>>IceRocket tags: bookshelf; Google; LibraryThing; patentsLabels: bookshelf, Google, LibraryThing, patents
+Posted by Chris Armstrong @ 8:11 am Permalink
+Trackback URL: http://www.haloscan.com/comments/chrisinwales/5428914991888031467/
+Add tag
+|
+Links
+Monday, June 09, 2008
+Is Bluster over Google Book Search = Shame that publishers didn’t get there first?
+I do not really like quoting at length in my blog entries, but the article that I am referencing here is such an important article from the house of a major publisher, that I think it is warranted. Sara Lloyd of Pan Macmillan Digital Publishing has written an article linked from the company blog, the digitalist: A book publisher’s manifesto for the 21st century (pdf).Book. Publisher. Manifesto. Read it!Right at the start, there is the statement which shows such a clear view of the implications of a digital future that I am awed to hear it expressed by a publisher (not because I think publishers have no vision, but because I think acceptance of this particular vision must impinge profoundly on publishing):We will need to work out how to position the book at the centre of a network rather than how to distribute it to the end of a chain.Built on the thought that e-books are content with context rather than content with cover, this is a publisher looking at possibilities:We will need to think much less about products and much more about content; we will need to think of ‘the book’ as a core or base structure but perhaps one with more porous edges than it has had before.The article looks to a future in which e-books may be written using the wisdom of crowds, or in which they can offer shared reading such as is trialed in Book Glutton.Reading is not an activity that can be defined simply and it is all too often described as a solitary, immersive experience, as in the experience of reading a novel for hours at a time… even if a reader spends some solitary time reading, readers have always traditionally liked to swap views and ideas about the content of books, to turn over the corners of pages in which favourite passages appear to which they want to refer again, and to write notes in the margins.To date, publishers seem to have been content to digitise their paper books, leaving the more adventurous formats, the social books, the new structures, the experimentation to those outside of the conventional publishing arena. I have always wondered how – or if – these experiments will migrate into the centre stage of ‘real publishing’ – and now we have evidence of major-league interest. This is exciting! And why?Google Book Search set out to define 'access'; can the publishers redefine 'book'? If the:question really is no longer, “Will consumers read on screens in the future?”… [but] is rather, “How will consumers read on screens in the future?”…publishers had better be the ones defining what the shape of a ‘networked book’ should be … because if they are not someone else sure as hell will be.>>Technorati tags: books; ebooks; publishing; publishers; networked books>>IceRocket tags: books; ebooks; publishing; publishers; networked booksLabels: books, e-books, networked books, publishers, publishing
+Posted by Chris Armstrong @ 3:57 pm Permalink
+Trackback URL: http://www.haloscan.com/comments/chrisinwales/8492895742397968105/
+Add tag
+|
+Links
+Tuesday, June 03, 2008
+Time has fallen asleep in the afternoon sunshine
+… but what does Ray Bradbury mean when he says thatThere is no future for e-books because they are not booksVariously quoted - Kindleville, The Leary Letter, etc: at BookExpo America When, or indeed, why is a book not a book?If we take digitized version of William Blake’s Songs of Innocence, or even of his Fahrenheit 451, and present it on-screen, surely we have an electronic or digitized version of the book? It could, I suppose, be argued that that without pagination and formatting it is simple ‘text’ or ‘images’ – but paginated into ur-book form one might suppose that the neologism works.I would guess – I hesitate to put words into his mouth, but I would guess – that Mr Bradbury may mean that robbed of sentience; unable to touch, hold, heft, weigh, smell, to generally experience the physicality of a book, we cannot experience the same pleasure and pain of reading a book. We cannot have shelves of them in our houses or libraries. We cannot pile them for reading beside our armchair or bed. We shall never be able to return to one, dog-eared with use, to have it fall open at our favourite passage. Thus, with such differing properties, they cannot be the same: we cannot call an e-book, a book. It is like comparing oranges and apples.And, perhaps, we will never read an e-book in the same way – with the same attention, diligence and apprehension as we do a book. Indeed, there is some evidence that readers often only ‘dip’ into e-books.So, further, Ray Bradbury may fear that, like Montag, the digitizers and the e-book purveyors are the firemen of our culture. Bradbury has said that Fahrenheit 451is, in fact, a story about how television destroys interest in reading literature … His fear in 1953 [was] that television would kill books"Ray Bradbury: Fahrenheit 451 Misinterpreted"It is not a long step to suppose that e-books could kill books.“They smell of burned fuel”, indeed!>>Technorati tags: ebooks; books; reading; Bradbury>>IceRocket tags: ebooks; books; reading; BradburyLabels: books, Bradbury, e-books, reading
+Posted by Chris Armstrong @ 9:27 am Permalink
+Trackback URL: http://www.haloscan.com/comments/chrisinwales/1593598492266870086/
+Add tag
+|
+Links
+Monday, May 19, 2008
+Reader Wars! A link from Dar es Salaam!
+Thanks to Joe Wikert at Kindleville for the following:Mobipocket
+for the iPhone/iTouchEarlier this morning Kevin Tofel wrote a blog post
+about how there will be a Mobipocket app
+for the iPhone later this year. He then went on to question what sort of impact
+this will have on the Kindle. A couple of readers commented that a) the reading
+experience on a Kindle is much better than an iPhone/iTouch and b) Amazon owns
+Mobipocket, so they're not likely to kill their own device.True and
+true, but now that I've been using Mobipocket on my Blackberry for a bit I have
+to admit there are many other factors that come into play. [continues]>>Technorati tags: ebooks; readers; Apple; iPhone; Kindle>>IceRocket tags: ebooks; readers; Apple; iPhone; KindleLabels: Apple, ebook-reader, ebooks, iPhone, Kindle
+Posted by Chris Armstrong @ 5:15 pm Permalink
+Trackback URL: http://www.haloscan.com/comments/chrisinwales/6230438510622500393/
+Add tag
+|
+Links
+Tag Cloud - an index to postings
+Previous Posts
+Defining e-books and publishing
+On reading and design: more thoughts
+Writings about e-book publishing, 2008: update
+A necessary change in reading?
+Patents; Google; and Re-inventions of wheels
+Is Bluster over Google Book Search = Shame that pu...
+Time has fallen asleep in the afternoon sunshine
+Reader Wars! A link from Dar es Salaam!
+e-Book copyright in the UK
+Counterpoint: On reading and design
+Archives
+- Archives -
+February 2005
+March 2005
+April 2005
+June 2005
+October 2005
+November 2005
+December 2005
+January 2006
+February 2006
+March 2006
+April 2006
+May 2006
+June 2006
+July 2006
+August 2006
+September 2006
+October 2006
+November 2006
+December 2006
+January 2007
+February 2007
+March 2007
+April 2007
+May 2007
+June 2007
+July 2007
+August 2007
+September 2007
+October 2007
+November 2007
+January 2008
+February 2008
+March 2008
+April 2008
+May 2008
+June 2008
+July 2008
+September 2008
+BlogRoll
+findability - Peter Morville's Blog
+FOIA Blog
+Ian Snowley's Weblog
+if:book
+Information Today Blog
+Karen Blakeman's Blog
+Lorcan Dempsey's Blog
+Many2Many Social Software Blog
+The Open Rights Group Blog
+Panlibus - Talis Blog
+Phil Bradley's Blog
+Richard Poynder's Open and Shut?
+Sheila Webber's IL Weblog
+TeleRead
+TFPL... blog
+UKeiG Blog
+You're It! Tagging Blog
+BlogLinks
+© Contributors and Chris Armstrong

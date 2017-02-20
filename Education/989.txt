@@ -1,0 +1,42 @@
+PerX: Pilot Engineering Repository Xsearch Homepage
+Skip over Navigation
+Pilot Engineering Repository Xsearch
+Investigating resource discovery issues in engineering digital repositories
+| Home
+| About
+| Deliverables
+| Links
+| Pilot
+|
+PerX
+The PerX project has developed a pilot service which
+provides subject resource discovery across a series of repositories of
+interest to the engineering learning and research communities.
+This pilot was used as a test-bed to explore the practical issues
+that would be encountered when considering the possibility of full
+scale subject resource discovery services. The project ended on 31st May 2007 and full list of project deliverables is available.
+TechXtra
+is a spin-off service of PerX, created using the
+data and software outputs produced by the project.
+The PerX database output has been made searchable from the Ex Libris MetaLib federated search commercial service.
+Issues that were investigated include: the range and
+availability of actual and potential digital repository sources;
+exploration of cultural barriers to the use of repositories in the
+subject community, functionality of software tools; advocacy to
+encourage participation of repository providers; maintenance issues;
+interactions with infrastructural shared services; enhancing metadata
+quality; embedding and reuse of resource discovery services; improving
+search and browse results presentation; service profiling for
+particular audiences, and service sustainability.
+PerX is funded by JISC as part of the Digital Repositories Programme. Further information about the project and details of latest news are available .
+...resource discovery in engineering
+| Home
+| About
+| Deliverables
+| Links
+| Pilot
+|
+Last Updated: Friday, May 25, 2007.
+Accessibility Statement
+A JISC Funded Project
+© Perx 2007

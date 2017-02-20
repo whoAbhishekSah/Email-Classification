@@ -1,0 +1,224 @@
+Artnotes Dev Blog | Just another iPhone dev weblog
+Artnotes Dev Blog
+Just another iPhone dev weblog
+Final Progress Post
+December 11, 2009
+Just a note to say that this WON’T be the final post on the blog, however, it is the ‘Final Progress Post’ in terms of the requirements of the ArtNotes (RTNOTES) JISCRI project… so let’s begin…
+Title of Primary Project Output
+ArtNotes : An iPhone application for thematically organising images and other visual artefacts.
+Project Tag
+RTNOTES
+Screenshots
+Description of Prototype
+The prototype demonstrates the ability to organise images in thematically related categories displayed in the application as ‘Notebooks’, allowing the ability for cross-boundary images to be displayed in multiple ‘Notebooks’.
+In order to enhance the application there is the ability to import and export images from the devices built in photo library and camera, as well as Flickr, perhaps the most popular online repository for images.
+Alongside the image itself, the application caters for storage of various elements of meta-data including the ‘geo-tag’ of an image which may then be displayed on a map as a series of ‘pins’.
+The prototype has focused on the core idea behind the project, that of organisation and storage. Features which are desired, yet lack a fully tested implementation include:
+Complete Flickr synchronisation
+Integration with other repositories such as Google Images
+During the course of the development a variety of potential areas for expansion were identified, however as these are potential areas for future work and not directly related to the project they are not included for brevity.
+Link to Working Prototype
+As the iPhone is a closed platform, a working prototype is unavailable, except from the App Store.  ArtNotes is undergoing a final round of testing and failing any major problems will be submitted to the App Store over the Christmas period.
+However, the ‘End User Documentation’ below and the screenshots above should give an overview of the functioning application.
+Link to End User Documentation
+The ‘End User Documentation’ is slightly lacking, as it was delivered to testers and potential end users in a presentation format, alongside a ‘live demo’ of the application.
+The following link provides a downloadable copy of the latest presentation in PPSX format:
+http://artnotes.googlecode.com/files/EndUserDocumentation.ppsx
+Link to Code Repository or API
+The code repository can be found here: http://artnotes.googlecode.com/svn/trunk/ArtNotes/
+This contains a buildable MonoTouch solution for the ArtNotes project.
+Link to Technical Documentation
+Unfortunately, there seems to be a slight issues with MonoDevelop, in that it currently doesn’t generate the XML docs for a MonoTouch project (the actual issue is that smcs doesn’t support the ‘/doc’ option). As such this means the technical documentation is limited to the comments and functional descriptions found inside the source code files.
+However, if the XML docs can be generated this will be updated and a link will be provided.
+The source code, as above, can be found here: http://artnotes.googlecode.com/svn/trunk/ArtNotes/
+Date Prototype was Launched
+The latest build of the application was given to testers / end users 2009.12.09
+Project Team Names, Emails and Organisations
+Owen Watson <o.watson _at_ bolton.ac.uk> University of Bolton
+Kirk Barron <k.barron _at_ bolton.ac.uk> University of Bolton
+Dave Hagan <d.hagan _at_ bolton.ac.uk> University of Bolton
+Roy Attwood <r.attwood _at_ bolton.ac.uk> University of Bolton
+Project Website
+http://code.google.com/p/artnotes
+http://www.osrg.org/artnotes
+PIMS entry
+https://pims.jisc.ac.uk/projects/view/1361
+Table of Content for Project Posts
+This section gives a list of the relevant posts on the blog from the project. It is broken into 4 categories:
+Initiation – The beginning of the project and the initial set up
+Issues and Reflections – More could perhaps have been done in terms of reflection, however in terms of problems (aside from time :)) the only real issues were that of hardware and software availability
+Progress – Some posts showing the progress which was made with the project
+Community – Posts which are related to the ‘Open Source’ community. As the project was licensed under the GPL v2 and is available on Google Code, it was decided that if anything specific, which may be useful to others, was written it could be presented as such. The posts listed are linked to from the MonoTouch wiki (http://wiki.monotouch.net) or from MonoTouch.Info (http://www.monotouch.info).
+Initiation
+https://artnotesdev.wordpress.com/2009/07/15/start-up-handover/
+https://artnotesdev.wordpress.com/2009/07/20/planning/
+https://artnotesdev.wordpress.com/2009/07/30/google-code/
+https://artnotesdev.wordpress.com/2009/08/09/website/
+Issues and Reflections
+https://artnotesdev.wordpress.com/2009/08/14/the-on-going-problem-of-purchasing/
+https://artnotesdev.wordpress.com/2009/10/12/an-iphone-an-iphone-my-office-for-an-iphone/
+Progress
+https://artnotesdev.wordpress.com/2009/09/14/monotouch-2/
+https://artnotesdev.wordpress.com/2009/09/29/progress/
+https://artnotesdev.wordpress.com/2009/10/01/flickr-integration/
+https://artnotesdev.wordpress.com/2009/10/12/a-simple-progress-post/
+https://artnotesdev.wordpress.com/2009/10/16/lots-of-little-pieces/
+https://artnotesdev.wordpress.com/2009/10/27/finally/
+https://artnotesdev.wordpress.com/2009/11/20/source-code-availability/
+https://artnotesdev.wordpress.com/2009/12/03/screen-shots/
+Community
+https://artnotesdev.wordpress.com/2009/10/27/some-code/
+https://artnotesdev.wordpress.com/2009/11/20/source-code-availability/
+https://artnotesdev.wordpress.com/2009/12/03/download/
+Edit: No idea why the links aren’t all aligned… There’s nothing wrong in either the Visual or HTML views…
+Tags: demonstrator, finalprogresspost, implementation, jisc, jiscri, output, product, progressposts, prototype, rapidinnovation, rtnotes, technicaldevelopment, win Posted in Uncategorized |
+Leave a Comment »
+Download
+December 3, 2009
+If you want to download and build the current version of ArtNotes, you can get it here ArtNotes-2009.12.03.zip
+Due to the requirements of the project sponsors, it’s licensed under the GPL, however as I wrote the code, I can license it as I want, so if you want to use any of it (maybe under a different license?) feel free to contact me 🙂
+Edit: If you download the code you might notice that the quality can be somewhat lacking. This is the joy of deadlines. I am, however, planning on revisiting and refactoring the worst bits :).
+Tags: jisc, jiscri, progressposts, rapidinnovation, rtnotes, software, technicaldevelopment, valueadd, win Posted in Uncategorized |
+Leave a Comment »
+Screen Shots
+December 3, 2009
+Thought some screenshots might be in order… as per my previous post, most of the screens are still a little beta… 🙂
+Tags: enduser, jisc, jiscri, progressposts, rapidinnovation, rtnotes, technicaldevelopment, win Posted in Uncategorized |
+1 Comment »
+The Crunch
+December 3, 2009
+Again, it’s been a while since the last post. Something which I must apologise for yet again. It’s been really busy round here, lots of meetings and other University stuff which has managed to sap all my time.
+I’ve also been working hard getting ArtNotes into a more workable product. It’s gotten pretty good, and the people who’ve used it seem to think the stuff it does is good although they pretty much all agree that the interface needs more work.
+Tags: implementation, jisc, jiscri, progressposts, rapidinnovation, rtnotes, technicaldevelopment, win Posted in enduser, implementation, jisc, jiscri, progressposts, rapidinnovation, rtnotes, technicaldevelopment, win |
+Leave a Comment »
+Source Code Availability
+November 20, 2009
+Now I’ve finally gotten my new MacBook, an Enterprise version of MonoTouch and my iPhone Developer access (and have tested the code on the phone) I’ve commited the project into SVN here: http://code.google.com/p/artnotes
+Please note though, this is *just* an initial version, there is functionality left to implement (technically I’ve already implemented it, it just needs porting from various testing projects), so be aware.
+Tags: implementation, jisc, jiscri, progressposts, rapidinnovation, rtnotes, technicaldevelopment, win Posted in Uncategorized |
+1 Comment »
+iPhone Developer Programme
+November 20, 2009
+You’d think it would be easy to join wouldn’t you? Maybe it is if you’re paying for it yourself, otherwise it’s what I would like to term a complete cluster-fungle.
+Still, after much gnashing of teeth and calls to Apple, I’m finally enrolled under *my own name*. w00t!
+Tags: fail, jisc, jiscri, progressposts, rapidinnovation, rtnotes Posted in fail, jisc, jiscri, progressposts, rtnotes |
+Leave a Comment »
+BarCamp London 7 (A retrospective :o)
+November 20, 2009
+A couple of weeks ago now a couple of us went down to BarCamp London 7, held in the IBM building on the south bank.
+As a start, I think i’ll talk about the facilities… The IBM building was a great place to have the event. The building itself looks very 1960’s concrete lovin’ from the outside, but when you get in, you’re greeted by a light, airy, modern building. The general feel of the place was very nice, (and somewhere I could see myself working :o). You got a great view of the Thames from the many cafeterias and eating spaces around the building and there were plenty of meeting / break-out rooms for discussions to happen (not like BarCamp Manchester 2, but that’s another post). Overall, a great place to have the BarCamp.
+The BarCamp itself was very good, a few cool free gifts and lots of great free food and snacks (of course, it always tastes better when it’s free, doesn’t it?). For the most part, the presentations we attended were very interesting, ranging from some pretty technical talks from a couple of IBM guys all the way through to a talk on how to speak Dutch. I don’t think I saw anything that wasn’t interesting in some way.
+We also got interviewed by Milly Shaw who is part of the JISC DevCSI project, which made it a little more interesting. (And meant I had to think of something to say…)
+Unfortunately, we didn’t stay overnight at the BarCamp, rather we retreated to our hotel room at the rather nice Strand Palace. The reason for this is perhaps a little lame, but as we came down on Friday night, we needed somewhere to stay and thus our hotel was booked for both Friday and Saturday night (that and I didn’t remember my sleeping bag).
+Overall it was a great event, met some interesting people from a wide range of disciplines and something I would definitely recommend people go to if they have the chance!
+TLDR: IBM building is cool; BarCamp was fun.
+Tags: jisc, jiscri, rtnotes Posted in jisc, jiscri |
+1 Comment »
+Apologies
+November 20, 2009
+Hmm… so much for putting up a review of BCL7 within the next few days… as you can probably tell, that didn’t quite work out.
+There’s not any specific reason that I haven’t updated this, more a collection of lots of small things taking up lots of time.
+Anyway, todays aim is to make a couple of posts to update what’s being going on, so lets begin…
+Posted in Uncategorized |
+Leave a Comment »
+BarCamp London 7
+October 27, 2009
+Over the weekend a couple of us went down to BarCamp London 7, which was pretty fun. Lots of interesting people and lots of interesting topics.
+Hopefully over the course of this week i’ll write a more comprehensive review, so watch this space 🙂
+Tags: jisc, jiscri Posted in Uncategorized |
+Leave a Comment »
+Some Code
+October 27, 2009
+I don’t think there’s been any code published on the blog before, so i thought for a change, I’d put up what I’ve been working with this morning.
+As we’re working with images, I thought it would be cool to be able to have my image and then perhaps overlay a frame of some kind on top to give the impression (for example) that the image is ‘stuck’ in a ‘photo album’. After a little bit of trial-error-giving-up-and-googling, i came across this blog post which did kind of what I wanted… http://www.realdevelopers.com/blog/?p=415
+A quick look at the code and it seemed simple enough, so I thought I would convert it to C# for use in MonoTouch. After a small amount of confusion (revolving around the pointer to and allocation of ‘bitmapData’) it now works.
+Here we go… a useful bit of code to composite images in MonoTouch…
+using System;
+using System.Drawing;
+using MonoTouch.Foundation;
+using MonoTouch.UIKit;
+using MonoTouch.CoreGraphics;
+namespace ImageOverlayRotate
+{
+public class ImageUtils
+{
+public ImageUtils ()
+{
+}
+public UIImage overlayImage (UIImage image, UIImage overlay,
+RectangleF imageRect, RectangleF overlayRect,
+SizeF size)
+{
+RectangleF imageBoundingBox = imageRect;
+RectangleF overlayBoundingBox = overlayRect;
+CGBitmapContext context = createBitmapOfSize(size);
+context.SetRGBFillColor(1,1,1,1);
+context.FillRect(imageBoundingBox);
+//context.ClearRect(iconBoundingBox);
+context.DrawImage(imageBoundingBox, image.CGImage);
+context.DrawImage(overlayBoundingBox,overlay.CGImage);
+UIImage result = UIImage.FromImage(context.ToImage());
+return result;
+}
+private CGBitmapContext createBitmapOfSize (SizeF size)
+{
+CGColorSpace colorspace;
+int bitmapBytesPerRow;
+bitmapBytesPerRow = (int)(size.Width * 4);
+colorspace = CGColorSpace.CreateDeviceRGB ();
+CGBitmapContext context = new CGBitmapContext (
+IntPtr.Zero,
+(int)size.Width,
+(int)size.Height,
+8,
+bitmapBytesPerRow,
+colorspace,
+CGImageAlphaInfo.PremultipliedLast
+);
+context.SetAllowsAntialiasing (false);
+return context;
+}
+}
+Tags: jisc, jiscri, progressposts, rapidinnovation, rtnotes, win Posted in Uncategorized |
+3 Comments »
+« Older Entries
+Search:
+PagesAbout
+Archives
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+Categories .net (4)
+enduser (4)
+fail (8)
+hardware (3)
+implementation (16)
+jisc (29)
+jiscri (32)
+methodology (1)
+osx (5)
+progressposts (14)
+projectevaluation (1)
+rapidinnovation (21)
+rtnotes (33)
+software (14)
+technicaldevelopment (15)
+Uncategorized (9)
+university (5)
+valueadd (3)
+win (19)
+xcode (4)
+Blogroll
+WordPress.com
+WordPress.org
+Meta
+Register Log in
+XFN
+WordPress
+Blog at WordPress.com.
+Entries (RSS) and Comments (RSS).
+Post to
+Cancel

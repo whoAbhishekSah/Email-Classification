@@ -1,0 +1,20 @@
+MERLIN project - Home
+MERLIN
+Metadata Enrichment for Repositories in a London Institutional Network
+Home
+About MERLIN
+Code pages
+Dissemination
+LASSO Repository
+Contacts
+MERLIN home
+The MERLIN (Metadata Enrichment for Repositories in a London Institutional Network) project will demonstrate and evaluate the use of off-the-shelf text mining and thesaurus tools to derive descriptive subject classification from repository deposits.
+The MERLIN partners are:
+UCL (University College London)
+The University of London Computing Centre
+The University of Nottingham
+The MERLIN partners work in association with NaCTeM, the UK's National Centre for Text Mining.
+The testbed for MERLIN will be the SHERPA-LEAP Consortium's LASSO aggregation service. MERLIN will aim to use terms extracted from texts stored in LASSO's source repositories to demonstrate automated enhancements to the discovery and navigability of the LASSO service. Towards the end of the project, a platform-neutral tool, allowing individual repositories to implement the MERLIN method of automated metadata enhancement, will be made generally available.
+MERLIN runs until 28 February 2011. For more information, see About MERLIN
+UCL - Gower Street - London - WC1E 6BT - Tel: +44 (0)20 7679 2000
+© MERLIN Project, 2009-2017

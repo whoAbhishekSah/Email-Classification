@@ -1,0 +1,324 @@
+Supporting data management by researchers across a large multi-disciplinary institution, the University of Southampton | JISC DataPool Project
+Home
+DataPool
+About the Blog
+Contacts
+JISC DataPool Project
+Supporting data management by researchers across a large multi-disciplinary institution, the University of Southampton
+May
+20
+2013
+Research data cataloguing at Southampton using Microsoft SharePoint and EPrints
+Steve Hitchcock
+Motivated by the JISC RDM Programme many UK research institutions are implementing research data repositories. A variety of repository platforms, from original solutions such as DataFlow at Oxford, as well as established digital repositories such as DSpace and EPrints, have been adopted. The University of Southampton is unusual in pursuing two repository options.
+DataPool has been developing a data cataloguing facility based on Microsoft SharePoint, which provides a number of IT services at the university, and on EPrints repository software. An earlier presentation considered the development of SharePoint and EPrints as emerging research data repositories in the context of high-level ‘architectural’ and practical ‘engineering’ challenges. A new report describes further progress along both repository routes, notably collaboration with the JISC Research Data @Essex project on ReCollect, a standards-based data deposit application for EPrints.
+The ReCollect plugin, or app, provides an EPrints repository with an expanded metadata profile for describing research data based on DataCite, INSPIRE and DDI standards. The metadata profile was designed by Research Data @Essex, and packaged as an EPrints app in collaboration with Patrick McSweeney at the University of Southampton. The resulting app first appeared on 27 March 2013 in the EPrints Bazaar, which advertises and distributes applications that can be installed in an EPrints repository with one click.
+The list of data types that can be deposited in EPrints was expanded to include Dataset and Experiment, to support the submission of research data, in 2007. Selection of a data type presents the depositor with a series of pages and fields that are designed to be appropriate for the description of that type. The order in which these pages and fields are presented defines the deposit ‘workflow’ for the data type, and is typically customised to specific repository implementations by institutions.
+If workflow for different data types is provided directly by EPrints, and can be customised to local repository needs, what is the need for an app that implements data deposit workflow? First, it can simplify and speed up customisation if the desired workflow can be implemented from an app. Second, and more importantly for research data workflow, it can lead to greater standards compliance, consistency and collaboration between repositories.
+Repositories can customise the data deposit workflow provided by ReCollect from the profile designed by Research Data @Essex without affecting standards compliance. The new report compares an example of customising the workflow for the ePrints Soton institutional repository with the ReCollect original.
+A community of potential users for ReCollect, including the EPrints repositories at Glasgow University and Leeds University, has been established through webinar-based conference calls.
+Further modifications to the Southampton workflow are likely, including the facility to automate minting and embedding of British Library DataCite DOIs, designed for data citation, for each data record.
+In the case of SharePoint, user interface forms for creating data records have been piloted and tested. The approach is distinctive in creating two linked forms, one to describe a project, the other to record a dataset, rather than a single workflow as in the case of EPrints. This development of SharePoint for description and storage of research data is part of a longer-term extension and integration of services provided on the platform at Southampton.
+So in the first instance research data cataloguing at Southampton uses EPrints, extending the existing institutional repository by installing the Essex ReCollect data app. The service went live on ePrints Soton in April 2013.
+What is needed now, however, is practice and experience with real data collections. In this respect many questions about the use of data repositories remain open. These early implementations are likely to change significantly as that process evolves.
+For more on this DataPool case study see the full report.
+Comments Off on Research data cataloguing at Southampton using Microsoft SharePoint and EPrints					  |  tags: data systems architecture, datapool, EPrints, jisc, jiscmrd, repositories, research data repositories, Sharepoint, user interfaces, workflow
+Mar
+28
+2013
+DataPool Steering Group, third meeting
+Steve Hitchcock
+There are moments for a project to be steered, and others when the results of steering come to the fore. This was the case for the third and final Steering Group meeting – at least in the context of DataPool if not of research data management at the University of Southampton – held on 12 March 2013. Another well attended meeting testified to the ongoing commitment to continue this work across the university beyond the end of the DataPool project, which completes its term of JISC funding at the end of March.
+As with other posts in this series on the project Steering Group meetings, we present a record of these meetings based on copies of documents made available to the group prior to the meeting, where possible.
+Collected documents for 3rd Steering Group meeting
+Agenda, Steering Group meeting, 12 March 2013
+Minutes of previous Steering Group meeting, 12 November 2012
+Progress Report by Wendy White, DataPool PI
+From the Introduction to the Progress Report: “We will take the opportunity with this final Steering Group update to highlight key areas of activity over the last period and illustrate themes for sustainability as we approach the mid-term of the 10 year roadmap (for research data at Southampton).
+“Almost all aspects of the project have required collaboration. This has been true of the development of policy, joint work to review storage and investment priorities, training design and delivery, research data management planning and support services and iterating technical developments.  To help support on-going collaboration in the next phase of the roadmap some of the responsibilities as PI of this project are now formally embedded in my role to continue to take initiatives forward and lead co-ordination of services. This reflects an institutional commitment to ensure that responsibility for research data management is reflected in a range of existing roles and not handled as adjunct activity.”
+Case study reports
+Case studies produced by DataPool were circulated prior to the meeting in draft or summary form. If linked here these will point to complete final versions. If not linked try the case studies tag for updates.
+JISC DataPool Imaging Case Study, Executive Summary
+Integrated Modelling of European Migration Database Case Study
+Collecting and archiving tweets: a DataPool case study
+Screenshot of Tweepository: jiscdatapool tweet collection, from the Collecting and archiving tweets case study
+Members of the steering group present at the meeting (University of Southampton unless otherwise indicated): Wendy White (Chair, DataPool PI and Head of Scholarly Communication), Philip Nelson (Pro-VC Research), Adam Wheeler (Provost and DVC), Mark Brown (University Librarian), Helen Snaith (National Oceanography Centre Southampton), Mylene Ployart (Associate Director, Research and Innovation Services), Sally Rumsey (Digital Collections Development Manager at The Bodleian Libraries, University of Oxford), Oz Parchment (iSolutions), Les Carr (Electronics and Computer Science), Simon Cox (Engineering Sciences), Jeremy Frey (Chemistry), Simon Coles (Chemistry, case presenter), Gareth Beale (Archaeology, case presenter) Dorothy Byatt, Steve Hitchcock (DataPool Project Managers). Joined by teleconference: Louise Corti (Associate Director, UK Data Archive). Apologies from: Graham Pryor (Associate Director, Digital Curation Centre).
+Comments Off on DataPool Steering Group, third meeting					  |  tags: datapool, jisc, jiscmrd, steering group
+Mar
+27
+2013
+Collecting and archiving tweets: a DataPool case study
+Steve Hitchcock
+Information presented to a user via Twitter is variously called a ‘stream’, that is, a constant flow of data passing the viewer or reader. Where the totality of information passing through Twitter at any moment is considered, the flow is often referred to as a ‘firehose’, in other words, a gushing torrent of information. Blink and you’ve missed it. But does this information have only momentary value or relevance? Is there additional value in collecting, storing and preserving these data?
+A short report from the DataPool Project describes a small case study in archiving collected tweets by, and about, DataPool. It explains the constraints imposed by Twitter on the use of such collections, describes how a service for collections evolved within these constraints, and illustrates the practical issues and choices that resulted in an archived collection.
+An EPrints application called Tweepository collects and presents tweets based on a user’s specified search term over a specified period of time (Figure 1). DataPool and researchers associated with the project were among early users of Tweepository using the app installed on a test repository. Collections were based on the project’s Twitter user name, other user names, and selected hashtags, from conferences or other events.
+Figure 1. Creating and editing a record for a Tweepository collection based on search terms
+A dedicated institutional Tweepository was launched at the University of Southampton in late 2012. A packager tool enabled the ongoing test collections to be transferred to the supported Southampton Tweepository without a known break in service or collection.
+For completeness as an exemplar data case study, given that institutional services such as Tweepository are as yet unavailable elsewhere, tweet collections were archived towards the end of the DataPool Project in March 2013. We used the provided export functions to create a packaged version of selected, completed collections for transfer to another repository at the university, ePrints Soton.
+Attached to our archived tweet collections in ePrints Soton (see Figure 2) are:
+Reviewable PDF of the original Tweepository Web view (with some “tweets not shown…”)
+Reviewable PDF of complete tweet collection without data analysis, from HTML export format
+JSON Tweetstream* saved using the provided export tool
+Zip file* from the Packager tool
+* reviewable only by the creator of the record or a repository administrator
+Figure 2. File-level management in ePrints Soton, showing the series of files archived from Tweepository and Twitter
+We have since added the zip archive of the Project’s Twitter account, downloaded directly from Twitter, spanning the whole period from opening the account in November 2011. This service only applies to the archive of a registered Twitter user, not the general search collections possible with Tweepository.
+What value the data in these collections and archival versions will prove to have will be measured through reuse by other researchers, and remains an open question, as it does for most research data entering the nascent services at institutions such as the University of Southampton.
+Archiving tweets is a first step; realising the value of the data is a whole new challenge.
+For more on this DataPool case study see the full report.
+2 comments					  |  tags: case studies, datapool, jisc, jiscmrd, tweepository, Twitter archiving
+Mar
+25
+2013
+Institutional alignments for progressing research data management
+Steve Hitchcock
+Can visualisation of alignments – of people and ideas across an institution – reveal and predict progress towards research data management (RDM)?
+DataPool has been seeking to institute formal RDM practices at the University of Southampton on three fronts – policy, technical infrastructure, and training – as we have noted before. In addition, the university has a longer-term roadmap looking years beyond the point reached in DataPool.
+One aspect of this work we haven’t addressed is the alignments that have been instrumental in making progress on these three fronts. It follows that if we can visualise these alignments then not only does this chart progress but it may reveal new alignments that need to be forged looking forward, and where there may be gaps in existing alignments there could be lessons for future progress. Since in terms of these alignments the University of Southampton may be distinctive but not unique, this analysis might extend to other institutional RDM projects. That is the idea, at least, behind the latest DataPool poster presentation, shown below, prepared for the final JISC MRD Programme Workshop (25-26 March 2013, Aston Business School, Birmingham).
+Within DataPool we have established formal and informal networks of people that connect with and cross existing institutional forums. For example, the project has close and regular contact with an advisory group of disciplinary experts, has established a network of faculty contacts, has been working with the multidisciplinary strands of the University Strategic Research Groups (USRGs), and with senior managers and teams in IT support (iSolutions) and Research and Innovation Services (RIS). At the apex, we have a high-level steering group that spans all of these areas with in addition senior institutional managers (Provost, Pro-VC) as well leaders from external data management organisations. A series of case studies provide insights into the current data practices and needs of those researchers who are data creators and users.
+Returning to the three fronts of our investigations, we have reached either natural and expected conclusions ready to be taken forward beyond DataPool, or in some cases incomplete and possibly unexpected conclusions. Below we reveal and assess the alignments that have driven progress on these three fronts:
+Policy. Approved by Senate, the University’s ‘primary academic authority’, following recommendations from the Research and Enterprise Advisory Group (REAG), and officially published within the University Calendar. This alignment did not happen by chance, but began to be formed by the library team through the IDMB project and was taken forward within DataPool. Supporting documentation and guidance for the policy is provided on the University Library web site. The policy is effective from publication, but with a ‘low-profile’ launch and follow-up it has by design not had widespread impact on researchers to date.
+Data infrastructure. Research data apps for EPrints repositories, with selected apps installed on ePrints Soton, the institutional repository, which is now better structured for data deposit. Progress made with initial interfaces in Sharepoint, the university’s multi-service IT support platform, to describe data projects and facilitate data deposit; some user testing, but currently remains incomplete. On storage infrastructure it has not been possible to cost extensions to the existing institutional storage provision, a limitation in extending data services to large and regular data producers, who by definition are the most active data researchers. One late development has been to embed support for minting and embedding DataCite DOIs for data citation in data repositories at Southampton.
+Training and support. Principally extended towards PhD and early career researchers, and in-service support teams in the library. Plans to embed RDM training within the university’s extended support operations across all training areas, Gradbook and Staffbook. One highlight in this area is the uptake of support for data management planning (DMP), particularly at the stage of submitting research project proposals for funding.
+In these examples we can see alignments spanning governance-IT-services-users.
+From the brief descriptions of these fronts it can be seen that the existing alignments have brought us forward, but to go further we have to return to those alignments and reinforce the actions taken so far: to widen awareness, impact and uptake of policy; to provide adequate and usable RDM infrastructure for data producers; to develop and integrate training support within the primary delivery channels.
+Almost all of these outcomes and the need for more follow-through can be traced to the alignments. However, the elusive element common across these alignments is the researcher and data producer, despite being a perennial target. Data initiatives, whether from institutions or wider bodies such as research funders, start out with the researcher in mind, but can lose momentum if the researcher appears not to engage. That may be because the benefits identified do not align with the interests of the researcher, or it may be because at a practical level the support and resources provided are insufficient. Thus the extended alignments required for full RDM do not materialise. Worse, the existing alignments can be prematurely discouraged, lack incentives and confidence to promote the real innovation they have delivered, in turn affecting investment decisions and service development.
+Where the researcher is engaged the results can be quite different, as seen in the DataCite example, motivated and developed by researchers, and in DMP uptake, where researchers clearly begin to recognise both the emergence of good practice in digital data research and the need for compliance with emerging policy.
+These alignments are a crucial but largely unnoticed aspect of DataPool, and no doubt of other similar #jiscmrd projects at other institutions as well. If this analysis is correct then for institutional-scale projects alignments can both reveal and predict progress.
+Comments Off on Institutional alignments for progressing research data management					  |  tags: datapool, institutional alignments, jisc, jiscmrd, policy, presentations, steering group, training
+Mar
+21
+2013
+Cost-benefit analysis: experience of Southampton research data producers
+Steve Hitchcock
+When businesses seek to invest in new development they typically perform a cost-benefit analysis as one measure in the decison-making process. In contrast, it is in the nature of academic research that while the costs may be calculable the benefits may be less definable, at least at the outset. When we consider the management of data and outputs emerging from research, particularly in an institutional context such as DataPool at the University of Southampton, we reach a point where the need for cost-benefit analysis once again becomes more acute. In other words, investment on this scale has to be justified.
+Ahead of the scaling up of these services institutionally we have enquired about experience of cost-benefits among some of the large research data producers at Southampton, which are likely to be among the earliest and most extensive users of data management services provided institutionally. In addition we have some pointers from a cross-disciplinary survey of imaging and 3D data producers at Southampton, commissioned by DataPool.
+Broadly, we have found elaboration of costs and benefits among these producers, but not necessarily together. It has to be recognised that any switch from data management services currently used by these projects to an institutional service is likely to be cost-driven, i.e. can an institution lower the costs of data management and curation?
+KRDS benefits triangle
+eCrystals
+First we note that for cost-benefits of curation and preservation of research data a formal methodology has been elaborated and tested: Keeping Research Data Safe (KRDS). This method has been used by one of the data producers consulted here, eCrystals, a data repository managed at Southampton for the National Crystallography Service, which participated in the JISC KRDS projects (Beagrie, et al.):
+“This benefits case study on research data preservation was developed from longitudinal cost information held at the Department of Chemistry in Southampton and their experience of data creation costs, preservation and data loss profiled in KRDS”
+This case study concludes with a table of great clarity, Stakeholder Benefits in three dimensions, based on the benefits triangle, comparing:
+Direct Benefits vs Indirect Benefits (Costs Avoided)
+Near Term Benefits vs Long-Term Benefits
+Private Benefits vs Public Benefits
+Beagrie, N., Lavoie, B., and Woollard, M. (2010) Benefits Case Study 1: National Crystallographic Data Service, University of Southampton. In Keeping Research Data Safe 2, Final Report, April 2010, 64-68
+μ-VIS Imaging Centre
+The μ-VIS Imaging Centre at the University of Southampton has calculated its rate of data production as (Boardman, et al.):
+up to 2 TB/day (robotic operation) – 20 GB projections+30 GB reconstruction=50GB in as little as 10-15 minutes
+As this data generation and storage facility has grown it has been offered as a service beyond the centre, both within and outside the university. The current mix of users is tentatively estimated at
+“10-20% commercial, 10-20% external academic (including collaborative work) and 60-70% internal research.”
+This mix of users is relevant as, broadly, users will have a range of data storage centres to choose from. Institutional research data policy at Southampton does not require that data is deposited within Southampton-based services, simply that there is a public record of all research data produced and where it is stored, and a requirement that the services used are ‘durable’ and accessible on demand by other researchers, the latter being a requirement of research funders in the UK. We can envisage, therefore, a series of competitive service providers for research data, from institutions to disciplinary archives, archival organisations, publishers and cloud storage services.
+The need to be competitive is real for the μ-VIS service:
+“After we went through costings for everything from tape storage through to cloud silos, we noticed that we pretty much can’t use anything exotic without increasing cost, and introducing a new cost for the majority of users would generally reduce the attractiveness of the service.”
+Although the emphasis here is on cost, implicitly there is a simple cost-benefit analysis underlying this statement, with possible benefits being traded for lower cost. These tradeoffs can be seen more starkly in the cost-reliablity figures (Boardman, et al.):
+One copy on one hard disk: ~10-20% chance of data loss over 5 years – Approximate cost in 2012: ~$10/TB/year
+Two copies on two separate disks: ~1-4% chance of data loss over 5 years – Approximate cost in 2012: ~$20/TB/year
+“Enterprise” class storage (e.g. NetApp): <1% chance of data loss over 5 years – Approximate cost in 2012: ~$500/TB/year
+Cloud storage. Provides a scalable and reliable option to store data, e.g. Amazon S3 – ‘11 nines’ reliability levels. Typical pricing around $1200/TB/year; additional charges for uploading and downloading
+Richard Boardman, Ian Sinclair, Simon Cox, Philippa Reed, Kenji Takeda, Jeremy Frey and Graeme Earl, Storage and sharing of large 3D imaging datasets, International Conference on 3D Materials Science (3DMS), Seven Springs, PA, USA, July 2012
+3D rendering of fatigue damage (from muvis collection)
+Imaging and 3D data case study
+Image data, including data on three-dimensional objects, are a data type that will be produced across all disciplines of a university. A forthcoming imaging case study report from DataPool (when available will be tagged here) surveys producers of such data at the University of Southampton to examine availability and use of facilities, support and data management. Although this study did not examine cost-benefits specifically, it overlaps with, and reinforces, findings from some of the data producers reported here. Gareth Beale, one of the authors of the study, highlights efficiency gains attributed to accountability, collaboration and sharing, statistical monitoring and planning.
+“Research groups with an external client base seem to be much better at managing research data than those which do not perceive this link. This is, we might assume, because of a direct accountability to clients. These groups claimed considerable efficiency savings as a result of improved RDM.
+“Equipment sharing between different research groups led to ‘higher level’ collaborations and the sharing of data/resources/teaching. An enhanced researcher and student experience, driven by more efficient use of resources.
+“Finally, one group used well archived metadata collected from equipment to monitor use. This allowed them to plan investments in servicing, spare parts and most importantly storage. Estimated archive growth based on these statistics was extremely accurate and allowed for more efficient financial planning.”
+Open data
+Research data and open data have much in common but are not identical. With research data the funders are increasingly driving towards a presumption of openness, that is, visible to other researchers. While openness is inherent to open data, it goes further in prescribing the data is provided in a format in which it can be mixed and mined by data processing tools.
+The Open Data Service at Southampton has pioneered the use of linked open data connecting administrative data and data of all kinds “which isn’t in any way confidential which is of use to our members, visitors, and the public. If we make the data available in a structured way with a license which allows reuse then our members, or anyone else, can build tools on top of it”
+While the cost-benefit analysis of data, whether research data or open data, may be similar, there are additional benefits when data is open in this way:
+getting more value out of information you already have
+making the data more visible means people spot (and correct) errors
+helping diverse parts of the organisation use the same codes for things (buildings, research groups)
+Linked open data map of University of Southampton’s Highfield campus, from the Open Data Service
+Conclusion
+The allocation of direct and indirect costs within organisations will often drive actions and decisions in both anticipated but also unforeseen ways. There is ongoing debate about whether the costs of institutional research data management infrastructure should be supported by direct subvention from institutional funds, i.e. an institutional cost, or from project overheads supported by research funders, i.e. a research cost.
+Although we do not yet see a single approach to cost-benefits among these data producers, if the result of the debate is to produce intended rather than unforeseen outcomes, it will be necessary to look beyond a purely cost-based analysis to invoke more formal cost-benefit analysis.
+I am grateful to Gareth Beale, Richard Boardman, Simon Coles, Chris Gutteridge and Hembo Pagi for their input into this short report.
+1 comment					  |  tags: benefits, case studies, cost-benefits, datapool, Imaging, jisc, jiscmrd
+Mar
+4
+2013
+Confused about data management? Hands up
+Gareth Beale
+Data management can be a daunting subject
+I will always remember sitting in my chemistry lesson trying in vain to balance an equation and our teacher looking me in the eye and telling me that if I wasn’t sure then I should put up my hand. I can still hear his encouraging words; “If you are confused then you can bet that most other people are too, so don’t be embarrassed”. This traumatic moment in my life came back to me recently when I was talking to a colleague about the management of our research data. I will explain…
+As part of the DataPool project myself and Hembo Pagi have been talking to users of 3D and 2D imaging data. We were interested in finding out how this community were adapting to growing data sets and increasing demands to make these data available. We both produce vast amounts of imaging data as part of our work in archaeology and we were very interested in knowing what kinds of data management strategies other people were using. “We have our own ways of coping but surely other people have got these problems sorted?” we said to ourselves.
+Four months later and we are just beginning to uncover answers to this question. As we went around the University talking to physicists, artists, archaeologists, geographers, oceanographers and many others we discovered that there were as many answers as there were researchers.
+All of us have different requirements because we work in different areas, use different data, have different outputs and have different resources available to us. We found that not only were people responding to the challenges of data management with amazing creativity and resourcefulness, they were all doing so in unique ways. The range of creative responses which we have encountered paints a picture of a research community that is eager to deal with the challenges and opportunities of data management.
+However, like us, very few of these researchers were aware of the approaches adopted by others. Innovative and highly developed data
+management strategies are frequently used by a small group of researchers but are unknown to the wider research community. The key to making data management work is to devise an institutional approach which reflects the needs of the users. If we are going to design infrastructure and support mechanisms which work then they must be designed in response to real challenges and real research scenarios.
+Hands Up if you want to join in.
+Which finally brings us back to that hot chemistry lab in the early 1990s. If we have problems with data management and we don’t know how to solve them then we need to put our hand up and ask. Our conversations with researchers have clearly shown that we are all facing similar challenges. Conversely, if we have ideas which might help others (and nearly all of you do) then we need to share them. Our report will suggest that improved communication should lie at the heart of the way in which the University plans for institutional data management. As systems which might facilitate these conversations are developed it is important that the considerations of researchers are taken into account.
+Help with data managment can currently be sought from a number of sources including the Library, Library Digitisation Unit and the Software Sustainability Institute, which are all based here at Southampton. But in addition to this it is important that we talk to each other. If you have a problem relating to the management of data then you can be sure that somebody, somewhere in the University has been there before and can help you to solve it.
+If you would like to contribute to the development of a forum of this type, have ideas about what form it might take or you just have questions about data management and don’t know where to look then please get in touch. You can email specialists in data management at the library at data@soton.ac.uk. For more information about the DataPool Project go to datapool.soton.ac.uk, or if you have comments or ideas then email me at gareth[dot]beale[at]soton[dot]ac[dot]uk.
+Comments Off on Confused about data management? Hands up
+Feb
+25
+2013
+Mapping RDM requirements for the next stage of data repositories
+Steve Hitchcock
+DataPool and the University of Southampton have been investigating the use of EPrints and Sharepoint to extend the capabilities of repositories for research data management (RDM). Others, notably the Universities of Lincoln and Bristol, have been looking at CKAN, a data portal platform from the Open Knowledge Foundation, and were responsible with JISC for a ‘sold out’ meeting on CKAN for Research Data Management in an Academic Setting (18 February 2013).
+The principal output of the meeting is a set of CKAN RDM requirements (a Google Doc spreadsheet), produced by workgroups in which all participants at the meeting were involved, based around different stakeholder positions. Delete the term ‘CKAN’ from the title of this spreadsheet and you have a series of RDM requirements that define the space in which all repository platforms seeking to support RDM will be challenged to engage. In other words, while adapting deposit workflow is a start, it is not sufficient. Dropbox – the elephant in the room that went unmentioned, for at least an hour into the meeting – stands as the model that illustrates some of these challenges, but there are now many more requirements set out from this workshop.
+At Lincoln, Joss Winn explained, they have an EPrints publications repository and are developing a CKAN data approach to “create a record of CKAN data in EPrints, thereby joining research outputs with research data” through a SWORD2 implementation.
+Is this a path to get rid of EPrints at Lincoln, to accommodate CKAN? No, Joss said, quite definitely, but then effectively questioned his own answer: if starting now, would we start from here, i.e. a combination of two software platforms? The implication is that over time, possibly years, the definite answer could change. The challenge is on.
+Addendum For more detail on proceedings at the workshop see Patrick McCann’s report for DCC, and a view from a presenter, Simon Price of data.bris.
+2 comments					  |  tags: CKAN, datapool, EPrints, jisc, jiscmrd, research data repositories
+Feb
+6
+2013
+Love research data management: training event 14 February
+Steve Hitchcock
+Developing DataPool’s declared approach to student training for research data management at the University of Southampton, notably for PhD and Early Career Researchers, an introductory session aimed at students in the WebScience Doctoral Training Centre (DTC) will be held on Thursday 14th February. The following notice for this event, with joining information, has been issued by the DTC office.
+Research Data – To Infinity and beyond … : Managing your research data for the future
+Does your research data have life beyond your current project? Are there things that you can do now to make it easier to store, archive and share your data for future re-use?
+Come along on Thursday 14 February at 13.00-14.00 to Rm 3073, building 32 where we will be raising awareness of “good practice” principles in the management of research data that will help enable future sharing.
+The session will include a talk from Mark Scott, PhD Researcher Faculty of Engineering and the Environment, who produced the “Introducing Research Data” guide, and Dorothy Byatt, co-Project Manager, DataPool project plus Patrick McSweeney demonstrating the ‘hot-off-the-press’ ePrints Research Data App.  There will be opportunity for discussion and questions, during and after the event.
+Lunch provided – RSVP Claire Wyatt by 12 February 2013. Please accept this invitation to reserve a place at this seminar.
+Hashtag #webscirdm
+Comments Off on Love research data management: training event 14 February					  |  tags: datapool, jisc, jiscmrd, training
+Jan
+29
+2013
+DataPool expands on student RDM training approaches at IDCC13, Amsterdam
+Steve Hitchcock
+Two presentations from the University of Southampton at the 8th International Digital Curation Conference (#IDCC13) set out its approach to providing training for research data management for postgraduates. Taking a broad approach, DataPool gave a poster on working with PhD and Early Career Researchers, described as featuring “examples of essential building blocks coming out of researcher-focussed work”. In the main conference a team from the Faculty of Engineering and the Environment presented a paper jointly with DataPool on a booklet “Introducing Research Data” they have produced, and included some startling findings from initial training sessions with students. Below Mark Scott from that team introduces the booklet, and we reproduce the live Twitter record of the presentation, which highlights the main points from the talk identified by the Twitter reporters, particularly those findings on student responses.
+Introducing Research Data booklet – cover sheet
+We recently presented some of our postgraduate training material at the IDCC conference in Amsterdam. With so much data out there, and much of today’s research relying on large scale data sets, it is important to educate researchers about their data – and its value – early.
+Our approach was two-fold: a lecture to introduce research data management to first year postgraduates, and a booklet introducing the area. The talk concentrated mainly on the booklet we produced.
+The booklet had three sections: an introduction to types of research data, some case studies showing real-world examples of the types of data in use, and some best practices. For the case studies, we looked at five researchers’ work from medicine, materials engineering, aerodynamics, chemistry, and archaeology, and tried to show the similarities and differences between the data types they produce using the categories from the first section.
+The concepts in the booklet have been presented twice as a training lecture in the Faculty of Engineering and the Environment, and the material has also been used in the WebScience Doctoral Training Centre. The feedback from students suggest that being made to think about these issues is necessary and useful, and engaging them at this stage helps cultivate good practices.
+Mark Scott
+Mark Scott et al, #idcc13 slide 13, Feedback From Lectures
+Below is the Twitter record of Mark’s talk on 16 January 2013, from #idcc13, in the chronological sequence of posting.
+Meik Poschen ‏@MeikPoschen Next up is Mark Scott, University of Southampton on ‘Research Data Management Education for Future Curators’ #idcc13
+Marieke Guy ‏@mariekeguy #idcc13 Mark Scott from Uni of Southampton – post graduate training, created a magazine style booklet for all first year students
+Archive Training ‏@archivetraining Southampton University give magazine style RDM booklet to 1st year PG students. #IDCC13
+@MeikPoschen Booklet to introduce RD to first year students with 3 sections: 1) five ways to think about RD, 2) case studies, 3) DM best practice#idcc13
+Jez Cope @jezcope Good, thorough description of the Southampton approach to RDM education from Mark Scott. #idcc13
+‏@mariekeguy #idcc13 Uni of Southampton – 5 ways to think about data: creation, forms of research, electronic rep, size/structure, data lifcycle
+Gail Steinhart ‏@gailst Southampton’s RDM guide for first year post-graduate students: http://ow.ly/1RbLND  (PDF) #idcc13
+Full link added: http://eprints.soton.ac.uk/338816/1.hasCoversheetVersion/studentdata.pdf
+@jezcope I want to see Southampton’s RDM booklet, which includes ways to think about data, case studies and best practices. #idcc13
+SMacdee ‏@SMacdee #idcc13 – mark scott (U of Soton) RDM education booklet for Postgrads: 5 ways to think about research data; case studies; best practices
+‏@MeikPoschen Booklet: 2) case studies giving an overview on various disciplinary examples, covering Genetics, Materials Engineering, Archaeology#idcc13
+Mariette van Selm ‏@mvanselm +1 RT @jezcope: I want to see Southampton’s RDM booklet, which includes ways to think about data, case studies and best practices.#idcc13
+Odile Hologne ‏@Holo_08 Five Ways to Think About Research Data http://bit.ly/XDahjb  Mark Scott course for students #idcc13
+Corrected link: http://eprints.soton.ac.uk/338816/2/StudentDataIntroduction.pptx
+@mvanselm Mark Scott (Uni of Southampton) on RDM education: “When you start scaring students, they start paying attention” #idcc13 🙂
+@mariekeguy #idcc13 Southampton noted that students happier with RDM lecture when delivered later in year – had real data experience at that stage
+‏@jezcope Feedback for Soton’s RDM lecture was better when it was delivered later in the year. PGRs need to have some data experience first?#idcc13
+@archivetraining Southampton’s feedback: RDM lecture was more positive when given in month 7 – when data collection was underway. The power of fear! #IDCC13
+@MeikPoschen Booklet now part of University of Southampton’s wider (10 year) training etc. scheme #idcc13
+@archivetraining Lots of RDM guides for lots of different audiences being shown-off at#IDCC13. Here’s ours [in German – English coming] http://bit.ly/TqDrTJ
+For a view of wider coverage and activities with a research data training theme at #IDCC13, we return to our colleagues at @archivetraining:
+“The impression I took from this bundle of presentations (mostly funded by the excellent JISC Managing Research Data programme) was that projects doing data management training or support have to effectively design a campaign strategy, as one would for an election. Digital curation is akin to a valence issue – we all like sharable, long-term secure data – but how we get there needs to be thought about.” More
+Or for more views on #IDCC13 as a whole, see this collection of post-conference blog posts.
+Comments Off on DataPool expands on student RDM training approaches at IDCC13, Amsterdam					  |  tags: datapool, IDCC13, jisc, jiscmrd, presentations, training
+Jan
+28
+2013
+Positive Poster’ing for IDCC 2013
+Dorothy Byatt
+Creating the poster for the International Digital Curation Conference  (#IDCC13) was different to the ones we have done thus far. Although very much linked to the DataPool project, the choice of the content was only restricted to being of interest to the theme of the conference – “Infrastructure, Intelligence, Innovation: driving the Data Science agenda”. Our choice was to focus on our collaborative work by PhD and Early Career Researchers, that is, helping to embed and enable good research data management practices in the institution.
+Gareth Beale and Hembo Pagi have been investigating 3D and 2D raster imaging being used in the University. We look forward to their report. A group of researchers came to a working lunch, led by iSolutions and the DataPool team, to look at progress on a SharePoint data deposit option and provided valuable feedback. Another development that will be of great assistance to those looking to capture a snapshot of life and society is that of a twitter archiver using ePrints currently in beta development. One snapshot will be of #IDCC13 tweets. Yet another collaboration was with Mark Scott on his work on his ‘Introducing research data’ guide and on a data sharing system for the Heterogeneous Data Cente (HDC). More details of his work and paper he presented will follow in our linked second IDCC blog. So there was our content, examples of essential building blocks coming out of researcher-focussed work.
+And that just left the design …!
+Comments Off on Positive Poster’ing for IDCC 2013					  |  tags: datapool, IDCC13, images, jisc, jiscmrd, presentations, training
+« Older Entries
+Tags3D data
+benefits
+business case
+CAA2012
+case studies
+curation
+data citation
+datacite
+DataFlow
+data management plans
+datapool
+data systems
+data systems architecture
+DMPs
+eCrystals
+engagement
+EPrints
+ethics
+IDCC13
+IDMB
+images
+infrastructure
+JIBS
+jisc
+jiscmrd
+LabTrove
+libraries
+metrics
+open access
+open access repositories
+policy
+policy guidance
+presentations
+project management
+repositories
+research data
+research data repositories
+rights
+RLUK
+roadmap
+Sharepoint
+steering group
+training
+user interfaces
+workflow
+Recent CommentsJisc MRD programme 2011-13: Outputs and Approaches : JISC MRD: Evidence Gathering on DataPoolJisc MRD programme 2011-13: Outputs and Approaches : JISC MRD: Evidence Gathering on About the BlogData Loss in the DDUD » University of Hertfordshire - Research Data Toolkit on Cost-benefit analysis: experience of Southampton research data producersSteve Hitchcock on Collecting and archiving tweets: a DataPool case studySteve Hitchcock on Collecting and archiving tweets: a DataPool case study
+Recent Posts
+Research data cataloguing at Southampton using Microsoft SharePoint and EPrints
+DataPool Steering Group, third meeting
+Collecting and archiving tweets: a DataPool case study
+Institutional alignments for progressing research data management
+Cost-benefit analysis: experience of Southampton research data producers
+Posts by month Posts by month
+Select Month
+May 2013  (1)
+March 2013  (5)
+February 2013  (2)
+January 2013  (3)
+December 2012  (5)
+November 2012  (1)
+October 2012  (2)
+September 2012  (1)
+August 2012  (1)
+July 2012  (2)
+May 2012  (3)
+March 2012  (3)
+February 2012  (1)
+December 2011  (2)
+February 2017
+M
+T
+W
+T
+F
+S
+S
+« May
+12345
+6789101112
+13141516171819
+20212223242526
+2728
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+JISC DataPool Project Supporting data management by researchers across the University of Southampton. The image above shows the entrance to the university's Hartley Library, which is hosting the project.
+Twitter: @jiscdatapool
+DataPool on Slideshare
+Research Data Management Policy at Southampton
+Implementing policy: guidance on Research Data Management
+DataPool runs from October 2011 to March 2013 within the JISC Managing Research Data Programme 2011-13
+Subscribe RSS
+CC-BY 2011-
+JISC DataPool Project
+WordPress Theme by Michael Tyson.

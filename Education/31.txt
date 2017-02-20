@@ -1,0 +1,209 @@
+Credit crunch - Wikipedia
+Credit crunch
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+For information about the current credit crisis, see 2007–2012 global financial crisis. For the credit crunch used in closing credits, see Closing credits § Marginalization for television promotion.
+A credit crunch (also known as a credit squeeze or credit crisis) is a sudden reduction in the general availability of loans (or credit) or a sudden tightening of the conditions required to obtain a loan from banks.[1] A credit crunch generally involves a reduction in the availability of credit independent of a rise in official interest rates. In such situations, the relationship between credit availability and interest rates has implicitly changed, such that either credit becomes less available at any given official interest rate, or there ceases to be a clear relationship between interest rates and credit availability (i.e. credit rationing occurs). Many times, a credit crunch is accompanied by a flight to quality by lenders and investors, as they seek less risky investments (often at the expense of small to medium size enterprises).[2]
+Contents
+1 Causes
+1.1 Easy credit conditions
+1.2 Bubble formation
+1.3 Psychological
+1.4 Valuation of securities
+2 Effects
+3 Historical perspective
+4 See also
+5 Bibliography
+6 References
+Causes[edit]
+U.S. household debt relative to disposable income and GDP.
+A credit crunch is often caused by a sustained period of careless and inappropriate lending which results in losses for lending institutions and investors in debt when the loans turn sour and the full extent of bad debts becomes known.[3][4] Some research suggests careless lending tends to occur more often in fragmented, competitive credit markets in which lenders may compete with one another for market share and revenue by relaxing standards.[5]
+There are a number of reasons why banks might suddenly stop or slow lending activity. For example, inadequate information about the financial condition of borrowers can lead to a boom in lending when financial institutions overestimate creditworthiness, while the sudden revelation of information suggesting that borrowers are or were less creditworthy can lead to a sudden contraction of credit.[6] Other causes can include an anticipated decline in the value of the collateral used by the banks to secure the loans; an exogenous change in monetary conditions (for example, where the central bank suddenly and unexpectedly raises reserve requirements or imposes new regulatory constraints on lending); the central government imposing direct credit controls on the banking system; or even an increased perception of risk regarding the solvency of other banks within the banking system.[2][7][8]
+Easy credit conditions[edit]
+Easy credit conditions (sometimes referred to as "easy money" or "loose credit") are characterized by low interest rates for borrowers and relaxed lending practices by bankers, making it easy to get inexpensive loans. A credit crunch is the opposite, in which interest rates rise and lending practices tighten. Easy credit conditions mean that funds are readily available to borrowers, which results in asset prices rising if the loaned funds are used to buy assets in a particular market, such as real estate or stocks.
+Bubble formation[edit]
+U.S. house price trend (1998–2008) as measured by the Case-Shiller index. Housing prices nearly doubled, rising from 100 to nearly 200 on the index, between 2000 and 2006.
+In a credit bubble, lending standards become less stringent. Easy credit drives up prices within a class of assets, usually real estate or equities. These increased asset values then become the collateral for further borrowing.[9] During the upward phase in the credit cycle, asset prices may experience bouts of frenzied competitive, leveraged bidding, inducing inflation in a particular asset market. This can then cause a speculative price "bubble" to develop. As this upswing in new debt creation also increases the money supply and stimulates economic activity, this also tends to temporarily raise economic growth and employment.[10][11]
+Economist Hyman Minsky described the types of borrowing and lending that contribute to a bubble. The "hedge borrower" can make debt payments (covering interest and principal) from current cash flows from investments. This borrower is not taking significant risk. However, the next type, the "speculative borrower", the cash flow from investments can service the debt, i.e., cover the interest due, but the borrower must regularly roll over, or re-borrow, the principal. The "Ponzi borrower" (named for Charles Ponzi, see also Ponzi scheme) borrows based on the belief that the appreciation of the value of the asset will be sufficient to refinance the debt but could not make sufficient payments on interest or principal with the cash flow from investments; only the appreciating asset value can keep the Ponzi borrower afloat.[12]
+Often it is only in retrospect that participants in an economic bubble realize that the point of collapse was obvious. In this respect, economic bubbles can have dynamic characteristics not unlike Ponzi schemes or Pyramid schemes.[13]
+Psychological[edit]
+Several psychological factors contribute to bubbles and related busts.
+Social herding refers to following the behavior of others, assuming they understand what is happening.[9] As John Maynard Keynes observed in 1931 during the Great Depression: "A sound banker, alas, is not one who foresees danger and avoids it, but one who, when he is ruined, is ruined in a conventional way along with his fellows, so that no one can really blame him."[14]
+People may assume that unusually favorable trends (e.g., exceptionally low interest rates and prolonged asset price increases) will continue indefinitely.
+Incentives may also encourage risky behavior, particularly where the negative consequences if a bet goes sour are shared collectively. The tendency of government to bail out financial institutions that get into trouble (e.g., Long-term Capital Management and the subprime mortgage crisis), provide examples of such moral hazard.
+People may assume that "this time is different", which psychologist Daniel Kahneman refers to as the inside view, as opposed to the outside view, which is based on historical or better objective information.
+These and other cognitive biases that impair judgment can contribute to credit bubbles and crunches.[9]
+Valuation of securities[edit]
+The crunch is generally caused by a reduction in the market prices of previously "overinflated" assets and refers to the financial crisis that results from the price collapse.[15] This can result in widespread foreclosure or bankruptcy for those who came in late to the market, as the prices of previously inflated assets generally drop precipitously. In contrast, a liquidity crisis is triggered when an otherwise sound business finds itself temporarily incapable of accessing the bridge finance it needs to expand its business or smooth its cash flow payments. In this case, accessing additional credit lines and "trading through" the crisis can allow the business to navigate its way through the problem and ensure its continued solvency and viability. It is often difficult to know, in the midst of a crisis, whether distressed businesses are experiencing a crisis of solvency or a temporary liquidity crisis.
+In the case of a credit crunch, it may be preferable to "mark to market" - and if necessary, sell or go into liquidation if the capital of the business affected is insufficient to survive the post-boom phase of the credit cycle. In the case of a liquidity crisis on the other hand, it may be preferable to attempt to access additional lines of credit, as opportunities for growth may exist once the liquidity crisis is overcome.
+Effects[edit]
+Securitization markets were impaired during the crisis. This shows how readily available credit dried-up during the 2007-2008 crisis.
+Financial institutions facing losses may then reduce the availability of credit, and increase the cost of accessing credit by raising interest rates. In some cases lenders may be unable to lend further, even if they wish, as a result of earlier losses. If participants themselves are highly leveraged (i.e., carrying a high debt burden) the damage done when the bubble bursts is more severe, causing recession or depression. Financial institutions may fail, economic growth may slow, unemployment may rise, and social unrest may increase. For example, the ratio of household debt to after-tax income rose from 60% in 1984 to 130% by 2007, contributing to (and worsening) the Subprime mortgage crisis of 2007-2008.[9]
+Historical perspective[edit]
+In recent decades credit crunches have not been rare or black swan events. Although few economists have successfully predicted credit crunch events before they have occurred, Professor Richard Rumelt has written the following in relation to their surprising frequency and regularity in advanced economies around the world: "In fact, during the past fifty years there have been 28 severe house-price boom-bust cycles and 28 credit crunches in 21 advanced Organization for Economic Co-operation and Development (OECD) economies."[9][16]
+See also[edit]
+Austrian business cycle theory
+Debt deflation
+Environmental credit crunch
+Financial crisis
+Minsky moment
+Liquidity crisis
+Bibliography[edit]
+George Cooper, The Origin of Financial Crises (2008: London, Harriman House) ISBN 1-905641-85-0
+Graham Turner, The Credit Crunch: Housing Bubbles, Globalisation and the Worldwide Economic Crisis (2008: London, Pluto Press), ISBN 978-0-7453-2810-2
+References[edit]
+^ "Credit Crunch Definition". Investopedia.
+^ a b Is There A Credit Crunch in East Asia? Wei Ding, Ilker Domac & Giovanni Ferri (World Bank)
+^ Has Financial Development Made the World Riskier?, Raghuram G. Rajan
+^ Leverage Cycles Mark Thoma, Economist's View
+^ Michael Simkovic, "Competition and Crisis in Mortgage Securitization"
+^ Michael Simkovic, "Secret Liens and the Financial Crisis of 2008", American Bankruptcy Law Journal 2009
+^ China lifts reserve requirement for banks
+^ Regulatory Debauchery, Satyajit Das
+^ a b c d e Rumelt, Richard P. (2011). Good Strategy / Bad Strategy. Crown Business. ISBN 978-0-307-88623-1.
+^ Rowbotham, Michael (1998). The Grip of Death: A Study of Modern Money, Debt Slavery and Destructive Economics. Jon Carpenter Publishing. ISBN 978-1-897766-40-8.
+^ Cooper, George (2008). The Origin of Financial Crises. Harriman House. ISBN 1-905641-85-0.
+^ McCulley-PIMCO-The Shadow Banking System and Hyman Minsky's Economic Journey
+^ Ponzi Nation, Edward Chancellor, Institutional Investor, 7 February 2007
+^ Securitisation: life after death
+^ How the French invented subprime
+^ "Real Estate Booms and Banking Busts: An International Perspective". University of Pennsylvania. July 1999. Retrieved 1 June 2014.
+v
+t
+e
+Great Recession
+By region
+Africa
+Americas
+United States
+South America
+Asia
+Europe
+Oceania
+United States-specific
+Automotive industry crisis
+California budget crisis
+Housing bubble
+Housing market correction
+Subprime mortgage crisis
+Banking losses and fraud
+Anglo Irish Bank hidden loans controversy
+Libor scandal
+Tom Hayes
+Société Générale trading loss
+Forex scandal
+Seán FitzPatrick
+Bernard Madoff
+Tom Petters
+Scott W. Rothstein
+Allen Stanford
+Government entities
+Consumer Financial Protection Bureau
+Federal Deposit Insurance Corporation
+Federal Home Loan Banks
+Federal Housing Administration
+Federal Housing Finance Agency
+Federal Housing Finance Board
+Federal Reserve System
+Government National Mortgage Association
+Irish Bank Resolution Corporation
+National Asset Management Agency
+Office of Federal Housing Enterprise Oversight
+Office of Financial Stability
+UK Financial Investments
+Government policy and spending responses
+Banking and finance
+stability and reform
+Anglo Irish Bank Corporation Act 2009
+Banking (Special Provisions) Act 2008
+China–Japan–South Korea trilateral summit
+Commercial Paper Funding Facility
+Dodd–Frank Wall Street Reform and Consumer Protection Act
+Emergency Economic Stabilization Act of 2008
+Irish emergency budget, 2009
+Irish budget, 2010
+Irish budget, 2011
+Irish budget, 2012
+Irish budget, 2013
+Temporary Liquidity Guarantee Program
+Term Asset-Backed Securities Loan Facility
+Troubled Asset Relief Program
+2008 United Kingdom bank rescue package
+Bank stress tests
+EU
+U.S.
+Stimulus and recovery
+2008 European Union stimulus plan
+2008–09 Keynesian resurgence
+American Recovery and Reinvestment Act of 2009
+Chinese economic stimulus program
+Economic Stimulus Act of 2008
+Fraud Enforcement and Recovery Act of 2009
+Green New Deal
+Housing and Economic Recovery Act of 2008
+National fiscal policy response to the Great Recession
+Zero interest-rate policy
+Government interventions,
+rescues, and acquisitions
+List of banks acquired or bankrupted during the Great Recession
+Non-banking
+Chrysler
+General Motors
+Securities involved
+and financial markets
+Auction rate securities
+Collateralized debt obligations
+Collateralized mortgage obligations
+Credit default swaps
+Mortgage-backed securities
+Secondary mortgage market
+Social responses
+Tea Party protests (United States; c. 2009)
+May Day protests (Europe, Middle East and North Africa, Asia; 2009)
+Occupy movement (worldwide)
+Related topics
+2000s energy crisis
+Central Asia: 2008
+Effects on museums
+Decline of newspapers
+World food price crisis
+European debt crisis
+Financial crisis of 2007–08
+List of countries by public debt
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Credit_crunch&oldid=762299030"
+Categories: CreditDebtFinancial crisesUnited States housing bubble2000s slangWords coined in the 2000sHidden categories: Pages using ISBN magic links
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+Article
+Talk
+Variants
+Views
+Read
+Edit
+View history
+More
+Search
+Navigation
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store
+Interaction
+HelpAbout WikipediaCommunity portalRecent changesContact page
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+Languages
+AfrikaansالعربيةDeutschEspañolFrançaisItalianoNederlands日本語PolskiSlovenčinaSvenska中文
+Edit links
+This page was last modified on 27 January 2017, at 22:46.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view

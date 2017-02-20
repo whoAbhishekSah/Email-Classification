@@ -1,0 +1,80 @@
+Enhancing XCRI-CAP with KIS data | an XCRI-CAP demonstrator
+Enhancing XCRI-CAP with KIS data
+Skip to content
+December 18, 2012 · 10:43 pm
+Extending XCRI-CAP with KIS – demo now available
+A demo version of the XCRI-CAP/KIS app and feed is now available to view. The project set out to investigate the joining up the XCRI-CAP and KIS data sets to provide meaningful and practical outputs. Specifically, it was to link XCRI-CAP courses with KIS data allowing a combined/enhanced dataset to be used for:
+combined course search parameters/results
+to produce an enhanced XCRI-CAP feed
+We’ve completed our work on joining the two data sets together with some encouraging results (more details to follow in a later blog). Having joined the two data sets we’ve used the combined/super-set to produce a simple course search demonstrator showing XCRI-CAP and KIS data being used for the search parameters and results pages.
+We’ve also produced a sample enhanced XCRI-CAP feed that includes KIS data. We investigated a number of options for combining the data in the feed (again, details to follow). There were a number pros and cons for each option we looked at but no clear/obvious winner. The option we selected for the demonstrator’s enhanced feed is to embed the KIS course ID plus URIs to the KIS data sets for each course. The main reasons for selecting this option were:
+It avoids data duplication & redundancy.
+It avoids a (HUGE) increase in the size of the XCRI-CAP data file/feed (& all the operational issues that go with creating, transferring and consuming big XML).
+It avoids the feed provider having to do additional regular processing (often weekly, from our experience) to match and include KIS data in the feed (ie. effectively duplicating work which HESA/Unistats already do).
+The embedded KIS course URI links are in a standard format so can be easily ‘constructed’ by the feed provider for inclusion in the feed without the need to load/process the KIS data directly (providing significant operational/performance benefit).
+It provides the feed consumer with everything they need to get and use each course’s KIS data (KIS:CourseID allows them to use the KIS widgets directly, plus the URI links give them direct access to the latest KIS data if they want/need it).
+The demonstrator course search app can be viewed here.
+and the enhanced XCRI-CAP/KIS feed can be found here.
+Leave a comment
+Filed under #coursedata-tech
+Tagged as #coursedata-tech
+November 2, 2012 · 4:37 pm
+Extending XCRI-CAP with KIS – update
+We’re nearing the end of the first test iteration now. We’ve successfully integrated XCRI-CAP data from a feed with KIS data from the Unistats website and built the demonstrator Enhanced Course Search site. I’ve included a couple of teaser pics here but will give a fuller update once we’ve completed testing and finished tweaking the screens.
+Example screen shot showing Course Search screen with search parameters from both the XCRI-CAP and KIS data sets:
+Example screen shot showing search results with data from the KIS set:
+I can also report that the KIS data has proved very accessible. The format/structure of the data has proved (for us/our purpose at least) very logical to work with. We’ve had some difficulties finding keys/ways to match the two data sets and we’re currently reviewing more data samples to evolve/improve the matching process.
+Leave a comment
+Filed under #coursedata-tech
+Tagged as #coursedata-tech
+September 10, 2012 · 12:52 pm
+Extending XCRI-CAP with KIS – update
+We’re now nearing the end of the first development iteration.  This iteration was to build prototype screens for the KIS enhanced Course Search site. We will demo/review these with a number of stake holders to give early visibility of the planned functionality, including the KIS data elements selected as search parameters. As this is a demonstrator we’re looking to use fields that show the potential of the data/approach in course searching, data which isn’t normally available to institutions/students when searching for courses.
+We’re also awaiting (with eager anticipation) the new Unistats website (and the publicly available KIS data) which is due to go live on the 24 September. This is a key point for the project as it will be the first time we’ll be able to officially access real live KIS data.  Prior to this point we’ve had to work with home-grown KIS data files which we’ve built inline with the published XSD and data definitions/documentation. Once the ‘real’ KIS data is available we’ll be able to review and test our planned approach to matching the KIS and XCRI-CAP data and confirm (or resolve?!) the planned work for the next iteration.
+Leave a comment
+Filed under #coursedata-tech
+Tagged as #coursedata-tech
+August 20, 2012 · 3:58 pm
+XCRI-CAP with KIS, what’s it all about?
+The project will join up the XCRI-CAP and Key Information Set (KIS) data sets to provide meaningful and practical outputs. Specifically, it will load XCRI-CAP course data for a sample institution and corresponding KIS data from HEFCE, match the two data sets and use the resulting ‘super set’ to:
+demonstrate an extended course search (including course and KIS based parameters)
+produce an extended XCRI-CAP feed (incorporating KIS data with course records)
+What is the Key Information Set (KIS)?
+I guess most people involved in HE will be aware of KIS to some extent, but officially: The Key Information Set is the result of a HEFCE consultation on public information about HE. It provides comparable sets of information about full or part time undergraduate courses that are designed to meet the information needs of prospective students. This will give prospective students access to robust, reliable and comparable information in order to help them make informed decisions about what and where to study.
+Why bother joining XCRI-CAP and KIS?
+XCRI-CAP is a standard format for the electronic exchange of course data (for example description, location, duration, cost, qualification, etc.). It helps institutions meet the increasing demand for live course data by promoting:
+efficient collection by aggregator and broker agencies
+systematic comparison of learning opportunities
+new integrated information, advice and guidance services.
+The KIS is a government led initiative to provide prospective students with useful information about courses (for example student satisfaction, graduate outcomes, learning and teaching activities, assessment methods, tuition fees and student finance, accommodation and professional accreditation). One of the objectives for the KIS is to ‘…to promote and publicise it through the various student web-sites and social media outlets that exist…’, ie. university and college web-sites and third party course finder sites. Or put another way, wherever courses are being advertised.
+So, in a nutshell, XCRI-CAP and KIS are providing two different data sets but both are aimed at the same audience (ie. potential students). And, to some extent, both are intended to be utilised by the same users in the same way (ie. institutions and third party agencies advertising courses).
+Joining the separate data sets ‘at source’ can help a university or college to improve the advertising of courses and the suitability of prospective students by:
+allowing potential students to make more effective use of the KIS data when searching and applying for courses
+making their course information more attractive to third party aggregators and broker agencies
+So now you know, that’s what it’s all about.
+Leave a comment
+Filed under #coursedata-tech
+Tagged as #coursedata-tech
+Aside
+Project start up
+Today we held the Project Start up meeting with JISC’s Rob Englebright, so the project is now officially up and running!
+JISC selected the project as an XCRI-CAP demonstrator under the Course Data: making the most of course information programme. Over the next few months we’ll be exploring and developing an app to show how KIS data can be combined with XCRI-CAP data for enhanced course searching and course data feeds.
+Leave a comment
+August 6, 2012 · 4:32 pm
+Search for:
+Recent Posts
+Extending XCRI-CAP with KIS – demo now available
+Extending XCRI-CAP with KIS – update
+Extending XCRI-CAP with KIS – update
+XCRI-CAP with KIS, what’s it all about?
+Project start up
+Archives
+December 2012
+November 2012
+September 2012
+August 2012
+RSS Feed RSS - Posts
+Enhancing XCRI-CAP with KIS data · an XCRI-CAP demonstrator
+Blog at WordPress.com.
+Post to
+Cancel

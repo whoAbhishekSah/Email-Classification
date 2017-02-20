@@ -1,0 +1,24 @@
+4i Project Homepage
+Integrated... Interoperable...
+Institutional... Implementation...
+A
+project funded under the JISC DIVLE (07/02) Programme
+The University of Ulster was granted funding from the Joint Information
+Systems Committee (JISC) to further develop a working model upon
+which to fully integrate its VLE and library systems. This work
+was be undertaken in 2002/3 to provide WebCT users with personalised
+contextual linkages to library resources and services along with
+seamless access to protected resources. The 4i Project (Interoperable,
+Institutional, Integrated, Implementation), builds on preliminary
+development work undertaken in 2001/2 and has scaled up these activities
+in order to assess the impact of an institution wide VLE-Library
+system integration on library business processes and the user experience.
+It also seeks to inform further development of technical integration
+methods to facilitate better interoperability between diverse systems
+and platforms. This is being conducted throught the IMS
+forum.
+The
+project is part of the JISC's Linking
+Digital Libraries with VLE's (DiVLE) programme pedagogical and
+organisational issues of linking digital library systems and virtual
+learning environments.

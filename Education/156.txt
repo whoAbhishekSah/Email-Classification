@@ -1,0 +1,322 @@
+Bayesian Feed Filter | Progress on the JISC rapid innovation project to create a Bayesian Feed Filter.
+Bayesian Feed Filter
+Skip to content
+HomeAboutCredits
+← Older posts
+by Lisa Scott | 11-August-2010 · 2:28 pm
+Conducting a User Trial
+One of the aims of the Bayesian Feed Filter Project was to test the ability of the recommender service to identify new journal papers of interest to researchers based on a knowledge of papers which they have recently read. The recommender service used was sux0r a blogging package, an RSS aggregator, a bookmark repository, and a photo publishing platform with a focus on Naive Bayesian categorization and probabilistic content .
+As well as creating an API for sux0r, the project created a Bayesian Feed Filter theme which included simplifying the sux0r interface so that user saw only the RSS Aggregator with Bayesian Filtering. The Bayesian Feed Filter uses Bayes’ theorem to attempt to predict whether or not a new item in a feed is relevant to an individual’s research interests based on previous categorization of items by the user. This explicit categorization by the user is known as training; the system also allows for other text documents to be used as training material.
+Twenty researchers from Engineering and Science based schools within Heriot-Watt University volunteered to participate in the trial to test the ability of the Bayesian Feed Filter to identify new journal papers of interest to them based on knowledge of papers which they have recently read. The volunteers were asked to provide a list of journals that they follow or would like to follow if they had the time. Each volunteer was set up with an account on Bayesian Feed Filter, which was preloaded with RSS Feeds of the journals they said they were interested in and contained two categories for training: Interesting and Not Interesting.
+An API was developed during the project which included the feature Return RSS Items for a User, which was used to create personalised RSS feeds for each user. The feeds could be filtered by category (interesting or not interesting) and by threshold (likelihood to belong to a particular category).
+Stage 1: Initial Questionnaire
+The first stage of the trial involved a short questionnaire to gauge the researchers’ methods of current awareness and their expectations of a service filtering journal articles matching their interests. (Results of Initial Questionnaire).
+Stage Two: Demonstration of the Bayesian Feed Filter
+Volunteers were each given a demonstration of how to mark items as relevant to their interests or not relevant to their interests. These items typically include the title and abstract of the journal article. The users were also shown how to use the train document feature which would allow them to include text not in the RSS feeds such as the full text of articles they had written, cited or read. (How to use Bayesian Feed Filter)
+Stage Three: Training the Bayesian Feed Filter
+The volunteers had access to the Bayesian Feed Filter for 6 weeks and they were asked to train the system by categorizing items as either “interesting” or “not interesting” periodically and to supplement the interesting items with other documents relevant to their interests. (User Activity).
+At the end of the six week training period access to the Bayesian Feed Filter was suspended and all articles in the system were removed. The system would continue to run for 4 weeks, automatically catagorizing new articles as being “interesting” or “not interesting” to the researchers based upon the training provided. Unfortunately, two of our volunteers were not able to continue with the trial, therefore the trial continued with 18 volunteers.
+Stage Four: Returning the Filtered Feeds
+The users were presented with the two feeds. One feed comprised articles rated by the feed filter with at least a 50% chance of being of interest to them and the other feed articles rated with at least a 50% chance of not being of interest to them. The feeds were presented to the user using Thunderbird (an email and RSS client). Users were then asked to mark each article from both feeds with a star if they found it to be of interest. Thus the feeds represent the Bayesian Feed Filters categorization of items into “interesting” and “not interesting” and the stars show the users opinion of whether the items are relevant to their research interests of not.
+The number of false positives (items in the interesting feed not starred) and number of false negatives (items in the not interesting feed starred) could then be calculated for each user. A successful scenario would be for the interesting feed to contain a significantly higher proportion of interesting articles than an unfiltered feed with few items of interest wrongly filtered into the “not interesting” feed. The success of the filtering seems to be dependant on the training provided, with users who trained over 150 items seeming to get a reasonable measure of success. (Statistics from the User Trials).
+Stage 5: Follow Up Questionnaire
+The final stage of the of the trial was a follow up questionnaire, in order to gauge the user’s satisfaction with the filtering process and whether they would be interested in using a similar system in the future and what the advantages of doing so would be. (Results of the Follow Up Satisfaction Survey).
+Comments Off on Conducting a User Trial
+Filed under trialling
+Tagged as BayesFF, JISC, JISCRI, rapidInnovation
+by Lisa Scott | 9-July-2010 · 2:40 pm
+How to Install the Bayesian Feed Filter
+The Bayesian Feed Filter (BayesFF) is an optional interface for the popular sux0r software package. To be able to use the BayesFF interface you only need to follow the normal process for installing sux0r and make a few edits in the sux0r configuration file.
+The BayesFF interface will allow you to use the API and the web interface developed by the BayesFF project. In general, installing sux0r is a simple process that takes less than 30 minutes to complete, depending of the type of PHP configuration found in your web server. You may want to ask your IT support team to install sux0r for you, if you are not familiar with installing and configuring PHP packages that would require access to the web server configuration files. However, if you wish to install sux0r yourself, the following detailed installation guide would help you.
+A. Prerequisites
+* Configuring PHP to enable mb, gd, and PDO libraries:
+– mb is non-default extension and you need to explicitly enable it with the configure option. See http://www.php.net/manual/en/mbstring.installation.php webpage for details
+–
+gd represents the GD library that you will need to install (available at http://www.libgd.org/) and enable with the configure PHP command. See http://www.php.net/manual/en/image.installation.php webpage for details
+– PDO driver is enabled by default as of PHP 5.1.0, but you may need to enable it to work with MySQL. Please consult the documentation at http://www.php.net/manual/en/pdo.installation.php
+and http://www.php.net/manual/en/ref.pdo-mysql.php web pages to find out more about PDO installation.
+* MySQL 5.0.x, set to support UTF characters
+(Further information on http://dev.mysql.com/doc/refman/5.0/en/charset-connection.html)
+* Apache 2.x webserver with mod_rewrite module enabled
+(a simple but good tutotial on enabling mod_rewrite can be found at http://www.tutorio.com/tutorial/enable-mod-rewrite-on-apache)
+B. Installation
+To install sux0r code on your web server:
+1. Login to your server and go to the directory where you want to install sux0r
+2. Execute the following Unix command:
+svn export https://sux0r.svn.sourceforge.net/svnroot/sux0r/branches/icbl/
+3. Execute these two commands:
+chmod 777 ./data
+chmod 777 ./temporary
+To create the MySQL database and tables for sux0r:
+4. Create a database named “sux0r” on your MySQL server
+5. Import ./supplemental/sql/db-mysql.sql into MySQL
+C. Configuartion
+1.
+From the shell, execute these commands:
+mv ./sample-config.php ./config.php
+mv ./sample-.htaccess ./.htaccess
+2.
+Edit ./config.php and ./.htaccess appropriately (follow the instructions included inside these files.) The changes you need to make are pretty obvious.
+Edit Database Connection: $CONFIG[‘DSN’]
+Edit URL for your intallation of sux0r: $CONFIG[‘URL’]
+Edit Title: $CONFIG[‘TITLE’]
+If you want to use the BayesFF interface, you will need to change the default value of the $CONFIG[‘PARTITION’] configuration parameter found in config.php,
+from:
+$CONFIG[‘PARTITION’] = ‘sux0r’;
+to:
+$CONFIG[‘PARTITION’] = ‘bayesff’;
+3. To check your installation, run the ./supplemental/dependencies.php script from your browser. Example:
+http://yourwebsite/sux0r210/supplemental/dependencies.php (If there are no errors OK will be returnes with a link to your new installation.
+4. If the previous step didn’t produce any error, point your web browser to http://yourwebsite/sux0r210/supplemental/root.php&#8217; and follow the onscreen instructions to make yourself a sux0r root user.
+5. Setup a CRON job to fetch RSS feeds every x minutes (we recommend you to start by running the CRON every 60 minutes). The PHP script that fetches the feeds is already provided by sux0r and it is available at http://yourwebsite/sux0r210/modules/feeds/cron.php
+For example:
+0 * * * *
+/bin/nice /usr/bin/wget -q -O /dev/null “http://yourwebsite/sux0r210/modules/feeds/cron.php&#8221; > /dev/null 2>&1
+6. Delete the ./supplemental directory from the webserver.
+Sux0r should now be successfully installed on your website.
+1 Comment
+Filed under dissemination, technical
+Tagged as BayesFF, JISC, JISCRI, rapidInnovation
+by Lisa Scott | 1-June-2010 · 3:55 pm
+How To Use Bayesian Feed Filter
+I have created 5 screen casts showing users how to use the Bayesian Feed Filter.
+How to Register an account on Bayesian Feed Filter http://screenr.com/WkA
+Go to http://icbl.macs.hw.ac.uk/sux0r206/
+Click on Register (Top Right of Screen)
+Enter a Nickname, Email Address and Password
+Verify Your Password
+Add Any Additional Information
+Enter the Anti-Spam Code
+Click Submit
+How to Login and Subscribe to RSS Feeds http://screenr.com/ckA
+Once you have registered an account click on Login (Top Right of Screen)
+Enter your Nickname and Password
+Click on Feeds (You will be presented with a list of all feeds on your first login)
+Scroll to the bottom of the list and click on Manage Feeds
+Select the Checkboxes of the feeds you would like to subscribe to
+Click Submit
+You can add a new feed by clicking on Suggest Feed (an administrator will need to approve the feed first)
+You can browse the feeds by clicking on the titles of the feeds
+How to train Bayesian Feed Filter to Filter your RSS Feeds http://screenr.com/3kA
+Once you have logged in to your account and subscribed to some feeds you can start training
+Click on your nickname (Top right ofthe screen)
+Click on Edit Bayesian
+Enter the name of a vector (list of categories) and click add (in this case the vector is called Interestingness)
+Enter the name of your first category and click add (in this case Interesting)
+Enter the name of your secondcategory and click add (in this case Not Interesting)
+Click On your nickname then on Feeds
+You can start training items by clicking on the drop down menu of categories
+If the item is already displaying the category you wish to train it in you will first need to select the other category then reselect the correct category
+Items that have been trained will display the Vector as green text
+How to train Bayesian Feed Filter using other documnets http://screenr.com/vSK
+Once you have logged in to your account and subscribed to some feeds you can start training
+Click on your nickname (Top right of the screen)
+Click on Edit Bayesian
+Copy and paste text from other documents into the Train Document text area
+Select the category and click train
+You can also categorise other documents
+Copy and paste text from other documents into the Categorize Document text area
+Select the vector and click categorize.
+The probability of the document belonging to each category in the vector will be displayed.
+How to view filtered RSS Items by threshold/keywords http://screenr.com/y1K
+Click on Feeds
+At the top of the screen select the category and set a threshold
+Click on threshold
+Only the items relevant to the selected categroy above the set threshold are displayed
+To filter by keywords, type your keywords into the keywords text box
+Click on threshold
+Only the items containing those keywords will be displayed
+1 Comment
+Filed under dissemination
+Tagged as BayesFF, demonstrator, JISCRI, output, progressPosts, rapidInnovation
+by Phil Barker | 11-March-2010 · 9:26 am
+New feature: return RSS feeds for user
+This feature allows a user to see all the feeds that they are filtering: useful if they just want to look at a specific feed or if they want to manage their feeds, e.g. by deleting one. If you’re interested you can read the original feature spec, though we haven’t implemented this in full (see comments).
+The API call is an HTTP GET on [sux0rURL]/api/feeds/ (where [sux0rURL] is the URL for your sux0r installation, for this project that is http://icbl.macs.hw.ac.uk/sux0rAPI/icbl/ ). The only parameter you can use is user= to specify the user name.
+Example
+So if you wanted to see the feeds that I have subscribed to you would GET http://icbl.macs.hw.ac.uk/sux0rAPI/icbl/api/feeds/?user=philb which would return something like
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:api="http://icbl.macs.hw.ac.uk/sux0rAPI/api/xmlns" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Philb's RSS Feeds</title>
+<link>http://icbl.macs.hw.ac.uk/sux0r206/user/profile/philb</link>
+<description>Use Case: Return the RSS Feeds for a User. User Nickname: philb</description>
+<atom:link href="http://icbl.macs.hw.ac.uk/sux0rAPI/icbl/api/feeds/?user=philb" rel="self" type="application/rss+xml" />
+<item>
+<title>OUseful.Info, the blog...</title>
+<link>http://feeds.feedburner.com/ouseful</link>
+<guid>50</guid>
+<description>Thinking differently...</description>
+</item>
+<item>
+<title>Lorcan Dempsey's weblog</title>
+<link>http://orweblog.oclc.org/atom.xml</link>
+<guid>57</guid>
+<description>On libraries, services and networks.</description>
+</item>
+<!--snip-->
+<item>
+<title>ehabitus</title>
+<link>http://ehabitus.blogspot.com/feeds/posts/default</link>
+<guid>53</guid>
+<description>(n). "e" + "a system of dispositions (unarticulated, habitual, acquired patterns of perception, thought and action)"</description>
+</item>
+</channel>
+</rss>
+i.e. an RSS feed where the items provide information on the feeds to which I am subscribed.
+comments
+Why an RSS feed? Well, we have the code return information in RSS feeds so why not? A simple extension would be to allow a parameter that would let one specify the format of the results, with OPML being the obvious alternative.
+You’ll see that we’ve used the guid element to return the identifier used by sux0r for the feed (OK, we’re stretching the definition the “gu” part of guid). This can be used as the feed_id to identify the feed in other API calls, for example to return the items in that feed.
+A PUT or POST (not sure which yet) to the same URL base would be a way of adding feeds.
+Another extension would be to make the user parameter optional, returning information on all feeds in the system if no user name is provided–this could be useful for some admin functions.
+Unfortunately we haven’t been able to implement the error codes properly on our server, you get an HTTP status code of 200-OK whether or not it is. However if you specify an invalid user name you do get sensible error messages returned in the body.
+Even more unfortunately, the current implementation does not cover the authentication requirements.
+Comments Off on New feature: return RSS feeds for user
+Filed under technical
+Tagged as BayesFF, JISCRI
+by Phil Barker | 11-December-2009 · 8:20 pm
+BayesFF: Final post
+Diagram of prototype: schematically we can show how the prototype supports the aggregation and
+of RSS feeds comprising table of contents information from selected journals and filters them (using pre-existing software called sux0r) into two feeds, one of which is has information about those papers that are predicted to be relevant to a user’s research interests. The project has added the ability to interact with sux0r through third-party software.
+Our work has shown how effectively this works for a trial group of researchers; in most cases, after sufficient training of the system, the outgoing feeds were successfully filtered so that one contained a significantly higher concentration of interesting items than the raw feeds and the other did not contain a significant number of interesting items.
+End User of Prototype:
+We have an installation of sux0r which people are welcome to register on and which can be used to set up feeds for aggregation (you will not automatically be given sufficient privileged to approve feeds, so it is best to contact the project about this). The base URL for the API for this installation is http://icbl.macs.hw.ac.uk/sux0rAPI/icbl/ and the API calls which have been implements are documented in the following posts on this blog: Return RSS items for a user and ReturnVectors and ReturnCategories. Also available: a summary of other features for the API have been scoped. The latest update was 08 December 2009.
+Here’s a screen cast of Lisa using the API
+(NB the version at the end of the link is a whole lot clearer than the embedded YouTube version, especially if you click on the view in HD option).
+The code for our work on the API is in a branch of the main sux0r repository on sourceForge.
+Project Team
+Phil Barker, philb@icbl.hw.ac.uk, Heriot-Watt University (project manager)
+Santiago Chumbe, S.Chumbe@hw.ac.uk, Heriot-Watt University (developer)
+Lisa J Rogers, l.j.rogers@hw.ac.uk, Heriot-Watt University (researcher)
+Project Website: http://www.icbl.hw.ac.uk/bayesff/
+PIMS entry: https://pims.jisc.ac.uk/projects/view/1360
+Table of Content for Project Posts
+Development work
+About suxor
+New Features Planned for suxor
+OAuth
+Feature Implemented: Return RSS Items for a user
+Features: ReturnVectors and ReturnCategories
+noAuth
+User trialling
+Trialling of Bayesian Feed Filter
+User Trialling
+Preliminary Findings of User Trials
+User Activity
+Statistics of User Trial Results
+User Trials Follow Up Satisfaction Survey
+Community Engagement
+BayesFF in 45 Seconds
+Idea: Extension to previous literature
+About Sux0r
+New Featues Planned For Sux0r
+Project Mangement
+Project Kicks Off
+SWOT Analysis
+Final Post (this one)
+2 Comments
+Filed under management
+Tagged as BayesFF, demonstrator, finalProgressPost, JISC, JISCRI, output, product, progressPosts, prototype, rapidInnovation
+by Phil Barker | 11-December-2009 · 5:41 pm
+noAuth
+One of the “weaknesses” I put in the SWOT analysis was that we had a lot to learn. Fully understanding and implementing authentication and authorization for the API was one of the things that we had to learn. As of now, at the end of the funded work on the project, we seem to have failed in this.
+Our first point of failure was in being pointlessly over ambitious in what we wanted to do via the API. When drawing up the initial feature set for the API I took the starting position that anything that you could do through the native sux0r interface should be doable remotely; so the feature set included register new user. This muddied the requirements for accessing the sux0r security procedures in a way that I can now see was quite unnecessary–it’s really not unreasonable to expect people to have an account with a service before the interact with it from another application.
+Having clarified this it became clear that oAuth would be the authorization mechanism of choice, though we had no experience in implementing it. Santy got a client working with twitter and flickr based on Andy Smith’s library. He used
+Google PHP OAuth library for the server on sux0r, but it didn’t work with either that client or Google’s own client. There is another library he would like to test for the server side, but had already spent more time than was available.
+Struggling with oAuth meant less time to spend on actual features. In retrospect we should have implemented the features without authorization in the hope of adding some form of authorization later (which is indeed what Santy has done towards the end of the project), but it is always tempting to keep trying one more thing in the hope that the next try will succeed.
+As a result we have fewer features implemented than we planned, and features that should require authorization don’t have it. We still hope to add some form of restriction on access, even
+HTTP digest authentication requiring sux0r user name and password to be entered into the third-party app is better than nothing.
+Lessons learnt: 1) you don’t have to do everything through an API (god, that seems obvious when I write it); 2) get on with what you can do in parallel to trying to overcome road blocks; 3) analysing the problem and implementing the client did give us a better understanding of what oAuth should do.
+2 Comments
+Filed under management, technical
+Tagged as BayesFF, fail, JISCRI, progressPosts
+by Lisa Scott | 9-December-2009 · 5:32 pm
+User Trials Follow Up Satisfaction Survey
+The user trials consisted of 5 main stages.
+An initial meeting to demonstrate the system.
+An initial questionnaire to gather expectations
+Training: Users spent between 4-6 weeks training the system
+A follow up meeting to indicate how successfully their interests had been matched; and;
+A follow up questionnaire to gauge the users’ satisfaction.
+The results of the follow up survey are discussed in more detail below.
+Question 1.
+Were enough “Not Interesting” articles filtered out of the “Interesting” feed to make reading this feed manageable?
+Though the percentages of interesting items delivered to each user were in general lower than the users had indicated would be acceptable in the initial questionnaire. The users seemed to be happy with this result and in most cases the percentage of “not interesting” in the “interesting” feed was greatly reduced.
+13 users answered yes, 4 answered no and 1 was not sure.
+Question 2.
+If the “Not Interesting” feed wrongly contained “interesting” articles, was the percentage small enough to tolerate?
+The majority of the users were able to tolerate some “interesting” articles being filtered out into the “not interesting” feed.
+15 users answered yes; 3 answered no.
+Question 3.
+Would you consider using a similar tool in the future?
+The majority of users indicated that they would consider using a similar tool in the future. This gives us a certain confidence that the concept of applying Bayesian filtering to journal articles is worth investigating further.
+15 users answered yes; 2 answered maybe; 1 answered no.
+Question 3 cont…
+If yes, which of the following would you consider?
+[a] A stand alone tool?
+[b] A tool integrated into an existing tool you use everyday i.e. in an email client/feed reader/iGoogle?
+[c] Integrated into a library or research tool such as web of science?
+Users were able to enter more than one choice.
+There were 6 votes for [a]; 13 votes for [b]; 12 votes for [c]
+Users were then asked which of the above would be their preferred option?
+3 voted for [a]; 6 voted for [b]; 7 voted for [c]; 1 user thought daily/weekly email alerts would be a better option.
+The strong preference for integration into other tools (options b and c) rather than use as a stand alone tool is interesting as it validates our supposition that an API would be useful, i.e. that it would be desirable to be able to integrate interact with sux0r into other tools.
+Question 4.
+If you would consider using a similar tool in the future, what do you think the advantages of doing so would be?
+The main advantages offered by the users included time saving by filtering out unwanted articles, the ability to scan more journals and a single place to scan the latest articles form interesting journals. Only one user considered a similar tool not to have any advantages.
+A selection of responses follow below:
+If trained sufficiently the tool would save time in showing the searches from interesting results, with keywords on saved interests.
+To flag up interesting articles without the user having to actively search for them i.e. it would help with horizon scanning.
+Make e-journals more helpful when filtering interesting articles and not interesting ones.
+1. One advantage would be a single place to find interesting reserach articles. 2. If the feed is trained well, then less time is spent on uninteresting articles. 3. If it is integrated into broader serach tools like iGoogle it would have wider reach.
+As it highlights interesting/prospectively interesting journals that you may not be able to find easily using databases search such as science direct.
+Quicker sorting of interesting and not interesting articles
+Keeping up to date with new articles. But disadvantage is the guilt of seeing all the interesting things you should read but don’t have time to.
+Saving time. However I am not sure I would be completely confident in the results I would get.
+Screening for new articles would become more organised rather than my random search at the moment which only happens when I need to find information.
+Tend to search on the basis of keywords; this appears to work better.
+It does appear to throw up interesting articels that I might otherwise miss.
+Time saving and effective worktime
+Obviously it will save a lot of time
+Simultaneous filtering of many journals
+Make looking for papers more fun because much of the clutter is removed compared to reading journal indexes. And I find more interesting articles compared to googling or searching by keyword.
+a) save time, reduce number of articles. b) We can create research group feed of interest
+Even with uninteresting articles in the mix it still allowed me to find dozens of articles that would have passed me by otherwise. I felt it was worth the effort & still a lot less effort than reading all the tables of contents would have been. A key advantage for me was that it effectively allowed me to, in a similar length of time, scan the contents of a far greater number of journals than I would have studied by hand. A worthwhile tool if you can be bothered to train it.
+Get an overview of recently published articles with at least some relevance to me, which at the moment I’m not getting.
+2 Comments
+Filed under trialling
+Tagged as BayesFF, JISC, JISCRI, progressPosts
+← Older posts
+Categories
+applications (1)
+dissemination (5)
+management (4)
+technical (9)
+trialling (8)
+February 2017
+M
+T
+W
+T
+F
+S
+S
+« Aug
+12345
+6789101112
+13141516171819
+20212223242526
+2728
+Blogroll
+IE Demonstrator
+JISC Information Environment Team
+Lisa Rogers' work blog
+Phil's JISC CETIS Blog
+sux0r blog
+License This work by Bayesian Feed Filter Project, Heriot Watt University is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.Based on a work at bayesianfeedfilter.wordpress.com.
+Bayesian Feed Filter · Progress on the JISC rapid innovation project to create a Bayesian Feed Filter.
+Create a free website or blog at WordPress.com.
+Bayesian Feed Filter
+Blog at WordPress.com.
+Post to
+Cancel

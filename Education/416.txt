@@ -1,0 +1,114 @@
+The Design Studio / ODHE DL
+The Design Studio
+log inhelp
+WikiPages & Files
+View
+ODHE DL
+Page history
+last edited
+by Marianne Sheppard 3 years, 1 month ago
+Organisational Development in Higher Education
+1. Introduction
+The ODHE brings together HE practitioners with responsibilities for supporting organisational-level development within their institutions. Senior members are involved with strategic-level decision making on organisational initiatives such as restructuring  the institution or introducing new policies. Other OD staff are then involved with planning and supporting implementation of  these changes.
+Members of the ODHE are well placed to understand and support change processes within institutions. They engage at all levels, act on Senior Management’s instructions, and can promote useful information flows up, down and across the organisation. These dialogues help deal with the complex and multi-layered nature of change.
+Contact:
+Bex Lewis Research Fellow in Social Media and Online Learning, University of Durham (bex.lewis@durham.ac.uk): official project contact
+Meriel Box Head of Staff Development, Liverpool John Moores University (M.Box@ljmu.ac.uk): official contact for ODHE
+Jean Harrison Director, Human Resources, University of Westminster (J.Harrison06@westminster.ac.uk)
+2. ODHE and Digital Literacy
+DLs are becoming increasingly embedded within organisational processes. Few, if any, organisational changes do not have DL aspects. HE staff cannot escape engagement. As the Times Higher Education comments, current hierarchical modes of working are outmoded (Davidson, C. ‘So last century’, Times Higher Education, 28/04/11.) For many this is a positive, democratic change, for others, an unwelcome shift. Change management is a core aspect of Organisational Development (OD) and practitioners are therefore central to embedding a more digitally literate culture.
+Anecdotal evidence suggests that many OD practitioners are not comfortable with DLs. Opportunities for the effective use of DLs can easily be missed or not enthusiastically promoted. This bid is about helping organisational developers to gain confidence with DLs through building better understanding of best practice. ODs would then be able to contribute much more effectively to organisational take-up of DL initiatives.
+As a result of this project, we anticipate that ODHE itself will become more digitally literate, using the JISC definition of "... those capabilities which fit an individual for living, learning and working in a digital society." We will create new platforms (e.g. Twitter, Facebook, etc.) as appropriate for ODHE.
+We plan to work with SDF, Vitae, and will investigate UCISA as suggested by Helen Beetham
+3. Professional development
+The ODHE can affect the practice of its own members: by engaging with a reference group of interested colleagues; by sharing the lessons from this and earlier projects; by keeping the topic on the agenda of meetings; by gathering examples of effective practice to cascade through institutions; by running DL sessions to build capacity, and by making more regular use of online methods such as web-conferencing.
+ODHE members will then be able to influence the embedding of DLs within their own institutions. A particular impact that we can envisage is on those leading IT and information change. Just as OD staff are often unfamiliar with DL, so DL staff are unfamiliar with OD. ODHE will be able to feed its understanding of change processes into its exchanges with other sector bodies and professional associations and – via the JISC critical friends – into the main projects.
+4. Baselining digital literacy provision
+As we were already aware that many of the ODHE group were not necessarily particularly digitally literate, and there are only around 35 members, whom Meriel was able to contact personally, we created a simple Survey Monkey survey, completable within 10 minutes. An overview of the results from February 2012, and we plan to repeat the survey Summer 2013. The survey results determined our areas for development: there was quite a lot of resistance to "technology" and "social media", but developing mobile habits (phones; tablets; apps) are of interest, and opportunities to share knowledge via a blog has been identified as manageable, and a "soft" way in.
+5. Resources (e.g. resources for students, resources for administrators...)
+Organisational development has a particular concern with change management processes. Having previously worked with Andy Wilson (who is working on the SDF project), we quote:
+"Technological developments typically involve change, and although there are clearly specific technical aspects, fundamentally change is change. And staff developers typically work to help people through change. Hence we have valuable expertise to offer and we have shared resources on this within the Embed-IT project. See the Change Management section within..."
+JISC Design Studio Embed IT
+BODGIT event, University of Winchester, February 2011
+Further findings from the BODGIT project may be posted in the Design Studio, taking into account privacy concerns with the material.
+6. Activities and events
+We will be presenting project activities and providing appropriate digital literacy training at six ODHE National Events in 2012 and 2013, with the last one October 2013.
+Slow & Steady Wins The Race, Project Overview, National Meeting, Crewe (October 2013)
+Blackboard Collaborate webinar (May 2013)
+Special Interest Group set up to develop the blog (May 2013)
+Toolbox: Twitter (March 2013), after providing an ad hoc session at the February event.
+ODHE Blog Action Plan (February 2013)
+Profiling the ODHEG for an External Audience (February 2013)
+Blog instructions for ODHE Group (January 2013)
+Revised Social Media Overview (January 2013)
+Blogs from ODHE users (December 2012 and ongoing)
+Exemplar Smartphone App Reviews: National Rail; Vouchercloud (November 2012)
+Email List setup for members of the ODHE Group.
+Feedback from ODHE National Meeting (October 2012)
+Becoming Digitally Literate Organisational Developers (October 2012)
+Exemplar worksheets: Do.com; Dropbox (October 2012)
+ODHE blog (Set up August 2012, strategy in progress post national event October 2012)
+LinkedIn Group (Set up May 2012, at the request of the group)
+Video (May 2012)
+Video Training (March 2012)
+ODHE Pecha Kucha (February 2012)
+Digital Literacies Baselining, ODHE National Event (February 2012)
+Baseline Report (January 2012)
+Baseline Survey  (Late 2011)
+7. Findings and conclusions
+Baselining
+The baselining survey was undertaken swiftly, and kept simple, encouraging 24 respondees, in a group which has around 35 members. Results were shared almost immediately to ODHE members at the national event in February 2012. A half-day was allocated to sharing/encouraging staff to understand the significant of digital/social media, and at both national events the question of the public/private divide, the loss of face-to-face and information overload have arisen in discussions. In the consequent months we have been developing further materials to address anxieties, are continuing to emphasise that digtal literacy is more than a set of technology tools, and are listening to find the 'ways in' to the tools that will help members of the group in their everyday roles.
+Group Literacy
+The group has a fairly low level of digital literacy, and quite a high fear fear factor, as can be seen in the video created in May 2012, although the group has a very high number with smartphones. ODHE holds national meetings three times a year. Bex attended two in 2012, and will attend four more for the academic year 2012-13 (one via a webinar), taking advantage of the face-to-face contact to encourage digital literacy development, and continuing to collect video material. We are struggling to find the right platform for a tech-unsavvy group outside of these face-to-face events, but the plan was to augment with a series of webinars created for the 2012-13 academic year (to focus upon a mix of practical skills, and reflection upon how such skills can be applied within role, followed by a limited amount of 1-2-1 mentoring), but the group seems to be responding more positively to materials created and shared on Slide share. Opportunities will be sought to draw in expertise that does exist, as there are different levels of expertise. Members also expressed enthusiasm at contributing to an ODHE: if each member contributed once a year, posts could appear fortnightly. As the group grows in digital literacy, we will use the face-to-face opportunities to encourage action-plans for disseminating amongst their wider peer group... with Bex taking the lead in trying new things at each event.
+ODHE & FASTECH
+The ODHE project is also informing the larger FASTECH project, which Bex has presented at national events, including Plymouth E-Learning Conference, HEA Event on Media Studies, International Blended Learning Conference, JISC Experts Meeting, FASTECH Development Day, and ALTC12. Case studies relating to the use of assessment and feedback are being collated by FASTECH. Resources have been developed for FASTECH re pedagogic/research usage of social networks, and these will be repurposed for those in senior administrative roles. We will develop, through the blog/LinkedIn, activities for the time-poor "one thing you can do today" - a challenge that was set at the first national event.
+Bex left her role related to the FASTECH project in August 2012, so this is less relevant at present.
+ODHE Contribution
+The ODHE group needs to, at once of it's national events this year, look very closely at how they can contribute in creating strategic materials specifically for senior managers, and also in sharing professional and organisational development models that work with the other professional organisations and Digital Literacies projects. The group continues discussions with SDF, Vitae, etc. which need to be developed into more concrete actions, and Bex also seeks to benefit from OD mentoring. ODHE members need to ensure wider dissemination of the findings of the digital literacies projects, encouraging adoption within a wide range of institutions, and members should also be formulating questions for the projects in relation to digital literacies.
+UKPSF Guide
+Following a request, we submitted two case studies, contributing to the UKPSF Guide, demonstrating using students as change agents at Liverpool John Moores University, and embedding technology within the Media Studies module at University of Winchester.
+These will be continue to be shared as they emerge.
+ODHE DL
+Page Tools
+Insert links
+Insert links to other pages or uploaded files.
+Pages
+Images and files
+Insert a link to a new page
+Loading...
+No images or files uploaded yet.
+Insert image from URL
+Tip: To turn text into a link, highlight the text, then click on a page or file from the list above.
+Comments (0)
+You don't have permission to comment on this page.
+Printable version
+Tags:
+JISC DDL, digital literacy, professional associations, professional bodies, ODHE
+ODHE DL tags changed
+SideBar
+Home
+About the Design Studio
+Accessing the Design Studio
+Developing Digital Literacies
+Developing digital literacies in the curriculum
+Developing digital literacies for digital scholars and researchers
+Developing digital literacies for employability
+Developing digital pioneers
+Developing digitally literate institutions
+Developing your digital literacies
+Curriculum Change and Transformation
+Curriculum Challenges
+Curriculum Processess
+Curriculum Technologies
+Curriculum Design & Delivery programme
+Curriculum Design Institutional Stories
+Transforming Assessment & Feedback
+Assessment & Feedback Programme
+Assessment & Feedback Topics
+Assessment & Feedback Tools and Resources
+Embedding Benefits
+About the Embedding Benefits programme
+View All Tags
+Recent Activity
+Show 0 new items
+Loading…

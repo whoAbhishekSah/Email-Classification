@@ -1,0 +1,20 @@
+oneshare | ECS | University of Southampton
+Home
+Overview
+Team
+Contact
+Links
+Blog
+university of southampton > ecs > oneshare
+OneShare
+The OneShare project will build on the existing EdShare Southampton and Language Box repositories in order to create a Deposit Once methodology, where students and practitioners can use a Virtual Learning Environment, Community or Institutional Repository as part of single system, knowing that a deposit made in to any one of those systems will be propagated to the others.
+To achieve this three challenges need to be overcome:
+Community Attitudes to copyright and ownership need to be understood and supported in order to build practitioner confidence and encourage a change of culture towards open content.
+Institutional Policy needs to be developed in order to support practitioners in sharing their materials, and to incorporate repository use into institutional practices.
+Technology Integration needs to be enabled between Virtual Learning Environments (VLEs), Institutional and Community Repositories, so that users depositing resources in any one of these systems will be able to see them through the others.
+The OneShare project will tackle these three challenges, using the Language Box and EdShare Southampton as exemplars to develop guidance materials, EPrints software extensions, and a deposit once architecture that can be repurposed at other institutions. Our objective is for the Deposit Once methodology to help teaching and learning repositories gain greater acceptance with users and institutions across the UK, supporting efforts to allow teachers and lecturers to share their materials, and create a public library of open content.
+Get this widget!Something Funny
+Contact Us | Intranet | © 2008 University of Southampton
+Start date: Apr 2009
+End date: Mar 2011
+Funded by:

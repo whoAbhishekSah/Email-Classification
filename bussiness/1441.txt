@@ -1,0 +1,70 @@
+Xentech Solutions - Embedded System Design - Hardware, FPGA, Software Development
++44(0)1727 867795
+enquiries@xentech.co.uk
+Home
+Services
+Technology
+Company
+Contact
+Services
+Hardware & FPGA Development
+Embedded Software Development
+Cost Reductions & Obsolescence
+Troubleshooting
+Consultancy
+Technology
+Expertise
+Hardware Toolchains & HDLs
+Embedded Software
+Partners
+Company
+About Us
+News
+Case Studies
+Careers
+40Gb & 10Gb Ethernet Packet Generators, Capture & Analysis
+Xentech Solutions Ltd
+Stanta Business Centre3 Soothouse SpringSt Albans, AL3 6PF, UK
++44 (0) 1727 867795
+enquiries@axtrinet.com
+Privacy Policy  |  Terms of Use  |  Sitemap
+©2017 Xentech Solutions Ltd
+This site uses cookies. By continuing to browse the site you are agreeing to our
+use of cookies.  Privacy Policy
+Embedded System
+Design & Development
+Hardware, FPGA, and Embedded Software From Concept to Production
+Cost-Reductions
+Obsolesence
+Troubleshooting
+Consultancy
+Technical Expertise
+Embedded System Design
+High Speed Design to 10GHz
+Network & Data Switching
+FPGA & CPLD Development
+Ethernet Packet Generators
+Lowest cost per gigabit
+40Gbps & 10Gbps test solutions
+for ONE PER DESK deployment
+NEWS
+13 Sept 2016 »
+Xentech Solutions returns to the Electronics Design Show at the Ricoh Arena, Coventry
+on 19-20 October
+17 May 2016 »
+Xentech Solutions Ltd selects Achronix Speedster22i FPGAs for its Axtrinet™ Ethernet
+Packet Generators
+11 January 2016 »
+Xentech Solution return to Embedded World in 2016
+Technology
+Embedded MicroprocessorsFreescale PowerQUICC & QorIQi.MX & Kinetis ARMMarvell & TI
+Stellaris ARMMicrochip PIC16, PIC18 & PIC24High Speed Electronic Designto 10GHz on complex multilayer PCBsNetwork & Data SwitchingMarvell Prestera10Base-T to 10GBase-T10GBase-X SFP+ & XFP,
+40GBase-X QSFP+IEEE803.11 (Wifi), IEEE802.15.4 (Zigbee)IEEE1588V2 PTPFPGA & CPLD Development: Xilinx, Altera, Lattice, AchronixVerilog and VHDLDesign Toolchains: Mentor, Cadence, Zuken
+Services
+Embedded System DevelopmentElectronic Hardware Design Embedded Software Design FPGA & CPLD Design Technology DemonstratorsProductisation of Electronic PrototypesEnvironmental TestingSafety & EMC TestingCE
+& FCC CertificationManufacturing Test for ProductionDesign and Process ConsultancyRe-Design for Cost ReductionRe-Design for ObsolescenceTroubleshooting
+About Us
+News
+Case Studies
+Products
+Careers

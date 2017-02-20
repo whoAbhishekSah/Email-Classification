@@ -1,0 +1,132 @@
+JISC Course Data Project
+Skip to content
+Skip to global navigation
+Skip to local navigation
+Contact us
+Site map
+Site help
+SEARCH
+Home
+Studying at
+Brookes
+International
+About Brookes
+Research
+Business
+and employers
+Alumni and
+supporters
+Students
+Staff
+JISC Course Data Project
+Update
+The Oxford Brookes University XCRI-CAP is now live and the data feed can be accessed from the following URI:
+http://www.brookes.ac.uk/opendata/courses.xml
+Summary
+At Oxford
+Brookes University we
+recognise the increasing demand for course data in the UK education system and that access to course data has a
+significant impact on student choice, domestically and internationally. As stated in
+the report to HEFCE by the Online Learning Task Force January 2011: “Only with
+better information can prospective students find what they want, judge value for money
+and make more accurate decisions about where and how to study. Better information will
+give institutions competitive edge".
+It is for these reasons that we wish to participate in the JISC Course
+Data project: Making the most of course information.
+We will, during the course of the project, collate and publish course
+data on all of its award-bearing provision, regardless of duration or mode of study, in
+a consistent form to enable ease of access and comparison by both internal and external
+users. This consistency of information and reduction of duplication will give students
+access to higher quality information and enable the diversity of higher education to be
+brought into a single source.
+In undertaking this we will pay due regard to the KIS data and related
+developments with a view to ensuring that these data items are also captured in a
+consistent way and can be included in its core data set of course
+information.
+As part of this, we will develop protocols, standards and templates
+which will use to extend this approach to non award-bearing courses in due
+course.
+Project Information
+Project Title
+Course Data: Making the most of course
+information
+Project Website address
+Start Date
+12 January 2012
+End Date
+March 2013
+Project Manager
+Adrian Kent, Oxford Brookes University, OB Information Solutions 01865
+483303, akent@brookes.ac.uk
+Project Team
+Roger Clarke,
+OB Information Solutions
+01865 484475, rclarke@brookes.ac.uk
+Lead Institution
+Oxford Brookes University
+Project Partners
+n/a
+Objectives
+The objectives for the project as agreed by
+Oxford Brookes University are:
+To establish a standard data set for
+course information
+To apply this data set across the
+University to existing and new courses
+To refine its core systems in order to
+establish a comprehensive central repository for all course data, subject to
+appropriate quality assurance and controls
+To enable, through use of a data mart,
+the export and publication of course data from this central repository to a variety
+of end users and other systems
+To adopt XCRI-CAP as the means by which data is exported to specific
+destinations
+To fully evaluate the approach to
+standardisation and publication of data in order to inform future policy and
+practice.
+Anticipated Outputs and Outcomes
+Output / Outcome Type
+(e.g. report, publication, software,
+knowledge built)
+Brief Description
+Data Templates
+Standardised approach to collecting
+comprehensive course data
+Enhanced Data Repository
+A central data store for course
+information, building on existing systems and practice, but extending the
+range of information held and associated data processing to generate required
+outcomes
+Skills and Knowledge
+Effective knowledge development and
+transfer to ensure sustainability
+Evaluation Report
+A full evaluation of the project and
+its deliverables with recommendations for the future
+Understanding data structures and
+ability to interface with / export to range of other systems
+An up-to-date data map of all our
+systems along with data flow diagrams showing the interaction of our
+systems.
+OBIS
+Google@Brookes
+Get online
+Eduroam@Brookes
+HallNet
+Computer rooms
+Printing
+Print queues
+Charge Account
+IT Training
+Documentation
+Useful stuff
+Sophos Anti-virus
+PC availability
+Record Management
+Information Compliance
+Search our pages
+Service Desk
+Message of the Day
+Staff pages
+© 2012 Oxford Brookes University, Headington Campus, Gipsy Lane, Oxford OX3 0BP, UK - Tel: +44 (0)1865 74 1111
+Policies and disclaimers

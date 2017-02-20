@@ -1,0 +1,27 @@
+Home | Amantys - a Fresh Approach to Power Switching
+Home About us Products Gate Drives Power Insight Adapter Isolated DC-DC Converter Power Insight Configurator Technology Junction Temperature Estimation Amantys Power Insight Markets Careers Distributors Contact
+Amantys Power Electronics is combining the world of power electronics with advanced digital and software technology to improve the availability, cost and efficiency of high power systems.
+Isolated DC-DC Converter
+Amantys introduces a new Isolated DC-DC Converter for traction applications. Featuring high isolation (12kV peak), output short-circuit protection and output overload protection, it can survive common faults and mishandling within a traction converter. In addition, the Isolated DC-DC converter offers high efficiency power conversion (up to 90%) to minimise losses. Designed to comply with EN50155 for railway applications the Isolated DC-DC Converter is a robust, efficient, high power solution for powering gate drives and other railway applications.
+Learn More
+Traction Retrofit
+At Innotrans 2016 Amantys Power Electronics demonstrated Intelligent Gate Drives for traction applications, featuring remote configuration and downloadable fault counters. Amantys has already shown how intelligent gate drives can benefit the traction converter manufacturer, and the operating and maintenance company.
+For more information read our white paper on Power Converter Retrofit Solutions to see how intelligent gate drives can benefit existing power converters.
+White Paper
+Amantys has also demonstrated IGBT Junction Temperature Estimation, the next major technology development in Intelligent Gate Drives. Junction temperature estimation will enable over temperature and degradation detection in the power converter stack as well as enhanced power rating control.
+Tj Estimation
+News
+17th February 2017, Amantys Power Electronics announces the appointment of PSL Assemblies as a Value Added Reseller of Amantys Power Electronics gate drives. Check out the their website at www.psl-group.uk.com.
+7th September 2016, Amantys Power Electronics announces a new Isolated DC-DC Converter for use with gate drives in high isolation applications
+Amantys Power Electronics Ltd.
+Compass House, Vision Park
+Histon
+Cambridge
+CB24 9AD
+UK
+Telephone: +44 (0)1223 652530
+Information: info@amantys.co.uk
+Press: press@amantys.co.uk
+Registered in England No. 09618523
+VAT Registration Number: GB 219 8269 75
+©Copyright Amantys Power Electronics Ltd.

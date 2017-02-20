@@ -1,0 +1,508 @@
+BRUCE at Brunel | The BRUCE project blog
+BRUCE at Brunel
+The BRUCE project blog
+HomeAboutContact BRUCE
+Goodbye BRUCE – Hello UKRISS
+July 30, 2012
+The BRUCE Project is now complete although we will be continuing to work on the SolrEyes software so please do get in touch if you would like to find out more about it.
+Lorna, Richard and Rosa are now working with colleagues at Kings, the British Library, Cottage Labs, Exeter, EuroCRIS and Edinburgh on the JISC-funded UK Research Information Shared Service (UKRISS) project.  The project is looking at how research information is currently managed and reported across the HE sector in the UK in order to identify the feasibility and possible scope of a shared national service.  To find out more about UKRISS visit the project blog.
+Leave a Comment »				|
+BRUCE				 | Tagged: BRUCE, UKRISS				 |
+Permalink
+Posted by bruceatbrunel
+JISC RIM Projects Final Event
+September 21, 2011
+Really useful dissemination event in Manchester yesterday – thanks to Mahendra and the rest of the team at UKOLN for all of the organisation.
+If you weren’t able to come along to the event or if you went along to the IRIOS workshop instead of to the BRUCE session (we all make mistakes!) have a look at the presentation from the workshop.  Let us know if you have any comments or questions – feedback is always welcome.
+P.S. Only joking Simon!
+Leave a Comment »				|
+BRUCE, CERIF, Events, JISC, SolrEyes								 |
+Permalink
+Posted by bruceatbrunel
+BRUCE to CERIF Data Mapping
+September 19, 2011
+Data Sources
+Snapshots of data were taken from BRAD, HR, and HESA and dumped into csv & spread sheet format.  I have read access to SITS data at table level (this made it extremely easy to get all the data required for the CERIF schema (SITS was used to extract data on Research students to enable reporting on supervision)
+We used a sample report to determine which tables to use in the CERIF schema (time constraints determined that we wouldn’t be able to do a full mapping) see below the diagram of the tables used in our project.
+I then modelled this data by creating a spread sheet model of the CERIF schema.  This was the quickest way to get the data into the CERIF Schema format due to time restrictions on the project.  If this were to be put into production then automatic data extraction from the data sources would be explored.
+Lots of issues with Publications when translating into CERIF Schema
+–          Different field sizes
+–          Date formats needed tweaking
+–          Null values from the sample data needed to have dummy defaults set
+The data was then imported into a MySql database (installed on the BRUCE server)
+SolrEyes was installed from BitBucket (instructions detailed here)
+Download and install Apache Solr 3.1. and initiate on the server
+Initiated SolrEyes on the Server
+It took about 10-15 minutes to install the software and get it up and running on the server.
+BRUCE Data Model – modelled from CERIF schema – project time limits restricted how much of CERIF we could sensibly prototype
+CERIF model
+The Interface (displaying live data from Brunel) – facets on left hand side – used to refine the data displayed – sorting & paging also implemented
+The SolrEyes interface
+Solr Indexer – middle layer pulls data from MySQL – this is where the work is done – entities defined and the data modelled etc….
+Report generated from BRUCE data (modelled on the CERIF schema)  using Datavision (Open Source Report Generator) – can be exported in csv, xml, excel, pdf, word formats.
+BRUCE CERIF Data Model modelled in Excel as spread sheets (a sheet per table)
+Spreadsheet One – Staff
+cfPers
+cfPersName
+cf_Pers_Pers
+cfPers_Class
+cfPers_OrgUnit
+cfPers_Fund
+cfPers_ResPubl
+Spreadsheet Two – Research Students
+cfPers
+cfPersName
+cf_Pers_Pers
+cfPers_Class
+cfPers_OrgUnit
+Spreadsheet Three – Organisational Levels
+cfOrgUnit
+cfOrgUnitName
+cfOrgUnit_OrgUnit
+Spreadsheet Four – Funding
+cfFund
+cfFundDesc
+Spreadsheet Five – Publications
+cfResPubl
+cfResPublTitle
+cfResPubl_Class
+How I found working with CERIF
+CERIF is predominantly relational (but not pure – the semantics took a while to understand) the link tables & class tables was a bit Object-Orientated – and for me it didn’t quite make sense.  But it incorporated flexibility into the schema and there is the scope to use in many ways.  Because our time was restricted we didn’t spend too much time analysing how to use it.  Richard & I came up with the BRUCE model in a couple of hours and went with it.  Once the entities were defined in Solr – we found that we had to populate some of the link/class tables with unnecessary duplication of data just to get the interface to work – although this goes against my understanding of how relational data works the indexer was really fast – especially when we used the ‘test data’ – the Brunel data snapshot is quite small so wouldn’t determine speed efficiency.
+If this prototype were to be developed into production, we would need to analyse the data structures & mappings in more depth.  We have all the data on-line and automation from the various systems could be developed so the data amalgamation would be seamless.  Time determined that reporting was just touched upon – I used an open-source tool ‘DataVision’ to connect directly to the database and a very simple report was produced.
+Reporting would be a separate component using data extracted from the queries in the interface – pushed into a temp table – would need more development and thought to achieve this.
+Leave a Comment »				|
+BRUCE, CERIF, SolrEyes				 | Tagged: CERIF, solr				 |
+Permalink
+Posted by bruceatbrunel
+Research Information Management – the Sample Reports from the BRUCE project
+September 15, 2011
+The work to create a CERIF mapping that could then be indexed via Solr and presented via SolrEyes was based on two Sample Reports, a Summary Staff Report and a Simple Publications Report, created by Dr Rosa Scoble at Brunel.
+The idea behind the sample reports was to identify key reporting requirements that would be useful to institutions across the sector.
+In doing so, we hoped to encourage other institutions to have a play with the tools produced by the BRUCE project in order to generate copies of the reports using their own data.
+Feedback on draft reports was sought via the Project Advisory Group.
+That feedback was then incorporated into the reports that are now being made available here.
+Leave a Comment »				|
+CERIF, Solr, SolrEyes								 |
+Permalink
+Posted by bruceatbrunel
+JISC RIM Projects (including BRUCE) dissemination event
+September 13, 2011
+You are invited to join us at a major conference showcasing the work of the second round of RIM Projects (BRUCE, CERIFY, IRIOS and MICE) – this is a great opportunity to come along, meet the team and find out more about what the BRUCE project has actually achieved.
+The workshop takes place at the Manchester Conference Centre on Tuesday 20th September, 2011 and is absolutely free to attend (lunch is also provided).
+Further information and the workshop programme are available on the UKOLN website.
+Hope to see you all in Manchester!
+Leave a Comment »				|
+BRUCE, CERIF, Events, JISC								 |
+Permalink
+Posted by bruceatbrunel
+From the CERIF Model to the Solr Index
+September 11, 2011
+Part of the challenge of the BRUCE project is to take a highly relational model like CERIF and convert it into something which can be adequately indexed for searching and faceting.
+Apache Solr, like many traditional search engines, works on the principle of key-value pairs.
+A key-value pair is simply an assertion that some value (on the right) is associated with some key (on the left).
+Examples of key-value pairs are:
+name : Richard
+project : bruce
+organisation : Brunel University
+Typically, the keys on the left come from a set of known terms, while the values on the right can vary arbitrarily.
+Therefore, when you search for documents belonging to “Richard”, you are asking which documents have the value “Richard” associated with the key “name”.
+In addition, keys are often repeatable (although depending on the search index schema this might not be always the case), so you could have multiple “name” keys, with different values.
+Approach
+The objective, then, is for us to convert the graph-like structure of CERIF (that is, it has entities and relationships which do not follow a hierarchy) into the flat key-value structure of a search index.
+It should be clear from the outset, therefore, that data-loss will necessarily result from this conversion; it is not possible to fully and adequately represent a graph as a set of key-value pairs.
+The project aimed, instead, to extract the key information from the CERIF schema from the point of view of one of the Base Entities.
+There are 3 Base Entities in CERIF: Publications, People and Organisational Units.
+Since BRUCE is concerned with reporting principally on staff, we selected People as the Base Entity from which we would view the CERIF graph.
+By doing this we reduce the complexity of the challenge, since a graph viewed from the point of view of one of its nodes behaves like a hierarchy at least in the immediate vicinity (see the real analysis of this, below, for a clear example).
+Our challenge is then simplified to representing a tree structure as a set of key-value pairs.
+The second trick we need to use is to decide what kind of information we want to actually report on, and narrow our indexing to fields in the CERIF schema which are relevant to those requirements.
+This allows us to index values which are actually closely related to eachother as totally separate key-value pairs: as long as the index provides enough information for searching and faceting, it won’t matter that information about their relationship to eachother is lost.
+For example: suppose we want to index the publications associated with a person, and we want to be able to list those publications as well as providing an integer count of how many publications were published by that person in some time frame.
+Initially this might look quite difficult, as a “publication” is a collection of related pieces of information, such as the title, the other authors, the date of publication, and other administrative terms such as page counts and so on.
+To place this in a set of key-value pairs would require us to do something like:
+title: My Publication
+publication_date: 01-09-2008
+pages: 10
+This is fine if there is only one publication by the person, but if they have multiple publications it would not be possible to tell which publication_date was associated with which title.
+Instead, we have to remember that this is an index and not a data store.
+If we wish to list publication titles and count publications within date ranges, then it is just necessary for us to index the titles and the dates separately and ensure that they are used separately within the index.
+So we may have:
+title: My First Paper
+title: My Second Paper
+publication_date: 01-09-2008
+publication_date: 23-05-2009
+This configuration loses data by not maintaining the links between publication_date and title, but is completely adequate for the indexing and faceting requirements.
+To meet our original requirement stated above we can just count the number of publication_date keys which contain a date which lies within our desired time frame and return this integer count, while simultaneously listing the titles of the publication.
+The fact that these two pieces of information are not related in the index makes no difference in producing the desired outcome.
+CERIF schema
+The CERIF schema that we are working with is a limited sub-set of the project, and has been presented in a previous post.
+The set of tables which describe the graph contain the following fields that we are interested in are:
+CERIF Table
+Columns
+cfPers
+cfPersId, cfGender
+cfPers_Class
+cfPersId, cfClassSchemeId, cfClassId
+cfPersName
+cfPersId, cfFirstNames, cfOtherNames, cfFamilyNames
+cfPers_ResPubl
+cfPersId, cfResPublId, cfClassSchemeId, cfClassId
+cfPers_OrgUnit
+cfPersId, cfOrgUnitId, cfClassSchemeId, cfClassId, cfFraction, cfEndDate
+cfPers_Pers
+cfPersId1, cfPersId2, cfClassSchemeId, cfClassId
+cfPers_Fund
+cfPersId, cfFundId
+cfFund
+cfFundId, cfCurrCode, cfAmount
+cfOrgUnit
+cfOrgUnitId, cfHeadcount
+cfOrgUnitName
+cfOrgUnitId, cfName
+cfOrgUnit_OrgUnit
+cfOrgUnitId1, cfOrgUnitId2, cfClassSchemeId, cfClassId
+cfResPubl
+cfResPublId, cfResPublDate
+cfResPublTitle
+cfResPublId, cfTitle
+cfResPubl_Class
+cfResPublId, cfClassSchemeId, cfClassId
+Next, imagine that we pick up the graph by cfPers using cfPersId as the identifier which relates the person to all the other entities, and we can see that a rough hierarchy emerges:
+cfPersId
+cfGender
+cfClassSchemeId
+cfClassId
+cfFirstNames
+cfOtherNames
+cfFamilyNames
+cfResPublId
+cfClassSchemeId
+cfClassId
+cfResPublDate
+cfTitle
+cfOrgUnitId
+cfClassSchemeId
+cfClassId
+cfFraction
+cfEndDate
+cfHeadcount
+cfName
+cfOrgUnitId2**
+cfFundId
+cfCurrCode
+cfAmount
+With the exception of the Org Unit data (marked with **), the result is a straightforward enough hierarchy.
+We can avoid considering the graph that emerges under the organisation unit data by ensuring that the cfPers_OrgUnit table contains all the relevant relationships that we want to consider during indexing, so that we don’t have to attempt to index the org unit graph when preparing an index from the perspective of the person.
+Solr index
+The Solr index allows us to specify a field name (the key, in the key-value pair), and whether that field is repeatable or not.
+Each set of key-value pairs is grouped together into a “document”, and that document will represent a single person in the CERIF dataset, along with all the relevant data associated with them.
+When we have fully built our index, there will be one document per person.
+The Solr index which then meets our requirements is constructed from the above CERIF data as follows:
+Field
+Single/Multi
+Value
+Notes
+entity
+single
+“cfPers”
+Indicates that this is a person oriented document.
+This allows us to extend the index to view other kinds of entities as well, all represented within one schema.
+id
+unique
+cfPersId
+A unique id representing the entity.
+When other entities are included in the index, this could also be their ids (e.g. cfResPublId)
+gender
+single
+cfGender
+name
+single
+a combination of cfFirstNames, cfOtherNames and cfFamilyNames
+This is the first person name that is encountered in the database, and is used for sorting and presented as the authors actual name.
+There is another field for name variants
+name_variants
+multi
+a combination of cfFirstNames, cfOtherNames and cfFamilyNames
+This allows us to have multiple names for the author for the purposes of searching, although they will not be used for sorting or presented to the end user
+contract_end
+single
+cfOrgUnit/cfEndDate
+Taken from the cfEndDate field in the cfPers_OrgUnit table which is tagged by cfClassId as Employee
+funding_code
+multi
+cfFundId
+org_unit_name
+multi
+cfOrgUnit/cfName
+org_unit_id
+multi
+cfOrgUnit/cfOrgUnitId
+primary_department
+single
+cfOrgUnit/cfName
+This differs from org_unit_name in that it is the department that the person should be considered most closely affiliated with.
+This would be, for example, their department or research group.
+It is used specifically for display and sorting, which is why it may only be single valued.
+primary_department_id
+single
+cfOrgUnit/cfOrgUnitId
+The id for the department contained in primary_department
+primary_position
+single
+cfOrgUnit/cfClassId
+The position that the person holds in their primary department (e.g. “Lecturer”)
+fte
+single
+cfOrgUnit/cfFraction
+The fraction of the time that the person works for their organisational unit which is tagged with cfClassId of Employee.
+supervising
+multi
+cfPers_Pers/cfPersId2
+This lists the ids of the people that the person is supervising.
+These can be identified as the cfPers_Pers relationship has a cfClassId of Supervising
+publication_date
+multi
+cfResPubl/cfResPublDate
+This lists the dates upon which the person published any result publications.
+This is a catch-all for all types of publication.
+Individual publication types are broken down in the following index fields
+publication_id
+multi
+cfResPubl/cfResPublId
+This lists the ids of all the publications of any kind which the person published.
+journal_date
+multi
+cfResPubl/cfResPublDate
+This is the list of dates of publication of all publications which have a cfClassId of “Journal Article”.
+journal_id
+multi
+cfResPubl/cfResPublDate
+This is the list of ids
+publications which have a cfClassId of “Journal Article”.
+book_date
+multi
+cfResPubl/cfResPublDate
+This is the list of dates of publication of all publications which have a cfClassId of “Book”.
+book_id
+multi
+cfResPubl/cfResPublDate
+This is the list of ids
+publications which have a cfClassId of “Book”.
+chapter_date
+multi
+cfResPubl/cfResPublDate
+This is the list of dates of publication of all publications which have a cfClassId of “Inbook”.
+chapter_id
+multi
+cfResPubl/cfResPublDate
+This is the list of ids
+publications which have a cfClassId of “Inbook”.
+conference_date
+multi
+cfResPubl/cfResPublDate
+This is the list of dates of publication of all publications which have a cfClassId of “Conference Proceedings Article”.
+conference_id
+multi
+cfResPubl/cfResPublDate
+This is the list of ids
+publications which have a cfClassId of “Conference Proceedings Article”.
+These terms are encoded in a formal schema for Solr which can be found here.
+Data Import
+Apache Solr provides what it calls “Data Import Handlers” which allow you to import data from different kinds of sources into the index.
+Once we have configured the index as per the previous section we can construct a Data Import Handler which will import from the CERIF MySQL database.
+This is effectively a set of SQL queries which are used to populate the index fields in the ways described in the previous section.
+A representitive example of the kinds of query include:
+SELECT cfPers.cfPersId, cfPers.cfGender, 'cfPers' AS entity
+FROM cfPers
+INNER JOIN cfPers_Class
+ON cfPers.cfPersId = cfPers_Class.cfPersId
+WHERE cfPers_Class.cfClassSchemeId = 'BRUCE'
+AND cfPers_Class.cfClassId = 'Main';
+This query is at the root of the Data Import Handler, and selects our cfPersId which will be the central identifier that we will use to retrieve all other information, as well as any information which we can quickly and easily obtain by performing a JOIN operation across the cfPers* tables.
+SELECT concat(cfFamilyNames, ', ', cfFirstNames, ' ', cfOtherNames) AS cfName
+FROM cfPersName
+WHERE cfPersId = '${person.cfPersId}'
+LIMIT 1;
+This query selects the first person’s name and performs the appropriate concatenation to turn the three name parts cfFamilyNames, cfFirstNames and cfOtherNames into a usable single string.
+SELECT cfEndDate
+FROM cfPers_OrgUnit
+WHERE cfPersId = '${person.cfPersId}'
+AND cfClassId = 'Employee'
+AND cfClassSchemeId = 'cfCERIFSemantics_2008-1.2';
+This query selects the person’s contract end date by looking for the organisational unit to which the person’s relationship (cfPers_OrgUnit) is annotated with the cfClassId ‘Employee’.
+SELECT cfResPubl.cfResPublId, cfResPubl.cfResPublDate
+FROM cfResPubl
+INNER JOIN cfPers_ResPubl
+ON cfPers_ResPubl.cfResPublId = cfResPubl.cfResPublId
+INNER JOIN cfResPubl_Class
+ON cfResPubl.cfResPublId = cfResPubl_Class.cfResPublId
+WHERE cfPers_ResPubl.cfPersId = '${person.cfPersId}'
+AND cfResPubl_Class.cfClassSchemeId = 'cfCERIFSemantics_2008-1.2'
+AND cfResPubl_Class.cfClassId = 'Journal Article';
+This query selects the ids and dates of publications by the selected person which have a class of ‘Journal Article’.
+Here we will not go into this at any further length; instead the code which provides the Data Import functionality can be obtained here.
+It is probably worth noting, though, that these queries are quite long and involve JOINing across multiple database tables, which makes reporting on the data hard work if done directly from source.
+The BRUCE approach means that this is all compressed into one single Data Import Handler, and leaves all the exciting stuff to the much simpler search engine query.
+Use of the index
+Once we have produced the index, we feed it into SolrEyes (discussed in more detail here) which is configured to produce the following functionality based on the indexed values:
+Field
+Usage
+entity
+facet
+id
+unused, required for index only
+gender
+facet, result display
+name
+sort, result display
+name_variants
+currently unused
+contract_end
+facet, sort, result display
+funding_code
+result display
+org_unit_name
+currently unused
+org_unit_id
+currently unused
+primary_department
+sort, result display
+primary_department_id
+currently unused
+primary_position
+facet, result display
+fte
+facet, sort, result display
+supervising
+result display (a function presents the number of people being supervised by the person)
+publication_date
+facet, result display (a function counts the number of publications in between the date ranges specified by the facet)
+publication_id
+currently unused
+journal_date
+result display (a function counts the number of journal articles in between the date ranges specified by the publication_date facet)
+journal_id
+currently unused
+book_date
+result display (a function counts the number of journal articles in between the date ranges specified by the publication_date facet)
+book_id
+currently unused
+chapter_date
+result display (a function counts the number of journal articles in between the date ranges specified by the publication_date facet)
+chapter_id
+currently unused
+conference_date
+result display (a function counts the number of journal articles in between the date ranges specified by the publication_date facet)
+conference_id
+currently unused
+Key:
+facet
+used to create the faceted browse navigation
+result display
+used when presenting a “document” to the user.
+Sometimes the value is a function of the actual indexed content.
+sort
+used for sorting the result set
+Note that a more thorough treatment of the Solr index would split the fields up into multiple indexed fields which are customised for their purposes, but that we have not done this in the prototype.
+For example, fields used for sorting will go through normalising functions to ensure consistent sorting across all values, while displayable values will be stored unprocessed.
+We can now produce a user interface like that shown in the screen shot below.
+The approach used here could be used to extend to more features of the person Base Entity, but also other Base Entities (and, indeed, any entity in the CERIF model) could be placed at the centre of the report, and its resulting hierarchy of properties mapped into a set of key-value pairs, and all could co-exist comfortably in the same search index.
+Leave a Comment »				|
+BRUCE, CERIF, JISC, Solr, SolrEyes				 | Tagged: BRUCE, CERIF, JISC, solr, solreyes, technical				 |
+Permalink
+Posted by bruceatbrunel
+SolrEyes
+August 19, 2011
+SolrEyes is a basic but effective wrapper around Apache Solr which has been developed by the BRUCE project as a replacement for Blacklight.
+As per our previous post, significant problems were had in stabilising Blacklight, so a brief exploratory was carried out in attempting to replicate that functionality which was necessary to the project (not all of the existing functionality was necessary for our needs).
+Having been successful we went on to introduce support for ranged facets, allowing us to limit by date or any other rangeable field.
+Technology
+SolrEyes uses the SolrPy Python library to communicate with Apache Solr and the Mako templating language to provide the User Interface. It presents the results of search requests to the user with facet counts and current search parameters alongside the search results themselves.
+It allows for facets to be added and removed, as well as allowing for sorting and sub-sorting and fully supports flexible paging over result sets.
+Note that the data presented in these screen shots is artificial, and should not be considered indicative of anything.
+It is strongly inspired by Blacklight, and provides all of the basic search and facet functionality from that system.
+In addition, the configuration has been done as a JSON document which makes it easier to separate from the application and to modify and extend.
+Reporting features
+A key difference between SolrEyes and Blacklight is that SolrEyes comes pre-prepared for some reporting features.
+Every search constraint and every search result field is passed through a processing pipeline which converts it from the value in the Solr index into the display value, and that pipeline is created in configuration by the user.
+In the simplest case, this allows us to switch the indexed value M in the gender field for the word Male before it is displayed.
+This is done by specifying that the facet values for the gender field should be passed to a function called value_map which maps M to Male and F to Female:
+“facet_value_functions” : {
+“gender” : {“value_map” : {“M” : “Male”, “F” : “Female”}},
+}
+This shows a configuration option which exchanges facet values for display values in the gender field.
+This approach could also be used, though, to substitute date ranges for descriptions, such as “RAE 2008”, or other useful terms.
+At the more powerful end of the spectrum, though, this feature can be used to process result values themselves to present information as functions of those values.
+An example of the way this is used in BRUCE is as follows:
+We wish to present counts of the number of publications that researchers have published in the reporting period.
+The reporting period can be set by choosing the appropriate date range from the navigation (this constrains the publication_date field to contain values from that range).
+This means that we cannot index this data in advance, as it is dependent on the exact date range that the user selects, which could be absolutely anything.
+Instead we pipe the date range selected and a result field which contains the dates on which the user published to a function which can compare those publication dates with the constraint range and return a count of those publications which fall within it.
+In order to achieve this effect the documents in our index contain a list of the dates upon which the author published.
+“dynamic_fields” :{
+“period_publications_count” : {
+“date_range_count” : {
+“bounding_field” : “publication_date”,
+“results_field” : “publication_date”
+}
+}
+}
+This shows a configuration of a “dynamic field” which presents the count of values in the index field publication_date which fall within the constraining facet publication_date.
+This screenshot shows a single record which has been constrained to all publications from a single year (see the green box which displays the constraint).
+The final 6 result columns contain values which are dynamically generated by comparing the publication dates of the different publication types with that constraint.
+So, here, S W Burnham is seen to have published 2 items in 1880: 1 Book and 1 Conference Paper.
+External Take Up
+SolrEyes has proved sufficiently simple to operate and configure while providing useful functionality that it has also had some take-up outside of the project.
+The functionality was designed deliberately to be flexible to other use cases (although the reporting use cases were the ones focussed upon by the project team), and as such it has also found use as a front-end for a bibliographic data index.
+The Open Bibliography project (which provided the MedLine data that the BRUCE project built the CERIF test data from), the OKF and Cottage Labs are also involved in the development of the BibJSON standard and related BibServer software which powers the under-development BibSoup service.
+This service is using SolrEyes to operate the search and faceted browse features, and so the software is already getting feedback and enhancements from external developers.
+We hope that SolrEyes fulfills a niche for a simple but powerful interface to Apache Solr.
+Its advantages over Blacklight and VuFind are in the simplicity of the environment and a generic approach to presenting the contents of a search index (both Blacklight and VuFind are more geared towards providing catalogue interfaces).
+Using SolrEyes
+The SolrEyes software can be downloaded here.
+To use SolrEyes successfully, it requires the most recent development version of Solrpy (we found a bug in 0.9.4 and submitted a patch which was accepted, but which has not yet been packaged in a formal release).
+You can install the latest version with (all on one line):
+sudo pip install -e hg+https://solrpy.googlecode.com/hg/#egg=solrpy
+You will also need to install web.py and mako which you can do with easy_install:
+sudo easy_install web.py
+sudo easy_install mako
+Next go into the directory where you downloaded SolrEyes and modify the config.json file with your custom configuration (documentation is inline).
+Finally, you can start SolrEyes by executing:
+python solreyesui.py 8080
+This will start SolrEyes on port 8080 on localhost.
+We are very interested in taking the development of SolrEyes forward so please contact us if you have any questions, feedback or suggestions.
+2 Comments				|
+Blacklight, BRUCE, JISC, Solr, SolrEyes				 | Tagged: blacklight, BRUCE, JISC, solr, solreyes, technical				 |
+Permalink
+Posted by bruceatbrunel
+« Previous Entries
+Recent Tweets
+RT @SRUCStudents: @TheBotanics #RBGEhort, @CIHort
+@caley_rchs #Oatridge Open Day Fri 24 Feb between 1.30-4.00pm for #horticulture #landsc… 				8 hours ago
+RT @ByLeavesWeLive: The SPL is seeking a motivated and innovative individual to join its small but dedicated team as Senior Librarian https… 				19 hours ago
+That building looks vaguely familiar ... @BotanicCottage
+twitter.com/PlantNetwork/s… 1 day ago
+RT @RBGE_Science: "What is a lichen?" starring a stick, an umbrella & a wooden spoon. Oh, and our lichen safari team!
+https://t.co/dbFhAld… 1 day ago
+RT @leonie_paterson: There's a fabulously vibrant exhibition currently on in the library foyer @TheBotanics thanks to @eca_edinburgh- come… 				1 day ago
+Themes
+Blacklight BRUCE Brunel CERIF Events JISC Solr SolrEyes
+Search
+Blogroll
+CERIFY
+Cottage Labs
+euroCRIS
+Integrated Research Input and Output System (IRIOS)
+MICE (Measuring Impact Under CERIF)
+Research Information Management: JISC
+St George's, University of London
+Symplectic Ltd
+UKRISS
+Email Subscription
+Enter your email address to subscribe to this blog and receive updates on the progress of the project.
+Join 5 other followers
+Create a free website or blog at WordPress.com.
+BRUCE at Brunel
+Create a free website or blog at WordPress.com.
+Post to
+Cancel

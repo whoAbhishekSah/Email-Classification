@@ -1,0 +1,118 @@
+Logins for Life - Information Services - University of Kent
+University of Kent - The UK's European University
+University of Kent
+- Home
+Contact
+Maps
+Departments
+Shortlisted for Exceptional Performance, THE DataPoints Merit Award 2016
+About
+Planning and strategyUniversity Plan 2015-20 UK's European university Annual review and reports How we operateCommitteesGovernanceConstitution
+Regulations Charity information Modern Slavery Act Transparency Statement People Vice-Chancellor Executive Group Principal officers Honorary graduates DepartmentsSchools and faculties Professional services External services Complete A-Z More about KentCareer Opportunities Essential Kent Eastern ARC
+Regional impact Community relations Events and what's onFull calendar Undergraduate term dates Open Lectures Gulbenkian
+Research
+Excellence at KentLatest research news REF 2014 Research impact Expertise Publications Public engagementDepartments/people Find a Kent expert Schools and faculties Research Services Innovation & Enterprise Graduate School Academic/research jobs Research degreesSearch courses Research degrees How to apply Postgraduate funding Graduate school
+Courses
+Undergraduate 2017Search coursesHow to applyPart-time studyFees and fundingStudy abroadGo abroadPostgraduate 2017Search courses How to apply Research degrees Taught courses Fees and funding Part-time and short coursesOnline prospectus Summer schools InternationalFoundation (IFP)Pre-sessional English Graduate
+Diplomas (GDip) Short-term programmes Visit KentOpen Days Applicant Days Informal visits Kent around the world Useful linksAccommodation Fees and funding Scholarships Locations Admissions FAQsInformation for...International students Parents and family Applicants New students
+Locations
+UK locationsCanterbury MedwayTonbridge Partner collegesValidated institutions European centresBrussels Paris Rome Athens Other locationsExchanges with over 100 overseas universities
+International
+Courses Study and work abroad Double-degrees Short-term study options 'International' courses Erasmus exchanges International studentsStudy at Kent Application process When you arrive International PartnershipsWorldwide partnerships International exchanges Alumni groups/networks ContactsInternational Recruitment International Partnerships English & world languages Strategy & reputationInternational impact World-leading research UK's European university MapsInternational impact International Research Impact Campus locations
+Business
+International expertiseBusiness services Collaborative projectsConsultancyFacilitiesEmployability pointsCoursesUndergraduate Postgraduate Part-time (undergraduate) Executive education ContactsCareers & Employability Service Innovation & Enterprise Kent Business School Conferences and functions Sports centre and facilities
+News
+News CentreLatest storiesExpert commentPress officeSocial mediaRSS feedsStudents and staffStudent newsStaff newsCampus transport newsIT service alertsSubmit a story
+Alumni
+Lasting connections...Alumni and friends News Events Community Alumni groups Former staffUseful linksTelephone Campaign 2016 Congregations Honorary graduates Discount on fees Alumni scholarships Online giftshop
+Giving
+Major projectsKent Law Campaign Kent Opportunity Fund Hong Kong & China Portal Ways to giveTelephone Campaign 2016 Online By post or phone Other options..
+Information Services
+Information ServicesHomeWho we are What we doStrategy & operational planProjectsTempleman developmentSDS replacement projectUnified Library Management System (ULMS)Project archive
+Committees and groupsCopyrightRegulations
+Engage with usFeedbackConsultationsSurveysContact us
+IS websitesNew studentsIT ServicesLibrary Services
+University of KentInformation Services
+Logins for Life
+Final reportProject final documentsOther project documents
+Contact details
+Final report
+Logins
+for Life was a
+Joint Information Systems Committee
+(JISC) funded project which looked at how
+current digital relationships between HEIs and their users could be improved to
+make them richer, easier to initiate and authenticate to and longer lasting -
+starting earlier and continuing beyond the study or employment period.
+Read more...
+Resources provided by HEIs tend to be closely guarded and
+available only to members and then only during their period of study and/or
+employment. There are good reasons for protecting resources but if HEIs are
+interested in extending and widening their on-line relationships - something
+which most agree is necessary and mutually beneficial - early impressions
+formed by prospective students are important. Building relationships with this
+target group is equally important and it is beneficial for providers and
+prospective students if online relationships are created as early as possible -
+usually whilst the target group is still at school. There are also benefits to
+maintaining relationships with alumni - not just as a potential financial
+resource but also as mentors and as part of a scattered community which is
+passively and actively demonstrating the value of an education from that
+institution.
+The project looked at how a relationship with the university
+could best be initiated and maintained from the point of view of the
+prospective student, bearing in mind that most members of this group would be
+looking at the offerings of many HEIs. We did not want to add to the
+proliferation of accounts and associated usernames and passwords and so looked
+at how a user’s existing digital identities could be used to self-authenticate
+at the HEI website. Obviously this is a contentious area and it is vital to
+strike the right balance between convenience for the user and the security of
+the University’s systems.  In the early
+stages of a relationship with the University the target is not to give access
+to highly sensitive or confidential data – the purpose here is to establish a
+relationship quickly and conveniently which will give the user access to the
+information they need. Primarily this will be information on courses available
+but may also include access to forums and other information pages. The project
+proposes acceptance of Facebook, Twitter, Google, UK federation and OpenID
+credentials for self-authentication to the University’s website.
+On becoming a member of the university it is of course necessary
+to give a higher level of access than could be offered in the preceding
+scenario and self-authentication needs to be augmented with formal methods of
+identification so that a full Kent IT Account can be created. This is
+unavoidable. The School of Computing at
+the University of Kent have developed an application that allows a user to link an existing digital identity - perhaps the one they
+used to create an initial account with the University - to their Kent IT Account once they have become a member of the university. This does not remove
+the need to provide their Kent IT credentials to access some protected
+resources but it does facilitate the use of other credentials - such as those of
+social networking applications - for access to some parts of the university’s
+systems. Many users access these applications several times a day and from
+mobile devices as well as desktops making the availability of low-level
+personal data - such as timetables or library data - easily obtainable
+Main recommendations from the Logins for Life project
+Introducing easier and speedier registration: by allowing visitors to the Kent website to register using their existing social networking or other credentials (eg Facebook, Google, OpenID).
+Providing improved IT Services for alumni: by giving access after graduation, to an alumni email service, e-portfolio and personal development planning (PDP) software, contact update forms etc.
+Building apps: for mobile devices and social networking sites to improve access to personalised Kent data (timetabling, library data etc).
+Providing an account linking tool: which will allow a member of the University to link social networking and other third party sites to their Kent IT Account, giving more convenient access to some personalised Kent data.
+Other recommendations
+Continue to provide alumni email
+Provide additional online resources for prospective students
+Information Services, University of Kent
+Contact IS
+|
+Feedback on IS
+|
+IS Regulations
+Last Updated: 24/08/2016
+Kent on facebook
+Kent on twitter
+Kent on linkedin
+Kent on youtube
+Kent on flickr
+Kent on rss
+Instagram
+Google Plus
+Social media at Kent
+© University of Kent - Contact | Feedback | Legal | FOI | Cookies
+SGroup: European Universities Network
+Eastern Academic Research Consortium
+Universities UK
+Queens Anniversary Prize

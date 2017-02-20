@@ -1,0 +1,39 @@
+GFIVO - Newcastle University
+G-FIV-O
+Introduction
+News
+Project Team
+Resources
+Blog
+G-FIV-O [Grouper to support Federated Identity for Virtual Organizations] is a JISC funded
+project based at Newcastle University to investigate the use of next generation access management
+tools to support the use of collaborative tools for distributed organizations.
+Introduction
+GFIVO is a project funded by JISC under the e-infrastructure security strand. The project hopes to address the over complicated nature of current web application provision by providing a framework for access control and group management that can be used by web applications. In this way web application development should be greatly simplified allowing developers to easily develop applications without having to worry about integrating against complex institutional identity management architectures. This should allow web application access control provision to break out of it's current heavy weight use cases of Virtual Learning Environments (VLEs), Portals, and web based email gateways. This will allow
+access control to be used in light weight, quickly developed applications which can be developed to support the diverse ever changing requirements of smaller user groups.
+The GFIVO project will investigate the use of Shibboleth and Grouper to provide an easy to use framework for access control to web applications. The combination of Shibboleth and Grouper should provide a framework that enables the existing heavy weight, expensive identity management infrastructure of universities to be made easily available to developers and users without them having to understand or access the underlying complex interrelated systems that combine to form identity management infrastructure of universities.
+The project will investigate develop and deploy simple but effective collaborative tools like wikis, blogs, group calendars and mailing lists using grouper and shibboleth as access control infrastructure, in this was is should be possible to combine a set of simple application together into a platform that fosters group communication and formation for the academic community. The use of Shibboleth and Grouper to provide an authentication and authorization framework to a suite of simple collaborative tools allows authentication to become part of the Service Orientated Architecture approach to service provision as outlined by the e-Framework.
+Gfivo News
+Grouper Demonstration Videos
+Grouper Application Development
+Grouper Deployment Update
+Using Kerberos as a SSO
+Development guide for PHP and .NET clients on Grouper site.
+Outsourcing Identity Management functions report released.
+ITIL documentation for Grouper.
+Update on Java, PHP and .NET clients.
+Rampart 1.4 problems fixed!
+First thoughts on Apache Rampart 1.4 and Apache Axis 2.1.4.
+Improving the interface for existing client PHP Grouper WS clients.
+ITIL documentation for Grouper.
+Developing .NET clients to consume Grouper.
+test of large group uploads
+Grouper v1.3.0 API and UI released.
+Ldappc installed and configured successfully.
+gFivo releases report on Multiple Security Mechanisms Web Services Deployment.
+gFivo to report on our research on multiple security mechanisms for Web Services.
+Grouper WS 1.3.0 RC 2 successfully deployed and configured.
+Hibernate/MySQL exceptions during Grouper WS 1.3.0 RC1 deployment.
+Successful deployment of Grouper API and UI 1.3.0 RC2.
+Unsuccessful deployment of Grouper UI 1.3 RC1.
+© Copyright Newcastle University 2007

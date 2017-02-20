@@ -1,0 +1,151 @@
+http://www.ch.ic.ac.uk/clic/
+The C L
+I
+C Consortium Electronic Journal Project
+CLIC Products
+The CLIC HyperWave Server: http://chemcomm.clic.ac.uk/
+General information about the Server and Authoring Environment
+Illustrated Contents Lists
+CLIC enhanced articles at the Royal Society of Chemistry
+On-the-fly SGML=>HTML Conversions of 1996 Issue 3 and 4 articles.
+Chemical Program Collection for authors and readers
+Awareness Raising Conferences: ECTOC-1, ECHET96,
+ECTOC-3 and ECHET98
+Final CLIC Project Report
+Associated CLIC Projects:
+Chemistry Markup Language (CML) and XML Discussion list
+Chemistry Java and JavaScript Collection
+Chemistry Virtual Reality Modelling Language (VRML)
+Chemistry Webmasters Fora: November 29, 1995 and 24 June 1996 and Discussion Forum
+The Chemical MIME Project
+The LaTeX2HTML Project.
+Publisher Item Identifiers: A Checksum Calculator and Verifier
+Chemistry Vendor and
+Developer Software Projects of relevance to CLIC
+Chemscape Chime from MDLI
+CLIC Publicity and Information
+Annual Report 1996
+General Background to the Project
+CLIC Press Release.
+Ariadne: A Web Magazine of Internet Issues
+On-line Talk about the CLIC Project
+Networked Information in an International Context: An International Conference
+A General Account of the Objectives of the CLIC Project
+What Other People have written about us
+"E-Chemistry", New Scientist, July 20 1995, p 52.
+"ECTOC-1 Stems from Electronic Library Project", Chemical and Engineering News, August 21, 1995, page 35.
+"Projects give Journals an Extra Dimension", Information World Review, September 1995.
+"Chemical Hit Parade", Scientific Computing World, September, 1995.
+"Getting the Chemistry Right", Information World Review, October 1995, p 25.
+"Web Site Sets the chemical Standard", Information World Review, October 1995.
+"Welcome to the Global Laboratory", Business Week, 30 October, 1995, p 74.
+"Chemistry Sites Flourish On The Internet's World Wide Web," Chemical and Engineering News, November 15, 1995.
+Monitor, 177, Nov 1995, page 4
+CLIC News on Ariadne
+Review of the
+ECTOC-1 Conference on Online and
+CD Notes,
+December 1996, p 16.
+A Review of
+Virtual
+Reality in
+Chemistry, including CLIC Work, in C&E News, 1996, December 9, p35.
+Scholarly Articles describing some of the chemical background;
+H. S. Rzepa, B. J. Whitaker and M. J. Winter, Chemical Communications, 1994, 1907.
+O. Casher, G. Chandramohan, M. Hargreaves, C. Leach, P. Murray-Rust, R. Sayle, H. S. Rzepa and B. J. Whitaker, Perkin Transactions 2, 1995, 7.
+H. S. Rzepa, "The Future of Electronic Journals in Chemistry". Trends in Analytical Chemistry, 1995, 14, 464.
+B. J. Whitaker and H. S. Rzepa, "Chemical Publishing on the Internet", Conference on Chemical Information, Nimes, France, October, 1995.
+D. James, B. J. Whitaker,
+C. Hildyard, H. S. Rzepa, O. Casher, J. M. Goodman,
+D. Riddick, P. Murray-Rust The Case for Content Integrity in Electronic Chemistry Journals: The CLIC Project.,
+New Review of Information Networking, 1996, 61-70.
+O. Casher and H. S. Rzepa, "The Molecular Object Toolkit: A New Generation of VRML Visualisation tools for use in Electronic Journals", Proceedings of the 14th UK Eurographics Conference, March, 1996.
+S. M. Bachrach, P. Murray-Rust, H. S. Rzepa, B. J. Whitaker, "Publishing Chemistry on the Internet", Network Science, 1996, 2 (3).
+P. Murray-Rust, H. S. Rzepa, B. J. Whitaker, Chem. Soc. Reviews, 1997, in press.
+General and Background Information
+Some Other Electronic Chemistry Journal Projects and the ELVYN Project
+Web Sites relating to SGML
+CatchWord Scholarly Electronic Journal Publishing
+Progress Reports (for consortium members only)
+For further information contact individuals at any of the sites;
+Contact PersonRoleContact Detail
+Dr Henry Rzepa Project
+Director
+Department of Chemistry
+Imperial College of
+Science, Technology and Medicinephone: 0171 594 5774
+Fax: 0171 594 5804
+Email:
+rzepa@ic.ac.uk
+WWW:
+http://www.ch.ic.ac.uk/clic/
+Dr David JamesManager New
+Media Royal Society of Chemistry phone: 01223 432136
+Email:
+JAMESD@rsc.org
+WWW: http://chemistry.rsc.org/rsc/
+Dr Benjamin
+WhitakerSchool
+of
+Chemistry
+Leeds Universityphone:
+0113 2 336580
+Email:
+benw@chemistry.leeds.ac.uk
+WWW:
+http://www.chem.leeds.ac.uk/CLIC/leeds.html
+Dr Jonathan
+Goodman Department
+of
+Chemistry
+Cambridge
+University phone: 01223
+336434
+Email:
+jmg11@cus.cam.ac.uk
+WWW: http://www-clic.ch.cam.ac.uk/CLIC/
+Dr. Omer CasherDepartment
+of
+Chemistry
+Imperial College phone:
+0171 594 5795
+Email:
+o.casher@ic.ac.uk
+WWW:
+http://www.ch.ic.ac.uk/clic/
+Dr. Jonathan GriffithsNew
+Media Royal Society of Chemistry phone 01223 432136
+Email: Griffithsj@rsc.org
+WWW: http://chemistry.rsc.org/rsc/
+Dr. Chris
+HildyardSchool
+of
+Chemistry
+Leeds Universityphone:
+0113 2 336594
+Email:
+chrish@chemistry.leeds.ac.uk
+WWW:
+http://www.chem.leeds.ac.uk/CLIC/leeds.html
+Dr. Dave Riddick Department
+of Chemistry
+Cambridge University phone:
+1223 432335
+Email:
+dar25@cus.cam.ac.uk
+WWW:
+http://www-clic.ch.cam.ac.uk/CLIC/
+Mr Chris RusbridgeeLib
+Programme DirectorUniversity of Warwick phone: 01203
+524979
+fax: 01203 524981
+Email:
+C.A.Rusbridge@warwick.ac.uk
+Mr David CookFIGIT
+SecretaryJISC Secretariat phone: 0117 931 7250
+fax: 0117 931 7255
+Email:
+D.Cook@jisc.ac.uk
+For information about this site, contact Henry Rzepa
+or go to the Home page for the overall e-lib programme
+Last updated November 19, 1998.

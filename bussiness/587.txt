@@ -1,0 +1,205 @@
+Wireless Technology Solutions for the Consumer Electronics Market
+Skip to main content
+Search
+We are pleased to announce that as of August 13, 2015, Qualcomm Global Trading Pte. Ltd., a subsidiary of Qualcomm Incorporated, has completed its acquisition of CSR plc. For more information, please see the press release .
+English 简体中文 日本語 한국어 漢語
+Our CompanyAbout Us
+CareersUK
+US
+China
+Germany
+India
+Israel
+Japan
+Singapore
+South Korea
+Taiwan
+Locations
+NewsroomPress Releases
+Blog
+aptX® Website
+Solutions & TechnologiesSolutions for industry
+Audio & Home EntertainmentAudio & Home EntertainmentLeading brands like Bowers & Wilkins, Philips and Logitech turn to CSR to solve the challenges their customers really care about - sound quality, low latency, low power, and seamless connectivity – so that they can get on with the business of creating popular, high performance products.
+Bluetooth® SpeakersBluetooth® SpeakersCSR is an acknowledged leader in Bluetooth® speaker technologies with a wide range of all-in-one silicon and software solutions suited to all levels of consumer products. From generating a true wireless performance, to optimizing the development of accessories for iPhones and other music devices, we ensure crystal-clear audio.
+GamingGamingCSR’s wireless gaming controller System on Chips (SoCs) enable developers to bring differentiated products to market quickly. CSR’s latest BlueCore® CSRB5341™ and BlueCore® CSRB5342™ SoCs allow rapid development for next generation Wireless Gaming Controllers and Wireless HIDs enabling low latency control and ultra-low power operation.
+Home Entertainment EcosystemsHome Entertainment EcosystemsIn audio, music and gaming, CSR’s innovations enable connected ‘home entertainment ecosystems’ that deliver a superior listening experience and seamless connectivity for consumers. Consumers want the ability to control multiple devices like DVRs, TVs and HiFi from a single device. We deliver complete end-to-end solutions – chips, software, tools and reference designs.
+Mono HeadsetsMono HeadsetsCSR’s all-in-one silicon and software solutions for mono headsets deliver a rich user experience, small form factor options and consistently top independent surveys for best performance and clarity. Which is why our technologies power many of the world’s most desirable consumer electronics brands.
+Peripherals & HIDPeripherals & HIDBluetooth® Smart has been adopted in Windows 8 as the standard for low power HID (Human Interface Device) accessories. With Windows 8 devices consumers can benefit from long battery life, and no need to install drivers or clog their USB ports with dongles.
+Smart Remotes, 3D Glasses & AccessoriesSmart Remotes, 3D Glasses & AccessoriesNo television, speaker dock or gaming console is complete without a remote control. CSR's wireless connectivity solutions for remotes come equipped with Bluetooth® Smart technology, which delivers rock-steady, non-line-of-sight connectivity without the need to replace batteries for years.
+SoundbarsSoundbarsCSR’s all-in-one silicon and software solutions for soundbars are ready to use, reducing time to market and product development costs. CSR’s technologies enable superior performance, product differentiation and deliver unique features – like CSR aptX® - that consumers want.
+Stereo HeadsetsStereo HeadsetsOur product line for stereo headsets supports CSR’s aptX® and aptX low-latency technology as standard, delivering wireless audio quality just like wired. And also includes other consumer-focused features like low power consumption, stereo widening, ‘charge and do’, multi-lingual voice guidance, rapid charge, iOS battery status, smart apps connectivity and multimedia control.
+Connected CarConnected CarCSR technology solutions are driving the future of the connected car, and we are leaders in automotive location, multimedia and auto infotainment and connectivity technologies optimized for the automotive sector. People want the same connectivity in their car as they have in their home and to bring their own music and apps, mirror and control their favorite smartphone, connect to the internet, connect to health monitors, and measure tire pressure - simply and safely, and without the hassle of wires.
+Auto SensorsAuto SensorsCSR was the first company to deliver automotive grade Bluetooth® Smart solutions. We’re now leading the way in introducing a complete Bluetooth Smart ecosystem into vehicles with CSRmesh®. At CES 2015, we showed sensors connected to the vehicle head unit or smart wearable/mobile to monitor tire pressure, control interior car lighting and home automation tasks – like opening and closing the garage door.
+Car RadioCar RadioCSR’s all-in-one silicon-software solutions for car radio significantly reduce BoM and engineering costs, integrating the three essentials of the typical auto infotainment head unit: dual-mode Bluetooth® 4.0 wireless connectivity, wideband speech with noise and echo cancellation, and on-chip A2DP stream decoding. The aptX® Bluetooth codec is capable of offering consistent high fidelity audio.
+Car NavigationCar NavigationCSR’s strong heritage in location technology solutions is helping move the market beyond traditional navigation towards true location awareness – even in challenging environments, like urban canyons. As a market leader, our strong IP portfolio includes GPS, assisted GPS (A-GPS), Enhanced GPS (eGPS) and dead reckoning which are driving innovation in the location market place.
+Display AudioDisplay AudioThe Display Audio infotainment device is one of the fastest growing automotive segments, driven by a strong consumer preference to use the smartphone ecosystem of music, navigation and apps safely, while taking advantage of the car's large screen and rich audio system. CSR delivers complete end-to-end silicon and software platform solutions to enable car manufacturers to utilize our market leading connectivity, location and audio technologies, while reducing design complexity and time to market.
+Keyless EntryKeyless EntryBluetooth® Smart is set to be a gateway technology for the automotive industry, enabling cars to communicate with Consumers’ portable devices. It enables low-power connectivity and data transfer for applications – such as Keyless Entry Systems (KES) - previously limited by the power consumption, size constraints and complexity of other wireless standards.
+Rear Seat EntertainmentRear Seat EntertainmentIn-vehicle infotainment systems have evolved from traditional radios/CD players into much more flexible platforms. For the growing rear seat entertainment market, the CSR8311 is able to drive a number of stereo headsets and remote controls, and also supports CSR aptX™ wireless, high fidelity, low latency audio compression technology for Bluetooth®.
+Connected Wearables, Health & FitnessConnected Wearables, Health & FitnessCSR has developed a range of easy to integrate and cost-effective, low-energy Bluetooth® and location solutions optimized for smart wearables and accessories. These include complex applications like multi-function fitness trackers, and simpler solutions for heart rate sensors, watches, jewelry, luggage tags and headsets.
+Internet of EverythingInternet of EverythingAs the Internet of Everything (IoE) becomes real, consumers will need to interact with large amount of input and content, control a wide range of devices and navigate complex user interfaces – effortlessly. CSR’s proven expertise in everything wireless is enabling companies like Avi-on, and AirCable to get ahead in developing exciting new products for home and building automation.
+Home AutomationHome AutomationCSRmesh® Home Automation brings simple, seamless control and connectivity to the home. CSRmesh enables Bluetooth® low energy devices not only to receive and act upon messages, but also to repeat those messages to surrounding devices thus extending the range of Bluetooth Smart and turning it into a mesh network for the Internet of Things (IoT).
+Technologies
+Voice & MusicVoice & MusicCSR engineers work with the world’s audio leaders to solve the problems of latency and wireless sound quality, bringing a truly exceptional listening experience to a broad range of consumer devices, including Bluetooth stereo headsets, speakers, soundbars, in-vehicle, and networked/multi-room audio streaming products.
+Bluetooth® SmartBluetooth® SmartCSR is a leader in Internet of Everything wireless connectivity with solutions supporting Bluetooth®, Bluetooth Smart, Wi-Fi® technologies and CSRmesh® - addressing the need for speed, seamless interoperability, low latency and zero interference.
+LocationLocationCSR’s vehicle-based and handheld location technology works virtually everywhere, outperforming the competition in difficult areas like ‘urban canyons’ and indoors. Whether you’re finding your own way or, with asset tracking, looking to track your customers, people, or things, we have the technology you need.
+Document ImagingDocument ImagingSmartphone and tablet users want to capture and output documents quickly, easily, and anywhere.  CSR’s solutions seamlessly connect devices and speedily convert documents between native formats.  In the IoT, this capability allows printing anywhere, with the same fidelity you’d expect from a connected PC.
+ApplicationsAuto Sensors
+Bluetooth® Speakers
+Car Navigation
+Car Radio
+Display Audio
+Gaming
+Home Automation
+Home Entertainment Ecosystems
+Keyless Entry
+Mono Headsets
+Peripherals & HID
+Rear Seat Entertainment
+Soundbars
+Smart Remotes, 3D Glasses & Accessories
+Stereo Headsets
+ProductsProduct Finder
+aptX®
+aptX® Enhanced
+aptX® Live
+aptX® Low Latency
+ARM®mbed™ Platform
+BlueCore4-Ext™
+BlueCore5™ Multimedia
+BlueCore® BC6130™
+BlueCore® BC6140™
+BlueCore® BC6145™
+BlueCore® CSR8311 QFN Automotive
+BlueCore® CSR8510™ A10 WLCSP
+BlueCore® CSR8811™ WLCSP
+BlueCore® CSRB5341™ & CSRB5342™
+BlueCore® CSRB5348™
+Bluetooth® Smart CSR1010™ Auto
+Bluetooth® Smart CSR101x Product Family
+Bluetooth® Smart CSR102x Product Family
+Bluetooth® Smart Environmental Sensor Board
+Bluetooth® Smart Remote Control Development Kit
+Bluetooth® Smart Software Development Kit
+Bluetooth® Smart Starter Development Kit
+CSR Positioning Centre™
+CSR Synergy™
+CSR Synergy™
+for Android™
+CSR8350™
+CSR8605™
+CSR8610™
+CSR8615™
+CSR8620™
+CSR8630™
+CSR8635™
+CSR8640™
+CSR8645™
+CSR8670™
+CSR8675™
+CSRA65700™ QFN
+CSRatlas7™
+CSRC9300™
+CSRmesh® Development Kit
+cVc®
+DDFA®: CSRA6600™ & CSRA6601™
+DirectOffice® Embedded Print
+DirectOffice® Mobile SDK
+Entry-Level Soundbar Platform
+High-End Soundbar Platform
+Inferno™ Firmware Platform
+IPS™ Universal Print Interpreter
+Made for iPod®, iPad® and iPhone® (MFi)
+MAPX™
+Mid-Range Soundbar Platform
+Proximity Beacon Development Kit
+Quatro® 4300
+Quatro® 5300
+Quatro® 5500 Series
+RoadTunes™
+SiRFatlasVI™
+SiRFDRive®
+SiRFInstantFix™ SGEE/CGEE
+SiRFprimaII™
+SiRFstarIV™
+SiRFstarV™ 5e
+SiRFstarV™ 5ea
+SiRFusion™
+SyncLock™
+tuneX®
+UniFi® CSR6000™
+InvestorsInvestor Center
+SupportCSR Customer Support
+EXTENSION™ PROGRAM
+Bluetooth® Smart Modules
+Developer Zone
+ContactGet In Touch
+Sales & CSR Solution Providers
+Stubbornly inventive
+Accurate location indoors, outdoors and everywhere, GNSS, GPS, pedestrian dead reckoning
+Read More
+Further
+Redefining Automotive infotainment with premium navigation, seamless connectivity, and hi-fidelity wireless audio.
+Read More
+When, not if
+Flexible, feature rich platforms to develop great products quickly. Silicon, software and services to speed your time to market.
+Read More
+Let’s rock the boat
+Connectivity solutions that accelerate your innovation.  High quality audio drives immersive and exciting consumer experiences.
+Read More
+Reimagine possible
+Collaborating to transform your connectivity ideas into real market potential with Bluetooth® Smart.
+Read More
+The Internet of Everything is here
+CSR connectivity breakthroughs allow you to personalize, control and interact with your environments in new and exciting ways using compact, low power platforms.
+Read More
+Solutions for the connected car
+Millions rely on CSR auto grade Bluetooth® Smart, infotainment and location solutions to find their way, control functions or enjoy premium streaming sound.
+Read More
+CD-like Quality Wireless Audio
+CSR audio codec and networked audio platforms make the most of the wireless listening experience and are a part of the world’s most well respected audio brands.
+Read More
+Internet of Things
+Automotive
+Voice & Music
+Home Automation Update
+CSRmesh® - Bluetooth® Smart for HVAC, Security & other smart home applications.
+Read More
+Ultra-Thin Bluetooth® Smart SoC
+CSR announces tiny CSR1013™ package ideal for connected credit cards & wearables.
+Read More
+Customer Support
+Please sign in:
+Username
+Password
+Submit
+Company
+About Us
+Investors
+Privacy Policy
+Terms of Use
+News Room
+Press Releases
+Blog
+Contact
+Products
+Product Finder
+Get Products
+aptX®
+Terms of Supply
+Support
+Customer Support
+Developer Zone
+eXtension™ Program
+Bluetooth® Smart Modules
+Sitemap
+Contact Us
+Press
+Investor Relations
+Locations
+Email
+©2015 Qualcomm Technologies International, Ltd.  and/or its affiliated companies.
+Qualcomm Technologies International, Ltd. (formerly known as Cambridge Silicon Radio Limited) is a company registered in England and Wales with a registered office at: Churchill House, Cambridge Business Park, Cowley Road, Cambridge, CB4 0WZ. Registered Number: 3665875 | VAT number: GB787433096.
+Nothing in these materials is an offer to sell any of the components or devices referenced herein.
+References to "Qualcomm” may mean Qualcomm Incorporated, Qualcomm Technologies, Inc., Qualcomm Technologies International, Ltd., or other subsidiaries or business units within the Qualcomm corporate structure, as applicable.
+Materials that are as of a specific date, including but not limited to press releases, presentations, blog posts and webcasts, may have been superseded by subsequent events or disclosures.
+Qualcomm Incorporated includes Qualcomm's licensing business, QTL, and the vast majority of its patent portfolio. Qualcomm Technologies, Inc., a wholly-owned subsidiary of Qualcomm Incorporated, operates, along with its subsidiaries, including without limitation, Qualcomm Technologies International, Ltd., substantially all of Qualcomm's engineering, research and development functions, and substantially all of its products and services businesses. CSR products referenced on this page are products of Qualcomm Technologies International, Ltd. and/or its subsidiaries, while any Qualcomm  products referenced on this page are products of Qualcomm Technologies, Inc. and/or its subsidiaries.

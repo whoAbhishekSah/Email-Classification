@@ -1,0 +1,12 @@
+cairo || Complex Archive Ingest for Repository Objects
+contact us | sitemap
+cairo
+www
+Welcome to the cairo website!
+Cairo will develop a tool for ingesting complex collections of born-digital materials, with basic descriptive, preservation and relationship metadata, into a preservation repository. The project is based on needs identified by the JISC-funded Paradigm project and the Wellcome Library's Digital Curation in Action project. It is a key building block in the partner institutions' strategy to develop digital repository architectures which can support the development of digital collections over the long-term.
+You can find out more by visiting the About section of this website.
+What's new?
+Cairo is a new project funded under the 'Tools and Innovation' strand of the JISC's capital programme on Repositories and
+Preservation. The project will run to the end of August 2008. You can find out more in the About section of this website.
+Contributing institutions
+Last updated: 29 April 2008 | Website designed by Webfooted Designs Ltd

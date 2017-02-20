@@ -1,0 +1,92 @@
+The Design Studio / ALDinHE DL
+The Design Studio
+log inhelp
+WikiPages & Files
+View
+ALDinHE DL
+Page history
+last edited
+by Marianne Sheppard 3 years, 1 month ago
+Association for Learning Development in Higher Education
+Introduction
+The Association for Learning Development in Higher Education (ALDinHE) is the professional association for people working in the field of learning development in universities across the UK. Our members work with students in a variety of roles and locations – academic departments, study advice teams, central learning resource areas, educational development units, careers services, and many more. What unites us is our commitment to working with students at all levels to enable them to negotiate the complex expectations, discourses and cultures of HE learning.
+Members are often located in small teams covering large and diverse student communities. As a result, the opportunities offered by digital literacies to enable effective working practices and engaging solutions are especially welcome. Particularly involved in the Developing Digital Literacies project will be our Professional Development Working Group and our LearnHigher Working Group
+Our Baseline Report on Digital Literacies for Learning Developers was posted here on 30th January 2012.
+ALDinHE
+ALDinHE on Twitter
+The team leading on the DDL project will be:
+Tweets by @aldinhe_lh
+John Hilsdon (jhilsdon@plymouth.ac.uk) - ALDinHE Steering Group and acting Chair of LearnHigher Working Group
+Andy Hagyard (ahagyard@lincoln.ac.uk) - ALDinHE Steering Group and Webmaster
+Kim Shahabudin (k.shahabudin@reading.ac.uk) - ALDinHE LearnHigher working group
+Michelle Reid (michelle.reid@reading.ac.uk) - Chair of ALDinHE Professional Development working group
+ALDinHE and Digital Literacy
+ALDinHE members have been enthusiastic and often innovative users of digital literacies in their work supporting student learning. The Association itself emerged from a highly used JISCmail discussion list (LDHEN, established in 2002), demonstrating the utility of online discussion in bringing together a previously fragmented constituency to form a genuine and active community of practice.
+Another initiative to emerge from LDHEN was the LearnHigher CETL (2005-2010). This brought together a network of learning and educational developers from 16 HEIs to research, evaluate and develop materials and interventions to support learning development work, collated as a free online resource at http://www.learnhigher.ac.uk/. After the end of CETL funding, LearnHigher was incorporated into ALDinHE, and the maintenance and development of this resource continues. Our contribution to the Developing Digital Literacies project will include the use of the LearnHigher website to disseminate suitable project outputs. More information on LearnHigher, including how to get involved, can be found on the LearnHigher Network blog.
+ALDinHE’s membership have long been keen users of a range of technologies, in their own professional practice, and in the resources and materials they use to support students. However we are aware that the level of expertise among our community is varied. Following baselining activities, we shall be seeking ways to utilise project resources to develop capabilities and innovation across the professional learning development community.
+We recognise the important role that digital literacies have to play in enabling and encouraging independent learning. Through our regular interactions with students, we have also noted new challenges prompted by advances in digital technologies: for instance, how to manage a reading list that is largely composed of e-texts; referencing practices and avoiding plagiarism when using websites for research; assumptions about competencies across a disparate student population; retaining focus in the face of online distractions. Learning developers have had to consider new strategies and guidance to support students negotiating the complexities of a rapidly changing digital learning environment.
+Professional development
+ALDinHE is a relatively new professional association, and learning development is a relatively new field as a standalone professional practice. Consequently our members have achieved their professional accreditations through a variety of routes including PGCertHE courses, library, counselling and careers qualifications. We are conscious that formal training which is specific to professional learning development activities is not yet available, and our Professional Development Working Group is working towards the establishment of a formal training qualification. It has recently produced a planning resource for professional development for learning developers, aligned to the UKPSF which includes a section on skills and capabilities for a digital environment. Informed by the results of our baselining activities with regard to training needs and preferences, we have begun to collect together resources for training including some which refer specifically to digital literacies, including using Twitter, screencasting, and the ethical issues around using social media for research.
+Baselining digital literacy provision
+We have been working since the beginning of our involvement in the DDL to collate data on digital literacy usages and expertise among learning developers in the UK, bringing together existing information about training, with data from an online survey on how digital literacies are specifically used in professional practice for learning development. We also collected longer and more informal comments and discussions via our Professional Development blog.
+This data has now been collated in our Baselining report on digital literacies for learning developers, published January 2012.
+We will continue to add links to this page on the Design Studio wiki over the course of the project. These will include training resources, examples and brief case studies to illustrate the digital literacy practices, training and attitudes of learning developers
+Using resource development to encourage digital literacy
+Through LearnHigher, we have launched an Animation Challenge: a competition for learning developers to produce simple animated resources, with the aim of inspiring and encouraging our community to extend their digital competencies. One of the key messages emerging from our baselining survey was the importance of sharing expertise and good practice in developing digital literacies in the sector. Consequently we have encouraged the shared production of basic training for simple production methods with a shared list of links and collated tips from our JISCmail list on screencasting. The successful resources will be showcased on the LearnHigher website.
+'Learning Development in a Digital Age': the 2012 ALDinHE annual conference
+This year’s ALDinHE conference, held at the University of Leeds from 2-4 April 2012, had a specific focus on digital literacies in learning development. Our most successful conference yet saw 172 delegates attending from universities across the UK, and a myriad of lively discussions, both in and out of presentations. There were representatives of a wide mixture of roles, including librarians, learning technologists, subject academics and careers advisers, as well as our core community of learning developers. Presenters discussed the use of digital literacies for teaching and learning practices, as well as for our own professional development. Delegates had ample opportunities to practise what they preached, with hands-on sessions including instant polling via mobile phones, creating QR Codes, webinars, screencasting and reflective blogging. An active Twitter feed displayed throughout the conference, using the dedicated #aldcon hashtag, gave both attendees and interested non-attendees an insight into sessions and discussions. In addition, we had two excellent keynote speakers, Helen Beetham (consultant on the JISC DDL project) and Paul Andrews (Head of the Centre for Digitally Enhanced Learning at the University of Newport).
+View Helen's keynote presentation: Strange encounters: academic learning and digital know-how
+View Paul's keynote presentation: Digital Development : a multifaceted approach
+A more detailed overview of the conference, with delegate-generated reviews are on the ALDinHE blog. A conference resource including slide presentations, handouts and links is now available via the ALDinHE website.
+Guide to Implementing the UKPSF in the Digital University
+ALDinHE has contributed to a JISC and Professional Associations Guide to Implementing the UKPSF in the Digital University, aimed at those designing and teaching PGCertHE courses. See the case studies we are submitting to this project.
+Working with other JISC Developing Digital Literacy projects
+ALDinHE is formally associated with two institutional DDL projects, SEEDPoD at the University of Plymouth and CASCADE at the University of Exeter. In addition we have strong links with the Digitally Ready project at the University of Reading.
+John Hilsdon of ALDinHE recently took part in a panel discussion at CASCADE's event on Supporting Academic Practice in a Digital Age. We have also contributed a report on this event to the Digitally Ready blog.
+Findings and conclusions
+Our survey of uses, training needs and attitudes towards digital literacy in the field of learning development drew a somewhat polarised picture of self-trained enthusiasts and those who feel they are getting ever further behind, with little time or resources to catch up. On the one hand, there were many examples of excellent innovative practice: on the other, there were anxieties and concerns. The challenge for us as a community of practice is to find practical and achievable ways to bridge this gap. There were strong pointers to the important role played by the sharing of good practice and expertise amongst the learning development community. We will seek ways of enabling the continuance of this, and building on it by importing good practice and innovation from other higher education professional communities. We look forward to developing a greater understanding of the role digital literacies have to play in supporting learning development work in higher education, and enhancing our provision of professional training and support as a result.
+-> Go to main Developing Digital Literacies page on the Design Studio
+ALDinHE DL
+Page Tools
+Insert links
+Insert links to other pages or uploaded files.
+Pages
+Images and files
+Insert a link to a new page
+Loading...
+No images or files uploaded yet.
+Insert image from URL
+Tip: To turn text into a link, highlight the text, then click on a page or file from the list above.
+Comments (0)
+You don't have permission to comment on this page.
+Printable version
+Tags:
+JISC DDL, digital literacy, professional associations, professional bodies, ALDinHE, learning development, learning developers
+ALDinHE DL tags changed
+SideBar
+Home
+About the Design Studio
+Accessing the Design Studio
+Developing Digital Literacies
+Developing digital literacies in the curriculum
+Developing digital literacies for digital scholars and researchers
+Developing digital literacies for employability
+Developing digital pioneers
+Developing digitally literate institutions
+Developing your digital literacies
+Curriculum Change and Transformation
+Curriculum Challenges
+Curriculum Processess
+Curriculum Technologies
+Curriculum Design & Delivery programme
+Curriculum Design Institutional Stories
+Transforming Assessment & Feedback
+Assessment & Feedback Programme
+Assessment & Feedback Topics
+Assessment & Feedback Tools and Resources
+Embedding Benefits
+About the Embedding Benefits programme
+View All Tags
+Recent Activity
+Show 0 new items
+Loading…

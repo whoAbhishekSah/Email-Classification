@@ -1,0 +1,58 @@
+HRI Digital | Digging into Image Data to Answer Authorship Related Questions
+HOME
+WHAT WE DO
+WORKING WITH US
+PROJECTS
+WEBSITES
+OPENBOOK
+FILTER BY STATUSAllCompletedIn Progress
+Digging into Image Data to Answer Authorship Related Questions
+Summary:
+This project explores authorship across three digitised image datasets: medieval manuscripts, old maps and a collection of quilts.
+Project Status:
+Completed
+Funders:
+Digging into Data Challenge, Jisc, National Science Foundation of America, NEH
+Partners:
+University of SheffieldMichigan State UniversityUniversity of Illinois at Urbana-Champaign
+Subjects:
+image data mining, images, large datasets, manuscripts, medieval period, software development, text and image analysis
+Technologies:
+C++, image analytics, Image to Learn, Java, Medici
+Project Description
+An international, multi-institutional and multi-disciplinary team of researchers will jointly explore authorship across three distinct datasets: a collection of digitised 15th-century manuscripts, a collection of 17th- and 18th-century digitized maps and a collection of 19th- and 20th-century digitized quilts.
+The topic of authorship is one of the common research questions in multiple disciplines of humanities, arts and social sciences that unites the underlying image analyses to be undertaken. Our research seeks to investigate the accuracy and computational scalability of adaptive image analyses when it is applied to diverse collections of image data while driven by the same overarching question of authorship. The objective of this proposal is:
+To design image analysis algorithms that will extract salient image features, group together images based on similarity of these features, classify groups according to a priori knowledge, optimize algorithmic steps and parameters
+To apply the algorithms jointly developed to all the aforementioned collections of images
+To report accuracy and computational requirements over all of the image collections
+Duration: January 2010 – March 2011
+Related Websites
+Project Blog
+Executive Summary
+Project Datasets
+Project Downloads
+Project Team
+Peter Ainsworth (PI – Department of French, University of Sheffield)
+Peter Bajcsy (National Center for Supercomputing Applications (NCSA), University of Illinois at Urbana-Champaign (UIUC))
+Steve Cohen (MATRIX: The Center for Humane Arts, Letters and Social Sciences, Michigan State University (MSU))
+Wayne Dyksen (MATRIX and Department of Computer Science and Engineering, MSU)
+Karen Fresco (Department of French and Medieval Studies, UIUC)
+Kevin Franklin (Institute for Computing in Humanities, Arts, and Social Science (I-CHASS), UIUC)
+Matt Geimer (MATRIX: MSU)
+Jennifer Guiliano (Institute for Computing in Humanities, Arts, and Social Science (I-CHASS), UIUC)
+Anne D Hedeman (Art History and Medieval Studies Programs, UIUC)
+Anil Jain (Department of Computer Science and Engineering, MSU)
+Rob Kooper (National Center for Supercomputing Applications (NCSA), UIUC)
+Marsha MacDowell (MSU Museum, MSU)
+Bob Markley (Department of English, UIUC)
+Dean Rehberger (MATRIX: The Center for Humane Arts, Letters and Social Sciences, MSU)
+Justine Richardson (MATRIX: The Center for Humane Arts, Letters and Social Sciences, MSU)
+Tenzing Shaw  (NCSA, University of Illinois at Urbana-Champaign)
+Michael Simeone (Department of English, UIUC)
+Dr Michael Meredith (Digital Humanities Developer & Post Doctoral Research Associate – University of Sheffield)
+Contact us
+Staff
+Find us
+Privacy
+Customer service
+© Copyright 2013 The University of Sheffield

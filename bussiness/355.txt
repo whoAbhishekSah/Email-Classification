@@ -1,0 +1,384 @@
+Quantitative easing - Wikipedia
+Quantitative easing
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+Public finance
+Policies
+Agricultural
+Economic
+Energy
+Industrial
+Investment
+Social
+Trade
+Fiscal
+Monetary
+Policy mix
+Fiscal policy
+Budget
+policy
+Debt
+external
+internal
+Deficit / Surplus
+Finance ministry
+Fiscal union
+Revenue
+Spending
+deficit
+Tax
+Monetary policy
+Bank reserves (requirements)
+Discount window
+Gold reserves
+Interest rate
+Monetary authority
+central bank
+currency board
+Monetary base
+Monetary (currency) union
+Money supply
+Trade policy
+Balance of trade
+Free trade
+Gains from trade
+Non-tariff barrier
+Protectionism
+Tariff
+Trade bloc
+Trade creation
+Trade diversion
+Trade / Commerce ministry
+Revenue
+Spending
+Non-tax revenue
+Tax revenue
+Discretionary spending
+Mandatory spending
+Optimum
+Balanced budget (fiscal)
+Growth (trade and investment)
+Price stability (monetary)
+Reform
+Fiscal adjustment
+Monetary reform
+v
+t
+e
+Quantitative easing (QE) is a monetary policy in which a central bank creates new electronic money in order to buy government bonds or other financial assets to stimulate the economy (i.e., to increase private-sector spending and return inflation to its target).[1][2] An unconventional form of monetary policy,[1] it is usually used when standard monetary policy has become ineffective at combating a falling money supply.[3][4][5][6] A central bank implements quantitative easing by buying specified amounts of financial assets from commercial banks and other financial institutions, thus raising the prices of those financial assets and lowering their yield, while simultaneously increasing the money supply.[7][8] This differs from the more usual policy of buying or selling short-term government bonds to keep interbank interest rates at a specified target value.[9][10][11][12]
+Expansionary monetary policy to stimulate the economy typically involves the central bank buying short-term government bonds to lower short-term market interest rates.[13][14][15][16] However, when short-term interest rates reach or approach zero, this method can no longer work.[17] In such circumstances, monetary authorities may then use quantitative easing to further stimulate the economy by buying assets of longer maturity than short-term government bonds, thereby lowering longer-term interest rates further out on the yield curve.[18][19]
+Quantitative easing can help ensure that inflation does not fall below a target.[12] Risks include the policy being more effective than intended in acting against deflation (leading to higher inflation in the longer term, due to increased money supply),[20] or not being effective enough if banks remain reluctant to lend and potential borrowers are unwilling to borrow.[21] According to the International Monetary Fund, the U.S. Federal Reserve System, and various economists, quantitative easing undertaken since the global financial crisis of 2007–08 has mitigated some of the economic problems since the crisis.[22][23][24]
+Contents
+1 Process
+2 Counteracting a falling money supply
+3 History
+3.1 Precedents
+3.2 Japan before 2007
+3.3 After 2007
+3.3.1 US QE1, QE2, and QE3
+3.3.2 United Kingdom
+3.3.3 Europe
+3.3.4 Scandinavia
+3.3.5 Japan after 2007 and Abenomics
+4 Economic impact
+4.1 Effectiveness
+5 Risks
+5.1 Impact on savings and pensions
+5.2 Housing market over-supply and QE3
+5.3 Capital flight
+5.4 Increased income and wealth inequality
+5.5 Criticism by BRIC countries
+5.6 Political risk
+6 Comparison with other instruments
+6.1 Qualitative easing
+6.2 Credit easing
+6.3 Monetary financing
+6.4 QE for the people
+6.5 Altering debt maturity structure
+7 See also
+8 References
+9 External links
+Process[edit]
+See also: Monetary policy
+Quantitative easing is distinguished from standard central banking monetary policies, which are usually enacted by buying or selling government bonds on the open market to reach a desired target for the interbank interest rate. However, if a recession or depression continues even when a central bank has lowered interest rates to nearly zero, the central bank can no longer lower interest rates. The central bank may then implement a set of tactics known as quantitative easing. This policy is often considered a last resort to stimulate the economy.[25][26]
+A central bank enacts quantitative easing by purchasing—without reference to the interest rate—a set quantity of bonds or other financial assets on financial markets from private financial institutions.[3][11] The goal of this policy is to facilitate an expansion of private bank lending; if private banks increase lending, it would increase the money supply, though QE does directly increase the broad money supply even without further bank lending. Additionally, if the central bank also purchases financial instruments that are riskier than government bonds, it can also lower the interest yield of those assets (as those assets are more scarce in the market, and thus their prices go up correspondingly).
+Quantitative easing, and monetary policy in general, can only be carried out if the central bank controls the currency used in the country. The central banks of countries in the Eurozone, for example, cannot unilaterally decide to employ quantitative easing. They must instead rely on the European Central Bank's governing council (composed of all national central banks governors) to agree on a common monetary policy, which they (national central banks) implement.[27]
+Counteracting a falling money supply[edit]
+In a fractional reserve monetary system it is possible for the money supply to fall if the rate of repayments of existing loans (destroying money) is greater than the rate of creating new loans (creating money). For example, during the great depression, where the money supply fell by about 35%.
+On the 25th October 2011, the then governor of the Bank of England Mervyn King said:
+"I think the fall in bank lending would have been worse had we not conducted our asset purchases because what we were doing was injecting money into the economy and what the banking system has been doing is destroying money. As they reduce the size of their balance sheet and deleverage, they are reducing not just the size of their assets but the size of their liabilities. Most of the money in our economy—broad money—comprises liabilities of banks in the form of bank deposits. So what we were doing was partially to offset what would otherwise have been an even bigger contraction."[28]
+History[edit]
+Precedents[edit]
+The US Federal Reserve belatedly implemented policies similar to the current quantitative easing during the Great Depression of the 1930s.[29][30] However, many commentators called the scope of the Federal Reserve quantitative easing program after the 2008 crisis "unprecedented".[31][32][33]
+Japan before 2007[edit]
+A policy termed 'quantitative easing' (量的金融緩和, ryōteki kin'yū kanwa) was first used by the Bank of Japan (BOJ) to fight domestic deflation in the early 2000s.[18][34][35][36] The BOJ had maintained short-term interest rates at close to zero since 1999. A policy with the name 'quantitative easing' had first been proposed in 1994 by Richard Werner, then chief economist of Jardine Fleming Securities (Asia) Ltd. in Tokyo, and was defined as an expansion of credit creation for GDP transactions, to be accomplished by central bank purchases of non-performing assets from banks, central bank credit expansion and a switch of government funding from bond issuance to borrowing via loan contracts from banks, arguing that policies such as interest rate reductions or reserve expansion would not work.[37][38][39]The Bank of Japan had for many years, and as late as February 2001, claimed that "quantitative easing ... is not effective" and rejected its use for monetary policy.[40]
+According to the Bank of Japan, the central bank adopted quantitative easing on 19 March 2001.[41][42] Under quantitative easing, the BOJ flooded commercial banks with excess liquidity to promote private lending, leaving them with large stocks of excess reserves and therefore little risk of a liquidity shortage.[43] The BOJ accomplished this by buying more government bonds than would be required to set the interest rate to zero. It later also bought asset-backed securities and equities and extended the terms of its commercial paper–purchasing operation.[44] The BOJ increased the commercial bank current account balance from ¥5 trillion to ¥35 trillion (approximately US$300 billion) over a four-year period starting in March 2001. The BOJ also tripled the quantity of long-term Japan government bonds it could purchase on a monthly basis.[citation needed]
+After 2007[edit]
+Since the global financial crisis of 2007–08, policies similar to those undertaken by Japan have been used by the United States, the United Kingdom, and the Eurozone. Quantitative easing was used by these countries because their risk-free short-term nominal interest rates were either at or close to zero. In the United States, this interest rate is termed the federal funds rate; in the United Kingdom, it is termed the official bank rate.
+During the peak of the financial crisis in 2008, the US Federal Reserve expanded its balance sheet dramatically by adding new assets and new liabilities without "sterilizing" these by corresponding subtractions. In the same period, the United Kingdom also used quantitative easing as an additional arm of its monetary policy to alleviate its financial crisis.[45][46][47]
+US QE1, QE2, and QE3 [edit]
+Federal Reserve Holdings of Treasury Notes (blue) and Mortgage-Backed Securities (red)
+The U.S. Federal Reserve System held between $700 billion and $800 billion of Treasury notes on its balance sheet before the recession. In late November 2008, the Federal Reserve started buying $600 billion in mortgage-backed securities.[48] By March 2009, it held $1.75 trillion of bank debt, mortgage-backed securities, and Treasury notes; this amount reached a peak of $2.1 trillion in June 2010. Further purchases were halted as the economy started to improve, but resumed in August 2010 when the Fed decided the economy was not growing robustly. After the halt in June, holdings started falling naturally as debt matured and were projected to fall to $1.7 trillion by 2012. The Fed's revised goal became to keep holdings at $2.054 trillion. To maintain that level, the Fed bought $30 billion in two- to ten-year Treasury notes every month.[49]
+In November 2010, the Fed announced a second round of quantitative easing, buying $600 billion of Treasury securities by the end of the second quarter of 2011.[50][51] The expression "QE2" became a ubiquitous nickname in 2010, used to refer to this second round of quantitative easing by US central banks.[52] Retrospectively, the round of quantitative easing preceding QE2 was called "QE1".[53][54]
+A third round of quantitative easing, "QE3", was announced on 13 September 2012. In an 11–1 vote, the Federal Reserve decided to launch a new $40 billion per month, open-ended bond purchasing program of agency mortgage-backed securities. Additionally, the Federal Open Market Committee (FOMC) announced that it would likely maintain the federal funds rate near zero "at least through 2015."[55][56] According to NASDAQ.com, this is effectively a stimulus program that allows the Federal Reserve to relieve $40 billion per month of commercial housing market debt risk.[57] Because of its open-ended nature, QE3 has earned the popular nickname of "QE-Infinity."[58] On 12 December 2012, the FOMC announced an increase in the amount of open-ended purchases from $40 billion to $85 billion per month.[59]
+On 19 June 2013, Ben Bernanke announced a "tapering" of some of the Fed's QE policies contingent upon continued positive economic data. Specifically, he said that the Fed could scale back its bond purchases from $85 billion to $65 billion a month during the upcoming September 2013 policy meeting.[60][not in citation given] He also suggested that the bond-buying program could wrap up by mid-2014.[61] While Bernanke did not announce an interest rate hike, he suggested that if inflation followed a 2% target rate and unemployment decreased to 6.5%, the Fed would likely start raising rates. The stock markets dropped by approximately 4.3% over the three trading days following Bernanke's announcement, with the Dow Jones dropping 659 points between 19 and 24 June, closing at 14,660 at the end of the day on 24 June.[62] On 18 September 2013, the Fed decided to hold off on scaling back its bond-buying program,[63] and announced in December 2013 that it would begin to taper its purchases in January 2014. [64] Purchases were halted on 29 October 2014[65] after accumulating $4.5 trillion in assets.[66]
+United Kingdom[edit]
+During its QE programme, the Bank of England bought gilts from financial institutions, along with a smaller amount of relatively high-quality debt issued by private companies.[67] The banks, insurance companies, and pension funds could then use the money they received for lending or even to buy back more bonds from the bank. Further, the central bank could lend the new money to private banks or buy assets from banks in exchange for currency.[citation needed] These measures have the effect of depressing interest yields on government bonds and similar investments, making it cheaper for business to raise capital.[68] Another side effect is that investors will switch to other investments, such as shares, boosting their price and thus encouraging consumption.[67] QE can reduce interbank overnight interest rates and thereby encourage banks to loan money to higher interest-paying and financially weaker bodies.
+Beginning in March 2009, the Bank of England had purchased around £165 billion in assets as of September 2009 and around £175 billion in assets by the end of October 2009.[69] At its meeting in November 2009, the Monetary Policy Committee (MPC) voted to increase total asset purchases to £200 billion. Most of the assets purchased have been UK government securities (gilts); the Bank has also purchased smaller quantities of high-quality private-sector assets.[70] In December 2010, MPC member Adam Posen called for a £50 billion expansion of the Bank's quantitative easing programme, while his colleague Andrew Sentance has called for an increase in interest rates due to inflation being above the target rate of 2%.[71] In October 2011, the Bank of England announced that it would undertake another round of QE, creating an additional £75 billion.[72] In February 2012 it announced an additional £50 billion.[73] In July 2012 it announced another £50 billion,[74] bringing the total amount to £375 billion. The Bank has said that it will not buy more than 70% of any issue of government debt.[75] This means that at least 30% of any issue of government debt will have to be purchased and held by institutions other than the Bank of England. In 2012 the Bank estimated that quantitative easing had benefited households differentially according to the assets they hold; richer households have more assets.[76]
+In August 2016, the Bank of England said it would buy an additional £60bn of UK government bonds and £10bn of corporate bonds, to address uncertainty over Brexit and worries about productivity and economic growth.[77]
+Europe[edit]
+The European Central Bank said that it would focus on buying covered bonds, a form of corporate debt. It signalled that its initial purchases would be worth about €60 billion in May 2009.[78]
+At the beginning of 2013, the Swiss National Bank had the largest balance sheet relative to the size of the economy it was responsible for, at close to 100% of Switzerland's national output. A total of 12% of its reserves were in foreign equities. By contrast, the US Federal Reserve's holdings equalled about 20% of US GDP, while the European Central Bank's assets were worth 30% of GDP.[79]
+In a dramatic change of policy, on 22 January 2015 Mario Draghi, President of the European Central Bank, announced an 'expanded asset purchase programme': where €60 billion per month of euro-area bonds from central governments, agencies and European institutions would be bought. Beginning in March 2015, the stimulus was planned to last until September 2016 at the earliest with a total QE of at least €1.1 trillion. Mario Draghi announced the programme would continue: 'until we see a continued adjustment in the path of inflation', referring to the ECB's need to combat the growing threat of deflation across the eurozone in early 2015.[80][81]
+On 10 March 2016, ECB increases its monthly bond purchases to €80 billion from €60 billion, started to include corporate bonds under the asset purchasing programme and announced new ultra-cheap four-year loans to banks.
+Scandinavia[edit]
+Swedish National Bank launched quantitative easing in February 2015, announcing government bond purchases of nearly 1.2 billion USD.[82] The annualised inflation rate in January 2015 was minus 0.3 percent, and the bank implied that Sweden's economy could slide into deflation.[82]
+Japan after 2007 and Abenomics[edit]
+See also: Abenomics
+In early October 2010, the Bank of Japan announced that it would examine the purchase of ¥5 trillion (US$60 billion) in assets. This was an attempt to push down the value of the yen against the US dollar to stimulate the domestic economy by making Japanese exports cheaper; it did not work.[83]
+On 4 August 2011 the BOJ announced a unilateral move to increase the commercial bank current account balance from ¥40 trillion (US$504 billion) to a total of ¥50 trillion (US$630 billion).[84][85] In October 2011, the Bank expanded its asset purchase program by ¥5 trillion ($66bn) to a total of ¥55 trillion.[86]
+On 4 April 2013, the Bank of Japan announced that it would expand its asset purchase program by 60 to 70 trillion Yen a year. https://www.boj.or.jp/en/mopo/outline/qqe.htm/
+The Bank hoped to bring Japan from deflation to inflation, aiming for 2% inflation. The amount of purchases was so large that it was expected to double the money supply.[87] This policy has been named Abenomics, as a portmanteau of economic policies and Shinzō Abe, the current Prime Minister of Japan.
+On 31 October 2014, the BOJ announced the expansion of its bond buying program, to now buy 80 trillion Yen of bonds a year.[88]
+Economic impact[edit]
+Quantitative easing may cause higher inflation than desired if the amount of easing required is overestimated and too much money is created by the purchase of liquid assets.[20] On the other hand, QE can fail to spur demand if banks remain reluctant to lend money to businesses and households. Even then, QE can still ease the process of deleveraging as it lowers yields. However, there is a time lag between monetary growth and inflation; inflationary pressures associated with money growth from QE could build before the central bank acts to counter them.[89] Inflationary risks are mitigated if the system's economy outgrows the pace of the increase of the money supply from the easing. If production in an economy increases because of the increased money supply, the value of a unit of currency may also increase, even though there is more currency available. For example, if a nation's economy were to spur a significant increase in output at a rate at least as high as the amount of debt monetized, the inflationary pressures would be equalized. This can only happen if member banks actually lend the excess money out instead of hoarding the extra cash. During times of high economic output, the central bank always has the option of restoring reserves to higher levels through raising interest rates or other means, effectively reversing the easing steps taken.
+Increasing the money supply tends to depreciate a country's exchange rates relative to other currencies, through the mechanism of the interest rate. Lower interest rates lead to a capital outflow from a country, thereby reducing foreign demand for a country's money, leading to a weaker currency. This feature of QE directly benefits exporters living in the country performing QE, as well as debtors, since the interest rate has fallen, meaning there is less money to be repaid. However, it directly harms creditors as they earn less money from lower interest rates. Devaluation of a currency also directly harms importers, as the cost of imported goods is inflated by the devaluation of the currency.[90]
+Effectiveness[edit]
+According to the International Monetary Fund (IMF), the quantitative easing policies undertaken by the central banks of the major developed countries since the beginning of the late-2000s financial crisis have contributed to the reduction in systemic risks following the bankruptcy of Lehman Brothers. The IMF states that the policies also contributed to the improvements in market confidence and the bottoming-out of the recession in the G7 economies in the second half of 2009.[22]
+Economist Martin Feldstein argues that QE2 led to a rise in the stock market in the second half of 2010, which in turn contributed to increasing consumption and the strong performance of the US economy in late 2010.[24] Former Federal Reserve Chairman Alan Greenspan calculated that as of July 2012, there was "very little impact on the economy."[91] Federal Reserve Governor Jeremy Stein has said that measures of quantitive easing such as large-scale asset purchases "have played a significant role in supporting economic activity".[23]
+According to Neil Irwin, senior economic correspondent at The New York Times, quantitative easing by the US Federal Reserve likely contributed to: i) Lower interest rates for corporate bonds and mortgage rates, helping support housing prices; ii) Higher stock market valuation, in terms of a higher price-earnings ratio for the S&P 500 index; iii) Increased inflation rate and investor's expectations for future inflation; iv) Higher rate of job creation; and v) Higher rate of GDP growth.[92]
+Risks[edit]
+Economists such as John Taylor[93] believe that quantitative easing creates unpredictability. Since the increase in bank reserves may not immediately increase the money supply if held as excess reserves, the increased reserves create the danger that inflation may eventually result when the reserves are loaned out.[94]
+Impact on savings and pensions[edit]
+In the European Union, World Pensions Council (WPC) financial economists have also argued that artificially low government bond interest rates induced by QE will have an adverse impact on the underfunding condition of pension funds, since "without returns that outstrip inflation, pension investors face the real value of their savings declining rather than ratcheting up over the next few years".[95][96]
+Housing market over-supply and QE3[edit]
+Richmond Federal Reserve Bank President Jeffrey M. Lacker, the only member of the Federal Open Market Committee to vote against QE3, stated: "The impetus ... is to aid the housing market. That's an area that's fallen short in this recovery. In most other U.S. postwar recoveries, we've seen a pretty sharp snap back in housing. Of course, the reason it hasn't come back in this recovery is that this recession was essentially caused by us building too many houses prior to the recession. We still have a huge overhang of houses that haven't been sold that are vacant.[97]
+Capital flight[edit]
+According to Bloomberg reporter David Lynch, the new money from quantitative easing could be used by the banks to invest in emerging markets, commodity-based economies, commodities themselves, and non-local opportunities rather than to lend to local businesses that are having difficulty getting loans.[98]
+Increased income and wealth inequality[edit]
+See also: Economic inequality
+Critics frequently point to the redistributive effects of quantitative easing. For instance, British Prime Minister Theresa May openly criticized QE in July 2016 for its regressive effects: “Monetary policy – in the form of super-low interest rates and quantitative easing – has helped those on the property ladder at the expense of those who can’t afford to own their own home.”[99] Dhaval Joshi of BCA Research wrote that "QE cash ends up overwhelmingly in profits, thereby exacerbating already extreme income inequality and the consequent social tensions that arise from it".[100] Anthony Randazzo of the Reason Foundation wrote that QE "is fundamentally a regressive redistribution program that has been boosting wealth for those already engaged in the financial sector or those who already own homes, but passing little along to the rest of the economy. It is a primary driver of income inequality".[100]
+Those critics are partly based on some evidence provided by central banks themselves. In 2012, a Bank of England report[101] showed that its quantitative easing policies had benefited mainly the wealthy, and that 40% of those gains went to the richest 5% of British households.[100][102]
+In May 2013, Federal Reserve Bank of Dallas President Richard Fisher said that cheap money has made rich people richer, but has not done quite as much for working Americans.[103]
+Answering similar critics expressed by MEP Molly Scott Cato, the President of the ECB Mario Draghi once declared:[104][105]
+Some of these policies may, on the one hand, increase inequality but, on the other hand, if we ask ourselves what the major source of inequality is, the answer would be unemployment. So, to the extent that these policies help – and they are helping on that front – then certainly an accommodative monetary policy is better in the present situation than a restrictive monetary policy."
+Criticism by BRIC countries[edit]
+BRIC countries have criticized the QE carried out by the central banks of developed nations. They share the argument that such actions amount to protectionism and competitive devaluation. As net exporters whose currencies are partially pegged to the dollar, they protest that QE causes inflation to rise in their countries and penalizes their industries.[106][107][108][109]
+Political risk[edit]
+Richard W. Fisher, president of the Federal Reserve Bank of Dallas, warned in 2010 that QE carries "the risk of being perceived as embarking on the slippery slope of debt monetization. We know that once a central bank is perceived as targeting government debt yields at a time of persistent budget deficits, concern about debt monetization quickly arises." Later in the same speech, he stated that the Fed is monetizing the government debt: "The math of this new exercise is readily transparent: The Federal Reserve will buy $110 billion a month in Treasuries, an amount that, annualized, represents the projected deficit of the federal government for next year. For the next eight months, the nation's central bank will be monetizing the federal debt."[110] Ben Bernanke remarked in 2002 that the US government had a technology called the printing press (or, today, its electronic equivalent), so that if rates reached zero and deflation threatened, the government could always act to ensure deflation was prevented. He said, however, that the government would not print money and distribute it "willy nilly" but would rather focus its efforts in certain areas (e.g., buying federal agency debt securities and mortgage-backed securities).[111][112] According to economist Robert McTeer, former president of the Federal Reserve Bank of Dallas, there is nothing wrong with printing money during a recession, and quantitative easing is different from traditional monetary policy "only in its magnitude and pre-announcement of amount and timing".[113][114]
+Comparison with other instruments[edit]
+Qualitative easing[edit]
+Professor Willem Buiter of the London School of Economics has proposed a terminology to distinguish quantitative easing, or an expansion of a central bank's balance sheet, from what he terms qualitative easing, or the process of a central bank adding riskier assets to its balance sheet:
+Quantitative easing is an increase in the size of the balance sheet of the central bank through an increase [in its] monetary liabilities (base money), holding constant the composition of its assets. Asset composition can be defined as the proportional shares of the different financial instruments held by the central bank in the total value of its assets. An almost equivalent definition would be that quantitative easing is an increase in the size of the balance sheet of the central bank through an increase in its monetary liabilities that holds constant the (average) liquidity and riskiness of its asset portfolio.
+Qualitative easing is a shift in the composition of the assets of the central bank towards less liquid and riskier assets, holding constant the size of the balance sheet (and the official policy rate and the rest of the list of usual suspects). The less liquid and more risky assets can be private securities as well as sovereign or sovereign-guaranteed instruments. All forms of risk, including credit risk (default risk) are included.[115]
+Credit easing[edit]
+In introducing the Federal Reserve's response to the 2008–9 financial crisis, Fed Chairman Ben Bernanke distinguished the new program, which he termed "credit easing", from Japanese-style quantitative easing. In his speech, he announced,
+Our approach—which could be described as "credit easing"—resembles quantitative easing in one respect: It involves an expansion of the central bank's balance sheet. However, in a pure QE regime, the focus of policy is the quantity of bank reserves, which are liabilities of the central bank; the composition of loans and securities on the asset side of the central bank's balance sheet is incidental. Indeed, although the Bank of Japan's policy approach during the QE period was quite multifaceted, the overall stance of its policy was gauged primarily in terms of its target for bank reserves. In contrast, the Federal Reserve's credit easing approach focuses on the mix of loans and securities that it holds and on how this composition of assets affects credit conditions for households and businesses.[116]
+Credit easing involves increasing the money supply by the purchase not of government bonds but of private-sector assets, such as corporate bonds and residential mortgage–backed securities.[117][118] In 2010, the Federal Reserve purchased $1.25 trillion of mortgage-backed securities to support the sagging mortgage market. These purchases increased the monetary base in a way similar to a purchase of government securities.[119]
+Monetary financing[edit]
+Quantitative easing has been nicknamed "printing money" by some members of the media,[120][121][122] central bankers,[123] and financial analysts.[124][125] Stephen Hester, chief executive officer of the RBS Group, said:
+"What the Bank of England does in quantitative easing is it prints money to buy government debt, .... So the Quantitative Easing has enabled governments, this government, to run a big budget deficit without killing the economy because the Bank of England has financed it." [126]
+The Dutch Central Bank itself sees QE as being a money creation operation:[127]
+The Eurosystem directly injects money into the economy by purchasing the bonds with newly created electronic cash. This is called quantitative easing.
+However, QE is a very different form of money creation than it is commonly understood when talking about "money printing". Indeed, the term printing money usually implies that newly created money is used to directly finance government deficits or pay off government debt (also known as monetizing the government debt). However, with QE, the newly created money is directly used to buy government bonds or other financial assets,[120] Central banks in most developed nations (e.g., the United Kingdom, the United States, Japan, and the EU) are prohibited from buying government debt directly from the government and must instead buy it from the secondary market.[119][128] This two-step process, where the government sells bonds to private entities that in turn sell them to the central bank, has been called "monetizing the debt" by many analysts.[119] Also, the Federal Reserve has mostly "sterilized" its bond purchases by paying interest to banks for reserve deposits. This removes money from circulation previously added by the Fed's bond purchases. The net effect is to raise bond prices, lowering borrowing rates for mortgages and other loans, without an inflationary increase in the money supply [129]
+The distinguishing characteristic between QE and monetizing debt is that with the former, the central bank creates money to stimulate the economy, not to finance government spending (although an indirect effect of QE is to lower rates on sovereign bonds). Also, the central bank has the stated intention of reversing the QE when the economy has recovered (by selling the government bonds and other financial assets back into the market).[120] The only effective way to determine whether a central bank has monetized debt is to compare its performance relative to its stated objectives. Many central banks have adopted an inflation target. It is likely that a central bank is monetizing the debt if it continues to buy government debt when inflation is above target and if the government has problems with debt financing.[119]
+In fact, with the failure of quantitative easing programmes around the world, more and more people are precisely calling for a more overt and direct money printing process, including monetary financing of government budgets, Helicopter money or "QE for People" (see section below).
+QE for the people[edit]
+See also: People's Quantitative Easing and Helicopter money
+In response to concerns that QE is failing to create sufficient demand, particularly in the Eurozone, a number of economists have called for "QE for the people". Instead of buying government bonds or other securities by creating bank reserves, as the Federal Reserve and Bank of England have done, some suggest that central banks could make payments directly to households (in a similar fashion as Helicopter money).[130] Economists Mark Blyth and Eric Lonergan argue in Foreign Affairs that this is the most effective solution for the Eurozone, particularly given the restrictions on fiscal policy.[131] They argue that based on the evidence from tax rebates in the United States, less than 5% of GDP transferred by the ECB to the household sector in the Eurozone would suffice to generate a recovery, a fraction of what it intends to be done under standard QE. Oxford economist, John Muellbauer, has suggested that this could be legally implemented using the electoral register.[132]
+On 27 March 2015, 19 economists including Steve Keen, David Graeber, Ann Pettifor, Robert Skidelsky, and Guy Standing have signed a letter to the Financial Times calling on the European Central Bank to adopt a more direct approach to its quantitative easing plan announced earlier in February.[133]
+In November 2015, more than 65 economists supported the campaign 'Quantitative Easing for People',[134] claiming that "Instead of flooding financial markets, money created through QE should be spent into the real economy, on essential public investment such as green infrastructure, affordable housing and/or distributed as a citizens’ dividend to all residents."
+Those ideas were also discussed at the European Parliament on February 17, 2016.[135][136]
+Altering debt maturity structure[edit]
+See also: Operation Twist
+Based on research by economist Eric Swanson reassessing the effectiveness of the US Federal Open Market Committee action in 1961 known as Operation Twist, The Economist has posted that a similar restructuring of the supply of different types of debt would have an effect equal to that of QE.[137] Such action would allow finance ministries (e.g., the US Department of the Treasury) a role in the process now reserved for central banks.[137]
+See also[edit]
+Currency War of 2009–11
+Economic history of Japan
+Money creation
+Open market operation
+Zero interest-rate policy ZIRP
+References[edit]
+^ a b "What is quantitative easing?". Bank of England. Retrieved December 14, 2016.
+^ "What is quantitative easing?". The Economist. March 9, 2015. To carry out QE central banks create money by buying securities, such as government bonds, from banks, with electronic cash that did not exist before...If QE convinces markets that the central bank is serious about fighting deflation or high unemployment, then it can also boost economic activity by raising confidence.
+^ a b Bullard, James (January 2010). "Quantitative Easing — Uncharted Waters for Monetary Policy". Federal Reserve Bank of St. Louis. Retrieved 26 July 2011.
+^ King, Mervyn (25 October 2011). "No guarantee bank lending will rise, says Mervyn King". BBC News.
+^ "Loose thinking". The Economist. 15 October 2009.
+^ Publications | Learning the Lessons from QE and Other Unconventional Monetary Policies: 17–18 November. Bank of England (18 November 2011).
+^ Elliott, Larry (8 January 2009). "Guardian Business Glossary: Quantitative Easing". The Guardian. London. Retrieved 19 January 2009.
+^ Bank of England (27 May 2013). "Quantitative easing – injecting money into the economy" (PDF). bankofengland.co.uk.
+^ Quantitative Easing Explained (PDF). London: Bank of England. 2011. The MPC's decision to inject money directly into the economy does not involve printing more banknotes. Instead, the Bank buys assets from private sector institutions – that could be insurance companies, pension funds, banks or non-financial firms – and credits the seller's bank account.
+^ "Quantitative Easing" (PDF). Bank of England. The Bank can create new money electronically by increasing the balance on a reserve account. So when the Bank purchases an asset from a bank, for example, it simply credits that bank's reserve account with the additional funds. This generates an expansion in the supply of central bank money
+^ a b "Q&A: Quantitative easing". BBC. 9 March 2009. Retrieved 29 March 2009.
+^ a b "Quantitative Easing Explained". Bank of England. This does not involve printing more banknotes. Instead the Bank pays for these assets by creating money electronically and crediting the accounts of the companies it bought the assets from.
+^ Open market operations: A Glossary of Political Economy Terms – Dr. Paul M. Johnson. Auburn.edu.
+^ Open Market Operation – Fedpoints. Federal Reserve Bank of New York.
+^ Monetary policy Instruments. Swiss National Bank.
+^ The implementation of monetary policy in the euro area. European Central Bank. 2008. pp. 14–19.
+^ BBC (6 March 2013). "What is quantitative easing?". bbc.co.uk.
+^ a b "Dr. Econ: I noticed that banks have dramatically increased their excess reserve holdings. Is this buildup of reserves related to monetary policy?". Federal Reserve Bank of San Francisco. March 2010. Retrieved 4 April 2011.
+^ Bernanke, Ben (13 January 2009). "The Crisis and the Policy Response". Federal Reserve. Retrieved 4 April 2011.
+^ a b Bowlby, Chris (5 March 2009). "The fear of printing too much money". BBC News. Retrieved 25 June 2011.
+^ Isidore, Chris (5 October 2010). "Federal Reserve move toward quantitative easing poses risks". CNNMoney.com. Retrieved 25 June 2011.
+^ a b Unconventional Choices for Unconventional Times: Credit and Quantitative Easing in Advanced Economies; by Vladimir Klyuev, Phil de Imus, and Krishna Srinivasan; IMF Staff Position Note SPN/09/27; 4 November 2009.. (PDF).
+^ a b "Evaluating Large-Scale Asset Purchases," 11 October 2012
+^ a b Feldstein, Martin (24 February 2011). "Quantitative Easing and America's Economic Rebound". project-syndicate.org. Project Syndicate. Retrieved 4 April 2011.
+^ "Quantitative easing: A therapy of last resort". The New York Times. 1 January 2009. Retrieved 12 July 2010.
+^ Stewart, Heather (29 January 2009). "Quantitative easing: last resort to get credit moving again". The Guardian. London. Retrieved 12 July 2010.
+^ "Protocol on the Statute of the European System of Central Banks and of the European Central Bank: statements 14.4, 18.2" (PDF). pp. 5–6. Retrieved 7 April 2011.
+^ "Quantitative Easing -Treasury". UK Parliament.
+^ Hoover Institution, Economics Working Paper 14110, "Exiting from Low Interest Rates to Normality: An Historical Perspective", November 2014 Retrieved 10 March 2015.
+^ Edward J. Pinto, American Enterprise Institute, "The 30-Year Fixed Mortgage Should Disappear," 27 April 2016, Retrieved 27 April 2016.
+^ Telegraph, Federal Reserve ends QE, 29 October 2014 Retrieved 10 March 2015
+^ Fortune, Is This Finally the Economic Collapse?, 11 August 2010 Retrieved 10 March 2015.
+^ The Heritage Foundation, "Is the Inflation Threat Real? Is it Imminent? Retrieved 10 March 2015
+^ "Japan sets inflation goal in fight against deflation". BBC News. 16 February 2010. Retrieved 4 April 2011.
+^ Mark Spiegel. "FRBSF: Economic Letter—Quantitative Easing by the Bank of Japan (11/02/2001)". Federal Reserve Bank of San Francisco. Retrieved 19 January 2009.
+^ Voutsinas, Konstantinos, and Richard A. Werner, "New Evidence on the Effectiveness of 'Quantitative Easing' in Japan", Centre for Banking, Finance and Sustainable Development, School of Management, University of Southampton.
+^ Richard A. Werner "How to create a recovery through ‘Quantitative Monetary Easing’", The Nihon Keizai Shinbun (Nikkei), 2 September 1995 (morning edition), p.26.
+^ Lyonnet, Victor and Richard A. Werner (2012) "Lessons from the Bank of England on ‘quantitative easing’ and other ‘unconventional’ monetary policies", International Review of Financial Analysis, Volume 25, December 2012, Pages 94–105.
+^ Werner, Richard A. (2012) "Towards a new research programme on ‘banking and the economy’ — Implications of the Quantity Theory of Credit for the prevention and resolution of banking and debt crises", International Review of Financial Analysis, Volume 25, December 2012, Pages Pages 1–17.
+^ Hiroshi Fujiki et al., Monetary Policy under Zero Interest Rate: Viewpoints of Central Bank Economists, Monetary and Economic Studies, February 2001, p.98. Retrieved 9 August 2010.
+^ Shirakawa, Masaaki, "One Year Under 'Quantitative Easing'", Institute for Monetary and Economic Studies, Bank of Japan, 2002.
+^ Bank of Japan, New Procedures for Money Market Operations and Monetary Easing, 19 March 2001. Retrieved 9 August 2010.
+^ Easing Out of the Bank of Japan's Monetary Easing Policy (2004–33, 19 November 2004). Frbsf.org.
+^ PIMCO/Tomoya Masanao interview Archived 26 July 2010 at the Wayback Machine.
+^ Alloway, Tracy, The Unthinkable Has Happened, ft.com, 10 November 2008. Retrieved 9 August 2010.
+^ 'Bernanke-san' Signals Policy Shift, Evoking Japan Comparison, Bloomberg.com, 2 December 2008
+^ Bank pumps £75bn into economy, ft.com, 5 March 2009
+^ Federal Reserve 2008 Monetary Policy Releases.
+^ Ali, Abdulmalik. "Quantitative Monetary Easing: The history and impacts on financial markets". academia.edu. Retrieved 14 February 2015.
+^ Censky, Annalyn (3 November 2010). "QE2: Fed pulls the trigger". CNNmoney.com. Retrieved 10 August 2011.
+^ What is the Federal Reserve Quantitative Easing. Useconomy.about.com (22 September 2011).
+^ Fed's desperate measure is a watershed moment, John Authers, The Long View, Financial Times, 5 November 2010
+^ Conerly, Bill (13 September 2012). "QE3 and the Economy: It Will Help, But Not Solve All Problems". Forbes. Retrieved 13 September 2012.
+^ Inman, Phillip (14 July 2011). "Moody's sounds note of caution while Bernanke promises support for U.S. economy". The Guardian. London. Retrieved 19 July 2011.
+^ Zumbrun, Joshua (13 September 2012). "Fed Undertakes QE3 With $40 Billion MBS Purchases Per Month". Bloomberg News. Retrieved 13 September 2012.
+^ "Federal Reserve issues FOMC statement". Federal Reserve Board. 12 January 2012. Retrieved 1 January 2013.
+^ Jensen, Greg (19 September 2012). "QE3 Launched: The Ever Decreasing Effects of Monetary Stimulus". NASDAQ. Retrieved 19 September 2012.
+^ Jason Haver.
+^ http://www.federalreserve.gov/newsevents/press/monetary/20121212a.htm
+^ Dunstan Prial. "Bernanke Offers Possible Timetable for Tapering". Fox Business.
+^ "Fed Seen by Economists Tapering QE at September Meeting". Bloomberg.
+^ "Dow Jones down 4.3 percent since Fed chair Ben Bernanke took the podium". AL.com.
+^ "Analysis: Time to taper? Not if you look at bank loans". Reuters. 19 September 2013.
+^ http://www.cnbc.com/2013/12/18/fed-begins-taper-program.html
+^ Appelbaum, Binyamin (29 October 2014). "Federal Reserve Caps Its Bond Purchases; Focus Turns to Interest Rates". The New York Times.
+^ Wolfers, Justin (29 October 2014). "The Fed Has Not Stopped Trying to Stimulate the Economy". The New York Times.
+^ a b Quantitative Easing explained (PDF). Bank of England. pp. 7–9. ISBN 1-85730-114-5. Retrieved 20 July 2010. (page 7) Bank buys assets from ... institutions ... credits the seller's bank account. So the seller has more money in their bank account, while their bank holds a corresponding claim against the Bank of England (known as reserves) ... (page 8) high-quality debt ... (page 9) ... such as shares or company bonds. That will push up the prices of those assets ...
+^ Bean, Charles (July 2009). "Ask the Deputy Governor". Bank of England. Retrieved 12 July 2010.
+^ http://www.bankofengland.co.uk/publications/speeches/2009/speech404.pdf
+^ [1] Archived 2 January 2011 at the Wayback Machine.
+^ Arnott, Sarah (23 December 2010). "Downward revision for third-quarter growth". The Independent. London.
+^ "Bank of England injects further £75bn into economy". BBC News. 6 October 2011.
+^ "Bank of England injects another £50bn into UK economy". BBC News. 9 February 2012.
+^ Publications | Bank of England maintains Bank Rate at 0.5% and increases size of Asset Purchase Programme by £50 billion to £375 billion. Bank of England.
+^ "A flat economy (cont'd)". BBC News. 12 January 2012.
+^ The Distributional Effects of Asset Purchases, Bank of England, July 2012
+^ "What is quantitative easing?". BBC News. 4 August 2016.
+^ Duncan, Gary (8 May 2009). "European Central Bank opts for quantitative easing to lift the eurozone". The Times. London.
+^ Brian Blackstone and David Wessel (8 January 2013), Button-Down Central Bank Bets It All The Wall Street Journal
+^ "ECB: ECB announces expanded asset purchase programme". europa.eu.
+^ "BBC News - ECB unveils massive QE boost for eurozone". BBC News. 22 January 2015.
+^ a b Sweden cuts rates below zero and starts QE BBC News, Business, 12 February 2015
+^ Quantitative Easing – A lesson learned from Japan. Oye Times.
+^ "Japan government and central bank intervene to cut yen". BBC News. 4 August 2011.
+^ Bank of Japan increases QE by 10 trillion yen. Banking Times (4 August 2011).
+^ "Bank of Japan increases stimulus and keeps rates low". BBC News. 27 October 2011.
+^ Stewart, Heather (4 April 2013). "Japan aims to jump-start economy with $1.4tn of quantitative easing". London: The Guardian.
+^ https://www.boj.or.jp/en/announcements/release_2014/k141031a.pdf
+^ Thornton, Daniel L. (2010). "The downside of quantitative easing" (PDF). Federal Reserve Bank of St. Louis Economic Synopses (34).
+^ Inman, Phillip (29 June 2011). "How the world paid the hidden cost of America's quantitative easing". The Guardian. London.
+^ Navarro, Bruno J.. (12 July 2012) "CNBC Coverage of Greenspan". Finance.yahoo.com. Archived 18 July 2012 at the Wayback Machine.
+^ Irwin, Neil (31 October 2014). "Quantitative Easing is Ending. Here's What It Did, in Charts". The New York Times. NY.
+^ John B. Taylor, The Fed’s New View is a Little Less Scary, 20 June 2013 blog post [2]
+^ John Taylor, Stanford, 2012 testimony before House Financial Service Committee, page two [3], retrieved 20 October 2013.
+^ M. Nicolas J. Firzli quoted in Sinead Cruise (4 August 2012). "'Zero Return World Squeezes Retirement Plans'". Reuters with CNBC. . Retrieved 5 August 2012.
+^ M. Nicolas J. Firzli (1 March 2013). "' Europe's Pension Predicament: the Broken Bismarckian Promise '". Plan Sponsor. . Retrieved 1 March 2013.
+^ National Public Radio (September 15, 2012) "Fed's Latest Stimulus Lacked Unanimous Support" All Things Considered
+^ Lynch, David J. (17 November 2010). "Bernanke's 'Cheap Money' Stimulus Spurs Corporate Investment Outside U.S". Bloomberg.
+^ http://www.independent.co.uk/voices/theresa-may-what-kind-of-prime-minister-policies-what-she-really-meant-a7130911.html
+^ a b c Frank, Robert. "Does Quantitative Easing Mainly Help the Rich?". CNBC. Retrieved 21 May 2013.
+^ http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/qb120306.pdf
+^ Elliott, Larry (23 August 2012). "Britain's richest 5% gained most from quantitative easing – Bank of England". London: The Guardian. Retrieved 21 May 2013.
+^ Belvedere, Matthew J. "QE Halt Would Be 'Too Violent' for Market: Fed's Fisher". CNBC. Retrieved 20 May 2013.
+^ https://www.youtube.com/watch?v=O6ugoib0DvM
+^ https://polcms.secure.europarl.europa.eu/cmsdata/upload/7b48eba6-02b2-44ba-8f81-cfb4cd6b23cb/1079087EN.pdf
+^ Jeff Black and Zoe Schneeweis, China's Yi Warns on Currency Wars as Yuan in Equilibrium, Bloomberg News, 26 January 2013
+^ John Paul Rathbone and Jonathan Wheatley, Brazil's finance chief attacks US over QE3, Financial Times, 20 September 2012
+^ Richard Blackden, Brazil president Dilma Rousseff blasts Western QE as monetary tsunami, The Telegraph, 10 April 2012
+^ Michael Steen and Alice Ross, Warning on new currency war, Financial Times, 22 January 2013
+^ Speeches by Richard W. Fisher. Dallas Fed (8 November 2010).
+^ Wolf, Martin. (16 December 2008) "'Helicopter Ben' confronts the challenge of a lifetime". Financial Times.
+^ Speech, Bernanke -Deflation- 21 November 2002. Federal Reserve Bank.
+^ McTeer, Bob (23 December 2010). "There's nothing wrong with the Fed printing money". Forbes.
+^ McTeer, Bob (26 August 2010). "Quantitative easing is a toxic phrase for a routine policy". Forbes.
+^ Willem Buiter (9 December 2008). "Quantitative easing and qualitative easing: a terminological and taxonomic proposal". Retrieved 2 February 2009.
+^ Credit Easing versus Quantitative Easing. Federalreserve.gov (13 January 2009).
+^ Credit Easing Definition. Financial Times Lexicon.
+^ How Bernanke's Policy of 'Credit Easing' Works. BusinessWeek (28 January 2009).
+^ a b c d http://research.stlouisfed.org/publications/es/10/ES1014.pdf
+^ a b c Stephanomics: Is quantitative easing really just printing money?. BBC.
+^ Mackintosh, James. (2 December 2010) QE: Replacement not debasement. FT.com.
+^ Hyde, Deborah. (8 November 2010) Ask Citywire: Quantitative easing part II – Citywire Money. Citywire.co.uk.
+^ Bullard, James (30 June 2009). Exit Strategies for the Federal Reserve (Speech). Global Interdependence Center, Philadelphia, Pennsylvania, United States.  |access-date= requires |url= (help)
+^ "Bank of England to create new money: a Q&A". The Daily Telegraph. London. 5 March 2009.
+^ Duncan, Gary (5 March 2009). "Bank should start printing money says Times MPC". The Times. London.
+^ "Hester: Money has been printed to fund the deficit". ITV News.
+^ http://www.dnb.nl/en/news/news-and-archive/dnbulletin-2015/dnb320136.jsp
+^ Stephanomics. BBC.
+^ Hilsenrath, J., Wall Street Journal, "Markets," 03/07/1012
+^ "How about quantitative easing for the people?". Reuters. 1 August 2012.
+^ "Print Less but Transfer More". Foreign Affairs. September–October 2014.
+^ "Combatting Eurozone deflation". VOX. 23 December 2014.
+^ "Better ways to boost eurozone economy and employment". Financial Times.
+^ http://www.qe4people.eu/65_economists_support_qe_for_people
+^ http://www.qe4people.eu/highlights_conference_european_parliament_qe_for_people
+^ http://www.lemonde.fr/acces-restreint/economie/article/2016/02/20/6d6d689e6c6971c595696268629f6b_4868949_3234.html
+^ a b "Twisted thinking: Government Debt-Managers May be Undermining Quantitative Easing". The Economist. 31 March 2011. Retrieved 10 April 2011.
+External links[edit]
+Look up quantitative easing in Wiktionary, the free dictionary.
+Credit Easing Policy Tools Interactive chart of the assets on Federal Reserve's balance sheet.
+Deflation: Making Sure "It" Doesn't Happen Here, 2002 speech by Ben Bernanke on deflation and the utility of quantitative easing
+Bank of England – Quantitative Easing
+Bank of England – QE Explained Pamphlet
+Modern Money Mechanics Federal Reserve Document Explaining How Money Is Created
+Quantitative easing explained (Financial Times Europe)
+A Fed Governor Discusses Quantitative Easing Among Other Topics
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Quantitative_easing&oldid=764723480"
+Categories: Central banksEconomic policyFinancial marketsInflationMonetary policyHidden categories: Webarchive template wayback linksPages using citations with accessdate and no URLUse dmy dates from September 2015All articles with unsourced statementsArticles with unsourced statements from November 2013All articles with failed verificationArticles with failed verification from March 2014Articles with unsourced statements from July 2010
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+Article
+Talk
+Variants
+Views
+Read
+Edit
+View history
+More
+Search
+Navigation
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store
+Interaction
+HelpAbout WikipediaCommunity portalRecent changesContact page
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+Languages
+العربيةCatalàČeštinaCymraegDanskDeutschΕλληνικάEspañolفارسیFrançais한국어Bahasa IndonesiaItalianoBahasa MelayuNederlands日本語Norsk bokmålPolskiPortuguêsРусскийSimple EnglishSrpskohrvatski / српскохрватскиSuomiSvenskaУкраїнськаاردوTiếng Việt粵語中文
+Edit links
+This page was last modified on 10 February 2017, at 15:52.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view

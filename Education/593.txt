@@ -1,0 +1,36 @@
+Go-Geo! The Geo-Data Portal Project
+Go-Geo!
+The Geo-Data Portal Project (Phase 3)
+Home
+About the Project
+Background
+Aims
+and Objectives
+Outputs
+Images
+Documents and Publications
+Presentations and Workshops
+Project Team
+FAQ
+Related Links
+Contact
+Us
+Phase 2 Documents
+The links below provide further information
+about phase 2 of the Go-Geo! project.
+Executive Summary
+Overview
+Use of OAI to disclose
+metadata as an output from the portal
+Going beyond the
+data - data mining, visualisation, exploitation
+and analysis of geospatial data
+The demonstrator
+architecture and implementation
+Stakeholders
+and how their needs will be met
+Evaluation Report
+Review of
+Metadata Activities
+Copyright (c) EDINA/UKDA 2003 All rights
+reserved

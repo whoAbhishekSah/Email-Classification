@@ -1,0 +1,118 @@
+Pi Innovo | Innovation in the Making
+LOGIN/REGISTERSupport
+Downloads
+Contact
+Sitemap
+Home
+Industries
+Automotive
+Defense
+On-Highway
+Off-Highway and Power Generation
+Experience
+Case Studies
+Customer Spotlight
+Papers & Presentations
+Applications
+Engine Control
+Chassis Control
+Electric & Hybrid Vehicle Control
+Exhaust Gas Aftertreatment
+GaN for advanced power electronics
+Infotainment
+Specialty
+Products
+Overview
+Advantages
+Discover OpenECU
+FAQ
+OpenECU Third Party Tool Compatibility
+Services
+Engineering Services
+Systems Engineering
+Controls and Application Software
+Platform Software Engineering
+Custom Electronics Design
+Advanced Technology Development
+Specialty Services
+GaN for advanced power electronics
+About
+News
+Blog
+Certifications
+History
+Partners
+Pi Promise
+Careers
+Open Positions
+Internships
+FLEXIBLE CONCEPT-TO-PRODUCTION SOLUTIONS
+INNOVATION IN THE MAKING
+click here
+CUSTOM ELECTRONIC SOLUTIONS
+INNOVATION IN THE MAKING
+click here
+AGILE TEAMS OF PROVEN PROBLEM SOLVERS
+INNOVATION IN THE MAKING
+click here
+OpenECU®Prototype with Production ElectronicsWith the Pi Innovo OpenECU platform, the same proven ECU hardware can be used for rapid control prototype development, fleet trials and production. Because all OpenECU modules are designed and manufactured by Pi Innovo, we can accommodate individual customer needs by creating custom variants for prototyping and production applications. Pi Innovo's customizable off-the-shelf products can help you efficiently and effectively achieve your goals.
+Learn more about Pi's OpenECU hardware, software, accessories and tools.learn more
+ENGINEERINGservicesWhen it comes to systems, controls, software and electronics design engineering, Pi Innovo offers the knowledge and processes required to support virtually any project; from leading edge research and development to innovative concept development, prototyping and fleet trials, as well as high quality volume production. Work with our engineering team to build and integrate the software, hardware, and know-how needed to meet your specific needs. Pi Innovo’s flexible customer engagement approach ensures that your specific needs are fully met. At Pi Innovo, our purpose is to enable our customer’s success.
+Learn more about Pi’s system and design engineering capabilities.learn more
+CUSTOMECU DesignAlthough Pi Innovo is best known for the OpenECU product line, a large and growing portion of our business is to provide fully custom ECU design and development services for clients in multiple markets. Pi Innovo designed products either in production or going to production include automotive engine controllers, multi-megawatt engine controllers, diesel exhaust aftertreatment control modules, unmanned aerial vehicle engine controllers, high performance radio, chassis controllers, brushless direct current motor control, and other niche applications.
+Let us know how we can support you with your custom electronics hardware needs.learn more
+Who we are
+We are an experienced global team of engineering driven, hands-on problem solvers dedicated to our customers’ success. Our rich heritage and flexible working engagements are centered squarely on delivering steadfast solutions to our clients.
+What We Do
+We deliver adaptive electronics system engineering expertise, customizable field-ready product platforms, and integrated rapid control prototyping solutions to a variety of customers across a wide range of industries.
+What We Offer
+Pi Innovo offers unmatched speed, flexibility, and value in our client’s quest for electronic systems innovation and production acceleration. We’ve earned a reputation for delivering results and we invite you to experience our difference.
+Why Choose Pi
+Adaptive Engineering ExpertiseOur collaborative, flexible, process oriented approach creates a rewarding environment for clients.
+Field-Ready Products and Intellectual PropertyOur wide range of adaptable, field-ready products and intellectual property are designed to accelerate your electronics system development.
+Integrated, Full-Circle TalentPi Innovo’s experienced multidimensional engineering teams are capable of delivering any or all work required to develop a vehicle electronics system from concept to production.
+We are interested in hearing from you.Tell us what challenges you are facingconnect with us
+About Us
+Our Background
+Our History
+Partners
+Careers
+Contact
+Pi Promise
+Certifications
+News
+Blog
+Support
+Licenses
+Web Payment
+Downloads
+Get Support
+News
+January 9, 2017
+Dr Walter Lucking, CEO of Pi Innovo Interviewed by EVTech
+Read more
+December 9, 2016
+SAE Off-Highway Article: How Pi Innovo supports UQM Partnership
+Read more
+Events
+November 18, 2016
+Visit Pi Innovo at Electric and Hybrid Marine World Expo in Tampa January 2017
+Read more
+August 5, 2016
+Visit Pi Innovo at Engine Expo North America 2016
+Read more
+contact info
+Pi Innovo LLC
+47023 W. Five Mile Road
+Plymouth, MI 48170-3765
+United States of America
+Telephone: +1 734 656 0140
+FAX: +1 734 656 0141
+info@pi-innovo.com
+Pi Innovo China Office/Michigan China Center
+Suite A409, Tomorrow Square
+No. 399 West Nanjing Road,
+Shanghai China 200003
+Telephone: +86 (21) 2308 1188
+info@pi-innovo.com
+Pi Innovo © 2017  |  Privacy Policy |  Terms of Use

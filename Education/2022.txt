@@ -1,0 +1,32 @@
+Raven login
+skip to navigation
+skip to content
+Home
+University Information Services
+Raven
+Raven
+Login
+User-id:
+Password:
+override login options for this session?
+Help
+The web resource you requested requires you to identify yourself [Help -
+why am I seeing this?].
+This resource
+is provided by the website www-rba.educ.cam.ac.uk.
+You should only proceed if you are happy to be identified to this site.
+Always quit your web browser when you have finished
+accessing services that require authentication. Do not disclose your
+password to anyone. Please report attempts to obtain your password in unusual
+circumstances. Raven necessarily uses cookies to manage your authentication
+(details).
+See help on Raven accounts if you want to
+change the password you use to log in to Raven, if your password isn't
+working, or if you don't have a Raven account but need one.
+The Raven web authentication system is provided and managed by University Information Services.
+Help
+Privacy & cookie policy
+© 2017 University of Cambridge
+Study at Cambridge
+About the University
+Research at Cambridge

@@ -1,0 +1,10 @@
+Home
+Home
+CTREP ProjectThe CTREP Project Aims to deliver a stepwise increase in the use of DSpace@Cambridge within Cambridge Departments and Faculty by integrating with CamTools. The increased deposit and reuse activity enabled by integration with CamTools will be accompanied by a programme evaluation of use, policy definition and automation within the scope of that link to reduce the administrative load associated with this increase in use. In parallel, as part of the project, the University of Highlands and Islands Millennium Institute, UHI, will be running a pilot integration between Sakai and Fedora using the same framework developed for the Sakai/CamTools DSpace integration. The project is collaborating and being advised by the Digital Libraries research group at MIT in the field of policy development and expression.This project is 50% JISC Funded under the JISC Capital Programme September 2006 Call, the bid document CTREP5eval.pdf, is available for download.
+Declarative / Imperative Policy
+Use of CHH / Widgets
+Meeting Schedule
+DSpace / Sakai Integration
+Internal Project Pages
+Evaluation questionnaire responses
+New Test Page

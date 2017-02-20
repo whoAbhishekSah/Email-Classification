@@ -1,0 +1,6 @@
+GeoCrimeData:: Geospatial Data for Crime Analysis
+GeoCrimeData is underway and will be ready in October 2011
+For updates, see the project blog
+For information about forthcoming and past
+conference papers, see conferences
+Privacy Notice

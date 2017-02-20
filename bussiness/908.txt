@@ -1,0 +1,190 @@
+Welcome to Imaging and Machine Vision Europe | Imaging and Machine Vision Europe
+Jump to navigation
+(!)  We use cookies to give you the best possible experience on our website. By continuing to browse this site, you give consent for cookies to be used.
+For more details, please read our
+cookie policy  (!)
+Latest issue:
+Dec 2016 / Jan 2017
+Popular:
+Scientists develop low-cost hyperspectral ima...
+Spectral imager and sight restoring tech win...
+Navitar to offer cameras with purchase of Pix...
+Europe's only dedicated magazine for design and production engineers working in the scientific imaging and machine vision market
+Search form
+Search this site
+Home
+NewsApplications
+Distributor
+Industry
+Technology
+Features
+Analysis & Opinion
+EventsConferences & Exhibitions
+Training courses & User meetings
+ResourcesWhite Papers
+Webcasts
+Press Releases
+Jobs
+Suppliers
+Subscribe
+No front page content has been created yet.
+News
+Industry
+Flir posts $1.66bn annual revenue; CEO Andrew Teich announces retirement
+16 February 2017
+Flir Systems has posted annual revenue of $1.66 billion in 2016, up 7 per cent compared to 2015
+Industry, Technology
+Photonics West showcases new image sensor technology
+08 February 2017
+Nano-electronics research centre, Imec, has shown a prototype of a multispectral TDI imager based on its CCD-in-CMOS technology at SPIE Photonics West
+Technology
+Spectral imager and sight restoring tech win prizes at Photonics West
+08 February 2017
+A handheld hyperspectral imager from US firm TruTag Technologies has won a Prism Award for Photonics Innovation at SPIE Photonics West
+Industry
+Integro Technologies partners with ViDi Systems
+08 February 2017
+American machine vision integrator Integro Technologies will now offer deep learning-based vision software from Swiss firm ViDi Systems
+Industry
+Paul Wilson elected UKIVA chairman
+08 February 2017
+Scorpion Vision’s managing director Paul Wilson has become the new UK Industrial Vision Association (UKIVA) chairman
+Applications
+Robotic inspection to monitor offshore wind farm cables
+08 February 2017
+A consortium of scientists has received £4 million to develop a robotics solution, including remote inspection, for maintenance of subsea power cables on offshore wind farms
+Applications, Technology
+Scientists develop low-cost hyperspectral imager for natural gas detection
+08 February 2017
+Researchers at the University of Glasgow in Scotland have collaborated with laser manufacturer M Squared to develop an infrared imaging system that could offer low-cost, real-time detection of methane gas
+Applications
+Asteroid mining project to image drilling in space
+07 February 2017
+Industry
+Teledyne imaging sales up; e2v approves Teledyne offer
+07 February 2017
+Industry
+Navitar to offer cameras with purchase of PixeLink
+02 February 2017
+Industry
+Hyperspectral imaging market to reach $11.34bn by 2022
+26 January 2017
+Industry
+Multispectral imaging company FluxData purchased by Halma
+18 January 2017
+Industry
+Cognex buys third 3D vision company
+10 January 2017
+Industry
+On Semiconductor licenses Ceva embedded vision platform for ADAS
+06 January 2017
+Industry
+Microsystems foundry Invenios acquires liquid lens supplier Varioptic
+06 January 2017
+Tweets by @imveurope
+Analysis & opinion
+Industry, Technology
+Building an embedded community
+20 January 2017
+Following the launch of an online embedded vision development hub, Basler’s Mark Hebbel discusses the role embedded computing could play in industrial imaging and the company’s strategy for adapting to this technology
+Industry, Technology
+Next-gen imaging at CES
+04 January 2017
+A look at some of the gadgets incorporating imaging that will be launched at CES 2017, taking place this week in Las Vegas
+Industry, Technology
+The big stories of 2016
+19 December 2016
+This year has been a busy one for the vision sector, with numerous acquisitions, embedded computing becoming more prominent, and greater interest in 3D and hyperspectral imaging. Greg Blackman looks back at a packed 2016
+Industry
+News from UKIVA, VDMA Machine Vision and EMVA
+01 December 2016
+Industry
+Lessons from Vision 2016
+22 November 2016
+Industry
+Gearing up for Industry 4.0 at Vision 2016
+21 November 2016
+Features
+PROFILE
+Intelligent Illumination
+01 December 2016
+Smart Vision Lights has built its company, originally from designing custom illumination, as Greg Blackman finds out
+Smart Factories
+Forward-looking factories
+01 December 2016
+Greg Blackman gets to the bottom of Industry 4.0, and asks how machine vision will fit into the factories of the future
+Hyperspectral imaging
+Trash Talk
+01 December 2016
+Recycling is becoming big business, and hyperspectral cameras are exactly the right tool to help sort the growing volumes of waste, as Matthew Dale discovers
+Life Sciences
+Capturing the thought process
+01 December 2016
+Rob Ashwell looks at the advances being made in scientific image sensors and how these are furthering our understanding of the brain
+Q&A
+Shigeki Masumura
+01 December 2016
+Shigeki Masumura, president and CEO of Machine Vision Lighting, and winner of the 2016 Vision Award
+Software, machine learning
+Image processing reaches new depths
+01 October 2016
+PROFILE
+Bringing embedded expertise to the vision market
+01 October 2016
+Resources
+Webcast
+Life Sciences
+04 November 2016
+White paper
+Filtering in Machine Vision
+31 October 2016
+White paper
+The Machine Is Quicker Than the Eye for Visual Quality Inspection
+31 October 2016
+White paper
+Colour print inspection
+06 October 2016
+White paper
+Mapping from the skies
+29 July 2016
+Show previews
+Automate 2017
+Chicago, Illinois USA
+03 April 2017 to 06 April 2017
+Press Releases
+Snapscan
+16 February 2017
+Imec has introduced the Snapscan camera, a platform that combines good signal-to-noise ratio with the spatial and spectral resolution advantages of line-scan hyperspectral imaging technology
+iXon Life EMCCD camera platform
+10 February 2017
+Andor Technology has launched the ultrasensitive iXon Life Electron Multiplying CCD camera platform, exclusively for fluorescence microscopy
+S13488 CMOS linear image sensor
+MvBlueGemini-Ident and MvBlueGemini-Inspect
+Python 480
+NIR Imaging Filters
+Zyla Spectroscopy Mode
+Events
+W3+ Fair
+Wetzlar, Germany
+21 February 2017 to 22 February 2017
+Photoptics 2017
+Porto, Portugal
+27 February 2017 to 01 March 2017
+Enova Strasbourg
+Strasbourg, France
+15 March 2017 to 16 March 2017
+LogiMat 2017
+Stuttgart, Germany
+14 March 2017 to 16 March 2017
+Embedded World 2017
+Nuremberg, Germany
+14 March 2017 to 16 March 2017
+MEDIA PARTNERS
+Electro Optics | Europa Science | Imaging & Machine Vision Europe | Fibre Systems | Laser Systems Europe | Research Information | Scientific Computing WorldAbout us | Contact us | Subscribe | Advertise | Terms & conditions | Privacy policyEuropa Science © 2003-2017
+news
+press releases
+features
+analysis & opinion
+interviews
+webcasts
+white papers

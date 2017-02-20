@@ -1,0 +1,37 @@
+UKOLN Events | JISC Data Cluster Consultation Workshop | October 2006
+Home Page
+Data Cluster Consultancy
+Background
+The growth of e-Science activity has led to the creation of increasing volumes of research data from projects and initiatives in a range of disciplines from "pure" and applied science to social sciences and the arts and humanities. Various organisations are stakeholders in the long-term curation and preservation of research data including Research Council-funded data centres, higher education institutions, publishers and other professional bodies.
+The forthcoming 2007 - 2009 JISC strategy recognises the need for the development of infrastructure and services to support e-Research and digital repositories form a key element in achieving this goal: 'to deliver innovative and sustainable ICT infrastructure, services and practice that support institutions in meeting their missions'. Digital repositories and preservation are identified as an area for further development under the 2006 - 2009 Capital Programme.
+Aims and Objectives
+JISC has requested that Dr Liz Lyon, Director, UKOLN, undertake a small-scale consultancy to investigate the relationships between data centres and institutions which may develop data repositories. The resulting direction-setting report is to be used to advance the digital repository development agenda within JISC's Capital Programme (2006 - 2009), to assist in the co-ordination of research data repositories and to inform an emerging Vision and Roadmap.
+The aim of the consultancy is to complete the step (1) in the following workflow:
+1. Produce a Summary report on Roles and Responsibilities of Scientific Data Centres and Institutions in their approach to curating research data, drawing on and synthesising the relevant findings from 03/05 Digital Repository 'data' projects.
+This Report will feed into:
+2. Synthesising and defining a broader baseline of where we are using outputs of the 03/05 Programme
+Which in turn will contribute to the wider goal of agreeing:
+a.	UK and International view of where we are now in terms of curating data.
+b.	Vision and Roadmap
+The Consultancy objectives are therefore:
+To define how institutions (collectively and individually) and scientific
+data centres can together effectively achieve:
+Preservation
+Access - Managed and Open
+Reuse - Data Citation, Data Mining and Reinterpretation
+To identify the mechanisms, business processes and good practice by which
+these functions can be achieved
+To facilitate dialogue between data centres, institutions and other key
+players and to define a collaborative way forward.
+Deliverables
+The Consultancy work will:
+Carry out investigatory work leading to a Briefing Paper [PDF]
+Facilitate a one-day Workshop on October 10 [HTML]
+Complete follow up work and produce a Report for the JISC
+Create a modified report for wider public consumption.
+Timescale: The work to start on 11th September and to be completed by Friday 8th December 2006.
+Back to top
+Content by: Liz Lyon
+Page last revised on:
+08-Jan-2007
+Email comments to: web-support@ukoln.ac.uk

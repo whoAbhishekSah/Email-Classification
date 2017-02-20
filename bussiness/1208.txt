@@ -1,0 +1,278 @@
+Redgate Software - Tools For SQL Server, .NET, & Oracle
+Products
+SQL Server
+SQL Toolbelt
+SQL Compare
+SQL Data Compare
+SQL Source Control
+SQL Prompt
+SQL Monitor
+DLM Automation
+SQL Backup Pro
+DLM Dashboard
+ReadyRoll Pro
+SQL Search
+SQL Doc
+SQL Data Generator
+SQL Test
+SQL Dependency Tracker
+SQL Multi Script
+SQL Scripts Manager
+SQL Index Manager
+SQL Comparison SDK
+SQL Developer Suite
+.NET
+.NET Developer Bundle
+ANTS Performance Profiler
+ANTS Memory Profiler
+.NET Reflector
+SmartAssembly
+PInvoke .NET
+Oracle
+Deployment Suite for Oracle
+Schema Compare for Oracle
+Data Compare for Oracle
+Source Control for Oracle
+MySQL
+MySQL Comparison Bundle
+MySQL Compare
+MySQL Data Compare
+Azure
+Azure Explorer (free)
+Agile DB
+Solutions
+Support
+Our Company
+Careers
+Contact us
+Redgate blog
+Community
+Books
+Sponsorship
+Friends of Redgate
+Search
+Shopping cart
+Log in
+Quotes
+Menu
+Products
+SQL Server
+SQL Toolbelt
+SQL Compare
+SQL Data Compare
+SQL Source Control
+SQL Prompt
+SQL Monitor
+DLM Automation
+SQL Backup Pro
+DLM Dashboard
+ReadyRoll Pro
+SQL Search
+SQL Doc
+SQL Data Generator
+SQL Test
+SQL Dependency Tracker
+SQL Multi Script
+SQL Scripts Manager
+SQL Index Manager
+SQL Comparison SDK
+SQL Developer Suite
+.NET
+.NET Developer Bundle
+ANTS Performance Profiler
+ANTS Memory Profiler
+.NET Reflector
+SmartAssembly
+PInvoke .NET
+Oracle
+Deployment Suite for Oracle
+Schema Compare for Oracle
+Data Compare for Oracle
+Source Control for Oracle
+MySQL
+MySQL Comparison Bundle
+MySQL Compare
+MySQL Data Compare
+Azure
+Azure Explorer (free)
+Agile DB
+Solutions
+Support
+Our Company
+Careers
+Contact us
+Redgate blog
+Community
+Books
+Sponsorship
+Friends of Redgate
+Ingeniously simple software for SQL Server, .NET & Azure
+SQL Toolbelt
+The industry-standard tools for SQL Server development & deployment
+SQL Clone beta
+Clone databases in seconds and save up to 99% disk space
+SQL Compare
+Compare SQL Server schemas and deploy differences fast
+Intel
+Walt Disney
+Verizon
+AT&T
+Pepsi
+United Technologies
+Boeing
+Ford
+Johnson & Johnson
+Comcast
+Microsoft
+Fedex
+HP
+P&G
+Home Depot
+Coca-Cola
+Pfizer
+Dow
+Best Buy
+Barclays
+Bayer
+Apple
+UCLA
+Amazon
+WOW
+Honeybaked
+Canal & River Trust
+TATA
+Volkswagen
+Safeway
+Solix
+Solarwinds
+Rockstar North
+Patient Point
+New York Life
+Kroger
+HESS
+HCL
+Google
+General Motors
+Fitness First
+Yorkshire Water
+SkyScanner
+T. Rowe Price
+Nmbrs
+Albumprinter
+Merrill Lynch
+Amazon
+From the 91% of the Fortune 100 to Honeybaked Ham, Redgate's products help 804,745 users improve productivity, protect their data, & become more agile
+SQL Server
+.NET
+Azure
+SQL Compare
+Compare SQL Server schemas and deploy differences fast
+Try it free
+SQL Data Compare
+Compares and synchronizes SQL Server database contents
+Try it free
+SQL Source Control
+Connect your database to your version control system
+Try it free
+SQL Prompt
+Write, format, and refactor SQL effortlessly
+Try it free
+SQL Monitor
+Real-time SQL Server performance monitoring with alerts and diagnostics
+Try it free
+DLM Automation
+Automate your database changes with CI and automated deployment
+Find out more
+SQL Backup Pro
+Compresses, strengthens, and encrypts backups
+Try it free
+DLM Dashboard
+Free: Be the first to know when any of your database schemas change
+Get it free
+ReadyRoll
+Migrate through schema versions with ordered scripts in Visual Studio
+Try it free
+SQL Search
+Search for SQL in seconds - for free
+Get it free
+SQL Clone beta
+Create SQL Server database copies in an instant
+Try it free
+Even more SQL tools
+See all our SQL Server tools, and find tools for .NET, Oracle and MySQL.
+See all SQL products
+See more SQL tools
+SQL Toolbelt
+Improve productivity, protect your data, and become more agile.
+With industry-standard tools for SQL Server development & deployment, you’ll have everything you need to work with and manage SQL Server - all in one package
+Learn more
+ANTS Performance Profiler
+Profile and boost the performance of your .NET applications
+Try it free
+ANTS Memory Profiler
+Profile .NET application memory usage
+Try it free
+.NET Reflector
+Browse, analyze, decompile, and debug .NET code
+Try it free
+SmartAssembly
+Obfuscation and automated error reporting
+Try it free
+.NET Developer Bundle
+Optimize code performance and memory usage, with this bundle containing:
+ANTS Performance Profiler
+ANTS Memory Profiler
+.NET Reflector VS Pro
+Learn more
+Data Platform Studio
+Migrate and manage data across the Microsoft Data Platform
+Introducing Data Platform Studio, a new platform from Redgate designed from the ground up to help you migrate and manage your data, wherever you choose to store it. From your on-premise Microsoft SQL Server to Microsoft Azure, Data Platform Studio provides all the control you need to ensure you're in control of your data.
+Get started for free
+Bring DevOps to your database
+“...we're managing to release up to 95 times a day. It's vastly improved over one release every six weeks.”
+Ryan Crawford, Technical Manager, Skyscanner
+See how Skyscanner brings DevOps to the database
+Advice and articles from the community
+From the blog
+5 shortcuts in SQL Prompt you didn’t know about
+Carly Meichen
+How to compare two DacPacs using SQL Compare
+Feodor Georgiev
+Generating test data with localized addresses using SQL Data Generator
+Phil Factor
+See all blog posts
+Latest articles from Simple Talk
+Lists With, or Without, Ranges in both T-SQL and PowerShell
+Phil Factor
+How to Build Your First SQL Server Virtual Lab in Windows Azure
+Joshua Feierman
+DevOps and Database Lifecycle Management
+William Brewer
+Go to Simple Talk
+Meet the community
+Can't find something?
+Try any Redgate tool for free
+Redgate
+Contact us
+Jobs
+Redgate blog
+Privacy and cookies
+Accessibility
+Book store
+Support
+Find my serial numbers
+Download older versions
+Contact product support
+Report security issue
+Forums
+Training
+Other sites
+SQL Server Central
+Simple Talk
+Database Weekly
+All Things Oracle
+Partners
+Resellers
+Find a consultant
+Awards
+Copyright 1999 - 2017 Red Gate Software Ltd

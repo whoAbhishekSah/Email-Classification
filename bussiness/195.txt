@@ -1,0 +1,5 @@
+HM Revenue & Customs: Request cannot be completed
+Sorry, your request cannot be completed
+Please restart the transaction you were attempting.
+HMRC services
+pid: edge-hmrc-waf

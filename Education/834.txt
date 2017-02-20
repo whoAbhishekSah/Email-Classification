@@ -1,0 +1,223 @@
+Locating London's Past
+Locating London's Past
+Skip to content
+HomeAbout
+← Older posts
+Place and the Intellectual Politics of the Past
+Posted on 30 July 2012 by Sharon Howard
+Place and the Politics of the Past
+Recent blog post/lecture by Tim Hitchcock, one of the project directors, reflecting on dialogues between historical geographers, historians, librarians and archivists, and on recent history-geography digital projects including Locating London’s Past.
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window)Click to share on Google+ (Opens in new window)Click to email (Opens in new window)
+Posted in Mentions
+|
+Leave a comment
+Locating London’s Past is live!
+Posted on 12 December 2011 by Sharon Howard
+We’re delighted to be able to announce that the website for Locating London’s Past has now been launched at
+www.locatinglondon.org
+Locating London’s Past provides an intuitive GIS interface enabling researchers to map and visualize textual and artefactual data relating to seventeenth and eighteenth-century London against John Rocque’s 1746 map of London and the first accurate modern OS map.
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window)Click to share on Google+ (Opens in new window)Click to email (Opens in new window)
+Posted in website
+|
+2 Comments
+Rocque map gets new identities.
+Posted on 4 October 2011 by Pete Rauxloh
+The last post described how an existing place name index created for the Rocque 1746 map had been georeferenced, and how the   streets and notable places shown on the map had been digitised from the 1st/2nd edition OS maps of the early 19th century for reasons of their better spatial accuracy, and how digitised items were then processed to produce a set of polygons which accounted for each road and major place shown by Rocque.  This posts describes the final operations where by those polygons were named, and how the parish and ward boundaries also captured by the project, were used to intersect or cut up those polygons such that there was a new polygon for every combination of ward x parish x street/place.
+An extract of the buffered and trimmed polygons
+Naming the polygons
+A simple two-point transformation had been used to place an existing index of place locations created for the Rocque map as graphics, into roughly their correct location on OS base mapping.  In the central City area the articulation of a point and the polygon it represents, was good enough for the one to often be plotted inside the other.  This means that any cases where a polygon did not have a point within it (or those which had more than one), had to be investigated. That investigation was  manual but proved a valuable quality assurance ‘last pass’ of the dataset, with  any points which were not quite in the right place would simply be dragged and dropped to correct them.   A spatial join was then performed on the polygon enabling it to inherit the attributes of the point that fell within it – i.e. a place name.
+This then yielded a separate, named polygon for each street and place shown on the Rocque map. Now the job was to successively dissect those polygons using the parish and ward polygons as ‘cookie-cutters’ to punch out the newer smaller polygons. Returning to the example ofCheapside, we segmented the long thin polygon created for that thoroughfare, by cutting it with the parish layer, with the centre of each new polygon being automatically derived.
+An area of Cheapside with street x parish polygons centres shown
+These operation had to be applied with some sensitivity, since ultimately we were not dealing with highly accurate datasets and some degree of spurious match of miss-match between data sets should be expected.   For example when intersecting streets with the parish layer, we would find cases where a road edge and a parish boundary would have a slight miss-match, such that a sliver polygon would be created, implying that a tiny  part of Street X lay in parish Y when in fact it never did.  Filters were applied to ensure that minute, spurious polygons such as this could be omitted, but again they needed to be applied carefully, given the range of parish sizes within the study area.  The following number of recorded were created (‘places’ includes streets and areas).  Other challenging characteristics the data set exhibited included some parishes not being single polygons but rather comprised a number of discrete parts.  Indeed a great deal of effort was expended on gathering a reliable set of parish and ward outlines in the first place.
+Overall then the number of items dealt with were as follows
+Entity
+Number of distinct features
+Places
+5,887
+Parishes
+191
+Wards
+99
+Places intersected with  parishes
+7,121
+Places intersected with  Wards
+6,711
+Places parishes and wards intersected
+7,847
+Parishes intersected with  wards
+555
+In summary then the project provided a number of observations, techniques and thereby opportunities to exploit other similar data sets.  Chiefly perhaps;
+The need for detailed and informed graphical analysis, when creating composite images from historic maps which were only ever published as individual plates.
+The benefit of founding such an exercise on the firm base of the earliest reliable mapping one has of an area.  By doing this the network, polygons and point data sets developed from one map of an area can be utilised for the creation of modified version of the same to service maps of an earlier or later time.
+The need for any such reference map base to extend beyond the spatial extent of the historic map being referenced. This is a manifestation of the surveyor’s adage – working from the whole to the part – whereby an external control network of accurate surveyed detail wholly encompasses the area of interest.  The loss of accuracy over distance from the historic core witnessed in the warping effect seen on the geo-referenced Rocque map is simply a product of Rocque not following this maxim. That is he worked from the part to the whole, extending an accurately surveyed portion of the map out to the extremities within which he was not able to identify enough suitable targets to independently check accuracy.
+The great benefit of global geo-processing operations for improving the quality control of datasets, and automating complex tasks with the GIS.  Many complex tasks were automated through the building of models or short programmes which would apply certain GIS tools in a sequence generating new datasets as they went.
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window)Click to share on Google+ (Opens in new window)Click to email (Opens in new window)
+Posted in LocLonGeneral
+|
+Tagged Georeference, GIS, Historic map, Rocque, Survey method
+|
+Leave a comment
+Populating Rocque – What was where?
+Posted on 4 October 2011 by Pete Rauxloh
+The last three  posts looked at how the 24 individual sheets of John Rocque’s map of 1746 showing central London and its immediate environs, were stitched together to create a single image, how that image was then referenced to the real world and how the warping evident on the map following that process may be explained. This post considers how this map was then used to identify locations within 1746 London, and needs to start by re-stating what the purpose of the exercise was.
+The project  essentially produced two datasets; a single georeferenced image of the 1746 map that had originally been published as 24 separate sheets, and a set of points to indicate the location of all the named streets and places and the parish and ward in which they exist.  This latter point data would provide a valuable resource for any other researchers of the period, because it would allow data gathered by street and parish – tax returns, average age of death, quantity of beer consumed etc. – to be plotted on a map.   In short the project provided a resource whereby researchers can more easily engage with the significance of space and location in their research.
+The creation of this new data set, built on an existing index[1] created for the 1746 map, which identified some 6000 streets, areas, (yards, squares etc.), churches and other notable buildings.  This existing resource  provided coordinates for each point expressed as a pixel location within a single sheet – i.e. the number of pixels across and down from the scan’s top left hand corner, thus the processing performed upon the sheets, can be characterised as the transformation of these  graphical coordinates to geo-graphical ones.
+This existing data set also had to be extended such that there was a separate point for each combination of the spatial criteria we were using, (Ward, Parish and Street).  Thus whereas the existing index would  have a single point for the centre of a street, our aim would be to have 4 points for that street because it passes through 4 different parishes.  Only in this way could we deliver the same degree of spatial resolution which the researcher had gone to some lengths to capture.  For example, the street of Cheapside in centralLondon is some c.500 m long and traverses 7 parishes.
+Parish boundaries which intersect with the street of Cheapside, London
+Thus the new data set had to under go two processes; the georeferencing of the existing point data and the extension of that dataset into the more comprehensive state.   For both of these processes the first question to face was which map base ought to be used  locate and create these datasets; the georeferenced Rocque map or the more accurate  1st/2nd edition OS data that came out some 50 years later.
+Embedding the data in reliable mapping.
+This question referred back to both the guiding principal of the project and a legacy the project’s data sets would provide.  The principal was that whatever data sets were produce they had to be embedded in a geographical reality, while the legacy of the work, was that the data it produced would enable the easy creation of similar spatially aware indices of location for the area at earlier or later times.
+Comparison of area around north Cheapside on 1st edition and Rocque maps
+The stated principle effectively ruled out the use of the Rocque map as the main source of new data capture. While the georeferencing was generally accurate, the detail suffered as it invariably would where relatively primitive survey technique and a coarse style of depiction were employed.  Thus an alley way shown on the Rocque map would not exactly overlie the same alleyway shown on the far more accurate ordnance survey data of some 50 years later.  Where the divergence between the two representations was greater than the width of the feature itself, one is clearly in an untenable position.
+The desired legacy also gave against the use of Rocque for new data capture, since if it were solely used, then one would be left with a good fit between the digitised data and the 1746 map, but it would be of limited use if one wished to create a similar index for another map – perhaps the Horwood map of 1799.  Embedded within spatial data derived solely from the Rocque map, would be all that map’s peculiar collection of errors. The likely effect of this would be that all such data would need to be edited to agree with the 1799 map if not re-created from scratch. If the new data was based on digitisation from the early edition ordnance survey map, then that would remain the benchmark, the authoritative version of the man street lay out.
+Processing the existing index of places
+The existing index recorded the details of places on a per sheet basis, each of which needed to be transformed.  Two approaches were possible here. Since we knew both where in the 8 x 3 matrix of published sheets each one existed, and where on each scan the actual area of cartography was located (i.e. excluding any borders), it would have been possible to calculate the pixel coordinates of a point within an image made up of all 24 sheets.  The point data was transformed to the Ordnance survey grid using a simple two –point transformation, where the graphical and real-world geo-graphical coordinates for two points are determined and the entire data is transformed on this basis. This simple change can be compared with the more complex warping of spatial information which occurred when the Rocque map was georeferenced.  This raster map is a continuous surface of data – like a photograph – and that surface can be stretched as if it were printed on a sheet of rubber, such that different locations are moved by different amounts.  Conversely the point data is discrete; one point is independent of another and cannot be shifted in such a differential manner.
+The second approach was more useful, which was simply to carry out the same two point transformation, but to do it for each sheet at a time, i.e. 24 operations. This was more beneficial since it limited error to that found in a single sheet.  While point location would still degrade with distance from the pairs of points used in the transformation, on a sheet -by-sheet basis that distance and consequent degrading effect was less pronounced (See below)
+Points plotted from existing index of places following, georeferenced on a per-sheet basis
+However it is important to note that even this operation was not expected to drop one of the existing points into precisely the correct spot as shown on the existing Old Bailey Online map tiles.  This point will be returned too.
+Extending the data set
+This component of work became the largest element, since it required that the extent of all thoroughfares present in 1746 be mapped, thus an entire street network had to be derived.  Returning to the example of Cheapside, our aim was  to create  8 separate points for each parish this street traverses,  and to do this we needed to start with  a polygon which  would represent that thoroughfare. This  would allow us apply a geoprocessing operation where by polygons representing parishes would be intersected with the polygon representing Cheapside to produce 8 new baby polygons whose centre could be calculated.
+So expansion of the place data set began with the digitisation of a connected network of street lines from the ordnance survey maps, to include all routes shown on the Rocque map.  Lines would be traced along routes and be ‘snapped’[1] at one or both ends to another line in the network.
+Completed street network for main area covered by Rocque's map.
+The street network was a line data set, but for each street, two other items of data were recorded.  The first was an average width of the street, the second a categorisation of the routes precedence within a street hierarchy.  There were 7 levels of thoroughfare defined.
+1
+Main thoroughfare – outsized e.g. Holborn,Cheapsidetypically 20m width.  This code is also to be used for those roads that run around squares and similar entities.
+2
+Main thoroughfare – standard width (c.15m)
+3
+Secondary thoroughfare – standard width (c.10m)
+4
+Tertiary thoroughfare – standard width (c.6m)
+5
+Alley way  – i.e. a narrow route running between two streets or street and place polygon (1-2m)
+6
+Cul-de-sac plus area – i.e. a dead end but one which opens out into a court.  The wider area is captured as a polygon and will be amalgamated with class 6 streets  (typically 1-2m but up to 10 for a Mews)
+7
+Cul-de-sac – i.e. a simple dead-end. (1-2m but up to 10 for a Mews)
+Detail of street network showing colour graded street classifications
+This was accompanied by the creation of a polygon layer that recorded all the areas (squares, notable buildings, yards etc.) which were shown on Rocque, including on occasion, portions of street where there was a short but marked increase in width.  These polygons were classed as either standalone (e.g. a churchyard or notable building) or connected, i.e. a wider area too which a narrower thoroughfare led, for example a yard.
+The Holborn viaduct dilemma
+As described,  the street network and place polygons were digitised from  the 1st and 2nd OS mapping, with the warped  Rocque map acting as a guide as to which roads to digitise (since there were many more of them by the early 19th century).  However of course, the reverse was also true; the Rocque map would often show detail which had been obliterated by later developments.   A good example of this is the re-working of the area around Holborn viaduct. In such cases we only had recourse to digitise from the Rocque map itself.  Aware of the degree of warping that this map exhibited following its georeferencing, a leaf was taken out the method adopted for the processing of the existing place point index, and individual, focussed georeferencing operations were performed.
+This began by delineating with a  temporary polygon a problem area – like Holborn viaduct – as  requiring special attention. Then the warped Rocque map was turned on, and would display the area at the time in roughly the right place.  At this point the map was georeferenced again, but  solely using common points around the area of change which yielded an improved fit between it and the OS data in just that area.  The quality of fit outside that area being irrelevant.
+These width and street rank of the roads were recorded so that two  GIS operation could be performed on the data. The first used the width to create a polygon from the centre line of each street to which any connected polygons would be amalgamated.  The street rank, was then used to determine which polygon ought to be trimmed by another(Fig) so that overlapping was minimised.  Where streets of the same rank joined (as shown in the top left of the image ) no trimming took place.
+Street lines expanded to polygons based on recorded width
+Street polygons trimmed on the basis of the hierarchy of routes
+The reason these buffer and trim operations took place was to yield a clean set of polygons that could then be intersected with the parish and ward polygons also being prepared.  Having streets represented as polygons, as opposed to lines enabled us to generate both a more accurate centroid for each street and parish overlap, but more importantly it enabled us to see many of them in the first place.  In 1746 and indeed today both ecclesiastical and  administrative boundaries will often follow a street centreline; if streets were  only represented using   lines,  we would miss the fact that one half of a street is in one parish and the other is in a different one[3].
+A final point here is that as discussed at the outset, the ultimate purpose of the operation was to enable the creation of an accurate point data set.  The street centrelines, buffered out to a standard width, do not, and were  not meant to trace the fine edge of the actual street edge as shown on OS or Rocque maps; rather they are an approximation to those edges.  This was both an expedient approach to achieve the desired goal, but more pragmatically the 1 inch to 200 foot scale adopted by Rocque was simply too coarse to capture such edge detail.  Even with perfect accuracy, at this scale wobbles in the street edge of less than 2.4 meters could not really be shown.
+[1] By Patrick Manix of Motco Limited
+[2] GIS shorthand for the operation whereby one piece of vector data is connected to another, i.e. there is no chance of having a miss-match.
+[3] This focus on boundary accuracy was another reason why the digital capture programme had to take place using the OS rather than the georeferenced Rocque mapping.
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window)Click to share on Google+ (Opens in new window)Click to email (Opens in new window)
+Posted in LocLonGeneral
+|
+Tagged Georeference, GIS, Historic map, Rocque, Survey method
+|
+Leave a comment
+Fitting Rocque to modern London – Investigating the warp factor
+Posted on 26 September 2011 by Pete Rauxloh
+The last post looked at how the single composite scan made from the 24 separate sheets of John Rocque’s 1746 map  of central London, were fitted  in place over moden mapping using the process named georeferencing.  When applied to historic maps, this process will frequently distort their original orthogonal form, as the image is wrestled into its correct location.  This posts examines a possible explanation of the warping that took place when the Rocque map was subject to this process.
+England’s first national mapping agency – the Ordnance Survey –  was founded  in 1791, almost 50 years after the creation of  Rocque’s central Londonmap. The first notable act of the OS was to carefully measure a baseline in Hounslow, westLondon, so that it could form the first part of a control network of survey points that would eventually cover the nation, and be the bedrock of every single map the OS  produced of theBritish Isles until the advent of global positioning systems.  The measurement was undertaken with the utmost care over two and half months,  with glass rods – unaffected by variations in temperature – being used to measure the distance itself,  and the termini of the line being marked by the careful sinking of de-commissioned cannon.
+The procedure was so precise because the national control network was to be implemented using the method known as  triangulation, and the success or fail of a triangulations  rests on the  accuracy with which it’s  initial baseline was measured.
+A triangulation (literally the making of triangles)  begins with the measurement of a base line, and once this is established an instrument able to record horizontal angles is placed at the start of the line(A)  and the other end sighted (B) .  Then a point off the base line whose location is unknown is sighted (C), and the angle to it from the base line recorded.  Next the instrument is moved to the other end of the base line (B), the start of the line sighted (A) and the same unknown distant point is sighted (C).  With these two angles the measured distance of the baseline, and some trigonometry,   you can calculate the lengths of the lines AC and BC and thereby the location of the unknown point.  From these three known points, the same process can be repeated to coordinate further unknown points, which themselves become part of the network.  For example set up on C, take a back-sight to B and sight a new point D etc.
+Apart from the obvious benefit of being able to determine the location of points without visiting them, what makes the technique so strong and its discussion here relevant, is that within this network of triangles it is possible to re-measure or re-check the location of a point by viewing it from different points to those used for its initial coordination.  In this way we can calculate multiple possible values for a point’s location, and from these repeated measures, may generate an average value. Since the differences in the measurements will be normally distributed (most values will be roughly  the same but a few will be more and a few less) it allows us to state the amount of agreement or degree of error in the readings  and identify values so far from the mean that they must be rejected.
+The technique had first been applied in the mid 16th Century, and was used to great effect by various members of the Cassini family in their ground-breaking survey of France as well as smaller  surveys in  Britain and elsewhere, but  by the start of the 18th century it had never been applied to the survey of a large metropolis.   Rocque’s decision to utilise the technique to provide a check on the measurements made at street level, is recorded in his account of the  map’s creation in a version published in 1747.  The creation of the map was aided by;
+“ascertaining the Position and Bearings of the Churches and other remarkable Buildings by Trigonometrical and other Observations from the Tops of Steeples, Towers and other Places,  where  such Buildings are visible; by taking the Angles at the Corners of Streets & c. with proper instruments, and measuring the Distances by the Chain: and by comparing from Time to Time, the Position of Places found by the last Method, with the general Observations before-mentioned. So as to correct the one by the other”
+An image hidden in the margin of one of a latter map shows the intrepid surveyor  – probably  Rocque himself  – balanced on  ‘remarkable building’ and presumably aiming the  telescope at another equally notable structure.
+Detail from John Rocque’s ‘Map of London and Ten Miles Around’ started in 1744
+The application of these two fundamental survey tools by Rocque – repeated measures and independent checks – resulted in a notable false start.  When distances calculated at street level with chain and theodolite, were  found to contain major errors when compared with the same measurements calculated from the triangulation,  he simply had to start the whole enterprise again.[1]  Moreover, the application of triangulation to tighten-up the survey’s accuracy may  explain the warping we see in the georeferenced map.
+One could ponder how thorough Rocque was in his observations ;  how many times was each angle measured, how powerful was the instrument, what sort of instrument calibration regime was followed  and how did he accurately set up over an observation point?  Indeed we could consider if the contemporary account of the lauded Jonathan Sissons theodolite Rocuqe used ,  as ‘..the best, most complete, handsome, and well designed instrument possible’   was in point of fact, true.   Yet the most salient point here, is perhaps that if one is to use triangulation to check the accuracy of ground measurements, there has to exist suitable vantage points to use for the exercise.   Church towers made the best observation point, and for  the area covered by the 1746 Rocque map, c.62% of the parishes shown where within or directly adjacent to the City walls.  Since each parish would typically have a single church within it, this would  be  a rich hunting ground for the tower-hungry tirangulator. Beyond this area lay the other 48%,  but more poignantly, the parishes in the ‘neighbouring country’ as Rocque termed it,  are on average 20 times  larger than the first set.  Thus, outside the core, there are fewer larger parishes, meaning fewer and poorer opportunities for triangulation measurements.
+This  lack of notable  buildings outside the historic core would have greatly impeded the extension of Rocque’s  triangulated checks to the South and East of the City particularly.  It is therefore likely that more of the measured information in these areas would have been captured solely by chain and theodolite which we know from the survey’s  false-start,   would produce gross errors.  It is in just these peripheral distance areas, that the warping effect is most marked and the quality of fit at it’s poorest.
+[1] Unpublished research paper Jonathan Sisson and London’s 18th century mathematical instrument trade, Alex Werner,Museum ofLondon.
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window)Click to share on Google+ (Opens in new window)Click to email (Opens in new window)
+Posted in LocLonGeneral
+|
+Tagged Georeference, GIS, Historic map, Rocque, Survey method
+|
+Leave a comment
+Fitting Rocque to modern London – Georeferencing
+Posted on 26 September 2011 by Pete Rauxloh
+The last post explained how scans of the 24 individual sheets of John  Rocque’s 1746 map of centralLondonhad been fitted  together so they comprised a single image.  In this post the process by which that image was taken and fitted to the real world is discussed.  That process is called geoeferencing.
+Georeferencing is the process by which an electronic image of the earth is located onto the earth in the right place, so that the features it depicts overlie the same features shown on a current measured reality.  At the start of the process the image’s dimensions are purely graphical ones measured  in pixels i.e. the number cells it has across and down.  At  the end of the process those same pixels have a geographic coordinate value and represent a certain distance on the ground.  In archaeology, georeferencing is commonly used to overlay remotely sensed images taken from air or space in both visible and non-visible spectrums.  When done correctly, the process allows the features shown on one image to overlay the same features on the map too which it is referenced. However the great benefit  of georeferencing to  archaeology,  is that it allows features which are not shown on the modern map to be correctly positioned and investigated.  An aerial photograph captures a low sun picking out the undulations of a medieval field system, an infra-red image isolates the  tell-tale sign of outcropping prehistoric peats along an eroding river bank,  an airborne radar provides a detailed image of elevation,  within which the previously hidden circuit of an iron-age hill fort emerges from beneath dense tree cover.
+Historic maps are also a common subject for georeferencing by archaeologists,  the landscape features they depict are often absent from their modern counterparts, making them  invaluable when trying to gain an understanding of a site’s history.  Such images are georefernced in exactly the same way as modern ones, by identifying  pairs of points which are visible on both the un-referenced  image and the modern  map , and using them to calculate how much the image must be rotated and scaled and where it should be located in the modern coordinate system.
+However, georeferencing an historic map is generally more tricky than a modern aerial photograph, for two reasons.  First is the obvious fact that it can be challenging to identify pairs of long-lived common points on both the historic map and that produced 200 years later.  Secondly, while  the accuracy of the aerial photograph or infra-red scan is generally effected by systematic linear machine or design errors like poor camera calibration or inadequate resolution, the optical ground survey that created the old map, had  to contend with both systematic error such as poor instrument adjustment  or a  stretched  measuring chain, and a panoply of non-linear sporadic sources of gross and minor error which can occur during the survey itself and in the technique and materials used for its depiction.  What this means in practice is that the accuracy errors in the aerial photograph are less common, and more easily spotted and mitigated.  A square vertical aerial photograph will typically still describe a square shape on the ground once it has been georefernced.  The less consistent error present in an historic map will typically require it to be warped in order to fit to the modern measured reality.  Thus the orthogonal scan of an historic map plate will typically have a distinctly irregular, warped shape after it has been georefernced.
+The georeferencing operation carried out for the project involved identifying some 48 common points with which the transformation of the image took place.   As each pair of points is added to the set, the computer provides an average measure of disagreement between them, and this allows one to reject those pairs which greatly increase this value. To understand how this is achieved we can imagine a perfectly square plan of a Roman fort shown on an antiquarian plan.  We may wish to georeference the old plan and do it using a, modern ordnance survey map which depicts the same feature. To determine if the attempt to identify the same four corners of the fort on both layers has been successful, we can look at the respective lengths between the points.  The ratio of distances between points on both maps should be the same,  in other words, we are asking,  do the four points on each map describe the same square shape, if they do the average measure of disagreement will be low.  Thus the difference in the combined average ratio between points from each map, is then a measure of how accurate we have been in identifying common points.
+When georeferencing  the Rocque map,  it is interesting to note that greater levels of agreement were achieved when making use of the junctions of road centrelines as the common points rather than the corners of notable buildings.  The latter are a common and useful target for georeferencing, since buildings like churches tend to endure and so provide useful common reference points.  However the basic technique Rocque employed for his map, were angular and distance measurements made at street level with theodolite and chain and the detail of buildings that lined those roads were more sketchy.  In the funding proposal Rocque and his engraver John Pine made for the map,  they note that its  scale of 200 feet to the inch  would allow:
+“an exact description of all the Squares, Streets, Courts and Alleys in their true proportions.. [plus]  ground plots of the several Churches, Halls publick Buildings and considerable Houses and Gardens.”  [1]
+A depicted scale of 1 inch to 200 feet, means that a pen width on the printed map of 1mm equates to c.2.4m on the ground.  Churches were engraved with a 1mm line or greater and there would need to be very little error in initial measurement of final engraving for such edges to wobble by twice or even three times this amount.  Street centre lines on the other hand,  have the inherent accuracy of the long sightlines that created them, and while the edges would be subject to the same degree of wobble in depiction, their centres should be more robust.
+It is important to remember however there will always be error during a georeferencing operation and indeed when surveying in general.  Accepting  that error will inevitably occur when  measuring things, and the consequent need to mitigate that error through good practice, planning and as we will see, measuring the same thing in more than one way, are all marks of  a well planned survey and a competent surveyor.  This is true be  their instrument of choice a tape measure, total station or survey-grade GPS receiver.  A history charting the development of modern spatial survey method, could take as its organising device, the recognition, mitigation, minimisation and dispersal of error.
+Once a set of points had been chosen, the scanned Rocque map was then transformed, the effect of the operation being seen in the figures below.  In the last post we described errors that grew out of differential shrinkage of the paper on which the individual map plates were printed.  However the error in the Rocque map that cause it to be so clearly warped in order to fit the geographical reality,  have a wholly different source, and one that comments on the fascinating state of surveying in the UK at the start of the 18th Century[2].
+The next post will examine why it is that the map is warped so markedly.
+Rocque 1746 After georeferencing
+[1] Hyde, R 2003 ‘PortrayingLondon Mid-Century – John Rocque and the Brothers Buck’ inLondon 1753, S O’Connell Ed pp28-38
+[2]An detailed blow by blow account of the  area is given in Rachel Hewit’s excellent and readable publication Map of a Nation: A biography of the Ordnance Survey’ Granta Books 2010
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window)Click to share on Google+ (Opens in new window)Click to email (Opens in new window)
+Posted in LocLonGeneral
+|
+Tagged Georefernce, GIS, Historic map, Rocque, Survey, trigonometry
+|
+Leave a comment
+Estimating Parish Populations from the Bills of Mortality
+Posted on 8 July 2011 by timhitchcock
+Creating a historical GIS environment has been the primary goal of this project, but without detailed information about parish population figures it is impossible to make best use of the mapping environment.  Population density, crimes or deaths or wealth per 1000 individuals, is impossible to map without consistent data about the numbers of people living in each parish.  For the period before the 1801 census, there are only a few ways of generating these figures.  For this project we have chosen to use the Bills of Mortality – the contemporary published accounts of how many people were born and died in the capital, year by year.  This is not a perfect or unproblematic  source. The Bills record burials, rather than local deaths, and suffer from an inconsistent relationship between the two.
+A sample page from the Bills of Mortality for 1743
+In some parish, such as St Ann Soho, more people were buried than died; while in others, the opposite was true.  The Bills also omit parishes that by the 1740s contained significant areas of urban development.  In other words, the Bills provide only an indication of parochial populations, and then, only when aggregated over several years.  We have attempted to minimise these problems by first, aggregating deaths across whole decades (the 1690s and 1740s) and applying a ‘Correction Factor’ to address issues of under-registration, drawn from John Landers’ Death and the Metropolis (p.166).  The decades chosen correspond with those for which we have large scale datasets that benefit from comparison to population figures.  John Landers’ ‘Correction Factors’ incorporate the impact of both under-recording of local deaths resulting from infant mortality prior to baptism, and the burial of non-conformists.  The relevant multipliers are  1.0128 for the 1690s, and 1.0164 for the 1740s; and are based on retrospective ‘parish register’ data contained in the nineteenth century censuses.
+To arrive at a population figure for each parish, the average annual corrected death rate as calculated by Landers needed to be turned in to a population figure.  In the 1740s, Landers estimates the crude death rate for London as a whole as 46.0 deaths per 1000 of the population.  By dividing 1000 by 46.0, a multiplier is generated (21.74), that can be applied to the burial statistics from the Bills to generate a population figure.(Landers, p. 175).  There is no equivalent estimate of the crude death rate available for the 1690s, and the earliest date for which a figure can be identified is the 1730s.  This figure (48.6 deaths per 1000 of the population) has been used to generate a multiplier of 20.58 to arrive at the parish figures for the 1690s. (Landers, p.175).
+An additional population figure for 1800 for each parish, has been taken from the 1801 census returns.
+In the nature of this process these figures – based as they are on both uncertain data, and a range of difficult assumptions – are approximations, and are probably better used to compare the geographical distribution of London’s population, rather than as a basis for estimates of the population as a whole.  We are also hoping to verify and adjust these figures by comparing them to population estimates developed by E.A. Wrigley for each hundred in England for the period from 1761 onwards, and also by working forward from figures based on the Hearth Tax Returns from the 1670s.
+A spreadsheet of the figures being used in this exercise can be found here:  Population from the Bills of Mortality
+Bibliography.
+John Landers, Death and the Metropolis: Studies in the Demographic History of London, 1670-1830 (Cambridge, CUP, 1993).
+Jeremy Boulton and Leonard Schwarz, ‘Yet another inquiry into the trustworthiness of eighteenth-century London’s Bills of Mortality’, Local Population Studies, no.85, Autumn 2010, pp.28-45.
+Peter Razzell and Christine Spence, ‘The history of infant, child and adult mortality in London, 1550-1850’, The London Journal,  vol.32, no.3, Nov. 2007, pp. 271-292.
+L. D. Schwarz, London in the Age of Industrialisation (Cambridge, CUP, 1992), ch.5.
+T. Birch, A Collection of the Yearly Bills of Mortality from 1657 to 1758 inclusive… (London, 1759).
+1801 Census, Abstract of the Answers and Returns under the Act for taking Account of the Population of Britain (BPP, 1802, VI).
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window)Click to share on Google+ (Opens in new window)Click to email (Opens in new window)
+Posted in LocLonGeneral
+|
+Leave a comment
+← Older posts
+Search for:
+Recent Posts
+Place and the Intellectual Politics of the Past
+Locating London’s Past is live!
+Rocque map gets new identities.
+Populating Rocque – What was where?
+Fitting Rocque to modern London – Investigating the warp factor
+Archives
+July 2012
+December 2011
+October 2011
+September 2011
+July 2011
+June 2011
+March 2011
+Categories
+LocLonGeneral
+Mentions
+website
+Links
+CMH
+HRI
+JISC
+London Lives
+MOLA
+Old Bailey Online
+Meta
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.com
+Locating London's Past
+Blog at WordPress.com.
+Locating London's Past
+Blog at WordPress.com.
+Send to Email Address
+Your Name
+Your Email Address
+Cancel
+Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+Post to
+Cancel

@@ -1,0 +1,73 @@
+CTS Online
+English
+Cymraeg
+|
+Accessibility
+|
+Privacy
+|
+Terms and Conditions
+|
+Information for Keepers
+|
+Contact BCMS
+View Cattle Summary
+Register Births
+Register ON Movements
+Register OFF Movements
+Report Death of a Registered Animal
+Report Death of Unregistered Animal
+View Animal Details and History
+Uploads and Downloads
+Problem Summary
+BCMS Accessibility
+BCMS Privacy
+BCMS Terms and Conditions
+Information for Keepers
+Contact BCMS
+Holding Enrolments
+CTS Online availability
+Please note that due to scheduled maintenance, that there is potential for disruption to the CTS Online Website (CTSO)between the hours of 07.00 on Saturday 18th February 2017 through until 21.00 on 19th February 2017.
+If you are automatically logged out of CTSO during these hours could you please log back in and continue with your session.
+Keep your receipt of submission and also check the ‘Submitted but not yet processed’ section of the site within the View Cattle Summary Page.
+We apologise for any inconvenience.
+Applications with Northern Irish sires
+We are responding to feedback and updating CTS Online to accept any applications with Northern Irish sires. These are sires that begin with UK9. This means that you can now use CTS Online and CTS Web Services to apply for cattle passports which have a Northern Irish sire.
+Continuation Sheet
+When the movement summary is full on a cattle passport you can use a continuation sheet.
+Download a continuation sheet from GOV.UK here.
+Need help using CTS Online?
+We have created user guides to help guide you through the registration and enrolment process and some of the more advanced functions e.g. How to report movements of cattle ON & OFF show premises on the same day.
+To view the user guides, click here
+Applying for a cattle passport: avoid common errors
+The bulk of passport amendment requests that we receive is due to the incorrect animal sex. When you apply for a cattle passport, please make sure that you record the correct sex of the animal.
+Which BCMS Address should I use?
+Dead passports and passports for amendment:
+BCMS,
+Curwen Road,
+Workington,
+Cumbria,
+CA14 2DD.
+Application forms and movement cards: BCMS, PO Box 301, Sheffield, S95 1AB.
+What can I do with CTS Online?
+You can use CTS Online to report births and movements, on and off your holding. You will receive notification that we have received this information. At any time, you can ensure that we hold an accurate record of your cattle. You can also transfer data files to and from a spreadsheet or a farm management package.
+"A very easy and quick method. It saves a lot of time, and there is not the same chance of errors in reading the tag numbers from the application forms, and you are not relying on the post."
+Read more feedback from keepers.
+CTS Online is simple, efficient and free. It saves you time and paperwork and is always available. By working online, you can be confident that all records are accurate and that you will receive your passports with no delays.
+Agent Access
+If you wish to appoint an agent or you are an agent and wish to enrol you can find out more about Agent Access by clicking here.
+How do I get started?
+Preparing to use CTS Online is a three step process.
+You will only need to go through the first two steps once.
+Register with the Government Gateway
+Enrol for CTS Online
+Log in to CTS Online
+If you do not have a Government Gateway User ID, you will need to register for Government Gateway before you can enrol for CTS Online.
+For instructions on how to Register for Government Gateway follow the
+Registration and Enrolment Process
+If you have not yet enrolled to the BCMS CTS Online service you will need to do so.
+You will need your CPH number and CTS Online ID to enrol for the service
+For instructions on how to enrol for the BCMS CTS Online service, follow the
+Registration and Enrolment Process
+If you have successfully enrolled for the BCMS CTS Online service, click the 'Log in' button to access the service.
+You will need your Government Gateway User ID and password to login.

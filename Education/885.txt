@@ -1,0 +1,143 @@
+MePrints
+MePrints
+Just another ECS Blogs weblog
+MePrints
+December 1st, 2009
+MePrints gives users a central focus to your eprints repository. Users get a private homepage which they can customise to receive information about deposits they have made, papers they have authored, download statistics and other useful data. It also provides a gateway into the deposit process and some other advanced features of the repository, encouraging users to explore their repositories capabilities. If that wasn’t enough it also allows repository administrators to enable a public profile page for each user which is visible to the rest of the internet.
+These profile pages are browsable and searchable by department and expertise allowing you to maximise the exposure of your users and give their work maximum impact.
+You can watch a tutorial video of MePrints at http://allaboutme.eprints.org/demovideo.html
+You can demo MePrints and build your own homepage now at http://allaboutme.eprints.org
+The MePrints code is available at http://files.eprints.org/467/
+MePrints documentation can be found at http://wiki.eprints.org/w/MePrintsOverview
+Les Carr’s MePrints profile on EdShare
+Dr Matt Phillpott’s homepage on HumBox
+Posted in Uncategorized |
+No Comments »
+MePrints Out With The Users
+November 25th, 2009
+MePrints has been around for a while now. Long enough in fact to talk about who’s using it and how. MePrints has been deployed on LORO, a learning materials repository at the Open University (loro.open.ac.uk) , the HumBox repository (humbox.eprints.org) which is a learning materials repository compiling materials for a UKOER project and EdShare at the learning materials repository University of Southampton.
+On all these repositories MePrints has been very warmly received. I recently did a short workshop with Kate Borthwick from the HumBox to evaluate how users were using the site. It turns out that MePrints has quite radically changed users perception of the repository. By putting information from all areas of the repository in one place users are discovering features they never new the repository had because they did not bother to explore it. Futhermore the users now use the quick deposit widget as the primary way of starting the deposit process. This is very good news although it does render quite a lot of work we did with the deposit manager useless 😐 . All these signs point very positively at MePrints and really believe this might be a step in the right direction.
+Finally we have had some outside interest about MePrints from our first research repository. The University of Glasgow have been speaking to us about installing it. They have a particularly interesting use case because all of the deposits in their repository have been done by  few administrators on behalf of a large number of academics. MePrints (by default) only shows information on your profile about items you have deposited yourself. Tim Miles-Board came up with a nifty but very simple modification to eprints which changes the definiton of  ownership in eprints to authorship. An eprint can have many authors but only 1 owner. This will allow all authors to see details about the eprints they are an author of without have to have deposited it (the code is at the bottom of this post). I’m hoping this will be the tipping point which makes MePrints usable for Glasgow and other Research repositories with similar concerns.
+A picture of Matt Phillpott’s Humbox Hompage:
+The code goes in a file in your eprints archive cfg.d and looks a little something like this:
+$c->{get_users_owned_eprints} = sub
+{
+my( $session, $user, $ds ) = @_;
+my $searchexp = new EPrints::Search(
+session=>$session,
+custom_order=>"eprintid",
+dataset=>$ds,
+satisfy_all=>0 );
+$searchexp->add_field(
+$ds->get_field( "userid" ),
+$user->get_value( "userid" ) );
+$searchexp->add_field(
+$ds->get_field( "creators_id" ),
+$user->get_value( "email" ), "EQ" );
+return $searchexp->perform_search;
+};
+$c->{does_user_own_eprint} = sub
+{
+my( $session, $user, $eprint ) = @_;
+return 1 if $user->get_value( "userid" ) == $eprint->get_value(
+"userid" );
+my $ids = $eprint->get_value( "creators_id" );
+for( @$ids )
+{
+return 1 if $user->get_value( "email" ) eq $_;
+}
+return 0;
+};
+Tags: JISC, jiscri, progressPosts, projectEvaluation, rapidInnovation, SWOT Posted in Uncategorized |
+No Comments »
+MePrints 1.0 released
+October 1st, 2009
+The culmination of about 6 months work has been realised today with the release of MePrints 1.0
+MePrints is distribute here:  http://files.eprints.org/467/
+The distribution takes the form of a folder of eprints plugins which can be easily deployed on any EPrints 3.1 or greater with an patch file to add nice optional functionality.
+We are hoping that MePrints will bring a more user centric aspect to digital repositories.
+For more information about installing the plugin have a look at our wiki pages: http://wiki.eprints.org/w/MePrintsOverview
+I would like to thank Seb Francois, Marcus Ramsden and Tim Miles-Board for their hard work on this project. Hopefully you will soon see MePrints coming to a repository near you 🙂
+Tags: "WIN" or "FAIL" and progressPosts, #meprints, JISC, jiscri, rapidInnovation Posted in Uncategorized |
+No Comments »
+Development tools
+September 23rd, 2009
+A while ago Dave Flanders asked me to blog about more interesting things like “libraries, frameworks an development evironments”. So i looked at that list and thought ” where can I give the reader the most bang for their buck”. The answer was development environments. I’ve used a few IDEs in my time. Eclipse, NetBeans, Visual Studio, Borland C++, Turbo Pacal and i have found most of them to be reasonable, more or less usuable and often a touch bloated. In the last few years i have got to grips with a development evironment that rips the pants off those others. So today im going to tell you about my development evironment; Vim.
+Vim or Vi is full screen command line text editor. To those of you unfamiliar with the concept that means it’s text based and controlled only by the keyboard. Why is Vim good? most programming languages with the exeption of a few really grizzley microsoft ones like Visual basic and visual foxpro store their source files as text. This means you can edit them with any text editor e.g notepad or Vim. For web app development this is perfect. Vim edit your source files, save and press refresh and bingo you can see your changes right there. What Vim offered me was a way out. It meant that every time i wanted to use a new language that would often just do some modifications in or use very little i didnt need a whole new editor. I didnt have to waste time working out what all the keyboard short cuts and so forth were because they were the same what ever language i was writing in.
+The one quirk of Vim which puts most people off is that it isnt like any other editor. It has modes. The two common modes are Normal mode and Insert mode. In normal most of the letter keys provide shortcuts to do other things e.g. dd is delete line. :w is write (save).  i is enter insert mode. In insert mode you type as you would in say notepad or another editor and press esc to return to normal mode.
+Normal mode means Vim has a vast about of keybindings available to it. Keys can also be strung together. As discussed above dd is delete is delete line, 3dd is delete 3 lines, dw is delete the word under the cursor. once deleted (or yanked [copy] use y) these things go into a buffer. From the buffer you can do many things. u (undo) to put it back, p (put) to put (paste) it somewhere new. So far nothing i have told you is news. Source is text, editors edit text, this edit lets you move around the document deleting copying and pasting stuff. Big whoop… now for some really good stuff:
+di” – delete everything inside the quotes im in.
+da) – delete eveything in the brackets  in including the brackets
+any combination off di or da and any piece of paired punctuation ),},”,], etc
+~ – change the case of everthing selected
+# – find the next instance of the word the cursor is on in the text
+:s/regex/repace/ – regex substituions
+Vim also gives you syntax highlighting for every different programming language under the sun and auto complete for lots of lanugages most of which is much more advanced than you would get in any IDE (even eclipse). Its installed on almost every server (except windows ones but you can still get Vim for windows)  this means if you at a confernce/business trip/the pub and someone says “hey ive found a bug” or “it would be cool if your code did this”. you say “lend me your laptop” and ssh to your server make your changes and show them straight away. Not say “ill email you when i get back to the office”. This gets you big props.
+But the best thing of all is that Vi looks hard. both hard as in difficult to learn (making you look clever) and hard as in kill an entire SWAT team with your bear hands (making people think you mean business). It still gives me a kick everytime i do something a bit nifty in Vim, while i watch Marcus across the bay fumbling for the mouse. Have a google around and find out about Vim. It’s a really steep learning curve but once you get over that youll never look back.
+Tags: implementation, JISC, jiscri, methodology, productivity, progressPosts, rapidInnovation, technicalDevelopment, techStandards Posted in Uncategorized |
+No Comments »
+Embedable -widgets
+August 19th, 2009
+This week in meprints we’ve been looking at a nice generic way to make our widgets embedable into users websites or igoogle Marcus is planning to cook up some javascript which transcludes widgets from a users public profile…
+having seen Daves chat about blogs this week i thought id include a picture to brighten the place up a bit. It might not get the pulses racing but its probably worth 1000 words.
+this is Marcus
+Tags: #meprints, jiscri Posted in Uncategorized |
+No Comments »
+Interesting Revalation
+August 3rd, 2009
+At the repofringe09 this year as well as some very good talks there was a developer challenge. The challenge was to give a user something that would benefit them using only theyre name and email address. For the challenge i knocked up a profile page combining information from eprints.ecs.soton.ac.uk with information from the ecs RDF system. page (users.ecs.soton.ac.uk/pm5/repofringe) included: picture automatically generated bio, a selection of statistics and graphs about user deposits, a graph of co authors, a keywords tag cloud, graphical-paper-mashup-slideshow-thing, google maps of where the user had presented, an automatically generated working bio (from the RDF)  and the persons “Mention-it” search (props to Tim Donohue http://code.google.com/p/mention-it/)
+The entry one and it was only as i was presenting it i realised “most of this would make a really good set of widgets for meprints”. This confirms our suspicions about users having a central focal point in the repository being attractive and gave me some great ideas for widgets.
+Tags: #meprints, JISC, jiscri, projectEvaluation, rapidInnovation, SWOT, WIN Posted in Uncategorized |
+No Comments »
+MEPrints javascript jazz
+June 23rd, 2009
+to jazz up meprints marcus has added some scriptaculous magic so that users can drag widgets between areas of the display layout. very jazzy…
+we have also started looking into making our google gagets
+Tags: #meprints, disruptiveInnovation, endUser, JISC, jiscri, progressPosts, rapidInnovation, userCase, valueAdd Posted in Uncategorized |
+No Comments »
+MEPrints layout manager
+May 28th, 2009
+we had a big hoo harr about how profile pages should layout. in the interest of not working two hard we decided to make a layout manager plugin so that people can write thier own custom layouts if they want. weve settled for simple 1 or 2 collum layouts by default.
+Tags: #meprints, disruptiveInnovation, JISC, jiscri, progressPosts, projectEvaluation, rapidInnovation, SWOT, valueAdd, WIN Posted in Uncategorized |
+No Comments »
+MEPrints advances
+May 3rd, 2009
+This week in MEPrints we have been evaluating our new profile plugin. Since it seems to work fairly wellwe have outlined 10 basic widgets which will now be implimented using basic information in eprints.
+top 10 downloads
+10 most recent uploads
+quick upload widget (allows user to begin the deposit process on their profile page)
+eprints issues report (reports issues with eprints)
+picture (implimented)
+user details (implimented)
+user tools (implimented)
+and a few others i cant remember
+Tags: #meprints, endUser, JISC, jiscri, progressPosts, projectEvaluation, rapidInnovation, SWOT, userCase Posted in Uncategorized |
+No Comments »
+MEPrints the begining
+April 20th, 2009
+All About MEPrints is a JISC rapid inovvations project to build a profile system for the EPrints software. The aim is that a user in the repository will have a page which promotes their identity within the repository. It is hoped this will improve user <-> repository relations and also provide useful information for user <-> user interactions.
+We have begun by examining the usecases for information from the eprints services development requests and feedback about the profile system from language box (feedback was attained at user workshops).
+Tags: #meprints Posted in Uncategorized |
+No Comments »
+« Older Entries
+Search for:
+PagesAbout MePrints
+Archives
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+June 2009
+May 2009
+April 2009
+Categories Uncategorized (11)
+Blogroll
+WordPress.com
+WordPress.org
+Meta
+Log in
+Valid XHTML
+XFN
+WordPress
+MePrints is proudly powered by WordPress Entries (RSS) and Comments (RSS).

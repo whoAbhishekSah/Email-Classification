@@ -1,0 +1,125 @@
+AX-S Widget | APS Updates
+APS Updates
+Archive for the ‘AX-S Widget’ Category
+AX-S Widget Demonstrator – Complete!
+leave a comment »
+The demonstrator is now live at: http://igsl.co.uk/xxp/ax-s/ou.html.  This demonstrator provides the AX-S search for Open University XCRI-CAP 1.2 data on a mock-up of the look-and-feel of the Open University website.
+As explained in an earlier post the AX-S search facility provides concept-based subject search functionality that retrieves records not only matching the user’s selected subject search term itself, but also matching broader and narrower linked concepts. Records were classified with JACS3 codes, which were used to link the courses to a specially constructed thesaurus of terms. When searching, each retrieved record is ranked in the search results list in accordance with how close its JACS3 subject is to the user’s search term within the thesaurus. This functionality can be provided via the AX-S Widget to any institution with an XCRI-CAP 1.2 feed classified with a recognised subject coding scheme (such as JACS3, LDCS, SSA and so on) for use on their website and has the potential to be developed further with additional filters taken from the XCRI-CAP data such as studyMode or attendancePattern.
+There were three main work strands in the project: development of the widget itself, development of back-end functions, such as data loading and search functionality, and construction of our bespoke thesaurus of subject terms, on which the searching is based. Software development by InGenius Solutions was key to the success of the project. It was also dependent on classification of the data with JACS3 codes, handled by APS (who also converted the OU data to XCRI-CAP 1.2), and of course, supply of courses data and the website look-and-feel by The Open University.
+The project involved more updating of our original thesaurus of terms than was initially expected, but this has now been largely finalised. Some small improvements can still be made by tidying up the detailed formatting of the thesaurus and these are in progress. The demonstrator has been systematically user tested and refined and the code and documentation is available on GitHub.
+The AX-S Widget Demonstrator shows how standardised data and small modular software components can be combined to provide a new service that would be very expensive for a single institution to develop, but cost-effective when developed centrally for use across a larger number of institutions. We are pleased to say that there is already interest from several Universities to include this widget on their websites, and we hope to see it in live use soon.
+Written by jennifermdenton
+January 25, 2013 at 1:44 pm
+Posted in AX-S Widget, Course Data Programme, coursedata-tech, Demonstrators
+Tagged with AX-S, course data programme, course marketing, Jisc, subject search, widget, xcri, XCRI-CAP, XXP
+AX-S (Advanced XCRI-CAP Search) Widget Demonstrator: Introduction
+with one comment
+The AX-S Widget is a small chunk of code which can be embedded on any institution’s website. It provides ‘best of breed’ subject searching using a specially designed search algorithm to provide more accurate and more relevant results than can be obtained through other methods, for example UCAS’ Course Search or the National Careers Service’s course search service.
+It uses a university or college XCRI-CAP 1.2 feed to populate its data source. The use of the XCRI-CAP standard enables the search data source to be kept synchronised with the live courses information on the institution’s website.
+To try the AX-S search, go to the Demonstrator web page at http://igsl.co.uk/xxp/ax-s/ou.html and start typing your topic into the ‘Search for:’ box and select one of the search terms that presents itself. The system automatically matches your text with its search terms as you type. You can also optionally select an Education Level from the drop-down list. When you hit the ‘Search’ button, the widget sends your choices off to the search engine held on the XXP (XCRI eXchange Platform) server, which carries out the search. It returns a list of courses matched conceptually to your choice of search term. As well as courses that match exactly with the topic you’ve chosen, the results will include courses in topics that are broader or narrower than your topic, sorted by their relevance to your choice.
+For example, using the term “software engineering” will give you results not only in Software Engineering itself at the top of the list, but also lower down the list courses in more general Computing, then in development using specific techniques, such as object-oriented approaches and Java. These results are all widening out from Software Engineering, or narrowing in to topics within the field.
+The Widget Demonstrator uses sample data from, and the look-and-feel of, the Open University website (with their permission), but is not currently a live search on their website. For the above example the Demonstrator in its current version brings back over 30 results. The current Open University website keyword-based search brings back 5 specific courses at its top level, plus Software Engineering as a subject of research, and a link to general Computing and IT. However, it does not include conceptual matches, such as management of software projects or computing for commerce and industry, but is limited to results with the words “software” and “engineering” in them. The advanced search functionality of the AX-S demonstrator has also been tested successfully against leading web search services, such as UCAS Course Search and the National Careers Services’ search facilities.
+Written by benthamfish
+January 24, 2013 at 1:59 pm
+Posted in AX-S Widget, Course Data Programme, coursedata-tech, Demonstrators, XCRI
+Tagged with widget, xcri
+AX-S Widget Demonstrator – Update
+leave a comment »
+There has been a slight delay due to a technical issue in loading the XCRI-CAP data, but user testing is now underway on the AX-S widget demonstrator.  As part of the deliverables of the proejct there will be a full mock up of how the widget would look on a University site (in this case the OU) and also a site with the widget code.  While user testing is going on the documentation will be written for the sample code.
+Written by jennifermdenton
+November 23, 2012 at 10:23 am
+Posted in AX-S Widget, Course Data Programme, coursedata-tech, Demonstrators, XCRI
+AX-S Widget Demonstrator – Update
+leave a comment »
+There has been some initial complications converting the original ASAP functionality from XCRI-CAP 1.1 to 1.2 which, coupled with the work reloading the thesaurus data and processing the new JACS codes, has meant focus has been on the ASAP backend over the website at the moment. The match & search functionality is almost complete now and once it is complete it should be quicker overall to complete the website development than previously expected. The first, internal, iteration of the website is currently being finalised.
+Next steps:
+Complete the work to load and match the XCRI-CAP course data to the updated thesaurus
+Finish first iteration of website, end of Oct/start of Nov
+Complete testing, end of November
+Complete documentation, end of November
+Written by jennifermdenton
+October 31, 2012 at 11:05 am
+Posted in AX-S Widget, coursedata-tech, Demonstrators
+AX-S Widget demonstrator – update
+leave a comment »
+The OU data has been converted to XCRI-CAP 1.2 from 1.1 and coded up with JACS3 codes and the thesaurus has also been updated to JACS3 and now work is well under way on the first iteration of development for the AX-S Widget demonstrator.
+Testing on the first iteration of the functionality should begin in early November with successive iterations and testing throughout November.
+Next steps:
+Finish first iteration by end of October
+First round of testing early November.
+Written by jennifermdenton
+October 1, 2012 at 2:33 pm
+Posted in AX-S Widget, Course Data Programme, coursedata-tech, Demonstrators, XCRI
+AX-S Widget – update
+leave a comment »
+The OU sample data has now been updated from XCRI-CAP 1.1 to XCRI-CAP 1.2 and the courses classified with JACS codes.  This was achieved primarily through use of Altova Mapforce although there was some data manipulation which required manual processes and use of scripts.
+We have taken the decision to use JACS 3 as this is set to be the new standard after this year.  The courses were previously classified using LDCS codes and this provided an interesting comparison of the two classification systems.  The two systems have been developed with very different structures, and each provide their own challenges when trying to apply them to real courses.
+Updating to JACS 3 has also meant that the thesaurus, which is the basis for our functionality, has needed to be updated and this is almost complete.  It has also given us the opportunity to go through methodically and ensure that the thesaurus covers all areas covered by the coding system.
+Next steps:
+Finish updating the thesaurus to JACS 3
+Begin first major iteration of development
+Written by jennifermdenton
+September 17, 2012 at 12:02 pm
+Posted in AX-S Widget, Course Data Programme, coursedata-tech, Demonstrators, XCRI
+AX-S Widget Demonstrator – update
+leave a comment »
+The Open University have kindly agreed to let us use a sample of their data in the demonstrator, which we are currently converting to XCRI-CAP 1.2 from their existing XCRI-CAP 1.1 file.  The thesaurus, which provides the weighted search functionality, uses JACS codes to identify related courses, so the sample data will also be coded appropriately.
+While the data is being tidied up, InGenius Solutions have the development environment up and running and are starting to prototype demonstrator screens using the Open University look and feel.  We felt it was important to use a real university’s data and look and feel for the demonstrator to give an accurate picture of how it would be useful to existing institutions working on their own XCRI-CAP feeds.
+Next steps:
+Complete conversion of OU data from XCRI-CAP 1.1 to 1.2
+Classify OU courses with JACS codes
+Start on the first major iteration of development
+Written by jennifermdenton
+September 4, 2012 at 12:47 pm
+Posted in AX-S Widget, coursedata-tech
+« Older Entries
+Search for:
+Recent Posts
+Blog move
+Privacy vs Data
+UCAS Postgraduate Launch
+Happy International Service Design Day!
+Service Design in Higher Education Enrolment
+Collectible Course Information: A Quick Look at UCAS’ Course Collect
+Archives
+July 2016
+June 2016
+July 2013
+March 2013
+February 2013
+January 2013
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+March 2012
+February 2012
+Categories
+AX-S Widget
+Course Data Programme
+coursedata-tech
+Demonstrators
+Extra-curricular
+KIS
+Leap2A
+Meeting
+MUSAPI
+Relationship Management
+SALAMI
+Systems thinking
+Training
+UCAS
+Uncategorized
+Websites
+XCRI
+Meta
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.com
+Blog at WordPress.com.
+APS Updates
+Create a free website or blog at WordPress.com.
+Post to
+Cancel

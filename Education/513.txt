@@ -1,0 +1,71 @@
+Enhanced Tagging
+for Discovery (EnTag) | Home Page
+UKOLN
+Raising Awareness
+Home
+A-Z of projects and activities
+About UKOLN
+Contact UKOLN
+Accessibility
+News RSS
+"A centre of excellence in digital information management, providing
+advice and services to the library, information and cultural heritage
+communities."
+UKOLN is based at the University
+of Bath.
+Related Links
+Project Home Page
+Demonstrators
+Documentation
+Related work
+Results and dissemination
+Enhanced Tagging
+for Discovery (EnTag)
+Background
+This project was a JISC-funded project which ran from 1 September 2007 to 31 August
+2008. Further information is available
+on the
+JISC Web site.
+Overview
+The Enhanced Tagging for Discovery project investigated the combination
+and comparison of controlled and folksonomy approaches to support resource
+discovery in repositories and digital collections. The project evaluated
+the combination of both approaches in the context of repositories and
+digital collections, attempting to get the best of both worlds.
+The specific aim was to investigate whether vocabulary control and
+the use of an established KOS can assist in moving free social tagging
+beyond personal bookmarking to aid resource discovery in context of
+the JISC Information Environment and eFramework. The project demonstrated
+use of tagging in different environments and provided an interface that
+enables use of a traditional classification scheme to enhance free form
+tags. The project considered issues such as whether prompting with controlled
+terminology is beneficial.
+The project has now been successfully completed. Please visit the Documentation
+page for project reports and the Results and
+dissemination page for publications. The main demonstrator is also
+available (see Demonstrators).
+Lead Institution
+UKOLN at the University of Bath
+UKOLN staff who worked on this project were Koralijke Golub and Michael Day.
+Project partners
+University of Glamorgan, Hypermedia Research Unit:
+http://hypermedia.research.glam.ac.uk/
+Intute (MIMAS at The University of Manchester):
+http://www.intute.ac.uk
+Science and Technology Facilities Council, The Rutherford Appleton Laboratory:
+http://www.scitech.ac.uk/About/Struc/Locs/RAL/facs.aspx
+Non-funded supporting partners
+OCLC Office of Research, USA: http://www.oclc.org/
+Danish Royal School of Library and Information Science: http://www.db.dk/english/
+Archive of project Web site
+An archive
+of the project Web site
+is available on the Internet Archive.
+On 21 March 2013 the project Web site had been crawled 19 times, dating back to 11 June 2008.
+|
+|
+University of Bath
+UKOLN receives support from
+the University of Bath where it is based.
+Page last revised on:
+17-Apr-2013

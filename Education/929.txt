@@ -1,0 +1,55 @@
+NeuroHub
+Main Page
+From NeuroHub
+Jump to: navigation, search
+Contents
+1 NeuroHub: the information environment for Neuroscientists
+1.1 Overview
+1.2 Lead Institution
+1.2.1 University of Oxford (http://www.ox.ac.uk)
+1.3 Partner Institutions
+1.3.1 University of Reading (http://www.reading.ac.uk)
+1.3.2 University of Southampton (http://www.soton.ac.uk/)
+1.4 Links
+NeuroHub: the information environment for Neuroscientists
+Overview
+This JISC funded project will develop a set of sustainable tools and framework that will allow neuroscientists to efficiently and effectively use existing e-Infrastructure and by doing so will enable a more productive research cycle, streamlining the laboratory experience from conception of experiment to publication of the research results. The framework and tools will be the product of in depth user requirements analysis, adaptation of existing software, development of key missing components and a tight collaboration between neuroscientists, technologists and resource providers at three HEIs. The collaboration leverages the e-Research South consortium and builds on both a strategic regional activity and University strategy that will provide sustainability beyond the lifetime of the project. The research outputs will include open source software as well as best practice guides and training material.
+Lead Institution
+University of Oxford (http://www.ox.ac.uk)
+Department of Pharmacology - Neuroscience (http://www.pharm.ox.ac.uk)Oxford e-Research Centre (http://www.oerc.ox.ac.uk)
+Partner Institutions
+University of Reading (http://www.reading.ac.uk)
+Centre for Advanced Computing and Emerging Technologies (ACET) (http://www.acet.rdg.ac.uk/)Centre for Integrative Neuroscience and Neurodynamics (CINN) (http://www.rdg.ac.uk/cinn)
+University of Southampton (http://www.soton.ac.uk/)
+Chemistry (http://www.soton.ac.uk/chemistry)Electronics and Computer Science (http://www.ecs.soton.ac.uk/)Institute for Life Sciences - Neuroscience (http://www.southampton.ac.uk/song/)
+Links
+User Documentation - Wiki guides and screencasts on how to use the NeuroHub system.
+Collaborative Documents - Developer space for constructing the various formal documents of the project
+Logo Resources - SVGs and images of the NeuroHub logo
+User Requirements - A timeline of user reuirements gathered from meetings with neuroscientists and observing how they work.
+User Stories - Stories constructed from the user requirements gathered.
+Agile Development Plans - Planning for how the developers will provide solutions to user requirements / stories.
+Retrieved from "http://neurohub.ecs.soton.ac.uk/index.php/Main_Page"
+Views
+Page
+Discussion
+View source
+History
+Personal tools
+Log in
+Navigation
+Main Page
+Recent changes
+Random page
+Help
+Search
+Toolbox
+What links here
+Related changes
+Special pages
+Printable version Permanent linkBrowse properties
+This page was last modified on 7 June 2012, at 10:51.
+This page has been accessed 43,316 times.
+Privacy policy
+About NeuroHub
+Disclaimers

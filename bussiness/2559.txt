@@ -1,0 +1,577 @@
+PharmaGossip
+PharmaGossip
+Looking beyond the spin of Big Pharma PR. But encouraging gossip. Come in and confide, you know you want to! “I’ll publish right or wrong. Fools are my theme, let satire be my song.”
+Email: jackfriday2011(at)hotmail.co.uk
+Wednesday, September 28, 2016
+AZ at it again
+AUTH/2793/9/15 - Clinical pharmacist v AstraZeneca
+Case number:AUTH/2793/9/15
+Case ref:Clinical pharmacist v AstraZeneca
+Description:
+Identifying patients suitable for Forxiga treatment and failing to provide an accurate response to the Panel
+No breach:No breaches Clauses 2 and 7.2
+Breach:Breaches Clauses 3.2, 7.2 and 9.1. Corrective statement and public reprimand.
+Appeal:No appeal
+Review:Published in the May 2016 Review
+Received:10/09/2015
+Completed:17/03/2016
+2793
+Case Summary:
+​​​​A clinical pharmacist complained about an AstraZeneca leavepiece about how to create a clinical system search to identify patients suitable for treatment with Forxiga (dapagliflozin).
+Forxiga was indicated in adults with type 2 diabetes to improve glycaemic control as monotherapy when diet and exercise alone did not provide adequate glycaemic control in patients for whom use of metformin was considered inappropriate due to intolerance. It was also indicated in combination with other glucose-lowering medicinal products including insulin, when these, together with diet and exercise, did not provide adequate glycaemic control.
+The leavepiece was entitled ‘9 step guide to identify your uncontrolled and overweight patients with type 2 diabetes (T2D) who may be suitable for treatment with dapagliflozin EMIS Web Instructions’. The front page included ‘FORXIGA is not indicated for weight loss and is not recommended for use in patients with an [eGFR] < 60 mL/min/1.73m2. FORXIGA is not licensed for use with thiazolidinedione or GLP-1 agonists’.
+The complainant alleged that the search instructions were potentially misleading and could easily identify patients who would not be suitable for treatment. The instructions showed how to add criteria for body mass index (BMI), glomerular filtration rate (GFR) and glycosylated haemoglobin (HbA1c). In all cases a clinical code was added with a qualifying value. However, no time restriction was added to qualify these values. The complainant explained the flaw. Patients were supposed to have an uncontrolled HbA1c to be suitable for treatment so those with an HbA1c above 58 should be identified. However, the value should also be the most recently recorded. A patient with an HbA1c of 48 now who had previously had an HbA1c of 63 should not be included in the final search. However, by applying the instruction as specified they would be included for consideration.
+The complainant alleged that whilst he/she hoped that a clinical review would subsequently deem the patient as inappropriate for treatment, the search instructions could be construed as misleading by including such patients. By creating a sub-optimal search the usual high standards demonstrated by the pharmaceutical industry had not been maintained.
+The detailed response from AstraZeneca is given below.
+The Panel noted that the search was described in 9 steps: Setup initial search; Add Age Range to Search; Add Read Code to Search; Add Medication to Search; Add BMI to Search; Add HbA1c to search; Add GFR to search; Save and Run Report; and Build Report Output. Each step included detailed instructions and some included screenshot examples.
+The Panel noted the order of the search criteria, age, read code, and medication were followed by BMI before selecting HbA1c and GFR. The report was then run (Step 8). Step 9, Build Report Output, instructed users to add BMI (22K) and value ≥ 25 before adding columns for HbA1c and GFR but unlike BMI no values were listed for these two criteria at this step in the description in the leavepiece. In the example screenshot of the completed report which appeared below step 9, the column of BMI values was fully populated for each identified patient and appeared before the HbA1c column. Neither the HbA1c nor GFR columns were fully populated. The Panel noted AstraZeneca’s submission that the example report was generated using dummy patients in a test system and a report generated using real-life data in a live system would only include patient records that met all the search criteria and would have all the data values populated. The Panel considered that this was not clear from the leavepiece and was compounded by the screenshot heading ‘The completed report should resemble this screenshot’. The Panel accepted AstraZeneca’s submission regarding the responsibility of prescribers to make clinically reasoned prescribing decisions but considered that it was important that both the instructions and information on the nature and interpretation of the data retrieved was abundantly clear and otherwise complied with the Code. In this regard the Panel was concerned that nowhere in the leavepiece was there any mention of carrying out a clinical review nor was it referred to in the verbal briefing to the diabetes sales leadership team. In the Panel’s view, the leavepiece implied that following the 9 step guide would generate a list of uncontrolled patients with a BMI≥ 25 who were suitable for Forxiga. This would include patients who currently had an HbA1c value of less than 58 but who previously had a value of more than 58 being identified as ‘uncontrolled’. This impression was compounded by the title ‘9 step guide to identify your uncontrolled and overweight patients with type 2 diabetes (T2D) who may be suitable for treatment with dapagliflozin EMIS Web Instructions’. In the Panel’s view it might lead to controlled patients (based on HbA1c) being identified as uncontrolled and being prescribed Forxiga. The Panel considered that the leavepiece was misleading and a breach was ruled.
+Whilst the Panel noted that BMI was relevant to this therapeutic area, the emphasis on BMI in the title, search criteria and the example completed report screenshot which omitted HbA1c values and the failure to refer to the need to carry out a clinical review meant that Forxiga had been promoted for some patients based solely on their weight. Forxiga was not indicated for weight loss. A breach was ruled.
+The Panel however did not consider that the instructions were misleading on the narrow point that no time restrictions were included in the search criteria for BMI, GFR and HbA1c as alleged. No breach was ruled. The Panel considered that high standards had not been maintained and a breach was ruled. On balance the Panel did not consider that the circumstances warranted a ruling of a breach of Clause 2 which was used as a sign of particular censure.
+Following notification of the outcome of the case, the complainant noted that, in its response, AstraZeneca had provided inaccurate information about how EMIS could be searched. AstraZeneca initially responded that the information, which it could not validate, was provided by an agency; the agency had confirmed its understanding of the search capabilities of the EMIS system. The complainant was informed and subsequently provided further and better particulars which were provided to AstraZeneca. The company subsequently accepted that the information it had provided was incorrect.
+Detailed comments from the complainant and AstraZeneca are given below.
+Following receipt of the additional information from both parties the Authority asked AstraZeneca to respond including in relation to a possible report under Paragraph 8.2 of the Constitution and Procedure.
+The original Panel reconvened and considered the matter in relation to Paragraph 8.2 of the Constitution and Procedure. The Panel noted that AstraZeneca had provided the requisite undertaking.
+The Panel considered that AstraZeneca had not paid sufficient attention to a number of aspects of the production, certification and use of the leavepiece in question. Although the company had been let down by its agency, which had knowingly provided it with an inaccurate response on one point, its governance of the agency had been extremely poor and AstraZeneca had not undertaken sufficient checks when certifying the material and responding to the complaint. The Panel noted that even a brief perusal of the EMIS website, which it had undertaken on conclusion of this case, revealed the comment that ‘Emis web allows you to extract and report on their latest blood pressure reading’. Further, the recent material provided by the complainant indicated, contrary to AstraZeneca’s earlier response, that the latest readings could be extracted. This was now not disputed by AstraZeneca.
+The Panel noted that AstraZeneca had initially submitted that at the WebEx and teleconference on 20 and 26 May a copy of the leavepiece was shown and certain points were explained verbally. The Panel had raised concerns regarding the lack of any written briefing. However, it subsequently transpired that slides had indeed been shown and then distributed to at least one sales manager. The Panel was concerned that one slide described Forxiga as ‘The metformin …’ and that it was ‘to be habitually prescribed as the first choice add-in across the pathway for T2D patients who would benefit from HbA1c control and Weight Loss’. Forxiga was not so licensed. The Panel noted that these claims had not been the subject of complaint. The Panel was also concerned that the final slide stated that each team was to agree how it should be used locally. In the Panel’s view this should have come to light in AstraZeneca’s enquiries before it responded to a question from the Panel regarding representatives’ briefing material. The Panel was concerned that this material had not been before it when it considered the complaint and it was extremely concerned that the material was not certified.
+The Panel was also concerned about the certification process in relation to the leavepiece. It was difficult to see how the leavepiece could have been certified unless the signatories had been able to satisfy themselves that when used on the EMIS web system the instructions and output complied with the Code. This had not been done.
+The Panel was extremely disappointed by the conduct of AstraZeneca as outlined above. Self-regulation relied, inter alia, upon the provision of complete and accurate information to the Panel. It noted the steps undertaken by AstraZeneca to address the issues raised but, nonetheless, considered that the circumstances warranted reporting the company to the Appeal Board under Paragraph 8.2 for it to consider in relation to Paragraphs 11.3 and 11.4 of the Constitution and Procedure.
+The Appeal Board noted the Panel’s comments above about AstraZeneca’s failings with regard to the production, certification and use of the leavepiece in question.
+The Appeal Board noted AstraZeneca had limited expertise with regard to the EMIS Web clinical system and in that regard had relied upon its agency which had let it down. Nonetheless the company’s failings went way beyond merely relying on the agency’s expertise. The company had demonstrated extremely poor governance in this matter. This was not acceptable. The Appeal Board did not understand why representatives had not received a detailed briefing given the complexity of the EMIS system. AstraZeneca had taken full responsibility for its failings and had acted to ensure that such failings did not reoccur. Nonetheless, the Appeal Board considered that it was fundamental for effective self-regulation for companies to provide accurate information to the Panel and for failing to do so and for exercising poor governance it publicly reprimanded AstraZeneca in accordance with Paragraph 11.3 of the Constitution and Procedure.
+The Appeal Board noted the Panel’s rulings and in particular its view that instructions given in the leavepiece might lead to controlled patients (based on HbA1c) being identified as uncontrolled and being prescribed Forxiga. This raised issues of patient safety. This was unacceptable. Consequently the Appeal Board decided, in accordance with Paragraph 11.3 of the Constitution and Procedure, to require AstraZeneca to issue a corrective statement to all recipients of the leavepiece to clarify the position. [The corrective statement appears at the end of the report].​​​
+Posted by
+insider
+at
+1:22 pm
+No comments:
+Tuesday, September 27, 2016
+Alltrials Latest
+Dear AllTrials supporters
+You may have heard that Mark Zuckerberg, the founder of Facebook, and his wife Priscilla Chan have pledged $3 billion to medical research.
+That’s great news for patients and medical researchers worldwide – but only if this money is wisely spent. Right now, around $85 billion of medical research is wasted every year in the US alone. That’s far more than just a lot of money down the drain, it means wasted opportunities to find new treatments and cures. But there are simple things funders like Chan and Zuckerberg can do to make sure that their generous donations result in cures, and not in further waste, as we explain in this letter.
+Please, if you can, share this Tweet and repost our open letter on Facebook so that Priscilla Chan, Mark Zuckerberg and the many other medical research funders out there insist that the researchers they support report the results of all past and future trials they have been involved with.
+Best wishes
+Síle
+Dr Sile Lane
+Director of campaigns and policy
+Posted by
+insider
+at
+6:18 pm
+No comments:
+Friday, November 06, 2015
+Oh dear ASDA
+Oh dear Asda......
+Posted by I Am Proud To Be British on Sunday, 26 October 2014
+Posted by
+insider
+at
+3:55 pm
+No comments:
+Saturday, October 31, 2015
+Happy Halloween - there can be only one this year!
+Posted by
+insider
+at
+10:59 am
+No comments:
+Monday, October 05, 2015
+AllTrials update
+Dear friend of AllTrials
+Over the past few weeks we've heard some great examples of what AllTrials supporters are doing to get all clinical trials registered and reported. Here’s what some of your fellow campaign supporters have been up to.
+Consultant Diabetologist Dr Aus Alzaid from Saudi Arabia was interested in the results of a clinical trial investigating the effect of metformin on cognitive function. The trial was completed in 2012 but results have never been published. After writing emails to the researchers and academic institution asking for the missing results, we have now heard they will be published before the end of the year! The efforts of just one person really can make all the difference.
+Campaign members Autistica, and the British Association of Plastic, Reconstructive and Aesthetic Surgeons (BAPRAS) have both announced that they will only award research grants for clinical trials if researchers agree to register and report trials on time. BAPRAS is also calling on the next generation of surgeons to support AllTrials by writing about the campaign in its newsletter and asking its 800 members to donate to the campaign.
+On the fundraising front, author and friend of AllTrials Simon Singh is auctioning his M209, a mechanical cipher machine used by the US military to keep secrets during the Second World War. The money raised will be shared with AllTrials and the Good Thinking Society, so please help us to spread the news and bid generously!
+So many of you are doing wonderful things for the campaign, sorry we can’t mention you all. But please do keep in touch and let us know what you are doing to get all clinical trials registered and reported.Best wishesJames
+Share the AllTrials video, ask everyone you know to sign the petition and see more ways to help spread the word.
+Posted by
+insider
+at
+2:21 pm
+No comments:
+Sunday, October 04, 2015
+Marcia Angell writes
+By Marcia Angell
+In 1953, a new drug was released by Burroughs Wellcome, a pharmaceutical company based in London. Pyrimethamine, as the compound was named, was originally intended to fight malaria after the microorganisms that cause the disease developed resistance to earlier therapies. The drug was used against malaria for several decades, often in combination with other compounds. It’s mostly used now to treat toxoplasmosis, a parasitic infection that can be life-threatening in people whose immune systems are suppressed, for example, by HIV/​AIDS or cancer.
+More than 40 years later, Burroughs Wellcome merged with the British pharmaceutical giant Glaxo. In 2010, the company, now GlaxoSmithKline, sold the U.S. rights to pyrimethamine — which is marketed under the brand name Daraprim — to another firm, CorePharma. By then, the patent on the drug had long since expired, but because nobody bothered to make a generic, Daraprim was essentially a monopoly.
+In August, there was another significant development in the drug’s history: CorePharma’s parent company, Impax Laboratories, sold it to Turing Pharmaceuticals. Almost immediately, the company raised the price from $18 a pill to $750, a more-than-40-fold increase, and then sent out its brash chief executive, Martin Shkreli, to aggressively defend the new cost.
+A course of treatment for toxoplasmosis is about 100 pills, which under the new pricing would run $75,000. Why the astonishing increase? The answer is: Why not?
+Unlike every other advanced country, the United States permits drug companies to charge patients whatever they choose. (In this case, with Daraprim’s patent expired, Turing is probably in a hurry to make as much as possible before a generic version can enter the market. It announced after the fury over the increase that it would lower the price again, but you can bet it won’t fall all the way back to $18 a pill.) In Britain, in contrast, GlaxoSmithKline sells the drug for 66 cents a pill, and in India, it costs even less.
+The new U.S. price grabbed public attention because it was so sudden and extreme. But exorbitant charges for drugs that treat serious diseases are hardly unusual. Avastin, for example, a cancer medication of dubious benefit, can cost close to $100,000 for a year’s treatment. And prices for almost all prescription drugs are rising much faster than the background inflation rate.
+Drug companies say high prices are necessary to cover their research and development costs, enabling them to discover innovative new medicines. Turing says it planned to use the profits from Daraprim’s higher price to fund research into better treatments for toxoplasmosis.
+But in fact, Daraprim illustrates the way most drugs are priced: They are invented not by the companies that sell them now but by someone else. Then, like big fish swallowing little fish, larger companies either buy small firms outright or license promising drugs from them.
+Very often, the original discovery occurs in a university lab with public funding from the National Institutes of Health, then licensed to a start-up company partly owned by the university and then to a large company. There is very little innovation at the big drug firms. Instead, their major creative output is trivial variations of top-selling medications that are already on the market (called “me-too drugs”), to cash in with treatments just different enough to justify new patents.
+For example, the first of the statins, drugs that lower cholesterol, was Merck’s Mevacor, which came on the market in 1987. There followed a whole family of me-too statins, including Zocor (also made by Merck), Lipitor, Pravachol and Crestor. There is little reason to believe that one is more effective than another at equivalent doses.
+Moreover, the major drug companies are hardly strapped for money to cover their R&D: A look at their annual reports shows that they spend more on marketing and administration than on R&D. Pharmaceutical manufacturers are consistently among the most profitable companies.
+Drugmakers are now getting some pushback from the public in response to their claims that they need the money, but they fall back on the rhetoric of the free market. They are investor-owned businesses, after all, they say, and they have a right to charge whatever the market will bear (which for desperately sick patients or their insurers is quite a lot).
+But the pharmaceutical market is hardly an example of unfettered capitalism, because the companies are totally dependent on government support. In addition to receiving huge tax breaks and government-granted exclusive marketing rights, they are permitted to acquire drugs that resulted from NIH-funded university research.
+For example, Gleevec, a drug to treat a form of leukemia, stemmed mainly from work by an NIH-funded scientist at Oregon Health & Science University; its development was relatively quick. Still, Novartis priced it at about $30,000 a year when it came on the market in 2001. So the public paid twice: once for the research and then an exorbitant amount to buy the drug. Gleevec, meanwhile, now costs triple its initial price.
+About half of the major drug companies are European, including the makers of Avastin and Gleevec. But their research arms are often located in the United States, not only because this is their profit center but also because they want to be near universities that receive generous NIH funding, in order to develop close relationships with the researchers.
+The public should demand something in return for all that governmental support. Other advanced countries regulate drug prices in one way or another: Some cap profits, some cap the rate of price increases, some have formularies that limit drugs in each class to those that are most cost-effective, and some regulate in more than one way. But they all have some form of regulation, and the result is much lower prices for the same drugs.
+In the United States, by contrast, Congress has blocked even Medicare from negotiating the price of drugs or creating a formulary for patients. It’s time that we, too, move to stop price-gouging by the pharmaceutical industry — even when no one notices.
+Marcia Angell is a senior lecturer in social medicine at Harvard Medical School and a former editor in chief of the New England Journal of Medicine. She wrote this for The Washington Post.
+http://www.post-gazette.com/opinion/Op-Ed/2015/10/04/The-750-pill-Why-do-drug-companies-charge-so-much/stories/201510040021?
+Posted by
+insider
+at
+10:42 am
+No comments:
+Wednesday, July 29, 2015
+AllTrials in the USA
+We’re excited to announce that 50 patient groups, consumer organisations and medical societies have come together to launch AllTrials USA today! These groups have said:
+"We are calling on everyone in our sector to join us in supporting the AllTrials campaign. Hundreds of thousands of patients have taken part in clinical trials which have never reported results. For every day that passes, more information is at risk of being lost forever. We have to make every clinical trial count. Join us today."
+Patient activist AnnaMarie Ciccarella said: “We provided our bodies, our tissue samples, our data. I’ve heard the same sentiment expressed many times from patients in clinical trials, ‘This may not help me, but it may help another person.’ It’s time to honor that sentiment.”
+Read more inspiring words from the patients, researchers and groups launching the US campaign today at AllTrials.net.
+We got an incredible response when we asked if any of you were able to volunteer some time in July to help with this, thank you! Because so many of you hit the phones and reached out to hundreds of organisations across the US, the campaign is able to hit the ground running. Look out for media coverage and editorials today and throughout this week, announcements of new organisations adding their support and calls for action in the US at #AllTrials on Twitter and Facebook.
+Meet the team behind AllTrials USA here, get in touch and add your support!
+Best wishesJames
+P.S. If you haven’t already, do read this week’s Economist for great coverage of the campaign ahead of the US launch, and check out the Financial Times and The Wall Street Journal for coverage of our announcement last week that investors worth over €3.5 trillion in assets are supporting AllTrials, or read more about it on our site.
+Posted by
+insider
+at
+10:30 am
+No comments:
+Monday, July 20, 2015
+Richmond Pharmacology update
+Here is a quick note about yesterday's hearing. Judgment is expected next week. The judge grasped the importance of trial registration and when he took into account our and the HRA's evidence on legal and ethical obligations to register trials he found that Richmond was left with an extraordinarily narrow argument. It seems the case will come down to some words in a Q&A on HRA's website that wasn't amended at the same time as the sponsors' declaration was. And then whether the ambiguity was significant.We are so pleased we decided to intervene in the case. The court could find for Richmond on this very narrow point but it ended up exactly where we thought it should be: a principled discussion in which the judge seemed to grasp the issues well, the removal of Richmond’s broad claims that no registration was legally required and that the HRA was acting unlawfully, and alighting on a narrow matter for decision that will not impact on how trials are run or on the EU rules coming into force next year. Of course we would have liked the case refused altogether instead of it wasting public funds, which will be a lot if HRA has to pay Richmond's costs. Based on what was said in court, we are hopeful too that the court will find that the HRA has been going about its proper business promoting clinical trial registration. We are pleased that the judge ignored Richmond's attempts to discredit AllTrials, and in fact that these appeared to backfire.We will share the transcript of yesterday's hearing as soon as we have it. I think you'll enjoy reading it! When the judge at the hearing yesterday heard that the HRA does not impose any sanctions on trial sponsors who don't register their trials properly he said, "well, they should." Our legal team was amazing - solicitor Robert Dougans and barrister Jonathan Price - before during and after. If any of you read L Phillips' recent speech asking where are the lawyers who are motivated above all by the pursuit of justice, well we know them. (Tracey Brown is especially grateful for their patience with her unceasing flow of notes and questions) Also yesterday, the pharmaceutical industry body EMIG said that Richmond's actions do not represent the views of the rest of industry. Mark Edwards, the CEO, said that the case could have a disastrous effect on the industry. Read EMIGs letter here. It contradicts Richmond's claim to the court that its concerns are representative. Some of you have told us that but EMIG said it publicly, which matters. Thank you so much to those who came to court yesterday and sent messages of support. As well as the judgment, look out for some other big news stories from AllTrials next week: we can't wait to tell you what your support has helped to achieve.Síle Síle LaneDirector of CampaignsSense About ScienceScience and evidence in the hands of the publicwww.senseaboutscience.org |@senseaboutsci
+Posted by
+insider
+at
+12:08 pm
+No comments:
+Wednesday, July 08, 2015
+Further Update
+Hi AllTrials friends
+Yesterday we sent our submission to the court in the judicial review brought against the HRA by Richmond Pharmacology.
+We have spent the last few weeks ploughing through the hundreds of pages of documents. Richmond is currently asking the judge to rule that there is no overriding legal requirement to publicly register any trial. That’s not correct. Since 2011 all trials except for adult phase 1 have been publicly registered through the EU Clinical Trials Register. And by next year this legal requirement will extend to all clinical trials unless exempted according to some very tight criteria. Richmond is effectively asking the judge to set the clock back 10 years and wipe out the careful progress that has been made in relation to trials registration at national and EU level. We have set out in detail the legal frameworks related to this, and put forward legal arguments as to why HRA has a duty to monitor compliance with both legal requirements and sound practice for running a trial. However, Richmond has changed its case three times and may yet change it again.
+The hearing will be in open court in Manchester on Thursday 16th July. We will be there. It would be lovely to see any of you who’d like to come along too; we could do with some help capturing what is discussed in Court. We are unlikely to know the result on the 16th, we hope the Judge will make his decision by the end of July but it could be October.We and our barrister Jonathan Price and solicitor Robert Dougans knew that we faced a demanding timetable and it meant that two of us here at Sense About Science have been almost completely absorbed by reading and writing legal arguments (it’s why I don’t have a suntan, when most of London does!).
+We have managed to keep the rest of the AllTrials campaign going only in the face of that because many of you have given us help and topped up our fundraising appeal. Thank you! In a couple of weeks I will be able to show you just how significant that is. We are about to break a story about a new group coming on board for all trials registered and all results reported, in a way that should change part of the international scene, for good. We are also reaching the critical mass to be able to launch a US campaign. I can see from the comments on the Just Giving site how determined you are that the challenge of the Richmond/HRA case is not going to stop this. And if you have been thinking about giving something, however small, could I urge you to do it now?
+Let us know if you can join us in court on 16th.
+Best wishesSíle and James
+Please let us know if you prefer not to receive e-mails from us: Unsubscribe
+Please note this is an automated operation.
+14A Clerkenwell GreenLONDON, EC1R 0DPUnited Kingdom
+Posted by
+insider
+at
+3:43 pm
+No comments:
+Labels:
+alltrials,
+richmond
+Thursday, June 25, 2015
+AllTrials vs Richmond Pharmacology
+Dear AllTrials friend
+We hoped to tell you more about the case Richmond Pharmacology is bringing against the HRA. That's not been straightforward. Richmond has now changed their argument three times and has altogether abandoned some arguments it relied upon earlier, so getting to grips with what is at stake has been difficult and time consuming for us and for our lawyers.
+At the beginning of this week it looked as though Richmond had narrowed the case down to a technical argument about the wording of HRA’s guidelines which only applied for a period of 10 days earlier this year.
+Just as the issues seemed to be narrowing, Richmond then asked the Court not to allow AllTrials to be heard. We had written to Richmond and the HRA outlining our planned argument to the court and inviting their response. HRA replied to us, Richmond did not. Instead they went straight to the Judge and asked him not to hear us.
+And then yesterday we saw that Richmond has asked the Court at the very last minute to rule on something huge. They want the Court to declare that no trial sponsor or person running a trial has any legal requirement to publicly register any clinical trial unless the sponsor has given a legally binding commitment to do so, or an ethics committee has asked them to do so for every trial. So now the Court is being asked to rule not on the specifics of the case but on a much broader point.
+Richmond has asked the Court for a hastily arranged hearing in Manchester on Monday where they will ask to seek that declaration as part of the case. This is after they have warned the court that AllTrials' references to international rules and protocols are irrelevant and will only add to their costs!
+We need to be there on Monday to make it clear to the Court that it is being asked to rule on something that has real ramifications beyond this case. If Richmond win, this would go in the face of international laws, regulations, professional standards and the ethical rules of research. If such a declaration was made it would shatter the progress towards transparency made by AllTrials and the progress made internationally before AllTrials even started.
+Today we are writing our submission to the Court to be allowed to speak on Monday. We’ll tell you more as soon as we know it. We have only been able to do this because hundreds of you have sent support, encouragement and donations. Thank you.
+Best wishes
+James
+James Cockerill
+Campaigns Manager
+Sense About Science
+Science and evidence in the hands of the public
+Posted by
+insider
+at
+7:00 pm
+No comments:
+Labels:
+alltrials
+Tuesday, June 23, 2015
+Ben Goldacre writes in the BMJ - How medicine is broken, and how we can fix it
+The chief medical officer’s review on statins and oseltamivir may look for answers in the wrong places
+Last week there was extensive news coverage of a leaked letter written by the chief medical officer to the Academy of Medical Sciences. This letter focused especially on concerns around statins and oseltamivir (Tamiflu) and asked the academy for an “authoritative independent report looking at how society should judge the safety and efficacy of drugs.”1 The academy has since announced that it is convening a working group on the subject.
+With any such report there are two major risks. The first is a focus on “trust” or even—as a worst case—false reassurance for well documented problems. We do not believe the academy will choose this path. But there is another, bigger risk: the academy may accept shortcomings in the evidence as somehow inevitable. Here there are good grounds for concern. The academy has already announced that its work “will explore how evidence that originates from different sources (e.g. randomised clinical trials and observational data) are used to make decisions about the safety and efficacy of drugs and medical interventions.”2
+Focusing solely on existing trials and observational studies would represent a failure of vision and ambition in an era when medicine has both the need and the opportunity to innovate. Well documented problems exist in the funding and prioritisation of research, the conduct of trials, the withholding of results, the dissemination of evidence, and its implementation with patients. Here we briefly examine six domains where the academy could call for simple practical improvements that would address legitimate concerns.
+Publication bias—We conduct trials to detect modest differences, and spend vast amounts of money specifically to exclude bias, yet we allow that bias to flood back in through selective publication.3 4 Eminent bodies writing reports will not fix this, but practical action will. We need new funding for simple systematic work to audit which trials are unreported, to highlight the best and worst performers, and to shine a light on withheld studies.5
+Independent trials—A recent cohort study found that 97% of head to head trials sponsored by industry give results that favour the sponsor’s drug.6 Doctors and patients are right to want independent trials. On statins and oseltamivir, there are two clear opportunities, and here we declare our own conflicts. With colleagues, one of us (CH) first proposed a trial of oseltamivir in a pandemic in 2009; the other (BG) first proposed a trial of statins examining side effects over a year ago. In both cases we could have the answer by now.
+Cost of trials—Replication will be possible only if the cost of conducting trials is radically reduced. Much of this cost is driven by disproportionate regulation around trials of routinely used treatments.7 The National Institute for Health and Care Excellence’s guidance on cholesterol argues for head to head trials in low risk populations; this would require over 100 000 participants, followed up for a decade. Such trials can practically be delivered only by reducing the expensive and disproportionate regulatory burden,7 embedding them in everyday clinical care and gathering follow-up data from existing electronic health records.8
+Better evidence—Treatments are routinely approved after trials with only surrogate outcomes.9 Drugs are then extensively promoted, at the moment of approval, when evidence on real world outcomes is paradoxically at its weakest. We could encourage better evidence by, for example, compelling companies to follow-up all phase III trial participants until real world benefits emerge, considering routine randomisation for newly approved drugs when benefits are unclear, and bartering with either patent extension or choice of the start date for market exclusivity. These suggestions would come at minimal cost and deliver more comprehensive data on treatment effects.
+Shared decision making—Concern over statins has recently been reawakened by the introduction of a financial incentive for general practitioners to prescribe the drugs to low risk patients. This is ill judged because patients’ informed choices vary widely.10 11 An incentive to prescribe a treatment that many adequately informed patients do not want undermines informed decision making and inflicts avoidable reputational harm on the profession. If instead we incentivise shared decision making then—for the same financial outlay—best practice will be recognised, rewarded, and laid down in the everyday templates of what doctors do.12
+Declare conflicts of interest—Declaration of conflicts of interest is currently chaotic, inconsistent, and incomplete. We clearly need a central system of declarations, ideally maintained by the General Medical Council.13 Conflicts, however, become particularly salient when evidence is unclear: when decisions about which treatment works best are made on the basis of a speculative, superficially plausible narrative about a drug’s mechanism of action, or on the interpretation of weak, confounded, observational data when randomised trials are feasible. If we are able to generate better evidence and ensure that we see the complete evidence, then competing interests—although they must always be declared—will become less salient.
+This is just a brief tour of six domains, and there is much more to be done. Most of our suggestions are rapidly deliverable. Some require modest funding; most do not. Some require legislative changes. But we should remember that evidence based medicine, in its true modern incarnation, has a relatively short history and that when randomised trials were first introduced they were often regarded as a transgressive, expensive, unnecessary, and unwelcome challenge to medical authority.14 The public is increasingly aware of the shortcomings we collectively tolerate in the evidence base for clinical practice. We now have the opportunity to use public frustration as fuel to update our implementation of evidence based medicine in the light of new technology and get our house in order. To restrict a review of these problems to the interpretation of inadequate existing data—as the academy apparently proposes—would be recklessly backward looking.
+Notes
+Cite this as: BMJ 2015;350:h3397
+Footnotes
+Competing interests: We have read and understood BMJ policy on declaration of interests and declare BG and CH are founders of the AllTrials campaign calling for all trials to report their results. BG receives funding from the Wellcome Trust and the Laura and John Arnold Foundation and income from speaking, writing, and broadcasting on problems in science and medicine. CH has received funding from a UK National Institute for Health Research grant (HTA—10/80/01 Update and amalgamation of two Cochrane reviews: neuraminidase inhibitors for preventing and treating influenza in healthy adults and children www.nets.nihr.ac.uk/projects/hta/108001). CH also receives occasional payments for running educational courses at the University of Oxford (see www.phc.ox.ac.uk/team/researchers/carl-heneghan for full details).
+Provenance and peer review: Commissioned; not externally peer reviewed.
+References
+↵Wise J. England’s chief medical officer asks for review of drug evaluation in wake of statins controversy. BMJ2015;350:h3300.FREE Full Text
+↵Academy of Medical Sciences. Academy launches new project on evaluating evidence. Press release, 16 Jun 2015. www.acmedsci.ac.uk/more/news/evaluating-evidence-launch/.
+↵Schmucker C, Schell LK, Portalupi S, et al. Extent of non-publication in cohorts of studies approved by research ethics committees or included in trial registries. PLoS One2014;9:e114023.CrossRefMedline
+↵Song F, Parekh S, Hooper L, et al. Dissemination and publication of research findings: an updated review of related biases. Health Technol Assess2010;14(8).iii, ix-xi,1-193.
+↵Goldacre B. How to get all trials reported: audit, better data, and individual accountability. PLoS Med2015;12:e1001821.CrossRefMedline
+↵Flacco ME, Manzoli L, Boccia S, et al. Head-to-head randomized trials are mostly industry sponsored and almost always favor the industry sponsor. J Clin Epidemiol2015;68:811-20.CrossRefMedline
+↵Van Staa T-P, Dyson L, McCann G, et al. The opportunities and challenges of pragmatic point-of-care randomised trials using routinely collected electronic records: evaluations of two exemplar trials. Health Technol Assess2014;18:1-146.CrossRef
+↵Van Staa T-P, Goldacre B, Gulliford M, et al. Pragmatic randomised trials using routine electronic health records: putting them to the test. BMJ2012;344:e55.FREE Full Text
+↵Yudkin JS, Lipska KJ, Montori VM. The idolatry of the surrogate. BMJ2011;343:d7995.FREE Full Text
+↵Fontana M, Asaria P, Moraldo M, et al. Patient-accessible tool for shared decision making in cardiovascular primary prevention: balancing longevity benefits against medication disutility. Circulation2014;129:2539-46.Abstract/FREE Full Text
+↵Van Staa T-P, Smeeth L, Ng ES-W, Goldacre B, Gulliford M. The efficiency of cardiovascular risk assessment: do the right patients get statin treatment? Heart Br Card Soc2013;99:1597-602.Abstract/FREE Full Text
+↵Goldacre B, Smeeth L. Mass treatment with statins. BMJ2014;349:g4745.FREE Full Text
+↵McCartney M, Goldacre B, Chalmers I, et al. Why the GMC should set up a central registry of doctors’ competing interests. BMJ2014;348:g236.FREE Full Text
+↵Blythe M, Cochrane A. One man’s medicine: an autobiography of Professor Archie Cochrane. BMJ Publishing, 1989.
+Posted by
+insider
+at
+10:03 pm
+No comments:
+Labels:
+alltrials,
+bad pharma
+Friday, June 12, 2015
+A message from AllTrials about Richmond Pharmacology's Judicial Review
+Dear AllTrials friend
+As most of you know Richmond Pharmacology has brought a judicial review against the Health Research Authority because it insists on the registration (not even reporting, but registration) of clinical trials. Read more.
+This is a quick note to let you know that we have obtained the court papers (hundreds of them!), we are looking urgently with lawyers at what can be done and we will be in touch next week to tell you. In the meantime, if you have been meaning to help with our campaign fund, now would be a great time...  And if you can help with time over July, please tell us by replying to this email.
+Best wishes
+James
+James Cockerill
+Campaigns Manager
+Sense About Science
+Science and evidence in the hands of the public
+Posted by
+insider
+at
+7:19 pm
+No comments:
+Thursday, June 11, 2015
+Sidney Wolfe writes in the BMJ - AllTrials - Selective clinical trial
+reporting: betraying trial participants, harming patients
+Reporting biases found in trials of cardiovascular devicesReporting biases in published trials were first identified in 1986.1 Published randomized studies of combination chemotherapy compared with treatment with an alkylating agent as first line treatment for ovarian cancer showed a significant survival advantage for combination chemotherapy. Unpublished cancer trial registry data from the same studies, however, showed no such advantage.2 Similarly, in the treatment of multiple myeloma, registry data suggested a smaller survival advantage for combination chemotherapy (over prednisone and an alkylating agent) than the results of published studies. The author who reported the discrepancy concluded that his findings “demonstrate the value and importance of an international registry of all clinical trials.”1Subsequent evidence for biased and selective reporting included prompt or delayed publication depending on whether trial results were positive or negative3 and more favorable results and conclusions in published studies funded by industry than in those funded independently.4The linked paper by Chang and colleagues (doi:10.1136/bmj.h2613) shows similar reporting biases in trials of medical devices.5 The authors found worrying differences between trial information submitted to the US regulator (the Food and Drug Administration) and trial information reported in medical journals. Among 177 studies of 106 high risk cardiovascular devices submitted to the FDA, fewer than half were published, and fewer than half the published studies (45%) reported primary results that precisely matched the results in submissions to the regulator. Among the published primary results, 11% (17) were judged to be “substantially different” from those submitted to the FDA. The authors concluded that “even when trials are published, the study population, primary endpoints, and results can differ substantially from data submitted to the FDA.”5Most studies of reporting biases have examined differences in efficacy between unpublished clinical trial data and journal publication data but evidence now exists of under-reporting of adverse events. A recent BMJ editorial cites “the growing body of research on reporting biases, which documents the gross under-reporting of adverse event data in such [medical journal] sources.”6Unfortunately, selective reporting of clinical trial data in medical journals also extends to companies’ selective non-reporting of safety data to the FDA. In 2012, the US Department of Justice announced that “GSK [GlaxoSmithKline] has agreed to plead guilty to failing to report data to the FDA and has agreed to pay a criminal fine in the amount of $242,612,800 for its unlawful conduct concerning Avandia . . . The United States alleges that, between 2001 and 2007, GSK failed to include certain safety data about Avandia, a diabetes drug, in reports to the FDA that are meant to allow the FDA to determine if a drug continues to be safe for its approved indications and to spot drug safety trends.”7Efforts to increase the public availability of clinical trial data to prevent the serious public health consequences of overstating benefits and understating risks have triggered strong industry opposition. In 2012 the former executive director of the European Medicines Agency (EMA), Guido Rasi, committed the regulator to “proactive publication of clinical-trial data, once the marketing-authorisation process has ended.” He added “We are not here to decide if we publish clinical-trial data, but how.”8 Two pharmaceutical companies sued the EMA to prevent disclosure, and the EMA has watered down its original plans.9Beyond adverse effects on patients of selective reporting in medical journals, the absence of publicly available data from clinical trials violates an important ethical principle of the Declaration of Helsinki: “Researchers have a duty to make publicly available the results of their research . . . Negative and inconclusive as well as positive results must be published or otherwise made publicly available.”10 Many people participate in research because they trust that the published results might improve the health of the general population.Ignoring the Declaration of Helsinki, in 2013 the Pharmaceutical Research and Manufacturers of America (PhRMA) urged the US government to influence the European Union against the EMA’s data disclosure policy. In a letter to a US trade representative, PhRMA wrote that “Disclosure of companies’ non-public data submitted in clinical and pre-clinical dossiers and patient-level data risks damaging public health and patient welfare.”11It is clear that the reverse is true. Non-disclosure is far more damaging. The letter of rebuttal from leaders of the high profile campaign for public registration and reporting of all trial results (AllTrials) reads, “The world is moving towards a recognition that hiding information about what was done and what was found in clinical trials is an abuse of trial participants’ trust and exposes patients to unnecessary harm.”12 I, and many others, agree.NotesCite this as: BMJ 2105;350:h2753References↵Simes RJ. Publication bias: the case for an international registry of clinical trials. J Clin Oncol 1986;4:1529-41.Abstract/FREE Full Text↵US Department of Health and Human Services: compilation of experimental cancer therapy protocol summaries. NIH publication, Government Printing Office, 1977-1983.↵Stern JM, Simes RJ. Publication bias: evidence of delayed publication in a cohort study of clinical research projects. BMJ 1997;315:640.Abstract/FREE Full Text↵Lundh A, Sismondo S, Lexchin J, Busuioc OA, Bero L. Industry sponsorship and research outcome. Cochrane Database Syst Rev 2012;12:MR000033.↵Chang L, Dhruva SS, Chu J, Bero LA, Redberg RF. Selective reporting in trials of high risk cardiovascular devices: cross sectional comparison between premarket approval summaries and published reports.BMJ2105:350;h2613.↵Doshi P, Zito J, dosReis S.Digging for data on harms in duloxetine trials. It’s time for policy makers to get serious about drug related harms. BMJ2014;348:g3578.FREE Full Text↵↵↵Torjesin I. European Ombudsman ramps up action against European Medicines Agency over data transparency plans. BMJ2014;348:g3733.FREE Full Texthttp://www.bmj.com/content/350/bmj.h2753?
+Posted by
+insider
+at
+2:29 am
+No comments:
+Tuesday, May 26, 2015
+Introducing GlobalLeaks
+https://globaleaks.org/
+GlobaLeaks is an open source project aimed at creating a worldwide, anonymous, censorship-resistant, distributed whistleblowing platform.
+Posted by
+insider
+at
+12:34 pm
+No comments:
+Friday, May 01, 2015
+Ben Goldacre - Progress and Barriers on Clinical Trials Transparency
+Posted by
+insider
+at
+5:28 pm
+No comments:
+From Evidence-Based Medicine to Marketing-Based Medicine
+Dr Peter Parry is an Australian child & adolescent psychiatrist who has researched the "Pediatric Bipolar Disorder" diagnosis emanating from the USA, a diagnosis completely at odds with his training and clinical experience in Australian child and adolescent mental health. As part of his research into the PBD phenomenon, he noticed hundreds of internal pharmaceutical industry documents publicly released from court cases against pharmaceutical firms by State and Federal Attorney Generals in the USA. These documents concurred with findings of the US Senate "Grassley Commission" into conflicts of interest between the pharmaceutical industry and academic medicine.In collaboration with A/Prof Glen Spielmans, psychologist from Minnesota, they researched over 400 internal pharmaceutical documents regarding psychotropic medications. They published an article in 2010 in the Journal of Bioethical Inquiry titled "From Evidence-Based Medicine to Marketing-Based Medicine: Evidence from Internal Industry Documents"[1]. These documents reveal efforts at "disease-mongering" to expand markets e.g. by increasing the number of people diagnosed with "bipolar disorder"; marketing strategies to influence "customers" i.e. physicians, other health professionals and government regulators; and manipulation of the published medical literature to maximise positive findings and minimise or hide negative findings re manufacturers' medications.The past few years have witnessed a global awakening in the health professions, lay public and government also - to the fact we do not have evidence-based or science-based medicine, but rather a commercially distorted marketing-based medicine environment. Former chief-editor of the British Medical Journal, Prof Richard Smith, summed this up in his 2005 article in PLoS Medicine titled "Medical Journals Have Become an Extension of the Marketing Arm of Pharmaceutical Companies"[2].The medical profession and journals have ethical duties towards scientific truth and the welfare of patients before all else. Big Pharma as capitalistic corporations have a commitment to their bottom line. There is now a solution to this situation - the AllTrials campaign - to bring all research data (anonymised of patients' names) into view for independent analysis. AllTrials has the full backing of the British medical establishment - but needs international support if we are to have a future of Science-Based Medicine to supply the most beneficial and least harmful treatments and most accurate medical knowledge for us all.[1] http://link.springer.com/article/10.1... [2] http://www.plosmedicine.org/article/i...
+Posted by
+insider
+at
+10:24 am
+No comments:
+AllTrials has changed the world
+Posted by
+insider
+at
+10:19 am
+No comments:
+Wednesday, April 22, 2015
+Psychiatrists With Ties to AstraZeneca Resign From Texas State Hospital
+By
+ED SILVERMAN
+Bloomberg News
+Two psychiatrists at a Texas state hospital have resigned after being told they would face disciplinary actions for accepting hundreds of thousands of dollars in speaking and consulting fees from AstraZeneca AZN +1.58% while also promoting one of its drugs to state officials, according to a spokeswoman for the Texas Department of State Health Services.
+The psychiatrists allegedly violated various department rules as a result of their relationship to the drug maker, which involved efforts to ensure the Seroquel XR antipsychotic would be placed on the state formulary and prescribed by state physicians, according to letters sent to the physicians by the department. A formulary is a list of preferred drugs for which insurance coverage is made.
+The physicians were investigated in conjunction with a lawsuit that was filed last October by the Texas Attorney General, a department spokeswoman writes us. The Attorney General alleged AstraZeneca illegally marketed its Seroquel antipsychotic for unapproved uses, paid kickbacks to physician and state health officials, and subsequently caused the state Medicaid program to overpay for the medicine.
+The lawsuit notes that people with schizophrenia or bipolar disorder were more likely to be uninsured and not able to afford Seroquel, therefore relying on state health programs, according to an earlier report on this matter. As a result, AstraZeneca anticipated a “significant portion” of its revenue would come from “public sector” payers, according to the lawsuit.
+As noted previously, that lawsuit built on claims in other lawsuits that were filed by two former AstraZeneca sales reps, who alleged the drug maker used various tactics to induce doctors to prescribe different versions of the Seroquel pill. The allegations mirror charges of off-label marketing of Seroquel that led AstraZeneca to pay $520 million six years ago as part of a settlement with the U.S. Department of Justice.
+An AstraZeneca spokeswoman declined to comment on the resignations, which were first reported by The Texas Tribune, but did write us that its policies “prohibit compensation for services as an inducement to, or any way in consideration of, a healthcare professional’s current or potential prescribing, purchasing, use, formulary status, or dispensing of AstraZeneca products.”
+Texas officials say that one psychiatrist, Lisa Perdue, was paid more than $615,000 by the drug maker between 2005 and 2013, and allegedly approached members of the state’s Executive Formulary Committee, although did not disclose she did work for AstraZeneca, according to department documents. And Anthony Claxton received more than $231,000 between 2005 and 2012, according to department documents.
+Neither psychiatrist could be reached for comment about the resignations. In an e-mailsent to state officials last week, Claxton acknowledged presenting Seroquel information to other state physicians, but maintained he believed he had supervisory permission. An attorney for Perdue did not respond to messages seeking comment about the resignation.
+However, the attorney wrote a letter to state officials denying various allegations, such as the amount of money she accepted or that she “intentionally participated in a plan on behalf of AstraZeneca to use her influence” over formulary committee members. Perdue, he wrote, approached formulary committee members because she thought Seroquel XR “offered less toxic side effects for some patients.”
+A department spokeswoman tells us that Seroquel XR was never added to the state formulary, but that the older version of the drug has been on the state formulary since at least 2004. She adds that there were no issues surrounding patient care. Both psychiatrists worked at Terrell State Hospital, which is one of 10 psychiatric hospitals run by the Department of State Health Services.
+http://blogs.wsj.com/pharmalot/2015/04/21/psychiatrists-with-ties-to-astrazeneca-resign-from-texas-hospital/
+Posted by
+insider
+at
+10:03 am
+No comments:
+Older Posts
+Home
+Subscribe to:
+Posts (Atom)
+Twitter
+Followers
+Subscribe Now
+Subscribe to PharmaGossip
+AddThis
+Share
+|
+PharmaTwitter
+Spare some change Guv!
+RSS
+PharmaGossip's pictures
+Subscribe To
+Posts
+Atom
+Posts
+All Comments
+Atom
+All Comments
+Recent Posts
+PharmaTweets
+PharmaTweets
+follow me on Twitter
+Email Subscriptions powered by FeedBlitz
+Your email address:Powered by FeedBlitz
+Call me Jack
+insider
+The term "PR" means something completely different to a medical doctor!
+"We are all born ignorant, but one must work hard to remain stupid." -Benjamin Franklin.
+"It takes a wise doctor to know when not to prescribe."
+- Gracian.
+View my complete profile
+Search
+Enter your search terms
+Web
+pharmagossip
+Submit search form
+Pick a language
+Link Love
+Acai Berry
+adverlicio.us
+Alla Prima Painting
+Bad Science
+Bandolier
+Bitch PhD
+Black Triangle
+blog.bioethics.net
+bookofjoe
+CafePharma
+CancerDoc
+Clin Psych Blog
+Colon Cleanse
+CorpWatch Pharmaceuticals
+Dan Abshear
+Dentist San Francisco
+Diabetes Mine
+Dixie Chicks
+Doctors for Research Integrity
+Dr Dork
+Dr Joan Bushwell's Chimp Refuge
+Dr. Peter Rost
+Drug Reviews
+Eating an Elephant
+English Cut
+Epi Wonk
+Eye on FDA
+FreeThinker
+Freeway Blogger
+gapingvoid
+Google News
+Google Scholar
+GoozNews
+Health Care Renewal
+Health News Review
+Healthy Skepticism
+Hot Medical News
+Hurricaine Jill
+I Hate My Cubicle
+In the pipeline
+In two minds
+In Vivo
+Internet Drug News
+Internet Drug News
+Jim Edwards' NRx
+Johnny Cash
+Larry Rothman's blog
+Make the Logo Bigger
+Marilyn Mann's Blog
+MDjunction.com
+Medical Alert
+Medical Blog Network
+Medical Consumerism
+Medical Consumers
+Medical Progress Today
+Medical-Brochures.blogspot
+Mesothelioma treatment
+Mesothelioma treatment
+Michael Moore
+milfsanatomy
+Naked News
+NHS blog doctor
+Nip/Fuct
+NLARx
+No Free Lunch
+NSF DBA
+On Pharma
+On The Pharm
+Online Pharmacy
+Orac Knows
+Overdosed America
+Peace Takes Courage
+Pharm Land
+Pharma Business Review
+Pharma Giles
+Pharma Growth Strategies
+Pharma Marketing Blog
+Pharma Watch
+Pharmablogger
+Pharmacology Corner
+PharmaFun
+PharmaGossip's pictures
+Pharmalot
+PharmD programme
+PostSecret
+Prescribing advice for GPs
+Prescription Access
+Public Citizen
+Q10 Detective
+RandomJohnReloaded
+Reform the FDA
+Rost's HuffPo blog
+Scientific Misconduct Blog
+Shades of Blue
+Shearlings Got Plowed
+Soulful Sepulcher
+Spirited Sales Leaders
+Strumpette
+Terra Sigillata
+The assimilated negro
+The Blog That Ate Manhattan
+The Free Radical Report
+The Health Care Blog
+The Indian Guy
+The Lost Doctor
+The Medicine Vault
+The Policeman's Blog
+Worst Pills
+X Ray Tech
+Blog Archive
+Blog Archive
+September (2)
+November (1)
+October (3)
+July (3)
+June (4)
+May (4)
+April (3)
+March (2)
+February (3)
+January (6)
+December (4)
+November (4)
+October (6)
+September (9)
+August (9)
+July (12)
+June (16)
+May (20)
+April (20)
+March (33)
+February (30)
+January (43)
+December (31)
+November (54)
+October (87)
+September (82)
+August (74)
+July (102)
+June (79)
+May (63)
+April (97)
+March (81)
+February (88)
+January (66)
+December (54)
+November (99)
+October (87)
+September (60)
+August (66)
+July (100)
+June (93)
+May (75)
+April (162)
+March (213)
+February (197)
+January (176)
+December (89)
+November (162)
+October (157)
+September (166)
+August (158)
+July (148)
+June (134)
+May (161)
+April (155)
+March (181)
+February (193)
+January (203)
+December (185)
+November (228)
+October (282)
+September (196)
+August (141)
+July (174)
+June (157)
+May (214)
+April (221)
+March (206)
+February (163)
+January (151)
+December (97)
+November (184)
+October (223)
+September (233)
+August (184)
+July (151)
+June (141)
+May (120)
+April (148)
+March (179)
+February (185)
+January (124)
+December (58)
+November (111)
+October (203)
+September (171)
+August (126)
+July (146)
+June (152)
+May (154)
+April (224)
+March (220)
+February (160)
+January (170)
+December (93)
+November (116)
+October (175)
+September (127)
+August (141)
+July (132)
+June (191)
+May (204)
+April (228)
+March (208)
+February (182)
+January (161)
+December (93)
+November (149)
+October (204)
+September (197)
+August (233)
+July (175)
+June (152)
+May (109)
+April (100)
+March (105)
+February (124)
+January (134)
+December (97)
+November (186)
+October (153)
+September (84)
+Official Dilbert Widget
+Stats
+Powered by Blogger.

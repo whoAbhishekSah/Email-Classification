@@ -1,0 +1,72 @@
+Collection Description Focus
+UKOLN
+Raising Awareness
+Home
+A-Z of projects and activities
+About UKOLN
+Contact UKOLN
+Accessibility
+News RSS
+"A centre of excellence in digital information management, providing
+advice and services to the library, information and cultural heritage
+communities."
+UKOLN is based at the University
+of Bath.
+Dissemination
+Events
+Presentations
+Publications
+Resources
+Extending the Collection Model
+FAQs
+Glossary
+Mailing Lists
+Tutorial
+Useful Links
+Background resources
+Projects
+Tools
+Collection Description Focus
+What CD Focus Does
+The aim of the Focus was to improve co-ordination of work on collection
+description methods, schemas and tools, with the goal of ensuring consistency
+and compatibility of approaches across projects, disciplines, institutions,
+domains and sectors. The Focus provided support for projects actively
+involved in collection description work and for those investigating
+or planning such work. One of the major strands of this support work
+was been the development of the CLD (Collection-Level Description) Online
+Tutorial. This was been created both as an aid to Implementers and
+as a tool for training.
+The Focus promoted and facilitated the use of the RSLP
+Collection Description Schema as the basis for collection description
+implementations. The Focus also worked with the Dublin Core Collection
+Description Working Group on the development of a DC-based schema for
+collection-level description, using the collection description attributes
+of the RSLP CD Schema as a starting point. Implementers were encouraged
+to join the DC-Collections list and contribute to the work.
+The Focus supported a range of initiatives including the NOF Digitisation of Learning Materials Programme, Peoples Network Programme,
+Resource Regional Cross-Domain research projects, British Library Co-operation
+and Partnership Programme and a range of JISC projects. The Focus also sought to engage with the FE sector through contact with the
+Regional Support Centres.
+About Us
+The work of the Focus was carried out between 2001 to 2011 by Ann
+Chapman, Marieke Guy, Pete Johnston and Bridget Robinson. Other UKOLN staff working on related projects provided support
+through expertise and knowledge.
+During the period June 2001 - July 2004, when it was separately funded,
+the Focus reported to a Management Board.
+Focus work now forms part of UKOLN core activities. The Focus is located within UKOLN
+and physically based at the University
+of Bath. The staff at UKOLN are supported by their partners in the CD Focus
+Initiative, the Archives Hub
+and the mda (now the
+Collections Trust).
+The Focus can be contacted at ukoln@ukoln.ac.uk
+An archive version of the CD Focus site is available on the Internet Archive. On 13 March 2013 http://www.ukoln.ac.uk/cd-focus/ had been crawled 84 times going back to 29 June 2001.
+There is a project page for CD Focus on the Jisc Web site.
+|
+|
+University of Bath
+UKOLN receives support from
+the University of Bath where it is based.
+Page last revised on:
+27-Mar-2013

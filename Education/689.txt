@@ -1,0 +1,94 @@
+I2S2 Project | Home Page
+UKOLN
+Raising Awareness
+Home
+A-Z of projects and activities
+About UKOLN
+Contact UKOLN
+Accessibility
+News RSS
+"A centre of excellence in digital information management, providing
+advice and services to the library, information and cultural heritage
+communities."
+UKOLN is based at the University of Bath.
+Related Links
+I2S2 Blog
+Events
+The I2S2 Project (Archived Site)
+The I2S2 project has ended and consequently this website is no longer being maintained
+The
+Infrastructure for Integration in Structural Sciences (I2S2) Project
+is funded under the Research Data Management Infrastructure strand of
+the JISC's Managing Research Data Programme, with a duration of
+18 months (Oct 2009 to March 2011).
+I2S2 will identify requirements for a data-driven research infrastructure in "Structural Science",
+focusing on the domain of Chemistry, but with a view towards inter-disciplinary application.
+I2S2 will develop use cases that explore perspectives of scale and complexity and
+research discipline throughout the data lifecycle.
+Two research data management pilots based on the use cases, will examine the business
+processes of research, and highlight the benefits of an integrated approach.
+Both pilots will address traversing administrative boundaries
+between institutions to national facilities in addition to issues of scale
+(local laboratory to national facilities, DIAMOND synchrotron and ISIS respectively).
+Pilot 2 in particular, will apply the approach to Earth Sciences and demonstrate the benefit to
+scientific disciplines other than Chemistry.
+A key component of the infrastructure will be a harmonised Integrated Information Model to include all
+stages of the Data Life Cycle.
+A "before and after" cost-benefit analysis will be performed
+using the Keeping Research Data Safe (KRDS2) model, which will be extended to address
+inter-disciplinary requirements in I2S2.
+Project Plan:
+The project plan is available:
+[PDF]
+Project Deliverables:
+D1.1 Requirements Report, July 2010:
+[Main Report (PDF),
+Lifecycle Model with notes (PDF),
+Supplementary Report (PDF)]
+D2.1 Extended Cost Model, April 2011: I2S2 Extended Cost Model (PDF)
+D2.2 Cost Analysis Phase 1, April 2011: I2S2 Benefit Use Cases (PDF)
+D3.2 Implementation Plan, October 2010: I2S2 Implementation Plan (PDF)
+D3.3 Two Pilot Implementations, April 2011: I2S2 Pilot Implementations (PDF)
+D4.1 Cost Analysis Phase 2, May 2011: I2S2 Benefit Case Study (PDF)
+D4.2 Business Models & Sustainability Plan, June 2011: I2S2 Sustainability Plan (PDF)
+Project Dissemination:
+I2S2 Project Dissemination Workshop,
+Data Infrastructure Challenges: working across scale, disciplinary and institutional boundaries, 5th May 2011, Leicester
+Martin Dove and Brian Matthews, The I2S2 Project,
+JISC Managing Research Data (International) Programme Workshop, 28-29th March 2011, Birmingham,
+[JISC MRD Infrastructure Projects]
+Manjula Patel, The benefits of more effective research data management in UK universities,
+JISC Conference 2011: Financial Challenges, Digital Opportunities, 14-15th March 2011:
+[PDF]
+Manjula Patel, Integrated research data management in the Structural Sciences,
+Scaling Up to Integrated Research Data Management Workshop,
+IDCC 2010, 6th December 2010, Chicago:
+[PPT]
+Erica Yang, Brian Matthews, Michael Wilson, Enhancing the Core Scientific Metadata Model to Incorporate Derived Data,IEEE eScience 2010: [abstract (PDF)]
+Erica Yang, Manjula Patel, Brian Matthews, Scaling Up Scientific Data Management Infrastructure, JISC All Hands Meeting 2010, Cardiff, Tuesday 14th Sept. 2010: [PDF]
+Manjula Patel, Project presentation at MRD Programme Progress Workshop, Manchester Conference Centre, 17-18th May 2010
+[PDF]
+Liz Lyon, Codes, Clouds & Constellations: Open Science in the Data Decade,
+CNI Meeting, April 2010, Baltimore:
+[PPT]
+Simon Coles, Project presentation at the JISC Research Data Management Infrastructure Launch Meeting,
+27th November 2009, London:
+[PPT]
+Liz Lyon, Open science at web-scale: Optimising participation and predictive potential,
+JISC Consultative Report, November 2009:
+[
+PDF from JISC website]
+Project Partners
+UKOLN, University of Bath
+Digital Curation Centre
+University of Southampton
+University of Cambridge
+Science & Technology Facilities Council
+Charles Beagrie Ltd.
+|
+|
+University of Bath
+UKOLN receives support from
+the University of Bath where it is based.
+Page last revised on:
+14-Mar-2013

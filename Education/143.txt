@@ -1,0 +1,45 @@
+ABLE Project - Faculty of Mathematics, Computing and Technology
+skip to content
+ABLE Project - Faculty of Mathematics, Computing and Technology
+OU Home
+Study at the OU
+About the OU
+Research at the OU
+Search
+Contact
+Accessibility:
+Research
+Objectives
+Issues
+Approach
+Corpus
+People
+Members
+Links
+Publications
+External Resources
+Contact Us
+Enquiries
+OU Links
+Computing Department
+Centre for Research in Computing
+Project Partners
+Project supported by
+ABLE Project
+Automated Biodiversity Literature Enhancement
+Background
+Biological knowledge, especially taxonomic knowledge, is often presented in a stylised form, generally using typographical clues as to its meaning. This project aims to use typographical information and other contextual clues to identify and tag document content by type. This combination of Natural Language Processing (NLP) with typographical information extraction should be applicable in other fields that historically use structured data.
+Aims and Objectives
+The project seeks to enhance access to a large body of scanned literature in the biodiversity domain by developing fuzzy matching of search terms, so that searching the literature is robust to errors introduced by OCR and other sources. The primary goal of the project is structural recognition, disambiguation and mark-up, from which metadata (taxon names, people's names, locations and dates) will be extracted to build indices and ontologies from the rapidly growing digital content of the Biodiversity Heritage Library.
+New to OU
+OU on TV
+For Alumni
+For Employers
+Privacy
+Copyright
+Cymraeg
+Jobs
+News
+Donate
+Faculty of Mathematics, Computing & Technology
+© The Open University 2017/18

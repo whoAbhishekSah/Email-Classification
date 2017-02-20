@@ -1,0 +1,48 @@
+SIMPOL Programming Language Home Page
+Contact us at: sales@superbase.com
+Menu
+Home
+News
+Products
+SIMPOL Professional
+SIMPOL Multi-User Database Engine
+Shop
+Services
+Forums
+Developers
+Blog
+Contact
+About
+Home
+Superbase NG and SIMPOL enable you to build computer applications faster and easier than ever before
+Superbase NG 2.06 is now available!
+Everyone at Superbase Software Limited are very pleased to announce the release of Superbase NG 2.06, an update to our recent Superbase NG 2.05 release. More…
+Regular blog posts in the developer’s section.
+We will soon be posting regularly to the development blog about various things we are working on, see the Development Blog for details.
+Superbase NG is Cross-Platform
+Develop your application once — run it on Linux or Windows (with more platforms coming).
+Experienced Software Developer?
+Superbase NG 2.06 — available now — gives you the tools to be more productive than you could imagine. Create protoypes so blindingly fast that you will surprise yourself. Then quickly build upon your initial design to create very large systems built on a cross-platform database. Superbase NG and the SIMPOL programming language give you the tools to build your Professional Services projects easier, faster, and more profitably!
+Superbase NG Can Do It!
+Superbase NG can be used to create applications for your laptop, desktops, local network, wide area networks and your web server. Superbase NG was used to develop the web shop and registration system used on this site.
+Additional InformationPrivacy Policy
+Terms and Conditions
+Press Info
+Sitemap
+Register – Log In
+Developers CornerDevelopment Roadmap
+Tips and Tricks
+IDE Screenshots
+Downloads
+Migrating from Superbase
+Superbase NG Documentation
+Frequently Asked Questions
+Development Blog
+Register – Log In
+Forums
+Free WordPress Theme
+|
+AccessPress Lite
+Copyright © 2017
+Superbase Software Limited
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.OkRead more

@@ -1,0 +1,108 @@
+The Design Studio / SDF DL
+The Design Studio
+log inhelp
+WikiPages & Files
+View
+SDF DL
+Page history
+last edited
+by Marianne Sheppard 2 years, 6 months ago
+Staff Development Forum
+Welcome to the Staff Development Forum Digital Literacies page.
+What we've achieved...
+Project Contacts:
+Andy Wilson
+DL core team member
+01509 222380
+Loughborough
+andywilson48@gmail.com
+Rebecca Radics
+DL core team member
+Nottingham Trent
+rebecca.radics@ntu.ac.uk
+Please contact us if you have any comments or suggestions.
+1. The Staff Development Forum
+The purpose of the SDF is to develop the staff who develop the staff in HEIs. These staff developers operate from a range of locations but they have a common focus on designing and delivering training and development interventions with their colleagues.
+Staff Development Forum
+2. Digital Literacy and the SDF
+We're happy to work with the JISC definition of Digital Literacies:
+"... those capabilities which fit an individual for living, learning and working in a digital society."
+They are clearly important for the people with whom the SDF's members work, but the levels of digital literacy within the staff development community are very varied and often quite low. This can impact negatively on the experience of staff within institutions and also on staff developers themselves; hence our eagerness to be involved in this project.
+3. Professional development
+Our general view is that DLs, like other forms of literacy, depend on the context within which they are used. And since staff developers engage with staff right across their institution and at all levels it is unlikely that any single competency-based framework will fit our users. Neither - given the diversity of our functions - is such an approach likely to fit the needs of our members themselves.
+We're also conscious of the dangers associated with "technologies in search of a use" and much prefer a creative dialogue at the interface of processes, challenges and technologies. So our fundamental approach will be to develop our familiarity with DLs and to seek to use this developing expertise to help address the practical concerns of staff developers.
+One particular aspect that we are interested in, and will seek to work on with other professional associations, is the way in which staff developers and IT and information staff in institutions work together. In some insitutions there are close and effective links, but this is by no means always the case.
+So, overall, we have three main motivations in relation to this project:
+To make the operations of the SDF itself more digitally literate
+To enhance the digital literacies of our colleagues in the staff development community
+To encourage closer links between staff developers and IT and information staff so that the different groups can learn from each other
+4. Baselining digital literacy provision
+In line with this thinking we will baseline DLs amongst the staff development community by:
+engaging in semi-structured interviews
+capturing information on current levels of use of digital technologies
+identifying current concerns of staff developers within their day-to-day work
+We will also use this process to start a conversation about how technologies might be used to address these current concerns.
+5. Resources
+We already have resources in two main areas, and we will add to these during the course of the project.
+The first area is that of change. Technological developments typically involve change, and although there are clearly specific technical aspects, fundamentally change is change. And staff developers typically work to help people through change. Hence we have valuable expertise to offer and we have shared resources on this within the Embed-IT project. See the Change Management section within...
+http://jiscdesignstudio.pbworks.com/w/page/46865571/Embed-IT%20framework
+The second area is a good example of our desire to apply technologies appropriately to real problems.
+In the east midlands we have run very successful action learning sets for several years. (The materials listed below provide an explanation of what action learning is.) People are prepared to travel the relatively short distances involved.
+Action learning sets involving more dispersed members tend to fail because of the time, cost and carbon involved with travel. The challenge, therefore, was how to deliver action learning online. And the answer was through using Elluminate (now Collaborate). The papers below tell you all about the project, which was supported by the Leadership Foundation.
+A brief introduction
+Web intro page 110824.docx
+A Powerpoint presentation on Online Action Learning
+OAL 110722.pptx
+More detailed guidance and evaluation
+OAL Guidance 110824.doc
+6. Activities and events
+The work on this project will be shared at the Spring and Autumn conferences and in regional groups.
+Early activities are:
+baselining
+a programme of webinars
+7. Findings and conclusions
+These will be shared as they emerge.
+SDF DL
+Page Tools
+Insert links
+Insert links to other pages or uploaded files.
+Pages
+Images and files
+Insert a link to a new page
+Loading...
+No images or files uploaded yet.
+Insert image from URL
+Tip: To turn text into a link, highlight the text, then click on a page or file from the list above.
+Comments (0)
+You don't have permission to comment on this page.
+Printable version
+Tags:
+JISC DDL, digital literacy, professional associations, professional bodies, professional development, staff development, SDF
+SDF DL tags changed
+SideBar
+Home
+About the Design Studio
+Accessing the Design Studio
+Developing Digital Literacies
+Developing digital literacies in the curriculum
+Developing digital literacies for digital scholars and researchers
+Developing digital literacies for employability
+Developing digital pioneers
+Developing digitally literate institutions
+Developing your digital literacies
+Curriculum Change and Transformation
+Curriculum Challenges
+Curriculum Processess
+Curriculum Technologies
+Curriculum Design & Delivery programme
+Curriculum Design Institutional Stories
+Transforming Assessment & Feedback
+Assessment & Feedback Programme
+Assessment & Feedback Topics
+Assessment & Feedback Tools and Resources
+Embedding Benefits
+About the Embedding Benefits programme
+View All Tags
+Recent Activity
+Show 0 new items
+Loading…

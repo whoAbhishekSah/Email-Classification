@@ -1,0 +1,598 @@
+Reproductive & Genetic Health
+Sign In
+Contact Us English
+×Please Select Your Language
+English
+Chinese (中国)
+Japanese (日本語)
+Remember this choice.
+Select This Language
+Areas of Interest
+Techniques
+Systems
+Products & Services
+Informatics
+Science & Education
+Company
+Support
+Search Illumina.com
+Explore Illumina Mobile Tools
+Library Prep and Array Kit Selector
+Gene Panel Finder
+Sequencing Method Selector
+Sequencing Platform Comparison Tool
+Find Your Area of Interest
+Research
+Applied Sciences
+Clinical
+Molecular Biology Research Tools
+Applied Genomics Solutions
+Oncology
+Cancer Genomics Research
+Pathology & Clinical Cancer Research
+Future of NGS in Oncology
+Cancer Companion Diagnostics
+Microbial Genomics
+Microbial Sequencing Methods
+Human Microbiome Analysis
+Environmental Metagenomics
+Microbiology Products
+See All Microbial Genomics
+Genomics in Drug Development
+Companion Diagnostics Development
+NGS for Drug Development
+Complex Disease Genomics
+Immunology Research
+Neuroscience Research
+Functional Cellular Research
+Clinical Complex Disease Research
+High-Throughput Genomics
+See All Complex Disease Genomics
+Agrigenomics
+Plant & Animal Genotyping
+Plant & Animal Sequencing
+Agrigenomics Products & Services
+Agriculture Consortia
+See All Agrigenomics
+Forensic Genomics
+Forensic Genomics Applications
+Forensic DNA Analysis Methods
+See All Forensic Genomics
+Commercial Agricultural Applications
+Infectious Disease Surveillance
+Molecular Epidemiology
+Biobank Analysis Solutions
+Molecular Diagnostics
+Illumina Clinical Services Laboratory
+Reproductive & Genetic Health
+Preconception & Fertility
+Noninvasive Prenatal Testing
+Genetic Health
+Products & Services
+Translational Research
+HLA Sequencing
+Oncology
+Sequencing Panels for Translational Research
+Large-Scale Sequencing Products
+See All
+Explore Research Techniques
+Sequencing
+Microarrays
+Popular Genomics Applications
+Technologies
+DNA Sequencing
+Whole-Genome Sequencing
+Targeted Resequencing
+ChIP-Seq
+See All DNA Sequencing
+RNA Sequencing
+Total RNA Sequencing
+mRNA Sequencing
+Targeted RNA Sequencing
+See All RNA Sequencing
+Methylation Sequencing
+Sequencing Data Analysis
+Library Preparation
+Human Genotyping
+Non-Human Genotyping
+Gene Expression Array Analysis
+Methylation Array Analysis
+Microarray Data Analysis
+Genotyping
+Gene Expression & Transcriptome Analysis
+Epigenetics
+Cytogenomics
+Next-Generation Sequencing
+BeadArray Microarray Technology
+Explore Our Entire System Portfolio
+Find the right system for your application needs.
+Browse by Type:
+Sequencing Platforms
+Microarray Scanners
+In Vitro Diagnostic Sequencer
+Forensic Genomics Sequencer
+Use Our Interactive Selection Tool:
+Sequencing Platform Comparison Tool
+Browse by System:
+Select a System...
+HiSeq 2500 System
+HiSeq 3000/HiSeq 4000 System
+HiSeq X Five & Ten Systems
+iScan System
+MiniSeq System
+MiSeq System
+MiSeqDx System
+MiSeq FGx System
+NeoPrep System
+NextSeq 500 System
+NextSeq 550 System
+NovaSeq Series
+Explore Our Products
+Browse by Product Type:
+Sequencing Kits
+Library Preparation Kits
+Cluster Generation & Sequencing Reagents
+Microarray Kits
+Clinical Research Products
+Molecular Biology Reagents
+Browse All Products
+Browse by Area of Interest:
+Oncology Products
+Reproductive Health Products
+Microbial Genomics Products
+Complex Disease Genomics Products
+Genetic Health Products
+Forensic Genomics Products
+Agrigenomics Products
+Genomics in Drug Development Products
+Find Products for Your System:
+HiSeq 2500 Products
+HiSeq 3000/HiSeq 4000 Products
+HiSeq X Five/HiSeq X Ten Products
+iScan Products
+MiniSeq Products
+MiSeq Products
+MiSeqDx Products
+MiSeq FGx Products
+NeoPrep Products
+NextSeq 500 Products
+NextSeq 550 Products
+NovaSeq Products
+Explore Services:
+FastTrack Sequencing Services
+FastTrack Microarray Services
+Service Partners and Programs
+Instrument Services, Training & Consulting
+See All Services
+Clinical
+Molecular Diagnostics
+Illumina Clinical Services Laboratory
+Additional Product Selection & Experiment Planning Tools:
+New & Popular Products
+Library Prep and Array Kit Selector
+Gene Panel Finder
+Sequencing Platform Comparison Tool
+See All Tools
+Access Informatics Solutions
+Research Informatics
+Sequencing Experimental Design
+Sequencing Data Analysis & Management
+Biological Data Interpretation
+Translational Informatics
+For Pharma & Biotech
+For Comprehensive Cancer Centers
+For Population Sequencing
+BaseSpace for Translational Research
+BaseSpace Informatics Suite
+BaseSpace Clarity LIMS
+BaseSpace Sequence Hub
+BaseSpace Variant Interpreter
+BaseSpace Correlation Engine
+BaseSpace Cohort Analyzer
+Informatics Data Security & Privacy
+Scientific & Educational Content
+Publications
+Featured Publications
+Publication Reviews
+See all Publications
+Sequencing Method Explorer
+Genomics Consortia
+Genomics Blog
+Customer Stories
+iCommunity Customer Stories
+Featured Researchers
+See All Customer Stories
+Video Hub
+Featured Videos
+Popular Videos
+See All Videos
+Education for Researchers
+Illumina Technology
+Sequencing & Array Training
+See All Education
+Webinars
+Current Webinar
+Archive
+Subscribe
+Medical Genetics
+Learn About Illumina
+About Us
+Management Team
+Fact Sheet
+News Center
+Feature Articles
+Press Releases
+Illumina in the News
+Multimedia & Images
+Video Hub
+Feature Videos
+Popular Videos
+Recent Videos
+Careers
+Search Career Opportunities
+Login to Career Profile
+Life at Illumina
+Illumina Careers
+Locations & Amenities
+Calendar of Events
+Genomics Blog
+Cancer Genomics
+Complex Disease
+Technology
+iCommunity Customer Stories
+See all posts
+Events
+Conferences & Tradeshows
+Seminars
+Webinars
+Recruiting Events
+Investor Information
+News
+Events and Presentations
+Stock Information
+Financial Information
+Corporate Governance
+Investor FAQ
+Contact Information
+Contact Us
+Office Locations
+Consortium Contact Form
+Distributors
+Suppliers
+Partner Programs
+Legal
+Terms and Conditions
+Report a Compliance Issue or Concern
+Illumina Accelerator
+See All Support Options
+Support for popular kits
+Nextera DNA Library Prep Kit Support
+MiSeq Reagent Kit Support
+Nextera Enrichment DNA Sample Prep Kit Support
+TruSeq Stranded mRNA LT Sample Prep Kit Support
+View All Sequencing Kits
+View All Array Kits
+Support for popular systems
+MiSeq
+NextSeq 500
+HiSeq 2000
+HiSeq 2500
+All Systems:
+AutoLoader 2.xBeadArray ReaderBeadXpress ReadercBotcBot 2Cluster StationGenome Analyzer IIxHiScanHiSeq 1000HiSeq 1500HiSeq 2000HiSeq 2500HiSeq 3000HiSeq 4000HiScanSQHiSeq XiScanMiniSeqMiSeqMiSeqDxMiSeq FGxNextSeq 500NextSeq 550NeoPrep Library Prep SystemNovaSeq 6000
+Support for Your System
+AutoLoader 2.x
+AutoLoader 2.x Support Links
+View All AutoLoader 2.x Support
+Support for Your System
+BeadArray Reader
+BeadArray Reader Support Links
+View All BeadArray Reader Support
+Support for Your System
+BeadXpress Reader
+BeadXpress Reader Support Links
+BeadXpress Reader System Guide
+Questions and Answers
+Bulletins
+View All BeadXpress Reader Support
+Support for Your System
+cBot
+cBot Support Links
+cBot System Guide
+Questions and Answers
+Bulletins
+View All cBot Support
+Support for Your System
+cBot 2
+cBot 2 Support Links
+cBot 2 System Guide
+Questions and Answers
+Bulletins
+View All cBot 2 Support
+Support for Your System
+Cluster Station
+Cluster Station Support Links
+Cluster Station System Guide
+Questions and Answers
+Bulletins
+View All Cluster Station Support
+Popular Kits for Cluster Station
+TruSeq PE Cluster Kit v5
+TruSeq SR Cluster Kit v5
+Support for Your System
+Genome Analyzer IIx
+Genome Analyzer IIx Support Links
+Genome Analyzer IIx System Guide
+Questions and Answers
+Bulletins
+View All Genome Analyzer IIx Support
+Popular Kits for Genome Analyzer IIx
+TruSeq SBS Kit v5-GA
+Multiplexing Sample Preparation Oligonucleotide Kit
+TruSeq PE Cluster Kit v5-CS-GA
+Genomic DNA Sample Prep Kit
+TruSeq Small RNA Library Prep Kit
+View All Supported Kits
+Support for Your System
+HiScan
+HiScan Support Links
+HiScan System Guide
+Bulletins
+View All HiScan Support
+Popular Kits for HiScan
+HumanHT-12 v4 Expression BeadChip Kit
+Infinium HumanMethylation450 BeadChip Kit
+HumanOmniExpress-24 BeadChip Kit
+HumanOmni2.5-8 BeadChip
+HumanCoreExome-24 BeadChip Kit
+Support for Your System
+HiSeq 1000
+HiSeq 1000 Support Links
+HiSeq 1000 System Guide
+Questions and Answers
+Bulletins
+View All HiSeq 1000 Support
+Popular Kits for HiSeq 1000
+TruSeq Stranded Total RNA LT Sample Prep Kit
+TruSeq DNA LT Sample Prep Kit
+TruSeq Dual Index Sequencing Primer Box
+TruSeq Cluster Kit v3
+TruSeq DNA PCR-Free LT Library Prep Kit
+View All Supported Kits
+Support for Your System
+HiSeq 1500
+HiSeq 1500 Support Links
+HiSeq 1500 System Guide
+Questions and Answers
+Bulletins
+View All HiSeq 1500 Support
+Popular Kits for HiSeq 1500
+HiSeq SBS Kit v4
+HiSeq Rapid SBS Kit v2
+HiSeq Rapid Cluster Kit v2
+TruSeq SBS Kit v3
+TruSeq Rapid Cluster Kit
+Support for Your System
+HiSeq 2000
+HiSeq 2000 Support Links
+HiSeq 2000 System Guide
+Questions and Answers
+Bulletins
+View All HiSeq 2000 Support
+Popular Kits for HiSeq 2000
+TruSeq SBS Kit v3
+TruSeq Cluster Kit v3
+HiSeq Cluster Kit v4
+HiSeq SBS Kit v4
+Nextera Mate Pair Sample Prep Kit
+View All Supported Kits
+Support for Your System
+HiSeq 2500
+HiSeq 2500 Support Links
+HiSeq 2500 System Guide
+Questions and Answers
+Bulletins
+View All HiSeq 2500 Support
+Popular Kits for HiSeq 2500
+HiSeq Cluster Kit v4
+HiSeq SBS Kit v4
+TruSeq Cluster Kit v3
+HiSeq Rapid SBS Kit v2
+HiSeq Rapid Cluster Kit v2
+View All Supported Kits
+Support for Your System
+HiSeq 3000
+HiSeq 3000 Support Links
+HiSeq 3000 System Guide
+Questions and Answers
+Bulletins
+View All HiSeq 3000 Support
+Popular Kits for HiSeq 3000
+HiSeq 3000/4000 Cluster Kit
+HiSeq 3000/4000 SBS Kit
+View All Supported Kits
+Support for Your System
+HiSeq 4000
+HiSeq 4000 Support Links
+HiSeq 4000 System Guide
+Questions and Answers
+Bulletins
+View All HiSeq 4000 Support
+Popular Kits for HiSeq 4000
+HiSeq 3000/4000 Cluster Kit
+HiSeq 3000/4000 SBS Kit
+View All Supported Kits
+Support for Your System
+HiScanSQ
+HiScanSQ Support Links
+HiScanSQ System Guide
+Questions and Answers
+Bulletins
+View All HiScanSQ Support
+Popular Kits for HiScanSQ
+TruSeq Cluster Kit v3
+TruSeq Stranded Total RNA LT Sample Prep Kit
+TruSeq SBS Kit v3
+HumanOmni2.5-8 BeadChip
+HumanCoreExome-24 BeadChip Kit
+Support for Your System
+HiSeq X
+HiSeq X Support Links
+HiSeq X System Guide
+Questions and Answers
+Bulletins
+View All HiSeq X Support
+Popular Kits for HiSeq X
+HiSeq X Ten Reagent Kit v2.5
+HiSeq X Five Reagent Kit v2.5
+TruSeq Nano DNA Library Prep Kit
+TruSeq DNA PCR-Free Library Prep Kit
+Support for Your System
+iScan
+iScan Support Links
+iScan System Guide
+Bulletins
+View All iScan Support
+Popular Kits for iScan
+HumanHT-12 v4 Expression BeadChip Kit
+Infinium HumanMethylation450 BeadChip Kit
+HumanOmniExpress-24 BeadChip Kit
+HumanOmni2.5-8 BeadChip
+HumanCoreExome-24 BeadChip Kit
+Support for Your System
+MiniSeq
+MiniSeq Support Links
+MiniSeq System Guide
+Questions and Answers
+Bulletins
+View All MiniSeq Support
+Support for Your System
+MiSeq
+MiSeq Support Links
+MiSeq System Guide
+Questions and Answers
+Bulletins
+View All MiSeq Support
+Popular Kits for MiSeq
+MiSeq Reagent Kit
+Nextera XT DNA Library Prep Kit
+TruSight DNA Amplicon Sequencing Panel Kits
+PhiX Control v3
+TruSeq Nano DNA LT Library Prep Kit
+View All Supported Kits
+Support for Your System
+MiSeqDx
+MiSeqDx Support Links
+MiSeqDx System Guide
+Bulletins
+View All MiSeqDx Support
+Popular Kits for MiSeqDx
+MiSeqDx Cystic Fibrosis 139-Variant Assay
+MiSeqDx Cystic Fibrosis Clinical Sequencing Assay
+MiSeqDx Universal Kit 1.0
+Support for Your System
+MiSeq FGx
+MiSeq FGx Support Links
+MiSeq FGx System Guide
+Questions and Answers
+Bulletins
+View All MiSeq FGx Support
+Popular Kits for MiSeq FGx
+ForenSeq DNA Signature Prep Kit
+MiSeq FGx Reagent Kit
+View All Supported Kits
+Support for Your System
+NextSeq 500
+NextSeq 500 Support Links
+NextSeq 500 System Guide
+Questions and Answers
+Bulletins
+View All NextSeq 500 Support
+Popular Kits for NextSeq 500
+NextSeq 500/550 Kits
+Nextera XT DNA Library Prep Kit
+TruSeq Small RNA Library Prep Kit
+PhiX Control v3
+TruSeq Stranded mRNA LT Sample Prep Kit
+View All Supported Kits
+Support for Your System
+NextSeq 550
+NextSeq 550 Support Links
+NextSeq 550 System Guide
+Questions and Answers
+Bulletins
+View All NextSeq 550 Support
+Popular Kits for NextSeq 550
+NextSeq 500/550 Kits
+TruSeq Small RNA Library Prep Kit
+Nextera XT DNA Library Prep Kit
+Nextera DNA Sample Prep Kit
+TruSight Rapid Capture Kits
+View All Supported Kits
+Support for Your System
+NeoPrep Library Prep System
+NeoPrep Library Prep System Support Links
+NeoPrep Library Prep System System Guide
+Questions and Answers
+Bulletins
+View All NeoPrep Library Prep System Support
+Popular Kits for NeoPrep Library Prep System
+TruSeq Nano DNA Library Prep Kit for NeoPrep
+TruSeq Stranded mRNA Library Prep Kit for NeoPrep
+View All Supported Kits
+Support for Your System
+NovaSeq 6000
+NovaSeq 6000 Support Links
+NovaSeq 6000 System Guide
+Questions and Answers
+Bulletins
+View All NovaSeq 6000 Support
+Support for Popular Kits
+Nextera DNA Library Prep Kit Support
+MiSeq Reagent Kit Support
+View All Sequencing Kits
+View All Array Kits
+Additional resources
+Share my desktop
+Access support bulletins
+Webinars and Training
+Support for your organization
+View all systems in your organization
+Reorder kits with Quick Order
+Support for your workflow
+Helpful tools and tips
+Support for Your Workflow
+Plan
+Prep
+Run
+Analyze
+Enhanced Custom Protocol Selector
+Kit selector now with library prep and array kits
+See All Support Options
+Share My Desktop
+Access Detailed Support Bulletins
+Clinical
+/Reproductive & Genetic Health
+Empowering informed choices that can change lives
+Parents To Be
+Preconception & Fertility
+Pregnancy
+Genetic Health
+Products & Services
+Parents To Be
+Our advances in technology can improve IVF success rates and your ability to conceive and accurately screen common chromosome conditions of your baby once you are pregnant.
+Preconception & Fertility
+We believe in empowering informed choices in families' reproductive futures. That starts with preconception genetic testing and the latest advancements in preimplantation genetic screening (PGS) and preimplantation genetic diagnosis (PGD).
+Pregnancy
+Our verifi Prenatal Test is raising the standards in noninvasive prenatal testing (NIPT). Delivering timely, reliable answers about common chromosome conditions of a developing fetus — via a simple, single blood draw — it minimizes the need for riskier invasive procedures.
+Genetic Health
+We’re pioneering genetic disease research in rare and undiagnosed diseases and inherited conditions. We also offer IVD carrier screening for cystic fibrosis that provides valuable answers and guidance for the individuals and families affected.
+Products & Services
+Illumina solutions in next-generation sequencing (NGS) and microarray technologies deliver fast, accurate information that can guide choices and transform lives at multiple touchpoints along the reproductive and genetic health journey.
+Learn More
+The verifi Prenatal Test was developed by, and its performance characteristics were determined by Verinata Health, Inc. a wholly owned subsidiary of Illumina, Inc. The VHI laboratory is CAP-accredited and certified under the Clinical Laboratory Improvement Amendments (CLIA) as qualified to perform high complexity clinical laboratory testing. It has not been cleared or approved by the U.S. Food and Drug Administration.
+Innovative technologies
+At Illumina, our goal is to apply innovative technologies to the analysis of genetic variation and function, making studies possible that were not even imaginable just a few years ago. It is mission critical for us to deliver innovative, flexible, and scalable solutions to meet the needs of our customers. As a global company that places high value on collaborative interactions, rapid delivery of solutions, and providing the highest level of quality, we strive to meet this challenge. Illumina innovative sequencing and array technologies are fueling groundbreaking advancements in life science research, translational and consumer genomics, and molecular diagnostics.
+For Research Use Only. Not for use in diagnostic procedures (except as specifically noted).
+© 2017 Illumina, Inc. All rights reserved.
+×
+You are currently viewing the cart in Create Mode

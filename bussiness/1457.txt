@@ -1,0 +1,80 @@
+eCosCentric - the eCos real-time operating system experts
+eCos Product Showcase
+In orbit, on the factory floor, in the lab, in your living room. Millions of units deployed.
+eCosPro Developer's Kits
+All you need for embedded development. Feature rich, reliable, great value.
+Custom Engineering
+Reduce time to market and risk. Fixed price, fixed delivery schedule.
+Support Services
+Keep your project on-track. Responsive and dependable expertise on-tap.
+eCosPro Solutions
+eCosPro Developer's Kits
+The kits provide an all-in-one shrink-wrapped solution for many embedded development projects.
+They include IDE, compilers and tools on the host side, complementing the eCosPro RTOS with its comprehensive range of runtime features on the target side. All backed up by responsive technical support services.
+Royalty and product license fee free. Available for a wide range of development boards.
+Custom Engineering Services
+Let eCosCentric's experts take the risk and complexity out of the system software for your project.
+We deliver high quality, tested and supported software components.
+Work is typically handled on a fixed price, fixed delivery schedule basis -
+insulating your budget and timeline against unwelcome surprises.
+You define the specification and we deliver a custom eCosPro Developer's Kit ported to your hardware;
+along with any specific device drivers, features and custom enhancements that you require.
+Middleware
+eCosCentric provides a range of add-on middleware for customers with particular needs.
+These include USB drivers and classes, graphical user interface libraries, network security, cross platform communications, specialist file systems and much more.
+News & Events
+eCosPro
+v4.0
+eCosCentric introduces a major update to
+the eCosPro Developer's Kit. v4.0
+delivers improvements to tools, Mars
+version of Eclipse IDE, run-time
+enhancements and evaluation copies of
+key eCosCentric middleware
+SMP support for
+ARM added to eCosPro
+eCosCentric adds SMP (Symmetric
+Multi-Processing) for ARM Cortex-A9
+MPCore on the Altera Cyclone V SoC Hard
+Processor System.
+STM32F7 Cortex-M7 added to eCosPro
+eCosCentric adds STM32 F7 platform to eCosPro, delivering first
+architectural port for the ARM Cortex-M7 core.
+Integrated USB Device stack added to eCosPro
+eCosCentric introduces a USB device stack for eCosPro,
+tightly integrated with the eCos IO and IPv6 networking layers.
+Provides network and serial connectivity, complementing host stack
+capability.
+Eclipse Juno support added with eCosPro plugin
+eCosCentric add support for the Eclipse Juno release,
+providing eCosPro developers access to the
+new features and improved workflow.
+Integrated USB Host stack added to eCosPro
+eCosCentric introduces a USB host stack for eCosPro,
+tightly integrated with the eCos file system layer.
+Provides for mass storage and hubs devices with hot-swap
+capability.
+Bonjour conformant Zeroconf networking for eCosPro
+eCosCentric brings the simplicity of Zeroconf networking to eCosPro, allowing
+dynamic device management and service discovery.
+The perfect solution for connecting tablets and smartphones to
+ecos-based network devices.
+Russian satellite uses eCos-based control system
+The Chibis-M satellite launched from the International Space Station
+is on a multi-year mission to study upper atmosphere electrical
+phenomena such as sprites and jets.
+eCosPro's lwIP stack upgraded to IPv6 capable v1.4
+The lightweight IP networking stack integrated with eCosPro has been
+updated to v1.4, adding new features, performance and reliability
+improvements over the previous release.
+NTP (Network Time Protocol) added to eCosPro
+eCosCentric adds NTP support to eCosPro
+and delivers high precision advanced
+clock management to provide unified
+time services.
+eCos RTOS used in Alpha Magnetic Spectrometer
+Final mission of the Space Shuttle Endeavour transports
+Alpha Magnetic Spectrometer to the International Space Station.
+eCos is used in the experiment's main DAQ computers.
+Copyright © eCosCentric Limited
+Privacy & Legal Statements

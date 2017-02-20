@@ -1,0 +1,49 @@
+ST Robotics low cost entry level industrial robot arms
+robotics within reach **
+Low cost bench top robot arms - swift, accurate, easy to program - within reach financially and technically.
+Using a unique low cost industrial technology perfected over many years, ST robots will do most of what bigger robots will do, much that they can't do and at a fraction of the price.
+ST provides professional but affordable, easy-to-use, ready-to-go boxed robots. Unpack it, set it up and start programming using our comprehensive manuals.
+ST don't just make the robots but have a wide range of grippers, end effectors and other accessories so you get the whole system ready to use.
+Click one of the links below or click a picture for more information.
+r12 robot arm
+R12-5
+Low cost 5-axis 500mm jointed (articulated) robot arm.
+Optional electric or pneumatic grippers or vacuum pickup.
+Fast and quiet, amazing performance for the price.
+Optional tool changer and mountings for tools.
+R12-six
+Low cost 6-axis 500mm jointed (articulated) robot arm.
+Optional electric or pneumatic grippers.
+Optional tool changer and mountings for tools.
+r17 robot arm
+R17
+750mm 5-axis jointed (articulated) robot arm, suitable for applications requiring a long reach such as machine access.
+Optional electric or pneumatic grippers, vacuum pickup, tool changers.
+R17-six
+6-axis version.
+R17HPL and R17HS
+Higher payload and higher speed versions of R17.
+r19 laboratory robot
+R19
+550mm 4-axis cylindrical robot arm, suitable for laboratory applications.
+clean, accurate, fast and quiet yet still affordable.
+Optional electric or pneumatic grippers or vacuum pickup.
+Optional linear track.
+cartesian robots
+R15 system
+Custom designed Cartesian Robots up to 6 axes. Suitable for automated assembly, scanning, polishing, palletizing, nuclear handling and decomissioning.
+R14
+Small custom designed 2 and 3-axis Cartesian Robots.
+confidence
+Track record - we have sold hundreds of robots and have over 2 decades of experience.
+We make sure your application is a success with knowledgeable advice before you buy and unlimited technical support after you buy.
+Our Strengths: Simple, reliable industrial designs; smooth, fast, and accurate digital positional control.
+Multi-processor controllers with high speed drives and extensive input/output capability.
+User friendly software using English language vocabulary. Acclaimed manuals and tutorials plus unlimited telephone and email support to get you up and running quickly and painlessly.
+Home
+Videos
+Grippers
+More information
+Contact
+** robotics within reach is a catchphrase first coined by ST in 1989.
+Sierra Tango Robotics dot com      last updated 16.10.16      site map

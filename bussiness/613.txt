@@ -1,0 +1,29 @@
+Cambridge IC
+tel: +44 (0) 1223 413500
+info@cambridgeic.com
+HomeTechnologyProductsApplicationsPartnersNewsContact
+The CAM502 IC is for fast and precise linear and rotary position feedback.
+Applications for Type 6 Precision Through Hole sensors include Embedded Pan and Tilt Angle Sensing.
+...solutions for innovators
+CambridgeIC develops integrated circuits for sensing the precise position of moving parts in machines. We specialise in resonant inductive position sensing, and our team has been leading the development of this technology for over 19 years.
+>
+>>
+Our customers are designers of electromechanical products seeking an innovative edge.  Resonant inductive technology helps simplify their product design and manufacture.  Position sensors are built from conventional PCBs, so that they are accurate, robust and manufacturable at low cost.
+Founded in 2007, CambridgeIC has developed single chip processors and a set of standard sensor designs and integration tools.  These help customers embed resonant inductive sensing inside their products, by drawing on modular and well proven components.
+Latest News
+CambridgeIC Receives a Queen's Award for Enterprise in International Trade
+>
+>>CambridgeIC has won the Queen’s Award for International Trade for its outstanding growth in international sales.>
+Login
+Username
+Password
+Remember Me
+Log in
+Create an account
+Forgot your username?
+Forgot your password?
+By registering with CambridgeIC you will have access to development software.
+Selected downloads
+CAM204 CTU Datasheet
+Terms & Conditions | Legal Statement
+Copyright © 2010 - 2016 Cambridge Integrated Circuits. All Rights Reserved.

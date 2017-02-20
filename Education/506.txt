@@ -1,0 +1,184 @@
+Research Clusters | Using data about research clusters to enhance collaboration
+Research Clusters
+Using data about research clusters to enhance collaboration
+Skip to content
+HomeAbout Research Clusters
+← Older posts
+RCUK Classifications in EPrints
+Posted on February 4, 2013 by David McElroy
+After some spreadsheet ‘tweaking’ I’ve moved our new data registry at Glasgow over to the new updated RCUK Classifications (see earlier post).
+This allows us to use a up to date structured subject classification for all our datasets and potentially roll out into the full repository (Enlighten) at some stage.
+Posted in Uncategorized
+|
+Tagged c4d, dataset, enlighten, eprints, Glasgow, rcuk
+|
+Leave a comment
+RCUK Classifications now Available from RCUK Website
+Posted on January 30, 2013 by Valerie
+Our friends at RCUK have made the subject classifications they use available direct from the RCUK website.
+See the pdf and excel links at the bottom of the page:
+http://www.rcuk.ac.uk/research/Efficiency/Pages/harmonisation.aspx
+We are using these in our fledgling data registry (ePrints based) at the University of Glasgow and may roll them out more widely in our repository.  I am also aware of a number of other organisations who are exploring using these subject classifications in their information systems include bespoke research systems and PURE.
+These classifications seem popular as they cover a wide range of topics and the language is user-friendly and therefore more accessible to the general public and stakeholders who are not research organisations or funders.
+I’ve suggested to RCUK that we think of a method of alerting those using the codes to any changes and also that it might be useful to have a unique id for each subject (we had to add one in our system).
+Posted in News from the Sector
+|
+Tagged c4d, dataset, enlighten, eprints, rcuk, research themes, theme, topic
+|
+6 Comments
+RCUK Classifications Used in Data Registry at University of Glasgow
+Posted on January 25, 2013 by Valerie
+We’ve used the RCUK classifications and code we created for the ‘Engage’ project in our data registry which we have just made live at the University of Glasgow.
+Read more at:
+http://cerif4datasets.wordpress.com/2013/01/25/university-of-glasgow-registry-live/
+Posted in Uncategorized
+|
+Leave a comment
+University of Glasgow Update
+Posted on October 23, 2012 by Valerie
+After discussion with our VP for Research and Enterprise and representatives from our Corporate Communications (web) team we are proceeding with some work running a few of the ‘research clusters’ in the University of Glasgow through the software tools developed during Engage to see how this portrays the research activity of each.
+Will update this blog with progress.
+Last week we provided some materials about Engage and Encapsulate at the final workshops for:
+IRIOS2 http://irios2.wordpress.com/
+Cerif In Action http://cerifinaction.wordpress.com/
+Posted in Uncategorized
+|
+Tagged cerifinaction, encapsulate, irios2
+|
+1 Comment
+Final Project Documentation
+Posted on September 20, 2012 by Valerie
+Hello All,
+Here is our final project report.  The primary audience is University of Glasgow services and senior management however I thought it might be of use to other organisations.
+http://eprints.gla.ac.uk/69724/
+The project has now come to an end however I do intend to publish one or two more blog posts to update the community on what is decided at the University of Glasgow.
+We are interested to hear others views and what they are doing with research classification so feel free to comment below or email me direct at valerie.mccutcheon@glasgow.ac.uk
+Posted in Uncategorized
+|
+Tagged cluster, rcuk, research themes
+|
+6 Comments
+Finding Collaborators
+Posted on September 12, 2012 by Valerie
+Further linkage found with our IRIOS2 project.  The IRIOS2 demonstrator includes functionality to find potential collaborators by searching for projects with specific topics (e.g. RCUK classification).  The demonstrator includes a correspondence system to allow staff to invite interest in collaborations.
+http://irios2.wordpress.com/
+Posted in News from the Sector
+|
+Tagged irios2
+|
+Leave a comment
+Workshop Report
+Posted on September 10, 2012 by Valerie
+Here is the final version of the report from our workshop looking at ‘research themes’.
+Research_Clusters_Workshop_Report_final
+Our final report for the project will be available on this blog in the next few weeks.
+Posted in Uncategorized
+|
+Leave a comment
+← Older posts
+Blogroll
+Dataset Management Project
+Get Support
+Learn WordPress.com
+Research Outcomes
+Fellow JISC Business Intelligence Projects
+BIRD – Business Intelligence Reporting Dashboard
+Bolt-CAP
+Bringing Corporate Data to Life
+Business Intelligence for Learning About Our Students
+Enabling Benchmarking Excellence
+IN-GRiD
+Liverpool University Management Information System (LUMIS)
+RETAIN: Retaining Students Through Intelligent Interventions
+Supporting institutional decision making with an intelligent student engagement tracking system
+Visualisation of Research Strength (VoRS)
+Subscribe to our blog
+Enter your email address to subscribe to this blog and receive notifications of new posts by email.
+Join 8 other followers
+Tags#ambash
+archi
+archimate
+ARMA
+c4d
+casrai
+CERIF
+cerif in action
+cerifinaction
+cluster
+community engagement
+data
+data management
+dataset
+Elsevier
+encapsulate
+Engage
+enlighten
+eprints
+feedback
+Glasgow
+HR
+impact
+industry
+industry code
+irios2
+jisc
+JISC BCE
+Julie Allinson
+library
+map
+metadata
+mice
+Microsoft Academic
+NERC
+OR2012
+Patrick McSweeney
+prototype
+rcuk
+RCUK Outcomes
+REF
+Research Gateway
+research methodology
+research outputs
+ResearchRevealed
+research system
+research themes
+scottish enterprise
+SFC
+sic
+Smartsimple
+sme
+snowball
+tagging
+theme
+Thomson Reuters
+topic
+visualisation
+Wellcome
+workshopArchives
+February 2013
+January 2013
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+April 2011
+March 2011
+February 2011
+Research Clusters
+Blog at WordPress.com.
+Research Clusters
+Create a free website or blog at WordPress.com.
+Post to
+Cancel

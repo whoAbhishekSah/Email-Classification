@@ -1,0 +1,191 @@
+MusicNet Blog
+MusicNet Blog
+Canonical URIs for Classical Musical Composers
+AboutPeopleMusic Linked Data Workshop
+RSS
+Add MusicNet data to COPAC with ‘Composed’ bookmarklet
+03
+Oct
+Here’s a great example of how the MusicNet data can be used to enhance existing sites. The ‘Composed’ bookmarklet decorates an existing COPAC composer record with all the extra information that MusicNet contains about that person.
+Head on over to this blog post for more details. Incidentally this was created as an entry to the UK Discovery competition we blogged about earlier in the year.
+So, who’s going to turn this into a GreaseMonkey script so that the bookmarklet isn’t need?
+No Comments
+Posted by Joe Lambert in Dissemination
+UK Discovery Developer Competition features the MusicNet dataset
+11
+Jul
+The MusicNet dataset has been included as part of the UK Discovery global developer competition. The rules of the competition are simple, build an app/tool that makes use of at least one of the 10 featured datasets.
+UK Discovery is working with libraries, archives and museums to open up data about their resources for free re-use and aggregation. DevCSIis working with developers in the education sector, many of who will have innovative ideas about how to exploit this open data in new applications.
+This Developer Competition runs throughout July 2011. It starts on Monday 4 July – Independence Day, a good day for liberating data – and closes on Monday 1 August. It’s open to anyone anywhere in the world.
+For more information about the competition see http://discovery.ac.uk/developers/competition/. Prizes are available for the best entrants, competition ends Monday 1 August 2011.
+No Comments
+Posted by Joe Lambert in Dissemination
+Final Product Post: MusicNet & The Alignment Tool
+29
+Jun
+This is a final report and roundup of the MusicNet project. We’ll mainly be discussing the primary outputs of the project but will also cover an overview of the project as a whole.
+We have two primary prototypal outputs/products from the project, they are:
+The Alignment Tool
+The MusicNet Codex
+We’ll discuss each of these in turn and address what they are, who they are for and how you can use them in your own projects.
+Read the rest of this entry »
+7 Comments
+Posted by Joe Lambert in Dissemination, Documentation, Software
+Tweets from Music Linked Data Workshop (#MLDW)
+24
+May
+Here are the archived tweets from the Music Linked Data Workshop we held at JISC London earlier this month. Slides from the event can be found here.
+Read the rest of this entry »
+14 Comments
+Posted by Joe Lambert in Dissemination, Workshop
+MLDW Slides
+22
+May
+We are pleased to post below the slides from the presentations at the Music Linked Data Workshop (JISC, London, 12 May 2011). Thank you to our presenters for providing their slides.
+D. Bretherton, D. A. Smith, J. Lambert, mc schraefel. MusicNet: Aligning Musicology’s Metadata
+J. S. Downie, D. De Roure, K. Page.Towards Web-Scale Analysis of Musical Structure
+S. Dixon, C. Mesnage, B. Norton. LinkedBrainz Live
+N. Humfrey. BBC Music – Using the Web as our Content Management System
+S. Tuppen. Early Music Online: Opening up the British Library’s 16th-Century Music Books
+J-P. Fauconnier, J. Roumier. Musonto – A Semantic Search Engine Dedicated to Music and Musicians
+C. Inskip. Listening to Movies – Creating a User-Centred Catalogue of Music for Films
+12 Comments
+Posted by David Bretherton in Dissemination, Workshop
+MLDW Programme & Abstracts
+10
+May
+Music Linked Data Workshop, JISC, London, 12 May 2011
+Programme
+10:30 – Welcome
+Morning Session: Research Papers
+Chaired by Richard Polfreman (Music, University of Southampton)
+10:35 – MusicNet: Aligning Musicology’s Metadata
+David Bretherton, Daniel Alexander Smith, Joe Lambert and mc schraefel (Music, and Electronics and Computer Science, University of Southampton)
+11:05 – Towards Web-Scale Analysis of Musical Structure
+J. Stephen Downie (Graduate School of Library and Information Science, University of Illinois at Urbana-Champaign), David De Roure (Oxford e-Research Centre, University of Oxford) and Kevin Page (Oxford e-Research Centre, University of Oxford)
+11:35 – LinkedBrainz Live
+Simon Dixon, Cedric Mesnage and Barry Norton (Centre for Digital Music, Queen Mary University of London)
+12:05 – BBC Music – Using the Web as our Content Management System
+Nicholas Humfrey (BBC)
+12:35 – Lunch
+Afternoon Session: Funding & Project Presentations
+Chaired by David Bretherton (Music, University of Southampton)
+13:30 – JISC Funding Roadmap for 2011-12
+David Flanders (JISC)
+13:45 – Early Music Online: Opening up the British Library’s 16th-Century Music Books
+Sandra Tuppen (British Library)
+14:00 – Musonto – A Semantic Search Engine Dedicated to Music and Musicians
+Jean-Philippe Fauconnier (Université Catholique de Louvain, Belgium) and Joseph Roumier (CETIC, Belgium)
+14:15 – Listening to Movies – Creating a User-Centred Catalogue of Music for Films
+Charlie Inskip (freelance music consultant)
+14:30 – Q & A and Discussion Session
+Chaired by Geraint Wiggins (Department of Computing, Goldsmiths, University of London)
+16:00 – End
+Abstracts for Morning Research Papers
+MusicNet: Aligning Musicology’s Metadata
+David Bretherton, Daniel Alexander Smith, Joe Lambert and mc schraefel
+(Music, and Electronics and Computer Science, University of Southampton)
+As more resources are published as Linked Data, data from multiple heterogeneous sources should be more rapidly discoverable and automatically integrable, enabling it to be reused in contexts beyond those originally envisaged. But Linked Data is not of itself a complete solution. One of the key challenges of Linked Data is that its strength is also a weakness: anyone can publish anything. So in music, for instance, 17 sources may independently publish data about ‘Schubert’, but there is no de facto way to know that any of these Schuberts are the same, because the sources are not aligned. Alignment is a prerequisite for usable Linked Data, without which resources are effectively stranded rather than integrated. To begin to address this, the MusicNet project has minted URIs for composers, and has published as RDF basic biographical data and – crucially – alignment information for several leading providers of musicological data.
+Towards Web-Scale Analysis of Musical Structure
+J. Stephen Downie (Graduate School of Library and Information Science,
+University of Illinois at Urbana-Champaign), David De Roure (Oxford
+e-Research Centre, University of Oxford) and Kevin Page (Oxford
+e-Research Centre, University of Oxford)
+SALAMI (Structural Analysis of Large Amounts of Music Information) is an ambitious computational musicology project which applies a computational approach to the huge volume of digital recordings now available from such sources as the Internet Archive. It aims to deliver a very substantive corpus of musical analyses in a common framework for use by music scholars, students and beyond, and to establish a web-based methodology and tooling which will enable others to add to this in the future. In its first phase the project has conducted a significant exercise in ground truth collection with 1000 recordings analysed by music students and shortly to be published as open Linked Data.
+LinkedBrainz Live
+Simon Dixon, Cedric Mesnage and Barry Norton (Centre for Digital Music, Queen Mary University of London)
+The MusicBrainz dataset is a large open (openly-licensed and open to contribution) collection of metadata about music, containing information on artists, their recorded works, and acoustic fingerprints. The LinkedBrainz project aims at making MusicBrainz Linked Data compliant. Linked Data principles require that the data is made available using an RDF serialisation over HTTP, and that this is interlinked with existing datasets. Linked Data Best Practice encourages an endpoint where queries can be made using the SPARQL query language for RDF. The LinkedBrainz project is rolling out an RDFa annotation of the relevant MusicBrainz pages, and is preparing a SPARQL endpoint and RDF-based dereferencing.  In this talk we will give further details on progress and future work, and will show the utility of the dataset as Linked Data by demonstrating the ease with which ‘mash-ups’ can be formed, based on interlinkage with resources such as DBPedia and BBC Music Reviews.
+BBC Music – Using the Web as our Content  Management System
+Nicholas Humfrey (BBC)
+The BBC Music site provides a page for every artist played on the BBC. These pages use persistent web identifiers for each artist, which serve as an aggregation point for all content and information. By reusing structured data available elsewhere on the Web – the Web becomes our Content Management System. The core metadata is then enhanced with content, such as videos and reviews, from the BBC, thereby providing a compelling audience proposition and also making the BBC content re-aggregatable by other websites, thus contributing to the web as a whole.
+9 Comments
+Posted by David Bretherton in Dissemination, Workshop
+AES 2011: W1, Music and Semantic Web
+02
+May
+MusicNet, represented by David, will be participating in the workshop ‘Music and Semantic Web’ at the 130th Audio Engineering Society in London, 13-16 May 2011. The workshop will be chaired by David De Roure (Uni. of Oxford) and Yves Raimond (BBC); other panel members include Gregg Kellogg (Connected Media Experience), Alexandre Passant (Seevl) and Evan Stein (Decibel). Come along if you can!
+Further details: http://www.aes.org/events/130/workshops/?ID=2639
+4 Comments
+Posted by David Bretherton in Dissemination
+Progress Update
+10
+Mar
+Its time for a short update on how the project is progressing. We’ve had an incrementally feature-full prototype of our Codex available on our project web since January and we’ve been working hard to improve it. If you haven’t already then head on over to http://musicnet.mspace.fm/codex and search for a composer.
+What have we added since January?
+Content Negotiation
+One of the most important features we’ve added since January is content-negotiation. This enables our Codex to serve up the most appropriate content dependant on the ‘Accept’ header received in the HTTP request. For a more detailed writup see Dan’s blog post on the MusicNet URI Scheme.
+A simple example would be:
+Franz Schuberts URI is: http://musicnet.mspace.fm/person/7ca5e11353f11c7d625d9aabb27a6174
+If we request this from a regular web browser we are dereferenced to the HTML content at: http://musicnet.mspace.fm/person/7ca5e11353f11c7d625d9aabb27a6174.html
+However, if we request this URI from a semantic web browser we are dereferenced the RDF content at: http://musicnet.mspace.fm/person/7ca5e11353f11c7d625d9aabb27a6174.rdf
+Data Enrichment
+We have also been working hard to leverage the data we’ve aligned over the last year to enrich the information provided by our various data partners. Last year we met with the LinkedBrainz team and they provided us with a small set of composer data from MusicBrainz for us to align against. This has allowed us to draw additional information from other open data sources such as the BBC, Wikipedia/DBPedia, IMDB and even the New York Times to provide a more complete representation of the data available about a composer.
+This data is available in both the RDF and the HTML representation of the Codex.
+e.g. Schubert, Franz (HTML | RDF)
+Alignment Progress
+Alignment is moving on well and we’re currently at 89%.
+What is left to do?
+One of the discussions the MusicNet team has been involved in since the start of the project has been data.ac.uk and the need for in perpetuity hosting of URI’s minted by JISC projects.
+We’re currently in discussions to be one of the first projects to be able to make use of this domain and hope that by the end of the project we’ll be able to move our Codex and URI’s over to a suitable domain such as musicnet.data.ac.uk. This will ensure that the data we’ve exposed will be available after the project’s end.
+MusicNet Workshop
+We’re also hosting a small workshop on the 12th May at JISC HQ to try and expose more people to the potential of the MusicNet URI’s. The workshop will also be looking more broadly at the current Music & Linked Data landscape & should cater to a broad audience. It’s filling up very quickly so if you’re interested and haven’t yet made contact please do so soon.
+For more details see our announcement
+48 Comments
+Posted by Joe Lambert in Documentation
+Strata 2011 – Big Data
+07
+Mar
+The internet exerts an unprecedented equalizing force in bringing access to information to everyone on the planet. More information is available (and mainly for free) now than ever before, and yet it is becoming clear that access to information is not enough. The infrastructure to store and share data within sectors is a vital part of the ecosystem, and yet it is often treated as an afterthought. We need a radical change in the way we develop infrastructure in the higher education sector, to ensure that services consumed and funded by the public can do their job as efficiently as possible and at the best possible price.
+http://cottagelabs.com/strata-2011-review/
+This is key, we’ve found that having data isn’t enough (although its a great start!). Making that data available in some meaningful way is more of a challenge. With MusicNet we’re striving to make readily available Musicology information available in a single place under a single search. We’re leveraging Linked Data technologies to better allow others to integrate their own data with our project outputs.
+3 Comments
+Posted by Joe Lambert in Uncategorized
+Music Linked Data Workshop
+11
+Feb
+Preliminary Announcement; Call For Exhibitors and Attendees
+MusicNet is pleased to announce a workshop on Music Linked Data, to be held on 12 May 2011, 10:30-16:00. The event will take place at the JISC London meeting rooms (Brettenham House (South Entrance), 5 Lancaster Place, London WC2E 7EN).
+The morning will feature presentations by the MusicNet team (University of Southampton; MusicNet), David De Roure (University of Oxford; SALAMI), Simon Dixon (Queen Mary UoL; LinkedBrainz), Nicholas Humfrey (BBC; BBC’s music linked data), and David Flanders (JISC; JISC’s plans for linked data). In the afternoon presenters and other exhibitors will be available to answer questions, offer advice on using linked music data, and provide ‘mini-tutorials’ to attendees.
+The event will be of equal interest to:
+computer scientists with an interest in music;
+music technologists;
+music librarians and library scientists;
+digital humanities scholars and digital musicologists;
+musicologists planning research projects with an online component or website.
+Registration
+The workshop is now fully booked – sorry!
+However, places may still be available for the AES ‘Music and Semantic Web’ Workshop on 13th May. See http://www.aes.org/events/130/workshops/?ID=2639 for details.
+Further Information
+Further information and updates about the workshop will be published at http://musicnet.mspace.fm/blog/music-linked-data-workshop/ in due course. If you have any questions, please email David at D.Bretherton@soton.ac.uk.
+15 Comments
+Posted by David Bretherton in Dissemination, Workshop
+« Older Entries
+Pages
+About
+Music Linked Data Workshop
+People
+Categories
+Discussion
+Dissemination
+Documentation
+Project Plan
+Software
+Uncategorized
+Workshop
+Archives
+October 2011
+July 2011
+June 2011
+May 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+ChocoTheme by .css{mayo} | powered by WordPress
+Entries (RSS) and Comments (RSS)

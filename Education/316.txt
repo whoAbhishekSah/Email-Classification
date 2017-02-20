@@ -1,0 +1,168 @@
+ocd » Open.Lboro
+Search
+Open.Lboro
+Open Data projects at Loughborough University
+Home
+About
+Credits
+Equipment Sharing
+Open Course Data Project
+Research Data Management
+Tag Archive: ocd
+Mar
+10
+Open Course Data at Loughborough – Phase 2 Final Project Report
+Read Loughborough University Open Course Data Phase 2 Final Report on Scribd
+Tags: ocd
+Leave comment
+Mar
+07
+Open Course Data: We’re Live!
+Today we threw the switch and made our Open Course Data feed live, as shown in these screenshots from the JISC XCRI-CAP Aggregator site:       Our data feed can now be found by all three suggested “Cool URIs”: http://lboro.ac.uk/courses.xml http://lboro.ac.uk/data/courses.xml http://data.lboro.ac.uk/courses.xml We’re using the Open Government License for this. There are still a …
+Continue reading »
+Tags: ocd
+Leave comment
+Jan
+27
+Open Course Data at Loughborough (Project Summary Video)
+Tags: ocd
+Leave comment
+Nov
+24
+Open Course Data – November 2012 Interim Report to JISC
+Section One: Summary In our previous interim report we noted an intent to build our initial prototype of the Open Course Data system around the University’s Web Content Management System (CMS), Site Manager from Terminal Four.  This work has now taken place and a feed of course data in the XCRI-CAP format is being generated …
+Continue reading »
+Continue reading »
+Tags: ocd
+Leave comment
+Nov
+24
+Open Course Data – Terminal Four Site Manager CMS Formatter for XCRI-CAP Generation
+This is the Terminal Four Site Manager CMS “formatter” which takes the values for the fields defined in the content templates, and turns them into an XCRI-CAP XML record describing a course. We regard this as code for the purposes of copyright/licensing, and as per the terms of the JISC project grant we are making …
+Continue reading »
+Continue reading »
+Tags: ocd
+Leave comment
+Nov
+24
+Open Course Data – Terminal Four Site Manager Content Template Elements for XCRI-CAP
+This table shows the Site Manager CMS content template elements that we have been working with to describe a course.  There are a lot of them, but we need to break out and apply formatting etc to individual fields.   Name Description Type Required Max. Size Name The name of the piece of content Plain …
+Continue reading »
+Continue reading »
+Tags: ocd
+Leave comment
+Nov
+24
+Open Course Data – Centralised XCRI-CAP Course Information using Terminal Four Site Manager
+Centralised XCRI-CAP Course Information using Terminal Four Site Manager   This specification was developed for Terminal Four, for their work on integrating XCRI-CAP generation with our online prospectus   Overview The University is looking at using Site Manager to generate a course marketing information feed using the XCRI-CAP standard. As part of this work, the …
+Continue reading »
+Continue reading »
+Tags: ocd
+Leave comment
+Nov
+05
+Open Course Data – Course and Department Information Management via Site Manager CMS
+Tags: ocd
+Leave comment
+Nov
+05
+Open Course Data – Graphical Overview of XCRI-CAP 1.2 Specification
+Tags: ocd
+Leave comment
+Nov
+05
+Open Course Data – Representing Course Information in Site Manager CMS
+Tags: ocd
+Leave comment
+Nov
+02
+Open Course Data – Evaluation Plan
+V2 – October 2012 No Timing Factor to Evaluate Questions to Address Method(s) Measure of Success 1 Interim reporting +Project close Generation of XCRI-CAP feed Inclusion of key data, addressing of issues around complexity of course data versus XCRI-CAP fields (e.g. entry requirements) To be reviewed by project team and stakeholders Loughborough satisfied with …
+Continue reading »
+Tags: ocd
+Leave comment
+Jun
+20
+Presentation at Open Course Data Technical Day, June 2012
+Open Course Data at Loughborough University View more presentations from Martin Hamilton Here is a presentation delivered by Martin Hamilton at the JISC Open Course Data programme Technical Day in London on 20th June 2012.
+Tags: ocd
+Leave comment
+May
+25
+Open Course Data – May 2012 Interim Report to JISC
+Section One: Summary The project has made good progress with its initial work activity to review existing processes in and around the area of course marketing.  A number of “quick wins” have been identified (see report available via the project blog), and it has been agreed by key stakeholders that we will concentrate our efforts …
+Continue reading »
+Continue reading »
+Tags: ocd
+Leave comment
+May
+17
+Open Course Data – Review of Prospectus Processes and Recommendations
+1.1  Information for Prospective Students The type of information provided within the two student prospectuses (undergraduates and postgraduate) includes the following: Courses available: for undergraduate, postgraduate taught, and postgraduate research. Entry requirements: for each of the courses. Course structure: Example modules for each year for the degree programme. General information: about the degree programme, placement …
+Continue reading »
+Continue reading »
+Tags: ocd
+Leave comment
+May
+17
+Open Course Data – Business Process for the Prospectus and UCAS Course Information
+Tags: ocd
+Leave comment
+May
+17
+Open Course Data – Ideal Process Map
+Tags: ocd
+Leave comment
+May
+17
+Open Course Data – Postgraduate Prospectus Process
+Tags: ocd
+Leave comment
+May
+17
+Open Course Data – Undergraduate Prospectus Process End-of-cycle
+Tags: ocd
+Leave comment
+May
+17
+Open Course Data – Undergraduate Print Prospectus Process
+Tags: ocd
+Leave comment
+May
+17
+Open Course Data – Undergraduate Web Prospectus Process
+Tags: ocd
+Leave comment
+May
+17
+Open Course Data – Data Mappings to XCRI-CAP
+Undergraduate Example – BSc (Hons) Geography with Economics   XCRI feed given in bold; comments given in italics.     <course>   (2 identifiers – one would appear to be a direct link and another just the unique identifier)   <dc:identifier>http://www.lboro.ac.uk/study/undergraduate/courses/departments/geography/geographywitheconomics/</dc:identifier> Marketing – web-prospectus
+Continue reading »
+Tags: ocd
+Leave comment
+May
+17
+Open Course Data – Initial Assessment of Data Availability
+The XCRI feed requires a variety of course data, generally at programme (course) and presentation[1] level, with common data relating to the provider. This summary is supplemented by an annotated sample XCRI feed for an undergraduate programme at Loughborough University (BSc Geography with Economics), the production of which helped inform the findings. This sample feed …
+Continue reading »
+Continue reading »
+Tags: ocd
+Leave comment
+Recent Posts
+Open Course Data at Loughborough – Phase 2 Final Project Report
+Open Course Data: We’re Live!
+Open Course Data at Loughborough (Project Summary Video)
+Open Course Data – November 2012 Interim Report to JISC
+Open Course Data – Terminal Four Site Manager CMS Formatter for XCRI-CAP Generation
+Archives
+March 2013
+January 2013
+November 2012
+June 2012
+May 2012
+Open Data on Twitter-
+Twitter Goodies - Search
+Copyright
+© 2012 Loughborough University.Open.Lboro is made available under a Creative Commons Attribution 3.0 Unported(CC BY 3.0) license
+Return to top
+Powered by WordPress and the Graphene Theme.

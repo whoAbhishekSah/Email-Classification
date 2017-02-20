@@ -1,0 +1,162 @@
+Test PERTAINS suggestion service API
+PERTAINS - Preliminary term suggestion service
+The service consists of a series of URI based API calls formatted by appending the call name and associated parameters to the main service URL. The returned data is a JSON structured string. The data model used for the returned data is shown in the following diagram:
+API calls
+skos.suggest
+skos.suggest2
+base.getnode
+base.getnodes
+At the bottom of the page is an API tester which allows you to experiment with some of these calls.
+skos.suggest
+Arguments
+pattern (required)
+The API call uses case insensitive boolean full-text matching against the preferred and alternate labels of SKOS Concepts. The underlying knowledge structure is the Dewey Decimal classification (DDC). The use of search operators will result in more refined matching scores - for a complete description of Boolean full-text matching including the available full text search operators and their effects refer to http://dev.mysql.com/doc/refman/6.0/en/fulltext-boolean.html
+aoi (optional)
+Area of interest. This is a comma separated list of DDC summary codes to filter suggestions. If omitted, all suggestions will be returned, if included only suggestions originating from the specified area(s) will be returned
+maxRows (optional)
+Maximum number of matches to return. If omitted, the default is 100
+Example
+Call: <url>/?call=skos.suggest&pattern=moon&maxRows=100
+Response is a JSON encoded array of NodeMatch, with an array of LiteralMatch as the nodeLinks attribute. As the match is performed against SKOS preferred and alternate labels, the type of returned nodes can be assumed to be SKOS Concepts, even if not made explicit in the nodeLinks. The response data is sorted in descending order of NodeMatch score, which is (currently) the average of LiteralMatch values for the node. Note the response does not contain full data for each node - just the labels with a non-zero match score.
+[
+{
+"nodeID":"http://dewey.info/concept/en/edn/E22/22013353",
+"score":1.0,
+"nodeLinks": [
+{"score":1.0,"literalValue":"Planets, sun, moon","linkType":"http://www.w3.org/2004/02/skos/core#prefLabel"}
+]
+},
+{
+"nodeID":"http://dewey.info/concept/en/edn/E22/2201335304",
+"score":1.0,
+"nodeLinks": [
+{"score":1.0,"literalValue":"Special topics of planets, sun, moon","linkType":"http://www.w3.org/2004/02/skos/core#prefLabel"}
+]
+},
+{
+"nodeID":"http://dewey.info/concept/en/edn/E22/220133532",
+"score":1.0,
+"nodeLinks": [
+{"score":1.0,"literalValue":"Moon","linkType":"http://www.w3.org/2004/02/skos/core#prefLabel"},
+{"score":1.0,"literalValue":"Moon - astrology","linkType":"http://www.w3.org/2004/02/skos/core#altLabel"}
+]
+}
+]
+HTTP Response Codes
+200: Request Completed Successfully
+The call was successful, and the data is contained in the response
+400: Bad Request
+The requested method is unknown, or is incorrectly called
+404: Record Not Found
+No matching records were returned by the call
+skos.suggest2
+Arguments
+pattern1, pattern2, pattern3 (all optional)
+Multiple patterns with same general usage as for skos.suggest, but match scores get weighted as follows:
+match on pattern1 = score multiplied by 1.0
+match on pattern2 = score multiplied by 0.5
+match on pattern3 = score multiplied by 0.25
+Example
+Call: <url>/?call=skos.suggest2&pattern1=moon&pattern2=lunar&20exploration
+Response is a JSON encoded array of NodeMatch, same format as for the original call to skos.suggest
+base.getnode
+Arguments
+nodeID (required)
+URL encoded identifier for the node
+includeInverseLinks (optional)
+Whether to include nodeLinks pointing to this node (default false)
+Example
+Call: <url>/?call=base.getnode&nodeID=http://dewey.info/concept/en/edn/E22/2201335304
+The response is a JSON encoded Node structure (in this example a SKOS Concept, but could be any type):
+{
+"nodeID":"http://dewey.info/concept/en/edn/E22/2201335304",
+"nodeLinks":[
+{"linkTo":"http://www.w3.org/2004/02/skos/core#Concept", "linkType":"http://www.w3.org/1999/02/22-rdf-syntax-ns#type"},
+{"linkTo":"http://dewey.info/scheme/en/edn/E22","linkType":"http://www.w3.org/2004/02/skos/core#inScheme"},
+{"literalValue":"Special topics of planets, sun, moon","linkType":"http://www.w3.org/2004/02/skos/core#prefLabel"},
+{"literalValue":"1996-06-01T00:00:00.0-05:00","linkType":"http://purl.org/dc/terms/created"},
+{"literalValue":"OCoLC-D","linkType":"http://purl.org/dc/terms/creator"},
+{"literalValue":"1996-06-01T00:00:00.0-05:00","linkType":"http://purl.org/dc/terms/modified"},
+{"linkTo":"http://dewey.info/concept/en/edn/E22/22013353042","linkType":"http://www.w3.org/2004/02/skos/core#narrower"},
+{"linkTo":"http://dewey.info/concept/en/edn/E22/22013353044","linkType":"http://www.w3.org/2004/02/skos/core#narrower"},
+{"linkTo":"http://dewey.info/concept/en/edn/E22/22013353","linkType":"http://www.w3.org/2004/02/skos/core#broader"}
+]
+}
+HTTP Response Codes
+200: Request Completed Successfully
+The call was successful, and the data is contained in the response
+400: Bad Request
+The requested method is unknown, or is incorrectly called
+404: Record Not Found
+No matching records were returned by the call
+base.getnodes
+Arguments
+nodeIDS (required)
+a comma separated list of (URL encoded) node identifiers
+includeInverseLinks (optional)
+Whether to include nodeLinks pointing to these nodes (default false)
+Example
+Call: <url>/?call=base.getnodes&nodeIDS=http%3A//dewey.info/concept/en/edn/E22/2205514653,http%3A//dewey.info/concept/en/edn/E22/220551
+The response is a JSON encoded array of Node (in this example SKOS Concepts, but could be any types):
+[
+{
+"nodeID":"http://dewey.info/concept/en/edn/E22/2205514653",
+"nodeLinks":[
+{"linkTo":"http://www.w3.org/2004/02/skos/core#Concept","linkType":"http://www.w3.org/1999/02/22-rdf-syntax-ns#type"},
+...
+{"literalValue":"Water temperatures
+-
+oceanography","linkType":"http://www.w3.org/2004/02/skos/core#altLabel"}
+]
+},
+{
+"nodeID":"http://dewey.info/concept/en/edn/E22/220551",
+"nodeLinks":[
+{"linkTo":"http://www.w3.org/2004/02/skos/core#Concept","linkType":"http://www.w3.org/1999/02/22-rdf-syntax-ns#type"},
+...
+{"literalValue":"International Geophysical Year, 1957-1958","linkType":"http://www.w3.org/2004/02/skos/core#altLabel"}
+]
+}
+]
+HTTP Response Codes
+200: Request Completed Successfully
+The call was successful, and the data is contained in the response
+400: Bad Request
+The requested method is unknown, or is incorrectly called
+404: Record Not Found
+No matching records were returned by the call
+API Tester
+The following example will make a call to skos.suggest with the entered term (initially 'moon') as the pattern parameter, and maxRows parameter preset to 100. The returned data is already sorted in descending order by overall score, and is parsed into a table for display. Note - multiple matches may occur within preferred and alternate labels.
+Query Operators
++ = term must be present (AND)
+- = term must NOT be present (NOT) (Note: lack of + or - implies 'OR')
+* = wildcard - zero or more of any character
+> = increase term influence in score
+< = decrease term influence in score
+~ = negate term influence in score
+() = used for grouping (i.e. to apply a single operator to a group of terms)
+"" = a phrase enclosed in double quotes must match completely
+Query Examples
+Below are some examples using the various query operators. Copy and paste into the textbox to use. Alternatively enter your own query directly into the text box and click 'suggest':
++(moon lunar) +flight* ~unmanned >manned
++(ocean* sea* water*) >temperature*
++wales +(castle castell)
+>powys <gwynedd
++music +guitar* <blue* >jazz
++(america* states usa) +slave* >(abolition emancipation) ~law -poetry -fiction
++roman -catholic* deity god*
+Area of Interest
+Specifying a value for 'AOI' restricts suggestions to terms within specified subject areas. In the ID, the DDC Summary identifier is the 4th to 6th character of the numeric suffix e.g. http://dewey.info/concept/en/edn/E22/22052332. So e.g. Searching on moon, AOI 523 is Science > Astronomy > Specific celestial bodies & phenomena - therefore excluding suggestions about Astrology, Author names etc. See DDC Summaries for more details). This facilitates the implementation of some personalisation for suggestions.
+Find:
+AOI:
+(url called)
+0 results
+Clicking on any result link will make a call to base.getnode to show a detailed breakdown of the available information for the node. Clicking on a link within these node details will make a further call to base.getnode
+(url called)
+Experimental alternative call to skos.suggest2. The returned data is again sorted in descending order by overall score.
+Pattern1:
+Pattern2:
+Pattern3:
+AOI:
+(url called)
+0 results

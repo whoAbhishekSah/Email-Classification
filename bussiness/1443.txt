@@ -1,0 +1,79 @@
+Yaffs | A Flash file system for embedded use
+Home
+Downloads
+Documents
+Support
+Contact
+About us
+Robust Flash Storage Since 2002
+NEW! VxWorks + Yaffs!
+Now Yaffs for VxWorks offers an easy way to combine the robustness offered by Yaffs with the proven safety of VxWorks.Find out more …
+Home
+Yaffs (Yet Another Flash File System) is an open-source file system specifically designed to be fast, robust and suitable for embedded use with NAND and NOR Flash.  It is widely used with Linux, RTOSs, or no OS at all, in consumer devices. It is available under GNU Public License, GPL, or on commercial terms from Aleph One.
+Yaffs is Open Source...
+You can have a look at the code at any time. Download it now! And it’s suitable for GPL and commercially licensed projects.
+Read more
+Royalty Free...
+Whether you use Yaffs under the GNU General Public Licence or under a commercial licence, Yaffs is free of any per-unit royalty.
+Read more
+Tried and tested in millions of devices...
+Yaffs is widely used in Linux and proprietary commercial RTOSs. It’s been included in hundreds of devices, and shipped as part of Google’s Android, with millions of units sold.
+Read more
+Yaffs is a safe choice...
+Yaffs has a long history, coupled with continuing development. There are thousands of developers who have used it, and it’s deployed in many millions of devices.
+Read more
+An active community...
+There’s an active community of people who use Yaffs and who have developed with Yaffs, just a click or two away.
+Read more
+Suitable for open and closed source projects...
+If you want to use Yaffs on an Open Source project, then go ahead and download the GNU General Public Licence, version 2  form now.  It is also available under a commercial Licence without the obligations entailed in the GNU GPL version.
+Read more
+Yaffs is fully supported...
+Yaffs support is available through the Yaffs community but for those problems that aren’t suitable for a public forum, we offer consultancy with direct access to our developers.
+Read more
+A robust flash file system...
+After more than 100,000 >random< power-failures during reading or writing, a test file showed NO data corruption at all!
+Read more
+For closed source projects - try before you buy...
+If you think that Yaffs might be what you need, you can test it without buying a licence.
+Read more
+A file system designed for Flash memory...
+Yaffs is designed to ensure data safety, whilst offering the advantages of NAND Flash. It works with SLC and MLC NAND Flash and also with NOR Flash.  See the document   Considerations in Using a Flash File System  for a discussion of the importance of reliability.
+Read more
+Booting is fast...
+It is important for a Flash filesystem to boot fast, so boot speed was a fundamental consideration in the design of Yaffs.
+Read more
+Data is safe with Yaffs...
+Yaffs is designed for data safety and rigorously tested to ensure it does the best possible to keep users’ data safe. It’s been crash-tested it hundreds of thousands of times …
+Read more
+High and low level interfaces...
+Yaffs has high and low level interfaces, for Posix compliance and more direct use, making it easy to integrate with Linux and other RTOSs.
+Read more
+Cross-platform and portable...
+Yaffs is OS- and CPU- and Endian-independent. It’s been designed to be easy to port, and has been ported repeatedly by many users.
+Read more
+Predictable and performance oriented
+Yaffs has highly optimised and predictable garbage collection strategies. These give it high performance and make it very deterministic when compared with similar file systems.
+Read more
+Memory efficiency
+Yaffs has a smaller memory footprint than most other log-structured Flash file systems.
+Read more
+Highly configurable - matches your Flash memory
+Yaffs is highly configurable, making it possible to work with various Flash geometries, Error Correction and caching options according to your needs
+Read more
+Search
+Search this site:
+Text Size
+Increase
+Decrease
+Normal
+Current Size: 100%
+Considerations in Choosing a Flash File System
+Our paper Considerations in Choosing a Flash File System details the problems specific to Flash and describes why file systems not specifically designed for Flash RAM can fail. It’s available as a PDF too.
+Technical
+Read How Yaffs Works for technical details…
+Yaffs structure
+A picture is worth thousands of words: this diagram shows how the layers that make up Yaffs fit together.
+Who’s using Yaffs?
+T: +44 (0)1223 811679 E: info@aleph1.co.uk
+Legal

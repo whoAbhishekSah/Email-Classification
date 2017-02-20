@@ -1,0 +1,117 @@
+KRDS/I2S2 | Jisc | Charles Beagrie Ltd
+Beagrie.com
+Home
+Services
+Clients
+People
+Resources
+KRDS
+Publications
+Contact
+News
+Project Funder
+JISC
+This work has been funded by the Joint Information Systems Committee
+KRDS/I2S2 Digital Preservation Benefit
+Analysis Tools Project
+Introduction
+This web page has been set-up to support
+dissemination of information on the âKRDS/I2S2 Digital Preservation Benefit
+Analysis Toolsâ Project. The project was funded between February-July 2011 as part of the
+Preservation tools strand of the JISC 15/10 programme.
+The project Â aimed to test, review and
+promote combined use of the Keeping Research Data Safe (KRDS) Benefits
+Framework and the I2S2 Value Chain Analysis tools for assessing the
+benefits of digital
+preservation of research data. It extended their utility to and adoption
+within the JISC community by providing user review and guidance for the
+tools
+and creating an integrated toolset. The project consortium consisted of a
+mix of
+user institutions, projects, and disciplinary data services committed to
+the
+testing and exploitation of these tools and the lead partners in their
+original
+creation. We demonstrated and critiqued the tools, and then created and
+disseminated the toolset and accompanying materials such as User Guides
+and
+Factsheets to the wider community.
+Background
+The Keeping Research Data Safe (KRDS) Benefits Framework tool was created as part of the KRDS projects funded by JISC.Â  KRDS
+defined three dimensions and a framework to illuminate the broad outlines of the
+benefits that digital preservation investments potentially generate. The KRDS
+Benefits Framework is a high-level tool and it was recognised that users would
+need to sharpen these generic expressions of preservation benefits into more
+focused value propositions for specific cases.
+The opportunity to do further work based on
+KRDS was taken up by the Infrastructure
+for Integration in Structural Sciences (I2S2) project funded by JISC under
+the Research Data Management programme. A work package within I2S2 extended
+the KRDS activity model (providing a more detailed view of activities within
+research experiments in the KRDS pre-archive phase) and developed a more
+detailed value-chain analysis for assessing benefits. It assigned benefits to
+specific activities, and weighted their impact.Â  The tool was applied from two
+different perspectives: one for a central service perspective; the other
+looking at the researcher perspective.
+Although only released in 2010, a number of
+research data projects and services are already working with the KRDS2 cost
+activity model and benefits framework and building up local experience and
+adaptations. These include the SageCite and I2S2 projects at UKOLN, University
+of Bath; the six population cohort case studies working with the MRC Data
+Support Service; the Archaeology Data Service and the UK Data Archive. They
+provide a number of knowledgeable research data services and projects who are
+keen to feed-in their experience, explore and test new extensions to the
+Toolset such as the I2S2 Value-Chain Analysis, and promote its future
+dissemination.
+The Project Team
+The project partners were UKOLN and the Digital Curation Centre at the
+University of Bath, the Centre for Health
+Informatics and Multi-professional Education (CHIME) at University College
+London , the UK Data Archive
+(University of Essex), the Archaeology Data
+Service (University of York),Â  OCLC
+Research, andÂ  Charles Beagrie Limited.
+Project Plan
+Our project plan set out our programme of work and methodology and can be downloaded here.
+Project WorkshopOur dissemination workshop was held on
+Tuesday 12th July at 2011 South Bank University, Central London. ItÂ was a
+very successful event with lively discussion on implementing the
+toolkit with
+funders and other attendees. AÂ full report of the dissemination workshop
+and links to the presentationsÂ on the UKOLN site are now available.The KRDS Benefits Analysis ToolkitThe
+Toolkit consists of two tools: the KRDS Benefits Framework (Tool 1);
+and the Value-chain and Benefits Impact tool (Tool 2). Each tool
+consists of a more detailed guide and worksheet(s). Both tools have
+drawn on partner case studies and previous work on benefits and impact
+for digital curation/preservation. This experience has provided a series
+of common examples of generic benefits that are employed in both tools
+for users to modify or add to as required.The KRDS Benefits
+Framework (Tool 1) is the âentry-levelâ tool requiring less experience
+and effort to implement and can be used as a stand-alone tool in many
+tasks. It can also be the starting point and provide input to the use of
+the Value-chain and Impact analysis.Â The Value-chain and
+Benefits Impact analysis (Tool 2) is the most advanced tool in the
+Toolkit and requires more experience and effort to implement. It is
+likely to be most useful in a smaller sub-set of longer-term and
+intensive activities such as evaluation and strategic planning.The
+combined Toolkit provides a very flexible set of tools, worksheets, and
+lists of examples of generic benefits and potential metrics. These are
+available for you to use in different combinations appropriate to your
+needs and level of expertise.Â Guides for the toolkit and each
+individual tool and case studies of completed examples of the worksheets
+provide documentation and support for your implementation.Toolkit GuideThis leaflet provides an introduction to the Toolkit and its components.Introduction to the KRDS Benefits Analysis Toolkit (PDF)The KRDS Benefits Framework Tool (Tool 1)The
+Keeping Research Data Safe (KRDS) Benefits Framework is a tool for
+identifying, assessing, and communicating the benefits from investing
+resources in the curation/long-term preservation of research data.The
+tool itself consists of a detailed guide and a worksheet.Guide to the KRDS Benefits Framework Tool (PDF)KRDS Benefits Framework Worksheet (Microsoft Word 97-2003) (Open Office Text)The Value Chain and Benefits Impact Tool (Tool 2)This
+is the second and most advanced tool in the Toolkit. A detailed user
+guide and two worksheets have been provided with the Tool: the Benefits
+Impact worksheet and the Value-chain and Benefits Impact worksheet. To
+use this Tool, you should first select which worksheet most closely
+matches your needs. Both worksheets have been pre-populated with a
+selection of common generic benefits also used in the Benefits Framework
+Tool but you may review, delete or add more to the selection. The tool
+has been designed to be generic but easily configurable by the user for
+their specific needs or application.Guide to the Value Chain and Benefits Impact Tool (PDF)Benefits Impact Worksheet (Microsoft Excel 97-2003) (Open Office Spreadsheet)Value Chain and Benefits Impact Worksheet (Microsoft Excel 97-2003) (Open Office Spreadsheet)Worked Examples of Completed Worksheets from Project PartnersArchaeology: The background to this case study is provided in theÂ Archaeology Data Service (ADS) dissemination workshop presentation. Worked examples are available of the ADS Benefits Framework Worksheet (PDF) and the ADS Value-chain and Impact Worksheet (Excel 97-2003).Health: Population Cohort Studies. The background to this case study is provided in theÂ Medical Research Council Cohort Studies dissemination workshop presentation. A worked example is available of the Cohort Studies Value-chain and Impact Worksheet (Excel 97-2003).Research Data Citation: SageCite. The background to this case study is provided in theÂ SageCite dissemination workshop presentation. A worked example is available of the SageCite Benefits Framework Worksheet (PDF).Social Sciences: UK Data Archive (UKDA). The background to this case study is provided in theÂ UKDA dissemination workshop presentation. A worked example is available of the UKDA Benefits Impact Worksheet (PDF).
+All material copyright Charles Beagrie ©2013. Design by Radiant Sky Solutions.
+Privacy Policy. Cookie Policy

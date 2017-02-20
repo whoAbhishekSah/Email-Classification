@@ -1,0 +1,10 @@
+Accessing and Storing Knowledge (ASK)
+ASK
+Homepage
+What is ASK?
+Project Partners
+Wiki (archived)
+Download
+Contact
+The Accessing and Storing Knowledge (ASK) project team is creating an open source repository system for use by students, teachers, researchers, and librarians. The system supports the storing, organisation and sharing of digital resources, such as text files, images, audio, and video.
+Copyright © Oxford University 2007. Valid XHTML, CSS

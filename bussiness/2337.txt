@@ -1,0 +1,156 @@
+Data Backup and Information Governance Software Solutions | Hewlett Packard Enterprise
+Skip to ContentSkip to FooterSolutions   Transform to a Hybrid Infrastructure
+Protect Your Digital Enterprise
+Empower the Data-Driven Organization
+Enable Workplace Productivity
+Cloud
+Security
+Big Data
+Mobility
+Infrastructure
+Internet of Things
+Small and Medium Business
+Service Providers
+All Solutions
+Services   Advise, Transform and Manage
+Financing and Flexible Capacity
+IT Support Services
+Education and Training Services
+All Services
+Products   Integrated Systems
+Composable Systems
+Converged Systems
+Hyper Converged Systems
+Blade Systems
+Infrastructure Management
+Software
+Application Lifecycle Management
+Application Delivery Management
+Big Data Analytics
+DevOps
+Enterprise Security
+Hybrid and Private Cloud
+Information Governance
+Information Management
+IT Service Management
+Operations Management
+Server Management
+Software as a Service (SaaS)
+Software-Defined Data Center
+Storage Management
+All Software
+Servers
+Rack Servers
+Tower Servers
+Blade Servers
+Density Optimized
+Mission Critical Servers
+Servers for Cloud
+Server Management
+All Servers
+Storage
+All-flash and Hybrid Storage
+Midrange and Enterprise Storage
+Entry Storage Systems
+Data Availability, Protection and Retention
+Software Defined Storage
+Management and Orchestration
+Storage Networking
+All Storage
+Networking
+Switches
+Routers
+Access Points and Controllers
+Wireless LAN
+Campus and Branch Networking
+Data Center Networking
+Wide Area Network
+Software Defined Networking
+Network Functions Virtualization
+Network Management
+All Networking
+About UsSupportClearType to search2086159  Solutions   Transform to a Hybrid Infrastructure
+Protect Your Digital Enterprise
+Empower the Data-Driven Organization
+Enable Workplace Productivity
+Cloud
+Security
+Big Data
+Mobility
+Infrastructure
+Internet of Things
+Small and Medium Business
+Service Providers
+All Solutions
+Services   Advise, Transform and Manage
+Financing and Flexible Capacity
+IT Support Services
+Education and Training Services
+All Services
+Products   Integrated Systems
+Composable Systems
+Converged Systems
+Hyper Converged Systems
+Blade Systems
+Infrastructure Management
+Software
+Application Lifecycle Management
+Application Delivery Management
+Big Data Analytics
+DevOps
+Enterprise Security
+Hybrid and Private Cloud
+Information Governance
+Information Management
+IT Service Management
+Operations Management
+Server Management
+Software as a Service (SaaS)
+Software-Defined Data Center
+Storage Management
+All Software
+Servers
+Rack Servers
+Tower Servers
+Blade Servers
+Density Optimized
+Mission Critical Servers
+Servers for Cloud
+Server Management
+All Servers
+Storage
+All-flash and Hybrid Storage
+Midrange and Enterprise Storage
+Entry Storage Systems
+Data Availability, Protection and Retention
+Software Defined Storage
+Management and Orchestration
+Storage Networking
+All Storage
+Networking
+Switches
+Routers
+Access Points and Controllers
+Wireless LAN
+Campus and Branch Networking
+Data Center Networking
+Wide Area Network
+Software Defined Networking
+Network Functions Virtualization
+Network Management
+All Networking
+About UsSupport Start of
+content
+/Backup and GovernanceBackup and governance solutions from Hewlett Packard Enterprise provide a comprehensive approach to protect the digital enterprise from risk, and empower data-driven businesses to harness value from 100% of their information.Software HomeSecurityHP's enterprise security software and solutions provide a proactive approach to security that integrates information correlation, application analysis and network-level defense.Big Data SoftwareBig Data Analytics gives you the power to turn data into strategic insights so you can act on opportunities rapidly, detect operational issues early, and optimize processes efficiently.Backup & GovernanceHPE Backup and Governance Solutions enable simple, reliable, and compliant data protection while lowering risks and costs to gain more value from your data.Operations ManagementDigital business requires that you have the right monitoring, analytics and automation solutions to enable your organizations to deliver and maximize business results from IT-based business services, applications and infrastructure.Application DeliveryALM software and solutions from HP provide the visibility and collaboration you need to master the modern application lifecycle and bring agility to your enterprise.Services & SupportOur portfolio is designed specifically to help you achieve the value you are seeking from your HP Software solutions. We offer a broad range of Solution Implementation Services, from fixed price starter services all the way to end to end solutions.Application SecurityApplication Security TestingRuntime Application Self-ProtectionDynamic Application Security TestingMobile SecuritySoftware Security AssuranceStatic Application Security TestingData Security & EncryptionData EncryptionKey ManagementHardware Security ModuleSecurity OperationsSIEMSIEM ApplianceData CollectionSecurity AnalyticsSIEM Use CasesArcSight MarketplaceSecurity ResearchThreat AnalysisAll Enterprise Security Products >Enterprise Security Partners >All Try, Buy and Free Software >Big Data PlatformAdvanced Analytics (Vertica)SQL on HadoopAnalytics in the CloudPredictive Analytics Unstructured Data AnalyticsOn Demand APIs and ServicesIndustry SolutionsFinancial ServicesGovernmentHealthcare and Life SciencesAll Big Data Software Products >Big Data OEM Program >All Try, Buy and Free Software >Information ManagementBackup and RecoveryBackup Analytics Backup MonitoringStorage OptimizationEndpoint BackupApplication ArchivingVM BackupInformation GovernanceEnterprise Content ManagementeDiscoveryFile AnalysisInformation ArchivingInvestigative AnalyticsIndustry SolutionsFinancial ServicesGovernmentHealthcare and Life SciencesAll Backup and Governance Products >All Try, Buy and Free Software >Data Center AutomationOperations OrchestrationServer AutomationNetwork ManagementDatabase and Middleware AutomationIT Operations ComplianceHybrid Cloud ManagementCloud Management PlatformCapacity PlanningContinuous DeliveryAPI ManagementIT Service ManagementService DeskConfiguration Management SystemIT Asset ManagementOperations BridgeOperations AnalyticsIT ReportingIT Event ManagementIT Operations DashboardInfrastructure MonitoringSystems ManagementStorage Resource ManagementAll ITOM Products >All Try, Buy and Free Software >All SaaS Products >Application Lifecycle Management (ALM)ALM SoftwareAgile Project ManagementQuality ManagementFunctional Testing Automated TestingManual TestingQuality ManagementMobile TestingNetwork VirtualizationService VirtualizationPerformance TestingLoad TestingCloud TestingApplication VirtualizationNetwork VirtualizationService VirtualizationPerformance EngineeringMobile SolutionsMobile TestingMobile MonitoringMobile SecurityMobile App ServicesAll Application Delivery Products >All Try, Buy and Free Software >All SaaS Products >Strategic ServicesConverged Security ServicesDevOps Consulting ServicesGlobal Product Authentication ServiceIT4IT Value ChainManagement of Change ServicesService Broker Consulting ServicesImplementation ServicesApplication Lifecycle Management ServicesBig Data ServicesCloud & Automation ServicesEnterprise Security Products ServicesIT Service Management ServicesOperations Management ServicesSoftware EducationApp Lifecycle Management TrainingAdoption Readiness Tool (ART)Big Data TrainingDevOps TrainingEnterprise Security TrainingOperations Management TrainingSoftware SupportAtalla Technical SupportBig Data SupportHPE Live NetworkOnline Software SupportAll Try, Buy and Free Software >Backup and GovernanceBackup and governance solutions from Hewlett Packard Enterprise provide a comprehensive approach to protect the digital enterprise from risk, and empower data-driven businesses to harness value from 100% of their information.Software A-Z Free & Trial Software Resource Library Contact Us  %%label_chat_online%% 1-800-633-3600 (Support)1-877-686-9637 (Sales)Contact a Sales ExpertContact Customer SupportFind Local Partners Information Management and Governance: The New Business ImperativeHPE Information Management and Governance solutions help organizations access and understand information; organize, control and protect data; and intelligently manage and take action in accordance with business needs – keeping your organization running smoothly.See All ProductsBackup and Governance SolutionsSee All Products ////////Information ManagementInformation ManagementDelivering backup, recovery, analytics, and optimization solutions for enterprise data protection. Learn More ////////Information GovernanceInformation GovernanceLower risk and cost, increase productivity, and tap into the value of enterprise information. Learn More ////////Backup and RecoveryAdaptive Backup and RecoveryIntelligent data backup and recovery to optimize, protect, and analyze backup environments. Learn More ////////Policy Based GovernanceSecure Content ManagementGovern enterprise information to meet regulatory, legal and internal cost-savings requirements. Learn More ////////Data ArchivingInformation Archiving Archive data in a consistent, defensible solution according to regulatory, legislative and business requirements. Learn MoreBackup and GovernanceKnow exactly what you need? Take a look at our entire Backup and Governance portfolio. Oceans of OpportunitySee how the analytics within backup solutions and information governance can help you automatically identify and act on critical information for data backup and recovery, privacy, compliance and responding to legal matters.2:00 Minutes2:00 Minutes //Are You Prepared for GDPR?HPE information management & governance solutions help organizations protect sensitive customer information in accordance with GDPR requirements. HPE ControlPoint and Structured Data Manager facilitate complete and cost-effective data classification to identify data that is responsive to GDPR, while our Secure Content Management, Adaptive Backup and Recovery, and Verity product suites help customers take action on in-scope data. This technology not only protects the bottom line from the risk of fines and sanctions, but also provides a foundation that can drive top-line revenue with greater strategic insight into customer and market needs.
+Read the BrochureWatch the VideoAccelerate Your Information Management & Governance InitiativesHow can organizations access and understand their enterprise information? How can they organize and control it, and more importantly, how can they leverage and take action on that information? Learn how in this recorded webinar, with two of the industry’s leading experts from Gartner Research and HPE.Watch Now   What's New in Backup and Governance@IMG_InsightsFollow HP on twitter. More tweets  The Emerging Importance of Information Management & Governance(11:20 Minutes) VideoThe Emerging Importance of Information Management & GovernanceBeginning of dialog content//Close  HPE Named a Leader by Independent Research Firm for Cloud-Based Information Archiving Press release  HPE Simplifies and Strengthens Data Protection Press release   Modern Approach to Intelligent, Adaptable Data Protection Article  HPE Partners with Iron Mountain to Simplify Secure Content Management Press release  Always-Available Data Forms Digital Lifeblood for University Med Center Podcast  Transform Enterprise Content Management with HPE Content Manager Article  Buyer's Guide for Electronic Records and Content Management(PDF 530KB
+) Brochure  Next Generation of IMG Will Deliver Business Insight and Agility Article  Protecting Mission-Critical Application Environments: The Top 5 Challenges(PDF 1457KB
+) White paper  The Cost of Managing Unstructured Data(PDF 882KB
+) Analyst reportExplore Trends in Backup and Governance   Backup and Recovery   Enterprise Content Management   Security   Compliance Backup and Recovery Improved Business Reliability and ResiliencyThe HPE Adaptive Backup and Recovery (ABR) Suite includes a range of solutions that enable an adaptable, smart backup and recovery environment. Confidently deal with uptime challenges such as 24x7 operations, continued growth of data, technology disruptions, and increasingly demanding recovery objectives.Learn MoreEnterprise Content Management A Single Solution for Governance Based Enterprise Content ManagementLeverage accurate, contextual, and complete information throughout its lifecycle with HPE Content Manager, designed to help government agencies, regulated industries and global organizations manage their business content from creation to disposal.Read MoreSecurity The Cost of Cyber Crime and the Role of Information ManagementMinimize the impact of the next cyber attack. See what research shows are the biggest contributors to loss and how information management and governance strategies can help minimize them.Learn MoreComplianceThe Cost of Information Governance Non-ComplianceThis ground-breaking research with over 200 compliance executives examines the challenges and opportunities facing information governance compliance. You’ll learn the nature of this risk, the average annual costs resulting from non-compliance, and how risk can be effectively reduced.View InfographicRead the White Paper    Is Your Information at Risk?Your data deserves better.Find Out How Engage with our Backup and Governance Community  Backup and Governance BlogGet the latest on information management, backup, and governance.  HPE IMG Insights on TwitterGet the latest tweets from IMG Insights on Twitter.
+HPE Software on LinkedInConnect with experts and discuss how to make your HPE software work for you.  HPE Software on FacebookJoin with peers and experts to discuss how to make your HPE software work for you.  HPE Business InsightsGain strategic insights from IT leaders who help others define, measure and achieve better IT performances.Software A-Z Free & Trial Software Resource Library Contact Us  %%label_chat_online%% 1-800-633-3600 (Support)1-877-686-9637 (Sales)Contact a Sales ExpertContact Customer SupportFind Local PartnersSolutions What's New Case Studies Services Resources Community Top Have a question?Have a question?%%label_chat_online%% Contact a Sales Expert1-800-633-3600 (Support)Support
+1-877-686-9637 (Sales)Sales
+0Your recent activity ... These are your most recent interactions with our rich content, including incomplete download/attempts. Feel free to return at any time to complete your downloads.Clear All
+End of
+content    United States Hewlett Packard Enterprise International
+Corporate CorporateAccessibilityCareersContact UsCorporate ResponsibilityEventsHewlett Packard LabsInvestor RelationsLeadershipNewsroomSitemapPartners PartnersFind a PartnerPartner ProgramsSocial SocialLinkedInFacebookTwitterYouTubeCommunities CommunitiesDeveloper ForumsEnterprise BusinessCustomer Resources Customer ResourcesHow to buyEnterprise StorePublic Sector StoreEducation and TrainingEmail SignupLegal LegalPrivacyTerms of UseCookies
+©
+Copyright 2017 Hewlett Packard Enterprise Development LP

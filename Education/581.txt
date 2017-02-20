@@ -1,0 +1,147 @@
+GROWL VRE Project
+GROWL VRE Demonstrator
+Search:
+Text size:
+GROWL Home
+The GROWL project is a framework in which we can develop and
+evaluate Grid services in environments familiar to many scientific
+programmers.
+A need has been identified for a client toolkit which can provide
+very light-weight but extensible access to Grid resources (owls are
+very light and quiet for their size). We are therefore initially
+creating libraries in C/ C++ and R, interfacing to a set of existing
+services derived from HPCPortal, DataPortal and InfoPortal which are
+part of IeSE, the CCLRC Integrated e-Science Environment. It
+should be possible to install this library on a variety of client
+workstations with a minimum of additional software.
+This Web site gives the background, some examples and links to
+installation details for the C and R versions of GROWL.
+News of progress here.
+Status of GROWL modules.
+GROWL User Manual (draft).
+GROWL
+Portal interface.
+Sakai
+worksite for this project.
+Current News
+GROWL Scripts
+download
+NW-GRID Training
+Event - Daresbury, Jan 25/26th 2007
+Lightweight Grid Computing
+Workshop - Castleton, May 2006
+INTRODUCTION
+BIBLIOGRAPHY
+ACKNOWLEDGEMENTS
+CONDITIONS OF USE
+QUICK REFERENCE
+EXAMPLES
+BASE ROUTINES AND FILES
+AUTHENTICATION
+FILES
+GIZMOS
+JOBS
+NETSOLVE
+R
+Rcommands
+RESOURCES
+SRB
+TRANSFER
+About this document ...
+Background
+GROWL is a client interface to a Grid programming environment. Its
+ongoing development will continue to form part of CCLRC's Integrated
+e-Science Environment, IeSE, project. GROWL is IeSE with teeth
+(owls are hunters).
+IeSE also includes the development of Web-based
+portal interfaces: HPCPortal, InfoPortal and DataPortal and more
+importantly their underlying services. GROWL provides an alternative
+light-weight interface to some of these services.
+This was originally not funded, but has now received funding from
+JISC. It is not drag'n'drop, not yet good computer science, nor best
+practice and is still a research project. It is Hand Knitted
+Software. If you have comments, questions or suggestions please
+contact the authors.
+GROWL is a purely client-side Grid programming environment, it does
+not help you to create Web or Grid services. It does not help you put
+your computer on the Grid. The software and functionality is kept to a
+minimum for ease of installation and use. Some background information
+and the research agenda for the project are documented in these
+separate reports:
+Towards tractable toolkits for the Grid: a plea for light-weight,
+usable middleware.
+[HTML]
+Programming the Grid: User Interfaces and Functionality
+[HTML]
+Programming the Grid: Portal Services Documentation
+[HTML]
+System Requirements and Dependencies
+You do not need to have root access to install GROWL and you do not
+need to open any firewall ports!
+A definate aim of this project is to keep the number of dependencies
+to a minimum. This is to enable GROWL to be installed on a normal
+Linux or other Unix workstation with a standard-compliant C compiler
+and Perl interpreter. It can be installed alongside a Grid-enabled
+application which uses the GROWL C libraries. There are however
+certain new functions which currently have to be carried out on the client
+workstation and some additional software has to be installed to
+make this possible. So far GROWL is distributed with installation
+scripts and source for the following packages:
+GROWL source and portable build system using make
+Globus v2.4.3 - only the GPT (packaging) and GSI (security)
+packages are used
+- needs Perl and gcc (or equivalent). For the demonstrator we are
+using VDT which is fully maintained.
+OpenSSL v0.9.6i or later - this is included with the Globus GSI
+package
+gSOAP v2.1.10 orlater - C/C++ toolkit for Web services
+- needs yacc or bison, flex and gcc (or equivalent)
+SOAP::LITE - Perl Web service toolkit (optional, used for some of the
+commands, but not essential)
+- these need Perl
+SRB Scommands - C client for Storage Resource Broker
+Additional dependencies include:
+A C compiler, e.g. gcc
+Perl v5.8.1 or similar
+A Yacc compiler, e.g. yacc or bison (optional)
+The Flex lexical analysis toolkit (optional)
+R v1.8.1 functional-programming environment (optional, if you want to use
+the R interface)
+Interfaces
+GROWL is kept very simple to enable wrapping by a number of
+interfaces. We currently have protoypes:
+C library
+R library
+Helper scripts
+See documentation and software pages for further details.
+Functionality
+This is evolving all the time with feedback from various users and
+discussions at workshops. Tell us what you need and we will think of a
+way to make it work within the GROWL framework! We already have input
+from colleagues working in the areas of Bio-informatics, Chemistry,
+Physics and Social Science.
+Download and Installation
+Downloads are not yet available. This site will be updated as soon as
+wider testing begins. See download page
+for further details.
+Acknowledgements
+The GROWL project is currently funded by JISC under its programme
+for developing a Virtual Research Environment.
+Some additional
+funding is from CCLRC via the OSI. Recently GROWL has been included in
+the ESRC e-Infrastructure project and additional funding will enable
+it to eb deployed and adapted to meet their requirements.
+The digital image used on this page is of Molly, a rather
+photogenic owl who appears in (at least one of) the Harry Potter
+films. Molly is a Canadian Great Grey Owl (Strix
+Nebulosa). She lives at the Hawk Conservancy, Andover,
+Hampshire. You can find out about the species via the original Web
+site, and see her flying at the conservancy. The DHD Multimedia
+Gallery site is maintained by Damon Hart-Davis in London and
+provides free downloads of a variety of high quality images.
+See http://gallery.hd.org/index.jsp
+and
+http://gallery.hd.org/_exhibits/natural-science/_more2003/_more08/bird-great-grey-owl-staring-intently-SEW.jpg
+Site is developed and maintained by R.J. Allan
+"Hand Knitted Software" 2005-6
+Last Modified: Tuesday, 02-Jan-2007 10:39:09 GMT

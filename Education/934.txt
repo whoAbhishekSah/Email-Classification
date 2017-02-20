@@ -1,0 +1,100 @@
+Edinburgh Data-Intensive Research
+Skip to main content
+Search form
+Search
+Edinburgh Data-Intensive Research
+Main menuProjects
+Open Questions
+People
+Publications
+Partners
+Presentations
+Seminars
+Student Projects
+Contact
+Account
+Latest news
+Publication
+C2MS: Dynamic Monitoring and Management of Cloud Infrastructures
+1 year 7 months ago
+Presentation
+Ad hoc Cloud Computing
+1 year 7 months ago
+Publication
+Evolutionary Computation and Constraint Satisfaction
+1 year 8 months ago
+Publication
+Ad hoc Cloud Computing
+1 year 10 months ago
+Software release
+DICOM Confidential 1.4.4 released
+2 years 2 weeks ago
+Story
+Congratulations to Gary McGilvary on his PhD
+2 years 5 months ago
+Publication
+Ad hoc Cloud Computing (PhD Thesis)
+2 years 5 months ago
+Publication
+Quantification of Ultra-Widefield Retinal Images
+2 years 6 months ago
+Publication
+Precise montaging and metric quantification of retinal surface area from ultra-widefield fundus photography and fluorescein angiography
+2 years 6 months ago
+Software release
+New DICOM Confidential Release
+2 years 7 months ago
+Pages1
+2
+3
+4
+5
+6
+7
+8
+9
+…
+next ›
+last »
+more
+You are hereHome
+Next Generation Embryology goes live
+21 September 2010 - 4:02pm — Jano.van.Hemert
+NG Embryo aims to create an educational repository of developmental biology models that is:
+- Accessible to researchers, teachers and students
+- Searchable via annotated images rather than keywords and free text
+- Able to map results onto 3D models of developing embryos
+- Updated and enhanced with materials from researchers and lecturers throughout the world
+- Free and available online
+Topic of this submission: NewsResearch topics: Collaborative environmentsIntuitive interfacesProjects: NextGenerationEmbryology
+Read more about Next Generation Embryology goes live
+Publicity flyer for Next Generation Embryology
+4 May 2010 - 1:01pm — Jano.van.Hemert
+The Next Generation Embryology project is funded by JISC (Joint Information Systems Committee), a sponsor that supports education and research by promoting innovation in new technologies. The attached PDF flyer provides a brief introduction to the main aims of the project.Topic of this submission: NewsResearch topics: Collaborative environmentsIntuitive interfacesProjects: NextGenerationEmbryology
+Read more about Publicity flyer for Next Generation Embryology
+Next Generation Embryology: Using 3D embryo atlas frameworks for research and education
+4 May 2010 - 12:53pm — Jano.van.Hemert
+Speaker(s): Gagarine.YaikhomPresentation Type: talk3D developmental atlases are used in research for capture, collation and analysis of spatio‐ temporal data such as in situ gene‐expression. The most advanced systems are based on a temporal series of 3D models. Examples are the EADHB human embryo atlas in Newcastle and the e‐MouseAtlas in Edinburgh. In this project, we use the 3D spatio‐temporal frameworks in conjunction with a repository to deliver research and educational materials directly in the context of the developing embryo.Date and time: Tuesday, 11 May, 2010 - 13:20Location: The Influence and Impact of Web 2.0 on Various Applications, e-Science Institute, Edinburgh, UKWeb site: http://www.nesc.ac.uk/esi/events/1078/Research topics: Collaborative environmentsIntuitive interfacesProjects: NextGenerationEmbryology
+Read more about Next Generation Embryology: Using 3D embryo atlas frameworks for research and education
+The Next-Generation Embryology Project
+22 February 2010 - 12:02pm — Gagarine.Yaikhom
+Speaker(s): Gagarine.YaikhomPresentation Type: demoDemonstration of the Next Generation Embryology portal (prototype, version 0.1) at Newcastle University.
+Date and time: Friday, 26 February, 2010 - 15:00Location: Newcastle University, United KingdomWeb site: http://research.nesc.ac.uk/node/400Research topics: Collaborative environmentsProjects: NextGenerationEmbryology
+Read more about The Next-Generation Embryology Project
+Screencast: annotating embryo models on-line in a web browser
+9 February 2010 - 3:00pm — Jano.van.Hemert
+Screencast of a prototype for the JISC-funded project "Next Generation Embryology" where biologists can annotate 3D objects that represent models of mouse and human embryos with arbitrary bits of information held in a DSpace repository. Here we show what the interface looks like.
+Topic of this submission: Screen captureResearch topics: Collaborative environmentsIntuitive interfacesProjects: NextGenerationEmbryology
+Read more about Screencast: annotating embryo models on-line in a web browser
+Next Generation Embryology
+6 July 2009 - 10:33am — Jano.van.Hemert
+Speaker(s): Jano.van.HemertPresentation Type: talkWe introduce the Next Generation Embryology project: Next Generation in two ways. First, because its aim is to revolutionise the way the next generation of developmental biologists are educated. Where instead of relying on plastic models and diagrams in books, the idea is to use a digital library that is indexed using virtual 3D models of mouse and human embryos.Date and time: Wednesday, 8 July, 2009 - 09:00Location: JISC Information Environment and Virtual Research Environment projects start-up meeting, Leicester, UKWeb site: http://www.jisc.ac.uk/whatwedo/programmes/inf11/inf11startup.aspxJISC: JISC#INF11Projects: NextGenerationEmbryology
+Read more about Next Generation Embryology
+Next Generation Embryology
+3 July 2009 - 3:43pm — Jano.van.Hemert
+Speaker(s): Jano.van.HemertPresentation Type: invited3D developmental atlases are used in research for capture, collation and analysis of spatio-temporal data such as in situ gene-expression. The most advanced systems are based on a temporal series of 3D models. Examples are the EADHB human embryo atlas in Newcastle and the e-MouseAtlas in Edinburgh. Here we propose to use the 3D spatio-temporal frameworks in conjunction with a repository to deliver research and educational material directly in the context of the developing embryo.Date and time: Monday, 13 July, 2009 - 13:30Location: DReSNet Workshop on Repositories and Biological/Medical Applications, Institute of Health Sciences, Manchester, UKWeb site: http://www.dresnet.net/JISC: #INF11Projects: NextGenerationEmbryology
+Read more about Next Generation Embryology
+Next Generation Embryology: Using 3D embryo atlas frameworks for research and education
+23 March 2009 - 3:43pm — Jano.van.Hemert
+3D developmental atlases are used in research for capture, collation and analysis of spatio-temporal data such as in situ gene-expression. The most advanced systems are based on a temporal series of 3D models. Examples are the EADHB human embryo atlas in Newcastle and the e-MouseAtlas in Edinburgh. Here we propose to use the 3D spatio-temporal frameworks in conjunction with a repository to deliver research and educational material directly in the context of the developing embryo.Acronym: NG-EmbryoWeb site: http://research.nesc.ac.uk/nextgenerationembryologyValue: £250,000Dates: Wed, 04/01/2009 to Thu, 09/30/2010Project members: Gagarine.YaikhomJano.van.HemertPartners: Institute of Human Genetics, Newcastle University, Newcastle upon Tyne, UKHuman Genetics Unit, Medical Research Council, Edinburgh, UKProjects: NextGenerationEmbryology
+Read more about Next Generation Embryology: Using 3D embryo atlas frameworks for research and education

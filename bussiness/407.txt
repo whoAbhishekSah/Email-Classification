@@ -1,0 +1,276 @@
+AVEVA | Engineering software for the Plant and Marine industries
+About
+Careers
+Investors
+Partners
+English
+English
+Chinese
+French
+German
+Japanese
+Korean
+Portuguese
+Russian
+Spanish
+Toggle navigation
+search
+Solutions
+Continual Progression Through Effective Solutions
+Overview
+Product Finder
+Brownfield Modification
+Cloud Solutions
+Contract Management
+Enterprise Resource Management
+Information Management
+Integrated Engineering & Design
+Integrated Shipbuilding
+Laser Solutions
+Steel Fabrication
+Your Industry
+Unique Technology Designed Specifically for Your Industry
+Overview
+AEC & Infrastructure
+Chemicals & Petrochemicals
+Fabrication
+Marine
+Mining & Minerals
+Oil & Gas
+Power & Utilities
+Pulp & Paper
+Resources
+Discover a World of Design and Engineering Innovation
+Overview
+AVEVA World
+Blog
+Customer Stories
+Events
+News Centre
+Solutions and Product Brochures
+Videos
+Webinars
+White Papers and Infographics
+Services & Support
+Supporting You at Every Stage of Your Asset's Life Cycle
+Overview
+AVEVA Experience
+AVEVA Product Support
+AVEVA Product Training
+Policies and Compliance
+Contact Us
+The Big Picture, in Great Detail
+For every asset you manage, we help you control change and complexity, by visualising the truth.
+Watch our video
+Watch our video
+Take Control
+Every step of an asset’s life cycle is an opportunity to work faster, act smarter, reduce risk and save costs.
+4000+
+Successful customers. You're in good company.
+5x
+Faster project start-up and implementation.
+50%
+Shorter project execution.
+Name Your Asset
+Learn how businesses like yours leveraged our technology to deliver engineering, construction and operational excellence.
+icon down
+Marine
+Create all sizes of marine vessels faster and manage offshore effectively with a complete solution tailored to your specific needs.
+Read More
+Plant
+Collaboration between Owner Operators and EPCs is seamless when systems are compliant, reliable and efficient.
+For EPCs
+For OOs
+Building & Infrastructure
+Infrastructure complexity needn't mean poor performance. Changes needn’t mean cost overruns. See how you can take control.
+Start Today
+The Power to Shape Your World
+Make informed, confident decisions at every stage of the project life cycle with our Digital Asset Approach.
+Visualise the truth by creating a searchable digital version of your physical asset.
+icon
+Engineering & Design
+Allow for effective collaboration, increase confidence in engineering decisions, and manage change fast.
+icon
+Go Deeper
+Engineering & Design
+Your Design­ Phase Challenges
+Costly multiple design iterations.
+Inconsistent documents and drawings.
+Time-consuming creation and output of deliverables.
+Ineffective construction rework.
+Critical information stuck in siloed design and engineering systems.
+Lack of trust in existing asset conditions.
+Your Digital Asset Approach Advantages
+All collaborators access and update one integrated system.
+Change is managed quickly to avoid repeated iterations.
+Achieve zero-clash modelling including laser data directly within the design.
+Start-up faster and reduce rework with streamlined design processes.
+Understand the true conditions of existing assets to make right-first-time engineering choices.
+Ensure compliance with accurate reporting throughout the project.
+Give fast, easy but controlled access to the Digital Asset to project stakeholders everywhere.
+x
+icon
+Procure
+Keep information consistent across global teams, log details and specs easily to avoid disputes and construction errors.
+icon
+Go Deeper
+Procure
+Your Procurement­ Phase Challenges
+Teams spread across various regions, projects or locations that all need to be kept up to date.
+Differences in material specifications across project tools.
+Specifications held in various catalogues and systems.
+Missing or overly complex data on existing conditions causes the design or procurement of incorrect materials, results in rework, delays and lost margin.
+Minimal or non-optimal tender and bid management processes result in further avoidable delays.
+Your Digital Asset Approach Advantages
+Ensure component data is consistent across Engineering, Design, Materials Management and Procurement.
+Define and control materials iteratively to avoid rework.
+Drive quality improvement through design and build; increasing consistency of information, reducing cost of addressing the impact of change.
+Share procurement contract management details within a centralised system to avoid disputes.
+x
+icon
+Build
+Increase the transparency of your construction process with integration at all levels of the workforce, from planning to installation.
+icon
+Go Deeper
+Build
+Your Build Phase Challenges
+Up to 60% of a craftsman’s day is wasted waiting, travelling, and searching for materials.
+Construction managers lack a complete view of available people, materials and equipment.
+Disconnect between high-level project planning and individual work packages causes confusion.
+Changes to materials availability or construction plans require extensive manual rescheduling.
+Visibility of work completed to date is limited.
+Your Digital Asset Approach Advantages
+Provide managers better control through integrated workforce planning.
+Have the right resources and the right materials in place to maximise time.
+Accommodate changes easily and reorganise work packages without clashes.
+Create an efficient, predictable and transparent construction process.
+Manage people, materials and equipment seamlessly throughout the entire build life cycle.
+Identify and manage change early on with stakeholder cooperation.
+Integrate laser data into designs to reduce clashes and errors on site to almost nil.
+Be aware of problems early on with early-warning indicators, minimising cost and schedule over-runs.
+Lower costs due to to less rework, along with accurate pre-invoice verification between contractors, engineers and project management.
+x
+Handover
+Save time during familiarisation, reduce costs of Information Management and streamline information validation.
+Go Deeper
+Handover
+Your Handover ­Phase Challenges
+Time-consuming validation of all  incoming engineering master data from EPCs and subcontractors.
+All information must be checked for accuracy, reliability and consistency, ensuring operational compliance before use.
+Information must be reformatted to fit with CMMS/EAM and operations systems.
+Inconsistent or missing information can mean FMECA, Operational Risk Assessment, Preventive Maintenance programme development, HSE planning, permitting and even start-up are all delayed.
+Inconsistencies in critical equipment data can impact ramp-up to full production capacity.
+There is little context for correlating the finished asset with 1D and 2D information.
+Time-consuming and expensive disputes can arise from a lack of auditability of contract change.
+Your Digital Asset Approach Advantages
+Streamline project handover from the EPC-managed CAPEX phase to commissioning and start-up phases.
+Reduce costs of information handover management to near zero.
+Automatically validate all engineering information for consistency and compliance with contractually-defined information standards.
+Easily map information to operations systems for faster commissioning and start-up.
+Contextualise information within the 3D world, saving invaluable time during familiarisation.
+Solve disputes thanks to full transparency and auditability of change orders, payment verification and milestone achievements.
+x
+icon
+Operate
+Minimise operational risk, improve change management and increase asset intelligence.
+icon
+Go Deeper
+Operate
+Your Operate ­Phase Challenges
+Constant changes to the physical asset need to be captured.
+Asset information sources are no longer trustworthy – meaning added risk to production outputs.
+An increased threat of non-compliance, safety incidents and unplanned downtime.
+Overlapping maintenance activities are not identified.
+The need to provide critical 3D/locational context to operational intelligence in order to improve the efficiency and safety of all activity.
+Your Digital Asset Approach Advantages
+Minimise operational risk due to one easily-accessible contextual digital information source.
+Manage change effectively, as the physical asset is synchronised with its digital equivalent.
+Give operations engineers a clear picture of full information context for all decisions in both normal and critical situations.
+Optimise reliability and production efficiency.
+Decision Support capabilities make issue identification and resolution much simpler.
+Hazards are reduced, with processes and assets more familiar thanks to immersive training simulations.
+Asset data from multiple sources is translated into readily accessible and actionable information.
+The Trusted Living Pointcloud enhances the digital asset, providing a 3D, fully-synchronised representation for optimal asset intelligence.
+x
+icon
+Revamp/Refit
+Make planning and implementing modification plans quicker and easier, track all engineering information in one place, and deploy more confidently.
+icon
+Go Deeper
+Revamp/Refit
+Your Revamp/Refit Phase Challenges
+Creating usable reverse-engineered models of existing conditions is complex, and can involve multiple site visits.
+Trusted project information is difficult to capture and share across disparate teams and contracting partners.
+Errors impact fabrication and installation of new equipment and materials, causing delays and waste.
+Your Digital Asset Approach Advantages
+The system allows for quick creation of data-driven efficiency improvements and tracking operational compliance, saving project time overall.
+Asset modifications can be easily planned and implemented, increasing efficiency and minimising downtime.
+Modification of in-service assets is made easier by creating, managing and tracking all engineering information in one place.
+The immersive 3D environment allows asset and project information to be integrated, so revamps can be planned and deployed confidently.
+Contractual responsibilities are tracked and defined, increasing reliability and understanding of contract-based engineering.
+x
+YOUR DIGITAL ASSET
+Contract Management
+Information Management
+Customer Successeswith AVEVA Technology
+icon down
+The Next 50 Years
+Learn how ADMA-OPCO is using AVEVA software to future-proof its assets.
+Start Now
+Staying Out in Front
+Discover how Atkins' migration to AVEVA Everything3D has helped extend Atkins competitive advantage.
+Read Full Story
+Explore More Success Stories
+Trusted by Industry Leaders
+4000 customers worldwide. You're in good company.
+Almost every project was either early or on schedule, quality issues were consistently nil and this performance was achieved with a typical man-hour reduction of 20–30%.
+Petrofac
+We achieved around 18% direct savings in material costs on two major power projects.
+BHEL Haridwar
+This project, which would normally take 36 months from design to completion was fast-tracked in only 18 months. This was made possible by sharing the project using AVEVA Global.
+Alliance Engineering
+We are pleased to confirm our first project's critical path in the design process was reduced by 30%.
+STX OSV
+Design, Build, Operatewith Solutions that Work
+icon down
+Brownfield Modifications
+Why build a new asset when you can maximise profit from your existing one? Streamline design and engineering for on-budget, on-schedule brownfield project execution.
+Start Now
+Progressive Handover
+Eradicate the costs and time involved in the handover and validation of engineering master data.
+Discover How
+Electrical Engineering
+Ensure designs are kept accurate throughout your project by effectively managing dispersed, multi-discipline teams and foreseeing change.
+Easy. Learn How
+Explore other solutions
+Explore Your Industry
+Discover AVEVA's Cloud Solution
+AVEVA launches AVEVA Connect, no compromise delivery of the Digital Asset in the cloud.
+Realise the benefits of Cloud Computing without compromising security, information integrity or user experience.
+Discover More
+Discover More
+Take Control
+For every asset you manage, we help you control change and complexity, by visualising the truth.
+Reach Us
+Contact
+About
+Investors
+Partners
+Learn More
+Solutions
+Products
+News
+Careers
+Further Info
+Slavery and Human Trafficking Statement
+Terms of Use
+Privacy Policy
+Sitemap
+AVEVA Group plc
+High Cross
+Madingley Road
+Cambridge
+CB3 OHB, UK
+Reg. No: 2937296
+AVEVA has sales, support and development offices around the world.
+Find an office

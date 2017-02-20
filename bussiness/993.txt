@@ -1,0 +1,40 @@
+Expert Software and Systems Engineering - LeoTel Software Systems Limited
+Services
+About Us
+Case Studies
+Talking Points
+Contact Us
+Expert Software and Systems Engineering
+From hand-held products to large-scale systems, we specialise in quality bespoke software, embedded control and monitoring solutions.
+Recent Project
+Automated Meter Reading
+Wireless technology company Radio-Tech had a requirement for an automated meter reading (AMR) system which allowed meter-data to be collected while an operative drove at a normal residential speed along a predetermined route.
+read this case study in full
+Recent Project
+Decoding of Proprietary Digital Video Codec
+A UK forensics agency required plug-and-play decoding modules in order to extract digital video footage within an Open Source video playback framework.
+read this case study in full
+Recent Project
+Direction Finding
+The world’s leading supplier of ground based air navigation aids needed additional software expertise to support them in their ongoing maintenance and development of the front-end processing software for their direction finding product.
+read this case study in full
+Recent Project
+Power Feed Equipment Upgrade & Interface Bridge
+One of the foremost global communications equipment providers needed a high-reliability interface board in order to upgrade submarine cable power feed equipment (PFE) installations in the field, and to provide access to their new Network Management System.
+read this case study in full
+Recent Project
+Planer ReAssure Sensor Monitoring
+A cross-platform, scalable, configurable system for monitoring over 50 sensor endpoints, with concurrent user access, data acquisition, logging and display.
+read this case study in full
+Services
+Product Development
+Enhancing Systems
+Software Consultancy
+Call
++44 (0)1438 220 200
+Email
+info@leotel-software.co.uk
+LeoTel Software Systems Limited
+Registered in England and Wales: Company Number 04493471
+Registered Office: Lines House, 78 High Street, Stevenage, SG1 3DW, United Kingdom
+© Copyright 2014 LeoTel Software Systems Limited

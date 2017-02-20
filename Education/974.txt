@@ -1,0 +1,209 @@
+York Digital Library | news and stuff from YODL @ the University of York (http://dlib.york.ac.uk).
+York Digital Library
+Bring out your dead!
+30/01/2013 at 09:51	· Filed under Uncategorized
+Yesterday I attended the Digital Preservation Coalition’s ‘Bring out your dead!’ day (subtitled more soberly: ‘Collaborative approaches to managing file formats – a day of action’. Monty Python reference appreciated, though). The point of the day was to discuss the problems that file formats present to digital preservation (and also to bring along our own problem files). These obviously include dealing with very unusual files and files of unknown type. There are tools, such as DROID, which can help with identifying unknown files. The surprise for me was how much of the discussion focussed on older versions of very well-known file types, particularly Microsoft Office files. Chris Rusbridge, in his opening presentation, talked about his experience of trying to convert his old PowerPoint files, created years ago on an old Mac, to a current format (he found a company that could do it) and also his open letter to Microsoft about publishing the specifications for old versions of their file formats. The latter had surprising results (Microsoft willing to help, but they don’t have the specs).
+Much of the discussion also centred on the importance of collaboration to solving the file format problem. A key part of this is contributing information to file format registry projects such as PRONOM and CRISP, which suffer from lack of detail in their records (though TNA’s David Clipsham explained that the focus for PRONOM had been on populating it with file signatures, rather than other details). David Clipsham presented a session on how to produce file signatures which, to a non-techy like me, was an eye opener. It was especially interesting to see how easy it is. Essentially, a file signature is a string of binary data which always appears within a file of a particular sort and so which can be used by a tool such as DROID to diagnose the file type. To spot these strings, all one has to do is open a number of examples of the file type in a hexadecimal editor and flick through the open tabs quickly (a bit like a flicker book) to see which bits of the file stay the same (usually it’s the beginning bit). Submitting examples of file signatures to PRONOM helps to build up the registry and increase its usefulness.
+Other ways that we need to collaborate as a sector include better coordination between projects and coordinated lobbying of software companies (and government), of the sort pioneered by Chris Rusbridge. There are several projects which have attempted to create file format registries and the consensus seemed to be that it isn’t necessarily a bad thing to have more than one registry, but that data needs to be shared systematically (preferably automatically) between them. The same body of data shared in several places isn’t bad, but data split between several places is. In the lively final discussion a big topic was the need for someone to take a strong leadership or coordination role in carrying forward the lobbying of software companies to release file specifications. Chris Rusbridge rather theatrically put William Kilbride of the DPC on the spot and William deftly turned this round as a question for the DPC’s members as to whether the DPC was the organisation to take a lead in this.
+If I have a criticism of the day it was that it was billed (unless I got the wrong end of the stick, which commonly happens) as a workshop for dealing with delegates’ problem files (the ‘dead’ of ‘Bring out your dead’). The discussions and workshops were interesting, presenting a number of tools for charactersing files and creating signatures. However, it was less hands-on than I expected. I came down with a slightly different problem to that of unknown/obsolete file formats. We have some TIF files which create problems when converted to JP2 and streamed and we don’t know why. I didn’t get any answer from the workshop itself, but I was at least able to discuss it with other people during the break and find a possible source of help. Which was useful!
+Permalink
+Comments (1)
+Digital Library Improvements for the autumn term
+05/10/2012 at 12:50	· Filed under Uncategorized
+Over the summer we have been working with a student on a usability study of York Digital Library. The resulting dissertation has given us valuable data for the ongoing improvement of the Digital Library. As a first step, we assembled a list of priority issues for the start of this academic year and have pushed forward with a ‘usability sprint’. The following list of changes are mostly small, but together we feel they will help students and other users navigate around the Digital Library and get more out of our collections.
+All of these changes will be visible early on Sunday 7th October.
+Release Notes – Digital Library – Version YODL 2 2012-09
+Usability and Display Issues
+Artist names do not display in the metadata detail page if there is no role specified (eg. sculptor)
+Attribution field does not display in image metadata detail
+Reorganise label information for location image detail
+Add a hyphen between earliestDate and latestDate in image metadata detail
+Problems with display of rights info for images
+Display multiple titles in image detail page
+Make order of fields in ‘home’ detail view consistent
+Truncate long titles in search results display
+Make description display for collections in collections detail page
+Make sort order of browse tree and results alphabetical by default
+Indexing Issue with DC, some fields are not searching; allow all fields to be searched
+Change label for location in image detail page, for clarity
+Correct bug where creator appears twice in home detail page
+Correct bug where type displays twice on collection detail view
+Add which collection(s) a resource belongs to for the resource detail page
+Offer sort options for browse/search
+Display date with search results on Exam Papers
+Breadcrumb trail for search results
+Change sort order in browse to alphabetical
+Exclude openart results from search, as reported as confusing to users
+Remove thumbnail from download list on all objects, as reported as confusing to users
+Make “about the image” open by default in image metadata detail
+Refresh featured items on homepage
+Improve introductory information and help on homepage
+Add a general help page
+Add a help pop-up by the download button
+Fix bug in sort by in search
+Add a link to the help page from ‘need help’ section on homepage
+Re-order collection metadata display: dd subject before rights in collection
+Enhance collection metadata
+Access and security improvements
+YODL login / session management improvements, to prevent users from being ‘thrown out’ of their logged in session
+Make Masters theses metadata public; restrict files to York users
+Make top level and department exam papers collections metadata public to aid navigation
+Permalink
+Leave a Comment
+York Digital Library Survey & Focus Groups
+25/06/2012 at 08:09	· Filed under Uncategorized
+Have you ever searched online for University of York resources? If you have, it’s likely that you’ve used the University of York Digital Library (YODL). Named YODL for short, this where past exam papers are stored, as well as a huge number of History of Art images and other resources.
+The library is currently looking for feedback from students and staff on YODL, so if you’ve ever used it, we’d love to hear your opinions via our short questionnaire; the link is on the front page of the site.  If you haven’t used YODL before, perhaps you would be interested in taking a look around the site at http://dlib.york.ac.uk/ before completing the questionnaire. All responses will be anonymous, but if you do want to leave an email address, you’ll be entered into a prize draw to win a £25 Amazon voucher.
+We are also looking for participants for a focus group to give us more detailed feedback on the site; participants will be paid £10 for approximately 30 – 60 minutes of your time. Again, no previous experience of the site is needed; just have a look around to form some opinions before taking part. Even if you think you don’t have much to say, we want to hear it!
+There are two focus groups, one for staff and one for students:
+The staff focus group will take place this Thursday, 28th June at 4pm in LFA/205 (top floor of the Harry Fairhurst Building).
+The student focus group will take place on Wednesday 4th July at 11.30am in LFA/205 (top floor of the Harry Fairhurst Building).
+Please email mgedwards1@sheffield.ac.uk if you’d be interested in taking part.
+Permalink
+Leave a Comment
+Digital Futures Academy
+16/04/2012 at 19:36	· Filed under Uncategorized
+Last week I attended the Digital Futures Academy, a course on digitisation run by King’s Digital Consultancy Service at the British Library in London. I had won a scholarship to attend this from the Digital Preservation Coalition, to whom many thanks. I thought I‘d jot down a few key thoughts that I took away, before they get swept away in the stream of everyday this-and-that, like when you go on holiday and the memory of sitting on the beach stays with you for about a day and a half and then your brain files the memories away in a box somewhere labelled ‘things that happened ages ago – possibly for deletion’.
+A key thought that kept recurring in the week was the importance of thinking in terms of people, rather than data. Data is the trace of human activity and aspiration. Data fulfils human needs and provides opportunities. This came through particularly when we were discussing the planning and pitching of digitisation projects. The questions we need to ask are: who will benefit? what need does the project fulfil? what will be the outcomes, in terms of people using the data? what is your narrative?
+William Kilbride of the Digital Preservation Coalition, one of the speakers, presented an interesting idea, that of the ‘attention economy’ rather than the much-vaunted ‘knowledge economy’. Knowledge and data are not what is scarce, but time. The most valuable thing in this economy is the time people take to engage with your content.
+Alastair Dunning, of the European Library, another one of the speakers, presented a nifty analogy of the boutique versus the shopping mall. He presented a photograph of a quaint shop, stuffed with wares and full of character, and said that very often the services we create are like this: beautiful presentation of wares, but hidden away and nobody goes there. The next image was of a shopping mall: soulless and impersonal, but everybody goes there. This stands for the aggregators and mass audience sites (such as Flickr and Facebook). The boutique is fine, but it is important to get our content in the shopping mall, where it will be seen. The final image was a cautionary one: a boarded-up and derelict shop!
+Overall, I found the course stimulating and thought-provoking. It raised as many questions as it answered – as it is intended to (there is often no universally correct answer with digitisation projects, but it helps to start by asking the right questions).
+Matthew Herring
+Permalink
+Leave a Comment
+Radically Open Cultural Heritage Data on the Web
+29/03/2012 at 12:49	· Filed under open data, openart
+I was extremely fortunate to be part of a panel session at SXSW Interactive 2012, held this month as always in the amazing City of Austin, Texas.  The panel, Radically Open Cultural Heritage Data on the Web, was put together by Jon Voss, Strategic Partnerships Director at Historypin, leader of Linked Open Data for Library Archives and Museums (LODLAM) activity and a fantastic voice in the LODLAM space. Joining Jon on the panel was Adrian Stevenson, Senior Technical Innovations Coordinator at Mimas and Project Manger of the excellent LOCAH project and Rachel Frick, Director of the Digital Library Federation and heavily involved in the Digital Public Library of America (DPLA).
+Details (and audio) of the panel session can be found on the SXSW site, and my slides are available on slideshare. Adrian has also made his slides available.
+Between the four of us, we gave an overview of what linked data is, why it matters to libraries, archives and museums, how people have put data out there already, how others are beginning to consume that data, and how people might get involved. My presentation focussed on York’s OpenART project where we have put almost 40,000 linked data documents on the web. This represents a huge success for our project, which was run on a shoestring budget and timescale. Our approach to exposing data is certainly not perfect, but it’s a significant step for us towards opening our data up for others to work with.
+The linked and open data area is certainly growing and beginning to be recognised within the semantic web community. I attended Libraries, Media & The Semantic Web hosted by the BBC on the 28th March 2012 where Jon Voss and Adrian spoke on the same platform as speakers from the New York Times, the BBC and Google. It was particularly encouraging to hear that the BBC has invested a huge amount (20% of it’s Digital budget) into linked data for the Olympics coverage, and also from Dan Brickley (Google) who confirmed the forthcoming support for RDF/A in schema.org. Video from that event will be made available online on the BBC Academy YouTube Channel, and it’s worth watching all of the speakers. JISC have also recently published an interesting article on Linked Data in the recent issue of JISC Inform.
+I’m encouraged by the signs of open relationships and willingness to work together to make standards and approaches work, and by the increasing efforts to open up data. I feel that York Digital Library (and perhaps the University more widely) should continue to invest effort into linked open data.
+Permalink
+Leave a Comment
+York Cause Papers, another Digital Library project
+28/11/2011 at 10:24	· Filed under fedora, Uncategorized, yodl	 ·Tagged digitisation, yodl, york cause papers
+This morning sees the launch of the York Cause Papers images, the result of a JISC-funded rapid digitisation project which ran through to the summer of 2011. The Digital Library has been responsible for taking the scanned images and ingesting them into a Fedora Commons repository, using a configured version of our YODL interface. The HRI in Sheffield host and mange the searchable database of the Cause Papers, and have added links from this database to the image repository, hosted here in York.
+The Cause Papers are a fascinating resource, with originals held in the Borthwick Institute for Archives. Further information about the papers and the project can be found in the University’s press release.
+To search the York Cause Papers database and find page images visitwww.hrionline.ac.uk/causepapers. Images may also be accessed directly from http://dlibcausepapers.york.ac.uk.
+Permalink
+Leave a Comment
+OpenART Final Report
+02/11/2011 at 10:00	· Filed under ontologies, open data, openart	 ·Tagged openart
+Made by OpenART:
+The OpenART ontology, an event-driven ontology produced to describe the ‘artworld’ dataset. The ontology is split into a number of parts to allow greater re-usability. It should be considered ‘work in progress’, although the version published is complete for the OpenART project: dlib.york.ac.uk/ontologies/
+An ontology browser version of the ontologies can be found at dlib.york.ac.uk/ontologies/openart – for easier reading!
+Sample data for each ‘primary’ entity in the form of a rdf/xml document and turtle document are available: dlib.york.ac.uk/data
+Void description for the dataset: dlib.york.ac.uk/data
+A script for creating all of the documents and ingesting them into the Digital Library Fedora repository.
+RDF/A embedded in the pages of artworld.york.ac.uk (forthcoming)
+Next steps for OpenART and the University of York:
+For the University of York, there is some work to complete in order to get the full (current) dataset into our Fedora repository, mainly in setting up the url rewriting and content negotiation rules.
+After that, we would ideally like to apply the same linked data principles to other Digital Library content, particularly some of the rich image content that we have. This would involve mapping and modelling work, for example VRA image metadata to linked data, and automating the generation of RDF.
+Some thoughts
+The approach taken in OpenART is somewhat twofold, with prototyping using a variety of tools (summarised in the technical approaches post) which could be further explored in future work.
+The dataset which drives OpenART was released as a web application in October at http://artworld.york.ac.uk, to meet the requirements of the separate AHRC-funded project which it was created out of. This site has been developed as a database-driven application, an approach chosen as a best fit for the time available. The site, always envisaged as a human-user end point, was not initially designed for linked data. Indeed, one might argue that databases and ontologies do not make happy bedfellows. However, what we have found in the project is that is was relatively straightforward to (1) create a script to extract open data documents from the database and ingest that into our Fedora Digital Library, and (2) add RDF/A tagging to the web site itself.
+One of the benefits of this approach is that it provides us with a non-proprietory back-up and preservation routine for the database, playing to one of Fedora’s strengths. It also demonstrates how Fedora can be used in place of a simple file structure to serve up linked data documents, bringing with it the advantages of data management, indexing and version control.
+What this rather document-centric approach does not provide is a fully indexed RDF store with a SPARQL end point. Although Fedora has these as part of its stack they are internal tools for Fedora, not designed for indexing anything other than the core Fedora datastreams. Future work to enable Fedora’s ‘semantic’ capacity for external content would be extremely useful. The European Interactive Knowledge Stack (IKS) Project is doing interesting work in this area (http://www.iks-project.eu/).
+Opportunities
+OpenART was always focussed on a narrow rich seam of data, rather than a broad simpler dataset. There is an opportunity here to see how these two approaches can co-exist. Good ontology modelling will allow rich drilled-down terms to be mapped back to broader concepts for greater findability of content, whilst allowing much finer-grained analysis of the detail captured by the ontology. Where there may be a gap is in the tools which query, visualise and analyse the data sources.
+Extending existing applications to better support open data is another opportunity, allowing standard repository platforms such as EPrints, DSpace and Fedora Commons to offer standard linked data endpoints, with options for configuring the data exposed.
+Google Refine has come out strongly in OpenART as an extremely useful tool for manipulating datasets. It is particularly well suited to people who do not have in-depth programming skills but want to get RDF out of semi-structured documents. There is an opportunity to demystify some of the myth around creating open data and RDF, which can be quite simple to do.
+Evidence of reuse
+Our data has not been re-used, although we have had interesting discussions with a range of stakeholders from Tate, to be summarised in a blog post on how others could follow in OpenART’s footsteps. Skills What skills were used in your project? Did you already have these skills in your team or did you need to develop them or bring in external experts? Are the processes you have developed embedded in your institutional practice now or are there plans to embed them? Do you plan to develop these skills further? OpenART did have a range of skills in the team, in java programming, databases, Fedora Commons and metadata. External experts brought ontology modelling and RDF expertise, along with extra Fedora Commons expertise. These were essential for the project. OpenART has seen members of the project team gain much deeper knowledge of RDF and ontologies which we would hope to embed in York with further projects around linked open data.
+Lessons
+Lesson 1
+Ontology modelling is complex so allow plenty of time for it. Take time to consider the data model and consider the best approach, a simpler ‘mix and match’ of schema terms might be suitable. For OpenART, where the data is very specific, an ontology was considered the best approach.
+Lesson 2
+Use Turtle during development phases and get familiar with validation and inspection tools. Turtle is a simple notation for RDF and is very easy to write and to understand. It can be exported directly out of Google Refine and validated by common tools (eg. http://www.rdfabout.com/). Any23 (http://any23.org/) can be used to generate other formats, such as RDF/XML or RDF/A. Sindice’s Inspector tool (http://inspector.sindice.com/) is a useful tool for viewing the relationships in RDF and checking that documents are not just valid, but also correct. Google Refine can be used as a relatively rapid application for generating RDF samples.
+Lesson 3
+Come up with use cases. What questions do users want to answer with your data? What links do they want to follow? Understanding the uses and potential uses of the data can help both with modelling but also with making the case for doing linked data in the first place.
+Permalink
+Leave a Comment
+Older Posts »
+Pages
+About
+Recent Posts
+Bring out your dead!
+Digital Library Improvements for the autumn term
+York Digital Library Survey & Focus Groups
+Digital Futures Academy
+Radically Open Cultural Heritage Data on the Web
+Archives
+January 2013
+October 2012
+June 2012
+April 2012
+March 2012
+November 2011
+October 2011
+September 2011
+July 2011
+April 2011
+March 2011
+February 2011
+November 2010
+July 2010
+June 2010
+May 2010
+April 2010
+February 2010
+January 2010
+November 2009
+October 2009
+September 2009
+July 2009
+April 2009
+February 2009
+January 2009
+November 2008
+September 2008
+August 2008
+April 2008
+March 2008
+February 2008
+January 2008
+November 2007
+October 2007
+September 2007
+February 2017
+M
+T
+W
+T
+F
+S
+S
+« Jan
+12345
+6789101112
+13141516171819
+20212223242526
+2728
+Category
+Category
+Select Category
+Blogroll  (2)
+dissemination  (3)
+fedora  (9)
+images  (7)
+metadata  (3)
+mobile  (1)
+ontologies  (3)
+open data  (6)
+openart  (9)
+repositories  (9)
+research-data  (1)
+safir  (12)
+Uncategorized  (24)
+yodl  (5)
+yodl-ing  (10)
+Meta
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.com
+Blog at WordPress.com.
+York Digital Library
+Create a free website or blog at WordPress.com.
+Post to
+Cancel

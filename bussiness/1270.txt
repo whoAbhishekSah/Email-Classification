@@ -1,0 +1,136 @@
+Silvaco
+ENGLISH
+日本語
+简体
+한국어
+|
+CONTACT US
+X
+Contact Us
+Tools
+IP
+IP Watch
+Solutions
+Services
+Corporate
+Cap goes here
+Events
+VLSID 2017
+Hyderabad, India - January 7-11
+Car Ele Japan
+Tokyo Big Sight, Japan - January 18-20
+FPD 2017
+Shenzhen, China - March 14-16
+GOMACH 2017
+Reno, NV - March 20-23
+IEEE International Reliability Physics Symposium
+Monterey, CA - 	April 2-6
+Heart Conference
+Denver, CO - April 24-28
+ISPSD 2017
+Sapporo, Japan - May 28 - June 1
+DAC 2017
+Austin, TX - June 18-22
+AM-FPD17
+Kyoto, Japan - 	July 4-7
+SEMICON 2017
+San Francisco, CA - July 11-13
+NSREC Conference
+New Orleans, LA - July 17-21
+SISPAD
+Kamakura, Japan - September 7 - 9
+more
+PRESS RELEASES
+IN THE NEWS
+Silvaco’s TCAD Selected by Optoelectronics Research Lab at Graduate School, Saitama University
+Silvaco CEO David Dutton to Speak at 19th Annual Needham Growth Conference
+Silvaco’s Utmost IV selected by Takeya Lab at Graduate School of Frontier Sciences, The University of Tokyo for HiSIM-Organic SPICE Model Parameter Extraction
+Silvaco Group Boosts TCAD Business with agreement to Acquire Austrian software firm Global TCAD Solutions
+more
+Challenge - New power devices for electric vehicles kicked off!
+Power Analysis and Management
+Countering counterfeits and reinforcing reliability in electronics
+JDI Adopts New Backplane Simulator Tool from Silvaco
+Verification Choices: Formal, Simulation, Emulation
+more
+IP WATCH
+Silvaco's IP YouTube Channel
+TCAD-to-Signoff Solutions
+Reliability
+We live on a radioactive planet bombarded with cosmic rays and high-energy neutrons. These cause two big problems. First, single-event-effects (SEE)including single-event-burnout...
+Analog and High-Speed I/O Design
+The real world is analog and as more and more of a system is integrated onto a single SoC, the requirement for high accuracy analog design in a mainstream...
+Power
+Silicon has been the material of choice for high-voltage power applications for a long time. Recently silicon-carbide (SiC) and gallium-nitride (GaN) have started to gain...
+Library/Memory Design
+One of the critical aspects of bringing a new process into production is getting the foundation IP designed (at a minimum, standard cells and SRAM memories). The dominant digital design methodology today is to use synthesis...
+Advanced Process Development
+Design of advanced CMOS processes starts with TCAD. It is too slow and expensive to run real wafers until relatively late, and much better to use rapid prototyping in TCAD...
+Optical
+The optical segment deals with the design of semiconductor devices that interact optically with the environment, either as an input (such as optical sensors) or as an output
+Display
+Silvaco’s product suite is used for design of both thin-film transistor (TFT) LCD displays and organic LED (OLED) displays. With the growth in adoption of smartphones, flat-screen TVs, smart watches and more this is an area of increasing importance. Almost all manufacturers of displays use the Silvaco suite for design and most of these designs are in high-volume manufacturing.
+Featured Products
+I3C Family
+I3C is a new a standard from the MIPI Alliance that unifies and extends the legacy interfaces of I2C and SPI and adds new powerful features to support modern mobile, automotive, and IOT applications. I3C products from Silvaco provides customers with a range of products that allow customers to take advantage of the higher performance and lower power features that come with I3C.
+Jivaro
+Jivaro™ is a netlist reduction platform. It speeds up the simulation time, increases accuracy and also reduces memory footprint.
+Variation-Aware Design
+Process variability at advanced technology nodes has become the key challenge for IC designers. A new generation of tools are required that provides efficient and...
+Layout-Driven 3D Process Simulator
+Victory Process is a general purpose 1D, 2D and layout driven 3D process simulator including...
+3D Device Simulator
+Victory Device enables device technology engineers to simulate the electrical, optical, and thermal behavior...
+InVar Reliability Analysis
+Silvaco's suite of power integrity software tools, InVar Power, InVar EM/IR and InVar Thermal, provides ....
+Parallel SPICE Circuit Simulator
+SmartSpice delivers the highest performance and accuracy required to design complex, high-precision analog...
+Webinars
+TCAD Simulation of Organic Optoelectronic Devices
+(English)
+This webinar will introduce Radiant developed as an integrated simulation environment of LED and OLED...
+Register
+Archived Webinars
+Victory Process 2D - An Innovative Alternative to SUPREM-based Simulators Ensuring Robust 3D Solutions
+Statistical Analysis Flow for Analog Design with Variation Manager
+more
+Publications
+Victory Process 2D – A Valuable Alternative To SUPREM-based Simulators
+SUPREM-IV – Stanford University PRocEss Modeling Program was first released 30 years ago.
+TCAD Simulation of Impact Ionization at Cryogenic Temperatures, down to 3 K
+Some electronic devices operate at very low, cryogenic temperatures, sometimes as low as 4 K, which is the temperature of liquid helium.
+more
+CORPORATE
+About Us
+News
+Management
+Partners
+Careers
+Conferences
+Goverment Programs
+Locations/Contact Us
+Solutions
+Overview
+Display
+Power
+Reliability
+Optical
+Advanced Process Development
+Analog/HSIO Design
+Library/Memory Design
+Technical Library
+Publications
+Webinars
+University Program
+Overview
+Partners
+Contact Us
+Follow Us
+Facebook
+Twitter
+Linkedin
+YouTube
+Google+
+Copyright © 1984 -
+Silvaco, Inc. -
+Trademarks - Privacy Policy

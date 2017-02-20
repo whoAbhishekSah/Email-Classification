@@ -1,0 +1,175 @@
+epiccambridge | Just another WordPress.com site
+epiccambridge
+Just another WordPress.com site
+Skip to content
+HomeAbout
+DROID – a really useful tool
+Posted on August 8, 2011 by epiccambridge
+Interested in finding more details on a batch of files -for example during your pre-ingest processes or on a set of existing archived files where you are concerned about possible obsolescence?
+There is one easy to use tool that does exactly that. DROID (Digital Record Object Identification) is an automatic file format identification tool from The National Archives which uses The National Archives’ PRONOM technical registry service
+– Create a new directory wherever you want to keep DROID – I created a directory called droid-v6 under Program Files on Windows – you will want a new empty directory as DROID does not unzip nicely.
+– Download DROID, currently the latest version is droid-6.01.zip, from http://droid.sourceforge.net/ to your new directory and unzip it.
+– Check the ‘Running DROID.txt’ file for instructions. Currently DROID is started by the provided “droid.bat” file (for Windows) or “droid.sh” file for linux/Mac.
+– This opens a simple and easy to use graphical interface with a pre-loaded empty profile. If you have already saved a collection of files for checking then click the Add button, navigate to the directory where you save the files and then click Start. Twelve minutes later I have a list including file types and version details for all of the 3,702 pdf files in that directory.
+DROID is also available as a component in some repository software and other preservation tools such as JHOVE but if those are not available to you this is a tool that provides really useful information, simple to install, easy to use and has clear help instructions.
+Posted in Uncategorized
+|
+Leave a comment
+Interview findings
+Posted on July 28, 2011 by epiccambridge
+Interviews have now been completed. I managed to do eleven interviews – a small number due to resource and time restraints. The findings can therefore only present a snapshot. This is sufficient for the short EPIC project but we much hope that we can do more of this work in the future to inform our preservation activities. It has been a very interesting exercise.
+Findings in short:
+No tolerance to change was shown for the object coherence, the character content and that the content would remain readable for machines and humans. For the scientists this also applied for the structures of tables and equations.
+Very little tolerance was shown to change in the document structure and colour depths in figures. For the scientists this also applied to captions of figures, tables and equations and the position of equations.
+High tolerance to change was given to the appearance of font type and size, to the behaviour of urls, jump references, scripts and security mechanisms (no interviewee applied these).
+The spreadsheet including the interview outcomes is available on the project webpage.
+Findings will be presented in more detail in final report.
+Barbara Bultmann, DSpace@Cambridge
+Next Steps
+Right, I am now handing the data over to David to be put into the Plato tool. I am sure we will revisit the primary data at a later stage. I am looking forward to reviewing it when we have a suggested preservation action plan. I wish to check how the anticipated results are in line with the expectation of the interviewees. (I hope I’ll get a chance to do this within the scope of the project anyway.)
+Posted in Uncategorized
+|
+Leave a comment
+Survey significant properties for the selected collections
+Posted on July 4, 2011 by epiccambridge
+Interview template
+I have just uploaded the interview template to the website. It derived from a review of significant properties literature with particular respect of the InSPECT and Planets projects and is very much aligned with the workflow integrated in the PLATO preservation planning tool. Following the conceptual model of significant properties created in the course of the Planets project the PLATO tool suggests the division between Object, Technical, Process characteristics and Costs. Whilst David is testing the JHOVE2 and DROID tools to help identify extractable properties it was my job to discuss with authors the observational properties – which aspects of the documents in the collections they felt needed to be retained in order for the documents to be still understandable and useful.
+I decided to create a list of characteristics and essentially use this as the interview template prefaced with some introductory questions. The list follows the intellectual division of levels (appearance, structure, content and behaviour) with a large number of lower level criteria. The selection of criteria on the list results from an evaluation of representative sample files and from comparing our list with other sample plans shared in the PLATO tool. I also had a dummy run of our draft template with a friendly project participant who gave me useful feedback and additions to it.
+Conducting Interviews
+I was then thinking of how to conduct the interviews and how the outcome could be most efficiently recorded. I decided to bring a number of documents to each interview: a print out of a couple of example documents from the relevant collection which allowed us to flick through, check and remind ourselves what we were actually talking about and a large print out of the list of characteristics I was going to ask them about. (I did this in the format of a mindmap on  which I had some positive feedback.) We discussed how important each characteristic was, both separately and relatively, and whether there were any others that we had not taken into account.
+Participants were encouraged to quantify their answers  (small change acceptable, large change acceptable, no change acceptable at all and equivalent ranges for other type of questions). I recorded the interviews on a digital audio recorder but decided against doing transcriptions. Instead I created a spreadsheet listing the characteristics and quantified answers. This allows us to analyse the results easily and translate them to the Plato tool without any further intermediary steps. That’s the plan anyway…
+Barbara Bultman, DSpace@Cambridge
+Posted in Uncategorized
+|
+Leave a comment
+Engaging with the user community
+Posted on June 16, 2011 by epiccambridge
+In the process of identifying “designated communities” for the EPIC project we ran through a format review of all textual material in DSpace@Cambridge. Here is what we found:
+.doc (175)/.docx (1)
+.bbl/.tex (1)
+.odp (1)
+.pdf (3338)
+.ps (4)
+.sxi (2)
+.sxw (26)
+.bbl/.latex/.sty/.tex (5)
+.rtf (35)
+.txt (28814)
+The .txt files are almost exclusively licence files so of no interest in the context of this project. We then ran a detailed analysis of both .doc/.docx and pdf files and reviewed the content. Our aim was to select communities who a) deposited file types that are or might soon be at risk, and b) who are potentially available for interview, c) cover a variety of disciplines. The list of communities we came up with was still very long so we decided to concentrate on one format (.pdf) and therefore make the interview list managable for this short project. We chose .pdf not only because it is the prevalent textual format in DSpace@Cambridge but also because we had recently run into problems with the format in another context. So we are interested to find out more.
+List of “designated communities” to be interviewed:
+Department of Physics
+Department of Materials Science and Metallurgy
+Faculty of Classics
+Judge Business School
+Department of Pure Maths and Mathematical Statistics
+Department of Modern and Medieval Languages
+Department of Archaeology
+Department of Plant Sciences
+World Oral Literature Project
+Department of Engineering
+Department of Applied Maths and Theoretical Physics
+It was then for me to identify individuals and schedule interviews. I decided to contact the person responsible for the deposits – this in many cases was the author him/herself or in some cases the Head of Research Unit or Department. I also added a couple of supporting staff to the list to get a slightly different perspective. We considered conducting group interviews but decided that the short time of the project would not allow for this. The idea was that having more than one person thinking on complex issues would surely open debate and may result in more detailed answers, particularly if the members had differing roles – maybe an Academic, a Librarian, a Computing Officer etc. Something to consider doing in future.
+I was very pleased with the response rate to my interview requests – half the addressees responded positively without me even having to remind them. There must be some interest in preservation planning!
+Barbara Bultmann
+Posted in Uncategorized
+|
+3 Comments
+Selecting the files for testing
+Posted on April 18, 2011 by epiccambridge
+Working through the process of acquiring the files that we will test in Planets.
+One problem so far  – file names do not need to be unique in DSpace so I added a ‘file exists’ test when acquiring the 120 microsoft word files  and several of them have a file name that is the same as an existing file.  This is partly caused by duplication of the files across multiple different records.  For now I am saving that file with a different name but need to think of a better way  before starting to acquire the 3,500 pdf files – maybe a subdirectory per item ?
+Also an action for me  – we need to start thinking now about the metadata we need to create for each item to describe the preservation actions taken.
+Posted in Uncategorized
+|
+Leave a comment
+Test install of the
+Planets Suite on Windows NT
+Posted on March 8, 2011 by epiccambridge
+Today was scheduled for a test install of the  Planets Suite on Windows NT
+I initially tried to use the installer at http://planets-suite.sourceforge.net/download/ but ran into problems.   There were error messages during the install and starting up the planets server gave a JBOSS error
+WARN  [org.jboss.web.tomcat.service.JBossWeb] Failed to startConnectors
+LifecycleException:  service.getName(): “jboss.web”;  Protocol handler start failed: java.io.FileNotFoundException:
+So I moved on to attempt building the application using Subversion and ANT following the instructions from Open Planets Foundation  Wiki  for linux installation at
+http://wiki.opf-labs.org/display/PT/Install+Planets+Server+and+Planets+Suite+on+a+Linux+server
+These worked perfectly with some only a few minor changes to accomodate Windows
+I had Java 6 jdk  and ANT already installed so  I skipped those steps.
+I followed the ‘Adding paths, JAVA_HOME and ANT_HOME’ section by setting
+– JAVA_HOME to D:\Program Files\Java\jdk1.6.0_21
+– I had ANT in my path already (D:\apache-ant-1.8.1\bin)  for a different application so did not set up ANT_HOME
+Downloaded and ran Subversion from http://subversion.apache.org/packages.html  –  taking a Windows version  Win32Svn (32-bit client, server and bindings, MSI and ZIPs; maintained by David Darj)
+Downloaded Planets Server and Planets Suite Subversion by copying and pasting the OPF instructions.    These installed to a directory D:\~  so renamed that to D:\home after download had finished.
+Then over to the planets-server directory :
+Copied planets-server.properties.template file to  planets-server.properties
+Changed the path to the local planets-server to
+D:/home/planets/planets_server
+Changed the location of the server configuration directory to
+D:/home/planets/planets_server/server/default/conf/planets
+Left address/name of the machine as ‘localhost’ as this is a test on my pc
+Left the port the server will listen on as 8080
+Left the ssl port the server will listen on as 8443
+Changed username/ password  for user management database access.  This was a mistake as the Derby DB setup did not work properly and I  had to change back to the original values
+Copied the email configuration from OPF – as again this was a test implementation
+Then over to the Planets-suite directory for similiar changes :
+Copied build.properties.template to build.properties
+Changed the path where the installed IF framework is located to
+if_server.dir=D:/home/planets/planets_server
+Changed the  location of the IF and service config directory to if_server.conf=D:/home/planets/planets_server/server/default/conf/planets
+Changed thdirectory that stores the Data Registry configuration to if_server.doms.config.dir=D:/home/planets/planets-server-compiled/server/default/data/planets/dom-config
+Left the rest as the defaults
+if_server.host=localhost
+if_server.port=8080
+if_server.ssl.port=8443
+Then ran the ANT builds
+In Planets-server  …
+ant deploy:planets-server
+ant create:dbs
+(The documentation said to expect a number of the sql statements to fail)
+ant deploy:framework
+In Planets-suite …
+ant deploy:framework
+ant deploy:services
+ant deploy:testbed
+Then started the  Planets Server by changing to the bin directory where the complied version had been  installed.
+cd  D:\home\planets\planets-server \bin
+and running  run.bat
+To use Planets point your browser at http://localhost:8080/   and login with username user and password user.
+So overall an easy process.    Now on to exploring the operational aspects
+David Piper
+DSpace@Cambridge
+Posted in Uncategorized
+|
+Leave a comment
+EPIC (Evaluating Plato in Cambridge)
+Posted on February 3, 2011 by epiccambridge
+EPIC is a six month JISC funded project ( February to July 2011) which will investigate ways of improving the preservation services currently provided with DSpace@Cambridge    http://www.dspace.cam.ac.uk/
+DSpace@Cambridge is the University’s institutional repository – a  service providing a digital archive for scholarly publications and materials produced by the members of the University of Cambridge.
+A key activity of the project will be to explore the feasibility of using Plato and associated Planets tools for preservation planning and relevant preservation activities. It will identify a small number of deposited collections that are at risk and use Plato to investigate preservation options and develop plans for them.
+In order to inform the planning and to evaluate the results the project team will engage with user communities,seeking to capture their understanding of the significant properties which must be preserved. While the focus of the project is on preservation planning, we expect to carry out preservation actions on some collections. In other cases experiments will be conducted to identify potential future actions.
+Posted in Uncategorized
+|
+1 Comment
+Search for:
+Recent Posts
+DROID – a really useful tool
+Interview findings
+Survey significant properties for the selected collections
+Engaging with the user community
+Selecting the files for testing
+Recent Comments
+Jenny Mitcham on Engaging with the user co…epiccambridge on Engaging with the user co…Chris Rusbridge on Engaging with the user co…Mr WordPress on EPIC (Evaluating Plato in…
+Archives
+August 2011
+July 2011
+June 2011
+April 2011
+March 2011
+February 2011
+Categories
+Uncategorized
+Meta
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.com
+epiccambridge
+Create a free website or blog at WordPress.com.

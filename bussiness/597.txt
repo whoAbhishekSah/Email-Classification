@@ -1,0 +1,108 @@
+Improving mobile network capacity and efficiency | wireless point to multipoint backhaul and access networks | Cambridge Broadband Networks
+Jump to Navigation
+Privacy and cookies
+Search form
+Search
+Cambridge Broadband Networks
+Customer support
+Contact us
+SolutionsMobile backhaulSmall cell backhaulEnterprise accessISP networksProductsWhy choose licensed PMP?VectaStar platform introductionVectaStar ODU-SVectaStar 600VectaStar Metro 600VectaStar Radio ControllerNetwork management systemConfiguration AppServicesOverviewNetwork planning and designNetwork deploymentNetwork operationTrainingCoursesVectaStar Installer APCVectaStar SpecialistVectaStar VNMS AdministrationVectaStar VNMS OperatorVectaStar Engineer RCVectaStar Installer - ZFSVectaStar Installer RCWorkshop - VectaStar Network Element Recovery ProceduresWorkshop - VectaStar Network Planning ToolWorkshopVectaStar Engineer ZFSVectaStar Engineer VS2Calendar Support levelsCustomer supportWEEE recyclingAboutCBNLPress releasesCBNL ranked in top 200 of the fastest growing technology companies on the Deloitte Technology Fast 500 EMEA 2010CBNL cleans upCBNL raises $16.5M for global market pushPath to Gigabit Multipoint Microwave Backhaul AnnouncedCBNL and NEC Europe deliver VectaStar backhaul solutions across EuropeCBNL announces Network Design Service GroupCBNL appoint former Motorola executive as chairmanCBNL climb up Tech Track 100CBNL expand and consolidate production facilitiesCBNL honored at Stevies®CBNL launch VectaStar Network Management System to bring real-time actionable intelligence to backhaul networksCBNL launches VectaStar in 28GHz bandCBNL named as finalist for prestigious World Communication Awards 2009CBNL partner with Gateway Communications to create world’s largest point to multipoint microwave networkCBNL ranked 36th fastest growing technology company in the UK in the 2010 Deloitte Technology Fast 50CBNL releases VectaStar Next GenerationCBNL secures $7.5M financing packageCBNL selected by MTN to power 3G backhaul across NigeriaCBNL to join NGMN AllianceInnovation pays off for CBNLMTN Group and CBNL complete multinational framework agreementMobily goes point-to-multipoint to backhaul its rapidly expanding 3.75G HSPA networkNEC delivers enterprise access and backhaul network to Antenna Hungária using VectaStar from CBNLSunday Times Tech Track 100 2009 recognises CBNL as the UK’s fastest growing wireless hardware companySunday Times Tech Track 100 2010 recognises CBNL’s continuing growthVectaStar powers Gateway to African Innovation PrizeWana chooses CBNL for multi-service deliveryWana to build first VectaStar Next Generation backhaul networkCBNL backhaul Telefonica O2 small cell Wi-Fi networkCBNL brings its backhaul expertise to the Small Cell ForumCBNL deliver on 4G for O2CBNL demonstrate 40% microwave backhaul efficiency gainCambridge Broadband Networks and NEC deliver high capacity enterprise access for QSCCambridge Broadband Networks appoint Lionel Chmilewsky as Chief Executive OfficerCambridge Broadband Networks continues global expansionEasy does itNGMN outlines requirements for small cell backhaul123Net expands access to high-speed fixed wireless connectivity in Detroit with CBNLCBNL and Airtel Kenya head to finals for two industry awardsCBNL and Airtel Kenya win at Telecoms.com awardsCBNL and Straight Path to bring 39GHz licensed point-to-multipoint to major US citiesCBNL and VSAT deploy wireless infrastructure for ground-breaking smart city transportation system in Rzeszow, PolandCBNL announces strategic partnership with ConVergence TechnologiesCBNL appoint Jonathan McKay as ChairmanCBNL chosen as a 2014 Red Herring Top 100 Europe winnerCBNL doubles mobile backhaul capacity for LTE networksCBNL launch 2016 PMP trade-in and modernisation programCBNL launch new wireless solution in response to US market demandCBNL launches VectaStar Metro for small cell backhaulCBNL named as finalist in its sixth major award of 2016CBNL offers 14.4Gb/s backhaul capacity with new wireless solutionCBNL partners with Alliance Corporation to widen availability of carrier-grade
+wireless solutionsCBNL pioneers new millimeter wave licensed PMPCBNL shortlisted for Telecoms.com AwardCBNL strengthen R&D with appointment of Dr David PurleCBNL success at the 2013 Small Cell Industry AwardsCBNL to Chair the Small Cell Forum Backhaul GroupCBNL triumphs at the Global Carrier AwardsCBNL wins Best in Show at the Fierce Innovation AwardsCBNL wins Wireless Backhaul Distinction AwardCBNL wins prestigious CCA Innovation Award 2016Cellcom selects CBNL’s millimeter wave backhaul for LTE small cellsFirst Communications bring 28GHz fixed wireless to Ohio with CBNLGDS doubles size of VectaStar network to meet high demand for enterprise access servicesInterCEL + and CBNL build breakthrough wireless network to boost broadband in GuineaMTN Nigeria upgrades largest regional 3G network with CBNLNew report shows CBNL reach 50% share of growing
+point-to-multipoint backhaul marketNew small cell backhaul reportTelecoms leaders reveal how to address capacity challenges and
+prepare for 5GWindstream to expand fixed wireless technology in 40 markets using CBNL equipment and Straight Path spectrumWinncom Technologies partners with CBNL to offer customers its
+carrier-grade wireless VectaStar solutionsIn the newsEvents5G North America/ Big Communications EventAfricaComBroadband Russia Forum 2016CommunicAsiaMobile Carriers ShowMobile World CongressMobile World CongressSmall Cell World SummitWireless Infrastrcuture ShowBackhaul blogInternet ready? How Africa is getting onlineInvaders of the last mileLTE Backhaul Traffic EstimationSign-upSmall cells, big pictureA broad spectrum of issuesCBNL celebrate as market leadersCBNL sponsors local school exchange programme to AfricaChampioning the OlympicsGreen is the new black - part 1Green is the new blackGreen is the new blackHiley out and about – The Femto World SummitSmall cell, big opportunityThe future of backhauling X2The race is onA smart vision for small cellsAfircaAfricaAlliance unifies industry requirements on small cell backhaulAnalysys MasonBackhaul bandwidth across the spectrumBackhaul performance takes centre stage for 2012 | mobile wireless backhaul | point to multipoint microwave | LTE backhaulBandwidthCBNL Centre of Excellence opens in NigeriaCambridgeCapacity comparisons and TDD vs FDDCienaComberton Village CollegeCommunications AfricaCompany newsCostCostsCoverageDeveloping markets playing leapfrogEnergy savingsEnvironmentEuropean Commission Waste Electrical and Electronic Equipment (WEEE) DirectiveEvents2012 Olympics2G4G5G5G BackhaulARPUAT&TAfricaCom 2015 – innovation is set to shineAfricaComAlcatel LucentBackhaulBackhaulBackhaul efficiency takes centre stage at packet microwave forumBackhaul no longer stuck in the middleBusiness caseCBNL AppCBNL in the spotlight for Mobile EuropeCEPT SE19Cambridge WirelessCapacityCoMPComparing total cost of ownership of backhaul systemsConnectivityEconomicsEfficiencyEricsson Mobility ReportFDDFIFA World CupFibreFuture of Wireless International ConferenceGSMAHigh capacity backhaul for small cellsInternet of ThingsLTE-ALatencyM2MM2M, mobile data traffic and next generation backhaulMEFMobile World CongressNGMNPacket Microwave and Backhaul ForumQ&A: Lionel Chmilewsky, CEO of CBNLReflecting on the 5th Cambridge Wireless Future of Wireless International ConferenceSmall Cell ForumSmall Cell WorldSmall Cell World SummitSmall Cell World preview: the backhaul business caseSmall Cells World SummitSmartphonesSpectrum availabilityTDDTDD vs FDD again: low latency backhaulTNMOTeleSemanaThe Mobile NetworkThe Small Cell Forum Says: Backhaul is NOT a barrier to Small Cell DeploymentThe five year story – mobile data, backhaul and VectaStarThe future of small cells – a perspective from across the industryThe mobile World Cup – the infrastructure and capacity challenge facing Brazilian operatorsTo site share or not to site share? A small cell update from TNMOTotal Cost of OwnershipTuning into small cell backhaul – Small Cell World Summit previewUKUnderstanding when to deploy PMPVectaStarVectaStar MetroVectaStar Metro 600What do PMP and Airbnb have in common?World Radiocommunication Conferencesairbnbbackhaul deploymentdigital dividendduplexing schemeeICICfixed wirelessinstallationinteroperabilitysmall cell backhaultower sharingwidebandFive ways to deploy small cells and the implications for backhaulSmall cellsCambridgeSmall cells3GEventsGlobal Business Summit on ICTHet-netsLTEResearchHot-spot or not?IPsec encryptionIndustry opens eyes to address 75% under-utilisation of cell site backhaulInnovationInnovation ObservatoryKeimaLTE Backhaul Traffic EstimationLondonLondon comes alive with innovationLooking forward to Mobile World Congress 2012Millimetre waveMozambiqueMultipoint backhaul setting the agendaNGMN Backhaul Evolution ProjectNear Field CommunicationNetwork designNew study shows multipoint delivers a 49% cost saving over other forms of backhaulNigeriaOur next webinar is in the diary: 3G/LTE multi-mode small cell deployment and backhaulPart of the PhenomenonPlanningPresentationsQuality of ExperienceQuality of serviceSmall cells: will local authorities attract the investment opportunities on offer?Smart CellSmartphones enabling smarter backhaulTechnology clusterTelecomTV: Small Cell BackhaulTelefonica O2The Cambridge PhenomenonThe Femto World SummitThe absolute trip of a lifetime!The small cell backhaul cost conundrumThe year mobile got BIG: key trends from Mobile World Congress 2012Tools of the trade for small cell backhaulTrainingResearchUbiquisysVideosWhite PaperWi-FiWirelessWireless can save up to 31% of costs in transitioning to fibre backhaulX2geotagsManagement teamSales leadershipBoardInvestorsCustomersPartnersNew partnershipsOur resellersCareersOverviewBenefitsVacanciesRadio Integration EngineerResourcesBrochuresInfographic - Rapid backhaulCBNL 2015 corporate brochureWhite papersLast mile backhaul options for west european mobile operatorsSpectrum and technology issues for microwave backhaul in EuropeA quick guide: modern point-to-multipoint microwave networksBackhauling X2Crucial economics for mobile data backhaulSmall cell backhaul: the big pictureSmall cell deployment strategies and best practice backhaulThe Effect of System Architecture on Net Spectral Efficiency for Fixed ServicesWireless backhaul can ease transition to fibreTotal cost of ownership and time to breakeven of last mile data transport for MNOs and ISPsVideos4G live in London: the backhaul behind the scenesCrucial backhaul economicsFrom 256 to 2048QAM: Dr John Naylon discusses the higher-order modulation on show at MWC 2012Green backhaul - efficiencies, cost savings and environmental benefitsSmall Cell Backhaul Requirements - the view from CBNL and the NGMNSmall cell backhaul - requirements, solutions and the role of wireless technologiesWhat is multipoint microwave backhaul?What we learnt about operator's plans for small cell deployment?Africacom 2013 - this year's trendsMWC 2013 - Dr John Naylon, CTO, CBNL, discusses small cell backhaulMWC 2013 - Lionel Chmilewsky, CEO, CBNLMWC 2014 - Implementation of LTE small cellsPacket Microwave Forum 2013, Day 1: SDN for efficient backhaul and highlightsPacket Microwave Forum 2013: highlightsPoint-to-multipoint radio finds a new home in small cell backhaulSmall Cells World Summit 2013 (1): backhaul strategies across developed and emerging marketsSmall Cells World Summit 2013 (2): backhaul market update and cost considerationsThe evolution of backhaul networksWebinarsWebinar: The compelling business case for multi-mode small cells | small cell backhaulWebinar: backhauling the customer experienceHetNet: preparing the transport network for the arrival of the small cellsPresentationsCrucial backhaul economicsEfficient mobile backhaulSmall Cells World Summit 2012 - Tools of the trade for small cell backhaulSmall Cells in a Big CityManaging OPEX and CAPEX in small cell backhaulCase studiesVectaStar for NGMN BackhaulGDSMTN Nigeria upgrades largest regional 3G network with CBNLMajor sporting event calls for 2G to 3G hybrid backhaul upgradeMobilyQSCTelefonicaAirtel Kenya and CBNL bring next generation mobile and enterprise access services to NairobiCBNL in AfricaMexican operator profits by switching from leased fibre to PMPVectaStar brings carrier-grade broadband across Silicon Valley and CaliforniaVectaStar replaces leased fiber in Ohio to increase carrier’s agility to scale networkMedia centreContactSales and general enquiries
+Next generation performance, unrivalled efficiency.The future of wireless has arrived.
+Mobile backhaulLTE proven backhaul with unrivalled total cost of ownership savingsFind out more...
+Small cell backhaulEasy to deploy small cell backhaul with a leading business caseFind out more...
+Enterprise accessFast to deploy and rapid ROI for corporate, utility and municipal networksFind out more...
+ISP NetworksFlexible and cost effective coverage for residential internet networksFind out more...
+Improving mobile network capacity and efficiency | point to multipoint microwave wireless backhaul and access solutions
+News and opinion
+African Tech podcast: an interview with CBNLAfrican Tech podcast: an interview with CBNL
+In the news - 9 February 2017
+Bridging the digital divide through wireless technology Bridging the digital divide through wireless technology
+In the news - 7 February 2017
+CBNL: John Naylon's 2017 Telecom TrendsCBNL: John Naylon's 2017 Telecom Trends
+In the news - 27 January 2017
+2017 Predictions: 5G progress in 2017 – cutting through the hype2017 Predictions: 5G progress in 2017 – cutting through the hype
+In the news - 16 January 2017
+CBNL wins Best in Show at the Fierce Innovation Awards CBNL wins Best in Show at the Fierce Innovation Awards
+News - 28 November 2016
+African Communications Yearbook: Backhaul in focusAfrican Communications Yearbook: Backhaul in focus
+In the news - 23 November 2016
+Next events
+Mobile World Congress
+27 - 3 March 2017
+Mobile Carriers Show
+5 - 7 April 2017
+5G North America/ Big Communications Event
+15 - 17 May 2017
+Wireless Infrastructure Show
+22 - 25 May 2017
+See all events
+In the spotlight
+Welcome to CBNL, welcome to next generation thinking
+CBNL is the market leader in
+point-to-multipoint (PMP) microwave.
+We serve customers in over 40 countries,
+including 7 of the world’s largest 10 operators.
+Our turnkey solutions offer an
+unrivalled business case of high capacity,
+guaranteed quality of service and total cost
+of ownership savings of up to 50%.
+Learn about our VectaStar solutions
+Latest case studies
+See all case studies
+Replacing leased fiber in Ohio
+Delivering carrier-grade broadband across California
+CBNL in Africa - supporting 24 customers across 14 countries
+Mexican operator profits by switching from leased fibre to PMP
+Airtel Kenya and CBNL bring next generation network to Nairobi
+MTN Nigeria
+Mobile backhaul
+SolutionsMobile backhaul
+Small cell backhaul
+Enterprise access
+ISP networks
+ProductsWhy choose licensed PMP?
+VectaStar platform introduction
+VectaStar ODU-S
+VectaStar 600
+VectaStar Metro 600
+VectaStar Radio Controller
+Network management system
+Configuration App
+ServicesOverview
+Network planning and design
+Network deployment
+Network operation
+Training
+Support levels
+Customer support
+WEEE recycling
+AboutCBNL
+Press releases
+In the news
+Events
+Backhaul blog
+Management team
+Sales leadership
+Board
+Investors
+Customers
+Partners
+Careers
+ResourcesBrochures
+White papers
+Videos
+Webinars
+Presentations
+Case studies
+Media centre
+ContactSales and general enquiries
+Contact us
+Customer support
+Sign up to our newsletter
+Follow us:
+Copyright © 2015 CBNL. Company number 03879840.
+Terms and Conditions                  Privacy and cookies

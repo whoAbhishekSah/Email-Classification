@@ -1,0 +1,55 @@
+UKOLN - Projects - IEMSR - JISC IE Metadata Schema Registry
+JISC IE Metadata Schema Registry
+Home
+Background
+Dissemination
+Contacts
+Phase 1
+Phase 2
+Phase 3
+Phase 4
+Introduction
+We've put some introductory material in a separate section of our web site, including:
+General information about metadata schema registries
+Multimedia introduction to the IEMSR suite of software tools
+Human-readable (we hope!) - resources about metadata
+Why not take a look?
+Documentation
+Documentation for the IEMSR software tools is available in the documentation subsection of this website.
+Software Download
+Downloads for the IEMSR software tools are also available in the documentation subsection of this website.
+About IEMSR
+The JISC IE Metadata Schema Registry (IEMSR) project is funded by JISC through its Shared Services Programme. The IEMSR project is developing a metadata schema registry as a pilot shared service within the JISC Information Environment.
+Metadata schema registries enable the publication, navigation and sharing of information about metadata. The IEMSR will act as the primary source for authoritative information about metadata schemas recommended by the JISC IE Standards framework.
+Metadata within the JISC IE is based largely on two key standards: the Dublin Core Metadata Element Set (DCMES) and the IEEE Learning Object Metadata (LOM) standard. The IEMSR will provide the JISC IE with a single point of referral for recommended schemas. It will allow various initiatives within the JISC IE to publish "application profiles" of these standards in a common registry, making them available to others. This provides a concrete way of encouraging sensible uniformity alongside necessary divergence. It helps avoid unnecessary duplication of effort, and supports sharing of common approaches.
+The IEMSR project will build on the work of previous projects which have explored provision of information about metadata at the level of data elements, element sets or application profiles. The MEG Registry project, funded by JISC and Becta in 2002, developed an RDF-based registry and schema creation tool. The project will re-engineer the MEG software to accommodate the IEEE LOM, supporting ongoing cooperation between the Dublin Core and IEEE LOM standardisation communities.
+Phase 3: October 2006 - August 2009
+Phase 3 of the project began in October 2006.
+Phase 3 Project Documents
+IEMSR Marketing Plan
+Project Plan
+Phase 2: July 2005 - September 2006
+Phase 2 of the project ran from July 2005 until September 2006.
+Phase 2 Project Documents
+Phase 2 Work Packages
+Project management
+User requirements
+Registry development
+Dissemination and evaluation
+Phase 1: January 2004 - June 2005
+Phase 1 of the project ran from January 2004 until June 2005. Partners in this phase of the project were UKOLN, University of Bath and the Institute for Learning and Research Technology (ILRT), University of Bristol. The Centre for Educational Technology Interoperability Standards (CETIS) and the British Educational Communications and Technology Agency (Becta) also contributed to the project in different areas.
+Phase 1 Project Documents
+Project Contributors
+Core Partners
+UKOLN, University of Bath
+http://www.ukoln.ac.uk/
+Institute for Learning and Research Technology (ILRT), University of Bristol
+http://www.ilrt.bris.ac.uk/
+Contributors
+Centre for Educational Technology Interoperability Standards (CETIS)
+http://www.cetis.ac.uk/
+British Educational Communications and Technology Agency (Becta)
+http://www.becta.org.uk/
+Web page content by Emma Tonkin of UKOLN
+Page last revised on: 6 July 2009
+Email comments to webmaster@ukoln.ac.uk

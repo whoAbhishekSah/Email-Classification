@@ -1,0 +1,28 @@
+Rhombus Factory Information System
+Factory Information System
+Factory Information System
+The Rhombus Factory Information System is a modular production control system for piece-part manufacturers.
+It is unusual in that it has been built up from a shop-floor data collection system, rather than down from an accounting system. This means that it has modules to handle many tasks on the shop-floor which you do not get in other software packages.
+Large companies use it for machine monitoring, OEE measurement, quality control and material traceability.
+Small and medium sized companies use it to run their businesses.
+Whether you want a simple tool to improve the performance of a single production line, or want a worldwide integrated Factory Information System, Rhombus Systems can provide it.
+Home
+Modules
+Manufacturing information
+Works order processing
+Sales order processing
+Purchase order processing
+Machine monitoring
+Statistical process control
+Stock control
+Maintenance management
+Subcontract order processing
+Finite capacity planning
+Document management
+Estimating and costing
+OEE measurement
+Outside the UK
+Customers
+About us
+Contact us
+©2011 Rhombus Systems Limited, Sumpter House, 8 Station Road, Histon, Cambridge CB24 9LQ

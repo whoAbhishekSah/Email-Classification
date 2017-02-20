@@ -1,0 +1,20 @@
+IAMSECT - Inter-institutional Authorisation Management to Support eLearning with reference
+to Clinical Teaching
+Home
+About
+Contact us
+The project team
+Existing documentation
+Dissemination
+Deliverables
+Glossary
+1 Jun 06
+Inter-institutional Authorisation Management to Support eLearning with reference
+to Clinical Teaching
+Not dead, just sleeping.... The IAMSECT project was a 2-year collaboration between the universities of
+Durham, Newcastle and Northumbria working on developing, testing and disseminating
+a practical approach to the problems of authentication and authorisation management
+utilising Shibboleth. The project, which was funded under the JISC Core Middleware Development
+Programme, has now concluded. We hope to make all remaining deliverables available
+by the end of July 06. The first draft of the project final report
+is available; this will be updated during the coming weeks.

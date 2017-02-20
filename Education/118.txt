@@ -1,0 +1,170 @@
+anthologizr | another JISC project WordPress blog
+anthologizr
+another JISC project WordPress blog
+Search
+Main menu
+Skip to primary content
+Skip to secondary content
+HomeAboutDocsToolsContribute
+Post navigation
+← Older posts
+Nearing completion
+Posted on December 1, 2012
+by
+RIchard M. Davis
+Reply
+A number of refinements and enhancements since the last update mean we are very close to having a version ready for release. The control panel now looks like this:
+Anthologizr EPrints Ebook Control Panel
+And the contents of each book can be viewed and edited like this:
+Anthologizr EPrints Ebook Conrol Panel
+The law of unintended consequences has left us with a few newly acquired gremlins in the EPUB output, which emerged in cross-reader testing (Calibre likes our E-book, but some other EPUB readers have decided not to). Once we locate this bug, and make a few usability enhancements to the Web UI, our work will be done, and we expect to ship a version of the plugin to the EPrints Bazaar very soon.
+Share this:Tweet
+Posted in Anthologizr
+|
+Leave a reply
+Roll your own e-books… what’s not to love?
+Posted on October 16, 2012
+by
+RIchard M. Davis
+Reply
+Richard talking about E-books at FOTE12 conference, Senate House, University of London
+I enjoyed presenting some of the early Anthologizr work to ULCC’s Future of Technology in Education (FOTE12) conference, as well as the general e-book message of earlier posts here. Slides embedded below (and also available in our repository.)
+One backchannel tweet I saw described me (I presume) as “some guy who thought e-books were great”, which I don’t think entirely represents the complexity of what I was trying to convey. Everything’s relative – it’s just a question of where we’ve arrived at, and the success of the devices that now frame e-books is so well-established that there’s no way back: what iPods and their successors did for physical audio media, iPads, Kindles and their ilk will surely do to printed media, no matter that it may have been “the most stable and mature market for creative works that exists”.
+The FOTE event also yielded some smashing photos, thanks to ULCC’s excellent marketing and photography team.
+Richard talking about e-books at FOTE12, Senate House, University of London
+Next stop for the project, I have been looking at a couple of e-book creating environments, and hope to write them up. And our next hackathon with our excellent development team will be upon us soon.
+Share this:Tweet
+Posted in Anthologizr
+|
+Leave a reply
+Towards a Simple Chronology of E-book Evolution
+Posted on September 20, 2012
+by
+RIchard M. Davis
+Reply
+As some of you may know, this project is now inextricably intertwined with work on my dissertation for the MSc E-Learning programme at Edinburgh University. In the process of reviewing the published literature and research about the uses of E-books, I frequently discovered articles with seemingly essential titles (“Survey of student attitudes to E-books”, etc) that turned out to be of little use to my deliberations as they were written in the 1990s, and equated e-books with CD-ROMs and floppy disks. Historically interesting, and potentially informative about the development of technologies and concepts. but clearly irrelevant to the current state of play in a post-iPad, post-Kindle era.
+To help in distinguishing the topical from the superannuated, I decided to created a simple temporal classification for e-book research and developments. I’ve divided the e-book epoch into four chronozones, of which the latter are of greatest relevance to current considerations around e-book usage and mobile learning.*
+E-book period
+Approximate dates
+Description
+paleo
+before 2001
+Includes all early electronic text endeavours (e.g. Project Gutenberg, 1970s), e-books on physical media such as CD-ROM (1980s), and early efforts based on the World Wide Web (1990s).
+meso
+2001 – 2006
+2001 saw the launch of Safari Online e-book distribution platform a significant step by tech-savvy publishers O’Reilly in partnership with Pearson. The e-books are predominantly PDF, and probably get printed locally by purchasers, but there is a strong sense of the electronic version supplanting paper.
+The period sees the proliferation of mobile phones and also a wide range of hand-held PDAs, and a number of approaches to e-reading are explored, notably the Mobipocket application/format, usable across many PDA platforms. In 2005 Amazon acquired Mobipocket to develop what would become the Kindle. In 2006 the Sony PRS-500 Reader was the first commercial e-reader in the US to use an e-ink display.
+neo
+2007 – 2009
+Begins with the launch of the Apple iPhone, uniting PDA and mobile phone technology, and the first Amazon Kindle (using e-ink).
+Also in 2007 the XHTML-based EPUB format was adopted as a standard by the International Digital Publishing Forum.
+holo
+2010 – present
+2010 saw the launch of the more-affordable Kindle 3, and the Apple iPad, leading to a sea-change in expectations, uptake of ‘e-reader’ devices and ubiquitous mobile computing.
+As you can see, research into e-book usage patterns in the paleo or meso periods is going to be of little relevance, other than historical, when considering current trends in mobile computing and e-book usage.  Put another way – since 2010 my mum and dad have acquired and used both a Kindle and an iPad: that changes things.
+* I intend to use this system to tag the bibliography I’m currently assembling in Citeulike.
+Share this:Tweet
+Posted in Anthologizr
+|
+Leave a reply
+First Flight
+Posted on August 30, 2012
+by
+RIchard M. Davis
+Reply
+Now that Patrick, Rory and José have cracked some character encoding issues deep in the heart of EPrints, we have a test repository where we can
+Select items from a search results page
+Add the items to a “Shelf” (another EPrints plugin we are using)
+Export the contents of a Shelf in EPUB format.
+It’s not pretty at the moment, so we will do some more work before putting it in a public demo repository for you all to play with. But it’s our first critical milestone, and it works, like this:
+Figure 1: With “Shelves” installed the Search Results page offers the option to Add the results to a pre-defined Shelf
+Figure 2: The “View Shelf” screen displays the user-defined shelf contents and the EPUB export option
+When we select Export As EPub and click the Export button, Anthologizr immediately sends us an EPub file as a download for your browser to handle in whatever way it chooses. (If you have any problems downloading the EPub from that link, I have also created a ZIP file version.)
+A number of issues leap out, and these are what we will deal with next:
+The Shelves interface is pretty ugly, we can fix that with nice buttons
+The Shelves “Add to shelves” tools only appear on Search Results pages – it would be nice if they appeared also on Browse Views
+We have only tried it on the low-hanging fruit of HTML files in the repository, we need next to add support for image items included on a Shelf, and then see how far we get with PDFs
+The EPub seems to function fine in Calibre, I haven’t tested it yet on iBooks or Kobo, but will do and report any issues. The online EPUB validator reports a few typical XML snafus that I am sure we can fix:
+EPUB Validator results
+Other enhancements we need to make are:
+Add cover pages including title page, table of contents and licensing information
+Embed appropriate metadata (DC, etc)
+Work out how to handle images embedded in HTML, assuming they are correctly deposited in EPrints as additional files with the HTML document
+Share this:Tweet
+Posted in Anthologizr
+|
+Leave a reply
+When is a book not a book?
+Posted on July 18, 2012
+by
+RIchard M. Davis
+5
+Also arising from promoting Anthologizr at OR2012 was the matter of when, whether and why we perceive electronic documents to truly be ‘books’.
+It arose in part from my experience of downloading ‘books’ (in EPUB or MOBI format) from Amazon and elsewhere. Of course these are only electronic files, just like the thousands of PDFs, Word, HTML and text files I have downloaded before, so why do I find it easier to think of these as ‘books’?
+Chris Awre has suggested that the significance lies in how the formats are then presented, and I am inclined to agree: it makes a considerable difference that the target device is a dedicated e-book reader – that portable, inexhaustible, infinite book that Borges promised us – rather than a laser printer or a desktop/laptop computer monitor. Not only does the dedicated device have the right dimensions and portability, but it offers “electronic” enhancements, such as automatic bookmarks, and full-text search.
+As I was leaving Edinburgh, I was also made aware of the Getty Introduction To Metadata, an “online publication devoted to metadata, its types and uses, and how it can improve access to digital resources.” It is free online in HTML and PDF versions, as well as in a printed version. It doesn’t call itself a “book” and in my views, in its electronic manifestations, most definitely is not an e-book. The HTML version packs all the detritus of being a “website”, and the chunked PDF version no doubt prints beautifully on A4 or Letter, but falls far short of being anything I’d call a “book”.
+“Can I get the Getty Introduction to Metadata as an e-book for my Kindle?”
+And yet the Getty Introduction To Metadata could so easily have been issued as an “e-book” too. The chapters are just the kind of material one might expect to find in an Anthologizr-enabled repository, to pick-and-choose as appropriate.
+I proved this, by turning it into a passable EPUB and (via Calibre) MOBI on the train journey back from Edinburgh to London. The terrible crimes that the Web version commits against the most fundamental principles of HTML markup made this a more laborious task than it might have been, but it is conceptually trivial, and readily scriptable.
+Share this:Tweet
+Posted in Anthologizr
+|
+5 Replies
+Anthologizr @ #OR2012 and #JISCLMS
+Posted on July 18, 2012
+by
+RIchard M. Davis
+Reply
+I had a great opportunity to introduce Anthologizr at Open Repositories 2012 in a short presentation at the EPrints User Group meeting, chaired by Patrick. The presentation was(albeit imperfectly, on my phone) so I could share it with the JISC LMS programme meeting in Birmingham the following day.
+Lots of great feedback and interest in Anthologizr from both events. A particularly useful followup came from Chris Awre at Hull, who drew my attention to the JISC Campus-based Publishing Repository Integrator (CAPRI) project at Hull which has synergies not only with our aims, but also with the recent SAS Open Journals project we were involved with. The CAPRI project also developed an online campus journal infrastructure, but (unlike SAS OJS) included Ebook formats among its outputs. Many thanks to Chris and Ben Kay for making their presentation available via Slideshare:
+Share this:Tweet
+Posted in Anthologizr
+|
+Leave a reply
+First Anthologizr Hackathon
+Posted on July 12, 2012
+by
+RIchard M. Davis
+Reply
+On Friday 6th we held the first Anthologizr Hackathon for the project team. Patrick McSweeney joined us at Senate House to get to discuss the requirements for Antholgizr and best approaches to achieving them. We aimed to make progress on the first critical milestone, namely to get a barebones EPrints export plugin working, into which we can start piling the gory innards of the EPub creation code.
+We decided to focus on building the Anthologizr tool on two existing EPrints Bazaar plugins, Shelves and Collections.
+Rory, José and Patrick hard at work on a thorny EPrints export problem
+Each of these plugins provides a framework for creating arbitrary aggregations of items in a repository, suitable for us to start anthologising. Shelves works by creating a new EPrints dataset which users can add items too; Collections works slightly differently, by creating a new EPrints item, of type ‘collection’, which aggregates other items. We will assess over the course of development if either approach offers significant advantages over the other (particularly with regard to the end-user experience).
+Rory and Patrick focused on getting the new export plugin working with Shelves, and, at length, managed to get some XML output. José investigated the Perl EPUB library, with promising results. The end results were encouraging and we briefly had an EPUB exporter running on our test repository. We are very close now to the point where will have a working plugin that will provide an option like the one illustrated below:
+Simulated screenshot of the Anthologizr EPUB export option for an EPrints Shelf (click to zoom)
+Share this:Tweet
+Posted in Anthologizr
+|
+Leave a reply
+Post navigation
+← Older posts
+Recent Posts
+Nearing completion
+Roll your own e-books… what’s not to love?
+Towards a Simple Chronology of E-book Evolution
+First Flight
+When is a book not a book?
+Anthologizr @ #OR2012 and #JISCLMS
+First Anthologizr Hackathon
+Reflections on some early E-book experiments
+Use case #1
+A long time ago…
+Anthologizr Partners
+JISC Digital Infrastructure Team
+ULCC Digital Archives & Repositories
+Programme Siblings
+EBASS25 project
+HIKE project
+Shared LMS Study project
+The Benefits of Sharing Project
+Some Related Projects
+AIM25 Step Change
+Enhancing Linnean Online
+JISC Future-Proofing Project
+JISC SHARD Project
+SAS Open Journals Project
+Blog at WordPress.com.
+anthologizr
+Create a free website or blog at WordPress.com.
+Post to
+Cancel

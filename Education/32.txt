@@ -1,0 +1,760 @@
+Hedge fund - Wikipedia
+Hedge fund
+From Wikipedia, the free encyclopedia
+Jump to:					navigation, 					search
+Financial market participants
+Credit unions
+Insurance companies
+Investment banks
+Investment funds
+Pension funds
+Prime brokers
+Trusts
+Finance
+Financial market
+Participants
+Corporate finance
+Personal finance
+Public finance
+Banks and banking
+Financial regulation
+Fund governance
+v
+t
+e
+A hedge fund is an investment fund that pools capital from accredited individuals or institutional investors and invests in a variety of assets, often with complex portfolio-construction and risk-management techniques.[1] It is administered by a professional investment management firm, and often structured as a limited partnership, limited liability company, or similar vehicle.[2][3] Hedge funds are generally distinct from mutual funds as their use of leverage is not capped by regulators and distinct from private equity funds as the majority of hedge funds invest in relatively liquid assets.[4][5]
+The name hedge fund originated from the paired long and short positions that the first of these funds used to hedge market risk. Over time, the types and nature of the hedging concepts expanded, as did the different types of investment vehicles. Today, hedge funds engage in a diverse range of markets and strategies and employ a wide variety of financial instruments and risk management techniques.[3]
+Hedge funds are made available only to certain accredited investors and cannot be offered or sold to the general public.[1] As such, they generally avoid direct regulatory oversight, bypass licensing requirements applicable to investment companies, and operate with greater flexibility than mutual funds and other investment funds.[6] However, regulations passed in the United States and Europe after the financial crisis of 2007–08 were intended to increase government oversight of hedge funds and eliminate certain regulatory gaps.[7]
+Hedge funds have existed for many decades, and became increasingly popular, growing to be one of the world's largest asset management classes by 2014.[8] However, according to a report by Hedge Fund Research published October 2015, hedge fund industry assets shrank "by $95 billion to 2.87 trillion in the third quarter, making 2015 their worst year since 2008.[9]
+Hedge funds are most often open-ended and allow additions or withdrawals by their investors (generally on a monthly or quarterly basis).[1] A hedge fund's value is calculated as a share of the fund's net asset value, meaning that increases and decreases in the value of the fund's investment assets (and fund expenses) are directly reflected in the amount an investor can later withdraw.
+Many hedge fund investment strategies aim to achieve a positive return on investment regardless of whether markets are rising or falling ("absolute return"). Hedge fund managers often invest money of their own in the fund they manage, which serves to align their own interests with those of the investors in the fund.[10][11] A hedge fund typically pays its investment manager an annual management fee (for example 1% of the assets of the fund), and a performance fee (for example 20% of the increase in the fund's net asset value during the year).[1] Some hedge funds have several billion dollars of assets under management (AUM). As of 2009, hedge funds represented 1.1% of the total funds and assets held by financial institutions.[12] As of June 2013, the estimated size of the global hedge fund industry was US$2.4 trillion.
+Contents
+1 Etymology
+2 History
+3 Notable hedge fund managers
+4 Strategies
+4.1 Global macro
+4.2 Directional
+4.3 Event-driven
+4.4 Relative value
+4.5 Miscellaneous
+5 Risk
+5.1 Risk management
+5.2 Transparency and regulatory considerations
+5.3 Risks shared with other investment types
+6 Fees and remuneration
+6.1 Fees paid to hedge funds
+6.2 Remuneration of portfolio managers
+7 Structure
+7.1 Domicile and taxation
+7.2 Basket options
+7.3 Investment manager locations
+7.4 The legal entity
+7.5 Types of funds
+7.6 Side pockets
+8 Regulation
+8.1 United States
+8.2 Europe
+8.3 Other
+9 Performance
+9.1 Measurement
+9.2 Sector-size effect
+9.3 Hedge fund indices
+9.3.1 Non-investable indices
+9.3.2 Investable indices
+9.3.3 Hedge fund replication
+10 Debates and controversies
+10.1 Systemic risk
+10.2 Transparency
+10.3 Links with analysts
+10.4 Value in mean/variance efficient portfolios
+11 See also
+12 Notes
+13 Further reading
+14 External links
+Etymology[edit]
+The word "hedge", meaning a line of bushes around a field, has long been used as a metaphor for the placing of limits on risk.[13] Early hedge funds sought to hedge specific investments against general market fluctuations by shorting the market, hence the name.[14]:4 Nowadays, however, many different investment strategies are used, many of which do not "hedge risk".[14]:16–34[15]
+History[edit]
+During the US bull market of the 1920s, there were numerous private investment vehicles available to wealthy investors. Of that period the best known today is the Graham-Newman Partnership, founded by Benjamin Graham and Jerry Newman, which was cited by Warren Buffett in a 2006 letter to the Museum of American Finance as an early hedge fund.[16]
+The sociologist Alfred W. Jones is credited with coining the phrase "hedged fund"[17][18] and is credited with creating the first hedge fund structure in 1949, although this has been disputed.[19] Jones referred to his fund as being "hedged", a term then commonly used on Wall Street to describe the management of investment risk due to changes in the financial markets.[20]
+In the 1970s, hedge funds specialized in a single strategy and most fund managers followed the long/short equity model.[clarification needed] Many hedge funds closed during the recession of 1969–70 and the 1973–1974 stock market crash due to heavy losses. They received renewed attention in the late 1980s.[18] During the 1990s, the number of hedge funds increased significantly, funded with wealth created during the 1990s stock market rise.[17] The increased interest was due to the aligned-interest compensation structure (i.e. common financial interests) and the promise of above high returns.[21] Over the next decade hedge fund strategies expanded to include: credit arbitrage, distressed debt, fixed income, quantitative, and multi-strategy.[18] US institutional investors such as pension and endowment funds began allocating greater portions of their portfolios to hedge funds.[citation needed]
+During the first decade of the 21st century hedge funds gained popularity worldwide, and by 2008 the worldwide hedge fund industry held US$1.93 trillion in assets under management (AUM).[22][23] However, the 2008 financial crisis caused many hedge funds to restrict investor withdrawals and their popularity and AUM totals declined.[24] AUM totals rebounded and in April 2011 were estimated at almost $2 trillion.[25][26] As of February 2011[update], 61% of worldwide investment in hedge funds comes from institutional sources.[27] In June 2011, the hedge funds with the greatest AUM was Bridgewater Associates (US$58.9 billion), Man Group (US$39.2 billion), Paulson & Co. (US$35.1 billion), Brevan Howard (US$31 billion), and Och-Ziff (US$29.4 billion).[28] Bridgewater Associates, had $70 billion under management as of 1 March 2012[update].[29][30] At the end of that year, the 241 largest hedge fund firms in the United States collectively held $1.335 trillion.[31] In April 2012, the hedge fund industry reached a record high of US$2.13 trillion total assets under management.[32]
+Notable hedge fund managers[edit]
+George Soros, fund manager of Quantum Group of Funds
+In June 2015, Forbes listed:
+George Soros of Quantum Group of Funds
+Ray Dalio of Bridgewater Associates, the world's largest hedge fund firm in 2015 with US$155 billion assets under management[33]
+Steven A. Cohen of Point72 Asset Management - formerly known as S.A.C. Capital Advisors[34][35][36]
+John Paulson of Paulson & Co. whose hedge funds as of December 2015 had $19 billion assets under management, compared to $18 billion in September 2013 and $36 billion in early 2011[37]
+David Tepper of Appaloosa Management, Paul Tudor Jones II of Tudor Investment Corporation
+Daniel Och of Och-Ziff Capital Management Group [38][39] with more than $40 billion in assets under management in 2013[40][41]
+Israel Englander of Millennium Management
+Leon G. Cooperman of Omega Advisors[42]
+Michael Platt of BlueCrest Capital Management (UK) Europe’s third-biggest hedge-fund firm[43]
+James Dinan of York Capital Management[44]
+Stephen Mandel Jr. of Lone Pine Capital with $26.7 billion under management at end June 2015[45]
+Larry Robbins of Glenview Capital Management with approximately $9.2 billion of assets under management as of July 2014[46]
+Glenn Dubin of Highbridge Capital Management[47][48][49]
+Paul Singer of Elliott Management Corporation, an activist hedge fund with more than US$23 billion in assets under management in 2013,[50][51] and a portfolio worth $8,124,567,000 as of the first quarter of 2015[52][53][54]
+Michael Hintze of CQS with $14.4 billion of assets under management as of June 2015[55]
+David Einhorn of Greenlight Capital,[56][57] as the top twenty billionaire hedge fund managers.[58]
+Bill Ackman of Pershing Square Capital Management LP
+Strategies[edit]
+Hedge fund strategies are generally classified among four major categories: global macro, directional, event-driven, and relative value (arbitrage).[59] Strategies within these categories each entail characteristic risk and return profiles. A fund may employ a single strategy or multiple strategies for flexibility, for risk management, or for diversification.[60] The hedge fund's prospectus, also known as an offering memorandum, offers potential investors information about key aspects of the fund, including the fund's investment strategy, investment type, and leverage limit.[61]
+The elements contributing to a hedge fund strategy include: the hedge fund's approach to the market; the particular instrument used; the market sector the fund specializes in (e.g. healthcare); the method used to select investments; and the amount of diversification within the fund. There are a variety of market approaches to different asset classes, including equity, fixed income, commodity, and currency. Instruments used include: equities, fixed income, futures, options and swaps. Strategies can be divided into those in which investments can be selected by managers, known as "discretionary/qualitative", or those in which investments are selected using a computerized system, known as "systematic/quantitative".[62] The amount of diversification within the fund can vary; funds may be multi-strategy, multi-fund, multi-market, multi-manager or a combination.
+Sometimes hedge fund strategies are described as absolute return and are classified as either market neutral or directional. Market neutral funds have less correlation to overall market performance by "neutralizing" the effect of market swings, whereas directional funds utilize trends and inconsistencies in the market and have greater exposure to the market's fluctuations.[60][63]
+Global macro[edit]
+Main article: Global macro
+Hedge funds using a global macro investing strategy take sizable positions in share, bond or currency markets in anticipation of global macroeconomic events in order to generate a risk-adjusted return.[63] Global macro fund managers use macroeconomic ("big picture") analysis based on global market events and trends to identify opportunities for investment that would profit from anticipated price movements. While global macro strategies have a large amount of flexibility due to their ability to use leverage to take large positions in diverse investments in multiple markets, the timing of the implementation of the strategies is important in order to generate attractive, risk-adjusted returns.[64] Global macro is often categorized as a directional investment strategy.[63]
+Global macro strategies can be divided into discretionary and systematic approaches. Discretionary trading is carried out by investment managers who identify and select investments; systematic trading is based on mathematical models and executed by software with limited human involvement beyond the programming and updating of the software. These strategies can also be divided into trend or counter-trend approaches depending on whether the fund attempts to profit from following trends (long or short-term) or attempts to anticipate and profit from reversals in trends.[62]
+Within global macro strategies, there are further sub-strategies including "systematic diversified", in which the fund trades in diversified markets, or "systematic currency", in which the fund trades in currency markets.[65]:348 Other sub-strategies include those employed by commodity trading advisors (CTAs), where the fund trades in futures (or options) in commodity markets or in swaps.[66] This is also known as a managed future fund.[63] CTAs trade in commodities (such as gold) and financial instruments, including stock indices. In addition they take both long and short positions, allowing them to make profit in both market upswings and downswings.[67]
+Directional[edit]
+Directional investment strategies use market movements, trends, or inconsistencies when picking stocks across a variety of markets. Computer models can be used, or fund managers will identify and select investments. These types of strategies have a greater exposure to the fluctuations of the overall market than do market neutral strategies.[60][63] Directional hedge fund strategies include US and international long/short equity hedge funds, where long equity positions are hedged with short sales of equities or equity index options.
+Within directional strategies, there are a number of sub-strategies. "Emerging markets" funds focus on emerging markets such as China and India,[65]:351 whereas "sector funds" specialize in specific areas including technology, healthcare, biotechnology, pharmaceuticals, energy and basic materials. Funds using a "fundamental growth" strategy invest in companies with more earnings growth than the overall stock market or relevant sector, while funds using a "fundamental value" strategy invest in undervalued companies.[65]:344 Funds that use quantitative and Financial signal processing techniques for equity trading are described as using a "quantitative directional" strategy.[65]:345 Funds using a "short bias" strategy take advantage of declining equity prices using short positions.[68]
+Event-driven[edit]
+Main article: Event-driven investing
+Event-driven strategies concern situations in which the underlying investment opportunity and risk are associated with an event.[69] An event-driven investment strategy finds investment opportunities in corporate transactional events such as consolidations, acquisitions, recapitalizations, bankruptcies, and liquidations. Managers employing such a strategy capitalize on valuation inconsistencies in the market before or after such events, and take a position based on the predicted movement of the security or securities in question. Large institutional investors such as hedge funds are more likely to pursue event-driven investing strategies than traditional equity investors because they have the expertise and resources to analyze corporate transactional events for investment opportunities.[64][70]
+Corporate transactional events generally fit into three categories: distressed securities, risk arbitrage, and special situations.[64] Distressed securities include such events as restructurings, recapitalizations, and bankruptcies.[64] A distressed securities investment strategy involves investing in the bonds or loans of companies facing bankruptcy or severe financial distress, when these bonds or loans are being traded at a discount to their value. Hedge fund managers pursuing the distressed debt investment strategy aim to capitalize on depressed bond prices. Hedge funds purchasing distressed debt may prevent those companies from going bankrupt, as such an acquisition deters foreclosure by banks.[63] While event-driven investing in general tends to thrive during a bull market, distressed investing works best during a bear market.[70]
+Risk arbitrage or merger arbitrage includes such events as mergers, acquisitions, liquidations, and hostile takeovers.[64] Risk arbitrage typically involves buying and selling the stocks of two or more merging companies to take advantage of market discrepancies between acquisition price and stock price. The risk element arises from the possibility that the merger or acquisition will not go ahead as planned; hedge fund managers will use research and analysis to determine if the event will take place.[70][71]
+Special situations are events that impact the value of a company's stock, including the restructuring of a company or corporate transactions including spin-offs, share-buy-backs, security issuance/repurchase, asset sales, or other catalyst-oriented situations. To take advantage of special situations the hedge fund manager must identify an upcoming event that will increase or decrease the value of the company's equity and equity-related instruments.[72]
+Other event-driven strategies include: credit arbitrage strategies, which focus on corporate fixed income securities; an activist strategy, where the fund takes large positions in companies and uses the ownership to participate in the management; a strategy based on predicting the final approval of new pharmaceutical drugs; and legal catalyst strategy, which specializes in companies involved in major lawsuits.
+Relative value[edit]
+Main article: Relative value (economics)
+Relative value arbitrage strategies take advantage of relative discrepancies in price between securities. The price discrepancy can occur due to mispricing of securities compared to related securities, the underlying security or the market overall. Hedge fund managers can use various types of analysis to identify price discrepancies in securities, including mathematical, technical or fundamental techniques.[73] Relative value is often used as a synonym for market neutral, as strategies in this category typically have very little or no directional market exposure to the market as a whole.[74] Other relative value sub-strategies include:
+Fixed income arbitrage: exploit pricing inefficiencies between related fixed income securities.
+Equity market neutral: exploits differences in stock prices by being long and short in stocks within the same sector, industry, market capitalization, country, which also creates a hedge against broader market factors.
+Convertible arbitrage: exploit pricing inefficiencies between convertible securities and the corresponding stocks.
+Asset-backed securities (Fixed-Income asset-backed): fixed income arbitrage strategy using asset-backed securities.
+Credit long / short: the same as long / short equity but in credit markets instead of equity markets.
+Statistical arbitrage: identifying pricing inefficiencies between securities through mathematical modeling techniques
+Volatility arbitrage: exploit the change in implied volatility instead of the change in price.
+Yield alternatives: non-fixed income arbitrage strategies based on the yield instead of the price.
+Regulatory arbitrage: the practice of taking advantage of regulatory differences between two or more markets.
+Risk arbitrage: exploiting market discrepancies between acquisition price and stock price
+Miscellaneous[edit]
+In addition to those strategies within the four main categories, there are several strategies that do not fit into these categorizations or can apply across several of them.
+Fund of hedge funds (Multi-manager): a hedge fund with a diversified portfolio of numerous underlying single-manager hedge funds.
+Multi-strategy: a hedge fund using a combination of different strategies to reduce market risk.
+Minimum account fund: the minimum amount to open a hedge fund account is (say) 10 million dollars (with 25% non-holding) or 2.5 million dollars with holding.
+Multi-manager: a hedge fund wherein the investment is spread along separate sub-managers investing in their own strategy.
+Withdraw holding: a hold is placed on all major withdrawals for 90 days prior and after hedge fund is created and established.
+130-30 funds: equity funds with 130% long and 30% short positions, leaving a net long position of 100%.
+Risk parity: equalizing risk by allocating funds to a wide range of categories while maximizing gains through financial leveraging.
+Risk[edit]
+Investment in hedge funds may provide diversification which can reduce the overall risk of an investor's portfolio.[75] Managers of hedge funds use particular trading strategies and instruments with the specific aim of reducing market risks to produce risk-adjusted returns that are consistent with investors' desired level of risk.[76] Hedge funds ideally produce returns relatively uncorrelated with market indices.[77] While "hedging" can be a way of reducing the risk of an investment, hedge funds, like all other investment types, are not immune to risk. According to a report by the Hennessee Group, hedge funds were approximately one-third less volatile than the S&P 500 between 1993 and 2010.[78]
+Risk management[edit]
+Investors in hedge funds are, in most countries, required to be qualified investors who are assumed to be aware of the investment risks, and accept these risks because of the potential returns relative to those risks. Fund managers may employ extensive risk management strategies in order to protect the fund and investors. According to the Financial Times, "big hedge funds have some of the most sophisticated and exacting risk management practices anywhere in asset management."[76] Hedge fund managers may hold a large number of investment positions for short durations and are likely to have a particularly comprehensive risk management system in place. Funds may have "risk officers" who assess and manage risks but are not otherwise involved in trading, and may employ strategies such as formal portfolio risk models.[79] A variety of measuring techniques and models may be used to calculate the risk incurred by a hedge fund's activities; fund managers may use different models depending on their fund's structure and investment strategy.[77][80] Some factors, such as normality of return, are not always accounted for by conventional risk measurement methodologies. Funds which use value at risk as a measurement of risk may compensate for this by employing additional models such as drawdown and "time under water" to ensure all risks are captured.[81]
+In addition to assessing the market-related risks that may arise from an investment, investors commonly employ operational due diligence to assess the risk that error or fraud at a hedge fund might result in loss to the investor. Considerations will include the organization and management of operations at the hedge fund manager, whether the investment strategy is likely to be sustainable, and the fund's ability to develop as a company.[82]
+Transparency and regulatory considerations[edit]
+Since hedge funds are private entities and have few public disclosure requirements, this is sometimes perceived as a lack of transparency.[83] Another common perception of hedge funds is that their managers are not subject to as much regulatory oversight and/or registration requirements as other financial investment managers, and more prone to manager-specific idiosyncratic risks such as style drifts, faulty operations, or fraud.[84] New regulations introduced in the US and the EU as of 2010 require hedge fund managers to report more information, leading to greater transparency.[85] In addition, investors, particularly institutional investors, are encouraging further developments in hedge fund risk management, both through internal practices and external regulatory requirements.[76] The increasing influence of institutional investors has led to greater transparency: hedge funds increasingly provide information to investors including valuation methodology, positions and leverage exposure.[86]
+Risks shared with other investment types[edit]
+Hedge funds share many of the same types of risk as other investment classes, including liquidity risk and manager risk.[84] Liquidity refers to the degree to which an asset can be bought and sold or converted to cash; similar to private equity funds, hedge funds employ a lock-up period during which an investor cannot remove money.[63][87] Manager risk refers to those risks which arise from the management of funds. As well as specific risks such as style drift, which refers to a fund manager "drifting" away from an area of specific expertise, manager risk factors include valuation risk, capacity risk, concentration risk and leverage risk.[83] Valuation risk refers to the concern that the net asset value of investments may be inaccurate;[88] capacity risk can arise from placing too much money into one particular strategy, which may lead to fund performance deterioration;[89] and concentration risk may arise if a fund has too much exposure to a particular investment, sector, trading strategy, or group of correlated funds.[90] These risks may be managed through defined controls over conflict of interest,[88] restrictions on allocation of funds,[89] and set exposure limits for strategies.[90]
+Many investment funds use leverage, the practice of borrowing money, trading on margin, or using derivatives to obtain market exposure in excess of that provided by investors' capital. Although leverage can increase potential returns, the opportunity for larger gains is weighed against the possibility of greater losses.[87] Hedge funds employing leverage are likely to engage in extensive risk management practices.[79][83] In comparison with investment banks, hedge fund leverage is relatively low; according to a National Bureau of Economic Research working paper, the average leverage for investment banks is 14.2, compared to between 1.5 and 2.5 for hedge funds.[91]
+Some types of funds, including hedge funds, are perceived as having a greater appetite for risk, with the intention of maximizing returns,[87] subject to the risk tolerance of investors and the fund manager. Managers will have an additional incentive to increase risk oversight when their own capital is invested in the fund.[79]
+Fees and remuneration[edit]
+Fees paid to hedge funds[edit]
+Hedge fund management firms typically charge their funds both a management fee and a performance fee.
+Management fees are calculated as a percentage of the fund's net asset value and typically range from 1% to 4% per annum, with 2% being standard.[92][93][94] They are usually expressed as an annual percentage, but calculated and paid monthly or quarterly. Management fees for hedge funds are designed to cover the operating costs of the manager, whereas the performance fee provides the manager's profits. However, due to economies of scale the management fee from larger funds can generate a significant part of a manager's profits, and as a result some fees have been criticized by some public pension funds, such as CalPERS, for being too high.[95]
+The performance fee is typically 20% of the fund's profits during any year, though they range between 10% and 50%. Performance fees are intended to provide an incentive for a manager to generate profits.[96][97] Performance fees have been criticized by Warren Buffett, who believes that because hedge funds share only the profits and not the losses, such fees create an incentive for high-risk investment management. Performance fee rates have fallen since the start of the credit crunch.[98]
+Almost all hedge fund performance fees include a "high water mark" (or "loss carryforward provision"), which means that the performance fee only applies to net profits (i.e., profits after losses in previous years have been recovered). This prevents managers from receiving fees for volatile performance, though a manager will sometimes close a fund that has suffered serious losses and start a new fund, rather than attempting to recover the losses over a number of years without performance fee.[99]
+Some performance fees include a "hurdle", so that a fee is only paid on the fund's performance in excess of a benchmark rate (e.g. LIBOR) or a fixed percentage.[100] A "soft" hurdle means the performance fee is calculated on all the fund's returns if the hurdle rate is cleared. A "hard" hurdle is calculated only on returns above the hurdle rate.[101] A hurdle is intended to ensure that a manager is only rewarded if the fund generates returns in excess of the returns that the investor would have received if they had invested their money elsewhere.
+Some hedge funds charge a redemption fee (or withdrawal fee) for early withdrawals during a specified period of time (typically a year) or when withdrawals exceed a predetermined percentage of the original investment.[102] The purpose of the fee is to discourage short-term investing, reduce turnover and deter withdrawals after periods of poor performance. Unlike management fees and performance fees, redemption fees are usually kept by the fund.
+Remuneration of portfolio managers[edit]
+Hedge fund management firms are usually owned by their portfolio managers, who are therefore entitled to any profits that the business makes. As management fees are intended to cover the firm's operating costs, performance fees (and any excess management fees) are generally distributed to the firm's owners as profits. Many managers also have large stakes in their own funds.
+Top hedge fund managers earn what has been termed "extraordinary" amounts of money, with the highest-grossing getting up to $4 billion per year.[103][104] Earnings at the top are far higher than in any other sector of the financial industry. "They wouldn't even consider getting out of bed for the $13m (£8m) Goldman Sachs' boss Lloyd Blankfein was paid last year," writes Richard Anderson, a BBC Business reporter.[105] Collectively, the top 25 hedge fund managers regularly earn more than all 500 of the chief executives in the S&P 500.[106] Most hedge fund managers are remunerated much less, however, and the competitiveness of the industry, along with the structure of financial incentives, means that failure can lead to not getting paid. The BBC quotes an industry insider who says "a lot of managers are not making any money at all."[105]
+In 2011, the top manager earned $3,000m, the tenth earned $210m and the 30th earned $80m.[107] In 2011, the average earnings for the 25 highest compensated hedge fund managers in the United States was $576 million.[108] According to Absolute Return + Alpha, in 2011 the mean total compensation for all hedge fund investment professionals was $690,786 and the median compensation was $312,329. The same figures for hedge fund CEOs were $1,037,151 and $600,000, and for chief investment officers were $1,039,974 and $300,000 respectively.[109]
+Of the 1,226 people on the Forbes World's Billionaires list for 2012,[110] 36 of the financiers listed "derived significant chunks" of their wealth from hedge fund management.[111] Among the richest 1,000 people in the United Kingdom, 54 were hedge fund managers, according to the Sunday Times Rich List for 2012.[112] (Funds do not tend to report compensation. Published lists of the amounts earned by top managers use estimates based on factors such as the fees charged by their funds and the capital they are thought to have invested in them.[113])
+Structure[edit]
+A hedge fund is an investment vehicle that is most often structured as an offshore corporation, limited partnership or limited liability company.[114] The fund is managed by an investment manager in the form of an organization or company that is legally and financially distinct from the hedge fund and its portfolio of assets.[115][116] Many investment managers utilize service providers for operational support.[117] Service providers include prime brokers, banks, administrators, distributors and accounting firms.
+Prime brokers clear trades, and provide leverage and short-term financing.[118][119] They are usually divisions of large investment banks.[120] The prime broker acts as a counterparty to derivative contracts, and lends securities for particular investment strategies, such as long/short equities and convertible bond arbitrage.[121][122] It can provide custodial services for the fund's assets, and execution and clearing services for the hedge fund manager.[123]
+Hedge fund administrators are responsible for operations, accounting, and valuation services. This back office support allows fund managers to concentrate on trades.[124] Administrators also process subscriptions and redemptions, and perform various shareholder services.[125][126] Hedge funds in the United States are not required to appoint an administrator, and all of these functions can be performed by an investment manager.[127] A number of conflict of interest situations may arise in this arrangement, particularly in the calculation of a fund's net asset value (NAV).[128] Some funds voluntarily employ external auditors, thereby offering a greater degree of transparency.[127]
+A distributor is an underwriter, broker, dealer, or other person who participates in the distribution of securities.[129] The distributor is also responsible for marketing the fund to potential investors. Many hedge funds do not have distributors, and in such cases the investment manager will be responsible for distribution of securities and marketing, though many funds also use placement agents and broker-dealers for distribution.[130][131]
+Most funds use an independent accounting firm to audit the assets of the fund, provide tax services and perform a complete audit of the fund's financial statements. The year-end audit is often performed in accordance with the standard accounting practices enforced within the country the fund it established or the International Financial Reporting Standards (IFRS).[132] The auditor may verify the fund's NAV and assets under management (AUM).[133][134] Some auditors only provide "NAV lite" services, meaning that the valuation is based on prices received from the manager rather than independent assessment.[135]
+Domicile and taxation[edit]
+The legal structure of a specific hedge fund, in particular its domicile and the type of legal entity in use, is usually determined by the tax expectations of the fund's investors. Regulatory considerations will also play a role. Many hedge funds are established in offshore financial centers to avoid adverse tax consequences for its foreign and tax-exempt investors.[136][137] Offshore funds that invest in the US typically pay withholding taxes on certain types of investment income but not US capital gains tax. However, the fund's investors are subject to tax in their own jurisdictions on any increase in the value of their investments.[138][139] This tax treatment promotes cross-border investments by limiting the potential for multiple jurisdictions to layer taxes on investors.[140]
+US tax-exempt investors (such as pension plans and endowments) invest primarily in offshore hedge funds to preserve their tax exempt status and avoid unrelated business taxable income.[139] The investment manager, usually based in a major financial center, pays tax on its management fees per the tax laws of the state and country where it is located.[141] In 2011, half of the existing hedge funds were registered offshore and half onshore. The Cayman Islands was the leading location for offshore funds, accounting for 34% of the total number of global hedge funds. The US had 24%, Luxembourg 10%, Ireland 7%, the British Virgin Islands 6% and Bermuda had 3%.[142]
+Basket options[edit]
+Deutsche Bank and Barclays created special options accounts for hedge fund clients in the banks’ names and claimed to own the assets, when in fact the hedge fund clients had full control of the assets and reaped the profits. The hedge funds would then execute trades — many of them a few seconds in duration — but wait until just after a year had passed to exercise the options, allowing them to report the profits at a lower long-term capital gains tax rate.
+— Alexandra Stevenson. July 8, 2015. New York Times
+The Senate Permanent Subcommittee on Investigations chaired by Carl Levin resulted in a 2014 report that found that from 1998 and 2013, hedge funds avoided billions of dollars in taxes by using basket options. The Internal Revenue Service began investigating Renaissance Technologies[143] in 2009 and Levin criticized the IRS for taking six years to investigate the company. Using basket options Renaissance avoided "more than $6 billion in taxes over more than a decade".[144]
+These banks and hedge funds involved in this case used dubious structured financial products in a giant game of 'let’s pretend,' costing the Treasury billions and bypassing safeguards that protect the economy from excessive bank lending for stock speculation.
+— Carl Levin. 2015. Senate Permanent Subcommittee on Investigations
+A dozen other hedge funds along with Renaissance Technologies used Deutsche Bank's and Barclays' basket options.[144] Renaissance argued that basket options were "extremely important because they gave the hedge fund the ability to increase its returns by borrowing more and to protect against model and programming failures".[144] In July 2015 the United States Internal Revenue claimed hedge funds used basket options "to bypass taxes on short-term trades". These basket options will now be labeled as listed transactions that must be declared on tax returns and a failure to do would result in a penalty.[144]
+Investment manager locations[edit]
+In contrast to the funds themselves, investment managers are primarily located onshore. The United States remains the largest center of investment, with US-based funds managing around 70% of global assets at the end of 2011.[142] As of April 2012, there were approximately 3,990 investment advisers managing one or more private hedge funds registered with the Securities and Exchange Commission.[145] New York City and the Gold Coast area of Connecticut are the leading locations for US hedge fund managers.[146][147]
+London is Europe's leading center for hedge fund managers. According to EuroHedge data, around 800 funds located in the UK managed some 85% of European-based hedge fund assets in 2011.[142] Interest in hedge funds in Asia has increased significantly since 2003, especially in Japan, Hong Kong, and Singapore.[148] However, the UK and the US remain the leading locations for management of Asian hedge fund assets.[142]
+The legal entity[edit]
+Hedge fund legal structures vary depending on location and the investor(s). US hedge funds aimed at US-based, taxable investors are generally structured as limited partnerships or limited liability companies. Limited partnerships and other flow-through taxation structures assure that investors in hedge funds are not subject to both entity-level and personal-level taxation.[123] A hedge fund structured as a limited partnership must have a general partner. The general partner may be an individual or a corporation. The general partner serves as the manager of the limited partnership, and has unlimited liability.[118][149] The limited partners serve as the fund's investors, and have no responsibility for management or investment decisions. Their liability is limited to the amount of money they invest for partnership interests.[149][150] As an alternative to a limited partnership arrangement, U.S. domestic hedge funds may be structured as limited liability companies, with members acting as corporate shareholders and enjoying protection from individual liability.[151]
+By contrast, offshore corporate funds are usually used for non-US investors, and when they are domiciled in an applicable offshore tax haven, no entity-level tax is imposed.[136] Many managers of offshore funds permit the participation of tax-exempt US investors, such as pensions funds, institutional endowments and charitable trusts.[149] As an alternative legal structure, offshore funds may be formed as an open-ended unit trust using an unincorporated mutual fund structure.[152] Japanese investors prefer to invest in unit trusts, such as those available in the Cayman Islands.[153]
+The investment manager who organizes the hedge fund may retain an interest in the fund, either as the general partner of a limited partnership or as the holder of "founder shares" in a corporate fund.[154] For offshore funds structured as corporate entities, the fund may appoint a board of directors. The board's primary role is to provide a layer of oversight while representing the interests of the shareholders.[155] However, in practice board members may lack sufficient expertise to be effective in performing those duties. The board may include both affiliated directors who are employees of the fund and independent directors whose relationship to the fund is limited.[155]
+Types of funds[edit]
+Open-ended hedge funds continue to issue shares to new investors and allow periodic withdrawals at the net asset value ("NAV") for each share.
+Closed-ended hedge funds issue a limited number of tradeable shares at inception.[156][157]
+Shares of Listed hedges funds are traded on stock exchanges, such as the Irish Stock Exchange, and may be purchased by non-accredited investors.[158]
+Side pockets[edit]
+A side pocket is a mechanism whereby a fund compartmentalizes assets that are relatively illiquid or difficult to value reliably.[159] When an investment is side-pocketed, its value is calculated separately from the value of the fund’s main portfolio.[160] Because side pockets are used to hold illiquid investments, investors do not have the standard redemption rights with respect to the side pocket investment that they do with respect to the fund’s main portfolio.[160] Profits or losses from the investment are allocated on a pro rata basis only to those who are investors at the time the investment is placed into the side pocket and are not shared with new investors.[160][161] Funds typically carry side pocket assets "at cost" for purposes of calculating management fees and reporting net asset values. This allows fund managers to avoid attempting a valuation of the underlying investments, which may not always have a readily available market value.[161]
+Side pockets were widely used by hedge funds during the 2008 financial crisis amidst a flood of withdrawal requests. Side pockets allowed fund managers to lay away illiquid securities until market liquidity improved, a move that reduced losses. Despite these benefits, some investors complained that the practice was abused and not always transparent.[162][163][164] The SEC also has expressed concern about aggressive use of side pockets and has sanctioned certain fund managers for inappropriate use of them.[1]
+Regulation[edit]
+Hedge funds must conform to the national, federal and state regulatory laws in their respective locations. The U.S. regulations and restrictions that apply to hedge funds differ from its mutual funds.[165] Mutual funds, unlike hedge funds and other private funds, are subject to the Investment Company Act of 1940, which is a highly detailed and extensive regulatory regime.[166] According to a report by the International Organization of Securities Commissions the most common form of regulation pertains to restrictions on financial advisers and hedge fund managers in an effort to minimize client fraud. On the other hand, U.S. hedge funds are exempt from many of the standard registration and reporting requirements because they only accept accredited investors.[63] In 2010, regulations were enacted in the US and European Union, which introduced additional hedge fund reporting requirements. These included the U.S.'s Dodd-Frank Wall Street Reform Act[7] and European Alternative Investment Fund Managers Directive.[167]
+In 2007 in an attempt for self regulation, 14 leading hedge fund managers developed a voluntary set of international standards in best practice and known as the Hedge Fund Standards they were designed to create a “… framework of transparency, integrity and good governance” in the hedge fund industry.[168] The Hedge Fund Standards Board was set up to prompt and maintain these standards going forward and by 2016 it had approximately 200 hedge fund managers and institutional investors with a value of US$ 3tn investment endorsing the standards.[169]
+United States[edit]
+Hedge funds within the US are subject to regulatory, reporting and record keeping requirements.[170] Many hedge funds also fall under the jurisdiction of the Commodity Futures Trading Commission and are subject to rules and provisions of the 1922 Commodity Exchange Act which prohibits fraud and manipulation.[171] The Securities Act of 1933 required companies to file a registration statement with the SEC to comply with its private placement rules before offering their securities to the public.[172] The Securities Exchange Act of 1934 required a fund with more than 499 investors to register with the SEC.[173][174][175] The Investment Advisers Act of 1940 contained anti-fraud provisions that regulated hedge fund managers and advisers, created limits for the number and types of investors, and prohibited public offerings. The Act also exempted hedge funds from mandatory registration with the U.S. Securities and Exchange Commission (SEC)[63][176][177] when selling to accredited investors with a minimum of US$5 million in investment assets. Companies and institutional investors with at least US$25 million in investment assets also qualified.[178]
+In December 2004, the SEC began requiring hedge fund advisers, managing more than US$25 million and with more than 14 investors, to register with the SEC under the Investment Advisers Act.[179] The SEC stated that it was adopting a "risk-based approach" to monitoring hedge funds as part of its evolving regulatory regimen for the burgeoning industry.[180] The new rule was controversial, with two commissioners dissenting,[181] and was later challenged in court by a hedge fund manager. In June 2006, the U.S. Court of Appeals for the District of Columbia overturned the rule and sent it back to the agency to be reviewed.[182] In response to the court decision, in 2007 the SEC adopted Rule 206(4)-8, which unlike the earlier challenged rule, "does not impose additional filing, reporting or disclosure obligations" but does potentially increase "the risk of enforcement action" for negligent or fraudulent activity.[183] Hedge fund managers with at least US$100 million in assets under management are required to file publicly quarterly reports disclosing ownership of registered equity securities and are subject to public disclosure if they own more than 5% of the class of any registered equity security.[174] Registered advisers must report their business practices and disciplinary history to the SEC and to their investors. They are required to have written compliance policies, a chief compliance officer and their records and practices may be examined by the SEC.[170]
+The U.S.'s Dodd-Frank Wall Street Reform Act was passed in July 2010[7][85] and requires SEC registration of advisers who manage private funds with more than US$150 million in assets.[184][185] Registered managers must file Form ADV with the SEC, as well as information regarding their assets under management and trading positions.[186] Previously, advisers with fewer than 15 clients were exempt, although many hedge fund advisers voluntarily registered with the SEC to satisfy institutional investors.[187] Under Dodd-Frank, investment advisers with less than US$100 million in assets under management became subject to state regulation.[184] This increased the number of hedge funds under state supervision.[188] Overseas advisers who managed more than US$25 million were also required to register with the SEC.[189] The Act requires hedge funds to provide information about their trades and portfolios to regulators including the newly created Financial Stability Oversight Council.[188] In this regard, most hedge funds and other private funds, including private equity funds, must file Form PF with the SEC, which is an extensive reporting form with substantial data on the funds' activities and positions.[1] Under the "Volcker Rule," regulators are also required to implement regulations for banks, their affiliates, and holding companies to limit their relationships with hedge funds and to prohibit these organizations from proprietary trading, and to limit their investment in, and sponsorship of, hedge funds.[188][190][191]
+Europe[edit]
+Within the European Union (EU), hedge funds are primarily regulated through their managers.[63] In the United Kingdom, where 80% of Europe's hedge funds are based,[192] hedge fund managers are required to be authorised and regulated by the Financial Conduct Authority (FCA).[167] Each country has their own specific restrictions on hedge fund activities, including controls on use of derivatives in Portugal, and limits on leverage in France.[63]
+In the EU, managers are subject to the EU's Directive on Alternative Investment Fund Managers (AIFMD). According to the EU, the aim of the directive is to provide greater monitoring and control of alternative investment funds.[193] AIFMD requires all EU hedge fund managers to register with national regulatory authorities[194] and to disclose more information, on a more frequent basis. It also directs hedge fund managers to hold larger amounts of capital. AIFMD also introduced a "passport" for hedge funds authorised in one EU country to operate throughout the EU.[85][167] The scope of AIFMD is broad and encompasses managers located within the EU as well as non-EU managers that market their funds to European investors.[85] An aspect of AIFMD which challenges established practices in the hedge funds sector is the potential restriction of remuneration through bonus deferrals and clawback provisions.[195]
+Other[edit]
+Some hedge funds are established in Offshore centers such as the Cayman Islands, Dublin, Luxembourg, the British Virgin Islands, and Bermuda which have different regulations[196] concerning non-accredited investors, client confidentiality and fund manager independence.[7][167]
+In South Africa, investment fund managers must be approved by, and register with, the Financial Services Board (FSB).[197]
+Performance[edit]
+Measurement[edit]
+Performance statistics for individual hedge funds are difficult to obtain, as the funds have historically not been required to report their performance to a central repository and restrictions against public offerings and advertisement have led many managers to refuse to provide performance information publicly. However, summaries of individual hedge fund performance are occasionally available in industry journals[198][199] and databases.[200] and investment consultancy Hennessee Group.[201]
+One estimate is that the average hedge fund returned 11.4% per year,[202] representing a 6.7% return above overall market performance before fees, based on performance data from 8,400 hedge funds.[63] Another is that between January 2000 and December 2009 the hedge funds outperformed other investments were significantly less volatile, with stocks falling 2.62% per year over the decade and hedge funds rising 6.54%.[201]
+Hedge funds performance is measured by comparing their returns to an estimate of their risk.[203] Common measures are the Sharpe ratio.,[204] Treynor measure and Jensen's alpha.[205] These measures work best when returns follow normal distributions without autocorrelation, and these assumptions are often not met in practice.[206]
+New performance measures have been introduced that attempt to address some of theoretical concerns with traditional indicators, including: modified Sharpe ratios;[206][207] the Omega ratio introduced by Keating and Shadwick in 2002;[208] Alternative Investments Risk Adjusted Performance (AIRAP) published by Sharma in 2004;[209] and Kappa developed by Kaplan and Knowles in 2004.[210]
+Sector-size effect[edit]
+There is a debate over whether alpha (the manager's skill element in performance) has been diluted by the expansion of the hedge fund industry. Two reasons are given. First, the increase in traded volume may have been reducing the market anomalies that are a source of hedge fund performance. Second, the remuneration model is attracting more managers, which may dilute the talent available in the industry.[211][212]
+Hedge fund indices[edit]
+Indices that track hedge fund returns are, in order of development, called Non-investable, Investable and Clone. They play a central and unambiguous role in traditional asset markets, where they are widely accepted as representative of their underlying portfolios. Equity and debt index fund products provide investable access to most developed markets in these asset classes. Hedge funds, however, are actively managed, so that tracking is impossible. Non-investable hedge fund indices on the other hand may be more or less representative, but returns data on many of the reference group of funds is non-public. This may result in biased estimates of their returns. In an attempt to address this problem, clone indices have been created in an attempt to replicate the statistical properties of hedge funds without being directly based on their returns data. None of these approaches achieves the accuracy of indices in other asset classes for which there is more complete published data concerning the underlying returns.[213]
+Non-investable indices[edit]
+Non-investable indices are indicative in nature, and aim to represent the performance of some database of hedge funds using some measure such as mean, median or weighted mean from a hedge fund database. The databases have diverse selection criteria and methods of construction, and no single database captures all funds. This leads to significant differences in reported performance between different indices.
+Although they aim to be representative, non-investable indices suffer from a lengthy and largely unavoidable list of biases.
+Funds' participation in a database is voluntary, leading to self-selection bias because those funds that choose to report may not be typical of funds as a whole. For example, some do not report because of poor results or because they have already reached their target size and do not wish to raise further money..
+The short lifetimes of many hedge funds means that there are many new entrants and many departures each year, which raises the problem of survivorship bias. If we examine only funds that have survived to the present, we will overestimate past returns because many of the worst-performing funds have not survived, and the observed association between fund youth and fund performance suggests that this bias may be substantial.
+When a fund is added to a database for the first time, all or part of its historical data is recorded ex-post in the database. It is likely that funds only publish their results when they are favorable, so that the average performances displayed by the funds during their incubation period are inflated. This is known as "instant history bias" or "backfill bias".
+Investable indices[edit]
+Investable indices are an attempt to reduce these problems by ensuring that the return of the index is available to shareholders. To create an investable index, the index provider selects funds and develops structured products or derivative instruments that deliver the performance of the index. When investors buy these products the index provider makes the investments in the underlying funds, making an investable index similar in some ways to a fund of hedge funds portfolio.
+To make the index investable, hedge funds must agree to accept investments on the terms given by the constructor. To make the index liquid, these terms must include provisions for redemptions that some managers may consider too onerous to be acceptable. This means that investable indices do not represent the total universe of hedge funds. Most seriously, they under-represent more successful managers, who typically refuse to accept such investment protocols.
+Hedge fund replication[edit]
+The most recent addition to the field approach the problem in a different manner. Instead of reflecting the performance of actual hedge funds they take a statistical approach to the analysis of historic hedge fund returns, and use this to construct a model of how hedge fund returns respond to the movements of various investable financial assets. This model is then used to construct an investable portfolio of those assets. This makes the index investable, and in principle they can be as representative as the hedge fund database from which they were constructed.
+However, these clone indices rely on a statistical modelling process. Such indices have too short a history to state whether this approach will be considered successful.
+Debates and controversies[edit]
+Systemic risk[edit]
+Systemic risk refers to the risk of instability across the entire financial system, as opposed to within a single company. Such risk may arise following a destabilizing event or events affecting a group of financial institutions linked through investment activity.[214] Organizations such as the National Bureau of Economic Research[214] and the European Central Bank have charged that hedge funds pose systemic risks to the financial sector,[215][216] and following the failure of hedge fund Long-Term Capital Management (LTCM) in 1998 there was widespread concern about the potential for systemic risk if a hedge fund failure led to the failure of its counterparties. (As it happens, no financial assistance was provided to LTCM by the US Federal Reserve, so there was no direct cost to US taxpayers,[217] but a large bailout had to be mounted by a number of financial institutions.)
+However, these claims are widely disputed by the financial industry,[218] who typically regard hedge funds as "small enough to fail", since most are relatively small in terms of the assets they manage and operate with low leverage, thereby limiting the potential harm to the economic system should one of them fail.[202][219] Formal analysis of hedge fund leverage before and during the 2008 financial crisis[220] suggests that hedge fund leverage is both fairly modest and counter-cyclical to the market leverage of investment banks and the larger financial sector.[221][222] Hedge fund leverage decreased prior to the financial crisis, even while the leverage of other financial intermediaries continued to increase.[222] Hedge funds fail regularly, and numerous hedge funds failed during the financial crisis.[223] In testimony to the House Financial Services Committee in 2009, Ben Bernanke, the Federal Reserve Board Chairman said he "would not think that any hedge fund or private equity fund would become a systemically critical firm individually".[224]
+Nevertheless, although hedge funds go to great lengths to reduce the ratio of risk to reward, inevitably a number of risks remain.[225] Systemic risk is increased in a crisis if there is "herd" behaviour, which causes a number of similar hedge funds to make losses in similar trades. In addition, while most hedge funds make only modest use of leverage, hedge funds differ from many other market participants, such as banks and mutual funds, in that there are no regulatory constraints on their use of leverage, and some hedge funds seek large amounts of leverage as part of their market strategy. The extensive use of leverage can lead to forced liquidations in a crisis, particularly for hedge funds that invest at least in part in illiquid investments. The close interconnectedness of the hedge funds with their prime brokers, typically investment banks, can lead to domino effects in a crisis, and indeed failing counterparty banks can freeze hedge funds. These systemic risk concerns are exacerbated by the prominent role of hedge funds in the financial markets. The global hedge fund industry has over $2 trillion in assets, and this does not take into account the full effect of leverage, which by definition is market exposure in excess of the amount invested.
+An August 2012 survey by the Financial Services Authority concluded that risks were limited and had reduced as a result, inter alia, of larger margins being required by counterparty banks, but might change rapidly according to market conditions. In stressed market conditions, investors might suddenly withdraw large sums, resulting in forced asset sales. This might cause liquidity and pricing problems if it occurred across a number of funds or in one large highly leveraged fund.[226]
+Transparency[edit]
+Hedge funds are structured to avoid most direct regulation (although their managers may be regulated) and are not required to publicly disclose their investment activities, except to the extent that investors generally are subject to disclosure requirements. This is in contrast to a regulated mutual fund or exchange-traded fund, which will typically have to meet regulatory requirements for disclosure. An investor in a hedge fund usually has direct access to the investment adviser of the fund, and may enjoy more personalized reporting than investors in retail investment funds. This may include detailed discussions of risks assumed and significant positions. However, this high level of disclosure is not available to non-investors, contributing to hedge funds' reputation for secrecy, while some hedge funds have very limited transparency even to investors.[227]
+Funds may choose to report some information in the interest of recruiting additional investors. Much of the data available in consolidated databases is self-reported and unverified.[228] A study was done on two major databases containing hedge fund data. The study noted that 465 common funds had significant differences in reported information (e.g. returns, inception date, net assets value, incentive fee, management fee, investment styles, etc.) and that 5% of return numbers and 5% of NAV numbers were dramatically different.[229] With these limitations, investors have to do their own research, which may cost on the scale of US$50,000 for a fund that is not well-established.[230]
+A lack of verification of financial documents by investors or by independent auditors has, in some cases, assisted in fraud.[231] In the mid-2000s, Kirk Wright of International Management Associates was accused of mail fraud and other securities violations[232][233] which allegedly defrauded clients of close to US$180 million.[234] In December 2008, Bernard Madoff was arrested for running a US$50 billion Ponzi scheme[235] which was incorrectly[236] described as a hedge fund,[237][238][239] and several feeder hedge funds, of which the largest was Fairfield Sentry, channeled money to it. Following the Madoff case, the SEC adopted reforms in December 2009 that required hedge funds managed by registered investment advisers to have their assets in the custody of a qualified custodian and subjected them to an audit requirement.[240]
+The process of matching hedge funds to investors has traditionally been fairly opaque, with investments often driven by personal connections or recommendations of portfolio managers.[241] Many funds disclose their holdings, strategy, and historic performance relative to market indices, giving investors some idea of how their money is being allocated, although individual holdings are not always disclosed.[242] Investors are often drawn to hedge funds by the possibility of realizing significant returns, or hedging against volatility in the market. The complexity and fees associated with hedge funds are causing some to exit the market – Calpers, the largest pension fund in the US, announced plans to completely divest from hedge funds in 2014.[243] Some services are attempting to improve matching between hedge funds and investors: HedgeZ is designed to allow investors to easily search and sort through funds;[244] iMatchative aims to match investors to funds through algorithms that factor in an investor's goals and behavioral profile, in hopes of helping funds and investors understand the how their perceptions and motivations drive investment decisions.[245]
+Links with analysts[edit]
+In June 2006, prompted by a letter from Gary J. Aguirre, the Senate Judiciary Committee began an investigation into the links between hedge funds and independent analysts. Aguirre was fired from his job with the SEC when, as lead investigator of insider trading allegations against Pequot Capital Management, he tried to interview John Mack, then being considered for chief executive officer at Morgan Stanley.[246] The Judiciary Committee and the US Senate Finance Committee issued a scathing report in 2007, which found that Aguirre had been illegally fired in reprisal[247] for his pursuit of Mack and in 2009, the SEC was forced to re-open its case against Pequot. Pequot settled with the SEC for US$28 million and Arthur J. Samberg, chief investment officer of Pequot, was barred from working as an investment advisor.[248] Pequot closed its doors under the pressure of investigations.[249]
+The systemic practice of hedge funds submitting periodic electronic questionnaires to stock analysts as a part of market research was reported in by The New York Times in July 2012. According to the report, one motivation for the questionnaires was to obtain subjective information not available to the public and possible early notice of trading recommendations that could produce short term market movements.[250]
+Value in mean/variance efficient portfolios[edit]
+According to modern portfolio theory, rational investors will seek to hold portfolios that are mean/variance efficient (that is, portfolios that offer the highest level of return per unit of risk). One of the attractive features of hedge funds (in particular market neutral and similar funds) is that they sometimes have a modest correlation with traditional assets such as equities. This means that hedge funds have a potentially quite valuable role in investment portfolios as diversifiers, reducing overall portfolio risk.[100]
+However, there are three reasons why one might not wish to allocate a high proportion of assets into hedge funds. These reasons are:
+Hedge funds are highly individual and it is hard to estimate the likely returns or risks.
+Hedge funds' low correlation with other assets tends to dissipate during stressful market events, making them much less useful for diversification than they may appear.
+Hedge fund returns are reduced considerably by the high fee structures that are typically charged.
+Several studies have suggested that hedge funds are sufficiently diversifying to merit inclusion in investor portfolios, but this is disputed for example by Mark Kritzman who performed a mean-variance optimization calculation on an opportunity set that consisted of a stock index fund, a bond index fund, and ten hypothetical hedge funds.[251][252] The optimizer found that a mean-variance efficient portfolio did not contain any allocation to hedge funds, largely because of the impact of performance fees. To demonstrate this, Kritzman repeated the optimization using an assumption that the hedge funds incurred no performance fees. The result from this second optimization was an allocation of 74% to hedge funds.
+The other factor reducing the attractiveness of hedge funds in a diversified portfolio is that they tend to under-perform during equity bear markets, just when an investor needs part of their portfolio to add value.[100] For example, in January–September 2008, the Credit Suisse/Tremont Hedge Fund Index was down 9.87%.[253] According to the same index series, even "dedicated short bias" funds had a return of −6.08% during September 2008. In other words, even though low average correlations may appear to make hedge funds attractive this may not work in turbulent period, for example around the collapse of Lehman Brothers in September 2008.
+See also[edit]
+Activist shareholder
+Alternative asset
+Board of directors
+Corporate governance
+Fund governance
+Investment banking
+List of hedge funds
+Vulture fund
+Notes[edit]
+^ a b c d e f Gerald T. Lins, Thomas P. Lemke, Kathryn L. Hoenig & Patricia Schoor Rube, Hedge Funds and Other Private Funds: Regulation and Compliance § 5:23 (2013 - 2014 ed.).
+^ Stuart A. McCrary (2002). "Chapter 1: Introduction to Hedge Funds". How to Create and Manage a Hedge Fund: A Professional's Guide. John Wiley & Sons. pp. 7–8. ISBN 047122488X.
+^ a b The President's Working Group on Financial Markets (April 1999). "Hedge Funds, Leverage, and the Lessons of Long-Term Capital Management" (PDF). U.S. Department of the Treasury.
+^ "Alternative Funds Are Not Your Typical Mutual Funds". finra.org. Financial Industry Regulatory Authority. 11 June 2013. Retrieved 16 April 2014.
+^ David Stowell (2012). Investment Banks, Hedge Funds, and Private Equity. Academic Press. p. 237. ISBN 9780124046320. Retrieved 18 April 2014.
+^ François-Serge Lhabitant (2007). Handbook of Hedge Funds. John Wiley & Sons. ISBN 0470026634.
+^ a b c d Ismail, Netty (21 February 2011). "Institutions Damp Hedge Fund 'Startup Spirit,' Citi's Roe Says". Bloomberg Businessweek. Archived from the original on 25 February 2011. Retrieved 9 January 2015.
+^ Lemke, Lins, Hoenig & Rube, Hedge Funds and Other Private Funds: Regulation and Compliance (Thomson West, 2014 ed.)
+^ Herbst-Bayliss, Svea (20 October 2015). "Update 1-Hedge funds suffer biggest quarterly drop in assets since 2008 -data". Reuters. Retrieved 31 December 2015.
+^ Anson, Mark J.P. (2006). The Handbook of Alternative Assets. John Wiley & Sons. p. 123. ISBN 0-471-98020-X.
+^ Nocera, Joe (16 May 2009). "Hedge Fund Manager's Farewell". The New York Times. Retrieved 16 March 2011.
+^ "Hedge Funds: How They Serve Investors In U.S. and Global Markets" (PDF). Hedge Fund Facts.org. Coalition of Private Investment Companies. 2009. Retrieved 1 March 2011.
+^ "Hedge your bets". The Phrase Finder. Retrieved 25 July 2014.
+^ a b Coggan, Philip (2010). Guide to Hedge Funds. London: Profile Books. ISBN 9781846683824.
+^ "Hedge Fund". Investopedia. Retrieved 25 July 2014.
+^ Commentary by Chet Currier - 29 September 2006 00:06 EDT (29 September 2006). "Buffett Says Hedge Funds Are Older Than You Think: Chet Currier". Bloomberg. Retrieved 26 November 2011.
+^ a b Ubide, Angel (June 2006). "Demystifying Hedge Funds". Finance & Development. International Monetary Fund. Retrieved 3 March 2011.
+^ a b c Ineichen, Alexander (2002). Absolute Returns: the risks and opportunities of hedge fund investing. John Wiley & Sons. pp. 8–21. ISBN 0-471-25120-8.
+^ Anson, Mark J.P. (2006). The Handbook of Alternative Assets. John Wiley & Sons. p. 36. ISBN 0-471-98020-X.
+^ Lhabitant, François-Serge (2007). Handbook of Hedge Funds. John Wiley & Sons. p. 10. ISBN 0-470-02663-4.
+^ Nicholas, Joseph G. (2004). Hedge funds of funds investing: an investor's guide. John Wiley & Sons. p. 11. ISBN 1-57660-124-2.
+^ Herbst-Bayliss, Svea (19 January 2011). "Hedge fund industry assets swell to $1.92 trillion". Reuters. Retrieved 22 April 2011.
+^ Kishan, Saijel (27 November 2008). "Satellite Halts Hedge Fund Withdrawals, Fires 30 After Losses". Bloomberg. Retrieved 14 August 2010.
+^ Wall Street Journal 6 December 2010, Hedge-Fund Firms Woo the Little Guy, Jaime Levy Pessin
+^ Wall St. Journal, Bridgewater Goes Large Michael Corkery, 22 June 2011
+^ Strasberg, Jenny; Eder, Steve (18 April 2011). "Hedge Funds Bounce Back". Wall Street Journal Online. Retrieved 22 April 2011.
+^ "Institutional Share Growing For Hedge Funds". FINalternatives. 10 February 2011. Retrieved 10 March 2011.
+^ "Updated The biggest hedge funds – Pensions & Investments". Pionline.com. Retrieved 14 August 2010.
+^ McCrum, Dan (30 March 2012). "Dalio Earns $3.9bn to Top Hedge Fund Pay List". The Financial Times. Retrieved 14 June 2012.
+^ Vardi, Nathan (3 March 2012). "The 40 Highest-Earning Hedge Fund Managers". Forbes. Retrieved 14 June 2012.
+^ Robleh, Amel (5 March 2012). "Billion dollar club". Absolute Return. Retrieved 14 June 2012.
+^ Chung, Juliet (19 April 2012). "Hedge-Fund Assets Rise to Record Level". The Wall Street Journal. Retrieved 14 June 2012.
+^ Vardi, Nathan (September 29, 2015). "America's Richest Hedge Fund Billionaires". Forbes. Retrieved December 31, 2015.
+^ Copeland, Rob (March 11, 2014). "SAC Seeks a New Start as 'Point72'". The Wall Street Journal. Retrieved May 12, 2014.
+^ Protess, Ben; Lattman, Peter (November 4, 2013). "After a Decade, SAC Capital Blinks". The New York Times/Dealbook. Retrieved 2013-11-06.
+^ Agustino Fontevecchia (March 13, 2014). "Steve Cohen Personally Made $2.3B In 2013 Despite Having To Shut Down SAC Capital". Forbes.
+^ "The World's Billionaires - John Paulson", Forbes, December 30, 2015, retrieved December 31, 2015
+^ "Company Profile for Och-Ziff Capital Management Group LLC (OZM)". Bloomberg. 2013. Retrieved 3 June 2013.
+^ Griffiths, Tony (October 6, 2010). "The HFMWeek 50 most influential people in hedge funds". HFMWeek. Retrieved 5 August 2011.
+^ About Och-Ziff, March 17, 2011
+^ "The 2011 Hedge Fund 100 Ranking". Institutional Investor, Inc. May 12, 2011.
+^ "Forbes profile: Leon G. Cooperman". Forbes.com.
+^ Westbrook, Jesse (Dec 2013). "Man Who Said No to Soros Builds BlueCrest Into Empire". Bloomberg. Bloomberg. Retrieved 27 August 2014.
+^ Bloomberg: "York Capital's Dinan Finds Value in Tel Aviv Funds, Tyco Duplex" By Richard Teitelbaum September 7, 2006
+^ "Hedge Fund - Lone Pine Capital". insidermonkey. 2015. Retrieved October 18, 2015.
+^ Juliet Chung (July 17, 2014). "In Investor Letter, Glenview Looks Back at 2008, Looks Ahead to More Babies". Wall Street Journal.
+^ The World's Billionaires: Glenn Dubin September 2015
+^ Bloomberg News: "Highbridge Duo Survives Rout After Hedge Fund Sale to JPMorgan" By Richard Teitelbaum and Jenny Strasburg February 29, 2008
+^ Institutional Investor: "Inside Highbridge" June 24, 2004
+^ Carreyrou, John (11 February 2013). "Hedge Funds Clash Over Argentina Debt". Wall Street Journal. Retrieved 14 February 2014.
+^ Elliott Management. "Elliott Management Releases ISS Presentation". Yahoo! Finance. Retrieved 12 June 2013.
+^ "Hedge Fund - Elliott Management". Insider Monkey. Retrieved 17 June 2015.
+^ "Paul Singer Bio, Returns, Net Worth". Insider Monkey. Retrieved 16 April 2015.
+^ Moyer, Liz. "Elliott Management Takes 11% Stake in Cabela's". The New York Times. Retrieved November 29, 2015.
+^ [1]
+^ Alden, William (25 October 2012). "David Einhorn Continues His Take Down of Fed Policy". DealBook. Retrieved 14 March 2013.
+^ Hugo Lindgren, "The Confidence Man", New York Magazine, 2008/06/15.
+^ Chen, Liyan (June 26, 2015). "20 Biotech and Healthcare Stocks: the Richest Hedge Fund Billionaires Are Buying And Selling Now". Retrieved December 31, 2015.
+^ "Hedge Fund Tools – Investment Strategies". Capital Beacon. Retrieved 18 March 2011.
+^ a b c Connor, Gregory; Lasarte, Teo. "An Introduction to Hedge Fund Strategy" (PDF). The London School of Economics and Political Science. International Asset Management Ltd. Retrieved 17 March 2011.
+^ Sadek, Bill. "Decimation of Fortunes: Where Do We Go From Here?" (PDF). Fortress Strategy USA. Retrieved 17 March 2011.
+^ a b Ineichen, Alexander (2002). Absolute Returns: the risks and opportunities of hedge fund investing. John Wiley & Sons. p. 192. ISBN 0-471-25120-8.
+^ a b c d e f g h i j k l Coggan, Philip (2011). Guide to Hedge Funds (2nd ed.). The Economist Newspaper Ltd.
+^ a b c d e Bartolo, Michael (September 2008). "Hedge Fund Strategies Guide" (PDF). Goizueta Business School. Emory University. Retrieved 17 March 2011.
+^ a b c d Walker, Stephen (2010). Wave Theory for Alternative Investments. McGraw-Hill Companies. ISBN 0-07-174286-7.
+^ Stefanini, Filippo (2006). Investment strategies of hedge funds. John Wiley & Sons. p. 223. ISBN 0-470-02627-8.
+^ Tran, Vinh Q. (2006). Evaluating hedge fund performance. John Wiley & Sons. p. 54. ISBN 0-471-68171-7.
+^ Fry, David (2008). Create Your Own ETF Hedge Fund. John Wiley & Sons. p. 68. ISBN 0-470-13895-5.
+^ Ineichen, Alexander (2002). Absolute Returns: the risks and opportunities of hedge fund investing. John Wiley & Sons. p. 182. ISBN 0-471-25120-8.
+^ a b c "Understanding Event-Driven Investing". BarclayHedge LTD. Retrieved 17 March 2011.
+^ "Understanding Merger Arbitrage". BarclayHedge LTD. Retrieved 17 March 2011.
+^ "HFR I Strategy Definitions". Hedge Fund Research Inc. Retrieved 17 March 2011.
+^ "Relative Value Arbitrage definition". BarclayHedge LTD. Retrieved 20 March 2011.
+^ Ineichen, Alexander (2002). Absolute Returns: the risks and opportunities of hedge fund investing. John Wiley & Sons. p. 181. ISBN 0-471-25120-8.
+^ Davidoff, Steven M. (17 September 2009). "To Reduce Hedge Fund Risk, Let Everyone In". The New York Times. Retrieved 27 March 2011.
+^ a b c Jones, Sam (21 March 2011). "Hedge funds: Stringent controls on losses and investment". Financial Times. Retrieved 30 March 2011.
+^ a b Lo, Andrew (2001). "Risk Management for Hedge Funds: Introduction and Overview" (PDF). Financial Analysts Journal. CFA Institute. 57 (6): 16–33. doi:10.2469/faj.v57.n6.2490. Retrieved 29 March 2011.
+^ "Hennessee: Protecting capital during market downturns". Hedge Fund Journal. 22 July 2010. Retrieved 30 March 2011.
+^ a b c Cassar, Gavin; Gerakos, Joseph. "How Do Hedge Funds Manage Portfolio Risk?" (PDF). EFM Symposium. European Financial Management Association. Retrieved 17 March 2011.
+^ Jaeger, Robert. A. (2003) Mcgraw Hill, All About Hedge Funds "A hedge fund is an actively managed investment fund"
+^ "López de Prado, M. and A. Peijan: Measuring Loss Potential of Hedge Fund Strategies", Journal of Alternative Investments, 7 (1), pp. 7–31, 2004, SSRN 641702
+^ Jaffer, Sohail (2006). Hedge funds: crossing the institutional frontier. Euromoney Books. pp. 113–4. ISBN 1-84374-268-3.
+^ a b c Ineichen, Alexander (2002). Absolute Returns: the risks and opportunities of hedge fund investing. John Wiley & Sons. pp. 441–4. ISBN 0-471-25120-8.
+^ a b Jaeger, Lars (28 April 2005). "Risk Management for Hedge Fund Portfolios" (PDF). Presentation at ETHZ [Eidgenössische Technische Hochschule Zürich]. Partners Group. Retrieved 17 March 2011.
+^ a b c d Chay, Felda (27 November 2010). "Call For Joint Effort to Protect Hedge Fund Business". The Business Times Singapore. Singapore Press Holdings. Retrieved 8 March 2011.
+^ White, Jody (25 January 2010). "Institutional investors changing the rules of hedge fund investing". BenefitsCanada.com. Retrieved 30 March 2011.
+^ a b c "What is a Hedge Fund". BarclayHedge LTD. Retrieved 28 March 2011.
+^ a b Strachman, Daniel A.; Bookbinder, Richard S. (2009). Fund of Funds Investing: A Roadmap to Portfolio Diversification. John Wiley & Sons. pp. 120–1. ISBN 0-470-25876-4.
+^ a b Avellanda, Marco; Besson, Paul. "What is a Hedge Fund" (PDF). New York University. Retrieved 28 March 2011.
+^ a b "Concentration Risk". Quant Risk Group. 2008. Retrieved 29 March 2011.
+^ Ang, Andrew; Gorovyy, Sergiy; van Inwegen, Gregory (2011). "Hedge Fund Leverage: NBER Working Paper No. 16801" (PDF). NBER. Retrieved 4 April 2011.
+^ "Hedge fund investors have a great chance to cut fees". Financial Times. 6 February 2009. Retrieved 14 August 2010.
+^ Hulbert, Mark (4 March 2007). "2 + 20, And Other Hedge Math". The New York Times. Retrieved 26 November 2011.
+^ "Hedge Fund Fees: The Pressure Builds". Businessweek.com. 4 March 2007. Retrieved 26 November 2011.
+^ Imogen Rose-Smith, "Public Pension Plans Bet Their Future On Hedge Funds," Institutional Investor, 20 June 2011
+^ "Hedge Fund Math: Why Fees Matter (Newsletter), Epoch Investment Partners Inc." (PDF). Retrieved 14 August 2010.
+^ "Forbes 400 Richest Americans: Stephen A. Cohen". Forbes.com. 19 September 2006. Retrieved 14 August 2010.
+^ Opalesque (10 March 2010). "Incentive fees fall since start of the financial crisis".
+^ "Hedge Funds: Fees Down? Close Shop". Businessweek.com. 8 August 2005. Retrieved 14 August 2010.
+^ a b c "AIMA Roadmap to Hedge Funds". Retrieved 14 August 2010.
+^ Cathleen M. Rittereiser, Lawrence E. Kochard, A "Top Hedge Fund Investors: Stories, Strategies, and Advice", John Wiley & Sons, 20 July 2010 p. 110
+^ "Hedge Funds | HedgeWorld | The Definitive Hedge Fund Community". HedgeWorld. Retrieved 26 November 2011.
+^ Nelson D. Schwartz (31 March 2010). "Pay of Hedge Fund Managers Roared Back Last Year". New York Times. Retrieved 8 August 2012.
+^ Augar, Philip (2009). Chasing Alpha. London: Bodley Head. p. 65. ISBN 9781847920362.
+^ a b Richard Anderson (2 February 2011). "Masters of the universe: meet the world's best-paid men". BBC. Retrieved 28 July 2012.
+^ Kaplan, Steven N. (22 August 2012). "Executive Compensation and Corporate Governance in the U.S.: Perceptions, Facts and Challenges". Chicago Booth Research Paper No. 12-42; Fama-Miller Working Paper. Social Science Research Network. Retrieved 8 September 2012.
+^ Nathan Vardi (3 January 2012). "The 40 Highest-Earning Hedge Fund Managers". Forbes. Retrieved 12 July 2012.
+^ Jesse Westbrook (30 March 2012). "Pay For Top-Earning U.S. Hedge Fund Managers Falls 35%, AR Says". Bloomberg. Retrieved 8 August 2012.
+^ Britt Erica Tunick (1 June 2012). "Compensation Survey:Banking on the Back Office". Absolute Return + Alpha. Retrieved 8 August 2012.
+^ "The World's Billionaires". Forbes. March 2012. Retrieved 9 August 2012.
+^ Edwin Durgy (9 March 2012). "Billionaire Hedge Fund Managers". Forbes. Retrieved 9 August 2012.
+^ "Sunday Times Hedge Fund Rich List 2012". HITC Business. Here Is The City. April 2012. Retrieved 12 July 2012.
+^ Matthew Goldstein (1 April 2011). "Paulson, at $4.9 billion, tops hedge fund earner list". Reuters. Retrieved 26 July 2012.
+^ Gerald T. Lins, Thomas P. Lemke, Kathryn L. Hoenig & Patricia Schoor Rube, Hedge Funds and Other Private Funds: Regulation and Compliance §§ 2:7 - 2:12 (2013 - 2014 ed.).
+^ Business Knowledge for IT in Hedge Funds. Essvale Corporation Limited. 2008. p. 122. ISBN 0955412455.
+^ Daniel A. Strachman (2012). The Fundamentals of Hedge Fund Management. Hoboken, New Jersey: Wiley. p. 47. ISBN 1118151399.
+^ Daniel A. Strachman (2012). The Fundamentals of Hedge Fund Management. Hoboken, New Jersey: Wiley. p. 23. ISBN 1118151399.
+^ a b Mark J. P. Anson (2009). CAIA Level I: An Introduction to Core Topics in Alternative Investments. Wiley. pp. 22–23. ISBN 0470447028.
+^ David Stowell (2012). Investment Banks, Hedge Funds, and Private Equity. Academic Press. ISBN 012415820X.
+^ David Stowell (2010). An Introduction to Investment Banks, Hedge Funds, and Private Equity. Academic Press. p. 101. ISBN 0123745039.
+^ Phoebus Athanassiou (2012). Research Handbook on Hedge Funds, Private Equity and Alternative Investments. Edward Elgar Publishing. p. 283. ISBN 1849802785.
+^ Frank J. Fabozzi (2008). Handbook of Finance, Financial Markets and Instruments. Wiley. p. 749. ISBN 0470078146.
+^ a b François-Serge Lhabitant (2007). Handbook of Hedge Funds. John Wiley & Sons. pp. 1–4. ISBN 0470026634.
+^ François-Serge Lhabitant (2007). Handbook of Hedge Funds. John Wiley & Sons. pp. 4–2. ISBN 0470026634.
+^ Business Knowledge for IT in Hedge Funds. Essvale Corporation Limited. 2008. p. 121. ISBN 0955412455.
+^ Vishwanath, Ramanna; Krishnamurti, Chandrasekhar (2009). Investment Management: A Modern Guide to Security Analysis and Stock Selection. Springer. p. 596. ISBN 3540888012.
+^ a b Izzy Nelken (2005). Hedge Fund Investment Management. Butterworth-Heinemann. p. 51. ISBN 0750660074.
+^ Philippe Jorion (2009). Financial Risk Manager Handbook. Wiley. p. 421. ISBN 0470479612.
+^ "Foreign Account Tax Compliance Act (FATCA) Proposed Treasury Regulations" (PDF). PricewaterhouseCoopers LLP. p. 153. Retrieved 31 October 2012.
+^ Daniel A. Strachman (2011). AARP Getting Started in Hedge Funds: From Launching a Hedge Fund to New Regulation, the Use of Leverage, and Top Manager Profiles. Wiley. p. 93.
+^ Izzy Nelken (2005). Hedge Fund Investment Management. Butterworth-Heinemann. p. 51. ISBN 0750660074.
+^ Daniel A. Strachman (2012). The Fundamentals of Hedge Fund Management. Wiley. p. 187. ISBN 1118151399.
+^ Monty Agarwal (2009). The Future of Hedge Fund Investing: A Regulatory and Structural Solution for a Fallen Industry. Wiley. pp. 65–66. ISBN 0470537442.
+^ Jason A. Scharfman (2009). Hedge Fund Operational Due Diligence: Understanding the Risks. Wiley. ISBN 0470372346.
+^ Daniel A. Strachman (2012). The Fundamentals of Hedge Fund Management. Wiley. p. 187. ISBN 1118151399.
+^ a b Guy Fraser-Sampson (2010). Alternative Assets: Investments for a Post-Crisis World. Wiley. p. 112. ISBN 0470661372.
+^ Mark J. P. Anson (2009). CAIA Level I: An Introduction to Core Topics in Alternative Investments. Wiley. pp. 174–175. ISBN 0470447028.
+^ Daniel A. Strachman (2012). The Fundamentals of Hedge Fund Management. Wiley. pp. 88–89. ISBN 1118151399.
+^ a b Daniel A. Strachman (2012). The Fundamentals of Hedge Fund Management. Wiley. pp. 52–54. ISBN 1118151399.
+^ D. Muraleedharan (2009). Modern Banking: Theory and Practice. Wiley. p. 162. ISBN 8120336550.
+^ David Stowell (2010). An Introduction to Investment Banks, Hedge Funds, and Private Equity. Academic Press. p. 267. ISBN 0123745039. For offshore funds, the fund pays management and incentive feeds to the management company (which is taxed as ordinary income.)
+^ a b c d TheCityUK (2012). "Hedge Funds: March 2012" (PDF). Jersey Finance. p. 4. Retrieved 12 October 2012.
+^ Scheiber, Noam; Cohendec, Patricia (29 December 2015). "For the Wealthiest, a Private Tax System That Saves Them Billions: The very richest are able to quietly shape tax policy that will allow them to shield billions in income". New York Times. Retrieved 31 December 2015.
+^ a b c d Stevenson, Alexandra (8 July 2015). "I.R.S. Cracks Down on Hedge Fund Tax Strategy". New York Times. Retrieved 31 December 2015.
+^ "Dodd-Frank Act Changes to Investment Adviser Registration Requirements – Preliminary Results" (PDF). Securities and Exchange Commission. 2012. Retrieved 18 October 2012.
+^ Satyajit Das (2011). Extreme Money: Masters of the Universe and the Cult of Risk. FT Press. pp. 79–80. ISBN 0132790076.
+^ Andrew Shrimpton (2006). Sohail Jaffer, ed. Hedge Funds: Crossing the Institutional Frontier. Euromoney Institutional Investor. p. 120. ISBN 1843742683.
+^ François-Serge Lhabitant (2007). Handbook of Hedge Funds. John Wiley & Sons. ISBN 0470026634.
+^ a b c Joseph G. Nicholas (2005). Investing in Hedge Funds, Revised and Updated Edition. Bloomberg Press. pp. 40–41. ISBN 978-1-57660-184-6.
+^ François-Serge Lhabitant (2007). Handbook of Hedge Funds. John Wiley & Sons. p. 4.1.1. ISBN 0470026634.
+^ Business Knowledge for IT in Hedge Funds. Essvale Corporation Limited. 2008. p. 124. ISBN 0955412455.
+^ "Offshore Hedge Funds vs. Onshore Hedge Funds" (PDF). Fund Associates. 2008.
+^ Daniel A. Strachman (2012). The Fundamentals of Hedge Fund Management. Wiley. p. 3. ISBN 1118151399. If you are marketing to Japanese investors; you must have a Cayman-based unit trust. This group of investors rarely, if ever, invests in a hedge fund that is not set up as a unit trust.
+^ François-Serge Lhabitant (2007). Handbook of Hedge Funds. John Wiley & Sons. p. 4.2.1. ISBN 0470026634.
+^ a b François-Serge Lhabitant (2007). Handbook of Hedge Funds. John Wiley & Sons. p. 4.2.2. ISBN 0470026634.
+^ "Registration Under the Advisers Act of Certain Hedge Fund Advisers: footnote 141". Securities and exchange Commission. Retrieved 22 April 2011.
+^ Ineichen, Alexander M. (2002). "Funds of Hedge Funds: Industry Overview". Journal of Wealth Management. 47 (4).
+^ Clarke, Geordie (April 18, 2012). "Listed hedge funds: Lifting the smokescreen". Financial Times. Retrieved Feb 22, 2013.
+^ Frank J. Travers (2012). Hedge Fund Analysis: An In-Depth Guide to Evaluating Return Potential and Assessing Risks. Wiley. ISBN 1118175468.
+^ a b c Daniel A. Strachman (2012). The Fundamentals of Hedge Fund Management. Hoboken, New Jersey: Wiley. pp. 63–64. ISBN 1118151399.
+^ a b Duc, Francois; Schorderet, Yann (2008). Market Risk Management for Hedge Funds: Foundations of the Style and Implicit Value-at-Risk. Wiley. pp. 15–17. ISBN 0470722991.
+^ Giannone, Joseph A. (27 April 2010). "SEC probes hedge funds' use of side pockets-WSJ". Reuters. Retrieved 15 April 2013.
+^ Azam Ahmed (28 March 2011). "For Sale: Illiquid Assets, Hard to Value". The New York Times. Retrieved 15 April 2013.
+^ Zuckerman, Gregory; Patterson, Scott (4 August 2006). "'Side-Pocket' Accounts Of Hedge Funds Studied". The Wall Street Journal. Retrieved 18 April 2013.
+^ "The Differences Between Mutual Funds and Hedge Funds, April 2007". ICI. Retrieved 26 November 2011.
+^ Lemke, Lins & Smith, Regulation of Investment Companies (Matthew Bender, 2014 ed.).
+^ a b c d Drawbaugh, Kevin (25 February 2011). "Regulators Crack Down on Banks, Markets". Reuters. Retrieved 8 March 2011.
+^ Hedge Fund Standards Board. "Mission". Retrieved 27 September 2016.
+^ Hedge Fund Standards Board. "History". Retrieved 27 September 2016.
+^ a b Williams, Orice M. (7 May 2009). "Hedge Funds: Overview of Regulatory Oversight, Counterparty Risks, and Investment Challenges". U.S. Government Accountability Office. Retrieved 14 March 2011.
+^ Brown-Hruska, Sharon (30 November 2004). "Securities Industry Association Hedge Funds Conference". Securities Industry Association Hedge Funds Conference Keynote Address. U.S Commodity Futures Trading Commission. Retrieved 16 March 2011.
+^ "The Laws That Govern the Securities Industry: The Securities Act of 1933". Securities and Exchange Commission. Retrieved 29 March 2011.
+^ Baums, Theodor; Cahn, Andreas (2004). Hedge funds:risk and regulation. Walter de Gruyter. pp. 64–65. ISBN 3-89949-149-1.
+^ a b "The Laws That Govern the Securities Industry: The Securities Exchange Act of 1934". Securities and Exchange Commission. Retrieved 29 March 2011.
+^ Skeel D. (2005). Behind the Hedge. Legal Affairs.
+^ Marx Law Library, University of Cincinnati College of Law. "The Investment Company Act of 1940". Law.uc.edu. Retrieved 14 August 2010.
+^ "Forming A Hedge Fund". SGLawyers.com. Retrieved 29 March 2011.
+^ Marx Law Library, University of Cincinnati College of Law. "The Investment Company Act of 1940". Law.uc.edu. Retrieved 14 August 2010.
+^ "Registration Under the Advisers Act of Certain Hedge Fund Advisers". U.S. Securities and Exchange Commission. 7 December 2004. Retrieved 17 March 2011.
+^ "Registration Under the Advisers Act of Certain Hedge Fund Advisers: Footnote 42". U.S. Securities and Exchange Commission. 7 December 2004. Retrieved 17 March 2011.
+^ Astarita, Mark J. "Registration of Hedge Fund Managers: Bureaucracy Without Benefit". SECLaw.com. Retrieved 17 March 2011.
+^ Goldstein vs. SEC, 04-1434 (D.C. App. 23 June 23, 2006).
+^ Adelfio NE, Griffin N. (2007). United States: SEC Affirms Its Enforcement Authority With New Anti-Fraud Rule Under the Advisers Act. Mondaq.
+^ a b Chalmers, Geoffrey T. (April 2010). "Financial Regulatory Reform – What Does it Mean for You?". RegulatoryCompliance.com. Regulatory Compliance, LLC. Retrieved 15 March 2011.
+^ Herbst-Bayliss, Svea; Wachtel, Katya (28 March 2012). "Hedge funds register, wait for SEC to visit". Reuters. Retrieved 2 July 2012.
+^ Lemke & Lins, Regulation of Investment Advisers (Thomson West, 2014 ed.).
+^ Orol, Ronald D. (19 November 2010). "SEC: Hedge funds must open up their books". MarketWatch. Retrieved 13 March 2013.
+^ a b c "Brief Summary of the Dodd-Frank Wall Street Reform and Consumer Protection Act" (PDF). banking.senate.gov. United States Senate. Retrieved 8 March 2008.
+^ Ismail, Netty (23 February 2011). "Asia's Cash-Poor Small Hedge Funds". Bloomberg. Bloomberg L.P. Retrieved 8 March 2011.
+^ "SEC Adopts Dodd-Frank Act Amendments to Investment Advisers Act". Securities and Exchange Commission. 22 June 2011. Retrieved 2 July 2012.
+^ Marx Law Library, University of Cincinnati College of Law (18 October 2010). "Dodd-Frank Changes to Adviser Regulation". Montgomery McCracken. Retrieved 29 March 2011.
+^ Shore, Ben (19 October 2010). "EU finance ministers agree new hedge fund curbs". BBC News Business. Retrieved 18 July 2013.
+^ "Directive on Alternative Investment Managers ('AIFMD'): Frequently Asked Questions". Europa. European Union. 11 November 2010. Retrieved 8 March 2008.
+^ Prabhakar, Rahul (1 June 2013). "Varieties of Regulation: How States Pursue and Set International Financial Standards". Oxford University GEG. Retrieved 7 August 2015.
+^ Barker, Alex; Jones, Sam (2012). "EU hedge funds face pay threat - FT.com". ft.com. Retrieved 20 August 2012.
+^ "TalkingPoint: Outlook For Offshore-registered Hedge Funds In 2011". Financier Worldwide. February 2011. Retrieved 16 March 2011.
+^ "Hedge Fund SA" (PDF). Industry Overview. Hedge Fund SA. Retrieved 15 December 2011.
+^ Willoughby, Jack (1 October 2007). "High Performance – Barron's Online". Online.barrons.com. Retrieved 14 August 2010.
+^ "Here They Are—The Hedge Fund 50" (PDF). The Wall Street Journal.
+^ Or, Amy (4 March 2011). "Hedge Fund Assets Near $2.5 Trillion in 2010". The Wall Street Journal. Dow Jones & Company, Inc. Retrieved 3 April 2011.
+^ a b "Hedge Funds Out Perform In The "Lost Decade"". Hennessee Group LLC. 19 January 2010. Retrieved 3 April 2011.
+^ a b Mallaby, Sebastian (2010). More Money Than God: Hedge Funds and the Making of a New Elite. Penguin Group. ISBN 1-59420-255-9.
+^ Bollen, Nicolas P.B.; Whaley, Robert E. (April 2009). "Hedge Fund Dynamics: Implications" (PDF). The Journal of Finance. Blackwell Publishing. LXIV (2): 985–1035. doi:10.1111/j.1540-6261.2009.01455.x. Retrieved 3 April 2011.
+^ Tran, Vinh Q. (2006). Evaluating hedge fund performance. John Wiley & Sons. p. 181. ISBN 0-471-68171-7.
+^ Longo, John M. (2009). Hedge fund alpha. World Scientific Publishing. pp. 203–4. ISBN 981-283-465-6.
+^ a b Christopherson, Robert; Gregoriou, Greg N. (2004). Commodity Trading Advisors: Risk, Performance Analysis, and Selection. John Wiley & Sons. pp. 377–384. ISBN 0-471-68194-6.
+^ Gregoriou, Greg N. (2008). Encyclopedia of alternative investment. Taylor & Francis Inc. p. 303. ISBN 1-4200-6488-6.
+^ Longo, John M. (2009). Hedge fund alpha. World Scientific Publishing. p. 205. ISBN 981-283-465-6.
+^ Sharma, Milind (2005). Hedge Funds: Insights in Performance Measurement, Risk Analysis, and Portfolio Allocation. Wiley, John & Sons Incorporated. pp. 403–434. ISBN 0-471-73743-7.
+^ Aldridge, Irene (2009). High-Frequency Trading. Wiley, John & Sons Incorporated. p. 56. ISBN 0-470-56376-1.
+^ Lack, Simon (2012). The Hedge Fund Mirage: The Illusion of Big Money and why it's Too Good to be True. New Jersey, USA: John Wiley & Sons. p. 7. ISBN 9781118164310. Retrieved 6 March 2013.
+^ Géhin, Walter; Vaissié, Mathieu (June 2005). The Right Place for Alternative Betas in Hedge Fund Performance: an Answer to the Capacity Effect Fantasy. The Journal of Alternative Investments. 9. EDHEC Risk and Asset Management Research Centre. pp. 9–18. doi:10.3905/jai.2006.640263. Retrieved 28 February 2013.
+^ A source for hedge fund track records is the Cambridge Associates Private Equity Index.
+^ a b Chan, Nicholas; Getmansky, Mila; Haas, Shane M; Lo, Andrew W (March 2005). "Systemic Risk and Hedge Funds". National Bureau of Economic Research. Retrieved 27 March 2011.
+^ "Financial Stability Review June 2006" (PDF). June 2006. Retrieved 14 August 2010.
+^ Gary Duncan (2 June 2006). "ECB warns on hedge fund risk". London: The Times. Retrieved 1 May 2007.
+^ Bookstaber, Richard (16 August 2007). "Blowing up the Lab on Wall Street". Time.com. Retrieved 14 August 2010.
+^ "A reply to the ECB's statement on hedge funds by the EDHEC Risk and Asset Management Research Centre" (PDF). edhec-risk.com. Retrieved 14 August 2010.
+^ Protess, Ben (19 November 2010). "No Threats Here, Firms Tell the U.S.". The New York Times. Retrieved 28 March 2011.
+^ Ang, Andrew; Gorovyy, Sergiy; VanInwegen, Greg (February 2011). "Hedge Fund Leverage" (PDF). National Bureau of Economic Research. pp. 28–29. This paper presents, to our knowledge, the first formal analysis of hedge fund leverage using actual leverage ratios. Our unique dataset from a fund-of-hedge funds provides us with both a time series of hedge fund leverage from December 2004 to October 2009, which includes the worst periods of the financial crisis, and a cross section to investigate the determinants of the dynamics of hedge fund leverage.
+^ Ang, Andrew; Gorovyy, Sergiy; VanInwegen, Greg (February 2011). "Hedge Fund Leverage" (PDF). National Bureau of Economic Research. pp. 28–29. [H]edge fund leverage is fairly modest, especially compared with the listed leverage of broker/dealers and investment banks.
+^ a b Ang, Andrew; Gorovyy, Sergiy; VanInwegen, Greg (February 2011). "Hedge Fund Leverage" (PDF). National Bureau of Economic Research. pp. 28–29. [H]edge fund leverage is counter-cyclical to the market leverage of listed financial intermediaries. In particular, hedge fund leverage decreases prior to the start of the financial crisis in mid-2007, where the leverage of investment banks and the finance sector continues to increase. At the worst periods of the financial crisis in late 2008, hedge fund leverage is at its lowest while the leverage of investment banks is at its highest.
+^ Rooney, Ben (18 December 2008). "Hedge fund graveyard: 693 and counting". CNNMoney.com. Retrieved 5 April 2011.
+^ Federal Reserve Perspectives on Financial Regulatory Reform Proposals: Hearing Before the H. Comm. on Financial Services, 111th Cong. 25 (2009) (testimony of Ben S. Bernanke, Chairman, Board of Governors of the Federal Reserve System).
+^ Coggan, Philip (2010) [2008]. Guide to Hedge Funds. The Economist. pp. 85–89. ISBN 978-1-84668-382-4.
+^ Financial Services Authority (August 2012). "Assessing the possible sources of systemic risk from hedge funds" (PDF).
+^ Carrie Johnson, "Scrutiny Urged for Hedge Funds" The Washington Post (29 June 2006). Retrieved 1 March 2011
+^ Cassar, G., & Gerakos, J. (2009). Determinants of Hedge Fund Internal Controls and Fees. Retrieved from [2]
+^ Liang, B (2000). "Hedge Funds: The Living and the Dead". Journal of Financial & Quantitative Analysis. 35 (3): 309–326. doi:10.2307/2676206.
+^ Stulz, R (2007). "Hedge Funds Past, Present, and Future". Journal of Economic Perspectives. 21 (2): 175–194. doi:10.1257/jep.21.2.175.
+^ Nick Kochan (1 July 2009). "Hedge Fund Fraud: Hedge of darkness". Risk. Retrieved 21 April 2014.
+^ Monee Fields-White (23 August 2006). "NFL Stars, Charmed by Kirk Wright, Lose Millions in Hedge Fund". Bloomberg. Retrieved 28 April 2014.
+^ "SEC v. Kirk S. Wright, International Management Associates, LLC; International Management Associates Advisory Group, LLC; International Management Associates Platinum Group, LLC; International Management Associates Emerald Fund, LLC; International Management Associates Taurus Fund, LLC; International Management Associates Growth & Income Fund, LLC; International Management Associates Sunset Fund, LLC; Platinum II Fund, LP; and Emerald II Fund, LP, Civil Action". Sec.gov. Retrieved 14 August 2010.
+^ Amanda Cantrell, CNNMoney.com staff writer (30 March 2006). "Hedge fund manager faces fraud charges". Money.cnn.com. Retrieved 14 August 2010.
+^ Hipwell, Deirdre (12 December 2008). "Wall Street legend Bernard Madoff arrested over 50 billion Ponzi scheme". The Times. London. Retrieved 4 May 2010.
+^ Daniel A. Strachman, The Fundamentals of Hedge Fund Management: How to Successfully Launch and Operate a Hedge Fund 168 (2012).
+^ Henriques, Diana (2011). Bernie Madoff, the Wizard of Lies: Inside the Infamous $65 Billion Swindle. Oxford, UK: Oneworld. pp. 36–209. ISBN 9781851689033.
+^ "Madoff brother to plead guilty". Belfast Telegraph. 29 June 2012. Retrieved 28 June 2012.
+^ "U.S. Attorneys Recover Again for South American Investors". Business Wire. 26 June 2012. Retrieved 28 June 2012.
+^ Securities and Exchange Commission, Custody of Funds or Securities of Clients by Investment Advisers, Release No. IA–2968 (Dec. 30, 2009), 75 Fed. Reg. 1456 (Jan. 11, 2010).
+^ "Opaque Trading, Disclosure, and Asset Prices: Implications for Hedge Fund Regulation". oxfordjournals.org.
+^ "Harvard Management Company Endowment Report" (PDF). Hmc.harvard.edu. September 2013. Retrieved 2015-10-09.
+^ "Will entrepreneurs save the hedge fund industry". Hedgeweek. 9 March 2015.
+^ Kirsten Salyer. "A Dating Service for Those Who Love Hedge Funds". Businessweek.com.
+^ "IMatchative raises $20M to help match investors, hedge funds". Silicon Valley Business Journal. 28 October 2014.
+^ "Scrutiny Urged for Hedge Funds". Washingtonpost.com. 29 June 2006. Retrieved 14 August 2010.
+^ Liz Noyer, "Scales Of Justice Look Skewed For Rajaratnam, Samberg" Forbes magazine (27 May 2010). Retrieved 21 February 2011
+^ "SEC Settles with Aguirre" Government Accountability Project (29 June 2010) Retrieved 21 February 2011
+^ Larry Edelman and Saijel Kishan, "Pequot Capital to Shut Amid SEC Insider-Trading Probe" Bloomberg News. (28 May 2009). Retrieved 19 February 2011
+^ Gretchen Morgenson (15 July 2012). "Surveys Give Big Investors an Early View From Analysts". The New York Times. Retrieved 16 July 2012. The questions are vague but collectively give us a good sense of the analyst’s overall sentiment towards the company," the report concluded. "We find that this sentiment manifests itself in future analyst upgrades
+^ Portfolio Efficiency with Performance Fees, Economics and Political Strategy (newsletter), February 2007, Peter L. Bernstein Inc.
+^ Hulbert, Mark (4 March 2007). "Hulbert, Mark 2 + 20, and Other Hedge Fund Math, ''New York Times'', 4 March 2007". The New York Times. Retrieved 26 November 2011.
+^ "Credit Suisse/Tremont Hedge Index web page". HedgeIndex.com. Retrieved 14 August 2010.
+Further reading[edit]
+Thomas P. Lemke, Gerald T. Lins, Kathryn L. Hoenig & Patricia S. Rube, Hedge Funds and Other Private Funds: Regulation and Compliance (Thomson West 2014 ed.).
+Thomas P. Lemke & Gerald T. Lins, Regulation of Investment Advisers (Thomson West 2014 ed.).
+Thomas P. Lemke, Gerald T. Lins & A. Thomas Smith, III, Regulation of Investment Companies (Matthew Bender 2014 ed.).
+Frank S. Partnoy & Randall S. Thomas, 'Gap Filling, Hedge Funds, and Financial Innovation' (2006) Vanderbilt Law & Econ. Research Paper No. 06-21
+Marcel Kahan & Edward B. Rock, 'Hedge Funds in Corporate Governance and Corporate Control' (2007) 155 University of Pennsylvania Law Review 1021
+Makrem Boumlouka, 'Regulation and Transparency in US OTC Derivative Markets', Original Thoughts Series #1, August 2010, Hedge Fund Society Hedge Fund Society
+Boyson, Nicole M.; Stahel, Christof W.; Stulz, Rene M. (2010). "Hedge Fund Contagion and Liquidity Shocks". The Journal of Finance. 65: 1789–1816. doi:10.1111/j.1540-6261.2010.01594.x.
+Emory Center for Alternative Investments
+David Stowell (2010). An Introduction to Investment Banks, Hedge Funds, and Private Equity: The New Paradigm. Academic Press.
+External links[edit]
+Archive of articles on hedge funds controversies in the 21-st century, Naked Capitalism
+v
+t
+e
+Investment funds
+By asset class
+Traditional
+Stock fund
+Bond fund
+Money market fund
+Alternative
+Real estate investment trust
+Private equity fund (Venture capital fund, Mezzanine investment funds, Vulture fund)
+Hedge fund
+By style
+Index fund
+Target date fund
+Growth fund
+Value fund
+Income fund
+Sector fund
+Balanced fund
+Asset allocation fund
+Fund of funds
+By investment strategy
+Traditional
+Long-only fund
+Stable value fund
+Alternative
+Long/short equity fund
+Market neutral fund
+130–30 fund
+Event-driven fund
+Global macro fund
+Managed futures fund
+Multi-strategy fund
+By structures
+Public
+Mutual fund (Open-end fund)
+Exchange-traded fund
+Closed-end fund
+Real estate investment trust
+Institutional
+Hedge fund
+Private equity fund
+Pooled income fund
+Endowment fund
+Pension fund
+Sovereign wealth fund
+Sovereign investment fund
+By measure of returns
+Absolute return
+Total return
+Related topics
+Alternative investments
+Traditional investments
+Net asset value
+Assets under management
+Rate of return
+Time-weighted return
+Money-weighted rate of return
+v
+t
+e
+Hedge funds
+Investment
+strategy
+Arbitrage /
+Relative value
+Capital structure arbitrage
+Convertible arbitrage
+Equity market neutral
+Fixed income arbitrage / Fixed-income relative-value investing
+Statistical arbitrage
+Volatility arbitrage
+Event-driven
+Activist shareholder
+Distressed securities
+Risk arbitrage
+Special situation
+Directional
+Convergence trade
+Commodity trading advisors / Managed futures account
+Dedicated short
+Global macro
+Long/short equity
+Trend following
+Other
+Fund of hedge funds / Multi-manager
+Trading
+Algorithmic trading
+Day trading
+High-frequency trading
+Prime brokerage
+Program trading
+Proprietary trading
+Related
+terms
+Markets
+Commodities
+Derivatives
+Equity
+Fixed income
+Foreign exchange
+Money markets
+Structured securities
+Misc
+Arbitrage pricing theory
+Assets under management
+Black–Scholes model (Greeks (finance): Delta neutral)
+Capital asset pricing model (Alpha / Beta / Security characteristic line)
+Fundamental analysis
+Hedge
+Securitization
+Short
+Taxation of private equity and hedge funds
+Technical analysis
+Investors
+Vulture funds
+Family offices
+Financial endowments
+Fund of hedge funds
+High-net-worth individual
+Institutional investors
+Insurance companies
+Investment banks
+Merchant banks
+Pension funds
+Sovereign wealth funds
+Regulatory
+Fund governance
+Hedge Fund Standards Board
+Alternative investment management companies
+Hedge funds
+Hedge fund managers
+v
+t
+e
+Investment management
+Investment fund
+structures
+Common contractual fund
+Exchange-traded fund
+Fond commun de placement
+Fund of funds
+Index fund
+Investment trust
+Hedge fund
+Listed investment company
+Mutual fund
+Offshore fund
+Open-ended investment company
+Private equity fund
+Real estate investment trust
+Royalty trust
+SICAV
+Umbrella fund
+Unit investment trust
+Unit trust
+Unitised insurance fund
+Investment styles
+Active / passive management
+Impact investing
+Manager of managers
+Socially responsible investing
+Value / growth investing
+Theory · Terminology
+Closed-end fund
+Efficient-market hypothesis
+Net asset value
+Open-end fund
+Related topics
+Alternative investment
+Asset management firms
+Robo-advisor
+Returns-based style analysis
+Traditional investments
+UCITS
+v
+t
+e
+General areas of finance
+Computational finance
+Experimental finance
+Financial economics
+Financial institutions
+Financial markets
+Investment management
+Mathematical finance
+Personal finance
+Public finance
+Quantitative behavioral finance
+Quantum finance
+Statistical finance
+Authority control
+NDL: 00999442
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Hedge_fund&oldid=766356161"
+Categories: 1949 introductionsHedge fundsAlternative investment management companiesInstitutional investorsHidden categories: Use dmy dates from October 2012Wikipedia articles needing clarification from February 2013All articles with unsourced statementsArticles with unsourced statements from February 2013Articles containing potentially dated statements from February 2011All articles containing potentially dated statementsArticles containing potentially dated statements from March 2012
+Navigation menu
+Personal tools
+Not logged inTalkContributionsCreate accountLog in
+Namespaces
+Article
+Talk
+Variants
+Views
+Read
+Edit
+View history
+More
+Search
+Navigation
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store
+Interaction
+HelpAbout WikipediaCommunity portalRecent changesContact page
+Tools
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page
+Print/export
+Create a bookDownload as PDFPrintable version
+Languages
+العربيةБългарскиCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEsperantoفارسیFrançaisGaeilge한국어ՀայերենHrvatskiBahasa IndonesiaÍslenskaItalianoעבריתBasa JawaLietuviųMagyarNederlands日本語Norsk bokmålភាសាខ្មែរPlattdüütschPolskiPortuguêsRomânăРусскийСрпски / srpskiSuomiSvenskaதமிழ்ไทยУкраїнськаTiếng Việt中文
+Edit links
+This page was last modified on 19 February 2017, at 19:01.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.
+By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view

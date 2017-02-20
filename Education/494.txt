@@ -1,0 +1,120 @@
+e-Learning in the School of Physics and Astronomy
+:
+EVAF4All
+THE UNIVERSITY of EDINBURGH
+SCHOOL OF PHYSICS AND ASTRONOMY
+Home »
+e-Learning in the School of Physics and Astronomy
+»
+Project Showcase
+»
+EVAF4All
+Skip Navigation
+About Us
+Introduction
+Contacts
+Publications
+Our Blog
+Group Wiki
+Our Projects
+Project Showcase
+MathAssess & FETLAR
+Electronic Voting
+EVAF4All
+Physics 1A
+Peerwise
+Aardvark
+DUMP
+LEaD
+e-Learner Tracking
+STEER
+Podcasting
+Sign-Up Tool
+Coursework Submission Tool
+COSMaP
+Software
+SnuggleTeX
+Jacomax
+Del.icio.us Links
+EVAF4All: Electronic Voting Analysis and Feedback for All
+Electronic Voting Handset
+Overview
+Building on the work of a previous project to
+introduce voting systems into
+large class lectures, this project will develop a web-based tool for
+students and staff to get feedback on the data captured during these episodes
+in lectures.
+The use of electronic voting systems (EVS) at FE institution level has grown
+markedly in recent years. In the last three years, the use of EVS in large
+introductory lectures has become increasingly widespread at the University
+of Edinburgh (and is aligned to implementation of the
+College of Science and
+Engineering's Teaching and Learning Strategy).
+Capitalising on the growing interest and expertise, this project brings
+together experts from multiple institutions and University of Edinburgh
+e-learning developers to create a web application
+that will provide students and staff with aggregated feedback on such
+questions via a simple online interface.
+A Question Analysis showing the screenshot for the question (left) and the vote
+results (right) - click to expand.
+The features of the system will be such that students will be able to obtain
+a record of their progress in answering these questions, individually or
+aggregated across sections of a course or even the multiple courses for which
+they are enrolled. They will be directed back to relevant content via
+hyperlinks, and presented statistics regarding whole class performance. This
+feedback can thus aid their developing self-management of their own studying
+and provide valuable diagnostic feedback.
+The staff view of the system will enable aggregated data to be extracted,
+which can be used to evaluate the efficacy of questions (which questions
+'worked' or did not), sets of questions (for aspects such as breadth, balance
+etc) and analyse aggregated student performance (which questions exemplify
+misconceptions or difficulties). This analysis can then be used to feed back
+into subsequent course development and delivery. The majority of this
+information is captured at the point of delivery in the lecture, but the tool
+will allow staff to view aggregate data in a far easier fashion.
+EVAF4All will create an EVS-neutral soln that will allow its use in many FE
+institutions irrespective of the underlying VLE and clicker-loan schemes in place, closing the
+feedback loop on this increasingly relevant mode of teaching and learning.
+Project Status
+This project runs from January 2009 to January 2010 and is jointly funded by
+JISC and the
+University of Edinburgh, building on a previous pilot carried out as part of
+University of Edinburgh's
+e-Learning Project Fund in 2007/2008.
+Project News
+Nov 25, 2008: Awarded JISC funding
+Nov/Dec 2008: Planning & Evaluating partner institutions
+Feb 2009: Edinburgh Meeting - thanks for those who turned up - very useful feedback
+Mar-May 2009: Further requirements gathering
+June 2009: Development underway based on modified requirements
+Sep 2009: Attending Alt-C with poster session for EVAF4All
+Nov 2009: PRS User Group meeting to disemminate findings and demonstrate EVAF4All
+Jan 2010: Project funding period has officially ended with reports and outputs to follow soon.
+Apr 2010: First release of EVAF - see Project outputs below.
+Project Outputs
+For the latest EVAF source go to http://rubyforge.org/projects/evaf/ and click on 'Download' or use SVN:svn checkout http://evaf.rubyforge.org/svn/
+Project Contacts
+Prof Simon Bates, School of Physics and Astronomy
+Mr Keith Brunton, School of Physics and Astronomy
+Project Documents & Papers
+Simon P. Bates, Keith Brunton
+EVAF4All JISC Proposal (pdf)
+EVAF4All Partners
+EVAF4All Partner Questionaire (pdf)
+EVAF4All Partners
+EVAF4All Insititutional Systems Matrix (pdf)
+Keith Brunton, Simon P. Bates
+EVAF4All Phase 1 & Phase 2 Requirements (pdf)
+Simon P. Bates, Keith Brunton
+EVAF4All Alt-C Poster (pdf)
+Keith Brunton
+EVAF4All PRS User Group Presentation (pdf)
+Additional Screenshots
+Showing a list of courses (as staff member) - click to expand.
+An overview of the questions for a course showing basic stats (as staff member) - click to expand.
+Screenshot of the import process - where a lecturer imports the voting data and attaches screenshots and question information - click to expand.
+Copyright © 2016 The School of Physics and Astronomy,
+The University of Edinburgh.
+Contact:
+David McKain
+The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336.

@@ -1,0 +1,68 @@
+VMAP Visual Mapping of Portfolios
+VMAP Visual Mapping of Portfolios
+About the VMAP Project
+Round 2 Developments
+The VMAP Project has received further funding to develop the software, carry
+out pilot implementations and user trials. The funding from round 2 of the
+Distributed
+elearning Programme covers developments from June 2005 to March 2006.
+Round 1 Developments
+The VMAP project was initially funded by JISC under round
+1 of the Distributed
+elearning Programme, from September 2004 - March 2005. The purpose
+of the VMAP project was to develop
+an elearning tool that would enable the development
+of ePortfolios. The particular approach that the project team adopted was
+to allow the development (and display) of a portfolio using a visual map
+to allow
+the representation of the portfolio. Further details from the VMAP
+project page on the JISC website.
+Project documentation available from the Project Development pages held within the E-learning framework website.
+About the VMAP Software
+Software
+The broad aim
+is to provide a software tool that will be more
+accessible to dyslexics and better enable them to produce an e-Portfolio than
+existing tools.
+The objectives of the project are to:
+Enable the learner to interact with a pre-defined institutional template
+for preparing e Portfolios in a format that is most accessible to the learner;
+Enable the learner to plan, construct and update an e Portfolio through
+the use of a visual mapping interface, on their own personal desktop;
+Enable the learner to share, publish and disseminate an e Portfolio through
+the use of a visual mapping interface, to their institutional system.
+Getting the Software
+The software is written in Java using Java 1.4.2+, so should run on all operating
+systems. You can download versions of VMAP from our files
+page on sourceforge, or run the latest
+version using Java Web start. If you are
+more adventurous and would like to download the project from the sourceforge
+code repository using cvs, then you can from our cvs
+pages.
+License
+The software is released under the GNU General Public License.
+Using ePortfolios
+Exemplars of using e Portfolios will be added here as they are developed.
+View VMAP help to learn about using the software.
+Dissemination
+Initial VMAP Presentation
+Demonstration at JISC Conference 12 April 2005
+Useful Resources and Links
+About
+the JISC Developing E-learning Tools Programme
+e-Learning
+Tools Projects - There are 22 eLearning Tools Projects funded as
+part of round 1 of the Distributed eLearning Programme.
+Education and Interoperability Standards
+CETIS - the centre for
+educational technology interoperability standards.
+IMS - IMS Global Specification.
+ELF - The eLearning
+Framework.
+Project Team
+Contact the project team at celt 'at' gold.ac.uk
+John Phelps, Goldsmiths College, University of London
+System Simulation Limited
+Thanks to the Round 1 project Team.
+Martin Wellard at Goldsmiths and Sean
+Keogh, Elizabeth Polding at the Oxford Institute of Legal Practice

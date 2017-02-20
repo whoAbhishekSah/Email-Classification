@@ -1,0 +1,39 @@
+Concordia - Trac
+Search:
+LoginSettingsHelp/GuideAbout Trac
+WikiTimelineRoadmapBrowse SourceView TicketsSearch
+Wiki Navigation
+Start Page
+Index by Title
+Index by Date
+Last Change
+Concordia, Graph of Ancient World Data
+Starting Points
+RDFCookbook
+ConcordiaThesaurus
+Old Table of Contents
+ProjectOverview
+ProjectTeam
+ProjectData
+ProjectDeliverables
+ProjectPlan
+ProjectNews
+ProjectSoftware
+Feed-based Interoperability
+ORE
+ResourceMaps?
+ResourceMapsKML
+AtomLocation
+LinkedData (see also: Linking Open Geographic Data)
+NEH/DFG project
+Bilateral Workshops
+EDH/Pleiades Interoperation chats
+For a complete list of local wiki pages, see TitleIndex.
+This project is supported jointly by the National Endowment for the Humanities and the Higher Education funding Council for England of the United Kingdom acting through the Joint Information Systems Committee.
+The Joint Information Systems Committee is an independent advisory body in the United Kingdom that works with further and higher education by providing strategic guidance, advice and opportunities to use Information and Communication Technologies to support learning, teaching, research and administration.
+The National Endowment for the Humanities is an independent grant-making agency of the United States government dedicated to supporting research, education, preservation and public programs in the humanities.
+Any views, findings, conclusions, or recommendations expressed in this website do not necessarily reflect those of the National Endowment for the Humanities or the Joint Information Systems Committee.
+Download in other formats:Plain Text
+Powered by Trac 0.10.4
+By Edgewall Software.
+Visit the Trac open source project athttp://trac.edgewall.org/

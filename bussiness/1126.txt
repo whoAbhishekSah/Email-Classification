@@ -1,0 +1,61 @@
+Panchromos product design and engineering
+Search this site
+Search
+Home
+Stories
+Lumora
+Inscentinel
+Astron Clinica
+Services
+Product Definition
+Concept Design
+Design Engineering
+Product Realisation
+Models & Prototypes
+Blog
+About us
+Why work with us?
+Contact
+Privacy Policy
+Mechanical engineering
+Electronics
+Optics
+Sensors
+Concept design
+Embedded software
+ISO 13485 certified
+We undertake product innovation projects with and for clients using our network of hands-on experts. We mainly work with technology-based start-ups and SMEs, and our focus is on products that use sensors for detection, measurement, imaging or control. In areas including medical (we’re ISO 13485 certified), security/defense, process control and IoT—see some examples here.
+Call us product developers, design engineers or innovation consultants: We work hands-on with clients to turn ideas, insights and inventions into prototypes and products, into value and profit. We design, engineer, shape, build, and test. Probe, search, sift, and find. Construct, calculate, sketch, and tinker. Define, plan, manage, and deliver projects. Create, add and multiply value.
+If you’re faced with a product development challenge, talk to us. We might just be the right partner.
+Why
+Developing tomorrow’s products requires a combination of expertise that’s unlikely to be found in a single company—so I start with the project and assemble the right team, rather than to start with a team and force-fit projects. We can deliver a broad expertise, with lower overheads and greater flexibility than our larger colleagues. Not convinced?
+What
+Our combined expertise covers mechanics, electronics, physics, software, ergonomics and production engineering – with a sense of style and a keen eye for cost. Plus we assist in getting European funding, product/market exploration, and deliver practical training. Explore how we can help.
+Who
+My project team members are all experienced independent professionals used to working in a distributed team. As they chose to work on a project you can be certain they are as motivated as I am to deliver: We all have a personal stake in the success of your project. Get to know us.
+Recent blog posts
+Canon develops 250 Mpixel CMOS image sensor
+I came across this article on EE-times. A quarter gigapixels on a chip smaller than an old 35mm…
+Innovation Vouchers: Up to £5k for expert advice
+Through InnovateUK’s “Innovation Vouchers” scheme SMEs can get up to £5k to pay for expert advice on innovation: This specifically…
+Who wants a pocket gas chromatograph?
+This lent term I’m once again mentoring an i-Teams group (and eating plenty of pizza doing so). We’re looking at…
+ISO 13485: My journey to certification – success
+Last week I took scope of what I’d done: I solved all major non-conformances to the satisfaction of my assessor,…
+“Panchromos helped us make molecular diagnostics simple, robust and affordable”
+Laurence Tisi – CEO, Lumora Ltd
+“Panchromos produced a robust and functional prototype for field trials in a cost-effective manner”
+Lucius Cary – Director, Inscentinel Ltd
+“We set out to improve image quality and ease of use while drastically reducing production cost: We succeeded on all three counts”
+Symon Cotton – CSO and founder, Astron Clinica Ltd
+Panchromos Limited Registered in England and Wales
+Reg. No. 4938681
+VAT GB 861039337
+Registered address 10 Silverweed
+St. Neots - Cambridgeshire
+PE19 7GZ United Kingdom
+Contact Tel +44-1480-381172
+info@panchromos.com
+skype: panchromos
+© 2017 Panchromos Site design based on "Vanguard" by Unisphere,
+powered by Wordpress

@@ -1,0 +1,438 @@
+Stumbling and Mumbling
+Stumbling and Mumbling
+An extremist, not a fanatic
+February 17, 2017
+Replacing Wenger
+Should Arsene Wenger go? If so who should replace him? In considering these questions we must remember three important economic principles.
+One is that in hiring someone what matters is putting round pegs into round holes. Productivity often results not from the intrinsic quality of a worker, but from the match between his skills and the job. What matters is getting the right man for the job, not necessarily the best.
+Boris Groysberg has shown this (pdf). He looked at 20 former managers of General Electric – a company with a reputation for producing good bosses – who moved to senior positions in other firms. He found that their performance varied enormously even though all 20 had similarly impressive CVs.
+This variance occurred because the matches differed. Hiring a cost-cutter, for example, is a good idea for a firm facing stiff price competition in a mature industry. But it’s a bad idea if yours is a fast-growing newer firm. And conversely, a man whose good at managing growth won’t fit into a mature firm.
+What Arsenal must ask, therefore, is two questions. First, what precisely is the problem we want to solve? And second, who has the skill-set to do so?
+The problem seems to be one of mentality: how to ensure that good players don’t collectively under-perform in big games. Also, we’d like someone who’s good at managing up – who can get money and competence in the transfer market out of an “absentee owner with no knowledge or interest in football” and a board which has been occasionally clueless.
+So, who fits this bill? There are few stand-out candidates. There’s nothing in the CVs of Eddie Howe, Thomas Tuchel or Ronald Koeman to suggest they are capable of taking a team from the top four to the top one. Yes, Diego Simeone or Max Allegri have a proven record to suggest they could do so – but the former at least would entail a massive and therefore risky cultural change at the club.
+But here’s a problem. A CV tells us what a man has done – which might of course be just “got lucky”. It doesn’t necessarily tell us what he can do.
+Which brings me to the second principle: nobody knows anything. Success is to a large extent unpredictable. This is as true in football management as business.  For example, Sir Alex Ferguson was on the brink of the sack in 1990, and Bill Shankly failed to get Liverpool promoted in his first two seasons on charge – something which would get a boss the boot in our more demanding times.  Nobody then foresaw their great achievements – just as nobody’s reaction to Claudio Ranieri’s appointment at Leicester was “this guy will take them to a league title”.
+The converse, of course, is also true. Countless managers have failed to live up to fans’ or board’s hopes, even at the minority of clubs that aren’t run by egomaniacs or idiots: David Moyes and Louis van Gaal were both the right man for Manyoo once.
+So, what can we expect of a new Arsenal boss?
+Here’s my third principle: perhaps not much. We’ve got reasonable evidence (pdf) from top European leagues that changing manager does not in fact make much difference on average. This is perhaps consistent with the fact that any organization’s success often depends more upon organizational capital than upon single individuals. For example, some teams will always be near the top, and others won’t: last season was an outlier in this respect.
+Maybe Great Men can make a difference. But the thing about Great Men is that they are very rare.
+I guess the only point I’m making here for Arsenal fans is: don’t get your hopes up.
+February 17, 2017
+| Permalink
+|
+Comments (2)
+|
+February 16, 2017
+Healing Labour's class divide
+There’s an emerging consensus that the Labour party’s longstanding coalition between workers and middle class intellectuals is breaking down. Bo Rothstein says the “alliance between the industrial working class and what one might call the intellectual-cultural Left is over.” Julian Coman laments the division “between Labour and its own traditional supporters in the heartland towns of the Midlands and the north.” And Peter Ryley says the left “has lost its ability to speak for and to working class people.”
+We need a historical perspective here. There has always been a tension on the left between workers and the middle class. This was forcefully expressed by George Orwell. Describing an ILP meeting in London, he wrote:
+Every person there, male and female, bore the worst stigmata of sniffish middle-class superiority. If a real working man, a miner dirty from the pit, for instance, had suddenly walked into their midst, they would have been embarrassed, angry, and disgusted; some, I should think, would have fled holding their noses.
+Just a few years later, however, a Labour government laden with superior middle class types created the modern welfare state: the Wykehamist Stafford Cripps was even one of the vegetarians that Orwell so despised. And all subsequent Labour governments were well stocked with poshos.
+Why then should the alliance be breaking down now?
+One reason is that the issues that have long divided workers and the well-meaning middle class are more salient now – most obviously Brexit. This perceived split might be exaggerated by a cartoonish stereotyping of the “white working class” as insular xenophobes fleeing into the arms of Ukip – an image which ignores the fact that Ukip is the party of multi-millionaires such as Farage, Banks and Nuttall*.
+A second reason is perhaps that the social distance between the classes – especially at the top of the Labour party - has increased because of the decline of unions and autodidacts. The posh members of the 1945-51 government were daily reminded of their links to workers by their colleagues such as Bevin and Bevan. In recent years, the link has been weaker: yes, Blair had Prescott – but whereas Bevin and Bevan were respected and feared, there was always an element of patronization in the treatment of Prescott.
+Perhaps linked to this is something else. Since the 1990s the middle-class superiority of which Orwell complained – which had been restrained by trades union power – has been unleashed. New Labour’s managerialism and embrace of bosses helped to alienate working people. And this continues to this day. Julian Coman describes how Wigan residents are angry at the “top-down high-handed way” a Labour council wants to destroy part of the green belt, and how working people feel “a sense of powerlessness.”
+What we’re seeing in the UK might therefore be the same thing Joan Williams describes in the US – workers’ resentment at professionals who “order them around every day.”
+There is, however, a solution to this. Let’s go back to Orwell:
+To the ordinary working man, the sort you would meet in any pub on Saturday night, Socialism does not mean much more than better wages and shorter' hours and nobody bossing you about.
+This is just what socialism should mean. Having “nobody boss you about” is desireable in itself, as Marc Stears argues. It is also economically efficient: worker democracy raises productivity.
+And better wages is not a narrowly economistic demand. As Ben Friedman has shown, it’s a necessary basis for greater tolerance and liberalism and hence many of the things the middle class left (rightly) want.
+What Labour needs, then, is a focus upon issues of control (not just in the workplace but more widely) and incomes. Whether it can do this is another matter.
+* I assume Nuttall must be wealthy, given that he invented the internet and played for Real Madrid.
+February 16, 2017
+| Permalink
+|
+Comments (14)
+|
+February 15, 2017
+Low job mobility
+It’s sometimes said that we live in times of unusual economic uncertainty, with new businesses disrupting old ones and robots threatening to take our jobs. Today’s labour market data seem to undermine such claims, as they show unusual stability in jobs.
+My first chart shows one measure of this: inflows and outflows into and out of employment, as a percentage of total jobs. If we were seeing high rates of disruption, we’d expect to see lots of people lose their jobs either to robots or as their employers shrink under competition from new rivals, and lots of job creation as new businesses take on staff.
+Which is what we’re not seeing. Outflows from employment in particular are lower than they were before the crisis.
+My second chart shows moves from job to job: because the data aren’t adjusted for seasonal swings, the orange line shows a four-quarter moving average. This shows that whilst such moves have risen sharply since the recession, they too are below the levels we saw in the early 00s.
+What we have here is evidence that the pace of creative destruction is lower now than it was pre-crisis. I suspect this is closely linked to the fact that productivity growth has been sluggish for years. This is partly because labour mobility should improve productivity by ensuring that round pegs go into round holes – that workers are well-matched to jobs. But it’s also because a lot of productivity growth comes not from existing firms upping their game but from (pdf) entry and exit. Low rates of labour mobility are a sign that entry and exit is low.
+All this is a two-edged sword. The good news is that it suggests that job security has risen. This is consistent with the fact that we’ve seen strong consumer borrowing and spending in recent years.
+The bad news isn’t simply that it is also a sign of weak productivity. As the Resolution Foundation has said (pdf), low mobility “may have concerning implications for young people’s career prospects.” This is because:
+Job mobility is generally a key enabler of pay progression and career advancement, and this is particularly the case for young people as they build careers, find roles in which their productivity will rise, and make progress up the earnings curve may have concerning implications for young people’s career prospects.
+This might have nasty political implications. Saliha Metinsoy says declining job mobility in the US contributed to Trump’s victory because it increased people’s frustration with their lack of job prospects.
+All this poses big and serious questions: what, if anything, can be done to foster greater creative destruction? How can we achieve the upsides of a fluid labour market – productivity growth and better prospects for younger workers – whilst avoiding the downside of insecurity? (Hint: citizens income). I don’t, however, expect politicians to have good answers to these.
+February 15, 2017
+| Permalink
+|
+Comments (5)
+|
+February 14, 2017
+House prices as leaky bucket
+The Resolution Foundation says (pdf) that the typical pensioner now has a higher income, after housing costs, than the typical worker. Which poses the question: do younger people have a legitimate complaint here? I think the answer’s yes.
+First, though, let’s see what their grievances are not.
+They can have no complaint about rising pension incomes because of the triple lock. Quite the opposite. The power of compounding means this will benefit tomorrow’s pensioners – ie today’s youngsters – more than it helps today’s old folk. (Those who complain that the lock won’t last ignore the fact that it is as sustainable as we want it to be.)
+Nor can they complain about high pensioner incomes to the extent that these are due to more pensioners having jobs; the number of over-65s in work has doubled since 2005.  There isn’t a lump of labour, so pensioners don’t displace young workers, any more than immigrants do*.
+And whilst they do have a legitimate complaint about low pay, this is not a generational issue but rather one about macroeconomics and class.
+Instead, youngsters’ legitimate beef is about house prices. A big reason why pensioners are better off than them is that many pensioners live mortgage-free in houses they bought cheaply years ago, whilst young folk must pay a fortune in rent or (for a lucky few) mortgage payments. As David Willetts wrote in The Pinch, this is in effect a transfer of wealth from young to old.
+The issue here is not merely that the old did nothing to deserve this wealth: no, stoking up bubbles and restricting supply doesn’t count. It’s that this transfer is inefficient.
+Arthur Okun said (pdf) that transferring income from rich to poor was like carrying it in a leaky bucket. Because of administrative costs and adverse effects upon incentives, he claimed, transfers reduce aggregate incomes.
+But there’s also a leaky bucket when the young transfer their wealth to the old. This is because there are good reasons to think that high house prices are bad for growth. For example, they impede labour mobility or force people to take long commutes which reduces their productivity. They encourage nimbyism and so delay infrastructure spending. They divert resources towards sectors with low productivity growth and so reduce overall growth: if youngsters didn’t spend so much on rent, they’d have more to spend on other things, which would help promote innovation and entrepreneurship. In encouraging high debt, they increase the risk of financial crises which have long-lasting adverse effects on growth. And then there’s the longer-term cultural effect: if people can get rich by sitting on their arses and seeing their house price increase, they’ve less incentive to work, save or set up new businesses.
+Granted, there’s a potential offsetting effect: rising house prices create collateral which allows some people to borrow to set up new businesses. But I think it plausible that, net, high house prices are bad for growth.
+Which means that the transfer from young to old is a negative-sum one. Okun was happy to use a leaky bucket to transfer cash from rich to poor. The case for using one to transfer from young to old is, however, far more questionable.
+To this extent, youngsters do have a real grievance, as they are on the wrong end of a redistribution which is bad for the aggregate economy.
+* This poses the question: why do people complain about immigrants taking their jobs but not pensioners?
+February 14, 2017
+| Permalink
+|
+Comments (13)
+|
+February 13, 2017
+The trouble with experts
+Paul raises an important issue: what’s wrong with experts? I suspect the answer is: plenty.
+These many faults, however, don’t include the failure to foresee the financial crisis. It’s not the job of economists to act as soothsayers, any more than we expect mechanics to predict the next fault with our car, or doctors our next illness. There’s a lot of good economists can do without prophecy.
+Instead, one problem is that experts – in public at least – don’t sufficiently identify what Charlie Munger called the edge of their competence: they don’t say what they don’t know. The problem with economists isn’t so much that they didn’t foresee the crisis as that they failed to tell the public that recessions are unforecastable (at least by mainstream techniques?) In 2000, Prakash Loungani reported that the economic consensus had failed to predict almost every recession, and AFAIK, not much has changed since.
+Of course, there’s nothing unusual about economists in this regard. Gerd Gigerenzer said that doctors are “often wrong but never in doubt”; bosses rarely openly discuss the limits on their ability to control business; bankers don’t often admit to being unable to manage risk; fund managers don’t publicly say that markets are largely efficient; and so on.
+I fear that academics’ pressure to publish exacerbates this error. As Andrew Gelman has consistently argued, the “p<0.05=result!” mentality has given us a lot of bad science. This can weaken public confidence. One recent example of this is the claim that roast potatoes cause cancer. This ran into the common-sense problem that everybody eats roasties but only a few get cancer, which tells us that the link, if any, must be weak. It’s this sort of thing that generates the sentiment “Experts – what do they know?”
+In this context, we should remember a point made by William Easterly – that “experts are as prone to cognitive biases as the rest of us”. One of these is overconfidence. Another is that groupthink can generate intellectual fashions, such as perhaps the dominance of DSGE models.
+Perhaps another facet of this overconfidence is the presumption that knowledge and expertise must be centralized, within a single mind. But as Hayek pointed out, in some contexts this is not the case. Instead, knowledge can be fragmentary, tacit and dispersed. Consumers, for example, might be better economic forecasters than the experts – as might bond markets. And workers might sometimes know more than bosses.
+Which brings us to a big problem. We are too often given the impression that experts are on the side of power. In part, this is the fault of the media: bosses, for example, are routinely presented as a priestly elite rather than as mere rent-seekers.
+But the fault also lies with experts themselves. Economists fail to stress sufficiently that some of the settled findings of their discipline undermine claims to power. For example, the efficient markets hypothesis tells us that fund managers are charlatans; the prevalence of diseconomies of scale suggests that bosses aren’t as much in control as they pretend; and public choice economics warns us that those in power are often just rent-seekers.
+In this context, even an otherwise admirable empiricism can be reactionary. Studying the effects of the small actual and feasible tweaks to capitalism means the question of big changes gets marginalized. In this way, as Paul says, economists unwittingly accept capitalist realism (pdf).
+Related, to this, mainstream economists have been insufficiently awake to distributional issues. The default ethical criterion in economics is Pareto efficiency. So, for example, we’ve accepted globalization because it is potentially Pareto efficient: the gains from it to western economies are bigger than the losses. This has blinded us to the fact that a potential Pareto improvement in which the losers don’t in fact get compensation is a much more dubious matter.
+If economists had a different default mental model, they’d have been better able to press the case for policies that really do benefit everybody. If economists used Rawls’ difference principle – which stresses the need for policies and institutions that “are to be to the greatest benefit of the least advantaged members of society” – they’d be much more conscious of inequality.
+We all know that a gap has emerged between experts and the public – expressed in that heckle, “That’s your bloody GDP. Not ours.” If the quality of public discourse is to be lifted out of the gutter, this gap must close. At least part of the onus on doing so lies with the experts themselves.
+February 13, 2017
+| Permalink
+|
+Comments (34)
+|
+February 10, 2017
+The case for privatization
+The FT says the government’s decision to sell off some student loans “makes no sense.” From one perspective, this is true: it’s daft to sell an asset that probably has a positive return in order to pay off debt that carries a negative real interest rate. From another perspective, however, there is a kind of logic to it.
+One key function of the state is to help maintain capitalist profitability. This isn’t simply because the state is the executive committee of the bourgeoisie. It’s because decent public services require a healthy economy, which in a capitalist economy requires profits to be high enough to finance and encourage investment.
+But here’s the problem. In our era of stagnation, profitable opportunities are lacking. This is why business investment has been weak since the late 90s; why banks invested in mortgage derivatives rather than proper assets; and why we are bombarded with calls from people claiming to sell us compensation for PPI mis-selling or accidents we’ve not had. When real investment opportunities are lacking, we get stagnation and malinvestments.
+Quite why this should be is a big question: some say it’s because profits have fallen (pdf); others because risk (pdf) has increased.
+Whatever the reason, there’s a need for state action to support profits.
+One way it can do this is to sell off profitable assets it owns such as council buildings or student loan books. It’s probably better for macroeconomic stability that banks make money by ripping off students than that they chase risk like they did in the mid-00s.
+Another trick is to outsource – giving private firms cash to collude with criminals, miscalculate tax credits, build schools that fall down and, I suppose, occasionally do something useful. Although outsourcing companies’ share prices have fallen recently, most of them have generated lots of cash.
+I say this because I suspect that what we have here is another example of something I mentioned recently – a tendency for our economic views to be shaped by our formative years as well as by present reality. Because capitalism was dynamic back in the 80s and 90s, we tend to over-rate its dynamism now. As a result, we under-rate the extent to which it needs state aid to generate profits. Privatization and outsourcing are means of doing this.
+You might object here that there are more intelligent ways for the state to expand profit opportunities – for example by expansionary fiscal policy, stopping Brexit or state support for innovation.
+Such options are  ruled out for political reasons: what we have here is an example of the relative autonomy of the state. Even if they weren't, however, they would have limits from a capitalist point of view. Fiscal expansion might eventually generate wage militancy; stopping Brexit might create a populist backlash and hence instability; and innovation would increase creative destruction and hence threats to incumbent firms. This creates a space for cronyism such as outsourcing and privatization.
+Such policies might not always make sense from a conventional point of view. But then, the logic of capitalism isn’t necessarily rational from other perspectives.
+February 10, 2017
+| Permalink
+|
+Comments (9)
+|
+February 09, 2017
+"Incentives" as bigotry
+Amber Rudd says she’s stopping child refugees entering the country because “we do not want to incentivise perilous journeys to Europe particularly by the most vulnerable children.” This should remind us of an old trick of the Tory party – the ideological misuse of the language of incentives to justify their own prejudices.
+For example, we’ve been told for years that the rich need high pay and low taxes to incentivize effort. This, though, is deeply doubtful. Financial incentives can crowd out intrinsic motivations: bankers’ serial criminality (rigging Libor and FX markets; PPI mis-selling; and so on) suggests that bonuses crowded out professional ethics. They can encourage short-termism or cooking the books. They can discourage creativity (pdf). They can worsen performance by over-motivating people. And they can create inefficiencies by encouraging (pdf) workers to focus upon jobs that are easily monitored to the detriment of other important tasks – as when teachers teach to the test.
+One simple fact should tell us that all these adverse effects can add up: that the UK’s GDP growth rate has been worse in the 28 years since Nigella’s dad cut top tax rates in 1988 than it was in the previous 28 – 1.5% against 2.5%.
+At the same time as telling us that the rich need big carrots, the right has long told us that the poor needed sticks in the form of welfare reform to incentivize them to get jobs. This claim too is doubtful. To a large extent, it is job opportunities that get people into work, not benefit reform.
+A scientific assessment of incentives requires careful analysis of tricky questions: how do income and substitution effects net out – a matter which differs from worker to worker? What margins of adjustment do people have? What are their information sets: do they know what options they have? And so on.
+Tories, however, neglect such issues. They know – regardless of facts – that the rich need carrots and the poor need sticks. As George Carlin said:
+Conservatives say if you don’t give the rich more money, they will lose their incentive to invest. As for the poor, they tell us they’ve lost all incentive because we’ve given them too much money.
+All we’re seeing in Rudd’s lamentable words is an extension of this mindset to Syrian children. Talk of incentives merely provides a pseudo-scientific justification for small-minded bigotry.
+February 09, 2017
+| Permalink
+|
+Comments (12)
+|
+February 08, 2017
+For a delayed fiscal tightening
+Our perceptions of the economy are shaped not just by current reality but also by the past. For example, Ulrike Malmendier and Stefan Nagel have shown (pdf) that people who experienced recessions in their formative years are more risk-averse than others even decades later; workers in the 1950s accepted low wage rises despite a tight labour market because they were cowed by memories of the Great Depression; and I struggled to believe that inflation could stay low in the 90s because my views were shaped by memories of the high inflation of the 1970s.
+I suspect a similar motive lies behind the notion that the government must reduce its borrowing soon. Such a view makes sense if you think highish real interest rates are normal – as they were in our formative years. But it’s not so sensible when rates are negative.
+20 year index-linked gilt yields are now minus 1.6 per cent. This means that if the government borrows £100 now it will have to repay only £72 in real terms. Which of course means that debt can shrink even if the government runs a deficit today. The maths of debt sustainability tells us that we can stabilize the current ratio of government debt to GDP even if the government runs a primary deficit (borrowing excluding interest payments) of around 2.9% of GDP. Its deficit this year will be only 1.1%, according to the OBR.
+Richard Murphy is therefore right: there is no need for the government to balance its budget and no need for the forthcoming austerity described by the IFS.
+Two counter-arguments to this won’t do.
+One is that I’ve assumed gilts yields stay low, which they mightn’t do.
+True, yields could rise – as the IFS says. But the government has to a large extent locked in lowish rates because it has borrowed long; the average maturity of government debt is 18 years. This means higher yields won’t immediately gravely raise debt interest payments. Also, yields are most likely to rise if the global economy proves stronger than expected. But the same stronger activity that raises yields would quite probably also raise tax revenues.
+A second argument is that higher government borrowing would raise inflation by strengthening the economy. This, though, is a feature not a bug. We want to get interest rates away from their zero bound, so that conventional monetary policy can act as a cushion when the next downturn comes. Higher inflation is a way to achieve this. There is a strongish case for the macroeconomic policy mix shifting to looser fiscal and tighter monetary policy.
+None of this is to say that fiscal policy should never tighten. It should, when real interest rates are at more “normal” levels. When this is the case, there’ll be a case for budget surpluses both to stabilize the debt-GDP ratio and to prevent a tightening of monetary policy that pushes rates very high.
+Obviously, we are not yet at this stage. Fiscal tightening should thus be delayed.
+Such a delay should be used wisely. We should regard it as a chance to better organize the public finances – to ask what sort of tax base we want; what should be the mix of tax rises and spending cuts; and how to find genuine efficiency savings in the public sector – a question which of course requires a knowledge of ground truth which only workers themselves can provide. If such a debate helps to legitimate austerity, it would also help make it more credible and sustainable.
+If we had an intelligent politics – which is a big if – a delayed fiscal tightening would be a better tightening.
+February 08, 2017
+| Permalink
+|
+Comments (4)
+|
+February 07, 2017
+How lies work
+Nick Cohen makes a good point: it is not congenital liars that should worry us, but congenital believers – those who fall for the lies of charlatans. We know that many do so: almost half of voters believed the lie that leaving the EU would allow us to spend an extra £350m a week on the NHS.
+This poses the question: why do people fall for lies? Here, we can learn from behavioural economics and research (pdf) into criminal fraud. I reckon there are several factors that liars exploit in politics.
+One is wishful thinking. People want to believe there’s a simple solution to NHS underfunding (leave the EU!) or to low wages (cut immigration!) just as they want to believe they can get rich quick or make money by taking no risk: Ponzi schemers like Bernie Madoff play upon that last one. The wish is often the father to the belief.
+Relatedly, perhaps, there are lottery-type preferences. People like long-odds bets and pay too much for them: this is why they back longshots (pdf) too much and pay over the odds for speculative shares. To such people, the fact that an offer seems too good to be true is therefore, paradoxically, tempting. A study of fraud by the OFT found:
+Some people viewed responding to a scam as taking a long-odds gamble: they recognised that there was something wrong with the offer, but the size of the possible prize or reward (relative to the initial outlay) induced them to give it a try on the off-chance that it might be genuine.
+There’s a particular type that is especially likely to take a long-odds bet: the desperate. Lonely people are vulnerable to the romance scam; gamblers who have lost take big bets to get even; losing teams try “hail Mary” tactics. In like fashion, people who feel like they have lost out in the era of globalization were tempted to vote for Trump and Brexit.
+There’s another mechanism here: people are likely to turn to con-men if the alternatives have failed. Werner Troesken shows (pdf) how snake-oil sellers exploited this. They invested a lot in advertising and in product differentiation and so when other products failed they could claim that theirs would work when the others hadn’t. I suspect that fund managers use a similar trick: the failure of many to beat the market leads investors simply to trust others rather than tracker funds. The fact that previous policies had failed working people thus encouraged them to try something different – be it Brexit or Trump.
+Yet another trick here is the affinity fraud. We tend to trust people like ourselves, or who at least who look like ourselves. Farage’s endless posturing as a “man of the people” – fag and pint in hand, not caring about “political correctness” – laid the basis for people to trust him, just as Bernie Madoff joined all the right clubs to encourage wealthy (often Jewish) folk to trust him. By contrast, the claims from the Treasury and various think-tanks that Brexit would make us poorer came from metropolitan elites who were so different from poorer working class people that they weren’t trusted. And in fact the very talk of "liberal elites" carried the subtext: "don't trust them: they're not like you".
+All of these tendencies have been reinforced by another – the fact that, as David Leiser and Zeev Kril have shown, people are bad at making connections in economics. The idea that Brexit would hurt us rested upon tricky connections: between the terms of Brexit and trade rules; from trade rules to actual trade; and from trade to productivity. By contrast, the idea that leaving the EU would save us money was simple and easy to believe.
+Now, I don’t say all this merely to be a Remoaner; complaining about liars is like a fish complaining that the water is wet. Instead, I want to point out that it is not sufficient to blame the BBC for not calling out Brexiters’ lies. Yes, the BBC disgraced itself during the plebiscite campaign. But we must also understand how voters fall for such mendacity. As Akerlof and Shiller write:
+Voters are phishable in two major ways. First, they are not fully informed; they are information phools. Second, voters are also psychological phools; for example, because they respond to appeals such as lawnmower ads [a candidate seen mowing his own lawn is regarded as a man of the people] (Phishing for Phools, p 75)
+All this raises a challenge for liberals. Many used to believe the truth would win out over lies in the marketplace for ideas. This is no longer true, if it ever were. Instead, the questions now are: what can we do about this? And what should we do? The two questions might well have different answers. But we can make a start by understanding how lies are sometimes believed.
+February 07, 2017
+| Permalink
+|
+Comments (23)
+|
+February 05, 2017
+Let's not debate immigration
+Yvette Cooper wants a debate about immigration. I think she’s wrong.
+As Stephen Bush points out, Labour has been calling for such a debate for the past 20 years – and we’ve been having one, insofar as the mindless drivel that passes for political discourse can be called a debate.
+And it’s done Labour no good at all.
+One reason for this is that the debate is largely dishonest. Rather than admit the brute fact that many people just don’t like foreigners, anti-immigrationists hide behind claims that immigrants are bad for wages or public services. Except in a few pinch points, or to a small extent, such claims are false.
+Yes, we can point this out in debate. But doing so does no good. When confronted with evidence against their prior views, people don’t change their minds but instead double-down and become more entrenched in their error (pdf).
+I suppose there is a reasonable debate to be had about whether discomfort about foreigners should be a basis for policy, or whether a loss of income and liberty is a price to pay to indulge such taste. But in a political-media system that selects for shrill hysteria over cool rationality, this is not the debate we’ll get.
+In fact, there’s a positive reason not to want a debate about immigration. Ms Cooper is an economist and so should know that everything carries an opportunity cost. And the opportunity cost of debating immigration is high. Our time and cognitive bandwidth is limited, so time spent debating migration is time spent being silent about other questions.
+From this perspective, debating immigration serves a reactionary function, as it silences debate about another question: is capitalism today best serving people’s interests? Debating immigration encourages the idea that immigrants are to blame for stagnant real wages and poor public services, and deflects attention from the possibility that the causes of these lie instead in secular stagnation.
+What Labour should be doing therefore is demanding – and instigating – a debate about how best to increase growth, wages and living standards. We should be asking not what to do about immigration but what to do about capitalist stagnation?
+Such a debate would require us to call into question the viability of conventional top-down managerialist capitalism (pdf). Given limited cognitive bandwidth, this would deflect blame for economic failure from immigrants and help focus it elsewhere.
+If you think I’m being pettily economistic in wanting a focus on pocket-book issues, you’re massively wrong. We’re re-learning today what we should have learned in the 30s and again in the 70s – that economic stagnation breeds reaction and intolerance. If you want a liberal society, you need economic growth; technocratic talk about the benefit of immigration is true, but not enough to change minds.
+In fact, such a debate would serve another useful purpose. A debate about immigration brings out not just the worst in people, but the worst of people: it legitimates the reactionary drivel of Farage and Hopkins, and encourages the media to give them publicity. Shifting the debate to growth would filter out such noxious fumes: the likes of Farage have nothing worth saying about economic stagnation. Yes, it would mean hearing more from the IEA and the We’ve selectively read Wealth of Nations and ignored the Theory of Moral Sentiments Institute. But if these displace racist drivel, it’s a big improvement.
+The point I’m making here is one made by Steven Lukes. Power consists, in part, in shaping the agenda – in deciding what gets debated and what doesn’t. Insofar as debating immigration means not debating the health of capitalism, it plays into the hands of the powerful.
+February 05, 2017
+| Permalink
+|
+Comments (17)
+|
+February 02, 2017
+Class & confidence
+On Radio 4’s Media Show yesterday Andrea Catherwood told Sarah Sands, the incoming editor of the Today programme:
+The job specification did say that there was a requirement of extensive experience of broadcast journalism and a sound appreciation of studio broadcast techniques. You obviously got over that hurdle (16’23” in).
+Many of us, though, wouldn’t even have tried the hurdle. If I’d had Ms Sands otherwise decent CV, I’d have looked at that job spec and ruled myself out as unqualified. Ms Sands, obviously, did not.
+In this, she’s following many others. Tristram Hunt has become head of the V&A despite no experience of curating or of running large organizations. David Cameron wanted to become PM because he thought he’d be “rather good” at it – a judgment which now looks dubious. And the last Labour government asked David Freud to review welfare policy even though, by his own admission, he “didn't know anything about welfare at all.”
+These people have something in common: they come from families sufficiently rich to afford private schooling*. And they are not isolated instances. The Sutton Trust has repeatedly shown that people from posh backgrounds are over-represented in top professions. This is unlikely to be due solely to superior ability; people from working class backgrounds earn less than those from professional backgrounds, even controlling for qualifications and experience.
+One thing that’s going on here is a difference in confidence. Coming from a posh family emboldens many people to think they can do jobs even if they lack requisite qualifications. By contrast, others get the confidence knocked out of them (16’20 in)**. As Toby Morris has brilliantly shown, apparently small differences in upbringing can over the years translate into differences not only in achievement but also in senses of entitlement.
+The point is not (just) that people from working-class backgrounds suffer outright discrimination. It’s that they put themselves forward less than others, and so save hirers the bother of discriminating against them.
+But why do posh people get the jobs for which they’re unqualified? One reason lies in experiments by Cameron Anderson and Sebastien Brion. They’ve shown than people mistake confidence for actual ability, and so tend to hire the irrationally overconfident – even to the point of hiring dangerous narcissists (pdf).
+A further reason is that like hires like. In part, this is because a reasonable motive has a less reasonably effect. People need to trust those they hire – especially if they are in important jobs – and we naturally tend to trust people like ourselves. What’s more, the privately educated have smooth manners and social “skills” and so fit in.  “In the drawing-rooms of the great” wrote Adam Smith, “the abilities to please are more regarded than the abilities to serve.”
+Herein lies an issue. In hiring Ms Sands (and no doubt many others like her) the BBC is conforming to a pattern whereby inequality perpetuates itself. This suggests that the corporation is badly placed to address what is for many of us one of the great issues of our time - the many aspects of class inequality – because it is part of the problem. And it compounds this bias by focusing upon other matters instead – for example by the incessant airtime it gives to the (Dulwich College-educated) Farage***. Bias consists not merely in what is said and reported, but in what is not – in the choice of agenda. In matters of class, the BBC is not impartial.
+* This habit isn’t confined to the UK. At least one American has recently taken a top job despite having neither requisite experience nor psychological qualities.
+** I’m one of those. People have often told me I should have worked in academia or on a national newspaper, but I genuinely believe I am wholly unqualified to do so, and regard myself as borderline unemployable.
+*** It is odd, is it not, that people from rich families think they can become the voice of the people and are presented as outsiders challenging the establishment.
+February 02, 2017
+| Permalink
+|
+Comments (19)
+|
+January 31, 2017
+Is the centre-left dead?
+Branko Milanovic raises a question: is liberalism (or centre-leftism) dead?
+There’s a precedent here. In the 1970s the combination of rising inflation and high unemployment killed off post-war social democracy in much of the west: Marglin and Schor’s The Golden Age of Capitalism provides a great analysis of this. The precise date of the death varied from country to country. In France it came in Mitterrand’s “austerity turn” in 1983. In the UK it perhaps came with Callaghan’s claim that you can’t spend your way out of recession in 1976. Whatever, the fact is that in much the of the west old-style social democracy was killed off and it took Clinton and Blair to reincarnate it in rather different form.
+Does liberalism/centre-leftism today face a similar threat?
+There are reasons to think not. It’s not inconceivable that the Democrats, UK Labour party and French Socialists will one day find electable candidates. And some of the centre-lefts flaws – imagined or real – can be easily fixed. The identity politics and elitism that has devalorized working class experience is remediable; class politics and identity politics are to some extent at least complements not substitutes. It is technically possible to spread the benefits of globalization more widely through better redistributive policies. And the likely failures of Brexit and Trumponomics might well cause some kind of backlash.
+There is, however, a more pessimistic reading.
+For one thing, we might not see the sort of backlash we want. If or when immigration controls and protectionism are seen to fail to increase jobs and wages, nativists won’t realize the errors of their ways and repent. Instead, they’ll double-down and claim that claim that their policies didn’t go far enough.
+And in this they might win public support. The victories of Trump and Brexit, and rise of the National Front in France and AfD in Germany all vindicate Ben Friedman’s point that economic stagnation makes people meaner. It causes a rise in right-wing extremism, not leftism.
+Also, there are at least two flaws in liberalism/centre leftism that aren’t so remediable, at least without transforming its essential character.
+One is that it has been managerialist. Perhaps Blair’s greatest fault – shared perhaps with US Democrats - was his faith in top-down leaders. This had many baleful effects, among them stagnant productivity in public services, the legitimation of the increasing wealth and power of the 1% and the Iraq war. It also generated a backlash against the “liberal elite” and a demand to “take back control.”
+The other is that the centre-left took economic growth largely for granted. New Labour believed that if it could provide stable macroeconomic policy and an attractive location for investment then growth would follow. That might have been the case in the 90s. But it isn’t true in our new era of secular stagnation. We need supply-side socialism.
+I think it’s possible for there to be a left which is open, liberal, non-elitist and economically efficient. We might hope that such a new left will eventually emerge from the ashes of centre-leftism and populism. My fear, though, is that by the time this happens there will be a terrible lot of ashes.
+January 31, 2017
+| Permalink
+|
+Comments (23)
+|
+January 29, 2017
+On soft commerce
+Montesquieu was right. That’s my reaction to Trump’s ban on people from some Muslim countries entering the US.
+The thing is that, as the Washington Post has pointed out, the ban does not apply to nations where Trump has business interests, such as Saudi Arabia, Egypt and Turkey – despite the fact that these countries are no strangers to terrorists.
+What we’re seeing here, then, is vindication of Montesquieu’s claim (pdf) – recently revived by Deirdre McCloskey – that commerce “polishes and softens barbaric ways”. Trump’s barbaric ban is tempered by his commercial interests.
+You might say this is just fascism mitigated by greed. But I’d prefer this to unmitigated fascism.
+This poses the question: how exactly does commerce soften barbarism? Roughly speaking, there are two mechanisms.
+One – which we see in Trump’s decision – is pure self-interest. If we are trading with people, it’s in our interests that they are prosperous and that they regard us favourably. We therefore try not to hurt them.
+In this sense, there’s an echo of Bretton Woods II (pdf) in Trump’s actions. In this system, westerners invested in Chinese factories and China invested in western bonds. This promoted a mutual self-interest in respecting others’ property rights: the risk of westerners being expropriated by the Chinese government is tempered by the fact that such an act would be met with sanctions against China’s western investments.
+Another mechanism, though, is that commerce brings people together and so humanizes them and breaks down antipathy. One big way in which racism was diminished in the 70s and 80s, for example, was through the emergence of black footballers; increased commerce between white fans and black players broke down racism.
+Thinkers such as Karl Polanyi have objected that market economies break down communities, replacing strong communal ties with the weaker ties of trade. There is, though, an upside to this. Strong homogenous communities can be insular and hostile to outsiders: the League of Gentlemen were right to see that there’s something sinister in the question “are you local?” It’s no accident that the vote to leave the EU tended to be strongest in areas where there were fewer migrants. And it might be no accident that, in a wider historical perspective, the growth of the market economy has coincided with a decline in violence.
+It’s in this context that we should worry about Trump’s protectionism. I agree with Tyler Cowen that the macroeconomic damage of border taxes might be limited. Instead, their danger is cultural.
+For one thing, protectionism rests upon the idea that trade is a zero-sum game – that “their” win is our loss – rather than an arrangement that benefits both parties*. This validates and encourages anti-foreigner sentiment. And for another, if there are fewer trade links between nations there’ll be fewer meetings between different nationalities and hence in the longer-run less tolerance and goodwill.
+In this sense, what Trump is promoting is a form of feudalism. The idea that wealth creation is zero-sum is a feudal idea. And immigration controls are feudal, in the sense that they use force to ensure that those born into poverty stay poor.
+Today, it’s not enough to be anti-capitalist. We must also be anti-feudalist.
+* You might object that there’s some truth in the zero-sum conception of trade as some people have indeed lost out through globalization. I’m not so sure. Capitalism is a mixture of soft commerce and hard exploitation and it is the latter that is most responsible for workers’ losses (pdf) – both in the sense that factors such as the decline of trades unions and power-biased technical change have harmed workers, and in the sense that we’ve not had the policy responses that would ensure that globalization did benefit everyone.
+January 29, 2017
+| Permalink
+|
+Comments (8)
+|
+January 28, 2017
+Why Corbyn's wrong on Article 50
+Jeremy Corbyn wants to impose a three-line whip on Labour MPs to compel them to vote in favour of triggering Article 50. I think this is wrong, for the following reasons.
+1. Even if we grant that Brexit is the “will of the people”, it doesn’t follow that Brexit on the terms proposed by May is. Some voted leave in the hope of staying in the single market, others for a liberalish Brexit that wasn’t focused on migration controls. There’s a case for opposing triggering Article 50 until it’s clearer that we really want May’s hard Brexit.
+2. May’s Brexit means harder times for workers, simply because leaving the single market would hurt the economy by more than any free trade deals with non-EU firms would benefit it. It would also be bad for both potential immigrants and those already here, to the extent that, ahem, nativists regard migration controls as a legitimation of their own prejudices. This would be especially the case if the Tories use Brexit to turn the UK into a low-tax, low-regulation economy in the hope of attracting global capital. Labour should oppose this path, and one way to do so is to do so from the off. Or at least, if there’s a path from May’s Brexit to a healthy socialist economy, Corbyn should tell us what it is.
+3. Most Labour MPs voted remain, and nothing much that’s happened since June suggests they were wrong to do so. To support Article 50 now therefore means that, as Paul says, MPs “will be behaving like a delegate and not a representative.” If Burke was wrong to say that an MP owes us “not his industry only, but his judgment”, why was he?
+4. Many Labour MPs not only oppose Brexit themselves but represent constituencies that voted remain. What sort of model of democracy is it that requires MPs to abandon both their own judgment and the will of their constituents? Are MPs to become just the slaves of national opinion polls?
+5. I’m not sure that a three-line whip would be electorally successful. For one thing, the fact that some MPs would defy it will increase the perception that Corbyn is weak. For another, voters respect people who stand by their principles. And for a third, any leave supporters won over by Corbyn’s stance might be offset by remainers defecting to the Lib Dems or Greens. Yes, Tom Quinn is right to say that Labour needs to win leave voters in marginal seats in the North and the Midlands. But it can do so by arguing for policies that really would improve jobs and living standards.
+Now, I accept that there’s no easy answer here. Labour does risk being divided between liberal metropolitans and older workers in poorer areas who (wrongly) see Brexit as a hope for meaningful change. Perhaps the best way of managing this potential split is to allow a MPs free vote whilst trying to unite them around economic policies that really would improve prospects for people in left-behind areas.
+Tom Quinn says this would mean Labour having “no collective position on the most important issue in British politics for a generation”. But Brexit is an important issue largely because it represents a threat to workers. Labour should be trying to diminish its importance by asserting the priority of serious economic policies.  I agree with Philip Collins that Labour’s best hope is to “change the subject as often as possible.”
+Let’s remember that Brexit is the Tories’ mess. Labour should try to rise above it.
+January 28, 2017
+| Permalink
+|
+Comments (23)
+|
+January 26, 2017
+(Not) escaping alienation
+Laurie Penny wants people to crowd-fund her work. This highlights problems with the labour market, some old and some new.
+By most standards, Ms Penny is in a strong position. Whatever you think of her talents – not that it matters because journalism isn’t a meritocracy - she has 157,000 Twitter followers. And yet she can’t parlay these into a fulfilling career in mainstream journalism.
+In one sense, she faces a longstanding problem most of us have had – that capitalism thwarts self-actualization. Most of us have had to compromise our ideals and aspirations to some extent to earn a living. As a great man put it, “they sentenced me to twenty years of boredom for trying to change the system from within.”
+We’ve all had different solutions to this dilemma. I really admire Ms Penny’s desire to find one that doesn’t entail retreating into dull trade journalism or writing fascist lies for billionaires. I would caution her, though, that alienated work has its compensations: it doesn’t hurt so much when you fail.
+It’s long been the case that radical journalism doesn’t pay. Even in the mid-20th century when top journalists were relatively well-paid, there were others who, in Orwell’s words, would hear “the heavy boots of his creditors clumping up and down the stairs”.
+This problem, though, has become more acute recently. Ms Penny’s claim that “journalism is an industry in trouble” echoes Nick Cohen: “Jobs are disappearing everywhere, and every journalist views the future with alarm.” We see this in the decline of resource-intensive journalism such as investigative reporters and foreign correspondents and the rise of clickbait, churnalism and being expected to work for nothing.
+But here’s the problem. It’s not just in journalism that we’re seeing a decline in erstwhile "middle class" jobs. Academics are struggling with casualisation and oppressive managerialism, and even bankers and lawyers face soul-destroyingly long hours doing what is often tedious work. As Holmes and Mayhew have said (pdf):
+Many apparently good non-routine occupations…appear closer to mid-range jobs than top jobs.
+Herein, though, lies a question to which I don’t know the answer and which I fear is neglected: could it be that class differences in job satisfaction have narrowed in recent years?
+What I mean is that it’s possible that “middle class” jobs have deteriorated relative to “working class” ones. Yes, call centres and warehouses can be horrible, but I’m not sure they’re worse than factory lines and mines: no miner wanted his son to go down the pit. The factory workers in Corrie seem happier in their work than, say, Arthur Seaton was. I don’t have much empirical evidence on this, but I can point to work by Alex Bryson and George MacKerron who have found that the less well-paid are actually happier at work than the better-paid – though they’re all quite unhappy.
+You can read that finding in one of two ways. One is that it suggests you can’t escape from unsatisfactory work by finding “better” jobs. This might vindicate Ms Penny’s decision to partially opt out. Another is that equality, in one under-rated dimension, might have increased in recent years.
+January 26, 2017
+| Permalink
+|
+Comments (21)
+|
+Next
+»
+Subscribe to this blog's feed
+My Day Job
+Cash beats most shares
+Being wrong
+More profit warnings
+When irrationality works
+In praise of idleness
+The house price curse
+The ownership question
+Easy fund management
+Chilcot's lessons
+The information paradox
+What short-termism?
+Second-best trackers
+Pension freedom: a defence
+What can investors know?
+Why economists can't forecast
+TOP BLOGGING
+Immigration questions
+Nairu bashing
+Trump & the dollar
+Homo Deus
+Nuttall's lies
+What secular stagnation?
+Against conventional wisdom
+The politics of labour mobility
+The right's failure
+Persuade
+Reasonable radicalism
+Taxing the self-employed
+Variety & growth
+Recent Posts
+Replacing Wenger
+Healing Labour's class divide
+Low job mobility
+House prices as leaky bucket
+The trouble with experts
+The case for privatization
+"Incentives" as bigotry
+For a delayed fiscal tightening
+How lies work
+Let's not debate immigration
+blogs I like
+A very British dude
+Adam Smith Institute
+All that is solid
+Andrew Gelman
+Anthony Wells
+Bank Underground
+Econlog
+Big Picture
+Bleeding heart libertarians
+Blood and treasure
+Bob from Brockley
+Cafe Hayek
+CapX
+Comment is free
+Conservative Home
+Conversable economist
+Crooked Timber
+Dani Rodrik
+David Boyle
+David Friedman
+Diane Coyle
+Econbrowser
+Eric Lonergan
+Fistful of Euros
+Flip Chart fairy tales
+Flying Rodent
+Frances Coppola
+Greg Mankiw
+Institute of Economic Affairs
+Jack of Kent
+John Danaher
+Jolyon Maugham
+JP Koning
+JRF
+Kate Belgrave
+Labour Uncut
+Left Foot Forward
+Lenin's tomb
+Liberal England
+LSE politics
+Mainly Macro
+Marginal Revolution
+Mark Thoma
+Michael Roberts
+Mick Hartley
+Mimi Matthews
+NEF
+New Statesman
+NIESR
+Noahpinion
+Open Democracy
+Paul Romer
+Philosophy etc
+Pieria
+Price of everything
+Public policy & the past
+Resolution Foundation
+Richard Murphy
+Rob Marchant
+Roger Farmer
+Samizdata
+Scary duck
+Shuggy
+Slugger O Toole
+Sociological imagination
+Though cowards flinch
+Tim Worstall
+Tony Yates
+Understanding society
+VoxEU
+Will Davies
+Yorkshire ranter
+Zelo Street
+A few links
+Watching America
+Stanford encyclopedia of philosophy
+SSRN
+Scitech Daily
+Roubini Global Economics
+Political theory daily
+National Statistics
+National Bureau of Economic Research
+My day job
+Morgan Stanley
+History of economic thought
+Government News Network
+Federal Reserve Board
+Econpapers
+Economics Roundtable
+Archives
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+Why S&M?
+My inspiration
+About me
+My Normblog profile
+Blog powered by Typepad
+Subscribe to this blog's feed

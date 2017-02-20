@@ -1,0 +1,39 @@
+Regional Interoperability Project on Progression for Lifelong Learning
+RIPPLL: Regional Interoperability Project on Progression for Lifelong Learning
+Project Home
+Skip over navigation
+Home
+Contact us
+Project News
+Events
+Key Documents
+Links
+Distributed eLearning regional pilots
+Project Description
+This project will establish a national demonstration model of cross-sector collaboration in
+personal development planning technology to support widening participation. Phase 1 was funded by JISC from January 2005 to March 2006 (see draft final report ): Phase 2 funding has been granted and the project will now run until December 2006.
+Aims
+To support progression to HE for Widening Participation by making all major
+existing electronic systems in use in the Nottingham area for study-based Progress
+Files interoperable, using the UKLeaP interoperability standards
+To pilot the transfer of data directly from the main post-16 PDP system (City of
+Nottingham Passport) into HE PDP systems at the University of Nottingham and Nottingham
+Trent University (NTU) to support learner admissions and transitions
+To develop understanding of further transition processes between study and
+employment (in both directions) and consider connections with issues of graduate
+retention in the region
+To contribute to the building of interoperability specifications for systems
+supporting Lifelong Learning by providing further development of the UKLeaP open
+standards and proving their applicability in a number of different environments
+The project has also been an early adopter of Shibboleth: work on this has been led by the technical team at NTU (see report ).
+Project Partners
+HEIs: the University of Nottingham; Nottingham Trent University
+City of Nottingham Local Education Authority (Nottingham Passport)
+Ufi/learndirect East Midlands
+FE Colleges representing the Greater Nottingham 14-19 Strategy Group: Broxtowe College,
+West Notts College and NCN
+Connexions Nottinghamshire
+The project is also working with local employers, including the Toyota/Lexus Academy
+Project poster
+displayed at the JISC programme meeting 07/08 July 2005.
+Page last updated on 28 April 2006

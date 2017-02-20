@@ -1,0 +1,327 @@
+NevilleHobson.com •
+NevilleHobson.comHome
+Social Stream
+About
+FIR
+Social
+Reviews
+Narrative versus Fact – the ‘asymmetric information warfare’
+Published February 15, 2017 by Neville Hobson
+4 minutes
+Leave a Comment
+In mid 2016, the first episode of a new business podcast was published that set out to address a timely matter facing all of us today: How do you make Big Data less intimidating, more actionable and thus more valuable?
+That is the question at the heart of the Small Data Forum, an initiative by LexisNexis Business Insight Solutions to listen, learn, share and educate ourselves and others who grapple with the challenges of the information avalanche. The Small Data Forum podcast is a channel to help achieve that objective.
+The more-or-less monthly podcast is co-presented by Thomas Stoeckle, Head of Strategic Business Development at LexisNexis BIS; Sam Knowles, Founder and Managing Director, Insight Agents; and Neville Hobson (that’s me).
+We’ve just published episode 6, and it’s a cracking start to our podcasting plans for 2017 that addresses some terrific topics:
+In their first SDF podcast of 2017, Neville, Sam and Thomas enjoy a wide-ranging conversation that looks at the issues of loss of trust in institutions, fake news and post-truth from the perspective of machine learning, psychology and personality mapping, political marketing, neurosciences, understanding audiences through better data, and ultimately how to tell more compelling stories with better data.
+Listen now – and while you’re listening, read Thomas’ excellent narrative below that adds some rich colour and depth to what we talk about in this episode…
+Episode 6 of the Small Data Forum podcast continues the discussion from our 2016 year-end edition, which focused on fake news, post-truth, and what John Naughton in the Observer called the ‘poisoning of our public sphere’.
+At the World Economic Forum in Davos in January, fake news was a main discussion point, with the Forum’s Global Future Council on Human Rights addressing governance issues around what is seen as an urgent matter of human rights.  In the UK, a parliamentary inquiry into fake news is under way, led by the Culture, Media and Sport Committee. The BBC has set up its own unit to check facts and debunk fake news, technology companies such as Facebook and Google are driving initiatives to combat fake news in Europe, and Apple CEO Tim Cook recently stated that false information is “killing people’s minds“.
+With general elections pending in several European countries – in the Netherlands in March, in France in April and May, in Germany in September – there is an intensifying debate about how to learn from the events of 2016, how to reach, engage and activate audiences (in this case: voters) most effectively.
+In the aftermath of Brexit and the US Presidential Elections, there is considerable interest in personality mapping based on the digital footprint of an individual, and how this information can be used for data driven political marketing.
+Natural language processing computer systems such as IBM’s Watson can help us understand better what resonates with audiences (and why), and what doesn’t. Illustrating that point, IBM’s Jeremy Waite ran an analysis of both Donald Trump’s 2017 acceptance speech, and Barack Obama’s 2009 speech. What made that research remarkable was the fact that it was published just hours after Trump gave his speech. He used Watson’s four APIs to run analyses in its speech-to-text engine, as well as its sentiment and tone analyser, and finally, personality insights.
+What Watson does exceptionally well is analyse the written word, but since verbal communication only accounts for a small percentage of communication overall, additional types of analysis are required to understand context and impact: how something was said, and why it was said, is just as important as what was said.
+Advertising has coined the phrase CPA, or continuous partial attention, for the phenomenon of having to manage a continuous information overflow. Successful communicators and marketers respond to this by applying systematically what is called the ‘cocktail party rule’: if you want to be boring, talk about yourself; if you want to be interesting, talk about the things that matter to the people around you.
+The populism of a Nigel Farage or Donald Trump seems to be more effective at connecting with audiences, than the more fact-based approach of the Remain campaign in the UK’s EU Referendum, or Hilary Clinton’s decades of experience in US politics and policy-making.
+The business journalist and publishing strategist Adam Tinworth calls this the ‘asymmetric information warfare’ between the fact-based rational journalism of the mainstream media, and the narrative-based emotional approach of political movements and their (mainly) social media proponents. Arron Banks, major donor of the Vote Leave campaign, understood this better than most. The day after the Brexit vote, he told journalists: “The remain campaign featured fact, fact, fact, fact, fact. It just doesn’t work. You have got to connect with people emotionally. It’s the Trump success.” (link)
+Neuroscience and psychology provide some context: the older parts of the brain that regulate instinctive behaviour (‘to survive in the wild’) trigger reactions that favour known over unknown, and in-group over out-group. The newer parts of the brain, where cognition and rational thinking and decision-making are regulated, will usually finish second in a straight race between emotions and facts. As neuroscientist Marc Lewis put it in a Guardian article: “Nobody is innocent when it comes to brain wiring”.
+Facts and statistics still have a central place in public discourse, but they need to be embedded in a compelling narrative. A master of this art, the Swedish scholar Hans Rosling, sadly died last week. To honour his legacy, truth and trust in data and facts need to be re-established. The various initiatives by government bodies, mainstream and social media firms, technology companies – they all have a role to play in addressing the problem.
+At the same time, coming back to the neuroscience perspective, truth was always something that our brains perceived in their own ways. Understanding and accepting this will be a step toward de-polarising the debate. Or as Dr Daniel Glaser puts it: “Our sense of the world is a bunch of guesses that we generate from experience, expectations and beliefs. Reading and watching the news is simply a bit of feedback that supports what we believe is happening anyway”.
+Listen to Neville, Sam and myself debating the above topics on our Small Data Forum Podcast series.
+In about a month’s time, the Small Data Forum podcast will return with a new episode.
+Thomas Stoeckle leads strategic business development at LexisNexis Business Insight Solutions (BIS). Prior to joining LexisNexis, he was group director and global analytics lead at W2O Group, and managing director at Report International (now CARMA).
+A marketing communications researcher and business leader with 20-plus years’ experience in helping clients make sense of their global (social) media footprint, and how that affects perception and reputation, he believes passionately in meaning and insightful business story-telling through robust data evidence and compelling visualisation.
+Originally from Germany, Thomas has been living and working in London for more than 16 years. A digital Neanderthal among digital natives, he is keenly aware that adequate solutions to communications problems demand fluency in the three languages of humans, machines, and business.
+(Image at top via Snopes. Read their insightful Field Guide to Fake News Sites and Hoax Purveyors for additional learning.)
+Share this post:Click to share on Twitter (Opens in new window)Click to share on WhatsApp (Opens in new window)Click to share on Facebook (Opens in new window)Click to share on LinkedIn (Opens in new window)Click to share on Google+ (Opens in new window)MoreClick to share on Tumblr (Opens in new window)Click to share on Telegram (Opens in new window)Click to share on Pinterest (Opens in new window)Click to share on Pocket (Opens in new window)Click to share on Reddit (Opens in new window)Click to email this to a friend (Opens in new window)Filed Under: Business, Communication, Podcasting, Politics, Public Relations, Reputation, Small Data Forum, Social Media, Society, Trends Tagged With: #SmallDataForum, fake newsHow to put AI into cognitive perspective
+Published January 24, 2017 by Neville Hobson
+5 minutes
+Leave a Comment Among the big topics that will dominate the news in 2017, a prominent one will undoubtedly be artificial intelligence or AI.
+It's a huge topic, one that gathered momentum in 2016 to grab our attention and showcase both opportunity and risk with … [Continue reading]Filed Under: Artificial Intelligence, Business, Communication, Employee Communication, Hardware, IBM, Innovation, Marketing, Public Relations, Society, Technology, Trends, Workplace Tagged With: AI, HRHow to make your blog a secure and trusted place
+Published January 22, 2017 by Neville Hobson
+4 minutes
+Leave a Comment If you run a self-hosted blog - like WordPress, for instance - now's the time to enhance your confidence and that of your visitors and community in its security and trust.
+While this is mostly about data security, it's also about search engine … [Continue reading]Filed Under: Blogging, Hardware, Reputation, Software, Technology, Web, Weblog Tools, Weblogs Tagged With: HTTPS, WordPressTopical issues for business communicators right now
+Published January 4, 2017 by Neville Hobson
+1 minute
+Leave a Comment On Monday January 2, I had a blast being a guest co-presenter on the For Immediate Release (FIR) podcast episode 68 with Shel Holtz, CC Chapman and Dan York.
+Over the course of a lively 97 minutes - FIR podcasts always go for the long listen - we … [Continue reading]Filed Under: Artificial Intelligence, Business, Communication, FIR Podcast Network, Podcasting, Politics, Public Relations, Social Networks, Society, Technology, Trends, Web Tagged With: CC Chapman, Dan York, FIR, Shel HoltzThe Fourth Transformation: A vision of the near tomorrow from Shel Israel and Robert Scoble
+Published December 30, 2016 by Neville Hobson
+3 minutes
+Leave a Comment One of the things I like most about The Fourth Transformation, the new book from Shel Israel and Robert Scoble published in December 2016 that I just finished reading, is the way in which it will help you to join up the dots and begin to understand … [Continue reading]Filed Under: Artificial Intelligence, Books, Business, Hardware, Innovation, Reviews, Society, Software, Technology, Trends, Web Tagged With: #AR, #MR, #VR, AI, Robert Scoble, Shel Israel, The Fourth TransformationGenevieve Bell: ‘Humanity’s greatest fear is about being irrelevant’
+Published December 2, 2016 by Neville Hobson
+6 minutes
+Leave a Comment Does being scared about AI have more to do with our fear of each other than with killer robots? Perhaps what we're seeing now isn’t an anxiety about artificial intelligence per se, it’s about what it says about us.
+A compelling view from Intel's … [Continue reading]Filed Under: Artificial Intelligence, Communication, Ethics, Science, Society, Software, Technology Tagged With: AI, Article, Artificial intelligence (AI), big data, Computing, Discover, Features, Ian Tucker, Intel, Internet of Things, Interviews, Observer New Review, Robots, Technology, The New Review, The Observer1
+2
+3
+…
+619
+Next Page »
+What to Expect
+Perspectives at the intersection of business, communication
+and technology.
+When the only certainty is change, communicator, blogger and podcaster Neville Hobson analyses and discusses trends, behaviours and practices in digital communication to help you understand what they mean for people and organizations.
+Follow @jangles
+Popular During The Past 30 Days
+News Categories
+News Categories
+Select Category
+Advertising  (151)
+Amsterdam Life  (5)
+Art  (5)
+Artificial Intelligence  (14)
+Blogging  (182)
+Books  (118)
+Business  (1,097)
+Climate Change  (24)
+Communication  (1,513)
+Costa Rica  (4)
+crayon  (21)
+Employee Communication  (92)
+Entertainment  (78)
+Ethics  (122)
+Europe  (173)
+Events  (373)
+Experiences  (326)
+Experimenting  (121)
+Films  (21)
+FIR Podcast Network  (25)
+For Immediate Release  (1,250)
+Gadgets  (97)
+Games  (6)
+General  (18)
+Google+  (51)
+Guest Post  (15)
+Hardware  (97)
+Headlines  (33)
+Humour  (56)
+IABC  (58)
+IBM  (23)
+Innovation  (319)
+Interviews  (11)
+Investor Relations  (106)
+Journalism  (46)
+Law  (54)
+Leadership  (110)
+Mainstream Media  (162)
+Marketing  (668)
+Mobile  (254)
+Music  (36)
+NCF2006  (9)
+NevilleHobson.com  (108)
+Online Media  (164)
+Personal Development  (56)
+Podcasting  (174)
+Politics  (175)
+Presentations  (97)
+Professional Development  (315)
+Projects  (20)
+Public Relations  (848)
+Radio  (12)
+Reputation  (290)
+Reviews  (79)
+RSS  (66)
+Science  (9)
+Small Data Forum  (1)
+Social Business  (71)
+Social Media  (831)
+Social Networks  (353)
+Society  (547)
+Software  (461)
+Spam  (33)
+Sport  (32)
+Technology  (824)
+Television  (67)
+Travel  (82)
+Trends  (466)
+Twitter  (221)
+Uncategorized  (1)
+Virtual Communities  (83)
+Volunteerism  (5)
+WCG  (5)
+Wearable Tech  (15)
+Web  (1,006)
+WebHostingBuzz  (10)
+Weblog Tools  (159)
+Weblogs  (334)
+Workplace  (361)
+News Archive: Over 3,600 Posts
+News Archive: Over 3,600 Posts
+Select Month
+February 2017  (1)
+January 2017  (3)
+December 2016  (2)
+November 2016  (2)
+October 2016  (1)
+September 2016  (3)
+August 2016  (3)
+July 2016  (2)
+June 2016  (7)
+May 2016  (6)
+April 2016  (5)
+March 2016  (2)
+February 2016  (15)
+January 2016  (7)
+December 2015  (4)
+November 2015  (10)
+October 2015  (8)
+September 2015  (9)
+August 2015  (10)
+July 2015  (12)
+June 2015  (15)
+May 2015  (10)
+April 2015  (10)
+March 2015  (8)
+February 2015  (10)
+January 2015  (9)
+December 2014  (14)
+November 2014  (11)
+October 2014  (14)
+September 2014  (12)
+August 2014  (13)
+July 2014  (19)
+June 2014  (13)
+May 2014  (17)
+April 2014  (12)
+March 2014  (14)
+February 2014  (15)
+January 2014  (20)
+December 2013  (26)
+November 2013  (20)
+October 2013  (19)
+September 2013  (25)
+August 2013  (20)
+July 2013  (18)
+June 2013  (25)
+May 2013  (28)
+April 2013  (22)
+March 2013  (22)
+February 2013  (19)
+January 2013  (21)
+December 2012  (26)
+November 2012  (29)
+October 2012  (25)
+September 2012  (30)
+August 2012  (28)
+July 2012  (33)
+June 2012  (27)
+May 2012  (27)
+April 2012  (26)
+March 2012  (24)
+February 2012  (18)
+January 2012  (36)
+December 2011  (32)
+November 2011  (16)
+October 2011  (28)
+September 2011  (32)
+August 2011  (29)
+July 2011  (28)
+June 2011  (27)
+May 2011  (23)
+April 2011  (21)
+March 2011  (27)
+February 2011  (26)
+January 2011  (29)
+December 2010  (21)
+November 2010  (19)
+October 2010  (20)
+September 2010  (21)
+August 2010  (27)
+July 2010  (33)
+June 2010  (27)
+May 2010  (31)
+April 2010  (28)
+March 2010  (25)
+February 2010  (23)
+January 2010  (36)
+December 2009  (23)
+November 2009  (35)
+October 2009  (38)
+September 2009  (45)
+August 2009  (60)
+July 2009  (47)
+June 2009  (49)
+May 2009  (53)
+April 2009  (53)
+March 2009  (48)
+February 2009  (42)
+January 2009  (52)
+December 2008  (48)
+November 2008  (43)
+October 2008  (41)
+September 2008  (37)
+August 2008  (40)
+July 2008  (44)
+June 2008  (41)
+May 2008  (42)
+April 2008  (36)
+March 2008  (38)
+February 2008  (40)
+January 2008  (43)
+December 2007  (42)
+November 2007  (43)
+October 2007  (30)
+September 2007  (47)
+August 2007  (53)
+July 2007  (59)
+June 2007  (36)
+May 2007  (39)
+April 2007  (33)
+March 2007  (44)
+February 2007  (30)
+January 2007  (49)
+December 2006  (46)
+November 2006  (46)
+October 2006  (33)
+September 2006  (36)
+August 2006  (52)
+July 2006  (73)
+June 2006  (81)
+May 2006  (57)
+April 2006  (71)
+March 2006  (74)
+February 2006  (27)
+NevOn Archive
+www.nevon.net - commentary and conversations in 1,500 posts from 2002 - 2006
+Accolades
+Extras
+Tweets by @jangles
+Latest Posts
+Narrative versus Fact – the ‘asymmetric information warfare’
+February 15, 2017
+How to put AI into cognitive perspective
+January 24, 2017
+How to make your blog a secure and trusted place
+January 22, 2017
+Topical issues for business communicators right now
+January 4, 2017
+The Fourth Transformation: A vision of the near tomorrow from Shel Israel and Robert Scoble
+December 30, 2016
+Genevieve Bell: ‘Humanity’s greatest fear is about being irrelevant’
+December 2, 2016
+Understanding the four types of AI, from reactive robots to self-aware beings
+November 23, 2016
+The automotive future isn’t self-driving… Not yet
+November 1, 2016
+Subscribe via RSS
+RSS - Posts RSS - Comments
+Subscribe via Email
+Enter your email address to receive notifications of new posts:
+Email Address
+Quick Links
+Home
+Social Stream
+About
+FIR
+Social
+Reviews
+Connect
+Copyright © 2017 by Neville Hobson · Some rights reserved · Terms of Use · About CookiesPowered by WordPress · Genesis Framework · WebHostingBuzzVersion 6.3 - May 8, 2016 Proudly Made in the UK
+Send to Email Address
+Your Name
+Your Email Address
+Cancel
+Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.

@@ -1,0 +1,63 @@
+Initio
+WE WORK WITH INNOVATIVE ORGANISATIONSTO PROTOTYPE AND DEVELOPDIGITAL PRODUCTS AND SERVICES
+digitalstrategy
+rapidprototyping
+web & mobiledevelopment
+We are the right partner for entrepreneurs who want to disrupt their market
+We specialise in using technology to rapidly turn business ideas into successful new products
+Initio is a digital development agency based in Cambridge, UK. With a solid background in software, web and database development, it was founded in 2010 with the mission to lower the barrier of entry into new digital markets
+We believe there is now the opportunity for businesses of all sizes to disrupt their market and remain competitive using digital technology
+MORE ABOUT WHAT WE DO
+Initio brings 15 years’ experience of designing and developing web and mobile business applications from the ground up
+We have a proven track record in building web and native mobile applications that combine high quality user interfaces and complex business processes
+We use cloud services, rapid prototyping and bootstrapping tools to write bespoke software applications using scalable and modern web technologies such as Ruby on Rails or ASP.NET
+From early concept definitions to ongoing support and developments, we lead and implement all technical aspects of a venture, allowing our partners to focus on strategy and marketing
+MORE ABOUT DIGITAL DISRUPTION
+Embracing Digital TechnologyMIT Sloan Management Review, Capgemini Consulting
+What is Digital DisruptionJames McQuivey, Forrester Research
+Disruptive InnovationHarvard Business Review
+HOW WE WORK
+We believe products are more successful when we are on board as a long term technology partner
+We follow a very similar process whatever the size of the engagement, whether it is for a large scale start-up project or for a smaller targeted piece of development
+1. INITIAL OPPORTUNITY
+Our customer sees an opportunity to innovate in their market because their partners or customers would benefit if a new or existing service was delivered online via a digital channel
+2. RESEARCH & DESIGN
+Initio is brought in as a technical partner to support the research and design process for the new product or service
+3. MARKET-READY PROTOTYPE
+Initio builds a market-ready prototype product that can be launched to a pilot audience
+The prototype contains the key differentiating and minimum viable features so that the market can be tested and disrupted as quickly as possible, while generating early revenue
+4. FEEDBACK & SCALE-UP
+Improve and extend the prototype version based on feedback
+Establish long term business plan and potentially raise funding for final product development, marketing, and internal technical team if necessary
+5. FULL PRODUCT & OPERATIONS’ SUPPORT
+The product is launched to the full audience
+Initio remains involved for future developments and long term technical leadership
+CURRENT ENGAGEMENTS
+The projects we engage in are long term relationships were we focus primarily on building and supporting the technology, while our customers and partners run marketing and client-facing operations
+CLOUD SERVICES FOR TRAINING & COMMUNICATION
+Initio is partnering with a leading communication and training agency in the UK to develop a suite of knowledge sharing and e-learning delivery products that support their consultancy services.
+Hosted in the cloud, those web-based services and mobile applications are licensed to large health care, pharmaceutical, and financial services organisations, managing several millions of training events.
+The products we are developing are key to keeping our customer competitive within the training and communication market where digital innovation is constant.
+CHRONIC DISEASE MANAGEMENT TO CHANGE BEHAVIOUR
+Initio is working in collaboration with the
+and
+to design and develop online tools for patients suffering from chronic headache disorders.
+The key objective is to use digital channels to bring together patients, pharmacists, and health care professionals to change behaviour in (a) treatment adherence, (b) self-management of condition, and (c) communication between patients and health care professionals.
+The online tools will support a large EU funded communication research project designed to improve the quality of life of headache disorder sufferers and reduce socio-economic costs.
+USER EXPERIENCE FOR BIG DATA ANALYSIS
+After being awarded an innovation grant from the Technology Strategy Board, our customer has appointed Initio to contribute to the user experience design and implementation of a web portal that will allow subscribers to access analysis of how and where medicines are being prescribed within the UK.
+The user interface plugs-in to our customer’s Big Data cloud service and our key objective is to design an intuitive user experience for rapid and effective data access through tens of millions of medicines prescribed each month.
+DATA MASH-UP AND TWEET MINING FOR ADVERTISING
+Initio is engaged with an online advertising firm that provides its subscribers with updates about upcoming music, theatre and comedy events in the UK – with the aim to disrupt ticket sales monopolies via intelligence gathering from social media.
+We are developing a series of innovative data analysis tools that provide real-time access to information published in web and twitter feeds. We apply data mining and pattern matching techniques to extract and process the relevant data as and when the information is published.
+WEB PRESENCE FOR ENVIRONMENTAL ENTERPRISES
+Initio is working with Australian entrepreneur Matt Sykes who is building a series of business enterprises following a passion for the Land and sustainability - and how it relates to culture, art, and business practices.
+We have collaborated on the development of a series of websites to support the launch of those business ventures.
+CROWDFUNDING TO DISRUPT PRIVATE EQUITY INVESTMENT
+We have started a new engagement in collaboration with business and funding advisors for the development of a crowdfunding platform to promote private equity investment in Europe.
+The aim of the project is to disrupt standard funding models and networks by making opportunities visible to a larger number of investors.
+CONTACT DETAILS
++44 (0)7775 434633
+Initio StudioSt Andrew’s HouseCB2 3BZCambridge, UK
+hello@initiostudio.com
+Initio Studio Limited is registered in England and WalesCompany number 07474118EU VAT number GB 106 4866 13

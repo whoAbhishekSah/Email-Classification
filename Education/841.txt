@@ -1,0 +1,20 @@
+Low Carbon ICT: Welcome
+Welcome to the low-carbon ICT project
+The low-carbon ICT project team developed tools and techniques to reduce the energy
+consumed by desktop computers at the University of Oxford.
+The 5-steps to green desktop
+computing is designed to help groups to develop and share their experiences of
+implementing green desktop computing initiatives.
+Liverpool
+University used the open source code developed during this project to (a)
+offer a wake on LAN service across Liverpool (b) further develop the software with
+the aim of offering wake on LAN as a
+shared service
+to any UK educational organisation.
+Main sections
+Home
+About
+Events
+Do your bit!
+Project team
+© University of Oxford.

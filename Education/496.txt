@@ -1,0 +1,21 @@
+[eidcsr]
+Welcome to the EIDCSR website
+HomeWelcome to the EIDCSR website Images from
+research groups and Flickr with CC licences: Visualization WallCross SectionHeart MRI
+EIDCSR aimed to develop and join up elements of research data infrastructure at
+various points of the data lifecycle by improving research data workflows,
+underpinned by the development of a University Data Management Policy.
+EIDCSR worked with a
+team of scientists generating and using very high resolution two-dimensional and
+three-dimensional images of hearts in order to understand and help improve their
+data preservation and curation processes. The Project was an intra-institutional
+collaboration involving the Computing Services (who led the work), the Research
+Services Office, the Bodleian Libraries, and the researchers themselves.
+Home Background Project Outputs Methodology Aims and Objectives Contact TeamFunded by JISC under the IE Programme 09/11Subscribe to RSS Latest News
+Oxford Research Data Management Pages[2010-11-18T01:38:01.542-08:00][2010-11-13T03:59:00.000-08:00]Databases in Quantum Chemistry[2010-09-30T03:49:05.631-07:00][2010-09-27T05:22:00.000-07:00]Open Repositories 2010 in Madrid[2010-07-13T11:22:57.244-07:00][2010-07-13T09:40:00.000-07:00]The DCC´s Data Management Planning Tool[2010-05-28T08:41:02.963-07:00][2010-05-28T06:04:00.000-07:00]Digital Curation Centre Workshop at Oxford on the 16th June, 2010 – How to Manage Research Data[2010-05-27T10:00:33.328-07:00][2010-05-27T09:56:00.000-07:00]
+Accessibility|
+© University of Oxford OUCS documents are
+available in alternative formats through advance request from the Help
+Centre.
+Author Luis Martinez-Uribe, 2009-06-15.
+Latest revision by lady1262 Tue, 26 Apr 2011

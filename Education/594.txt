@@ -1,0 +1,32 @@
+Go-Geo! The Geo-Data Portal Project
+Go-Geo!
+The Geo-Data Portal Project (Phase 3)
+Home
+About the Project
+Documents and Publications
+Presentations and Workshops
+Project Team
+FAQ
+Related Links
+Contact Us
+Developing an On-line Tool for Discovering Geo-Data and
+Related Resources
+Go-Geo! is a one year JISC-funded project
+between EDINA (Data Library, University of Edinburgh)
+and the UK Data Archive (University of Essex). The portal
+will allow for the discovery of geographic data and
+related resources within and beyond the HE and FE community.
+A trial Go-Geo! Service
+has now be launched for academic users and can be
+accessed at http://www.gogeo.ac.uk/.
+We are keen to receive feedback on the trial service
+and invite users to complete the evaluation questionnaire
+which is available from the site.
+A series of
+metadata
+workshops are now being held at universities
+across the UK. To find out if one is going to be held
+near you, check out the metadata
+workshop page.
+Copyright (c) EDINA/UKDA 2003 All
+rights reserved

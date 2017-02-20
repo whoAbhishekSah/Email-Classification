@@ -1,0 +1,221 @@
+Library Impact Data Project | Just another JISC Activity Data project blog!
+Library Impact Data Project
+Search
+Primary Menu
+Skip to content
+About
+Meet the Project Team
+Project Outputs
+Articles and conference papers
+Documentation
+Library analytics bibliography
+Open Data and Toolkit
+Search for:
+Uncategorized
+Final LIDP article published
+September 16, 2014 Graham Stone
+The 3rd and final LIDP article has now been published. The three papers discuss the major findings of both phases of the project and are available here:
+Collins, Ellen and Stone, Graham (2014) Understanding patterns of library use among undergraduate students from different disciplines. Evidence Based Library and Information Practice, 9 (3). pp. 51-67.
+Stone, Graham and Collins, Ellen (2013) Library usage and demographic characteristics of undergraduate students in a UK university. Performance Measurement and Metrics, 14 (1). pp. 25-35.
+Stone, Graham and Ramsden, Bryony (2013) Library Impact Data Project: looking for the link between library usage and student attainment. College and Research Libraries, 74 (6). pp. 546-559.
+The first paper from LAMP is also available:
+Showers, Ben and Stone, Graham (2014) Safety in Numbers: Developing a Shared Analytics Service for Academic Libraries. Performance Measurement and Metrics, 15 (1/2). pp. 13-22.
+For more information on LAMP, check the project blog out.
+Dissemination, news
+A brief history of library analytics
+February 23, 2014 Graham Stone
+We are just finalizing a chapter for a forthcoming Facet publication, the following section didn’t make the final cut, but we thought we would reproduce it here for anyone interested.
+The literature shows an interest in the relationship between library use and undergraduate attainment stretching back to the 1960s and 1970s (Barkey, 1965; Lubans, 1971; Mann, 1974), however, until recently literature reviews looking into this area have found little evidence of more research until the last few years.
+Some studies have investigated the relationship between university library usage and undergraduate student outcomes (De Jager, 2002a; De Jager, 2002b; Emmons and Wilkinson, 2011; Han, Wong and Webb, 2011), however, all lack information on electronic resource information use, De Jager points out that further investigation is necessary to discover where electronic resources play a part in achievement. Additionally, recent research has considered the relationship between library value and impact on research and learning (Oakleaf, 2010; Tenopir and Volentine, 2012). These studies have found that the library supports key academic research activities and thus can be considered to make a vital contribution to university value.
+Over the past few years’ more detailed research on ‘library analytics’ has been gathered in the UK, US and Australia; Huddersfield (Stone, Pattern and Ramsden, 2012; Stone and Ramsden, 2013; Stone and Collins, 2013; Collins and Stone, 2014), Wollongong (Cox and Jantti, 2012; Jantti and Cox, 2013) and Minnesota (Soria, Fransen, and Nackerud, 2013; Nackerud, Fransen, Peterson and Mastel, 2013). These three projects have all independently suggested a correlation or statistical significance between library usage  – e-resources use, book loans and gate entries – and student attainment. It is important to note, however, that this relationship cannot be considered a causal one.
+The advantage of a more data driven approach over surveys (Chrzatowski , 2006, Whitmire, 2002) is that data can be captured for every student in an institution, or across institutions, which removes the issue of low survey return rates and potential bias in survey responses or interpretation. Another benefit of using linked data from student registry systems is that far more information can be interpreted, for example demographic characteristics and discipline in addition to degree classifications and grade point average. Student retention can also be investigated using this data.
+With regards to research into demographic data in academic libraries, a number of studies have been undertaken in the United States (Whitmire, 2003; Jones, Johnson-Yale, Millermaier and Perez, 2009; Green, 2012).  Of the more analytics driven studies, Cox and Jantti (2012) reported on gender and age differences. Many of the more recent studies have also looked at discipline, in some cases producing consistent finding, for example, arts and humanities are usually found to be the biggest users of physical library materials (De Jager, 2002a; Maughan, 1999; Whitmore, 2002) and many studies have found engineering students to be the least engaged library users across resources (Kramer and Kramer, 1968, Bridges, 2008 and Cox and Jantti, 2012, Nackerud et al, 2013).
+The references included here can be in the bibliography of library analytics maintained by this blog.
+Benefits, news
+Library analytics bibliography
+January 10, 2014 Graham Stone
+With thanks to Diane Costello (Executive Officer, CAUL – Council of Australian University Librarians) and Judy Luther  (www.informedstrategies.com) for the suggestion, we have put together a Library analytics bibliography page based on articles we have consulted as part of LIDP.
+There is also an excellent new set of resources at CAUL including bibliographies on return on investment and value of libraries; the value and impact of university libraries and library data & text mining.
+We would love to here from you if you have anymore suggestions for our list of resources
+Dissemination, news
+Activity data – delivering benefits from the data deluge
+December 26, 2012 Graham Stone
+Earlier this month Jisc published a paper on activity data, featuring 6 case studies including LIDP.
+Executive Summary
+‘Activity data’ is the record of human actions in the online or physical world that can be captured by computer. The analysis of such data leading to ‘actionable insights’ is broadly known as ‘analytics’ and is part of the bigger picture of corporate business intelligence. In global settings (such as Facebook), this data can become extremely large over time – hence the nickname of ‘big data’ – and is therefore associated with storage and management approaches such as ‘data warehousing’.
+This executive overview offers higher education decision-makers an introduction to the potential of activity data – what it is, how it can contribute to mission-critical objectives – and proposes how institutions may respond to the associated opportunities and challenges. These themes and recommendations are explored in further detail in the supporting advisory paper, which draws on six institutional cases studies as well as evidence and outputs from a range of Jisc-supported projects in activity data and business intelligence.
+Read the whole report here
+news, Users
+LIDP Focus Group Write-Up
+December 20, 2012 Graham Stone
+Martin Philip (Subject Librarian for Accountancy, Law and Informatics) reflects on a focus group held with a group of our ‘non users’ from the School of Computing and Engineering.
+I recently conducted a focus group with five Computing students, a department that has been identified as low users of the library.
+The focus group was conducted using the ‘flipchart paper and post-it notes’ format, as designed by Ellen. There were five parts to the session, beginning with an activity that asked students to explain where they got information that was used in their last assignment. Questions asked included ‘what was the information?’ and ‘how did you find it?’
+Initially, the students were asked to think about their last assignment and answer questions including ‘What was the information you were looking for?’, ‘How did you find the information?’, ‘What format did the information come in?’ The students were asked to discuss their answers with one another and then they were then to write down the answers onto orange post-it notes. The students had to then put the post-it notes onto a piece of flip chart paper which had a scale on it from ‘use lots’ to ‘never use’.
+Examples of answers students wrote down near the ‘use lots’ end of the scale included Google, Internet, MSDN, Tutorials Online, UniLearn (VLE) and E-books. At the other end of the scale, students said they rarely spoke to third years, when looking for information, nor did they consult suggested module reading or use many books.
+The students were then given lots more post-it notes to place on the scale with the difference being that these were pink and had already been written on with examples of resources. As before, I asked them to discuss and then place on the scale. Google, Websites and YouTube were examples of resources the students rated as ‘use lots’. Resources at the ‘never use’ end of the scale included Journals, Library Subject Enquiry Desk, Total Training, ACM Digital Library and Unitube.
+Here’s a photo of the flipchart paper with both sets of post-it notes (students answers in orange, my suggestions in pink). The scale lies on the paper left to right:
+I then split the students into two groups, one with three, the other with two, and asked each group to choose one thing from the scale which they rarely or never use. On a blank piece of flip-chart paper, they brainstormed all the reasons that they rarely/never use this specific resource or service.
+After 10 minutes, the students then looked at the other groups ‘brainstorm’ and made some brief comments. I then closed the focus group with an open discussion based on questions they had come up with during the activities.
+Discussion
+The students began discussing reasons for not using Unitube and Magazines, the resources that each group picked out during the brainstorm session.
+The main reasons for not using Unitube were that they do not know what it is, what information is provided on it, or how to get access to it. Many students admitted to noticing the logo being advertised around campus but made assumptions that it wasn’t required for them. They explained that they regularly use YouTube which they find easier to navigate than Unitube.
+The students didn’t make use of the university-subscribed magazines because they felt like they could find the same content online but in a quicker, easier way than visiting the library. They didn’t feel like there was any benefit to using magazines to find information for their assignments. “Using magazines is going out of your way to use it when instead you can just Google it.”
+A key theme of the discussion that was repeated throughout was a sense that the students would only use resources that they were told to use by their lecturers and didn’t see the benefits of using other resources. “We don’t see the point (in using x) because we’re not told to use them” one student said. Another added “We’ve not been told about certain things so we just stick with what we know.”
+This particular sample of students gave some reasons why they don’t tend to use the university’s paid-for resources. “The thing is, we’re on courses that don’t require us to use some resources that are heavily book-based. We can just find everything online. Other courses do a lot more essays and have to reference things, when we do more practical work so using video tutorials is better than finding references in books.”
+Other reasons for not using resources include a lack of awareness.  “I’ve no idea where the Library Enquiry Desk is and I’m a second year.” (This refers to the help desk that is staffed by librarians.)
+“For the ones (resources) we don’t use much are I think we’re not aware or there is another alternative we use instead or they’re not really relevant.”
+A number of students talked generally about where they get their information from. One explained “You have your preferences and everyone is different but you have stuff that you have grown to use something so if it works I’ll keep using it, why use something else if you’re getting on fine doing what you’re doing?”
+Another agreed detailing “For me, its books and Google. They’re the two main places I go. If I know things are in them, I’ll keep going back because I get into the habit of it. If it’s been published it’s got to be decent. I don’t like to venture out.”
+And finally, another student explained that it was about location, “For me it depends where I am. I do use Summon a lot when I’m at home, but if I’m in university I prefer using the library and getting a book.”
+Lots of reasoning was to do with how ‘easy’ a resource was to use rather than a recognition of quality. When talking about why the students preferred to use the ‘open’ internet, one student explained “With stuff that’s provided by the uni and that, none of us have used them before we came here so we just stick to what we know.” The students didn’t seem to have a desire to search for information beyond what they are told.
+Some students found the session helpful, explaining “I think it’s good to know that there is more to use than what I’ve been using to find stuff. So if it’s not on the things that I use, it’s good know there are some alternatives.” There wasn’t the recognition that the university-subscribed resources were providing superior content to the free online resources the students preferred to use.
+One student did conclude that there was merit in using the university-subscribed resources adding “For me I hadn’t heard of Digital Tutors until I came to university because you have to pay for it. I know that Digital Tutors, EatsD and 3dmotive are just three of the resources that we have access to through the university. I never used these before because you had to pay for them. It is something I use a lot.”
+news
+What should be our focus for future work on the LIDP?
+December 18, 2012 Graham Stone
+We are drawing to a close with Phase II of the LIDP, so naturally our thoughts are turning to what we would like to do with the data we have accumulated from the first two phases at Huddersfield. What would Phase 3 look like?
+The aims of our original in house project were:
+To engage non-low users
+To increase attainment levels
+To work progressively with staff to embed library use
+We had always intended to use the data we had analysed to make a direct impact on retention and attainment in the University. Our plan for 2012/13 was to
+Refine data collected and impact of targeted help
+Use this information to create a toolkit which will offer best practice to a given profile
+E.g. scenario based
+In order to help us to focus on the areas we need to look at going forward, we held an event for Computing and Library Services staff and the Pro-Vice Chancellor for Teaching and Learning on 9 November.
+The first half looked at what we had achieved so far – thanks to Ellen for an excellent presentation looking at some of our previous blogs – and some really cool new findings, which we will be blogging about very soon!
+The second half of the session looked at the future and centred on a number of questions:
+Retention
+How can LIDP be utilized to help increase student retention at Huddersfield?
+The data shows that there is a statistical significance between library usage and retention – although this is clearly not cause and effect, it does mean something and adds to our arsenal of ways of flagging up possible retention issues.
+We need to get better data at subject level rather than the general view we have at the moment. We also need to get longitudinal data to see if usage changes over time – a sudden drop could indicate a potential problem?
+Finally, we need to get live data, both phases of LIDP took 4 months to analyse the data to give results for a single point in time – live data would add great value to a retention dashboard.
+How do we engage academic staff?
+What are the mechanisms to deliver a step-change? We can show clearly evidenced work on what we have already done, but how do we get to the value-added bit at the end?  We need to create a series of briefing papers for specific subject areas that shows the evidence we in areas that relate specifically to academic staff. We need to build relationships and look to move library contact time away from the first term to the point of need – of course we’ve known this for a while, but we still get booked up in the first term for inductions, with further engagement we can move sessions to suit the student using the data we have.
+Is low usage appropriate in some areas?
+We have found that usage is low in areas such as Art and Design and Computing and Engineering. Is this OK? We need to come up with a way to measure this and target the areas of need to find out why? Is low use acceptable, or are the resources inappropriate? Do our results show us that we have an issue with certain groups of overseas students and usage – or do they just work in different ways to European students – are they actually working in groups, which might account for lower usage? Anecdotal evidence says they maybe.
+What data should we offer in future?
+We need to offer two sets of data, one to look at improving retention, the live dashboard approach, and one to look at adding value to the student experience. We need longitudinal data to look at usage over time and also yearly stats so that we can start to benchmark. We also need to discriminate between years of study so that we can look for patterns.
+The use of e-resources has worked as a broad indicator, we always said it was a fairly rough measure, we need to add some evidence based practice to this, e.g. have interventions made a difference?
+Which areas do we prioritise?
+Do we look at the NSS scores? Overseas students? Specific subjects, such as Computing and Engineering? We need to develop a strategy moving forward, we also need to get the live data. This is an area that needs to be developed, possibly using the Wollongong model (Brian Cox and Margie H. Jantti, “Capturing business intelligence required for targeted marketing, demonstrating value, and driving process improvement”, Library and information science research, vol.34, no.4 (2012): 308-316. doi: http://dx.doi.org/10.1016/j.lisr.2012.06.002) and open source software?
+Additionally, we need to do more work integrating our MyReading project – academics need to give out clearer guidance for reading, essential, recommended, additional etc. so we can monitor usage, non-engagement and follow up some of our finding about the impact of wider reading.
+Data Analysis, Data Capture, Data protection, Dissemination, Legal issues, news
+LIDP Toolkit: Phase 2
+December 12, 2012 Graham Stone
+We are starting to wrap up the loose ends of LIDP 2. You will have seen some bonus blogs from us today, and we have more about reading lists and focus groups to come – plus more surprises!
+Here is something we said we would do from the outset – a second version of the toolkit to reflect the work we have done in Phase 2 and to build on the Phase 1 Toolkit:
+Stone, Graham and Collins, Ellen (2012) Library Impact Data Project Toolkit: Phase 2. Manual. University of Huddersfield, Huddersfield.
+The second phase of the Library Impact Data Project set out to explore a number of relationships between undergraduate library usage, attainment and demographic factors. There were six main work packages:
+Demographic factors and library usage: testing to see whether there is a relationship between demographic variables (gender, ethnicity, disability, discipline etc.) and all measures of library usage;
+Retention vs non-retention: testing to see whether there is a relationship between patterns of library usage and retention;
+Value added: using UCAS entry data and library usage data to establish whether use of library services has improved outcomes for students;
+VLE usage and outcome: testing to see whether there is a relationship between VLE usage and outcome (subject to data availability);
+MyReading and Lemon Tree: planning tests to see whether participation in these social media library services had a relationship with library usage;
+Predicting final grade: using demographic and library usage data to try and build a model for predicting a student’s final grade.
+This toolkit explains how we reached our conclusions in work packages 1, 2 and 6 (the conclusions themselves are outlined on the project blog. Our aim is to help other universities replicate our findings. Data were not available for work package 4, but should this data become available it can be tested in the same way as in the first phase of the project, or in the same way as the correlations outlined below. Work package 6 was also a challenge in terms of data, and we made some progress but not enough to present full results.
+The toolkit aims to give general guidelines about:
+1. Data Requirements
+2. Legal Issues
+3. Analysis of the Data
+4. Focus Groups
+5. Suggestions for Further Analysis
+6. Release of the Data
+Data Analysis, news, Wins and Fails
+BONUS findings post! Correlations
+December 11, 2012
+Hello.
+Hello! You’ve changed the format of the blogs, haven’t you? Yes, we like to mix it up a bit. We thought this might be fun, and not at all derivative.
+What are these bonus findings then? Well, it all stems from the fact that this time round we have been given students’ final grades as a percentage, rather than a class. Continuous rather than categorical data. This opens up a whole new world of possibilities in terms of identifying a relationship between usage and grades.
+Wait, didn’t you already prove that in Phase 1? We certainly did.
+So why are you doing it again? Well, to not-quite-quote a famous mountaineer – because we can. It’s important to be clear that we’re not trying to ‘prove’ or ‘disprove’ results from the previous phase. Those stand alone. We’re simply taking advantage of the possibilities offered by the new data.
+And those possibilities are…? Remember Spearman’s correlation coefficient from the last post? Well, we can use that again. As you’ll remember from earlier posts, it’s best to keep continuous data continuous if you can. The first round of the project gave librarians with percentage grades – continuous data – a methodology which required them to convert said grades into classes – categorical data. So we’re outlining this technique for their benefit – it’ll save time AND it’s better!
+But if you’ve only got the class-based data… Not a problem! Use the old technique, which is designed for class-based data. This is just about giving people options so that they can choose whatever fits their data best.
+Right. Got it. So, what did you find? This might be where you have to take a bit of a back seat, my inquisitive friend.
+In fact, we found  absolutely nothing to surprise us. The findings echo everything we established in the first phase, and the additional work we’ve done with extra variables in this phase. Figure 1 shows the effect sizes and significance levels for each variable.
+As usual, I’ve only reported the statistically significant ones, and they are exactly the same as the ones that were statistically significant in our previous tests. You can see that, again, we’ve found a slight negative correlation between the percentage of e-resource use which happens overnight and the final grade. Once again, I’m inclined to dismiss this as a funny fluke within the data, rather than an indication that overnight usage will improve your grade.
+So nothing new to report? Not really. Just a new method (outlined in the toolkit) for those librarians who want to take advantage of their continuous datasets.
+final blognews
+Dissemination, news
+Publications from Phase 1 of LIDP
+November 15, 2012 Graham Stone
+We now have a complete list of publications from Phase I of the project, which took place from January-July 2011.
+The College and Research Libraries article is now the definitive article for Phase 1 and would be the best one to cite if you feel that way inclined!
+Stone, Graham and Ramsden, Bryony (2012) Library Impact Data Project: looking for the link between library usage and student attainment. College and Research Libraries. ISSN 0010-0870
+Stone, Graham, Pattern, David and Ramsden, Bryony (2012) Library Impact Data Project: hit, miss or maybe. In: Proving value in challenging times: proceedings of the 9th Northumbria international conference on performance measurement in libraries and information services. University of York, York, pp. 385-390. ISBN 978-0-901931-11-5
+Stone, Graham, Pattern, David and Ramsden, Bryony (2012) Library Impact Data Project. Sconul Focus (54). pp. 25-28. ISSN 1745-5782
+Stone, Graham, Pattern, David and Ramsden, Bryony (2011) Does library use affect student attainment? A preliminary report on the Library Impact Data Project. LIBER Quarterly , 21 (1). pp. 5-22. ISSN 14355205
+Stone, Graham, Ramsden, Bryony and Pattern, David (2011) Looking for the link between library usage and student attainment. Ariadne (67). ISSN 1361-3200
+We hope to publish at least two papers on Phase II in 2013.
+Data Analysis, news
+FINDINGS post 6: BONUS new findings on UCAS points and place of usage
+October 18, 2012
+Good news! We have acquired some extra data from various very helpful departments at Huddersfield, which allows us to explore a few additional angles for both indicators of usage and the relationship between usage and outcomes.  The new data relates to the UCAS points of the students within the study, and to the percentage of each student’s total e-resource usage that occurs on campus.
+Let’s start with the UCAS points. We’ve treated these as a kind of ‘demographic’ characteristic and, as with the ones we’ve already posted about, we wanted to see whether there was a correlation between them and the library usage variables. Because both the UCAS points and the usage data are continuous variables, but not normally distributed, we used a slightly different measure than in our previous work – Spearman’s correlation coefficient. Figure 1 shows the findings.
+I’ve only included effect sizes for the ones that were statistically significant and, as you can see, there aren’t many of them. And even for those that were, the effect sizes were pretty small. This is an interesting finding, suggesting that it’s not necessarily the case that high-achieving students are simply more likely to use the library and that this lies behind the relationship we’ve seen between usage and outcomes in phase 1 of the project – we’d have to run further tests to check whether this is in fact the case, of course.
+Next, we moved on to look at the percentage of e-resource usage which occurred on Huddersfield’s campuses (as opposed to offsite – for example, at home or in a coffee shop). Again, as with the earlier measures of usage, we wanted to see whether this varied with some of the demographic variables. Figure 2 shows our findings: I’ve only included the ones with statistically significant variations.
+Younger students and men spend proportionally more time than mature students and women accessing e-resources on campus (as compared to other locations). The same is true for Asian and black students, compared to white students;  for computing and engineering students compared to social scientists; and for students based in the UK compared to those based in China. Remember, these are just the ones with statistically significant differences, so in fact there are not that many – and they are all small effect sizes.
+Finally – and perhaps most interestingly – the relationship between percentage of usage of e-resources on campus and final degree results. Figure 3 shows the findings from this analysis; again, only the statistically significant results are shown.
+You can see that, although the effect sizes are small, there are differences between the percentage of on-campus usage for students who go on to achieve a First and 2.ii or Third, and a 2.i and a 2.ii. In each case, the students who go on to achieve higher grades are the ones who have had a lower percentage of on-campus e-resource usage. This tells us that there is some relationship between reading electronic content in locations other than the university and doing well in your degree.
+Posts navigation
+1
+2
+…
+6
+Next →
+Search for:
+CategoriesCategories
+Select Category
+Benefits  (6)
+Data Analysis  (16)
+Data Capture  (7)
+Data protection  (2)
+Dissemination  (4)
+Final blog  (7)
+Hypothesis  (3)
+Legal issues  (3)
+news  (47)
+Project plan  (5)
+Uncategorized  (1)
+Users  (7)
+Wins and Fails  (8)
+Archives Archives
+Select Month
+September 2014  (1)
+February 2014  (1)
+January 2014  (1)
+December 2012  (5)
+November 2012  (1)
+October 2012  (3)
+September 2012  (3)
+August 2012  (6)
+July 2012  (3)
+May 2012  (1)
+March 2012  (3)
+February 2012  (3)
+January 2012  (1)
+October 2011  (3)
+September 2011  (2)
+August 2011  (2)
+July 2011  (5)
+June 2011  (4)
+May 2011  (1)
+April 2011  (4)
+March 2011  (4)
+January 2011  (1)
+Just another JISC Activity Data project blog!
+Recent Posts
+Final LIDP article published
+A brief history of library analytics
+Library analytics bibliography
+Activity data – delivering benefits from the data deluge
+LIDP Focus Group Write-Up
+Recent CommentsLIDP on the road in 2012 « Library Impact Data Project on Articles and conference papersKaren R. Harker on FINDINGS post 1: demographic differencesNew Discovering the Impact of Library Use and Student Performance – Stephen's Lighthouse on Discovering the Impact of Library Use and Student PerformanceEllen Collins on FINIDNGS post 4: Final results and usageAaron on FINIDNGS post 4: Final results and usageMeta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+Spam Blocked
+8,963 spam blocked by Akismet
+Proudly powered by WordPress

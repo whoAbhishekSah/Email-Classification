@@ -1,0 +1,245 @@
+Exeter CASCADE
+Home
+Project Staff
+Exeter CASCADE(Cascading Research-like Digital Literacy Skills at Exeter).
+Developing student/staff digital capabilities through innovative practices.CommentsPosts
+Archive… Archive…
+Select Month
+June 2012  (2)
+May 2012  (4)
+April 2012  (3)
+March 2012  (1)
+February 2012  (4)
+January 2012  (8)
+December 2011  (3)
+November 2011  (4)
+October 2011  (1)
+September 2011  (2)
+August 2011  (1)
+Recent Posts
+End of term at Exeter Cascade
+Developing digital researchers: developing digital literacy at research-intensive universities
+Supporting Academic Practice in a Digital Age
+A Postcard from the Digital Beach
+‘BYOD’ hits the headlines!
+Recent CommentsHelenBeetham on ‘BYOD’ hits the headlines!Doug Belshaw on Thinking about the Base-lining ProcessDoug Belshaw on Cream tea and clustersIT Support London on The intersection of education and technologyDoug Belshaw on Digital Expression
+Welcome to the Exeter CASCADE project blog!
+CASCADE is designed to develop digital capability across the University of Exeter, focusing initially on the experience of postgraduate researchers and on the University’s strengths in research-led teaching. Our mode of working is highly collaborative, with ‘students as change agents‘ cascading digital know-how across the five Colleges. We also work in a scholarly way, researching the unique digital literacies of different subject areas and understanding existing practices with digital technology before working with staff and students to enhance them.
+What are we doing?
+Our first task is to baseline current approaches to digital scholarship, looking at institutional strategies and support as well as practices in different subject areas. We will go on to identify taught modules across the University in which to embed and evaluate research-rich activities, making use of digital technologies in integrated ways. In addition, we are developing opportunities for postgraduates to develop their digital capabilities for research. We are working intensively with a number of postgraduate interns, who will be recording their own journey and developing as change agents in their own departments.
+We have focused initially on the College of Humanities but will gradually be moving our work out across the University, developing action plans for each College. Professional services have also been enthusiastic about working with the project, and we are planning events in collaboration with careers, the library, and academic development teams.
+Who are we?
+The core project team are Helen Beetham an expert on digital literacies, Dale
+Potter who has worked on change agents and other technology-led
+projects, Liz Dunne, Head of Project Development at the University, Nikki Danbom who cherishes education, and Bertie Archer who was a sabbatical officer at Exeter. Members of the wider project family will also be blogging here, including Gary Stringer who is Assistant College Manager (Technical
+and Infrastructure) for the College of Humanities.
+We are fortunate that several organisations have agreed to work with us
+in piloting and disseminating outcomes, including the ESRC SW Doctoral
+Training Centre at Exeter, Bristol and Bath Universities. Our Digital
+Literacy Framework draws heavily on the Vitae
+Researcher Development
+Framework and we will be reporting to their
+Impact and Evaluation
+Group; in addition, ALDinHE (which acts as a
+supportive network for the
+professional development of staff involved
+with developing learning)
+will support us through the
+development of policy and disseminating
+resources.
+August 8th, 2011 |
+Posted by: Site Admin |
+Category: Uncategorized |
+Leave a comment
+End of term at Exeter Cascade
+It was a day of sadness as well as celebration last Friday when our 15 brilliant postgraduate interns presented snapshots of their work to members of the University. It was the last time we all met formally – face to face at least, though we continue as a learning community via our blog and a new facebook group. Celebration predominated though, thanks to an enormous chocolate cake and the quite stunning work we had a chance to see. Of course there wasn’t enough time to do justice to any of the case studies, but we were certainly treated to a vast repertoire of presentational media, from the flourishing of robot components through some very sophisticated uses of prezi to human conversations – live and on video – and Diana’s fantastic animation (the link is to her learning journey, which includes her case study).
+The level of excitement can be judged from the fact that we had to shoo members of university staff out of the room at the end in order to have a final closed meeting. They simply could not stop talking about what they had seen.
+We are working hard now to get these case studies and all the associated resources finished and on our web site, as it doesn’t seem fair to keep the world waiting any longer than we have to. Meanwhile you can get a flavour of the variety from the programme. Congratulations to all our interns and thank you to everyone who took part.
+June 26th, 2012 |
+Posted by: Helen Beetham | Tags: case studies, digital scholarship, Exeter, interns |
+Category: Uncategorized |
+Leave a comment
+Developing digital researchers: developing digital literacy at research-intensive universities
+Over the next couple of months you will start to see evidence of our first year’s work emerging on our project web site. We are currently editing video interviews from postgraduate researchers and staff, supporting our PGR interns to complete their case studies and learning materials, and working up some of our own resources. These include an app that builds digital learning activities from Bloom’s taxonomy of learning objectives, and a couple of magazine-type quizzes to help students identify their digital research and digital learning styles. More seriously, we are building a resource that we hope will be useful both to researchers as they get to grips with digital technology in the research process, and to research-intensive institutions as they develop strategies for enhancing digital know-how. The two stakeholder groups we are addressing share an interest in embedding into the curriculum a range of research-like activities that use digital technology in meaningful ways.
+Some of the ideas we are working with are these.
+Repertoire: We have discovered that there is not one set of digital capabilities that reliably defines a graduate. The digital practices that enhance study and scholarship are highly subject specific, and even within subjects there are aspects of personal identity or style in the technologies used (or refused) and the ways that individuals deploy them. So we see developing digital literacy as a matter of acquiring a repertoire, a range of technologies and uses of technology that are readily available to the individual and can be combined to achieve specific purposes. In a given setting, a digitally literate student/researcher has options and can make choices. Having this repertoire, the literate individual can also encounter new technologies confidently, and make critical judgements as to their value and purpose. The development of this repertoire is highly influenced by the curriculum and by subject experts, but driven also by personal aptitudes, attitudes and identities.
+Hybrid activities: The activities we see our postgraduate interns engaging in are hybrid forms, based  on what they know of research and methodology in their subject area, and what they know or intuit about the capabilities of digital tools. In some cases digital method is intrinsic to the research area – text encoding and analysis in English, use of video in performance studies or audio in interview-based research, digital data capture in biological experiments, model building in maths. In other cases, we see PGRs adopting generic technologies of web services and mobile apps that just make the research process easier. Traditional research meets the ‘we’ve got an app for that‘ generation.
+Digital pioneers are scholarly pioneers: Partly because of this attitude, PGRs can be change agents in their research teams and communities. We have found evidence of PGRs developing new methods – often independently of their supervisors – around: data capture (e.g. using personal digital devices, cloud solutions to upload and data management); data visualisation and presentation (e.g. use of video, animations, and a variety of graphical visualisation apps); virtual collaboration (e.g. using a blend of public and institutional services); and digital networking and career building.
+Digital discernment: Despite the last point, closer acquaintance with digital technology does not necessarily lead to more enthusiasm for it. In fact several of our interns describe themselves as more sceptical – or at least more discerning – in their use of digital technology after an intensive period of skills sharing and reflection. This relates to the issue of repertoire, as a larger range of experience with digital technology allows a more critical attitude to specific examples of technology in use. Also, the fact that digital technology creates efficiencies in the research process may allow researchers to focus more attention on those tasks that only a human researcher can undertake – generating ideas, discerning patterns, thinking, communicating, demonstrating value, making sense.
+Digital scholarship vs digital literacy: At a highly research intensive institution it often opens more doors to talk about digital scholarship – embracing research and the highest levels of academic achievement – than to talk about digital literacy, which is associated with formal education at a much earlier stage of life. However, some subjects are are spawning highly specialist areas of scholarship that have digital methods at their heart, and the ‘digital agenda’ can become identified with those scholars exclusively. For us as a project, ‘digital literacy’ is not a specialist option but a set of practices that all graduates of a subject area can expect to have encountered. At a practical level, digital specialists can inform and transform the culture of a department, but they should not be the only people responsible for progressing its digital capabilities.
+Research-like activities: Our area of focus for the remainder of the project will be embedding some of our findings and resources into taught programmes. The way we expect to do this is to take some of the hybrid activities we have observed among our PGRs and work alongside academic staff to develop similar activities that can be embedded into taught modules, allowing students to experience digital technologies in the context of meaningful scholarly activities.
+June 15th, 2012 |
+Posted by: Helen Beetham | Tags: change agents, digital literacy, digital research, digital scholarship, hybrid activities, institutional change, PGRs |
+Category: Uncategorized |
+Leave a comment
+Supporting Academic Practice in a Digital Age
+We are still recovering from the amazing event we held at Exeter last week, mainly for staff involved in academic practice and learning support. Initially we planned this as an internal seminar, but the idea grew until we had over 80 people signed up, most of them external to Exeter. We even had to institute a waiting list!
+Supporting Academic Practice in the Digital Age
+But never mind the quantities, the quality was superb. Plenary sessions in the morning offered different perspectives on the interface between academic development – and the associated values of self-realisation, critical thinking/being, developing identity – and digital know-how. There were some sharp disagreeements, not least between me in the digital corner, and the student members of our panel, who tended to see digital technology as both a distraction and an unhelpful blurring of the public/private boundaries in academic spaces where students want to feel secure. However, even we were able to agree that the issue needs more discussion, more engagement across boundaries, and more awareness of the risks as well as the opportunities.
+The afternoon saw a series of eight workshops, on topics ranging from referencing to giving audio feedback, and from writing in the digital age to new modes of assessment. Outcomes will be available from our project web site as soon as we are able to collate them.
+A huge thank you to everyone who took part. You can follow the story of the event on storify here, look at tweets with the #sapda hashtag, and download slides from the various sessions here.
+May 21st, 2012 |
+Posted by: Helen Beetham | Tags: academic development, learning, learning skills, professionals, students, study, support |
+Category: Uncategorized |
+Leave a comment
+A Postcard from the Digital Beach
+Here at the Exeter Uni’s Teaching and Learning Conference, Helen and I set up a stall for the Exeter CASCADE project, which got a lot of traffic.
+First of all, let me explain why we stood out from the crowd. Every other stall looked like this:
+And our stall looked like this:
+So besides my excitement about wearing my favorite Hawaiian dress, what else happened?
+We talked to a lot of people, and a big rang of people too. Because the event was in our university’s recently opened Forum building, a lot students were there as well as staff who weren’t attending the conference. It’s interesting how much digital technology excites people’s interest- whether they were happy about digital technology or not. I watched a TedX film recently talking about how education is a topic that everyone has something to say about. Digital technology is quite the same I think.
+We asked people to fill in papers and leave them in a bottle, a ‘message in a bottle’ responding to the statement ”Help! I could really make good use of digital technology in my teaching/studies, if only…”, and then we asked people to contribute to our wall wiki, titled ‘how is digital technology changing your discipline.
+Like our conversations, the responses on our wall wiki and our bottle brought out a lot of the contentious nature of the whole ‘digital literacy’ thing. People’s messages in the bottle were varied:
+‘Help! I could really make good use of digital technology in my teaching/in my studies if only…’
+….I was brave enough
+…Greater access to mobile projection facilities (this was Helen, making a comment about a certain IT service…)
+…I can ensure human support is also available to help me develop the confidence and skills I need to ‘exploit’ the digital age…i.e. training
+…more open course content creation. Student uploads
+…I had someone to call on when things went wrong (someone who teaches + can spend time with me- not a technician).
+…we had the resources to match our ideas.
+…there was opportunity outside the course modules to learn more I have access
+….more classes on how to innovate within new technologies in English
+…I had more time to learn how to do it well/properly.
+…I could have time and a person to take me through it + make it happen. I think I am untrainable, so I need a trained partner
+…it was easier to collaborate with external partners (NHS)
+…
+Because people’s relationships with technology are different, and because people are different, I guess it makes sense that people would have some different answers to that statement. What I think it interesting is how many of these people’s answers involved a human element. People weren’t putting their solutions on the technology, they were putting them on human resources. They wanted to change their own human resource, or wanted people to help them through.
+Keeping in mind that this is a very small sample of a dispersed group of people ranging from undergraduate students to students skills advisers to Professors, I wonder how this sample would differ from a sample of PhD students or early-mid career academics? Because from our survey and interview data, it seems that PhD students are a group of people who tend to have a strong drive to self-teach and find information. They made many comments about being hindered by a lack of access to technology, not human resource.
+The answers to the question ‘how is digital technology changing your discipline?’ were similarly varied. Some were positive, others were negative. Interestingly, negative comments about this subject seem to focus on teaching and learning whereas positive comments seem to focus on research and developments in the field around that. It’s not just this wall wiki that made me aware of this divergence. Why is that? Why should we have such divergent attitudes towards technologies role in teaching and learning as we do in research when we are pushing a research led education agenda? More research should be done to understand how undergraduate students compare to professors in terms of thoughts about how digital technology is changing teaching and learning, and also research practices.
+Here is a small version of our wall wiki:
+So, you see, there is excitement and there is critical reservation, all present.
+You might think that some of the differences in attitudes are disciplinary. However, in our research with PGRs, it was interesting that there were students from the same discipline exhorting opposite perspectives. There were students both in Humanities and in Mathematics saying that we overemphasize the digital. And there were students in Social Sciences demanding more from the University, expecting it to guide them into the future, which will be overwhelmingly digital.
+May 9th, 2012 |
+Posted by: Nicole Allison McMurray |
+Category: Uncategorized |
+Leave a comment
+‘BYOD’ hits the headlines!
+The term BYOD (bring your own device) has popped up from a few baseline conversations to describe the new trend where employees are bringing their own equipment and using it for work purposes.  According to a survey across 17 countries by business technology company Avanade, 88% of executives said employees were using their own personal computing technologies for business purposes.
+Looking around CASCADE HQ*, only 3 employees out of 30 staff members using some their own technology on a regular basis.  It would seem that whilst BYOD is becoming more common, it is only a relatively small number of employees who are doing it.
+A new adaptation of this phenomenon is ‘BYOS’ (bring your own service), where employees are using third-party services for work purposes.  In my personal experience teaching on a first-year module, I used Google Maps to facilitate extension of an ice-breaker exercise where students wrote short introductory text linked to their geographic background.  Similarly, I have dabbled with using Gmail as my main work account rather than the horrid Outlook – fetching new messages from Exeter’s servers and sending messages back through the Exeter system.
+BYOD and BYOS can no doubt cause headaches for IT managers in terms of system security and support provision.  There are also clear cost implications – perhaps employees be subsidised in some way to purchase their own equipment.  This might end up being a more cost-effective solution given the apparent rip-off costs of enterprise hardware (granted most purchases include some support agreement).   At Exeter, IT services seem to be quite relaxed about this, but perhaps this arises from the small proportion of employees BYOD-ing and BYOS-ing…?
+* and adjacent University of Exeter Education Enhancement offices
+May 9th, 2012 |
+Posted by: Dale Potter | Tags: bring your own device, bring your own service, BYOD, BYOS, hardware provision |
+Category: Uncategorized |
+One comment
+How can digital technologies enhance my research practices? – Looking for inspiration
+My colleagues and I were lucky enough to be asked by the CASCADE team to create a resource that would introduce academic researchers to the range of digital technologies that are now available and give them an insight into how they could be used to enhance their research practices –  in essence how they can help with the challenges that come with doing research.
+I am delighted to say that this multimedia resource is now openly available at:  http://www.exeter.ac.uk/cascade/digital-technologies-for-researchers.php
+I hope that you will find the resource as inspiring to listen to as it was to make.  When the development work started, it very quickly became apparent that the value of the resource would lie in the way it brought together the stories and experiences of such a wide spectrum of people – members of the CASCADE team, Librarians, postgraduate development staff  and perhaps most importantly PhD researchers from across the disciplines.  I think you will agree that is it their stories and advice that make this resource particularly worthwhile.
+May 9th, 2012 |
+Posted by: Kate Tyler | Tags: digital literacy, researchers, skills development, stories |
+Category: Uncategorized |
+Leave a comment
+Data Visualisation – The Big Topic
+Communicating vast and complex data in a visually attractive manor has becoming more and more of a hot topic over the past few years.  From UK crime reports to US plastic surgery statistics, researchers, journalists and policy makers are finding new ways to make sense of the data that is collected.
+There is a cross-over between data, graphic design, computer programming and art.  A fascinating example to illustrate this is Aaron Koblin’s visualisation of  US flight data:
+Aaron Koblin - Visualisation of US Flight Data
+In the public consciousness, the Guardian newspaper has been leading the way in this field, with an excellent data blog offering access to the raw data as well as visualisations.
+Alongside the trend towards open data, we recognise that researchers are becoming increasingly interested in this area to both understand their data and make it viable in a wider scholarly context.  To this end, we are focussing on these skills in the next PGR interns seminars, where we will be delighted to welcome expert graphic designer and data visualisation practioner Flea Palmer from the University of Plymouth.
+Following this session, we will be producing the latest in our line of ‘Researcher Briefings’ in this subject.  this will join our growing list of project outputs.
+April 25th, 2012 |
+Posted by: Dale Potter | Tags: data visualisation, interns, PGR seminar series, visual communication |
+Category: Uncategorized |
+Leave a comment
+Cream tea and clusters
+Recently we invited the other three projects in our cluster to share a Devon cream tea with us here at Exeter.
+We also shared some ideas and issues in our projects’ development.
+We kicked off with a session on moving ‘beyond the baseline‘, which prepared us all well for the webinar on this topic (see Nikki’s post). Bath’s PRiDE team encouraged us to speak from the heart as we collated lessons from our first six months under the heading ‘just one thing’. This included ‘one thing I wish someone had told me about this project’ and ‘one thing we will never tell JISC‘.  The Chatham House rule prevents us blogging the very interesting outcomes of this exercise, but there is no doubt it was a good way to get us all thinking.
+Nicola from the Oxford Brookes’ InStePP project described how they are working with the Association of Learning Technology and the Institute of Leadership and Management to provide recognised accreditation to their student e-pioneers. Our model is different and our interns are at a different stage in their academic career, but we are looking at Exeter’s ASPIRE framework to provide similar support, if there is interest.
+After lunch we gave the other projects a chance to chat with six of the postgraduate interns who are key to taking Cascade forward. As always they were enthusiastic about the potential for digital technologies in scholarship, challenging of our assumptions, and honest about their motivations for working with us. The Digitally Ready project has already blogged about this encounter, saying: ‘this is an extremely strong model – the postgraduates strengthen their own
+understanding, are exposed to a wider variety of “use cases”, and the
+undergraduates benefit from the slightly wiser heads of the
+postgraduates’. Thanks for the vote of confidence, Reading. We really like your agile evalution model too 🙂
+April 23rd, 2012 |
+Posted by: Helen Beetham |
+Category: Uncategorized |
+One comment
+Thinking about the Base-lining Process
+Well, time for some reflection. This has been encouraged by the questions below. But I think it’s always a good idea, anyways.
+I personally got a lot out of our baseline process. I got an appreciation of just how complicated it all is- how many different needs and perspectives there are about digital literacy. And yet, that there are some things which are pretty unanimous.
+Our survey gave us 170 responses from PGRs and told us a lot about them. We got to compare different colleges and departments, and look at how PGRs use technology differently in different fields. While it is true that most disciplines have unique ways of using technology, I think it’s a good point to make that most of the questions did not appear to be affected by discipline. People tended to use referencing software the same across the board, people tended to go to the same places in the same proportions for help with digital skills. People held similar feelings about whether digital technology will be integral to their career and their research.
+In the baseline, I talked with a lot of different PGRs and I had a chance to really glimpse at how differently different people see digital technology. Some of them, I would walk into their office and they would have their screen up with 21 tabs open and music playing. Some would be reading a paper printed off. Some of them were quite passionate about their use of technology. And some of them were quite passionate that technology is not very important in the learning process. I came to appreciate that the University has a difficult role to play, pleasing everyone. What might end up happening is a lowest common-denominator. What I hope though is that our research can help see where there is an agreement, and so an obvious way forward.
+I feel lucky to have done this research, and with PGRs especially, because they really are at the cutting edge of digital literacies. They are the students of yesterday and the teachers of tomorrow!
+Below are some thoughts about the questions of tomorrow’s webinar.
+1.
+What are you planning to do with your baseline report? (Who do you want to see it, and how do you want it to influence them?)
+We are now writing reports which will be delivered within the university, reflecting our research. This is in the form of one generic, internal report and a report for each of the five colleges. We are also taking into account our research in resources we are developing for our website around digital literacy, which will be aimed PGRs but also helpful for undergraduate students and academic staff.
+2.
+What do you think you did particularly well in your baseline report? (Artefacts generated in the baseline process such as data, survey instruments, new or enhanced models, mappings, quotes and recordings etc etc can all be useful to other institutions, and ‘ticks in the box’ for your own project deliverables)
+Our survey of PGR students was a big success, with 169 responses from all five colleges. The survey matches well with the Vitae areas of practice categories. We also obtained rich data from our interviews and focus groups. It was helpful that our baseline research was focused on a specific level of study, so we were able to obtain an in depth look at practices among those students.
+3.
+What do you still need to know? (The baseline process often tells us more about what we don’t know than what we do – filling the gaps might be an important activity for the rest of the project)
+We don’t know when it’s best to emphasise local, department level resources and to engage with small groups, and when it’s best to encourage people to use frameworks that are at higher levels (college, institution, regional training agreements, national, and international resources).
+We know that PGRs want more information about training and digital tools being used outside of their discipline, we don’t know the methods they would comfortably take towards it. We also could do more work examining the barriers and possibilities in the institution around this.
+More could be known about good practices in terms of digital literacy in our institution. Specifically, are there any good examples of practice that exist where students are encouraged to cascade skills, and can they be built on?
+4.
+How has project thinking and/or planning changed as a result of the baseline process?
+One big realization from the baseline process is that a lot of the technology use is actually quite similar across the colleges- there might be less departmental differences than one might imagine. So, this means that we could focus more on building generic resources than we may have thought previously.
+April 19th, 2012 |
+Posted by: Nicole Allison McMurray |
+Category: Uncategorized |
+One comment
+Case studies in digital literacy development
+Now that we have a full house of postgraduate researchers working with us it feels as though the project is really making progress. Each intern is contributing different talents and ideas to the group meetings, from which we will be producing a number of briefing papers for researchers on the theme of using digital technologies effectively in the research process. However, the main effort for all of the interns is their personal case study, and these are proving a fascinating set. From new conceptual approaches to visualising course content, through embedding digital skills into third year modules, to supporting new arrivals, the range is broad. I’m as impressed with the commitment to and thoughtfulness about teaching as I am with the technical skills our interns share. We are trying to ensure that the case study interventions have the maximum possible impact given the limited number of hours available and the fact that all our interns are working to complete their own PhDs as a priority.
+Watch this space for more on case studies and a couple of big events we have coming up.
+March 24th, 2012 |
+Posted by: Helen Beetham | Tags: case studies, digital research, interns, researchers, teaching |
+Category: Uncategorized |
+Leave a comment
+Older Entries »
+Tagsacademic development
+Apple
+baselining
+bring your own device
+bring your own service
+BYOD
+BYOS
+case studies
+cluster
+conversations
+data visualisation
+digital literacy
+digital research
+digital researchers
+digital scholarship
+education
+engagement
+hardware provision
+hybrid activities
+interns
+iPad
+jisc
+learning
+learning skills
+PGR seminar series
+practices
+professionals
+profiles
+questions
+researchers
+skills
+skills development
+social media
+start-up meeting
+stories
+students
+study
+subject disciplines
+support
+survey
+teaching
+technology
+terminology
+visual communication
+vitae
+Project Links Visit our Project Website
+Visit our YouTube channel
+Follow us on Twitter
+Browse bookmarks on Delicious
+Admin
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.org
+Copyright © 2017 Exeter CASCADE - All Rights ReservedPowered by WordPress · Atahualpa Theme by BytesForAll

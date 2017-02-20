@@ -1,0 +1,106 @@
+Digitising the York Cause Papers | funded by the JISC eContent programme 2011
+Digitising the York Cause Papers
+funded by the JISC eContent programme 2011
+Skip to content
+HomeAboutFor researchFor teachers
+← Older posts
+Project draws to an end
+Posted on September 1, 2011 by yorkcausepapers
+We now come to the end of the Cause Paper Project blog – at least as far as blogging about project progress. The Cause Papers have been imaged, the main series 1500-1799 have been processed into their delivery formats and are now being uploaded and linked to the catalogue. One of the most interesting and useful things we have learnt from the project is that whilst imaging can be rapid, the processing of the imaging cannot keep pace due to the restriction placed by the speed the server can deal with images. It now seems likely that the main series of Cause Papers, CP.G, CP.H., CP, I. will be launched, linked from the catalogue, early in November 2011.
+After that, additional material can be processed and added.
+To find out what’s available keep checking
+http://www.york.ac.uk/library/borthwick/projects-exhibitions/church-court-records/
+Posted in Progress, Uncategorized, workflow
+|
+Tagged progress, technical work
+|
+Leave a comment
+Cause Paper Colloquium
+Posted on August 30, 2011 by yorkcausepapers
+The Cause Paper Colloquium brought together representatives from ten archives who hold church court records from various of the historic diocese of England, along with historians who have worked on similar records and who have a general interest in digital research resources.
+During the day we heard from professor Bill Sheils who spoke about the richness of Church Court records and his thoughts about the value of getting the material out there – without worrying too much in the first instance about intermediary interpretation for the user. Then Diane Ranyard gave us a undergraduate-eye view of how the digital resources, the cause paper catalogue, is perceived and used for research. Following this the two project managers who have worked on cause paper digitisation, spoke about their experiences. Dr Philippa Hoskin took the theme ‘Too Much Information?’ to talk about the process of creating a database resource which could support scholarly research. Sara Slinn too the theme ‘Too Little Time?’ to discuss the challenges of rapid digitisation. The day concluded with a fruitful round table discussion about the challenges of dealing with church court records including a discussion about how pre-existing lists could be repurposed and integrated into a consolidated catalogue which covered multiple dioceses.
+Posted in Uncategorized
+|
+Tagged dissemination; catalogues
+|
+Leave a comment
+Sharing Outputs
+Posted on July 25, 2011 by yorkcausepapers
+On 27 July we will be joined by representatives from a number of archives holding related archive material for a colloquium ‘Cause Papers Unwrapped’. The day will be opened by Professor Bill Sheils, who will be talking about the significance of the records of the church courts for scholarship in general. We will also be welcoming Diane Ranyard of Lincoln University, who will be giving an undergraduate researcher’s eye view of what makes this digitial resource useful – and how it could be better suited to undergraduate use. The project managers of both the Cause Paper Projects, the Andrew W Mellon funded cataloguing project, and this present JISC funded imaging project, will be talking about how the projects were built and delivered: sharing what worked, what didn’t, what we’d do differently if we did it again, and what we’ve done that we hope can be re-used and developed by other archives. In the afternoon we shall be having a round-table discussions discussing the challenges of making this type of material available to the whole spectrum of interested user groups.
+Posted in Uncategorized
+|
+Leave a comment
+Putting it all together
+Posted on July 21, 2011 by yorkcausepapers
+As we get into the final days of the project things are coming together. All the imaging specified in the project has been completed – although how much of the content will be fully ingested into the Digital Library waits to be seen. Work continues on making the derivative images for delivery, and about 4000 images (and rising) have now been ingested into Fedora. We have the list of catalogue records and know how they are going to be linked to the images stored in Fedora.  We’ve made the decision to concentrate on the ingest rather break this off and tie up other loose ends. The page-turning solution (not part of this project, but being developed simultaneously for the Digital Library) will be delivered by the end of the project but, as this project will be its first actual implementation, there will be a bit of installation work to do there.
+However, things do seem to be coming together and we will have some samples of content to show to those people coming to the Colloquium next Wednesday.
+Posted in Progress
+|
+Leave a comment
+Cause Paper Digitisation in pictures
+Posted on June 30, 2011 by yorkcausepapers
+We’ve been very fortunate to have two photographers working with us on the project. This week Katrina Zerilli has been taking some time to document the project in picture.
+A typical page from a 17th century cause paper.
+One of the copy-stand imaging stations
+A few of the court books volumes, still in original bindings, are too fragile for this project to tackle.
+A cause paper bundle. Note the marginal annotation.
+A booklet type cause paper - a typical format for the main series.
+Imaging of flat sheet material
+Some of the 19th century cause papers are folded in three making little fat bundles which do not lie flat easily. Using the SMA 21 scanner (background) the bundles usually open flat enough that the scanner's gentle flattening action can take a good image.This view of the strongrooms shows the rows of cause papers. If you look carefully you can see little white stickers on the boxes which show which have been completed. It's very motivational to see more and more stickers as the weeks go by.
+Posted in Equipment, Progress, Uncategorized, workflow
+|
+Leave a comment
+Derivative copies
+Posted on June 20, 2011 by yorkcausepapers
+This week we are beginning the process of creating the derivatives that will be used for service delivery and archiving, from the master TIFF image files.
+The York Digital Library team have created a script that will take each directory and make the derivatives (jpeg2000,  jpg (medium), preview image and thumbnails) as well as transferring the TIFF to a different location for archiving, with a mirrored directory structure. The file structure has been created to reflect the dates of image creation and the identity of the team creating them which will help us easily keep track of what’s where at this stage in the project.
+There’s a little bit of housekeeping work to be done first – making sure that the folder and file names do not contain any spaces or alphanumeric characters (, ), *, & etc. Hopefully by the end of the week we’ll have run the script on a few folders and will be able to estimate the time needed to make all the derivatives, and if necessary add some more machine resource to the operation.
+Posted in Progress, workflow
+|
+Leave a comment
+UROS project gets under way
+Posted on June 13, 2011 by yorkcausepapers
+Last week the UROS project, based at the University of Lincoln, got underway. Student Diane Ranyard is collecting Cause Paper data to support the project ‘Geography, gender and reputation in the Church Courts of York 1400-1550’,  which is looking at medieval defamation cases in the church courts at York. Diane is working with Dr Philippa Hoskin, senior lecture at Lincoln University. Whilst the images of the document are not actually up on-line yet, the catalogue metadata can be searched and, where we have already imaged the papers, we will provide the UROS project with copies.
+The project blog is at http://blogs.lincoln.ac.uk/08131319/activity/.
+Posted in research use, teaching use, Uncategorized
+|
+Leave a comment
+← Older posts
+Search for:
+Recent Posts
+Project draws to an end
+Cause Paper Colloquium
+Sharing Outputs
+Putting it all together
+Cause Paper Digitisation in pictures
+Recent Comments
+Anonymous on Welcome to the Project
+Archives
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+Categories
+18th century
+Equipment
+medieval records
+Progress
+quality control
+research use
+teaching use
+Uncategorized
+workflow
+Meta
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.com
+Digitising the York Cause Papers
+Create a free website or blog at WordPress.com.
+Digitising the York Cause Papers
+Blog at WordPress.com.
+Post to
+Cancel

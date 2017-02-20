@@ -1,0 +1,63 @@
+WebHome < KeCrisOar < TWiki
+TWiki> KeCrisOar Web>WebHome (2011-07-11, MikaelElbaek) EditAttach
+Welcome to the Knowledge Exchange
+CRIS-OAR metadata interoperability project
+The Knowledge Exchange collaboration between DEFF, DFG, JISC and SURF has initiated this project to increase the practical interoperability between CRIS ( Current Research Information Systems) and OAR (Open Access Repositories) systems by defining and proposing a metadata exchange format for publication information with an associated common vocabulary – and thus contributing to:
+Making metadata input more efficient
+Avoiding or reducing duplicated inputs on the two platforms
+Increasing metadata quality, reliability and reusability
+Increasing quality level of services based on these metadata
+Reducing costs of metadata handling and exchange
+Project workspace
+ProjectParticipants
+ProjectMeetings
+ProjectPlan - Data and Work in progress
+Project Documents and Presentations
+Documentation of the KE CRIS-OAR format
+We are inspired by!
+KeCrisOar Web Utilities
+- advanced search
+WebTopicList - all topics in alphabetical order
+WebChanges - recent topic changes in this web
+WebNotify - subscribe to an e-mail alert sent when topics change
+WebRss, WebAtom - RSS and ATOM news feeds of topic changes
+WebStatistics - listing popular topics and top contributors
+WebPreferences - preferences of this web
+Edit | Attach | Print version | History: r13 < r12 < r11 < r10 < r9 | Backlinks | Raw View | Raw edit | More topic actions
+Topic revision: r13 - 2011-07-11 - MikaelElbaek
+KeCrisOar
+Log In or Register
+KeCrisOar Web
+Create New Topic
+Index
+Search
+Changes
+Notifications
+Statistics
+Preferences
+Webs
+Aleph
+AppForDtuDigitalLibrary
+DADS
+DEFFDataWells
+DTUBiblioteksForum
+DTUForskningsregistrering
+DTUMatchExpertBase
+DTUinformationsforsyning
+DTV_ITS
+DanskOAnetvaerk
+DataManagementWorkshop
+DeffORCID
+KeCrisOar
+Main
+ORCIDatDTU
+OpenAccessBarometer
+OpenAccessDTU
+OrbitFusion
+PrimoDeepSearch
+Sandbox
+SysopTest
+TWiki
+VidenskabeligInformationsforsyning
+Copyright © 2008-2017 by the contributing authors. All material on this collaboration platform is the property of the contributing authors.
+Ideas, requests, problems regarding TWiki? Send feedback

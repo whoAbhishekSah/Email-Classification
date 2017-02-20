@@ -1,0 +1,139 @@
+XCRI-CAP
+Promoted sitesCurrently selected
+Teesside University
+About us
+Alumni
+Business
+Contact and find us
+Research
+Studying here
+Promoted sites
+IT Help Centre
+Public Documents
+Quality
+External examiners
+Programme Catalogue
+My account
+Promoted sites
+It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+Army careers clinic drop-in
+21 February 2017 - 21 February 2017, . : Come along and talk to us for an overview of the opportunities, challenges and diverse career streams available ...
+Find out more >>>
+Undergraduate open day, 2017 start
+25 February 2017 - 25 February 2017, . : If you are still considering which course to study at which university this September, it's not too late. Come ...
+Find out more >>>
+Fad Diets
+28 February 2017 - 28 February 2017, . Clarendon building 1st floor landing area: Part of Body Confidence week, this is an interactive pop up stall, with ...
+Find out more >>>
+Healthy heart checks
+23 February 2017 - 23 February 2017, . : Healthy heart checks
+Find out more >>>
+Writing a literature review
+27 February 2017 - 27 February 2017, . : Don't know where to start with writing your literature review?
+Find out more >>>
+Film evening - Carol
+23 February 2017 - 23 February 2017, . The Curve T0.02: The first of two films organised as part of LGBT History Month.
+Find out more >>>
+CVs
+22 February 2017 - 22 February 2017, . : Do you need advice on preparing your CV?
+Find out more >>>
+Mindful Eating
+27 February 2017 - 27 February 2017, . Centre for Enterprise room 0.39a: Do you regularly eat your lunch while sitting at a computer?
+Find out more >>>
+What makes a good sentence? (Bitesize)
+22 February 2017 - 22 February 2017, . : Do you want to improve your writing by creating well-constructed sentences? Have you ever received feedback that ...
+Find out more >>>
+Presentation on Design Opportunities by Middlesbrough Environment City
+22 February 2017 - 22 February 2017, . : Middlesbrough Environment City have two fantastic opportunities for University Volunteers.
+Find out more >>>
+Basics of research ethics
+22 February 2017 - 22 February 2017, . Phoenix Building G.13: This is an introductory session on research ethics aimed at both staff and students. The ...
+Find out more >>>
+Blogging and creating content
+21 February 2017 - 21 February 2017, . Teesside Launchpad, Victoria Building: Blog writing and content creation are important marketing tools for your ...
+Find out more >>>
+Volunteering Fair
+20 February 2017 - 20 February 2017, . : Want to have fun and help your local community?
+Find out more >>>
+Body confidence video drop-in session
+27 February 2017 - 27 February 2017, . The Curve room T2.09, 2nd floor: Part of Body Confidence week. We would love you to pop along to one of our video ...
+Find out more >>>
+How to use references
+20 February 2017 - 20 February 2017, . : This session follows on from the Introduction to Harvard referencing workshop and will improve your skills in ...
+Find out more >>>
+Boro Angels taster session
+25 February 2017 - 26 February 2017, . Crossroads Community Caf (attached to Methodist Church), opposite the former pub The Crown, Borough Road, Middlesbrough ...
+Find out more >>>
+Volunteer with Citizens Advice and Sanctuary Supported Living
+22 February 2017 - 22 February 2017, . : Citizens Advice
+Find out more >>>
+Report writing
+23 February 2017 - 23 February 2017, . : Have you been asked to write a report and you're not sure how to get started? This workshop will introduce you ...
+Find out more >>>
+SciFinder Training Session
+21 February 2017 - 21 February 2017, . : Teesside University recently subscribed to <a href="http://libguides.tees.ac.uk/az.php?a=s&q=scifinder">SciFinder</a>, ...
+Find out more >>>
+Focus on Body Confidence
+27 February 2017 - 27 February 2017, . Centre for Enterprise room 0.39a: Part of Body Confidence week.
+Find out more >>>
+In this section
+Sites
+External ExaminersIT Help CentrePublic Documents LibraryProgramme CatalogueSchool of Science & EngineeringXCRI-CAP ProjectCurrently selected
+Global Menu
+Log in to my account
+Teesside University (WWW)
+About us
+Alumni
+Business
+Contact and find us
+Research
+Studying here
+Promoted sites
+External examiners
+IT Help Centre
+Programme Catalogue
+Public Documents
+Promoted sitesXCRI-CAP
+XCRI-CAP
+Page Content​Teesside University XCRI-CAP
+Project BlogThe University is seeking to establish a simplified way of delivering, to its
+various audiences, key information which currently resides in at least three
+separate management information systems within the University. The key aim of
+this project is to facilitate a systemic change to the way in which data is
+collected, updated and maintained.  The project will establish the means to
+link the three sources of course and student information (Course Information
+database on the website, the programme specifications database and SITS (Student
+Administration data) to provide XCRI-CAP output.The project will contribute to a number of the University’s strategic
+objectives. Improved marketing information will contribute to improved student
+recruitment. High quality, in-time published information will enhance the
+applicant and student experience, fulfil external quality assessment
+requirements and support public accountability. The project will also enable the
+University to streamline business processes, thereby contributing to our
+efficiency programme. The impact of these changes will be assessed as part of
+the internally defined Project Review process, which takes place three months
+after project completion.  This work will deliver access via the website to information at course level
+for potential enquirers, current students and key stakeholders and provide the
+ability to interrogate data systems. 30/01/2012 - JISC Course Data Mailing List
+JISC and colleagues in other institutions regularly supply updates on Course Data related work. You can join the JISC Course Data Mailing List by clicking on this
+link. The link is also available on the Blog Home page. 30/01/2012 - January Update
+Welcome to the January update for the Course Data project.
+This month has seen initial discussions centred on making the Programme Catalogue system
+XCRI-CAP compatible. Colleagues from ICT Systems MIS team and Academic Registry have worked together to identify areas of improvement within the Programme Catalogue. These improvements will facilitate wider adoption of the Programme Catalogue.
+Among the improvements identified are restricting data entry to enable format free text, increasing the number and size of attachments, improving overall performance of the application and completing the linking of data between the Student Records system (SITS) and the Programme Catalogue. Analysis and specification of this work has already started and is expected to be complete and ready for development during February 2012. In addition to the work for changes to the course data source systems, a number of actions are required as part of our commitments to JISC, including the creation of the Blog you are currently reading. Colleagues from the Project Board have worked together to produce those documents required to be submitted to JISC for the end of this month, including the Stage 1 Completion, FOI statement and JISC Website documents. 01/06/2011 - The Teesside University Project TeamBelow you can find the contact details of the Project Team assigned to the Course Data: Making the most of course information - Stage 2 project. Michael Gettings, Project Manager, M.Gettings@tees.ac.uk ​Stephen Waterhouse, ICT Systems Senior Analyst, S.C.Waterhouse@tees.ac.uk  Martin Mazonas, Registry Projects Development Manager, M.Mazonas@tees.ac.uk  Danny Honeyman, Marketing and Student Recruitment Creative Web Developer,
+D.Honeyman@tees.ac.uk  Brian McNamara, ICT Systems Principal Developer, B.McNamara@tees.ac.uk Mike Tompkins,  ICT Systems Senior Analyst (DBA), M.Tompkins@tees.ac.uk  Liz Jowett, ICT Systems Senior Analyst, E.Jowett@tees.ac.uk Matt Hudson , Marketing and Student Recruitment Assistant Web Developer,
+M.Hudson@tees.ac.uk ​Links
+JISC Course Data Mailing List
+XCRI Knowledge Base
+Middlesbrough
+Tees Valley
+TS1 3BX
+Travel directions
+T: +44 (0) 1642 218121
+E: Enquiries
+E:
+International enquiries
+© 2004-2017 Teesside University
+Legal statements
+Freedom of information
+Cookies
+Accessibility

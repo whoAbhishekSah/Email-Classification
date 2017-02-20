@@ -1,0 +1,171 @@
+Memex 1.1 | John Naughton’s online diary
+Memex 1.1
+John Naughton’s online diary
+Search
+Main menu
+Skip to primary content
+Skip to secondary content
+HomeEssays, reviews and longer pieces
+Lectures, talks & interviews
+About me
+Post navigation
+← Older posts
+And the USA’s greatest cybersecurity vulnerability is… its President
+Posted on February 19, 2017
+by
+jjn1
+This morning’s Observer column:
+My favourite image of the week was a picture of the Queen opening the National Cyber Security Centre in London. Her Majesty is looking bemusedly at a large display while a member of staff explains how hackers could target the nation’s electricity supply. The job of the centre’s director, Ciaran Martin, is to protect the nation from such dangers. It’s a heavy responsibility, but at least he doesn’t have to worry that his head of state is a cybersecurity liability.
+His counterpart in the United States does not have that luxury…
+Read on
+Posted in Observer, Security
+Can Zuck fix it?
+Posted on February 18, 2017
+by
+jjn1
+Astute comment from Dave Pell on Mark Zuckerberg’s epistle to his believers:
+Earlier this year, as he set out to visit all fifty states, speculation swirled that Mark Zuckerberg might be considering a future run for president. Of course, that theory brings up an obvious question: Why would he want the demotion? He already runs a virtual nation with a population that’s headed towards the two billion mark. But like the physical country in which he resides, there is a growing divide in Zuckerberg’s online community about the role of globalization. “Facebook stands for bringing us closer together and building a global community. When we began, this idea was not controversial.” It is now. And the Internet that was designed to bring us all together may in fact be driving us further apart. As I’ve mentioned before, the open communication network we thought we were building turned into a hunting ground for trolls and spammers; unavoidable because of our ferocious addiction to our mobile screens. Social media evolved into a confirmation bias-riddled cesspool of lies, hate, and totally unrealistic versions of our lives; which would gradually amount to little more than weightless collections of Retweets and Likes. And somehow – with more tools to connect than ever before — we made our lives less diverse; racially, politically, and culturally; each of us left to sink in the quicksand that lines the thickening walls of our silos of homogeneity. So we’re left with a question. Can Zuck fix it?
+Answer: of course not. But pause for a moment to think about what lies behind this. One way of viewing it is to find Zuckerberg’s naïveté touching. Aw, shucks, what a sweet guy. But a more sceptical way of viewing it would be to read his epistle as a proposition for Facebook becoming the Internet. In other words: the world wide Internet has become a nasty, unsafe place. But we can make Facebook a warm cosy place. So why not give up on the public Internet and come inside where it’s safe?
+Posted in Politics
+The madness of King Donald – contd.
+Posted on February 18, 2017
+by
+jjn1
+This interesting letter from a psychiatrist in the New York Times:
+Most amateur diagnosticians have mislabeled President Trump with the diagnosis of narcissistic personality disorder. I wrote the criteria that define this disorder, and Mr. Trump doesn’t meet them. He may be a world-class narcissist, but this doesn’t make him mentally ill, because he does not suffer from the distress and impairment required to diagnose mental disorder.
+Mr. Trump causes severe distress rather than experiencing it and has been richly rewarded, rather than punished, for his grandiosity, self-absorption and lack of empathy. It is a stigmatizing insult to the mentally ill (who are mostly well behaved and well meaning) to be lumped with Mr. Trump (who is neither).
+Bad behavior is rarely a sign of mental illness, and the mentally ill behave badly only rarely. Psychiatric name-calling is a misguided way of countering Mr. Trump’s attack on democracy. He can, and should, be appropriately denounced for his ignorance, incompetence, impulsivity and pursuit of dictatorial powers.
+His psychological motivations are too obvious to be interesting, and analyzing them will not halt his headlong power grab. The antidote to a dystopic Trumpean dark age is political, not psychological.
+ALLEN FRANCES
+Coronado, Calif.
+The writer, professor emeritus of psychiatry and behavioral sciences at Duke University Medical College, was chairman of the task force that wrote the Diagnostic and Statistical Manual of Mental Disorders IV (D.S.M.-IV).
+Posted in Politics
+King Donald’s press conference
+Posted on February 17, 2017
+by
+jjn1
+Lovely report from Dave Pell:
+TRUMPSTER FIRE
+This weekend, Saturday Night Live should just replay the entire press conference delivered by President Trump on Thursday. It was beyond parody and made one thing clear: There’s not gonna be a Trump pivot. In an unhinged performance rivaled only by Marlon Brando’s Kurtz in Apocalypse Now, the president attacked the media, repeated bizarrely false statements about his electoral win, asked a black reporter if she could set up a meeting with the black congressional caucus (“Are they friends of yours?”), continually claimed Mike Flynn did nothing wrong (“I don’t think he did anything wrong. If anything, he did something right”), described himself as “the least antisemitic person you’ve ever seen in your life” and “probably the least racist,” gave a quick course on uranium, insisted his administration is “running like a fine-tuned machine,” referred over and over to the election and Hillary Clinton, decried the nonstop fake news (“The leaks are real, the news is fake”) without hinting at what was fake about it, and actually said, “I can handle a bad story better than anybody.” This press conference should be required viewing for every American. Even Fox News couldn’t restrain their initial reaction. A few times during the press conference, people in the room laughed. This is no laughing matter. At the risk of plagiarizing the president, this situation is a total disaster. And I know, I know, forty percent of Americans will think the presser was a bigly success. But the rest of just got a serious case of PTSD: President Trump Stress Disorder.
+Like I said: the US elected a flake of Cadbury proportions.
+Posted in Politics
+More on Trump’s state of mind
+Posted on February 16, 2017
+by
+jjn1
+Apropos an earlier post, here’s Elizabeth Drew writing in the New York Review of Books:
+Trump’s possible mental deficiencies are also a troubling question: serious medical professionals suspect he has narcissistic personality disorder, and also oncoming dementia, judging from his limited vocabulary. (If one compares his earlier appearances on YouTube, for example a 1988 interview with Larry King, it appears that Trump used to speak more fluently and coherently than he does now, especially in some of his recent rambling presentations.) His perseverating about such matters as the size of his inauguration crowd, or the fantasy that three to five million illegal voters denied him a popular vote victory (he got these estimates from a dodgy source who has yet to offer documentation), or, as he told CIA employees, the number of times he’s been on the cover of Time (sometimes inflating the actual number) has become a joke, but it also suggests that there may be something troubling about his mental state. Numerous eminent psychologists and psychiatrists have written about or expressed their concerns about Trump’s mental stability.
+Another puzzling thing: many of Trump’s tweets have a slightly pathetic tone — things are “so sad”, “so so unfair”, etc.
+It’d be interesting to do a sentiment analysis of his Twitterstream. Hmmm…
+Posted in Politics
+What the EU achieved
+Posted on February 12, 2017
+by
+jjn1
+From the historian Mark Mazower, writing in this weekend’s Financial Times:
+“The European Union emerged out of the the second world war with one main goal: to ensure the peace.
+It has done the job so well that many Europeans now assume peace can look after itself.
+The same war turned the US into the world’s leading power, the creator of global institutions and norms.
+President Donald Trump’s executive order banning immigration from seven Muslim countries underscores his intent to turn his back on this role.
+The war on terror will trump international obligations to refugees; outright discrimination will trump both.”
+Posted in Politics
+Why (and how) journalism has to change
+Posted on February 12, 2017
+by
+jjn1
+This morning’s Observer column:
+Let us pause for a moment to mourn the passing of Hans Rosling , one of the most gifted and humane educators of our age. He was professor of global health at Sweden’s prestigious Karolinska Institute and became famous when he gave a spectacular TED talk in 2006 using global data to show how the world had changed during the 20th century. Rosling specialised in devising striking ways of visualising statistical data and in using computers to provide animations showing, for example, how child mortality, family income and so on changed over time. But what probably clinched his fame was the way he talked his audience through the evolving worldview with a manic energy reminiscent of Newsnight’s Peter Snow and his general election night “swingometer”.
+Rosling’s untimely death (from cancer) seems particularly poignant at this moment in our history, because he was such a fervent believer in the idea that we could find illumination, if not salvation, in facts. In that respect, he reminded me of the late David MacKay, another gentle polymath, who was for a time the chief scientific adviser to the Department of Energy and Climate Change. At a lecture following the publication of his book, Sustainable Energy – Without the Hot Air, he was assailed by an angry environmentalist who asked him why he was “so hostile” to wind power. MacKay smiled sweetly and replied: “I’m not hostile to anything. I’m just in favour of arithmetic.”
+I thought about Rosling and MacKay a lot last week as the “fake news” crisis deepened…
+Read on
+Posted in Observer, Politics
+The real problem with Trump
+Posted on February 11, 2017
+by
+jjn1
+A while back I looked up the Mayo Clinic’s list of the symptoms and causes of ‘Antisocial Personality Disorder’ (aka sociopathy). Here are some of them:
+Disregard for right and wrong
+Persistent lying or deceit to exploit others
+Being callous, cynical and disrespectful of others
+Using charm or wit to manipulate others for personal gain or personal pleasure
+Arrogance, a sense of superiority and being extremely opinionated
+Recurring problems with the law, including criminal behavior
+Repeatedly violating the rights of others through intimidation and dishonesty
+Impulsiveness or failure to plan ahead
+Hostility, significant irritability, agitation, aggression or violence
+Lack of empathy for others and lack of remorse about harming others
+What was striking about the list, I thought, is how many of the boxes Trump seemed to tick. What was even more striking, though, was that there seemed to be no mention of this in the mainstream media. In part this was probably due to the reluctance of the American professional associations to get involved in the remote diagnosis of prominent public figures. But still, given Trump’s extraordinary behaviour, the absence of discussion of the president’s mental health seemed odd.
+Which is why I was pleased to see that Andrew Sullivan has ventured where others apparently fear to tread. Here’s an excerpt from his new column, entitled “The Madness of King Donald”.
+Then there is the obvious question of the president’s mental and psychological health. I know we’re not supposed to bring this up — but it is staring us brutally in the face. I keep asking myself this simple question: If you came across someone in your everyday life who repeatedly said fantastically and demonstrably untrue things, what would you think of him? If you showed up at a neighbor’s, say, and your host showed you his newly painted living room, which was a deep blue, and then insisted repeatedly — manically — that it was a lovely shade of scarlet, what would your reaction be? If he then dragged out a member of his family and insisted she repeat this obvious untruth in front of you, how would you respond? If the next time you dropped by, he was still raving about his gorgeous new red walls, what would you think? Here’s what I’d think: This man is off his rocker. He’s deranged; he’s bizarrely living in an alternative universe; he’s delusional. If he kept this up, at some point you’d excuse yourself and edge slowly out of the room and the house and never return. You’d warn your other neighbors. You’d keep your distance. If you saw him, you’d be polite but keep your distance.
+I think this is a fundamental reason why so many of us have been so unsettled, anxious, and near panic these past few months. It is not so much this president’s agenda. That always changes from administration to administration. It is that when the linchpin of an entire country is literally delusional, clinically deceptive, and responds to any attempt to correct the record with rage and vengeance, everyone is always on edge.
+There is no anchor any more. At the core of the administration of the most powerful country on earth, there is, instead, madness.
+Yep.
+Posted in Politics
+The education gap and its implications
+Posted on February 6, 2017
+by
+jjn1
+In October last year, my colleague David Runciman wrote a sobering piece in the Guardian under the headline “How the education gap is tearing politics apart”. His starting point was an observation in The Atlantic in March 2015 that the best single predictor of Trump support in the Republican primary was the absence of a college degree.
+“The possibility that education has become a fundamental divide in democracy”, he wrote,
+with the educated on one side and the less educated on another – is an alarming prospect. It points to a deep alienation that cuts both ways. The less educated fear they are being governed by intellectual snobs who know nothing of their lives and experiences. The educated fear their fate may be decided by know-nothings who are ignorant of how the world really works. Bringing the two sides together is going to be very hard. The current election season appears to be doing the opposite.
+Trump continues to poll far ahead of Clinton among voters who did not go to college, while Clinton still leads by a considerable margin among college graduates. This is a significant change from 2012, when the picture was far more mixed. Four years ago, the college-educated vote was almost evenly split, with graduates favouring Obama over Romney by a narrow margin, 50 to 48. Recent polling puts Trump’s lead over Clinton among white men without a college degree at a sobering 76 to 19.
+Turning then to Brexit, David observed that:
+Voters with postgraduate qualifications split 75 to 25 in favour of remain. Meanwhile, among those who left school without any qualifications, the vote was almost exactly reversed: 73 to 27 for leave. A report from the Joseph Rowntree Foundation last month confirmed that “educational opportunity was the strongest driver” of the Brexit vote. Again, there were plenty of other factors at work – including a significant generational divide. Older voters were far more likely to vote leave, which partly helps to explain the education gap, since the rapid expansion of higher education in recent decades means older voters are also much less likely to have attended university. But the Rowntree report concludes that educational experience was the biggest single determinant of how people voted. Class still matters. Age still matters. But education appears to matter more.
+Now from the BBC comes a more localised breakdown of votes from nearly half of the local authorities which counted EU referendum ballots last June. Among the findings are:
+Confirmation that local results were strongly associated with the educational attainment of voters – populations with lower qualifications were significantly more likely to vote Leave. (The data for this analysis comes from one in nine wards); and
+The level of education had a higher correlation with the voting pattern than any other major demographic measure from the census.
+And if you wanted a vivid graph of this, here’s the correlation diagram:
+This is really sobering stuff. It shows, in a picture, why a failure to invest in education and tackle educational underachievement eventually imposes massive social costs (possibly including the breakdown of democracy). It’s not rocket science, either. In an information economy, people who are poorly educated are always going to find it hard to find employment. And when they do it will be in precarious, exploitative, under-paid jobs. No wonder they voted the way they did — for the first charlatan who came along and said he could fix it.
+Posted in Politics
+Understanding what happened
+Posted on February 6, 2017
+by
+jjn1
+From an extraordinary essay by Jedediah Purdy in The New Republic:
+We know from our everyday lives that much of our decision-making is not entirely rational. But Trump has played on a deep sense of unreality about the political process. His candidacy reflected the peculiar idea that someone “strong” and “smart” could singlehandedly master a complex world, untangle the politics of the Middle East and the South China Sea, renegotiate trade agreements, and see behind the obfuscations of intelligence agencies. This is a bizarre view of what it means to act in politics. It combines the epistemic amateurism of the conspiracy theorist with the virtual self-assertion of a first-person-shooter video game. It is an approach to politics tailored to people for whom politics is a domain of fantasy.
+And this:
+It is perfectly clear that both economic inequality and racism fueled support for Trump. Only the left is equipped to explain how these two factors are entangled, by looking at the experience of life under capitalism. In this economy, most people lack important forms of security and control over their lives. They answer to bosses, who answer to investors, who answer to global flows of goods and capital. As Marx pointed out long ago, the system assigns the roles, and people fill them. An investor need not be a greedy person, nor a boss a bossy one; but if they do not maximize returns in the face of competition, they will be replaced by someone who will try harder, so they had better be prepared to act greedy, or bossy, or—in the case of the line worker—diligent and subservient.
+When no one talks about how the system itself produces economic insecurity and a loss of control, scapegoating falls on the groups and individuals closest at hand. Immigrants particularly get scapegoated because often they are willing to take low-paying jobs or lack legal authorization to work. When no one in politics talks about brutal economic realities—including a merciless and de-unionized labor market, the unfettered mobility of capital, and the investor-driven imperative to squeeze every possible “efficiency” out of people—then your competitor for wages on the building site becomes the only economic rival you can actually see. Racism and xenophobia are not merely symptoms of economic anxiety, and are not to be morally or politically excused on account of hard times. But they are likely to be stronger and more politically effective when there appears to be no other way for people to address their sense of helplessness.
+Posted in Politics
+Post navigation
+← Older posts
+February 2017
+M
+T
+W
+T
+F
+S
+S
+« Jan
+12345
+6789101112
+13141516171819
+20212223242526
+2728
+Blogroll
+Archive of recent ‘Observer’ columns
+Bill Thompson
+Brian’s Flickr photostream
+Eben Moglen
+Edge.org
+Ian Yorston
+Martin Weller
+My Flickr photostream
+My LightStalkers gallery
+Nicholas Carr
+Ray Corrigan
+Status-Q
+Tony Hirst
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+Recent Posts
+And the USA’s greatest cybersecurity vulnerability is… its President
+Can Zuck fix it?
+The madness of King Donald – contd.
+King Donald’s press conference
+More on Trump’s state of mind
+Powered by WordPress

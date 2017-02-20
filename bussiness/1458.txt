@@ -1,0 +1,184 @@
+eLife
+About
+Careers
+Labs
+Submit
+Search
+Research articles
+Short reports
+Tools and resources
+Research advances
+Reproducibility Project
+Editorials
+Insights
+Features
+Podcasts
+Collections
+eLife News
+Early-career researchers
+Working Lives
+All categories
+Biochemistry
+Biophysics and Structural Biology
+Cancer Biology
+Cell Biology
+Computational and Systems Biology
+Developmental Biology and Stem Cells
+Ecology
+Epidemiology and Global Health
+Genes and Chromosomes
+Genomics and Evolutionary Biology
+Human Biology and Medicine
+Immunology
+Microbiology and Infectious Disease
+Neuroscience
+Plant Biology
+Go to research articles
+A lack of continuity in DNA replication Read more
+Research Article
+Mimicry complex deters predators
+Research Article
+Active circuits from spinal neurons made from stem cells
+Feature Article
+Birth, death and evolution
+Insight
+Chromatin mapping: A cut above
+Insight
+Optogenetics: Slow motion and serotonin
+CAREERS
+Working lives: Core strengths and skills
+Latest research
+SubjectsBiochemistry
+Biophysics and Structural Biology
+Cancer Biology
+Cell Biology
+Computational and Systems Biology
+Developmental Biology and Stem Cells
+Ecology
+Epidemiology and Global Health
+Genes and Chromosomes
+Genomics and Evolutionary Biology
+Human Biology and Medicine
+Immunology
+Microbiology and Infectious Disease
+Neuroscience
+Plant Biology
+Upcoming
+Jan
+Feb
+Archive
+Codon optimization underpins generalist parasitism in fungiCodon optimization through biased synonymous substitutions is a characteristic feature of the genomes of generalist fungal parasites and is associated with the colonization of multiple hosts.Thomas Badet
+Remi Peyraud
+Malick Mbengue
+Olivier Navaud
+Mark Derbyshire
+Richard P Oliver
+Adelin Barbacci
+Sylvain Raffaele
+10.7554/eLife.22472Short Report Genomics and Evolutionary Biology Published on February 3, 2017 Updated on February 17, 2017View in eLife Lens
+Motor control of Drosophila feeding behaviorThe neuroanatomical and functional analysis of genetically-identified motoneurons controlling all major steps of Drosophila proboscis extension provides new insights into the architecture of a motor circuitry controlling a reaching-like behavior.Olivia Schwarz
+Ali Asgar Bohra
+Xinyu Liu
+Heinrich Reichert
+Krishnaswamy VijayRaghavan
+Jan Pielage
+10.7554/eLife.19892Research Article Neuroscience Published on February 17, 2017View in eLife Lens
+Interneuronal mechanisms of hippocampal theta oscillations in a full-scale model of the rodent CA1 circuitSpontaneous theta oscillations and interneuron-specific phase preferences emerge spontaneously in a full-scale model of the isolated hippocampal CA1 subfield, corroborating and extending recent experimental findings.Marianne J Bezaire
+Ivan Raikov
+Kelly Burk
+Dhrumil Vyas
+Ivan Soltesz
+10.7554/eLife.18566Research Article Computational and Systems Biology Neuroscience Published on December 23, 2016 Updated on February 16, 2017View in eLife Lens
+Node of Ranvier length as a potential regulator of myelinated axon conduction speedNode of Ranvier length is similar at successive nodes along single myelinated CNS axons, but differs between axons, and could potentially be tuned to adjust the conduction velocity of each axon.I Lorena Arancibia-Cárcamo
+Marc C Ford
+Lee Cossell
+Kinji Ishida
+Koujiro Tohyama
+David Attwell
+10.7554/eLife.23329Research Article Neuroscience Published on January 28, 2017 Updated on February 16, 2017View in eLife Lens
+One reporter for in-cell activity profiling of majority of protein kinase oncogenesA new luciferase and fluorescent reporter system enables rapid and efficient in-cell profiling of the majority of protein kinase oncogenes known to date.Iva Gudernova
+Silvie Foldynova-Trantirkova
+Barbora El Ghannamova
+Bohumil Fafilek
+Miroslav Varecha
+Lukas Balek
+Eva Hruba
+Lucie Jonatova
+Iva Jelinkova
+Michaela Kunova Bosakova
+Lukas Trantirek
+Jiri Mayer
+Pavel Krejci
+10.7554/eLife.21536Tools and Resources Cancer Biology Cell Biology Published on February 15, 2017View in eLife Lens
+Role of protein synthesis and DNA methylation in the consolidation and maintenance of long-term memory in AplysiaBehavioral and synaptic investigations of long-term memory in Aplysia reveal differing roles for DNA methylation, protein synthesis during training and protein synthesis shortly after training with respect to memory consolidation and maintenance.Kaycey Pearce
+Diancai Cai
+Adam C Roberts
+David L Glanzman
+10.7554/eLife.18299Research Article Neuroscience Published on January 9, 2017 Updated on February 15, 2017View in eLife Lens
+An efficient targeted nuclease strategy for high-resolution mapping of DNA binding sitesCUT&RUN (Cleavage Under Targets & Release Using Nuclease) profiles antibody-targeted DNA-binding proteins in situ with high resolution and low background, providing a simple, robust and scalable alternative to chromatin immunoprecipitation.Peter J Skene
+Steven Henikoff
+10.7554/eLife.21856Tools and Resources Genes and Chromosomes Published on January 16, 2017 Updated on February 15, 2017View in eLife Lens
+PKCθ links proximal T cell and Notch signaling through localized regulation of the actin cytoskeletonT cell receptor and Notch signaling pathways are linked via a novel mechanism involving modulation of the cytoskeleton.Graham J Britton
+Rachel Ambler
+Danielle J Clark
+Elaine V Hill
+Helen M Tunbridge
+Kerrie E McNally
+Bronwen R Burton
+Philomena Butterweck
+Catherine Sabatos-Peyton
+Lea A Hampton-O’Neil
+Paul Verkade
+Christoph Wuelfing
+David Cameron Wraith
+10.7554/eLife.20003Short Report Cell Biology Immunology Published on January 31, 2017 Updated on February 15, 2017View in eLife Lens
+Accelerated cryo-EM structure determination with parallelisation using GPUs in RELION-2Using GPUs for the costly computations in cryo-EM enables structure determination in mere days on a single workstation.Dari Kimanius
+Björn O Forsberg
+Sjors HW Scheres
+Erik Lindahl
+10.7554/eLife.18722Tools and Resources Biophysics and Structural Biology Published on November 15, 2016 Updated on February 15, 2017View in eLife Lens
+Long-range projection neurons in the taste circuit of DrosophilaTaste pathways to higher brain are critical for learned responses to taste compounds.Heesoo Kim
+Colleen Kirkhart
+Kristin Scott
+10.7554/eLife.23386Research Article Neuroscience Published on February 6, 2017 Updated on February 15, 2017View in eLife Lens
+More articles
+Early in your career?
+eLife editors want early-career scientists to thrive – to receive clear and constructive input on papers, quick decisions, and great exposure. In addition to pain-free peer review, we offer early-career scientists a letter of recommendation from one of our senior editors.
+Read more about publishing with eLife
+Get eLife by email
+Stay at the forefront of your field with updates on new papers from eLife.
+Email address
+eLife is supported by
+eLife Sciences is a unique, non-profit collaboration between the funders and practitioners of research to improve the way important results are presented and shared. The open-access eLife journal is the first step in this initiative to make science publishing more effectively benefit science and scientists.
+eLife Sciences Publications, Ltd is a limited liability non-profit non-stock corporation incorporated in the State of Delaware, USA, with company number 5030732, and is registered in the UK with company number FC030576 and branch number BR015634 at the address:
+eLife Sciences Publications, Ltd
+1st Floor, 24 Hills Road
+Cambridge
+CB2 1JP
+UK
+Follow us
+Home
+About
+Submit
+Careers
+Labs
+Contact
+For the press
+Sign up for alerts
+Downloads
+Annual reports
+Who we work with
+Terms & conditions
+Privacy policy
+Research articles
+Short reports
+Tools and resources
+Research advances
+Reproducibility Project
+Editorials
+Insights
+Features
+Podcasts
+Collections
+eLife news
+© 2017 eLife Sciences Publications Ltd. Subject to a Creative Commons Attribution license, except where otherwise noted. ISSN: 2050-084X

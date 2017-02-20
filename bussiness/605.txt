@@ -1,0 +1,27 @@
+CEAD | Cambridge Engineering Analysis and Design :: Home
+ServicesProductsPortfolioTeamAboutCareersFrequently Asked QuestionsBlogContact
+Old site available here
+Thermofluids & FEA Consulting
+Fluid flow and thermal analysis using analytical and Computational Fluid Dynamics (CFD) techniques.
+Airflow and thermal verification experiments and evaluations. Dynamics and structural analysis using analytical and Finite Element Analysis (FEA) methods.
+Electronics Cooling & Thermal Management
+Thermal management design and consulting.
+Thermofluids R&D Technology Innovation
+Fluid flow and thermal technology innovation, research and development.
+CEAD has 22 years of experience of engineering analysis and design in many applications including electronics cooling, systems thermal management, medical devices, printing technology, telecommunications and IT servers and equipment.
+Project portfolioClick the images below to explore some of our past projects
+View Project
+CoERCe
+CoERCe (Combined Enegry and Carbon capture) is an ongoing internal company project to establish the feasibility of a novel polymer based carbon dioxide adsorbent for post combustion carbon capture.
+View Project
+Power PC Cool
+Pellentesque ultricies ligula vel neque dictum, eu mollis tortor adipiscing.
+View Project
+Oil Well Data Logger
+Finite Element Analysis (FEA) techniques were used to reduce costs for our client by eliminating multiple prototype build stages
+CEAD | Cambridge ENGIneering Analysis & Design
+© 2016 CEAD Ltd
+FAQ / HelpBlog
+CEAD LtdideaSpace3 Charles Babbage RoadCambridgeCB3 0GTUnited Kingdom
+Built with concrete5 CMS.
+Log in

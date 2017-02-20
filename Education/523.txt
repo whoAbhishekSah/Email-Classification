@@ -1,0 +1,60 @@
+European Elections Study Trend File - Professor Michael Marsh - Staff - Department of Political Science - Trinity College Dublin
+Skip to main content »
+Trinity College Dublin
+Search TCD
+TCD Home
+Faculties & Schools
+Courses
+Research
+Services
+Contact
+A – Z
+Skip Navigation
+Department of Political Science
+European Election Study (EES) Trend File
+This is a beta version of a set of pages explaining and making available the
+data from European Parliament election studies run in almost all EU countries in
+1989, 1994, 1999 and 2004.
+All these files are saved as Stata files.
+Also available is the   trend file "trendEES.dta". This  contains ONLY the
+variables that appear in more than one EES study (year). There is also a
+combined EES file ("combinedEES.dta"). This contains ALL of the variables from
+all four EES studies.
+These are also made available as SPSS files, but
+there are no do-it-yourself SPSS command files that combine the basic EES
+files in any way. This trend dataset can also be created by placing the four
+individual EES data files (1989, 1994, 1999, 2004) in the same working directory
+as the Stata file "trendEES.do", and then running that file. Obviously a user
+could adapt that script to produce a wider or narrower selection of variables
+within the trend file. A user can also generate this by running the script
+"trendEES.do. This puts such a file called ("combinedEES.dta") in the working
+directory.
+There is another Stata file "Political Parties Link
+File.dta". This contains within it unique party identifier codes in the Trend
+data et with corresponding codes from the CMP project, Euromanifestos, ZEUS
+codes from the Eurobarometer Trend File and PPMD dta file collected by Benoit
+and Laver.
+The EES trend file is currently in the `beta' testing mode,
+so bugs are still most likely to be present. With feedback from `beta' version
+testers these bugs can fixed quickly.
+Codebook (PDF)
+EES Trend File (STATA)
+EES Trend File (SPSS)
+Combined EES File (STATA)
+Combined EES File (SPSS)
+EES 2004
+(STATA)
+EES 2004
+(SPSS)
+EES 1999 (STATA)
+EES 1999 (SPSS)
+EES 1994 (STATA)
+EES 1994 (SPSS)
+EES 1989 (STATA)
+EES 1989 (SPSS)
+Compilation .do file (STATA)
+Political Parties link file (STATA)
+Political Parties link file (SPSS)
+Please report any bugs
+to Slava Mikhaylov
+(mikhailv@tcd.ie).

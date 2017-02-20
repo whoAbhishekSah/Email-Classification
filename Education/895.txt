@@ -1,0 +1,120 @@
+microviews – OneShare
+↓ Skip to Main Content
+OneShare
+Designing Social-Digital Systems for Learning and Research Communities
+HomeContactLinksOneshare ProjectThe Team
+Home › Archive for microviewsCategory: microviews
+MicroViews: Final Progress Post
+Posted on December 8, 2009 by mmr
+—
+No Comments ↓
+Title of Primary Project Output MicroViews: Enhancing links to resources stored in EPrints repositories with tooltips for desktop users and mobile friendly displays for iPhone and Android. Screenshots of Prototype Description of Prototype MicroViews is a plugin for the jQuery…
+Read more ›
+Posted in microviews		Tagged with: demonstrator, finalProgressPost, JISC, jiscri, microviews, output, product, progressPosts, prototype, rapidInnovation
+MicroViews: A Mixed Week
+Posted on October 2, 2009 by mmr
+—
+No Comments ↓
+MicroViews on course notes pages Now that MicroViews has been deployed on the public people pages for ECS bringing a little life to the publication lists, MicroViews has seen it’s first deployment on a online course notes page. Here we…
+Read more ›
+Posted in microviews		Tagged with: jiscri, microviews
+MicroViews: Now with Android goodness
+Posted on September 28, 2009 by mmr
+—
+No Comments ↓
+I have just released MicroViews for Android onto the development version. This is some very basic work but it is the start of the process so that I can start refining the functionality. Thanks to the fact that the Android…
+Read more ›
+Posted in microviews		Tagged with: jiscri, microviews
+MicroViews: Mobile Views & Inplace Views
+Posted on August 28, 2009 by mmr
+—
+No Comments ↓
+Summary I realize that it hasn’t been a full week since my last post but I figured I should get back into the habit of posting at the end of each week after my blogging lapse. Also I fancied keeping…
+Read more ›
+Posted in microviews		Tagged with: jiscri, microviews
+MicroViews: Mobile Views
+Posted on August 25, 2009 by mmr
+—
+No Comments ↓
+Summary It has been a little quieter on the MicroViews front recently as I have been working on other OneShare projects recently such as AllAboutMePrints and a rewrite of the Sneep plugin. But before all of this started I spent…
+Read more ›
+Posted in microviews		Tagged with: jiscri, microviews
+MicroViews: Statistics Gathering & Mobile Views
+Posted on August 7, 2009 by mmr
+—
+No Comments ↓
+Summary This week I have been working on the statistics gathering element of the system and the mobile views. Statistics Gathering It was agreed that some level of usage statistics would be generated from this project. The main reason for…
+Read more ›
+Posted in microviews		Tagged with: jiscri, microviews
+MicroViews: Script Hosting & Tooltips
+Posted on July 31, 2009 by mmr
+—
+No Comments ↓
+This week the current work that has been taking place on the MicroViews project has been setting up the script hosting and tooltips which form the first feature of MicroViews.
+Read more ›
+Posted in microviews		Tagged with: jiscri, microviews
+Microviews
+Posted on July 12, 2009 by oneshare
+—
+No Comments ↓
+The OneShare family of projects has grown again, this time through the Microviews project, one of the new JISC Raid Innovation Projects. The Microviews project aims to develop a JavaScript library that is capable of rendering a preview of an…
+Read more ›
+Posted in microviews, project management
+Recent Posts
+Student Dashboard v0.1 responsive design
+The Keywords plugin
+RedFeather: Summary of Outputs
+RedFeather: A Final Round-up
+RedFeather Impact
+Tags#altmetics
+#oneshare
+#peoplepivot
+#redfeather
+#repofringe11
+#rminhe
+#scholarlydiscourse
+#SLE
+#sneep
+#strangehypertexts
+#studash
+aims
+Atom
+bugs
+C-BASS
+CampusROAR
+copyright
+demonstrator
+development
+edshare
+Erevnametrics
+feeds
+finalProgressPost
+hypertext
+IPR
+JISC
+jiscri
+lessonslearnt
+microviews
+mod_perl
+OER
+oerri
+output
+outputs
+PANFeed
+product
+progressPosts
+prototype
+rapidInnovation
+reading.ecs
+review
+RSS
+survey
+UKOER
+white screen
+Authorsad10g08Hugh DavismmrMatt R TayloronesharePatrick McSweeneyRikki Princerw11g09Tom BlountYvonne Howard
+© 2017
+OneShare
+↑
+Responsive Theme
+powered by
+WordPress

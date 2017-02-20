@@ -1,0 +1,120 @@
+Interoperable Geographic Information for Biosphere Study
+Interoperable Geographic Information for Biosphere Study project blog
+Blog Security
+Techie
+User Reqs
+About
+INSPIRE2011
+SDI Report
+IGIBS Followon and use of Underspend
+Dec 202011
+Its a bit early to be making predictions about how IGIBS might evolve, but a recent presentation to the EDINA geoteam followed by some discussion indicated some of the possibilities. The WMS Factory Tool.  With the simple but effective styling capability that Michael Koutroumpas engineered, I think we have a prototype thats not too far […]
+Posted by Chris Higgins at 21:19 Project Management Tagged with: aberystwyth university, EDINA, iges, igibs, inspire, jisc, jiscgeo, spatial data infrastructure, wms Comments Off on IGIBS Followon and use of Underspend
+IGIBS Final Product Post
+Nov 112011
+“An INSPIREing tool enabling researchers to share their geospatial data over the web” The Open Geospatial Consortium’s Web Map Service (WMS) is a core standard underpinning many Spatial Data Infrastructures (SDI) throughout the world.  This includes INSPIRE, the UK Location Programme and our own UK academic SDI.  The WMS Factory Tool created by the IGIBS […]
+Posted by Chris Higgins at 21:26 Project Management Tagged with: DigitalInfrastructure, igibs, inf11, Innovation, jisc, jiscgeo, Product, ProductDescription Comments Off on IGIBS Final Product Post
+Licensing for blog content, source code and data
+Nov 032011
+The blog content is licensed under the Creative Commons Attribution 3.0 Unported Licence. IGIBS source code, i.e. the WMS Factory tool and the Mapping Application, is released under the modified BSD license. The full licence text will be included in any released source bundle. The data licence(s) chosen depend on the original input data used. […]
+Posted by Michael Koutroumpas at 15:20 Project Management, User Reqs Tagged with: igibs, licence, license, mapping application, wms Comments Off on Licensing for blog content, source code and data
+Collaborative by Nature: Interoperable Geospatial Approaches to the Environment
+Oct 132011
+Now available, the registration page for the GECO/IGIBS event on Friday 11th Nov, 2011 from 1115 to 1500 GMT at the Welsh Government Buildings, Cathays Park, Cardiff. Full details can be found here We have a good mix of speakers from the academic, public and private sectors, and should get some good discussion.  I think […]
+Posted by Chris Higgins at 09:20 Project Management Tagged with: geco, igibs, inspire, jiscgeo, welsh government Comments Off on Collaborative by Nature: Interoperable Geospatial Approaches to the Environment
+INSPIRE and Universities: An update thanks to James Reid
+Oct 102011
+After some fantastic help from James Reid at EDINA we thought to put together a blog post summarising some of the conclusions we have come to over INSPIRE. At this stage it may be  worth having a look at my earlier but less informed post regarding INSPIRE to understand how my understanding of the issues has […]
+Posted by Steve Walsh at 11:51 Uncategorized Tagged with: aberystwyth university, EDINA, igibs, inspire Comments Off on INSPIRE and Universities: An update thanks to James Reid
+Map Library becomes digital……
+Oct 032011
+Last week at IGES we had a rebirth of the map library as it became digital. This probably sounds more dramatic than it was.  What we did was to create a new drive on the public network for IGES staff and students   with a structured directory and put on some spatial data that relates to […]
+Posted by Steve Walsh at 18:02 Uncategorized Tagged with: aberystwyth university, Dyfi NNR, geodoc, iges, map librarian, metadata, wms Comments Off on Map Library becomes digital……
+DCC Roadshow Oxford
+Sep 262011
+Below is a copy of a blog entry I put on the DCC website after attending their Roadshow in September ……   As a rather out-of-practice ecologist I was looking forward to the DCC Roadshow with a little trepidation. Would the material be aimed at digital curators writing code to fine tune their repository functionality?  Or […]
+Posted by Steve Walsh at 20:02 asides Tagged with: Data management plan, DCC, Digital Curation, Oxford Comments Off on DCC Roadshow Oxford
+WMS Access Control within IGIBS
+Sep 202011
+One of the goals of IGIBS is to allow users to generate protected WMS services using SAML-based access control. The technology behind this is based on  prior research done in the past few years by EDINA for the EU funded ESDIN project. The ideas produced by the project have been successfully tested within the OGC […]
+Posted by Michael Koutroumpas at 16:12 Mapping Application, Security, Techie, WMS Factory Tagged with: esdin, igibs, javascript, openjump, openlayers, SAML, shibboleth, user requirements Comments Off on WMS Access Control within IGIBS
+Web-based Cartography for the IGIBS WMS Factory tool
+Sep 162011
+One of the main challenges in creating a WMS factory tool is to provide an intuitive way for end users to specify the rendering rules for the data they upload. Significant progress has already been made within IGIBS in calculating on-the-fly the minimum/maximum scale which is adequate for raster data. However, The cartographic rules mandatory […]
+Posted by Michael Koutroumpas at 18:37 Mapping Application, Techie, WMS Factory Tagged with: cartography, geoserver, igibs, mapping application, SLD Comments Off on Web-based Cartography for the IGIBS WMS Factory tool
+Meeting with EDINA and DCC staff in Edinburgh
+Sep 052011
+I was fortunate enough to have a meeting with some people from EDINA and the DCC in Edinburgh on Wednesday. The aim of the meeting was to get some input and advice from some experts on the ideas I have for a spatial data management best practice report.  So a big  thank you to Martin Donnelly […]
+Posted by Steve Walsh at 18:19 Project Management, Uncategorized Tagged with: DCC, Digital Curation Center, EDINA, inspire, jisc, UK Location 1 Response »
+Older Entries
+Recent CommentsIGIBS Followon and use of Underspend » Interoperable Geographic Information for Biosphere Study on SDI Reportjames passmore on Comparing Geoserver / Mapserver in terms of INSPIRE complianceINSPIRE and Universities: An update thanks to James Reed » Interoperable Geographic Information for Biosphere Study on INSPIRE and Higher Education Institutes (HEIs)WMS Access Control within IGIBS » Interoperable Geographic Information for Biosphere Study on INSPIRE2011Nicola Osborne on Meeting with EDINA and DCC staff in Edinburgh
+Recent Posts
+IGIBS Followon and use of Underspend
+IGIBS Final Product Post
+Licensing for blog content, source code and data
+Collaborative by Nature: Interoperable Geospatial Approaches to the Environment
+INSPIRE and Universities: An update thanks to James Reid
+Archives
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+Pages
+About
+INSPIRE2011
+SDI Report
+Tagsaberystwyth university
+academic
+aerial photographs
+BIO-SOS
+biodiversity
+ccw
+cors fochno
+DCC
+dyfi
+dyfi biosphere
+dyfi biosphere research forum
+dyfi catchment
+Dyfi NNR
+EDINA
+forest research
+geodoc
+geoserver
+gogeo
+hydrology
+iges
+igibs
+inf11
+inspire
+jisc
+jiscgeo
+land cover change
+LiDAR
+Manchester University
+map curator
+map librarian
+mapping application
+metadata
+msc
+phd
+postgraduate
+projectplan
+researcher
+security
+shibboleth
+spatial data infrastructure
+undergraduate
+user requirements
+vegetation data sets
+wag
+wms
+IGIBS is funded by JISC and is led by EDINA working in partnership with Aberystwyth University and the Welsh Assembly Government.
+EDINA is a JISC National Data Centre based at the University of Edinburgh. The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336.
+For information on the use of cookies on this site please see the EDINA Privacy and Cookies Policy.
+© 2013 Interoperable Geographic Information for Biosphere Study
+Suffusion theme by Sayontan Sinha

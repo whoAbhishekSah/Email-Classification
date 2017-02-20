@@ -1,0 +1,16 @@
+OGSAConfig Home
+Welcome to the OGSAConfig homepage!
+Background
+The background of OGSAConfig.
+People
+Current project members.
+Software
+Software produced by this project.
+Papers
+Papers published by this project.
+Dissemination
+Other dissemination efforts made by this project.
+Links
+Links to relevant sites
+This project is funded by
+JISC

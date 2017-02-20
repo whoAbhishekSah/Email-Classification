@@ -1,0 +1,81 @@
+Digging into Metadata | for text analyses, resource classification, and knowledge discovery
+Digging into Metadata
+for text analyses, resource classification, and knowledge discovery
+Skip to content
+HomeAdvisory BoardBibliographyBlogs/DiscussionsDatasetsPeopleProject OverviewProject publications and presentations
+Digging into Metadata
+“Digging into metadata” is a winning project of the second Digging into Data Challenge (http://diggingintodata.org), a competition to promote innovative humanities and social science research using large-scale data analysis. The competition is an ongoing collaborative effort jointly funded by several funding agencies from Canada, Netherlands, United Kingdoms, and United states. This round, 67 teams applied, and 14 were funded.
+The goal of this project is to develop a novel and innovative method for automatically augmenting existing metadata sets to support interdisciplinary research in the social sciences and humanities (SSH).
+Project Objectives:
+To develop an understanding of Social Sciences & Humanities researchers’ information behaviours and needs to generate user requirements and feedback for the project
+To analyse data from the four participating repositories using the PERTAINS tool to generate recommended Dewey Decimal Classification-based tags
+To research options for aggregating, clustering and indexing the tags across repositories
+To develop a search interface prototype and visualisation tools, subject to usability testing and ongoing evaluation
+To add more complex metadata sources to the tagging process, to provide augmented content.
+Anticipated Outputs and Outcomes
+Summary of user requirements, plus usability testing and ongoing evaluation reports
+PERTAINS tags added to metadata
+Review of options for aggregating, clustering and indexing tags with implementation where appropriate
+Prototype search interface and visualisation tools
+Integration of research outputs into iSchool curriculum at Drexel University
+Comments are closed.
+Search for:
+Recently Annotated Articles
+An Extensive Study on Automated Dewey Decimal Classification
+Findex: search result categories help users when document ranking fails
+Contextual Multi-dimensional Browsing
+Categories
+Select Category
+Applications  (8)
+Concepts and Theories  (6)
+Dewey Decimal Classification  (1)
+Digging methods and tools  (3)
+Displays  (12)
+Evaluation  (4)
+Metadata  (3)
+Ontology  (6)
+Systems  (15)
+Uncategorized  (2)
+Vocabularies  (10)
+TagsAAT
+Algorithms
+application
+automatic classification
+CIDOC-CRM
+classification
+Dewey Decimal Classification (DDC)
+Digital Archives
+dimensions of KOS evaluation
+Display
+distributed
+FACET
+graph model
+Interface
+interoperability
+KOS
+LCSH
+Linked data
+map
+Ontology
+ontology visualization
+python
+Qualitative Method
+references
+retrieval
+SKOS
+software
+system
+theories
+Thesaurus
+user
+Visualization
+vocabularies
+vocabulary mapping
+Site Admin
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+Sponsored by
+Digging into Metadata
+Proudly powered by WordPress.

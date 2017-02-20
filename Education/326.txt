@@ -1,0 +1,188 @@
+CRIATE
+CRIATE
+Project CRIATE (Course Related Information AT Exeter) is part of a wider JISC initiative related to making the most of course data.
+Event
+Documentation
+Contact Us
+Register
+Version Control
+February 26th, 2013
+No Comments »
+Version Control has just gone live, so now is the time to show you what we have done. The main idea behind Version Control is to allow senior members of the colleges to have the ability to track and approve changes within both modules and programmes. Version control will also allow you to browse over the archive version changes that have been made over time.  Commence the print screens….
+To edit a module you would need to click on the “edit latest” button next to the relevant academic year.
+This now takes you to the edit page of the module. After editing, the field changes colour to highlight that changes have been made and a hover over box shows you what was populated in the original text.
+Once you save your changes and go back to the descriptor page, you can see a version of your module has been created. From this screen you can now browse through the previous versions you may have created, edit the latest version and if you are a super-user, approve any changes by clicking “publish”.
+With the ability of creating versions, this now allows  senior members of staff to control the changes that are being made. To allow these versions to become approved and therefore view to the web they will need to be published. Only super-users of iPaMS have access to publish, which helps monitor the changes made within both module and programme descriptions.
+Update Post
+February 5th, 2013
+No Comments »
+We haven’t done an update post for a little while now so we thought today would be a good day to let you all know what we’ve been up to. Firstly, we are ever so nearly there with having all the module and programme information we need for iPaMS (including archive data). We have  recently imported CLES’s (College of Life and Environmental Science) programme and module data. We will need to finish tidying up the data and then we will be bringing over the Business School’s archive data.
+Our developer Justin has been working hard on our version control, which is currently being tested and will be released to live very soon. Please keep an eye out for a separate blog post regarding our version control.
+Our developer Helen is still working hard on implementing our work flow. It is a rather complex design but once we have it in the system this will allow us to start our online approval processes. We will also be working to integrate work flow in with the version control, to allow any minor or major edits to flag/notify the correct people.
+Currently I am working closely with the colleges on the list of improvements that we would like to have completed before the end of the project. One of these improvements is looking at changing our module pdf to be more in line with our programme pdf  which has different formatting and colouring.
+Our developer Ben is also still working away at our web service and whilst the University is redesigning the undergraduate web pages, the web team have been using our test web service to see how iPaMS data will pull through. To help with this process we are  flashing our live data weekly onto the test site for them to work on until we have the live web service up and running.
+We hope everyone else’ projects are going well and we thoroughly enjoyed seeing all of your posters and videos that you have been creating. Once we have released our version control and work flow we will be able to do a more in depth blog post for each.
+Lauren – Project Support Officer
+Our Presentation at the #coursdata JISC Conference
+January 29th, 2013
+No Comments »
+If you weren’t able to attend the JISC Conference today then we have uploaded our presentation here for you to view. The presentation gives a quick overview on the CRIATE project that we are running and how we work through our approval processes within the new system.
+Our Lovely Poster
+January 25th, 2013
+No Comments »
+For all those who are attending the JISC conference next week you will already know that we were asked to produce a poster about our project.
+If you’re interested in having a sneak peek then here is ours!
+Marketing Our Programmes
+January 14th, 2013
+No Comments »
+Hello all, we are very sorry for the lack of blog posts but we have been very busy bees. We thought we’d give you a quick update with something we have been working on recently, which is helping the Marketing department organise their data feed to the web.
+Within iPaMS we have marketing specific programme fields, for example marketing descriptions and study abroad sections.
+Normally each year the Marketing department would enter their data on the University’s content management system, whereas now, they can enter it in iPaMS against the programme for a specific academic year.
+Recently we have been helping the department check that the programmes they need to market for 14/15 are held in iPaMS and for those that are not, we have been able to create a shell of the programme. We are hoping in the future we will be able to get the programmes rolling forward automatically and with the creation of new programmes going through the workflow, Marketing should have all the programmes they need within iPaMS.
+JISC Progress Report
+November 30th, 2012
+No Comments »
+This is a summary of the recent progress report we submitted to JISC, who are funding part of our project.
+Summary
+We now have varying amounts of data held by 5 out of the 6 colleges at Exeter and key staff in these colleges have been trained on iPaMS. Archive data is currently being brought in to iPaMS from legacy systems through database exports and this is progressing well. A robust, scalable and universal web feed is being developed for use to supply our internal and external websites with academic and marketing information for modules and programmes.
+We have designed (on paper) an electronic workflow system to handle the specific approvals needed for new and amended modules and programmes, as mandated in our Teaching Quality Assurance (TQA) Manual. This will shortly enter the coding phase; however the pre-requisite for workflow, Version Control, will soon be available for alpha-testing.
+We know we still have a lot of work to achieve before the end of the project, but a lot of the uncertainty around design and requirements has now gone and we are confident we will achieve our goals.
+Outcomes and Lessons Learnt
+Ease of access to course information
+Robust archive of course information
+Improved collation of data to be included in the KIS
+Efficiency savings in administrative processes
+Ease of data transfer via XCRI-CAP
+Use of course data in other systems
+Engagement with the community
+Risks Issues and Challenges
+We realised earlier in the project that we would need more development capacity than the 1 x 0.8FTE and 1 x 0.5TFE we had working for us. The risk of not acting was that we would fall behind with development tasks and end up having to drop features that were advantageous for the University, in order to bring the project in on time. Fortunately we managed to re-assign some internal resource so we now have (in addition to the above), 1 x 1.0FTE and 1 x 0.4FTE on the project, whose contributions have been noticeable and much appreciated.
+We have also found that deadlines in the academic cycle put pressure on the project to deliver functionality at certain times and that the more warning we get of these deadlines, the easier it is for us to ensure we are properly supporting our departments and colleges.
+Next Steps
+The work over the next few months will be concerned with delivering the following technical elements:
+Web feed to supply course information to University websites;
+Version Control to allow drafting of changes to programme and module descriptors before making live;
+Approval Workflows to ensure appropriate approvals have taken place before putting changes live;
+XCRI-CAP compliant data extract for future use by course aggregators or other uses;
+Finishing data loading from legacy systems to allow iPaMS to be the single source of course data and act as an archive as well as a repository for current data;
+Changing the University web pages to feed from iPaMS course data;
+Training users to use iPaMS.
+The work for all of these tasks is well underway so we now need to ensure we continue to deliver within the timeframes available.
+Version History
+November 27th, 2012
+No Comments »
+Over time we fully expect our programme and module data to change.
+Naturally, we would like this to happen in a controlled manner to ensure what we publish is approved by the appropriate members of the University.  Whilst these amendments will adhere to our comprehensive work plan we intend to provide a tool to visually aid the process.
+Our version history function not only highlights which fields have changed but will also show the original content giving the option to revert the change back to the last approved value.  The user can also select which version of change they are interested in seeing.
+Future amendments will include a full audit trail highlighting all changes and by whom so watch this space.
+A Quick Update
+November 20th, 2012
+No Comments »
+After all the excitement on our blog regarding our event and the JISC courdata meeting, we thought it was time to give you all an update.
+Recently we have been working very hard on getting all our programme and module data into iPaMS. So far we have moved all our archive data from the DWAI system, which the colleges of Humanities and SSIS use, into iPaMS. We have also finished entering both Humanities and SSIS 12/13 programme and module information. Both colleges are now currently checking over their data in the system.
+Within the Business School we have finished entering in their 12/13 module data and we are working on entering their 12/13 programme data. We are looking  into moving their archive data from their existing system into iPaMS very soon.
+CLES have all their 12/13 module data held in iPaMS and they are currently entering their 12/13 programme data. We have already copied over their archive data into the system.
+Our developer is also currently working on the web feeds and once this is up and running and we have all the data held in iPaMS, we are ready to feed the data to the web. We are also starting to look into our workflow, as discussed in our previous post, this is something we were interested in discussing with other projects. We have finished the majority of our consultation around the workflow with each of our colleges and we are now looking to start development in the system, which will be a very complex task.
+We are also working hard on designing our version control. We will hopefully have a blog post about this in the near future.
+It was lovely to meet many of you at both our CRIATE event in Exeter and the JISC course data event in London. We hope your projects are going well, please keep an eye out on our blog for more updates, as well as our Twitter account.
+Course Data Meeting
+November 15th, 2012
+No Comments »
+Yesterday both Sam and I travelled to London to attend the Course Data progress meeting. We both thoroughly enjoyed ourselves and I personally found the highlight of the day was not only playing with colourful post-it notes but also hearing about how everyone’s projects were going.
+After a wonderful lunch we broke out into different sessions and I attended the workflow session. I found this discussion really interesting and we were able to hear about the progress of people’s workflow designs and implementations. There were a range of projects on our table, some who were redesigning their workflow process from scratch and some who, like ourselves, are keeping their current process. The main theme  from around our table was that everyone seemed to be moving their old paper based versions towards a more streamline online process.
+Overall, it was a very worthwhile trip and we look forward to hearing more about everyone’s projects over the next coming months.
+Marketing Courses with XCRI-CAP Event
+November 7th, 2012
+No Comments »
+Thank you again to everyone who made it on the day. We enjoyed having each and every one of you. Please see below for the guest speaker’s PowerPoint slides.
+The challenges in a busy Marketing Department– Rebecca Euesden, Marketing Manager and Louise Harris, College Marketing Manager (The University of Exeter)
+Analysis of the needs of a course listing site – Jayne Rowley, Commercial Director (Graduate Prospects)
+Alan Paull – Demonstrations and Making the best use of XCRI-CAP– Alan Paull, XCRI Data Consultant (Alan Paull Services Ltd)
+How the Course Data programme is helping – Ruth Drysdale, Course Data Programme Manager (JISC)
+iPaMS Progress – Samuel Daly, Project Manager (The University of Exeter)
+Entries (RSS)
+Comments (RSS)
+PagesEvent
+Documentation
+Contact Us
+Archives
+February 2013
+January 2013
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+Categories CRIATE (51)
+Blogroll
+Meta
+Register Log in
+Valid XHTML
+XFN
+WordPress
+« Older Entries
+February 2013
+January 2013
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+Alan Paull
+Approval
+Archive
+benefits
+Camtasia Studio
+Colleges
+Connect staff
+Coursedata
+CRIATE
+Developer
+DWAI
+engagement
+Faculty Office
+Faculty Officer
+Humanities
+Intranet
+iPaMS
+JISC
+KIS
+Marketing
+module
+Modules
+Pilot College
+programme
+Programme Manager
+project documentation
+project manager
+Project Support Officer
+SITS
+SSO
+Staff
+Student Recruitment
+supplier management
+Support
+Template
+Training
+Training material
+University of Exeter
+Update
+videos
+web
+Web service
+Workflow
+XCRI
+XCRI-CAP
+CRIATE is valid xHTML, CSS and proudly powered by WordPress

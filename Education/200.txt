@@ -1,0 +1,235 @@
+C-SAP Open Collections project blog | Just another WordPress.com site
+C-SAP Open Collections project blog
+Just another WordPress.com site
+Skip to content
+HomeAboutResources
+← Older posts
+ALT Conference 2011
+Posted on September 12, 2011 by Isabelle Brent
+Last week the Association of Learning Technology (ALT) held their annual conference at the University of Leeds. This was my first time at the conference and I presented a paper relating to the Collections  project (the presentation is available on SlideShare).
+I was surprised at what a broad church the ALT is; I met a number of people interested in OERs who held very different posts within their institutions. There were several sessions on OERs and I came away with the impression that the message of open educational resources is beginning to filter through higher and further education at all levels.
+The issues that people identified as barriers to the further take-up of OERs in one workshop I attended reflected those that have emerged within our own project. These include:
+Lack of awareness of copyright
+Not enough time to invest in making resources open
+Intellectual property concerns
+Hopefully the training and education of staff that is a focus of OER Phase 3 will address these issues and make OERs more taken for granted for future generations of academics.
+The conference covered a wide range of topics; of particular interest to me were the sessions focused on self-directed student learning. For example. A presentation on student centred learning by Dr Panos Vlachopoulos of Aston University described projects where distance learning students are responsible for identifying their own learning objectives. Technology has made self-directed learning much more than an educational ideal and provides a critique of the current educational system at all levels. Open educational resources could be of tremendous value to these types of projects and provide a means of educating students on openness and copyright as a natural part of their educational careers.
+Though the emphasis of our project has been mostly teacher-centred, ultimately the only type of education that is effective is where students take responsibility for their own learning. Hopefully new OER projects will seek to include this perspective and enable students to have a greater say in both what and how they learn.
+Share this:EmailPrintMoreFacebookRedditTwitterLike this:Like Loading...
+Posted in C-SAP OER Collections project
+|
+Tagged csapoer2, usability
+|
+Leave a comment
+Notes from User Testing Session
+Posted on August 2, 2011 by Isabelle Brent
+Last week we carried out a user testing of our fledgling methods site and a small focus group at Manchester University. We had five volunteers from a range of backgrounds including a learning technologist, PHD sociology student, and lecturers from anthropology and statistics. These perspectives, together with the experience of Graham Gibbs and Ian Fairweather who are part of the project, provided tremendously helpful feedback which will be used to improve the website design and content.
+User Testing
+The user testing underlined the value of doing these sessions frequently and reminded us how easy it is to take for granted particular aspects of websites. Our project has identified discoverability and trust as barriers to the more widespread take-up of OER materials in the social sciences. One of the primary objectives in designing the website has been to promote OERs through using reviews written by academics of open teaching materials.  However this part of the website did not get noticed as much as we had hoped. Once explained, the participants were very enthusiastic about the idea of reviews and felt it would help their teaching.  The feedback has been very helpful in making us rethink the presentation and organisation of the site and the changes should be seen in the next few weeks.
+Focus Group
+As part of our day at Manchester we also had a mini focus group to pursue some issues that have emerged in the project associated with academics’ use and attitudes to digital resources. The group was articulate in expressing confidence in the use of Google which is seen as increasingly relevant for academic uses. There was a general enthusiasm for using digital resources, particularly videos, both in lectures and on VLEs. Technical improvements in Blackboard were identified as important in facilitating the greater use of digital resources for teaching.
+The increasing use of videos and other digital resources available online has also affected the attitude of our focus group to making materials open themselves. All agreed that they would be happy to see their materials freely available online given they were of sufficient quality. The potential barriers they identified related to institutional restrictions rather than personal concerns over intellectual property.  This suggests that the use of freely available digital resources (whether covered by CC licenses or not) provides a model of sharing that encourages users of such materials to contribute their own content.
+Given that using digital resources may help academics accept the notion of openness, it is in the interests of universities to address the one issue that restricts the greater use of such materials identified by academics repeatedly throughout our project: basic technology problems. There is a reluctance to rely on digital resources within lectures because of a concern that the technical infrastructure will fail. This mundane consideration makes academics nervous about using materials that could help extend OER use as well as improving the pedagogical experience of students. Maybe a reliable internet connection should be considered as valuable as other more direct strategies to promote the use of OERs.
+Share this:EmailPrintMoreFacebookRedditTwitterLike this:Like Loading...
+Posted in Uncategorized
+|
+Leave a comment
+Tags, Taxonomies and the Collections Website (or how to tag a kettle)
+Posted on June 30, 2011 by Isabelle Brent
+Here is a short test: how many tags can you apply to an electric kettle? Three? Four? What about fifty-two? This is how many I counted on Amazon for one standard kettle.  A review of the tags demonstrates the chaotic nature of the process. Amongst descriptive tags many are equivalent terms (kettle/ kettles, fast/quick). Others reflect the idiosyncrasies of personal judgement such as ‘good boiling sound’ (a dimension of ‘kettle-ness’ I had not appreciated).
+The reason for this pre-occupation with tags is our current challenge of constructing the front-end for the Collections project. We are working on a WordPress website that combines a blog about issues related to OER research methods, and links to resources. Our aim is to highlight licensing issues and encourage the academic community to review methods resources to strengthen trust in the quality of the materials.
+Tagging: Between Information Architecture and Personal Information Management
+The two aspects of site – the blog and links to resources – raise the issue of how best to make use of tags. Tagging sits a little uncomfortably between information architecture and personal information management. The former is concerned with structuring information on the web to make content findable and favours taxonomies and controlled vocabularies whilst the latter focuses on the individual organisation of information and is idiosyncratic and personal in nature. Tagging represents the point at which these two interests come together. The tags on some sites may only make sense to the person who has applied it. In the Amazon example above there are tags such as ‘Dave’ which may act as an aide-mémoire but communicate little to any other user. Blogs rely on contributors applying tags that both make sense to other users; more than this, the person applying the tag needs to think about the sorts of terms user might search for their piece under.
+Taxonomies, Folksonomies and Tags
+The blog for the Collections project focuses on research methods and OERs within the social sciences. As an academic site the language used is a specialist one so the onus is on contributors to provide tags that are meaningful to other academics. In some ways this should be easier than with a general blog because content and meaning are more specific. However the field of research methods (even within the social sciences) is full of disputes over language and different disciplines may use different terms for the same method. Since one of the aims of the website is to make OER materials more findable, should we control the tags used to describe the materials or does that go against the spirit of a blog?
+Tags have provided the technical means of allowing folksonomies to challenge the authority of traditional taxonomies and some argue that the hierarchical approach of taxonomies are now out-dated.  On the other hand part of becoming a member of an academic community is being enculturated into the language of that discipline. Arguments about the meaning of concepts and their relationship to other concepts is an essential part of the social sciences but shouldn’t be seen as a reason to have no structure at all.
+Possibilities for the Collections Website
+One strategy we are considering is to include the social science taxonomy developed by the National Council for Research Methods in the section of the website that provides guidance to contributors. A simplified version has been used to categorise other aspects of the website such as the video resource. An alternative is to take advantage of the various plugins WordPress offers to make the taxonomy more central to the site and be more directive about blog tags.
+It would be interesting to hear the perspective of other projects that have had to deal with this issue. What started as an administrative question over how to structure a website has quickly raised issues over academic classification and subject boundaries as well as arguments over user-autonomy. We would like a system that accommodates different perspectives whilst the tags retain their usefulness in locating resources. Whilst acknowledging the imagination of 52 tags for a kettle we would like our tagging system to represent more of a community consensus.
+Share this:EmailPrintMoreFacebookRedditTwitterLike this:Like Loading...
+Posted in C-SAP OER Collections project, Open Educational Resources, Research methods
+|
+Tagged csapoer2, discoverability, meta-data, OER phase II, project front-end, quality assurance
+|
+Leave a comment
+OER2011: Promoting OERs
+Posted on May 17, 2011 by Isabelle Brent
+Last week the OER2011 Conference took place in Manchester and on Thursday I went to the keynote speech by Bob Strunz, Chief Technical Architect of NDLR (National Digital Learning Resources). The NDLR supports the collaboration and sharing of learning and teaching resources in Irish universities and institutes of technology. He provided a fascinating insight into the adoption of OERs in a relatively small educational system of Ireland. One of the advantages of this set up has been the large degree of communication between institutions and the NDLR.
+Strunz suggested that most academics were happy to share materials but still felt a need for an OER information campaign which involved bring academics over from the U.S. to promote the use of OERs. The idea of promoting OERs in this personal way is interesting. I don’t know if equivalent information campaigns have taken place in this country and the difference in scale also has to be taken into account. But the personal approach described by Strunz seems positive.
+For me the most striking aspect of working on this project has been the gulf that exists between advocates of OERs and other academics. Both our survey and focus group suggest that licensing is simply not seen as an issue for most academics; the assumption remains that if the resource is used for educational purposes, copyright does not apply.
+However the positive effect of personal communication was apparent even in the context of our small focus group. Although aimed at gathering information rather than promoting OERs, over the course of the day the participants gradually became more receptive to certain aspects of OERs through the process of discussion.
+The talk also made me wonder whether research has been done on current attitudes towards sharing materials and OERs in higher education. Knowing what the cultural and attitudinal barriers are in addition to institutional ones might suggest strategies to encourage a more widespread adoption of OERs.
+Share this:EmailPrintMoreFacebookRedditTwitterLike this:Like Loading...
+Posted in C-SAP OER Collections project, OER Phase II
+|
+Tagged Creative Commons Licenses, csapoer2, OER attitudes, OER phase II, OER promotion, ukoer
+|
+4 Comments
+The Perils of Describing Digital Resources
+Posted on May 17, 2011 by Isabelle Brent
+Having decided on WordPress as the front-end for the Collections Project we are currently working on the ‘video of the week’ section. This is intended to be a series of recommended videos that will be rotated week by week and will also provide a searchable list of video resources. Our task for the last couple of the months has been finding and reviewing social science methods videos and adding appropriate meta-data to improve the findability of the resource.
+This has turned out to be a surprisingly difficult, time-consuming task. Glossing over the difficulties of locating the videos and assessing quality, how to attach basic meta-data has been a major challenge. Our expert workshop and survey both identified a need amongst methods teachers for clearly defined criteria so that they know who has created a resource, when, which level it is appropriate for, and a description of what the resource is. A central theme of the Collections Project has been how to adopt meta-data that reflects user-needs as opposed to the technical perspective of the repository designers.
+Describing Videos
+The MLA Handbook gives the following advice about citing videos:
+First give facts about the video (title-underlined), director or author
+(if provided), production company (if provided), distributor, date of release,
+and digital distributor
+These guidelines are clearly intended for conventionally produced videos and do not really fit the kind of videos found on YouTube. Without going into the thorny issues of tags, just describing the author, date and level of the resource has turned out to be extremely difficult.
+Author
+In our focus group a couple of participants commented that it was often easier to find the uploader of OERs rather than the author. However video resources present a problem; who the ‘author’ is cannot be established in the same way as for a book. Should it be the person or the institution that created it? This information is more like knowing the publisher of a book and may not be helpful.
+Another choice is the main subject of the video. With a lecture this is quite straightforward, an interview introduces the problem of whether to include the interviewer, when it is a collective effort (such as a series of individual and group scenes) things get even more confused. In the case of the lecture the person recording has little relevance to the resource, however the closer the video gets to a documentary the more important what might be termed the ‘director’ becomes.
+So far we have adopted the latter strategy because many of the videos are talks given by one academic. Another reason is that the title of the video cannot be changed and does not usually include the name of the academic. However a more suitable description may be ‘subject’ rather than ‘author’.
+Date
+Knowing the date of when a resource is created is an important criteria, however in many sources (particularly YouTube) contributors only record the upload date. Does it matter that sometimes the date refers to the creation date and sometimes the upload date? Should one be consistent and record the reliable information which is the upload date? However the upload date can be misleading, for example a video filmed in 1990 and put on YouTube in 2011. And, in the case of tutorials of qualitative data analysis computer packages, the date of creation provides a clue as to the version of the software being used that a recent upload date would conceal.
+Level
+Wanting to know what level a resource is appropriate for is a frequent request. Before starting on the evaluation exercise I constructed a neat series of categories such as first year undergraduate, undergraduate, masters, PHD, postgraduate and beginning researchers. However in practice it has been difficult to allocate such precise levels. For example, the division seems clear between undergraduate and postgraduate judged on a continuum of simplicity to complexity. But what if it is an introductory video covering a method that is not likely to have been encountered at undergraduate level? A simple description of a novel method in this context is equally appropriate for a postgraduate (or beginning researcher). In addition there is a great deal of variation in undergraduates’ exposure to methods teaching depending on the institution and degree of specialisation within their course. What may be considered as postgraduate materials in one institution may well be thought of as undergraduate resources in another.
+Multiple Precise Categories vs Usability
+Trying to construct the video database has been a salutary exercise in categorisation; at each point the temptation has been to extend and elaborate the categories. But this takes the meta-data ever further away from the interests of those who must fill it in. The difficulties may well be resolved through consensus as digital resources are more widely used and cited in academic research. For now we have to continue attempting to balance the demands of a consistent searchable database with the meta-data users are willing and able to contribute.
+Share this:EmailPrintMoreFacebookRedditTwitterLike this:Like Loading...
+Posted in C-SAP OER Collections project, OER discovery, OER Phase II, Research methods
+|
+Tagged csapoer2, csapoercoll, meta-data, OER phase II, project front-end, research methods, videos
+|
+2 Comments
+Digital Natives and OERs
+Posted on March 10, 2011 by Isabelle Brent
+One of the unexpected themes to emerge from our expert workshop related to how digital resources are evaluated by students. Although reservations were expressed about particular aspects of OERs, our participants did make use of digital materials in their teaching. However, they identified a constraint in using such resources more widely because of student expectations. Undergraduates, it appears, still have a preference for textbooks and a great deal of uncertainty seems to exist about what digital resources are legitimate to cite in an assessed piece of work.
+On a related note, I was surprised to learn during the TRITON user-testing that none of the students had heard of RSS feeds and alerts. In contrast, all the participants in our expert workshop used RSS readers and a variety of other technologies to support their learning and teaching.
+Digital Natives: do they exist?
+These two observations left me wondering whether the popular contrast between digital native and digital immigrant does more harm than good when thinking about technology and OERs in higher education. According to Wikipedia a digital immigrant is ‘an individual who was born before the existence of digital technology and adopted it to some extent later in their life’ and contrasts with the digital native who has grown up with digital technology. The assumption is that the younger generation is more comfortable with all forms of technology whilst help needs to be given to the digitally bewildered older folks.
+The danger of characterising young people like this is the assumption that skills students gain through their online existence as children automatically translate to technological skills required for academic success. I have heard several teachers of Information Skills say that undergraduates do not require classes on VLEs and other technologies because they just ‘pick it up’. This view also takes no account of the diversity of age and background in the contemporary student population.
+Student perceptions of the Value of Learning
+Student reservations about digital resources described by our workshop participants also point to a more fundamental, if nebulous, barrier to the take up of OERs. Whilst academic staff are trying to find strategies to engage students relevant to their everyday lives the students themselves are seeking to establishing an academic identity distinct from everyday life.
+For (most) academics, technology is seen as a tool, but for students a certain degree of academic value is invested in the tool itself. What counts as ‘proper’ academic knowledge is based on a traditional educational system using journals and books as the primary evidence source (at least in the Arts).  In this value system websites and videos do not have the same kudos.
+Having been brought up in an educational system defined by Key Stage tests and facing increasing financial costs to attend university, students place a great deal of emphasis on the measurement of knowledge and how this translates to examinations. When this is combined with a traditional view of education the expectations of students can become a barrier to newer forms of learning of which OERs form a part.
+One of our workshop participants pointed out that until assessment strategies change to acknowledge the greater range of digital resources, OERs and other digital materials will be judged negatively by students. I would add that continuing to refer to digital natives blinds people to the need for educating students in digital literacy. Since OERs are at heart digital in nature, their take up may remain limited if attention isn’t given to both the practical and psychological barriers experienced by students in using technology for academic purposes.
+Share this:EmailPrintMoreFacebookRedditTwitterLike this:Like Loading...
+Posted in C-SAP OER Collections project, OER discovery
+|
+Tagged csapoer2, digital natives, OER phase II
+|
+Leave a comment
+In Google We Trust
+Posted on March 10, 2011 by Isabelle Brent
+Question: How do you want to find Open Educational Resources?
+Answer:
+As mentioned in my last post, our expert workshop included user testing several OER sites including JORUM, Merlot, Xpert and Connexions. To this list must be added Google, whose presence hovered constantly throughout the workshop.
+Participants were asked to find teaching resources on qualitative interviewing and to generally evaluate the user interface. We divided into two groups for the session and amongst the group I was with, all sites reviewed were new.
+Speed of Judgement
+This sort of user testing always creates two impressions; firstly, how valuable it is to see a familiar website through someone else’s eyes, and secondly, how difficult web design is because of the speed with which users make decisions and judgements online. I had expected to run into time difficulties getting though all the web sites. In practice, judgements were made in the space of a few minutes at most. The value of having experts review the sites was the quality of the general conversation the tasks engendered. The strongest theme to emerge from the user testing was one of frustration. The most frequently expressed sources included:
+Results judged not to be relevant
+Not enough information provided about resources before selection
+Resources were slow to load (particularly JORUM)
+Navigation and presentation of results caused confusion
+Using Google to Search
+The session took an unexpected turn towards the end when one of the participants suggested comparing results with a Google search. All agreed the Google search produced the best results. What was interesting about this consensus was the speed and certainly of the judgement without moving away from the results page; further questioning showed that within this incredibly short amount of time a number of complex evaluations had been made. The success of the Google search was described in terms of:
+Relevance of results
+Clarity of results –knowing what the resource is from title and text
+Transparency of authorship (through academic URLs)
+Ability to distinguish file format (such as PDFs, PowerPoint)
+Just how relevant results are is a moot point; Google’s ability to present information on the results page with search terms highlighted (rather than the first few sentences or an abstract) may contribute to making results seem more relevant than they actually are.  However, what matters is that Google provides enough information for people to quickly establish personal relevance which in turns leads to trusting the search.
+Trust
+The trust invested in Google in our user testing meant that irrelevant results (such as commercial ones) were simply not noticed. People recognise that it is a general website and so seem to have adopted strategies so that they only focus on relevant results. Without this trust and familiarity, equivalent irrelevant results in OER searches acted to make participants mistrust the site. This mistrust was compounded by the initial expectation that the OER sites should be more relevant than Google because of the academic focus.  It must also be added that the percentage of ‘irrelevant’ results was much higher with the OER sites – participants had difficulties identifying many resources for interviewing.
+What the user testing demonstrated was the pervasiveness of Google in determining how people make sense of searching online. Even though not part of the design, both groups automatically compared all the sites to Google; my group simply took it further in doing a comparison search.
+Google has invested a huge amount of money in its searches and no OER search is ever going to compete. But maybe understanding how Google generates trust could help in exploring alternative means of developing trust amongst OER site users. The awareness of how people interact with the resources gained through user testing  is also a good reality check for all those involved with promoting the use of OERs.
+Share this:EmailPrintMoreFacebookRedditTwitterLike this:Like Loading...
+Posted in C-SAP OER Collections project, OER discovery, OER Phase II, Research methods
+|
+Tagged csapoer2, discoverability, search engines, usability
+|
+8 Comments
+Notes from the C-SAP Expert Workshop: the value of small numbers
+Posted on March 3, 2011 by Isabelle Brent
+We are currently going through the valuable material gained from last Friday’s expert workshop that was held in Birmingham. Many thanks must be given to the six participants; Alan Bryman, Antje Lindenmeyer, Sara Ryan, Dave Harris, Sean Moley and Kate Orton-Johnson who made the event such a success. During the workshop we covered a range of issues related to finding resources for methods teaching. It was particularly instructive to hear the perspectives of experienced practitioners responsible for teaching methods courses and their perceptions of what would constitute a useful collection of resources.  The event was filmed and will be made available when the editing is complete. We also carried out a user-testing session of some of the OER repositories and searches such as JORUM, Xpert and Connexions.
+I will be writing some blog posts about particular issues that emerged from the session but wanted to comment on the value of this type of format as a means of gathering evidence. This view was reinforced this morning when I attended a similar focus group/user-testing session organised by the TRITON project with a small group of undergraduates.  Both sessions produced insights that would be hard to gather in another context illustrating the value of such small-scale strategies.
+One example of this type of information gathered in the C-SAP workshop related to attitudes towards Creative Commons Licensing (C.C.). Since C.C. is at the heart of OERs there can be an assumption that impediments to implementation are mostly technical or legal. However discussions at our workshop revealed a great deal of complexity in attitudes towards making content freely available. The concept did not generate universal support and some participants expressed a preference for sharing resources in the context of personal relationships (such as with colleagues taking over a course or those having similar research interests) rather than making things openly available though Creative Commons licenses. A concern was also raised that making materials openly available might open oneself up to negative judgement from colleagues because of the perception of putting oneself forward as a self-appointed expert without adequate peer review. These views illustrate how the topic of licensing touches on sensitive issues of professional identity which need to be fully explored if higher education wants to promote the use of C.C.  Such complex topics can’t be tackled through one-off surveys and benefit from the ongoing detailed conversation made possible through events such as the C-SAP workshop.
+Share this:EmailPrintMoreFacebookRedditTwitterLike this:Like Loading...
+Posted in C-SAP OER Collections project, Research methods
+|
+Tagged Creative Commons Licenses, csapoer2, teaching
+|
+3 Comments
+OERs and WordPress
+Posted on February 6, 2011 by Isabelle Brent
+This is my first blog post since taking over from Darren Marsh on the C-SAP Collections project. Coming from the ‘learning’ rather than ‘technology’ side of ‘learning technology’, I wanted to thank Peter Robinson from the TRITON project for his time in explaining some of the technical tools; in particular for providing a wonderfully clear explanation of (the wildly inappropriately named) RSS feeds and their use in dynamic collections.
+Attending the Programme Meeting for the OER Phase 2 projects in January has been helpful in seeing how other projects within the Collections Strand are progressing and the issues they are facing. Two have chosen WordPress to host their OER projects; DELORES is focussing on the CMS features of WordPress to host a static collection of engineering resources and TRITON has developed a politics and international relations blog that uses a series of widgets to connect relevant dynamic OER resources.
+WordPress is an interesting front-end for OER projects because, being an open source platform, it shares many of the assumptions and ambitions of OER. Its ‘Bill of Rights’ includes:
+The freedom to run the
+program, for any purpose
+The freedom to study how the
+program works, and change it to make it do what you wish
+The freedom to redistribute
+The freedom to distribute
+copies of your modified versions to others
+This fits well with the definition of OERs described by the OECD as “digitised materials offered freely and openly for educators, students and self-learners to use and re-use for teaching, learning and research.”
+Where WordPress may have something to contribute to the OER community is in its explicit emphasis on usability. According to its website, ‘the average WordPress user simply wants to be able to write without problems or interruption’ and the software is designed with this in mind. The WordPress philosophy has led to a very simple core platform which users can customise as they choose through themes and plugins.
+The success of WordPress is a reminder of the need to make the criteria of usability a priority for OER in addition to discoverability and relevance. If mechanisms for contributing and sharing resources on the web are technically complex their openness will be limited. This is something Wikipedia has recently recognised; co-founder Jimmy Wales suggested last week that the preponderance of young male editors was due to the programmer-style editing language and announced that improvements would be a priority making editing easier and more intuitive. Given the heavy workloads of university teaching staff and the emphasis of OER on reuse and repurposing of materials, any platform used to share resources needs to be easy to access and use. WordPress represents one possible solution to this issue and it would be interesting to know if others have found alternatives that have the same ease of use.
+Share this:EmailPrintMoreFacebookRedditTwitterLike this:Like Loading...
+Posted in C-SAP OER Collections project, OER discovery, OER Phase II, Open Educational Resources
+|
+Tagged csapoercoll, discoverability, OER phase II, ukoer, usability
+|
+1 Comment
+C-SAP collections survey:
+A very special preview
+Posted on January 13, 2011 by Anna Gruszczynska
+We are offering our readers a unique opportunity to get as sneak peek into the survey on online social sciences resources– we are halfway through so do help us to get past the 100 responses mark (and if helping out the social sciences community is not enough in terms of motivation, you could get an Amazon voucher in the process, just saying!)
+So what does the survey tell us so far about people’s behaviour when it comes to using teaching resources online? To start with, an overwhelming majority of respondents do search for teaching resources online even though their motivations and immediate needs might vary. However, an even more predictable headline story probably should be “Google rules!” When asked about the websites they use most often to find teaching resources, 80% of people pointed to Google and Google Scholar (it was possible to choose more than one option). The extensive reliance on these two search engines underlines the need to analyse and understand why they seem to be the first ports of call – is it familiarity? Ease of use? A sense of trust? Another interesting finding is that Twitter and Facebook come up repeatedly among strategies to find relevant teaching resources. That might indicate that the personal recommendation factor holds premium value when it comes to finding resources and in particular deciding whether to use them. Indeed, a significant majority admit that knowing who the creator of the resource is of high importance when choosing which learning resource to pick from the search results.
+And it is the social networking factor that came across really strongly in the responses to our question about what the ideal social research methods collection should look like (after all, this is what we are trying to achieve within the project – and a little bit of blue skies thinking never hurts!). Looks like a mashup of Amazon, Twitter/Facebook and Diigo would fit the bill, where the users could have access to a highly personalised, high quality research methods collection, have the opportunity to receive recommendations based on their existing collection as well as regular updates about relevant new resources.  You can read more about these fascinating ideas on C-SAP slideshare account where we put up a longer version of the document outlining some preliminary survey results. And if you haven’t filled in the survey yet, here’s your chance to do your bit for the community! If you are feeling really generous and happen to teach qualitative research methods, could you help the REQUALLO [Reusable Qualitative Learning Objects] project (think of it as two surveys for the price of one…?
+Share this:EmailPrintMoreFacebookRedditTwitterLike this:Like Loading...
+Posted in C-SAP OER Collections project, Collections survey, OER Phase II, Research methods
+|
+Tagged csapoer2, discoverability, OER phase II, research methods, search engines, ukoer
+|
+1 Comment
+← Older posts
+Search for:
+Recent Posts
+ALT Conference 2011
+Notes from User Testing Session
+Tags, Taxonomies and the Collections Website (or how to tag a kettle)
+OER2011: Promoting OERs
+The Perils of Describing Digital Resources
+Archives
+September 2011
+August 2011
+June 2011
+May 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+Categories
+C-SAP OER Collections project
+Collections survey
+OER discovery
+OER Phase II
+Open Educational Resources
+Research methods
+Uncategorized
+Meta
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.com
+Blogroll
+C-SAP cascade project
+OER phase 2 blog (MEDEV)
+OER phase 2 OSTRICH project
+OER phase 2: DELILA project blog
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 2.0 UK: England & Wales License.
+C-SAP Open Collections project blog
+Blog at WordPress.com.
+Send to Email Address
+Your Name
+Your Email Address
+Cancel
+Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+Post to
+Cancel
+%d bloggers like this:

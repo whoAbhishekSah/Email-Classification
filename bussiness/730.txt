@@ -1,0 +1,40 @@
+Digital Locksmiths | Outnumbering the Hackers
+Home
+About
+us
+News
+Experience
+EMV
+JavaCard
+ePassport
+ID Cards
+MULTOS
+ITSO
+Terminal Software and Support Systems
+Services
+Consultancy
+Design
+Implementation
+Engaging Digital Locksmiths
+Rates
+Products
+EMV Applications - Spartacus
+Hardware Abstraction Layer - Atlas
+EMV JavaCard Applet - Boudicca
+ITSO POST Library - BabyBlue
+Contact
+us
+Welcome
+Digital Locksmiths' principle role is to provide consultancy, technical support and development services for security and smartcard related projects. To meet these aims, the Digital Locksmiths draw on over 40 years of smartcard experience of the founders. The Digital Locksmiths can also access a wide variety of specialist help from a pool of associates and former colleagues, built up over years of active participation in the digital security industry. The combination of in-house talent and extensive external connections means no project is either too big or too small for the Digital Locksmiths.
+We have expertise covering the full spectrum of smartcard initiatives, with particular emphasis on the following:
+Finance - EMV, ePurse
+Government - ICAO, identity and citizen's cards
+Transport - ITSO consultancy and product development
+News
+Digital Locksmiths become Visa Technology Partners. Read more...
+Digital Locksmiths join the ICMA. Read more...
+Certification of EMV products. Digital Locksmiths EMV products have recently recieved MasterCard, Visa and EMVCo certification for products implementing the latest version of the specifications. Read more...
+JavaCard Development Tools. JavaCard applet/package development tools and debugger, fully integrated with Eclipse. Read more...
+©All material copyright Digitallocksmiths.com
+Web Design by Givemegraphics.net
+Site Map     |     Privacy Policy     |     T&Cs

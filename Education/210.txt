@@ -1,0 +1,241 @@
+CERIF in Action | Synthesise, standardise and productionise CERIF for UK Higher Educational Institutions
+CERIF in Action
+Synthesise, standardise and productionise CERIF for UK Higher Educational Institutions
+Main menu
+Skip to content
+HomeAbout CiACiA PartnersContact UsProject TeamWorkshop (19th October 2012)
+Post navigation
+← Older posts
+Jun
+7
+2013
+Link
+CIA Workshop, 19th October 2012
+A series of photographs from the CIA workshop in October 2012. Apologies for the delay in publishing these.
+By Scott Brander
+
+Posted in Uncategorized
+ Tagged CERIF, CERIF-XML, ePrints, Pure, ROS, Symplectic Elements
+0
+Jan
+9
+2013
+New Cerif Blog
+See Brigitte Joerg’s CERF blog for a beginner’s guide the CERIF and other useful info!
+http://www.cerifsupport.org/cerif-in-brief/
+By Anna Clements
+
+Posted in Uncategorized
+0
+Dec
+20
+2012
+Symplectic CERIF-XML export plug-in for ROS
+This plug-in was demonstrated at the CiA workshop in London on 19th November.
+See http://www.symplectic.co.uk/news-events/2012/12/04/CiA-ROS-export/
+for more info and a video demonstration.
+By Anna Clements
+
+Posted in Uncategorized
+0
+Dec
+19
+2012
+Cross-sector workshop, London, 11th December
+Attended cross-sector workshop on research information
+– organised by Snowball project and hosted by Wellcome Trust in London.
+Key outcome is that attendees want to see integrated systems across the sector …so enter data once and reuse.
+CERIF and Cerif in Action mentioned and particularly the approach involving institutions, funders and suppliers ..a successful and effective partnership.
+Barriers identified included the need to engage academic leaders and urge them to lobby funders and government to provide support to some basic practical infrastructure improvements … such funding the adoption of ORCID across the UK.
+By Anna Clements
+
+Posted in Uncategorized
+0
+Dec
+5
+2012
+ROS User Forum
+Attended ROS user forum in Swindon on Friday 30th November.
+Introduction – Mari Williams, BBSRC, Corporate Policy and Strategy
+• Why is ROS needed :
+o ROS, eVal, GtR needed to support argument for continued investment in Research in next Comprehensive Spending Review (CSR) .. was due 2013
+o RCs subject to performance management by BIS
+o Provide evidence for parliamentary questions (PQs)
+o Lots of presentations and consultations to make case for research – need metrics
+Aspirations
+– RCUK continue to collaborate with HEFCE on alignment with REF
+– Harmonise standards
+Breakout sessions on Functionality and Communications
+Priorities for Functionality
+–       Reporting – HEIs want to get data back out and see where data is in workflow
+–       integration with existing systems 2 way; bulk upload all data; how prevent individuals entering data also
+–       standards and harmonization including lists instead of free-text
+–       validation by HEIs ; sign-off .. similar to Je-S
+Priorities for Communication and Guidance
+–       why collecting .. roadmap/vision [tie-in to other data requirements eg HESA, REF, HEBCI]
+–       simplicity of quantity of data ie descope
+–       speaking with one voice [all ROS & RCs]
+–       simple clear messages
+–       actual examples of good practice
+–       proper data specification
+–       demarcation of responsibility … legal eg when leave or move; PI and CoI and how varies from institution to institution
+–       does it replace final report; length of time to report over [RCs almost agreed about these]
+Gateway to Research
+Using data collected from ROS (and eVal/ResearchFish and historical final reports)
+Publications data and Impact and Key Findings
+GtR project working to harmonise data collected via different routes
+Important for CiA schema to be extended to include this core set of data – particularly Impact and Key Findings
+Open Access
+[I had to leave to catch a train … delays due to floods  …]
+Understand from Gerry Lawson and Simon Kerridge that RIOXX project due to circulate draft application profile for funder metadata – OA compliance –  for Repositories before Christmas; initially DC but also looking at CERIF. RIOXX aiming to comply with OpenAire also but not confirmed yet.
+Would be good to get agreement internationally …
+By Anna Clements
+
+Posted in CERIF, CERIF-XML, RCUK, Research Outcomes System, Uncategorized
+0
+Dec
+5
+2012
+Research Information meets Research Data!
+Presented at the DCC Roadshow in Dundee on ‘Research data meets research information: the IRIOS, C4D, CIA and CRISPool projects’
+ROS includes data sets as an output so would be good to add this to CiA … so crossover with C4D work.
+See details of workshop and presentations at http://www.dcc.ac.uk/events/data-management-roadshows/dcc-roadshow-northeast-scotland
+By Anna Clements
+
+Posted in CERIF, CERIF-XML, CRISPool, Dissemination, euroCRIS, IRIOS, Research Outcomes System, Uncategorized
+0
+Nov
+23
+2012
+UKRISS – Reporting and Exchange of Research Information
+One of the sessions I attended at the UK Universities and Colleges Information Systems Association Corporate Information Systems Group Conference (UCISA-CISG) http://www.ucisa.ac.uk/groups/cisg.aspx was from Simon Waddington of King’s College London who is leading the UKRISS project http://ukriss.cerch.kcl.ac.uk/
+The session gave an update on the project to date so please note that the actual recommendations may vary from what was said at the session. There are a number of decisions to be made around the ‘who’ and ‘how’ to take the project outcomes forward.
+I understood that the project is examining ways to better standardise sharing of information across a wide range of stakeholders for example by defining a standard set of data that will cover all of the requirements of the various funders and government bodies as well as other needs to reduced the burden of reporting.
+The HESA Information Landscape Report (2012) noted that similar information is requested from different bodies and it was suggested that a standard approach can’t be imposed but could perhaps be agreed to by collaboration.
+The project is due to end in June 2013  and a feasibility study is expected to be released in Jan 2013.
+Partners include the British Library and EuroCRIS.
+The team have particularly looked at sharing information about projects, outputs, and facilities.
+The team have reviewed information from various projects and initiatives including –  CERIF, CASRAI, IRIOS (linking grants to output), RMAS (which has produced a CERIF connector)  CERIF in Action use cases of exchanging data between HEI’s and providing data to the RCUK Research Outcomes System, MICE, DESCRIBE, Readiness for REF and BRUCE (Apologies – including links willl make this post very long – these are easy to find on Google if you need more info on the individual projects)
+The team have spoken to 41 people (10 reps from HEI’s) and have come up with 231 requirements at this stage.  It will be interesting to find out who they spoke to as I am sure there are many others out there with useful information and views on this and I expect that further consultation and linking up of ideas can be done over the coming months.
+The draft findings are common to other initiatives we have been involved in:
+Further harmonisation of definitions required in CERIF.
+Agreement on reporting requirements from key stakeholders would be helpful.
+A maximum HEI CERIF profile was suggested – representing everything required in CERIF to facilitate data exchange.
+Adopt international initiatives – ORCID, CrossRef (DOI for publications), FundRef (funder reference or publications
+Don’t build a new national system but make existing systems work together better – common API’s, connectors etc.
+The final report will go to JISC and from there hopefully some actions and actionees will be agreed – but that is all yet to be decided and joined up with the various initiatives that are working in these areas.
+Simon also mentioned the Czech system that takes feeds from institutional systems into a central system.
+By Valerie
+
+Posted in Uncategorized
+ Tagged UKRISS
+0
+Nov
+16
+2012
+CiA London workshop : ‘take home’ messages
+As already reported, the workshop was a huge success with a ‘sell-out audience’ of over 60 participants. The attached document summarises the breakout sessions which were held in the afternoon, but first the CiA project team have highlighted below the key themes and ‘take home’ messages from these sessions ;
+the need for a governance model to sustain and extend CiA (and other use case) schemas and mappings going forward
+the need for funders (e.g. research councils)  to standardise their reporting requirements and co-ordinate communication across the research community
+the need for clear definitions and use cases (mapping back to business terminology) for CERIF entities
+the need for authoritative lists e.g. research organisations, funding organisations,  journals
+Breakout Session Report with Summary
+By Anna Clements
+
+Posted in Uncategorized
+0
+Nov
+5
+2012
+euroCRIS membership meeting, Madrid 5th-6th Nov 2012
+At euroCRIS membership meeting in Madrid where CiA mentioned as very successful CERIF project and UK engagement with CERIF given credit for much of the increased interest in euroCRIS and CERIF over the last 12 – 18 months.
+The CERIF- Task Group recognises that consistent mappings and vocabularies are need to ensure interoperability so will be a focus for the TG over the next period.
+By Anna Clements
+
+Posted in Uncategorized
+0
+Oct
+31
+2012
+Workshop Presentations
+The presentations from the CIA workshop are now available.
+By Scott Brander
+
+Posted in Uncategorized
+0
+Post navigation
+← Older posts
+Search
+Recent Posts
+CIA Workshop, 19th October 2012
+New Cerif Blog
+Symplectic CERIF-XML export plug-in for ROS
+Cross-sector workshop, London, 11th December
+ROS User Forum
+Archives
+June 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+Categories
+Atira
+CERIF
+CERIF-XML
+CERIFy
+CRIS2012
+CRISPool
+Dissemination
+ePrints Services
+euroCRIS
+Functional Specification
+IRIOS
+JISC
+JISC RIM
+Mapping
+News from the Sector
+RCUK
+Readiness4Ref
+Reposit
+Research Outcomes System
+Roadmap for Adoption
+Steering Group
+Survey
+SWORD
+Symplectic
+UKOLN
+Uncategorized
+University of Surrey
+Workshop
+Meta
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.com
+Calendar
+February 2017
+M
+T
+W
+T
+F
+S
+S
+« Jun
+12345
+6789101112
+13141516171819
+20212223242526
+2728
+Create a free website or blog at WordPress.com.

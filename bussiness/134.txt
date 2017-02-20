@@ -1,0 +1,88 @@
+Independent, Global Exchange - Channel Islands Securities Exchange
+The Market
+Listing With Us
+Members
+About CISE
+Contact Us
+Search
+Closing prices
+{{item.s_cmpyname}} {{item.s_classname}}
+{{item.s_crncycode}} Bid:{{item.m_closebid}} - Ask:{{item.m_closeask}}
+Responsive. Innovative.
+A responsive and innovative listing facility for international companies to raise capital from investors based around the globe.
+Market News
+All Updates
+{{item.s_mnem}}
+{{item.s_cmpyname | truncate 50}}
+{{item.s_hdline | truncate 30}}
+{{item.dt_publish | moment}}
+A professional and personalised approach for an innovative market
+The CISE aims to be a leading independent exchange for a wide range of companies by providing pragmatic regulation and a responsive, innovative listing and trading venue.
+Our market authority ensures that issuers meet the conditions for listing and trading and that they comply with their continuing obligations, as well as conducting surveillance to maintain market integrity.
+ResponsiveApproach
+PremierLocation
+InternationalRecognitions
+GlobalStandards
+CompetitivePricing
+Responsive Approach
+Competitive Pricing
+Global Standards
+International Recognitions
+Premier Location
+Listing Products
+The CISE offers a regulated marketplace, with globally recognisable clients and a growing product range, from within the European time zone but outside the EU. Headquartered in Guernsey and with an office in Jersey, it offers a convenient and cost-effective service for listing a wide range of securities.
+A full list of our products can be found on the products page.
+Trading Companies
+Primary and secondary listings of equities and debt
+Specialist Debt
+Bonds and loan notes, including convertibles and high yield products
+Investment Vehicles
+Open and closed ended funds, Real Estate Investment Trusts and other vehicles
+Special Purpose Acquisition Companies
+Cash shell used to raise money for a very specific objective
+Extractive Industries
+Listing of equities from the extractive industries, such as mining, oil and gas
+Insurance Linked Securities
+Listed structures including cat bonds, collateralised reinsurance and ILS funds
+Latest at the Exchange
+News & Press
+10 February 2017
+CISE set to rebrand as TISE
+The Channel Islands Securities Exchange (CISE) has today announced plans to rebrand as The International Stock Exchange (TISE) from early March.The Exchange, which is headquartered in Guernsey and opened an office in Jersey at the start of 2015, will also launch a presence in the Isle of Man during next month.
+Read
+News & Press
+17 January 2017
+Two promotions at the CISE
+The Channel Islands Securities Exchange (CISE) has promoted two members of staff with effect from 1 January.Mark Oliphant is now Head of Communications and Cameron Craine has been promoted to Manager within the listings admissions team.
+Read
+Recent trades
+Company
+Currency
+Price
+Volume
+{{item.s_mnem}}
+{{item.s_crncycode}}
+{{item.m_price}}
+{{item.m_size}}
+View All Trades
+Registered Office,
+PO Box 623, Helvetia Court,
+Block B, 3rd Floor,
+Les Echelons, St Peter Port,
+Guernsey, GY1 1AR
+T: +44 (0) 1481 753000
+Jersey
+No.3 The Forum,
+Grenville Street,
+St Helier,
+Jersey, JE4 4UF
+T: +44 (0) 1534 737151
+LinkedIn
+Twitter
+The Channel Islands Securities Exchange Limited. Company registration number - 57524
+Sign up to receive newsletters
+LinkedIn
+Twitter
+Privacy Statement
+Terms & Conditions
+Contact Us

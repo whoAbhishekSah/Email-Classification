@@ -1,0 +1,157 @@
+Huddersfield Open Access Publishing | Just another JISC Digital infrastructure Project
+Huddersfield Open Access Publishing
+Search
+Primary Menu
+Skip to content
+About
+Documentation
+Meet the project team
+Search for:
+Dissemination, News
+Criteria for Determining Predatory Open-Access Publishers by Jeffrey Beall
+August 6, 2012 Graham Stone
+Just reading a really good blog post by Jeffrey Beall, librarian at Auraria Library, University of Colorado Denver on the Criteria for Determining Predatory Open-Access Publishers
+In it he lists his criteria for determining what he defines as ‘predatory open-access publishers’. This is certainly something that we will be using when talking to post graduate students about where to publish and also as a checklist of things we must never do as a University press.
+You can find Jeffrey’s blog at: http://scholarlyoa.com/2012/08/04/criteria-for-determining-predatory-open-access-publishers/
+The document is available as a PDF at the link. http://scholarlyoa.files.wordpress.com/2012/08/criteria-2012.pdf
+News, Sustainability
+New issue of Teaching in Lifelong Learning
+August 6, 2012 Graham Stone
+We are sending this post out a little belatedly, but Volume 4, Issue 1 of Teaching in Lifelong Learning is now available. This is the first online only issue of the journal and is now available on Open Access at:
+http://eprints.hud.ac.uk/journal_till/
+Articles include:
+Crawley, Jim ‘On the brink’ or ‘designing the future’? Where next for Lifelong Learning Initial Teacher Education? DOI: 10.5920/till.2012.412.
+Cushing, Ian Working Towards Professionalism: A Pathway Into The Post-Compulsory Community Of Practice. DOI: 10.5920/till.2012.4113.
+Grayling, Ian, Commons, Kevin and Wise, John It’s The Curriculum, Stupid! DOI: 10.5920/till.2012.4121.
+Walker, Martyn The Origins and Development of the Mechanics’ Institute Movement 1824 – 1890 and the Beginnings of Further Education. DOI: 10.5920/till/2012.4132.
+Uncategorized
+That’s all folks
+April 10, 2012 Graham Stone
+Well not quite!
+The final report for the JISC has now been released
+Stone, Graham, White, Sue, Robinson, Denise, Pitchford, Ian and Edmunds, Cherry (2012) Huddersfield Open Access Publishing final report. Project Report. University of Huddersfield, Huddersfield.
+But that’s not all!
+We are expanding the platform to include a number of new journals and possibly annual conferences in 2012 as well as working on the Huddersfield Research Review.
+We’ll be posting to this blog when we have further news!
+Acknowledgements
+The project would like to thank all those that have assisted during the project, particularly:
+JISC for funding the project
+Josh Brown, Programme Manager for the Campus-based publishing strand, for his support and advice
+Adam Field at EPrints for his work on the design of the pages and his insightful comments and suggestions
+The University of Glasgow for the original inspiration for this project
+Our sister project SAS Open Journals for their encouragement and exchange of ideas
+The project team:
+Sue White (Director of Computing and Library Services)
+Dr Ian Pitchford
+Dr Denise Robinson
+Cherry Edmunds
+The University of Huddersfield Press Editorial Board
+Tim Thornton, Pro Vice Chancellor for Teaching and Learning
+Centres for Excellence in Teacher Training (CETTs)
+The Post Compulsory in Education and Training (PCET) Network
+Dissemination, News
+HOAP at LIBER 2012
+March 6, 2012 Graham Stone
+HOAP will be presenting a poster at the LIBER 41st Annual Conference, 27 June – 30 June 2012, University of Tartu, Estonia. We look forward to sharing our research and hearing your thoughts.
+Stone, Graham (2012) Huddersfield Open Access Publishing (HOAP) Project. In: LIBER 41st Annual Conference, 27 June – 30 June 2012, University of Tartu, Estonia.
+Dissemination, News
+HOAP on the road in 2012
+February 27, 2012 Graham Stone
+We are very pleased to announce that the Huddersfield Open Access Project has been invited to present a paper at the:
+16th International Conference on Electronic Publishing: Social Shaping of Digital Publishing: Exploring the interplay between Culture and Technology, 14-15 June 2012 at Guimarães, Portugal.
+You can see our extended abstract for the paper here
+Dissemination, News, Sustainability
+JournalTOCs
+December 21, 2011 Graham Stone
+Teaching in Lifelong Learning is now listed in JournalTOCs.
+JournalTOCs is the largest, free collection of scholarly journal Tables of Contents (TOCs): 17,493 journals (including 2,898 selected Open Access journals) from 962 publishers.
+JournalTOCs is for researchers, students, librarians and anyone looking for the latest scholarly articles.
+JournalTOCs alerts you when new issues of your Followed journals are published.
+Find us at: http://www.journaltocs.ac.uk/journalHomePage.php?id=23340&userID=0
+Dissemination, News, Sustainability
+Announcing the HOAP Toolkit
+December 21, 2011 Graham Stone
+One of the outcomes of the project was to develop a toolkit for other institutions to use, it features sections on:
+Moving to Open Access
+Setting up the landing pages using EPrints
+Adding the content
+Dissemination
+Workflows
+Setting up a new journal
+Setting up a best of research title
+Appendices
+Notes for contributors
+Licence to publish
+Notes for reviewers/Return Sheet – response to author(s)/response to editor
+Adding content to Teaching in Lifelong Learning
+Journal workflows
+Guidelines for the preparation of journal proposals
+Huddersfield Research Review (Draft proposal)
+The toolkit can be found at: http://eprints.hud.ac.uk/12239/
+Dissemination, News, Sustainability
+Mental Health and Learning Disabilities Research and Practice
+December 20, 2011 Graham Stone
+We are also very please to announce that our journal Mental Health and Learning Disabilities Research and Practice is in the process of being archived.
+Mental Health and Learning Disabilities Research and Practice was a joint publication between South West Yorkshire Mental Health NHS Trust and the University of Huddersfield. The journal ran for 8 very successful volumes appealing to a wide range of mental health practitioners, social care practitioners, researchers, educators, users of mental health services, carers, and voluntary sector workers.
+Benefits, Dissemination, News, Sustainability
+Teaching in Lifelong Learning
+December 20, 2011 Graham Stone
+We are very pleased to announce that the latest volume of Teaching in Lifelong Learning is now live. We now have all 3 volumes available on Open Access.
+The new pages feature a host of features including information for contributors, a licence to publish, a guide to the journals peer review process and more.
+Each article now has a DOI to enable direct linking. In addition DOIs are being added to all article references allowing direct cross referencing. There is an RSS feed for the journal on the front page, each article also has a range of social media links so that users can share the content via FaceBook, Twtter, Gmail, LinkedIn etc.
+References are also displayed as part of the metadata and usage statistics are available for every article.
+Coming in 2012
+All new journal content from volume 4 onwards will be licensed under a Creative Commons Attribution 3.0 Unported License.
+A new feature available early in the New Year will allow direct linking from the references displayed on the metadata page to the appropriate metadata content at other publishers.
+It is also hoped to enable the SNEEP suite of social networking extensions to all journal (and University Repository) content early in the New Year – expect another blog post soon.
+News, Sustainability
+Huddersfield Research Review
+December 3, 2011 Graham Stone 1 Comment
+We are just putting the finishing touches to the project. In the next couple of weeks you can expect the new online version of Teaching in Lifelong Learning and a toolkit showing how to create Open Access journals with EPrints.
+First up, however, is the draft proposal for the Huddersfield Research Review. This draft has been sent to the University Research Committee for comment.
+Huddersfield Research Review (Draft proposal)
+We hope to set up an international editorial board early in 2012 and launch the journal later in the year.
+Posts navigation
+1
+2
+Next →
+Search for:
+CategoriesCategories
+Select Category
+Benefits  (5)
+Dissemination  (8)
+News  (18)
+Sustainability  (9)
+Uncategorized  (1)
+Users  (2)
+Wins and fails  (2)
+Archives Archives
+Select Month
+August 2012  (2)
+April 2012  (1)
+March 2012  (1)
+February 2012  (1)
+December 2011  (5)
+October 2011  (1)
+September 2011  (5)
+August 2011  (1)
+May 2011  (1)
+April 2011  (2)
+Just another JISC Digital infrastructure Project
+Recent Posts
+Criteria for Determining Predatory Open-Access Publishers by Jeffrey Beall
+New issue of Teaching in Lifelong Learning
+That’s all folks
+HOAP at LIBER 2012
+HOAP on the road in 2012
+JournalTOCs
+Announcing the HOAP Toolkit
+Mental Health and Learning Disabilities Research and Practice
+Teaching in Lifelong Learning
+Huddersfield Research Review
+Recent CommentsGraham Stone on Huddersfield Research ReviewRoddy MacLeod on Auditing the University’s journalsMeta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+Proudly powered by WordPress

@@ -1,0 +1,30 @@
+CAVA project - Home
+CAVA
+A Human Communication Audio-Visual Archive for UCL
+Home
+News
+About CAVA
+FAQ
+Documents
+Publications
+CAVA Repository
+Contacts
+CAVA home
+Conversation is the means by which we learn to talk and influence the world around us.
+To access CAVA you need to apply for a user licence by contacting the Project Officer.
+The CAVA (human Communication: an Audio-Visual Archive) Repository is a digital video repository to support the work of the international human communication research community. This resource enhances the discoverability and re-usability of expensively-created, specialist video content, for the benefit of the community of human communication researchers worldwide.
+The CAVA repository houses data including
+young typically-developing children
+children with hearing impairments
+children with language impairments
+people with aphasia
+the British Sign Language Corpus
+CAVA is a collaboration between several UCL Departments and Research Centres and the UK Data Archive (UKDA).
+UCL Library Services
+The UCL Research Department of Developmental Science
+The UCL Research Department of Language and Communication
+The UCL Centre for Human Communication
+The original CAVA project was co-funded by UCL and the JISC (Joint Information Systems Committee, UK).
+CAVA ran from 01 April 2009 to 31 August 2010. For more information, see About CAVA or read the final project report.
+Video resources in the CAVA repository are described using a subset of the IMDI metadata standard. Transcripts and other supporting material, where available, are deposited alongside the videos. Access to the repository content is restricted to bona fide researchers.
+UCL - Gower Street - London - WC1E 6BT - Tel: +44 (0)20 7679 2000 | © CAVA Project, 2009-2017

@@ -1,0 +1,35 @@
+- Research Computing (The University of Manchester)
+| Skip to main content | Skip to navigation | Skip to Search |
+[University home]
+Quicklinks
+Quick Links
+Case Studies
+News
+Events
+Staff
+Computational Science Community Wiki
+Maps & Travel
+Research Computing
+Services
+Research & Development
+Training & Education
+Community
+About Us
+HomeresearchFoafSslShib
+Research and Development
+Current Projects
+Past Projects
+Seminars
+Research Centres
+Publications
+Identity & Access Management using Social Networking Technologies
+This project applies social networking technologies implemented via the Semantic Web to support identity management. We will develop software that benefits from using social trust models for authorisation and authentication. The technology will be based on Friend-of-a-Friend (FOAF), which is a vocabulary used to provide information about people and organisations and to describe relationships between them. Currently, many authentication mechanisms (such those used by the UK Certification Authority) rely on a centralised system which involves a high administrative effort – a significant barrier for entry. The proposed system does not prevent the use of such a hierarchical trust system but its greater potential for devolution offers a more streamlined, and much more usable, alternative. The resultant technology will support more flexible, transient, ad hoc relationships between people, such as those formed for the purpose of a specific project (i.e. virtual organisations) and can include individuals who would otherwise fit with difficulty in the hierarchy of institutions such as foreign guest researchers or external consultants. The technology will be applied to core middleware utilised by two important JISC initiatives which rely heavily on the Access and Identity Management programme: the UK NGS and the UK Access Management Federation. More information can be found on the community wiki page.
+Bookmark with:
+Delicious
+Digg
+reddit
+Facebook
+StumbleUpon
+| Disclaimer | Privacy | Copyright notice | Accessibility | Freedom of information | Login |
+IT Services, Devonshire House, Precinct Centre, The University of Manchester, Manchester, UK, M13 9PL | Contact details | Feedback
+Royal Charter Number: RC000797

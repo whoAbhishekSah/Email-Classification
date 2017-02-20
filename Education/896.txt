@@ -1,0 +1,52 @@
+MicroViews
+MicroViews
+Home
+Demo
+About
+Team
+Documentation
+Twitter
+Blog
+Google Code
+Start date: 01/07/2009
+End date: 01/01/2010
+Funded by:
+University of Southampton >
+ECS >
+Microviews
+Welcome to MicroViews! MicroViews is a plugin for the jQuery javascript library. It will provide your users with dynamic tooltips for your linked EPrints.
+The library is hosted from this site so that if your users have visit another MicroViews enabled webpage then their browser will not have to download the code again, reducing the load time impact on your pages.
+Additionally this means that you will also always have the most recent and up to date version of MicroViews running on your web page.
+MicroViews is being developed at the University of Southampton as part of the OneShare project.
+Browser Support
+The following browsers and platforms have been confirmed as working with MicroViews. This list will be expanded as more browsers are confirmed as being compatible.
+Desktop Browsers
+Browser
+Windows
+OSX
+Linux
+Firefox 3
+Google Chrome
+N/A
+N/A
+Internet Explorer 7
+N/A
+N/A
+Internet Explorer 8
+N/A
+N/A
+Opera 10
+N/A
+Safari 4
+N/A
+Mobile Browsers
+Device
+iPhone
+iPod Touch
+Android
+URI: http://id.ecs.soton.ac.uk/project/704 | RDF: http://rdf.ecs.soton.ac.uk/project/704
+Contact Us |
+Business Consultancy |
+© 2009 University of Southampton
+MicroViews Logo
+© 2009 Lucy Phillips. Used with permission.

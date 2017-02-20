@@ -1,0 +1,25 @@
+ICBL project: Elf search service demonstrator
+Institute for Computer Based Learning
+Site navigation
+skip site navigation menu
+Home
+People
+Projects
+Publications
+skip page navigation menu
+Page navigation
+Top
+Background
+Timescale
+Who's involved
+menu
+About this website
+ELF Search Service Demonstrator
+Background
+Efficient resource discovery is key to enabling the reuse of digital learning resources: if a resource cannot be found it will not be reused. The JISC's eLearning framework (ELF) and Internet Environment (IE) recognise this by providing for a number of services around the description of resources (metadata), the storage of these descriptions in catalogues (and of the resources in repositories with associated catalogues), and the remote searching of these catalogues. In particular, two ELF toolkits have been developed for the resource discovery domain - d+ and Middleware for Distributed Cognition (MDC) - and a similar resource has been developed for the JISC IE by the Subject Portals Project.
+These toolkits allow resource discovery to be embedded into the teaching and learning environment. Doing so will highlight the availability of reusable digital learning resources to teachers and students at the time when such resources are most relevant, i.e. when writing an online course and when studying. The d+ project has demonstrated a particularly simple approach to making resource discovery available within a VLE, that is as simple web pages in WebCT; we applied the same approach to the MDC and SPP toolkits and also embedding into another VLE (Moodle). In working with these toolkits it was possible to compare the strengths and weaknesses of each; appraise whether embedding resource discovery functionality into a VLE is useful to teachers; and show whether or not the simple web page approach is a suitable means of achieving the embedding.
+Who's doing this and who's paying them
+Phil Barker, Santiago Chumbe and Roger Rist, all based at ICBL, and Malcolm Moffet based at EEVL are responsible for carrying out this work. The funding comes from the Frameworks and Tools strand of the JISC eLearning Programme.
+Maintained by Phil Barker
+© For more information about this website, including terms of use, go to http://www.icbl.hw.ac.uk/aboutweb.html
+Last modified: 11 May 2005.

@@ -1,0 +1,46 @@
+Network Emulation | Application Performance Monitoring | APM
+Products
+Network Emulators OverviewA choice of fully meshed or point-to-point emulators available as either hardware or virtual appliancesINE UltraA high-performance, multi-port (10Gbps) network emulator with drawing GUIINE EnterpriseA high-performance, multi-port (1Gbps) network emulator with drawing GUIINE Flex Enterprise Virtual ApplianceA high-performance, (1Gbps) network emulator for your virtual environmentNE-ONE Desktop Emulators50Mbps to 1Gbps Point to Point network emulators with pictorial GUI and auto-configurationNE-ONE Flex Virtual Appliances50Mbps and 100Mbps network emulators for your virtual environmentNetwork Profiling & Monitoring ToolsProfiler PlusA system wide network profiling (NAPM) and application performance measurement solutionProfiler Plus FlexA system wide network profiling (NAPM) and application performance measurement solution for your virtual environmentNE-ONE ProfilerA portable network profiling (NAPM) and application performance measurement solutionNE-ONE Flex ProfilerA network profiling (NAPM) and application performance measurement solution for your virtual environmentSolutions
+By RoleApplication Developer & Development ManagerSoftware Tester & Test ManagerNetwork SpecialistInfrastructure ArchitectSystem EngineerBy TaskInternet of Things Systems TestingMobile Application Performance TestingIT TransformationApplication Design & DevelopmentApplication Performance MonitoringApplication Performance TestingRollout & Ongoing MonitoringNetwork TroubleshootingWAN/Network SimulationVirtualization TestingRadio over IP & IP over Radio TestingSatellite Link SimulationFemtocell Application TestingBy IndustryChemical/Oil/PetrochemicalCommunicationsEducationFinanceGamesGovernmentLogisticsManufacturingMilitaryProfessional ServicesRetailTechnologyUtilityPartners
+Partners & ResellersPartner ProgramClientsNews
+EventsiTrinegy in the PressPress ReleasesPress Releases 2017Press Releases 2016Press Releases 2015Press Releases 2014Press Releases 2013BlogContactInformation & Demo RequestsOffice LocationsCustomer SupportResourcesProduct DatasheetsCase StudiesWhite PapersSolution DatasheetsVideo Library
+iTrinegy’s NE-ONE NetworkEmulator & ProfilerWins Network Computing’s 2016 Best “Bench TestedProduct of the Year” Award
+Read more
+Trusted and Relied upon byGovernments, Military Organizationsand
+Corporate Enterprisesacross the globe
+Read more
+Safeguarding the success of applicationdeployment for fixed, mobile, web,and cloud environments
+Read more
+Network Emulation (Virtualization)and Network Profiling solutions that mitigaterisk and reduce cost in transformationand application deployments
+Read more
+NE-ONE Winner Banner
+Trusted and Relied upon
+Safeguarding
+Network Emulation
+MANAGING THE RISK OF NETWORKED APPLICATIONS
+iTrinegy is in the business of Application Risk Management.
+Our solutions give peace of mind to all organizations deploying networked applications - or migrating existing ones
+Profile
+Understand the networks you use and how they affect application performance
+more..
+Predict
+Mimic the worst possible network environments your application might encounter
+more..
+Prepare
+Adjust your application design strategy or migration accordingly. Tweak testing parameters & repeat
+more..
+Home Office Locations PartnersAbout Us
+White PapersProduct DatasheetsVideo LibraryAwards & Recommendations
+Network EmulatorsINE UltraINE EnterpriseNE-ONE Emulators
+NE-ONE ProfilerProfiler PlusInformation & Demo Requests
+Copyright © iTrinegy Ltd 2004-2015
+Website: Flying Pixel
+Privacy PolicyTerms of Use
+/*
+*/
+U.S. 1-888-448-4366UK. +44 (0)1799 252 200
+Products
+Network Emulators OverviewA choice of fully meshed or point-to-point emulators available as either hardware or virtual appliancesINE UltraA high-performance, multi-port (10Gbps) network emulator with drawing GUIINE EnterpriseA high-performance, multi-port (1Gbps) network emulator with drawing GUIINE Flex Enterprise Virtual ApplianceA high-performance, (1Gbps) network emulator for your virtual environmentNE-ONE Desktop Emulators50Mbps to 1Gbps Point to Point network emulators with pictorial GUI and auto-configurationNE-ONE Flex Virtual Appliances50Mbps and 100Mbps network emulators for your virtual environmentNetwork Profiling & Monitoring ToolsProfiler PlusA system wide network profiling (NAPM) and application performance measurement solutionProfiler Plus FlexA system wide network profiling (NAPM) and application performance measurement solution for your virtual environmentNE-ONE ProfilerA portable network profiling (NAPM) and application performance measurement solutionNE-ONE Flex ProfilerA network profiling (NAPM) and application performance measurement solution for your virtual environmentSolutions
+By RoleApplication Developer & Development ManagerSoftware Tester & Test ManagerNetwork SpecialistInfrastructure ArchitectSystem EngineerBy TaskInternet of Things Systems TestingMobile Application Performance TestingIT TransformationApplication Design & DevelopmentApplication Performance MonitoringApplication Performance TestingRollout & Ongoing MonitoringNetwork TroubleshootingWAN/Network SimulationVirtualization TestingRadio over IP & IP over Radio TestingSatellite Link SimulationFemtocell Application TestingBy IndustryChemical/Oil/PetrochemicalCommunicationsEducationFinanceGamesGovernmentLogisticsManufacturingMilitaryProfessional ServicesRetailTechnologyUtilityPartners
+Partners & ResellersPartner ProgramClientsNews
+EventsiTrinegy in the PressPress ReleasesPress Releases 2017Press Releases 2016Press Releases 2015Press Releases 2014Press Releases 2013BlogContactInformation & Demo RequestsOffice LocationsCustomer SupportResourcesProduct DatasheetsCase StudiesWhite PapersSolution DatasheetsVideo Library

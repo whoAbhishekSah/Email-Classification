@@ -1,0 +1,260 @@
+IMRG is the UK's industry association for online retail
+Menu
+Membership
+Membership
+Retailers
+Solution Providers
+Solution Provider Directory
+Retailer Benefits
+Benchmark your performance
+Access industry-leading data and insight
+Network with your peers
+More info
+Solution Provider Benefits
+Become part of IMRG's voice
+Advance your market strategy
+Share thought leadership
+More info
+Data & Reports
+Data & Reports
+Sales Indexes
+Delivery Index
+Quarterly Benchmark
+IMRG Reports
+Cross-Border Country Guides
+Latest Data Indexes
+IMRG Capgemini Sales Index January 2017 (reporting December)
+20/01/2017
+IMRG Capgemini Sales Index Summary December 2016
+IMRG MetaPack Delivery Index - December 2016
+13/01/2017
+IMRG Metapack UK Delivery Index Summary December 2016
+Quarterly Benchmarking Q3 2016
+25/11/2016
+IMRG E-Retail and M-Retail Quarterly Sales Index
+IMRG Insight
+Latest Insights
+Analysis of a new delivery peak trend
+08/02/2017
+In 2016, we recorded a notable shift in the IMRG MetaPack Delivery Index over the peak Christmas trading period. The month-on-month order volume growth between November and December 2016 was just +4.5% – far lower than the equivalent in 2015.
+Online fashion: customer retention rates still lag
+15/02/2017
+Looking at our latetst data, active retention rates for the clothing sector are lagging behind the rate for total online retail. What are the factors behind this trend and is there anything retailers can do to improve?
+What can retailers learn from the growth in active customer retention?
+31/01/2017
+We’ve seen a 67% increase in online retail customer retention rates in the last 6 years. This trend, while remarkable, is perhaps not surprising. If a retailer can persuade existing customers to keep buying, the purchases that follow don’t come with the margin-eating cost-per-acquisition of new customers.
+View all Insights
+Events
+Events
+All IMRG Events
+Previous Events
+IMRG Event Videos
+Featured Events
+eCommerce Worldwide Summit 2017 (IMRG Supported)
+9:00 AM on 24/05/2017
+Platinum Suite, Excel
+The only cross border focused Summit in the UK.
+IMRG Fashion Connect Conference 2017
+9:30 AM on 23/02/2017
+1 America Square
+This Fashion Connect will have a special focus on lifetime customer value and how to determine it, including identifying what loyalty actually means and understanding cross-channel behaviour.
+IMRG Risk Management Forum
+9:00 AM on 15/03/2017
+Ingenico Office
+IMRG runs its first risk management forum and reviews current fraud levels and trends.
+Media
+Media
+IMRG Advisory Board
+Press Releases
+Retailer Ranking
+IMRG in the Press
+Contact IMRG
+Menu Item
+Black Friday discounting sees lowest ever basket value for electricals
+20/12/2016
+The IMRG Capgemini eRetail Sales Index has revealed the extent to which retailers slashed prices on Black Friday weekend, with the Index recording tumbling average basket values for numerous online retail sectors.
+The growth of next day deliveries in the UK
+24/01/2017
+The latest data from IMRG and MetaPack reveals that the typical delivery timeframe appears to be shrinking – as next-day delivery services are accounting for a greater share of online orders.
+UK online sales exceed £130 billion in 2016, fuelled by sales growth on smartphones
+16/01/2017
+£133bn was spent online with UK retailers in 2016. The results demonstrate an exceptional performance for online retail in 2016, exceeding IMRG and Capgemini’s forecast of 11% growth for the year and unexpectedly reversing a trend of declining growth rates over the past few years.
+Blog
+Search
+Search
+Account
+IMRG Account Login
+Login
+Forgot Your Password?
+Register
+Membership
+Retailers
+Solution Providers
+Solution Provider Directory
+Data & Reports
+Sales Indexes
+Delivery Index
+Quarterly Benchmark
+IMRG Reports
+Cross-Border Passports
+IMRG Insight
+Events
+All IMRG Events
+Previous Events
+IMRG Event Videos
+Media
+Press Releases
+Retailer Ranking
+IMRG in the Press
+Contact IMRG
+Blog
+Search
+Understand and improve your online retail performance
+A membership community offering neutral and unique resources for online retailers
+- Performance benchmarking
+- Data & insights
+- Community & events
+Get Started
+IMRG membership is for…
+SME retailers
+Learn from experts
+Move your business forward
+Discover best practice
+Large retailers
+Build winning strategies
+Optimise your performance
+Keep ahead of the pack
+Solution providers
+Build brand profile
+Inspire through thought leadership
+Grow your network
+Subscribe to our free newsletter
+Get up-to-date news, reports and event notifications
+Subscribe
+Signup for IMRG's Newsletter
+<form-template>
+<fields>
+<field class="form-control" label="Email address" name="email_address" required="true" type="text" subtype="email"></field>
+<field class="form-control text-inpu" label="First name" name="first_name" required="true" type="text" subtype="text"></field>
+<field class="form-control" label="Surname" name="surname" required="true" type="text" subtype="text"></field>
+<field class="form-control" label="Company" name="company" required="true" type="text" subtype="text"></field>
+<field class="form-control" label="Job title" name="job_title" required="true" type="text" subtype="text"></field>
+<field class="form-control" label="Retailer or Solution Provider?" name="retailer_solution_provider_option" placeholder=" " required="true" type="select">
+<option value="retailer-option">Retailer</option>
+<option value="solution-provider-option">Solution Provider</option>
+<option value="other-option">Other</option>
+</field>
+<field class="form-control" label="IMRG Membership?" name="imrg_membership" placeholder=" " required="true" type="select">
+<option value="imrg-member">I am an IMRG Member</option>
+<option value="not-imrg-member">I am not an IMRG Member</option>
+<option value="dont-know-imrg-member">I don't know</option>
+</field>
+<field class="receive_press" label="I would like to receive Press Releases from IMRG" name="receive_press" type="checkbox"></field>
+<field class="btn btn-default" label="Sign up now" name="button-1462463151266" type="button" subtype="submit"></field>
+</fields>
+</form-template>
+Signup to our free newsletter to receive…
+Weekly news and updates from IMRG
+Insight on the latest trends as they emerge
+Access to free IMRG events (retailer only)
+Industry updates from our experts
+And much, much more
+What do you want to know?
+Data
+Quarterly Benchmarking Q3 2016
+25/11/2016
+IMRG Capgemini Sales Index December 2016 (reporting November)
+19/12/2016
+IMRG MetaPack Delivery Index - December 2016
+13/01/2017
+Read More
+Reports
+Brexit and online retail – what do we know so far?
+24/10/2016
+Black Friday for SMEs – alternative approaches for the Xmas peak
+25/10/2016
+How do shoppers perceive value today?
+07/12/2016
+Read More
+Insights
+What can retailers learn from the growth in active customer retention?
+31/01/2017
+Analysis of a new delivery peak trend
+08/02/2017
+Online fashion: customer retention rates still lag
+15/02/2017
+Read More
+Events
+IMRG Fashion Connect Conference 2017
+9:30 AM on 23/02/2017
+IMRG Risk Management Forum
+9:00 AM on 15/03/2017
+IMRG Personalisation Forum
+9:00 AM on 30/03/2017
+Read More
+Mark Felix - Director of Online Trade, John Lewis
+Andrew Fowler - UK Country Manager, Apptus Technologies
+David Williams - Director of Online EMEA, Deckers Brands
+Roger Morris - Head of Royal Mail Parcels, Royal Mail
+Why join IMRG?
+IMRG's benchmarking data helps us understand market trends and gives us deeper insight so that we can have strategies that are set up for success
+Mark Felix, Director of Online Trade, John Lewis
+Working with the IMRG Team has been fantastic, the fact that they're an independent body that truly care about bringing the e-community together is great
+Mark Thornton, Marketing Director, Maginus
+The benchmarking IMRG gives us is really useful - it gives us a chance to see other trends happening in the industry
+David Williams, Director of Online EMEA, Deckers Brands
+It's important for us to be involved with IMRG, a credible brand and an authority in the marketplace, and attend events networking with eCommerce professionals
+Andrew Fowler, UK Country Manager, Apptus Technologies
+IMRG membership has been incredibly useful across the business – the reports are great for benchmarking our performance and the events cover a wide range of relevant topics
+Jenny Lovell, Market Research Manager, eBay
+The IMRG conferences provide access to a much wider range of retailers than we see anywhere else - both online and bricks & mortar
+Roger Morris, Head of Royal Mail Parcels, Royal Mail
+We find the IMRG an invaluable daily resource for our company and team members. Their data helps drive our business and ensures we stay in touch with industry standards
+Mark Bodoano, Managing Director, Digivate
+Retailer benefits
+Benchmark your performance
+Access industry-leading data and insight
+Network with your peers
+More info
+Solution provider benefits
+Become part of IMRG's voice
+Advance your market strategy
+Share thought leadership
+More info
+Join these great brands and many more at IMRG …
+Not a Member?
+Retailer Benefits
+Benchmark your performance
+Access industry-leading data and insight
+Network with your peers
+More info
+Solution Provider Benefits
+Become part of IMRG's voice
+Advance your market strategy
+Share thought leadership
+More info
+Already a member?
+Log in here
+Click here if you have forgotten your password.
+Menu
+About IMRG
+Our Team
+IMRG Advisory Board
+Press Releases
+Contact IMRG
+Privacy Policy
+Terms & Conditions
+Contact Us
+IMRG
+2 Ching Court
+49 – 53 Monmouth Street
+London
+WC2H 9EY
+Tel: 0203 696 0980
+2016 © IMRG
+Keep In Touch
+Twitter
+LinkedIn
+An IMRG Company
+IMRG is the UK’s online retail association – a membership community offering neutral and unique resources for online retailers.
+Read More

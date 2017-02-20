@@ -1,0 +1,55 @@
+Aegate – The Medicine Digital Network
+Aegate
+The Medicine Digital Network
+Home
+About
+News
+Careers
+Contact
+Menu
+back
+The Blueprint Professionals
+Delivering patient safety across Europe
+Aegate protecting patients
+and your brand throughout the supply chain
+Aegate's proven medicine verification solution
+Meeting the needs of NMVOs
+More about Aegate as an EMVO appointed Blueprint Solution Provider
+View More
+Welcome to Aegate
+Aegate is an expert in the digital authentication of medicines. We have developed tried and tested technology that provides the high performing authentication service that NMVOs require to keep patients safe from falsified and expired medicines, across Europe.
+Experience Counts
+Each year in Europe 10 billion medicine packs are dispensed. Under the Falsified Medicines Directive (FMD) each one will need to be checked in real time, in all dispensing environments.
+Aegate has extensive experience with over 10 years of continuous operational service that has seen 3.9 billion packs scanned. This means that we are acknowledged as authentication specialists. We are professionals in Blueprint with an existing, fully functioning solution.
+We are able to demonstrate:
+Long term performance measurement of speed of response, accuracy and security. Proving the robust nature of the service.
+Understanding of the cultural and structural differences and challenges in the individual markets across Europe.
+Meaning that we understand what it will take when it comes to implementing a successful medicine authentication solution.
+The FMD Clock is Ticking
+CountdownCountdown
+The Falsified Medicines Directive has to be implemented by February 9 2019.
+For the latest on FMD issues and talking points download our Acumen Newsletter
+Read Issue 2 here:
+Download
+Read Issue 1 here:
+DownloadOur Blueprint Solution
+The Aegate Blueprint solution delivers clear advantages for the NMVOs:
+The system is robust and mature and is fully proven in dispensing environments meaning lower risk
+It can be tailored to local requirements, language and regulations allowing flexible implementation and no interruption to pharmacy routines
+It has an existing repository and interface (API) meaning it will work from day one
+The Aegate Blueprint solution is the standard
+Aegate is an EMVO appointed Blueprint provider. The Aegate Blueprint solution is highly secure and resilient, because it is hosted on a private cloud, which delivers 100% availability. It is performance proven with a well-established test harness an intuitive reporting.
+Report Highlights the Cost of Fake Drugs in the EU
+According to The European Observatory on Infringements of Intellectual Property Rights (EUIPO) fake drugs cost the EU pharmaceutical industry €10.2bn annually. In their recently published report, that refers to manufacturers and wholesalers but not retailers, The Observatory estimates that the loss of sales in the sector is equivalent, in direct employment losses, of almost 38,000 jobs. The report also highlights the serious consequences for health that fake drugs can have on patients across Europe. These health issues also have economic implications, especially on healthcare systems. For more information, see the full report here.
+This risk to health is why the EU Parliament have taken action to introduce the Falsified Medicines Directive, which needs to be implemented by February 2019, to help to secure the pharmaceutical supply chain from the dangers of falsified medicines.
+Speed Does Matter
+Our experience has given us unrivalled insight which combined with our investment in technology have enabled us to develop a solution that is fast and reliable.
+We have been able to reduce the pharmacy round-trip response time from 628ms to 135ms. This high speed performance means scanning without delay and uninterrupted service.
+Our ground breaking work in hospitals
+A unique approach is required for these unique dispensing environments.
+They are complex settings with numerous potential dispensing points, large scale goods in arrangements, different work flows compared to retail pharmacy plus the use of robots to aid stock control and dispensing.
+To provide guidance in this area Aegate has produced the Good Authentication Practice guide or GAP™.
+This 12-point guide was developed as the result of an ongoing research project with Oxford NHS Trust.  The points in the Guide have been formulated as a direct result of observations, and research findings and are based on practical application and not abstract thought.
+Read More
+a
+HomeAboutNewsCareersContactTerms of UsePrivacy PolicyCookie Policy

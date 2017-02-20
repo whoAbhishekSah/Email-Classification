@@ -1,0 +1,134 @@
+Personalisation in presentation services homepage
+Personalisation in presentation
+servicesA report commissioned by JISC
+Full
+report:PDFversion (850 kb)
+Web version:
+Introduction,
+acknowledgements
+Context
+Literature
+review
+Emergent
+issues
+Conclusions
+Recommendations
+Bibliography
+Appendices:
+Base
+Definitions
+Participants
+Acronyms
+Expanded
+Short
+author biogs
+JISC
+Information Environment Architecture
+Charles
+Leadbeater's new script for public services
+Authors: Nicky Ferguson, Seb Schmoller, Neil
+SmithRevision Date: 4 August 2004Web: http://www.therightplace.net/jp/Email:
+jp-study@therightplace.net
+Executive Summary
+The activities conducted during this study, commissioned by the UK
+Joint Information Systems Committee (JISC), included a literature review,
+interviews, three regional workshops and an email questionnaire which
+received responses from several European countries, Australia and the USA.
+The report concludes that personalisation is effective and feasible in
+situations where data is controlled and where there is a clear rationale
+or business case. It identifies several impediments to using
+personalisation with uncontrolled data, including immature technology and
+lack of metadata.
+Personalisation can improve efficiency, reveal inadequacies in business processes and allow services and learning materials to be effectively targeted. Although personalisation is no substitute for user requirements analysis and user-centred design, accessibility to users of all abilities may be improved by offering options such as switching off graphics, or changing font-sizes or background colours - all Web sites should consider this. True personalisation is more than allowing users to "re-skin" the interface or change the position of screen elements.
+The report identifies a number of areas where interesting and rewarding
+work might be done. It does not recommend setting up national services for
+personalisation or user profiles and it discourages the development of
+national standards in an area where international de facto standards are
+still developing.
+It recommends:
+small pieces of work looking at user requirements and exploring
+innovative and tightly defined uses of personalisation approaches
+work on sharing user profiles between services, diverse
+organisations and institutions
+looking at the use of different profiles for an individual user in
+different roles or different areas of life (work, home, sport, leisure
+etc)
+institutions use the push for personalisation to ensure that their
+core data and processes are reliable and efficient, and where they are
+not to transform them
+the use of a common vocabulary for describing personalisation work
+in the UK academic community
+the use of consistent standards throughout the community for the use
+and production of RSS (newsfeeds)
+some research should be done into the uses of customisation and
+personalisation to extend access to disabled users
+every effort should be made to capitalise on JISC's substantial
+investment in services and resources. Users may want to use resources
+through personalised institutional portals or through personalised
+subject based services. Re-use and multiple use of records and resources
+available to the UK academic community should be encouraged. Institutions and subject based services must easily be able to access and share resources, in order to provide personalised services. The RDN (Resource Discovery Network) contains indisputably valuable resources which should be accessible to end users via a number of institutional or subject-based services.
+Promotional activity for the RDN itself would be better focussed at service providers, whether institutional or subject-based rather than attempting to promote an RDN brand to end users.
+Similar conclusions apply to JISC services in general.
+It is inevitable that every service and project will have its own Web site and it is desirable for end users to have multiple interfaces to publicly funded resources.
+However it is undesirable that competition between government funded services for end-user "hits" leads to restrictive practices and discourages sharing.
+Assessment measures and performance indicators which encourage such restrictive practices should be removed and replaced with measures which encourage and incentivise resource sharing, nationally and internationally.
+Keywords
+personalization, personalisation, user modeling, presentation services, user
+profiling, adaptive, user modelling, customisation, customization, customising,
+interface, customizing interface, portal, personal interface, further education,
+higher education, JISC, gateway, Web services
+Summary of Contents
+1
+Introduction
+1.1 The call and its background
+1.2 The wider background
+1.3 Terminology and definitions in this study
+1.4 Authors
+2
+Target Audience
+3
+Methodology - the way we did the study
+3.1 Literature review
+3.2 Face to face interviews
+3.3 Regional workshops
+3.4 Email questionnaire
+4
+Context
+4.1 UK context
+4.2 Wider context
+5
+Literature Review
+5.1 Summary of sources
+5.2 Product Summaries
+6
+Emergent themes and issues
+6.1 The role of portals
+6.2 What do users want? What do they need?
+6.3 Access and accessibility
+6.4 Authentication, Authorisation and Accounting (AAA)
+6.5 Profiles and preferences
+6.6 Issues outside the scope of the personalisation study
+7
+To personalise? - incentives and impediments
+7.1 The business case for personalisation in the UK academic
+community
+7.2 Implementation issues and impediments
+8
+Conclusions
+9
+Recommendations
+10
+Bibliography
+11 Appendices
+11.1 Base
+Definitions
+11.2
+Participants, respondents, interviewees, people who have helped
+11.4
+Acronyms Expanded
+11.5
+Short author biographies
+11.6 JISC
+Information Environment Architecture
+11.7
+Charles Leadbeater's new script for public service

@@ -1,0 +1,27 @@
+LIFE: Life Cycle Information for E-Literature.
+skip to content
+Monday 20 February 2017
+...helping to bring digital preservation to LIFE
+Location: LIFE homepage »
+Menu
+Home
+What is LIFE?
+LIFE Team
+LIFE1
+Documentation
+Conference
+LIFE2
+Documentation
+Conference
+LIFE3
+Documentation
+LIFE Tool
+LIFE Blog
+LIFE Cycles
+Glossary
+Welcome to the LIFE Website
+LIFE (Life Cycle Information for E-Literature) is a collaboration between University College London (UCL) and the British Library.
+The LIFE Project has developed a methodology to model the digital lifecycle and calculate the costs of preserving digital information for the next 5, 10 or 20 years. For the first time, organisations can apply this process and plan effectively for the preservation of their digital collections.
+The third phase of LIFE commenced in August 2009, and will run for one year with funding from JISC and RIN. By producing a predictive costing tool, LIFE3 will significantly improve the ability of organisations to plan and manage the preservation of digital content. The project will expand its existing Generic Preservation Model to create a comprehensive suite of models covering all life cycle stages, providing greater accuracy and assurance in estimation. The predictive costing tool will be made available towards the end of 2010, as both a web application and an Excel-based model. The project team would be delighted to hear from organisations interested in assisting with trials of the tool.
+for enquiries contact life@bl.uk
+LIFE (Life Cycle Information for E-Literature) is a funded by the Joint Information Systems Committee (JISC) and Research Information Network (RIN) and is a collaboration between University College London (UCL) and the British Library

@@ -1,0 +1,70 @@
+[damaro]
+Welcome to the DaMaRO website
+HomeWelcome to the DaMaRO website
+What is DaMaRO?
+The Data Management Rollout at Oxford (DaMaRO) Project is creating a research
+data management policy for the University and the infrastructure to enable
+researchers to comply with it.
+A high-level Research Data Management Working Group has been convened to
+ensure that the Project's activities are coordinated with the strategic
+interests of the University of Oxford. This group consists of senior members
+of Research Services, IT Services, and the Bodleian Libraries. Members of the Working
+Group organised a 'Digital Services
+to Support Research' workshop in July 2012 to consider the various
+components of a University infrastructure, and now meets bi-monthly.
+The Damaro Project will be taking the outputs of the various research data
+management projects that the University has been engaged in over the last
+few years and combining them into a better-integrated suite of tools and
+discovery mechanisms that will support researchers throughout the data
+life-cycle, from planning to re-use.
+Of particular note is the ‘DataFinder’ tool that DaMaRO will be developing.
+This will enable the discovery of data hosted in various places around the
+University and beyond, including the Bodleian Libraries' 'DataBank'
+(developed through the Admiral and DataFlow projects), the Online Research Database Service (ORDS) (created during the Sudamih and VIDaaS Projects),
+departmental and other local data stores, the Web 2 research management
+network 'Colwiz', and hopefully
+the 'LabTrove' system developed
+by the University of Southampton. It will also connect this data with
+research papers and publications held in the Oxford University Research Archive
+(ORA).
+Behind the scenes, DataFinder will be able to automatically gather metadata
+from each of the tools and repositories it connects to, assign DOIs where
+they are not already assigned, and ensure that the metadata complies with
+the national DataCite standards.
+Furthermore, DataFinder will make the metadata it gathers available as
+linked data, and also map it to the CERIF standard, so that alerts can be issued to compatible
+research management systems when new project outputs are made available.
+DataFinder will be designed so as to be implementable as a hierarchical
+structure, so that an institutional instance can harvest data from
+departmental instances and, ultimately, a national instance could harvest
+the data from institutional instances, forming a UK data discovery tool.
+DataFinder will be a freely-available web service.
+Besides software development, the DaMaRO Project will develop data management
+training and documentation for researchers, expanding and adding to the
+materials developed during the Sudamih Project and the other projects funded by the JISC
+Managing Research Data Programme. A long-term business plan for
+providing and maintaining the DaMaRO enterprise environment will also be
+developed during the course of the project.
+DaMaRO will work alongside the Oxford DMP Online
+Project to ensure that the mechanisms it develops are integrated
+with data management planning tools used in the University.
+For further enquiries about the DaMaRO Project, please contact damaro@oucs.ox.ac.uk.
+DaMaRO is funded under the JISC's Managing
+Research Data (JISCMRD) Programme.
+DaMaRO Feeds
+DaMaRO News:
+ORDS maintenance work Tuesday 27th October 7am to 9am[2015-10-23T15:12:40Z][2015-10-23T15:12:40Z]Reflections on Damaro: foundations of RDM services in the Bod[2013-07-05T17:09:53Z][2013-07-05T17:09:53Z]DaMaRO training materials available online, plus final reflections[2013-06-14T18:51:54Z][2013-06-14T18:43:31Z]Survey results: research data management knowledge and training needs among University of Oxford research support staff[2013-06-17T15:49:14Z][2013-06-14T15:22:27Z]Damaro Project Update – May/June 2013[2013-06-10T17:56:36Z][2013-06-07T15:12:24Z]
+Subscribe
+Home
+Contact details
+Reports and presentations
+Research data management induction resources
+Research data management training materials
+Damaro and Oxford DMPonline End-of-Project Workshop
+Digital Services to Support Research Workshop
+The Oxford RDM Working Group
+Funded by JISC/HEFCE under the Managing Research Data Programme.Accessibility|
+© University of Oxford OUCS documents are
+available in alternative formats through advance request from the Help
+Centre.
+Author James A. J. Wilson, 2011-10-07.

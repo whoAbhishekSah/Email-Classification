@@ -1,0 +1,92 @@
+Captcha Blog | Updates on JISC funded Captcha Project.
+Captcha Blog
+Updates on JISC funded Captcha Project.
+HOME
+The Captcha Team
+JISC Building Capacity Programme.
+Workshop on Ning – Aug 27th
+Through Captcha we invited Becka Currant (Dean of Students at the University of Bradford) to run a workshop and follow-on discussion around ‘Using Ning to Support Student Transition, Induction and Retention’.
+The session was really succesful and well received. It was attended by a wide range of staff from support services,
+library, marketing, helpdesk and faculty academic staff.
+We also took the opportunity to show the work we have managed to support with the Faculty of Education and their incoming PGCE students (Secondary and
+Primary) where over 400 students used Ning for social networking at an early stage before they arrived at the UoC.
+The success of this pilot and the feedback from students about the usefulness and the ease-of-use have been very encouraging.
+Becka’s discussion of
+Bradford Uni’s experience and some of the issues faced and overcome prompted lively, practical and focussed discussions which we hope to capitalize on asap.
+2010
+09/02
+CATEGORY
+Uncategorized
+Leave a comment
+Student retention: what the research says
+In an attempt to refine some of the areas that Captcha wants to look at, I’ve been reading around the topic of retention and extracting what I think is relevant to the project.  It’s sort of an extension of the existing literature review:
+Student Transition and Retention Project (STAR):  Tony Cook from University of Ulster gave a keynote at the CDLT Conference a few years ago and outlined the following issues which Captcha should be mindful of:
+October/November is a critical time as a majority of students leave in these months (followed by December/January).  This means that if at all possible some Captcha material needs to be available to students in September.
+Student mentoring solutions are effective (so some sort of generic student voice through the use of technology may be of benefit)
+Include non-traditional students in the induction information (we are already actively seeking out stories from non traditional students).
+Some of the footage could concentrate on what has been successful in the past including:
+Focus on a challenging but positive experience
+The benefits of having a goal
+Tony also mentioned the importance of pre-emptive support and permitting a pre-entry experience – again this is something we are focussing on with early access to Blackboard and social networking through Ning.
+2010
+07/20
+CATEGORY
+Uncategorized
+Leave a comment
+Research Ethics
+Jeremy has applied for ethical clearance for the project with the University Ethics Committee.  Here is the application.ResearchEthicsApplicationFormDocE4H
+In addition the Flip video cameras arrived last week and were immediately put to use to capture the experience of PgC student reps.  This piece of video should be treated with caution for this project as these were not a group of typical new entrants to the University BUT I think the footage is useful because it shows both tutors and students what they can aspire to in terms of liaison between students and staff.
+This group of students presented at the CDLT internal learning and teaching conference ‘Empowering students’.  Phil Smith, Jeremy Benson and myself also presented at the conference simultaneously in Carlisle and Lancaster.  Here is our presentation.  Capturing the student voice-06-24-10-00-09 We used the session to raise awareness of previous JISC work in this area, and also to try and recruit interested tutors to join us in the project and encourage their students to get involved.  Findings in the literature review did point to the fact that recruiting students to a project is not easy – we have discovered that posting an advert on the front page of Blackboard has very little impact.  Working with enthusiastic tutors may be a good way to encourage students to be involved.  To this end we have also been in touch with some tutors who we know are already working with groups of second year students to facilitate an informal mentoring system with the new entrants.  We feel that if we chose tutors who lead by example, then we may find that tutors coming to us when we can demonstrate success.
+2010
+07/08
+CATEGORY
+Uncategorized
+Leave a comment
+Literature Review
+Continued work on the literature review:
+Decided to use PBWiki to collate our work on the literature review.  Looks ok but very slow to respond to any changes in text or formatting , so this isn’t a ‘live’ version’.  Instead we are working offline and then copying and pasting into the wiki page.
+2010
+06/28
+CATEGORY
+Uncategorized
+Leave a comment
+Project Management
+Microsoft Office Project – Captcha
+Project Diagram and Chart to outline key tasks and staff related to achieving objectives.
+2010
+06/09
+CATEGORY
+Uncategorized
+Leave a comment
+Ning
+As the Captcha team were impressed by the use of Ning at University of Bradford, we recommended that the PgC Secondary team in the Faculty of Education used it to support their new intake who started at the end of May.  The PgC team and Captcha saw the use of Ning as an aid to start conversations among ‘unconditional firm applicants’ who had accepted their offer.  The conversations were expected to be about finding their way around campus, how to find accommodation.   This was set up by one of last year’s students who had felt very strongly that this was needed to support students through a complex time.  In addition to this, the Captcha team has worked the the faculty of education marketing staff and ICTS to ensure that this same group of students has early (ie pre-registration) enrollment to our VLE (Blackboard).  This hasn’t been as easy as it should have been because we are relying on information from SITS and thus the students needed to have been fully ‘processed’ before a Blackboard account has been created.  So as a short term measure the accounts were batch created manually.  The students than have access to a tab in the Blackboard community system that introduces them to the ethos of the course, and sets them a few pre-enrollment tasks (e.g. to spend a day in a primary school).
+I don’t think I’m wrong in saying that this project produces some ‘tensions’ between other processes within the University.  Mainly marketing who see their role as supporting pre-enrolled students.  However, we have been careful to stress that we don’t aim to either duplicate, or offer contradictory advice to pre-enrolled students – we are offering teaching and learning support and if students want to discuss accommodation through Ning, then at least they are doing so through a semi official UofC site.
+As well as working with the Faculty of Education, we have been keen to attract a range of students to the Captcha project.  This hasn’t been very successful so far, but I think this may be down to timing.  I have also read the Twoler final report and they offer some tips on how to engage students and motivate them to join the project.  We sent out a global email and posted an announcement asking for student stories that reflect back on the first engagement with the University.  It has been a problem finding the right terminology, because I don’t see Captcha as necessarily a ‘first year experience’ project, although this may involve some aspects of this.  We are also eager to hear from work-based students, mature students, part-time students.  So far we have had two responses to the call – one from someone who will use the webfolio tool in PebblePad to tell their story and one who will create a short video.  I’m not thrilled with the response but I am pleased that the stories will be different – one will talk about juggling family commitments and work-based learning, the other is going to talk about the first time away from home – how to do laundry and cook.  We’re aiming to use these stories to generate more interest in the autumn when hopefully we can spark some more interest.
+This is a pattern we intend to repeat – use one success (no matter how small) to foster a wider interest.  With this in mind we are anticipating an increased interest in using Ning.  I don’t see the fact that Ning are going to charge as a bad thing.  In fact it may result in a more planned and sustained use of the software.  We are also considering bringing it in house onto our own servers if this is possible.  Why this and not Blackboard then?  Well I would argue that it is a lot more fluid and flexible, particularly for the unconditional firm applicants – and maybe even other groups.  Staff have expressed concern that we may confuse students with ning, Blackboard and PebblePad – will we?  I guess we can try and find out.  I don’t see any evidence of this yet, especially as we are all dipping in and out of various Web 2.0 applications – I have a facebook account, a delicious account, hundreds of shopping accounts….and I never get confused between the different types of software/services.
+Sarah.
+2010
+06/03
+CATEGORY
+Uncategorized
+Leave a comment
+Second project meeting
+We had our second project meeting yesterday.  The feedback from Mary about the JISC projects she has been looking at was useful and now Phil, Jeremy and I are going to go over them to see what ‘technical’ information we can pick up, as well as information about retention and induction etc.  Mary has refined our search for us.
+Phil saw this in the Times Higher – sums up a lot of what we are aiming to do.
+2010
+04/16
+CATEGORY
+Uncategorized
+Leave a comment
+1
+2
+»
+Captcha, a JISC funded Building Capacity Programme.
+Captcha is funded by the JISC under the Building Capacity Programme. It is looking at using technology to support students through induction and their first few months at the University of Cumbria.
+RSS FEED
+TAG LIST
+Delicious
+Create a free website or blog at WordPress.com.
+Captcha Blog
+Blog at WordPress.com.
+Post to
+Cancel

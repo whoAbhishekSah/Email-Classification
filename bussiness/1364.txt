@@ -1,0 +1,83 @@
+Welcome to UltraSoC • UltraSoC
+UltraSoC
+Menu
+Skip to content
+Home
+Company
+About us
+Management
+Board
+Investors
+Careers
+Current Vacancies
+Technology
+What we do
+UltraSoC Modules
+Tools and Software
+Applications
+SoC Debug
+Analytics and optimization
+In-field
+Security
+News
+Press releases
+In the media
+Events
+Resources
+FAQ
+Downloads
+Blog
+Contact
+Careers
+Current Vacancies
+Find out more about our technology
+Welcome to UltraSoC
+Better SoCs: faster
+UltraSoC is transforming the way companies develop and deliver next-generation electronic devices and systems. Our products allow engineers to look inside systems-on-chip (SoCs) during the development process, and understand exactly how they operate under real-life conditions.
+Development teams are also using our on-chip monitoring and analytics IP to equip their SoCs with an exciting range of new capabilities, applicable in markets from network infrastructure to mobile phones, and from safety-critical systems to the Internet of Things (IoT).
+These include value-add functions such as hardware-based security measures, service level agreement (SLA) enforcement and in-service performance enhancement – functionality enabled by chips with hard-wired self-monitoring capabilities.
+UltraSoC’s “smart” modules operate across the whole SoC: reporting rich information in real-time, non-intrusively, from hardware and software. And because the system is vendor-neutral, it provides an efficient way to integrate IP from different vendors, into one coherent framework, including legacy solutions or in-house custom logic.
+Once designed-in, our technology delivers multiple benefits, including:
+Debug
+Powerful multi-core SoCs drive progress in today’s electronics industry: but there is a crisis in their development. Chips and their accompanying software are now so complex that it is impossible to fully understand their operation using traditional means.
+If you’re producing a chip, debugging alone will take one third of the total effort required. By incorporating UltraSoC’s advanced monitoring and analytics circuitry into your device, you can dramatically reduce this: significantly accelerating your time-to-market; removing even the most intractable, hard-to-spot bugs; increasing quality; de-risking the entire development process and reducing potential liabilities and warranty costs. Read more…
+Optimization
+UltraSoC is a powerful tool for post-silicon optimization, giving you access to real data that allows you to squeeze every last bit of performance out of your device.
+Having better information about real behavior has major benefits: the hardware team can improve clock control and system behavior to reduce power dissipation; the software team can optimize their code to improve performance for real customer behavior; and the system architect can “close the loop” and produce a next-generation design based on real, actionable intelligence rather than opinions.
+UltraSoc allows you to improve performance, save power and reduce cost in complex SoC designs. Read more…
+Analytics & forensics
+An UltraSoC-equipped SoC can run software in the field that effectively “monitors its own operation”. This feature allows you to refine your products on the basis of data acquired in actual, real-life usage. You can gather trend data to pre-empt in-field malfunctions; and you can access the key status information in the event of a failure incident, to enable forensics for root cause analysis. Read more…
+Value-added features
+As well as assisting development, UltraSoC enables value-added features such as security and SLA monitoring to be hard-wired into the chip. Because they are implemented in silicon, these features work at “wire speed”, and independently of any operating system or application-level software. This gives accurate system status, without needing any load on processors or introducing any inefficiencies. Read more…
+Search
+Search for:
+UltraSoC and Teledyne-LeCroy
+Debug over USB
+UltraSoC for debug
+Latest News
+华为海思获得UltraSoC的SoC监控分析解决方案的使用授权
+3 January 2017
+HiSilicon division of Huawei licenses UltraSoC’s SoC monitoring and analytics solutions
+7 December 2016
+BaySand, Codasip, Codeplay and UltraSoC accelerate IoT development with “silicon-to-intelligence” RISC-V platform
+29 November 2016
+Codasip and UltraSoC deliver advanced RISC-V SoC analysis and debug
+21 November 2016
+Latest blogs
+Server performance problem or bug? In a world of long tail latency, sampling profilers won’t do
+26 January 2017
+Codasip and UltraSoC deliver advanced RISC-V SoC analysis and debug
+21 November 2016
+Building success: semiconductors, software and open source
+11 August 2016
+Still debugging the JTAG way? Time to try the USB way…
+27 July 2016
+RISC-V: the Linux of hardware?
+22 July 2016
+Latest tweets
+Tweets by @UltraSoC
+Cookie Policy
+Privacy Policy
+Terms & Conditions
+UltraSoC Technologies Ltd. Registered in England No: 05561843 © 2017. All rights reserved.
+This site uses cookies More infoNo problem

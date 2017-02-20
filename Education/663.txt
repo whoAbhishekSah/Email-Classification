@@ -1,0 +1,126 @@
+Integrated Research Input & Output System 2 | IRIOS-2 is a project funded under Strand 3 of JISC's Research Information Management Programme
+Integrated Research Input & Output System 2
+IRIOS-2 is a project funded under Strand 3 of JISC's Research Information Management Programme
+Home
+About IRIOS-2
+IRIOS-2 Partners
+IRIOS-2 Team
+IRIOS-2 Service Launches
+November 13, 2012
+Paul Leave a comment
+The final IRIOS-2 service is now live at https://irios2.unis4ne-system.net. A comprehensive user guide can be downloaded via a link on the login screen.
+The system currently includes grants from NERC and EPSRC, where the universities of Sunderland, Glasgow, St Andrews (IRIOS-2 partners), Durham, Newcastle, Northumbria and Teesside (members of Universities for the North East) are either the grant holder or grant partner.
+A guest account is available which gives read-only access to all grants:
+Username = GUEST
+Password = guest
+With this account, you are able to filter/browse grants and export to CERIF.
+If you are a member of staff at any of the above institutes, individual accounts can be created which will give you access to more system functionality (e.g. import outputs, record Open Access information and link outputs to grants). Please email such requests to irios@unis4ne-system.net
+Please also direct comments/questions/feedback to the above email address.
+Categories: CERIF, Deliverable, IRIOS
+D5.2 Workshop Report
+November 6, 2012
+ryanhend24 Leave a comment
+The IRIOS-2 workshop was held in Jesmond on 18th October and the project team was able to provide a live demonstration of the service.
+The workshop afforded us the perfect opportunity to assess IRIOS-2 im a commercial light, and we were able to explore options of offering the service to other ROs in the near future.
+Feedback from those in attendance was positive and discussions were informative and interesting.
+D5 2 Workshop Report
+Categories: Sunderland
+D4.2 Evaluation Report
+November 6, 2012
+ryanhend24 Leave a comment
+The IRIOS-2 project is now officially completed and with these the future of the service needs to be resolved.
+The Evaluation Report addresses testing of the service, how we looked at addressing open access and how we plan to exploit the service going forward.
+D4 2_Evaluation_Report
+Categories: Sunderland
+IRIOS2 Workshop in Action!
+October 30, 2012
+Scott Brander Leave a comment
+The final IRIOS2 project meeting (a joint meeting with the C4D project) was held in St Andrews today and a number of useful discussions took place regarding Open Access and sustainability of the work done in IRIOS2.
+Categories: Sunderland
+IRIOS-2 Final Workshop – Posters
+October 22, 2012
+ryanhend24 Leave a comment
+The IRIOS-2 and C4D project posters used at the workshop are now available to view and download.
+Additional to keep up to date with C4D developments go to out project blog, http://cerif4datasets.wordpress.com/.
+C4D_Poster
+IRIOS-2_Poster
+Categories: Sunderland
+Use Cases and Testing Plan
+October 22, 2012
+ryanhend24 Leave a comment
+Earlier in IRIOS-2 we submitted a testing plan, this was used to conduct testing on the IRIOS-2 service with results of the testing forthcoming very soon.
+The attached document includes the final testing plan as well as the IRIOS-2 user guide, while this is not to be submitted as a deliverable this document does provide the ability for system users to see the user guide and try out the service.
+Use cases and testing plan
+Any comments on this are welcome.
+Categories: Sunderland
+IRIOS-2 Final Workshop
+October 19, 2012
+ryanhend24 1 comment
+Yesterday we held the final IRIOS-2 workshop at Jesmond Dene Conference Centre in Newcastle, the turn out of this event was good and discussions held were interesting and enlightening especially with regards to the next steps for IRIOS-2.
+A workshop report will be produced and made available via this blog in due course, we will also look to have the users guide and IRIOS-2 system available to test for all who are interested early next week.
+Presentations from the workshop can be found below:
+Welcome and Introduction – Ryan Henderson (University of Sunderland, Project Manager)
+IRIOS-2 Project Overview – Kevin Ginty (University of Sunderland, Technical Manager)
+CIA Project Overview – Scott Brander (University of St Andrews, Project Manager)
+IRIOS-2 Live Demonstration – Paul Cranner (University of Sunderland, Lead Systems Developer)
+Many thanks to all the presenters and attendees for your input, we now hope to investigate what the next step will be for IRIOS-2.
+Anyone wishiing to be added to the mailing list for updates please contact Ryan Henderson (ryan.henderson@sunderland.ac.uk) and watch this space for additional developments between now and the project closure (Oct 31) and beyond.
+Categories: Sunderland
+Older Entries
+RSS feed
+Google
+Youdao
+Xian Guo
+Zhua Xia
+My Yahoo!
+newsgator
+Bloglines
+iNezha
+Subscribe
+Enter your email address to receive notifications of new posts by email.
+Recent Posts
+IRIOS-2 Service Launches
+D5.2 Workshop Report
+D4.2 Evaluation Report
+Categories
+C4D (8)
+CERIF (16)
+Deliverable (3)
+Dissemination (5)
+Downloads (1)
+EPSRC (8)
+euroCRIS (11)
+Glasgow (17)
+IRIOS (20)
+JISC (12)
+NERC (11)
+RMAS (6)
+St Andrews (10)
+Sunderland (33)
+Archives
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+Blogroll
+Cerif for Datasets (C4D)
+CERIF in Action
+IRIOS
+JISC
+Research Clusters
+Research Outcomes
+Top
+Create a free website or blog at WordPress.com.
+Integrated Research Input & Output System 2
+Create a free website or blog at WordPress.com.
+Post to
+Cancel

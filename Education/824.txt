@@ -1,0 +1,108 @@
+Lifeshareproject Blog | Digital preservation, curation, and lifecycle
+Lifeshareproject Blog
+Digital preservation, curation, and lifecycle
+HomeAbout LIFE-SHAREAbout the authors
+Library Thoughts exhibition
+April 7, 2011
+Matthew Herring
+Uncategorized
+Leave a comment
+Page from handmade book based on the Latin motto 'Aut tace aut loquere meliora silentio' ('Stay silent unless what you have to say is better than silence')
+As a little postscript to LIFE-SHARE, I thought I’d mention an exhibition, entitled ‘Library Thoughts’, on the theme of the effect of book digitisation on the culture of reading, in which I will be exhibiting some small artist’s books.  The exhibition is being organised by the Hungarian Multicultural Centre in Budapest and will be held in August 2011. My contribution to the exhibtion consists of three small artist’s books made from the paper of academic journals and meditating on the themes of digitisation, information overload and the power of words/silence. You can read more about it on my blog.
+Matthew
+Digitisation Toolkit Launch
+March 31, 2011
+Beccy
+digitisation, JISC, Project Outcomes
+Leave a comment
+Our Digitisation Toolkit is now finished and available online. This has been a large part of our project for many months so it feels great to have something to make available now. The toolkit started with some work by Dave Kilbey and JISC Digital Media looking at skills and training. Dave drew up some maps for the skills needed for digitisation at each stage of the digital lifecycle. He also identified various sources of training available to support these skills. These maps then provided the framework for our toolkit.
+We felt there was such a vast array of help and information available out there for digitisation that sometimes it was hard to know where to start. The aim of the toolkit was to cover all the different aspects of digitisation so people could go to one place. The toolkit contains information with examples and activities to apply to your own digitisation, as well as links out to that vast array of information already available. There are also a couple of case studies from the Universities of Sheffield and York that show how digitisation projects were done in real life.
+Carol and Jade from the Skills@Library team based at the University of Leeds have been fantastic helping us develop the toolkit. They’ve applied their technical and elearning skills to our digitisation knowledge and turned it into something beautiful… not that we’re biased about the powers of collaboration or anything!
+The toolkit will continue to be supported by the University of Leeds once the project has ended. Please take a look at it and do send us any feedback or examples of how you plan to use it.
+Day 10: Mandate to innovate
+March 28, 2011
+Matthew Herring
+digitisation, LIFESHARE takeaways, Project Outcomes, Takeaways, Uncategorized
+lifesharetakeaways
+Leave a comment
+CC Wisconsin Historical Images. Click to see original image in Flickr
+One of the messages which LIFE-SHARE has tried to communicate is the importance of giving staff working in collaborative ventures a mandate to innovate. Collaboration draws in the greatest benefits when the process of collaborating itself starts to generate new ideas and understandings. Collaboration can become something more than just doing the same things we have always done separately, but doing them together; it can become a means of innovating. This is a key feature of the Collaboration Continuum model which we have used as a guide to generate consortial digitisation models for the White Rose libraries. However, for this to happen there needs to be a management structure in place with the right balance between steering and empowerment of staff engaged in collaboration activities. It also depends on the breaking of established routines/processes: the job of management is also to encourage staff to look beyond current ways of doing things.
+Day 9: Digital Preservation is Cheaper Over Time
+March 25, 2011
+ned_potter
+digitisation, LIFESHARE takeaways, Project Outcomes
+lifesharetakeaways
+2 Comments
+Flickr CC image by Mukumbra
+One of the key outputs of the LIFE-SHARE Project was the case study at the University of Leeds: a cost comparison of physical conservation versus digital preservation. We analysed a sample of 200 monographs – French texts, dating from between 1890 and 1970, many of which were printed on acid paper.
+Our findings were that destructive digitisation – which is to say digitising without applying a high level of handling restrictions, and disposing of the books afterwards – was the most cost-effective way of preserving the sample over time. This is despite the fact that it was many hundred percent more expensive than physical conservation in the first instance; once storage costs were factored in.
+Clearly this method would not be applicable to collections whose books have intrinsic value, but it will certainly be a useful finding to inform future preservation strategy.
+LIFE-SHARE links:
+Preservation Case Study summary online
+Full internal report on the case study, in PDF format
+LIFE-SHARE blog post on cost comparisons
+Day 8: You’ve got to have faith
+March 24, 2011
+Beccy
+digitisation, library consortia, LIFESHARE takeaways, Project Outcomes, Takeaways
+lifesharetakeaways
+Leave a comment
+CC image by Hojusaram - click to view original on Flickr
+True collaboration calls for a radical leap of faith, the risks are great but so are the rewards. Working collaboratively requires a different mind set. It is necessary to think collaboratively from the outset rather than consider an issue and then think how it could be approached collaboratively.
+When collaborating it is vital no one approaches the partnership weighing up what they bring and compare it to other partners’ potential contributions. It is not an opportunity to mark territory or protect interests. The stronger the collaboration, the higher the investment needed in staff time and commitment as much as financially. This can be difficult in a time of limited funding, and particularly between traditionally competitive institutions. However, the benefits will outweigh the investment. It should be an opportunity to develop new and innovative services, and produce something more than all the partners could do individually. True collaboration produces more than the sum of its parts.
+LIFE-SHARE links:
+The Consortial Models page on the main site
+Day 7: Commit to communication
+March 23, 2011
+Beccy
+digitisation, LIFESHARE takeaways, Project Outcomes, Takeaways
+lifesharetakeaways
+Leave a comment
+CC image by Phil Dokas - click to view original on Flickr
+Improved communication has been key to the success of the LIFE-SHARE project. Prior to the start of the project, digitisation was fragmented both institutionally and consortially. The establishment of the project group was the first stage in bringing people together across the White Rose partners working in these fragmented areas of digitisation.
+We have continued this work by holding a number of events for White Rose staff working in similar areas related to digitisation. Our exchange of experience events already mentioned on Day 5 of our takeaways, covered copyright, digitised course readings, digitisation for archives and Special Collections, and repositories. These events helped staff share expertise but, more than that, they also helped provide a space to talk to each other in a informal way. Staff have shared ideas, best practice and lessons learned. This in turn has assisted in the building of trust between colleagues and the institutions.
+As the project approaches its conclusion, it is vital that these communication channels are maintained and relationships continue to build. The White Rose Directors’ decision to support the continuation of these exchange of experience events illustrates the strong commitment to communication between the partners.
+Day 6: It pays to invest in digitisation infrastructure
+March 22, 2011
+Matthew Herring
+digitisation, LIFESHARE takeaways, Project Outcomes, Takeaways, Uncategorized
+lifesharetakeaways
+Leave a comment
+CC image by The Poss. Click to see original image on Flickr
+We found that, in the longer term, it pays to invest in digitisation infrastructure. In both the Leeds case study and the York case study, we found in-house digitisation to be potentially cheaper than outsourcing, in terms of the cost of staff time. This does not take into account the initial investment in equipment, which can be substantial, depending on the quality of the work to be undertaken, or the replacement cost of equipment. However, this may be offset against the possibility of doing digitisation work for institutions which don’t have the capability and thus generating revenue.
+The LIFE-SHARE project has encouraged the development of in-house digitisation capability by investing in equipment and training for the White Rose libraries. Other benefits from developing in-house capability include generating staff expertise (which you need to get the best out of out-sourcing anyway); the control it gives you over processes, quality control and the handling of material; and responsiveness to your own needs.
+Older Entries
+The LIFE-SHARE Project LIFE-SHARE is a JISC-funded project from the Universities of Leeds, Sheffield and York. For more information please visit the Project Homepage. We're looking at digital preservation and curation, as well as consortial strategies for digitisation.
+Subscribe via RSSRSS - PostsRSS - Comments
+Or subscribe by email
+Enter your email address to subscribe to this blog and receive notifications of new posts by email.
+Join 7 other followers
+Recent Posts
+Library Thoughts exhibition
+Digitisation Toolkit Launch
+Day 10: Mandate to innovate
+Day 9: Digital Preservation is Cheaper Over Time
+LIFE-SHARE on Twitter
+#digitalpreservation is about being able to confidently throw stuff away #SPRUCEdp 5 years ago
+great first day of #SPRUCEdp event especially how to support #digitalpreservation community 				5 years ago
+Future proofing project at ULCC
+11kitbid.jiscinvolve.org/wp 5 years ago
+follow @SPRUCEdp to listen in to our #digitalpreservation conversations today and tomorrow 				5 years ago
+down in the big smoke for #SPRUCEdp event looking forward to good discussions on #digitalpreservation 5 years ago
+Post CategoriesPost Categories
+Select Category
+conservation
+digitisation
+Events Attended
+inventory
+JISC
+library consortia
+LIFESHARE takeaways
+Project Outcomes
+Takeaways
+Uncategorized
+Blog at WordPress.com.
+Lifeshareproject Blog
+Create a free website or blog at WordPress.com.
+Post to
+Cancel

@@ -1,0 +1,69 @@
+>
+L2O JISC project | The Project Research Community
+Developing community tools for sharing and re-purposing language learning objects
+The Project Research Community
+eLanguages home page
+Search this site
+Home
+Community
+Projects
+Glossary
+You are here: >
+Home
+>
+Projects
+>
+L2O
+L2O - Sharing Language Learning Objects
+Project update
+L2O Final Report: JISC Regional Distributed e-learning SE Region Pilot
+Project
+Kate Dickens, Julie Watson and Kate Borthwick, University of Southampton
+This final project report discusses the objectives, findings, achievements and conclusions from the L2O project.
+Download the whole report as a PDF document (601kb)
+Download the Executive Summary as a PDF document (74kb)
+View the Executive Summary online
+L2O is a JISC-funded Distributed e-learning Pilot Project. Led by the University of Southampton, a consortium involving 4 regional partner hubs, the Universities of Reading, Portsmouth and Surrey, have generated online re-usable learning objects (RLOs) from existing learning materials. These have then been tagged, stored and can be retrieved from the Project's customised learning object repository, CLARe, (Contextualised Learning Activity Repository) by learners and teachers for independent learning, classroom-based learning or blended learning according to particular need. In broad terms, L2O has aimed to evaluate the feasibility of re-using learning resources across the regional community and in different educational and teaching contexts, and for different purposes. The project is due to be completed in July 2007.
+Our significant achievements to date
+Community of Practice
+RLOs within a prototype repository
+Metadata
+Main challenges
+Current work
+Our significant achievements to date:
+Community of Practice:
+Work on the project has enabled the development and continued involvement of a Community of Practice (CoP), consisting of language teachers and learning technologists from around our geographical region and beyond. These individuals have taken part in all aspects of the project, from contribution to project aims and concepts; the submission of online language learning material to be re-made into RLOs; discussion and development of project understanding of metadata needs; and in the piloting of our prototype repository. The CoP continues to be sustained and expanded through this community website.
+The CoP has been extended through face-to-face interaction and also by fostering engagement through active participation in national and regional dissemination workshops focusing on issues around sharing and re-using online materials.
+In February 2007, the L2O Project flagship event 'Finding, sharing and re-using online resources: Personalising the experience for the teacher and the learner' - engaged with over 50 institutional/regional/national stakeholders and continued to substantiate earlier findings.
+Work on the L2O Project has also had an influence on practice within some CoP institutions: the University of Portsmouth has drawn on experience gained on the project to begin creating a repository of language learning objects and pedagogical assets; the University of Surrey has gone on to develop its own language learning RLOs; and the University of Reading has integrated accessibility guidelines into its own online learning materials.
+RLOs within a prototype repository:
+In the initial stages of the project, the team took existing learning materials and investigated how these could generate RLOs. This led to the development and implementation of Pedagogical Process Model for Disaggregation of existing resources and re-aggregation into RLOs. The development of this model involved developing an understanding of how learning material could be broken up into relevant 'pedagogical pieces' and then re-assembled into a discrete unit suitable for meaningful independent online learning.
+In order to investigate the sharing of online resources, the Project developed a prototype repository CLARe (Contextualised Learning Activity Repository - based on ePrints). This was populated with a set of quality assured re-usable learning objects (RLOs) and pedagogical assets (PAs) contributed by members of our community of practice. This has been successfully piloted with various groups within the CoP, over the last six months, and has enabled the project team to investigate issues around sharing resources. The piloting has consistently revealed a desire amongst practitioners for this kind of repository of online learning materials.
+Metadata:
+A key realisation from the project was the importance of contextual metadata in finding resources and in contributing to the creation of effective online resources. The community developed task/pedagogical asset description templates (contextual metadata templates) which focused on the educational learning and teaching context and used non-technical terminology, to validate 'Standard' RLLOMAP metadata enhancement.
+A bespoke application profile was then created to incorporate contextual metadata in the educational fields of LOM metadata and create IMS compliant content packages using EU and JISC-funded tools - Telcert, Schemaprof and Reload.
+Main challenges:
+Communication was extremely effective in face-to-face situations but faltered when pursued by other means (such as blogs, Moodle forums, Skyping etc). This could be seen as both an advantage and a disadvantage of regional collaboration - we are close enough to meet easily, but too close to use 'virtual' tools. Communication with FE partners was also problematic because of the intense time pressures on FE teachers, and FE partners were also approached when tools and resources were in an immature state, so they were unable to contribute fully.
+From a technological point of view, it became evident that materials contributors had a wide range of technical skills and knowledge, and so there were problems associated with standardising online material and ensuring its quality and accessibility, so that it could be delivered as learning objects in the repository. Initially, the project had inadequate proactive support mechanisms for re-purposing, and this inhibited progress.
+Progress was also inhibited by the lack of a user-friendly, quick-to-use content packaging tool, which meant that the inputting of metadata was a laborious and unpleasant task. There have also been problems in uploading our content packages to JORUM due to the additional contextual metadata fields that the project developed. IPR issues represented a serious barrier to sharing and re-purposing existing materials. The barrier exists at a number of levels: with individuals unable to guarantee the IPR of all elements within their learning material and therefore unable to make them open for all, to institutional level with departments restricting use of materials (this was particularly true in the FE sector).
+IPR issues represented a serious barrier to sharing and re-purposing existing materials. The barrier exists at a number of levels: with individuals unable to guarantee the IPR of all elements within their learning material and therefore unable to make them open for all, to institutional level with departments restricting use of materials (this was particularly true in the FE sector).
+Current work:
+As the project comes to an end, the community is involved in testing and dissemination. A number of major workshops are planned within the region, to investigate and explore issues of sharing, re-purposing and metadata; and the project team are in the process of writing up case studies and papers to disseminate key findings.
+Several projects continue the work of L2O: MURLLO (Management, Use and Re-purposing of Language Learning Objects), an Eduserv-funded project, is looking at the development of tools to assist in the application of contextual metadata, resource discovery, and editing of LOs. CLAReT (Contextualised Learning Activity Repository Tools), a JISC-funded project, takes the CLARe repository and contextual metadata further by investigating and mapping the language teaching and learning domain and using Web 2.0 interfaces (such as tag clouds and principles of social networking) to assist in better resource discovery. Our L2O research community continues to expand and take part in all of these projects.
+L2O
+MURLLO
+DeTCOLM
+CLAReT
+Faroes
+Project documents
+Event documents
+Aims and objectives
+Demonstration
+Example LO
+Project terminology
+L2O glossary
+eLanguages, Centre for Language Study, Modern Languages,School of Humanities, University of Southampton
+Email: elang1@soton.ac.uk | Telephone: +44 (0)23 8059 9604 | Fax: +44 (0)23 8059 3849
+In partnership with: Learning Societies Lab, University of SouthamptonUniversity of Portsmouth | University of Reading | University of Surrey
+Projects supported by:
+© University of Southampton, United Kingdom. All rights reserved, 2011

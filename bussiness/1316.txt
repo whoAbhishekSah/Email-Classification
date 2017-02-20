@@ -1,0 +1,163 @@
+Multichannel Web Self Service Customer Service Software | Synthetix
+01279 555 580
+Company
+About us
+Contact us
+Our clients
+Why choose Synthetix
+Careers
+Self-Service Cloud
+FAQ Search
+Virtual Agent
+Dynamic Web Forms
+Contact Centre Cloud
+Live Web Chat
+Agent Knowledge-base
+E-mail Management
+Partners
+Find a Partner
+Become a Partner
+Resources
+APIs/Developer
+Control Panel
+Downloads/Whitepapers
+Blog/News
+Events
+Support
+EXCEPTIONAL CUSTOMER EXPERIENCES START WITH
+ONLINE CUSTOMER SERVICE FROM SYNTHETIX
+Become a Partner
+Why Synthetix
+Contact
+Multi-Channel Online Customer Service In The Cloud
+Synthetix is a leader in multi-channel, online customer service. We have worked with many of the world’s best known brands, transforming their online customer experiences using our web self-service and contact centre technologies.
+A complete suite of attractive, integrated customer contact tools
+Refine your online customer service into exceptional customer experiences with the suite of our unique online customer contact tools with comprehensive reporting, analytics and editorial control.
+Self-Service Cloud
+A natively developed suite of self-service digital channels within a single customer experience platform.
+Proactively present customers with the information they need at each stage of their online journey.
+Natural Language FAQ search
+Virtual Agent
+Dynamic Web Forms
+explore
+Contact Centre Cloud
+Scalable and reliable cloud-based, customer service contact centre technology without the need for labour intensive IT interference, which helps deliver value at every user interaction.
+Live Web Chat
+Agent Knowledge-base
+E-mail Management
+explore
+The power behind leading brands
+Since 2001, Synthetix has helped to deliver great online customer service experiences for many of the world’s best-known brands.
+All Synthetix services are cloud first and Software as a Service (SaaS), delivering customer service solutions to all customer touchpoints across both public and private sectors.
+The Synthetix suite of customer contact technology integrate with most popular CRM systems (e.g. Salesforce), contact centre platforms, agent desktops and customer service channels
+discover more
+Deliver great integrated Customer Experiences with our APIs
+Join our development community and build incredible powerful online customer service applications using our comprehensive RESTful APIs for natural language knowledge querying and live chat.
+Whether you are building an integrated FAQ system, a native mobile application, adding real-time FAQ matching to a CRM package such as Salesforce or building a unique chat tool to communicate with customers, our SYNAPPS APIs will accelerate the process, turning months of work into days.
+See the Pen API Server Call by Synthetix (@synthetix) on CodePen.
+explore
+You're in safe hands
+We've built a world-class architecture in the cloud, designed for extreme scalability and resilience. We partner with Amazon AWS - the world's leading cloud provider, to globally offer a secure, high-performance, load-balanced architecture.
+With end-to-end HTTPS, IP restrictions - Synthetix is the only online customer service vendor to have been awarded both ISO 9001
+and ISO 27001:2013 certification. Our comprehensive accreditation to these internationally accepted standards demonstrates our dedication to delivering quality in everything we do and to keeping your data safe.
+Secure
+Resilient
+Scalable
+explore
+What's new?
+Watch this space to register for one of our best-practice thought leadership events and exclusive collateral that has helped deliver improvements across all aspects of people, process and technology within the customer experience industry.
+A guide for serving customers seamlessly and effectively through all channels
+Download our special edition ebook or request a printed copy to help you to deliver more efficient online customer service at every customer touch-point.
+explore
+Artificial Intelligence – Virtual Agents, Chatbots or IVACustomer experience of the future?
+Download our latest whitepaper shedding some light on the current status of AI, debunking the jargon and looking to the future of Virtual Agents in customer experience.
+explore
+Latest blog posts from SynthetixWe love to share. Read more of our thoughts about the latest reports and insights within the customer experience and customer service industry - no registration required.
+The Year of Customer Experience
+Enchanting customers to fall for your business
+Neldi Rautenbach
+Wednesday 1st February 2017
+And just like that, the first month in 2017 is over. January sales are being replaced with cupid arrows, hearts, and messages of love. Whether you love Valentine’s Day or think the hype doesn’t justify the occasion, your customer experience strategy should swoop in and enchant customers to fall for your business every time they interact with you, regardless of channel.
+Continuously nurturing relationships with your customers is crucial to growing your business.
+Love-hate relationships
+Unlike our mixed feelings towards Valentine’s Day, most of us love the convenience of our connected world. However, we appear to have a love-hate relationship when it comes to online service.
+According to Baymard, nearly 70% of shoppers will abandon their online shopping carts. Shocking until you realise that many users are window shopping, comparing prices, saving items for later or exploring gift options.
+However, Forrester reports that more than 50% of customers will abandon their online shopping cart if they can’t find answers to simple queries and switch to a competitor’s website. Customers become so accustomed to doing most things online, it’s no surprise that Coleman Parkes reports that 75% of us prefer online support above any other channel. However, customers hate struggling to find accurate and consistent answers to their questions.
+The Silent Treatment
+Efforts to prevent potential customers from abandoning their e-commerce carts, have had many businesses implement live chat support. A study by Forrester Research found, “Many online consumers want help from a live person while they are shopping online; in fact, 44% of online consumers say that having questions answered by a live person while in the middle of an online purchase is one of the most important features a Web site can offer.”
+An emarketer.com survey found that 63% were more likely to return to a website that offers live chat. The report goes on to say: “62% reported being more likely to purchase from the site again. A further 38% of respondents said they had made their purchase due to the chat session itself. All these attitudes were even more prevalent among respondents who bought online at least weekly.”
+As it turns out, live chat can offer real-time support, while also adding significant benefits to the staff and bottom line of companies. It is however important to consider that live chat poses some challenges. Customers are not bound by normal working hours when looking to make an online purchase or find support. Having live chat available with no-one to answer, might do more harm than good, frustrating customers with time-wasting silence.
+Great CX
+Multi-channel technology can assist in creating omni-channel customer experiences.
+Here are some of the key trends for 2017 that predicts love from customers:
+Consistency across channels is key to a great overall experience. Trust is created when front-line staff, support staff and online channels all over the same consistent answers. Having an integrated knowledge-base across your website, contact centre and social channels
+Ease: If it’s easy to find answers, purchase, get support, customers will return.
+Mobile: We take our smartphones everywhere with us. In a study by Search Engine Watch, 67% of participants said they were more likely to make a purchase when visiting a business’s mobile-friendly site, versus 61% who said they’d most likely leave a site that wasn’t optimised for mobile.
+Personalisation: Make identity an enterprise asset. Identifying customers at every touchpoint will result in a long-term relationship.
+Virtual Agents: 24/7 customer service with a smile. A semblance of personal service, NLP artificial intelligence combined with a graphical representation, can be a powerful additional contact channel (not a replacement for human interaction). Virtual Agents can raise the online customer service effort bar. Always on, ready to offer customers who wish to self-serve answers, an engaging, appropriate, and conversational automated interaction.
+Conclusion
+In our own lives, we appreciate that we cannot expect close relationships, family relations, or a marriage to survive and flourish if we don’t put time and effort into maintaining it. A business’s relationships with its customers is no different.
+Will 2017 be the start of a beautiful customer experience journey for your business?
+More expert advice for engaging customers can be found on our website here.
+Why not read more?Explore
+New Customer Experience Strategy for Utilities
+Part 2 of 3
+Neldi Rautenbach
+Monday 23rd January 2017
+The third week in January had Birmingham host the Utility Week Water & Energy Conferences, with industry leaders delivering their thoughts on the biggest disruptors and trends that will affect those within this industry.
+A regulated industry, players within the Utility industry eagerly anticipate the yearly figures in reports from Ofgem and Ofwat. We’ve done some research into the latest statistics and it’s clear that utilities continue to face many challenges when it comes to customer expectations. (Download the infographic)
+As consumers, we’ve become accustomed to a certain level of service which means we don’t just expect an uninterrupted supply of power, gas, and water, but better responsiveness whenever we require help. Meeting these needs often require utilities to invest in more resources, or does it? However, before utilities can determine how to develop the ideal customer experience, they must decide what that term means to them; customer experience means different things to different industries.
+And whilst understanding the elements of the customer experience strategy is a good first step — successfully implementing it is another. In this blogpost, we will look at 9 key points that can assist utilities to positively translate their customer experience strategy into action.
+Plan for the worst-case scenario
+High call volumes come at times of crisis. Having the right technology in place to support contact centre staff is imperative.Plan to be flexible
+The contact centre is only one contact channel available for customers – dependent on the nature of the enquiry, would it benefit the company and customers to handle enquiries across other channels like Virtual Agents, Live Chat, Dynamic Web Forms, FAQ self-service or Social channels.Be integrated
+Are all contact centre staff up-to-date with the latest information and how is this maintained through technology? When staff shifts change or if they leave, does it affect the transferral of knowledge – how is this communicated. Do you have an Agent Knowledge-base?Enhance resources
+Given all the tools needed (such as a cloud contact centre solution), is it possible, in times of crisis, for temporary and non-frontline staff to be used as agents following minimal training?Be pro-active
+Avoid the need for customer to call in the first place. Is there another channel by which the cloud answer their queries? Push out service updates via social media to communicate with customers in advance of any issue to minimise contact?Measure and control
+Quickly and efficiently responding across contact channels to customer queries is key – is there a mechanism in place to monitor customer feedback to improve the quality of products and services and level of response in the future?Prioritise
+Do most customers need support during work hours or do they frequently require assistance out of office hours? Which are the most effective/popular convenient contact channels for customers – focus on these first.Training
+It is imperative that all contact entre staff are trained to handle support, especially during seasonal influxes of contact. Effective communication, getting answers to customer quickly and consistently across all channels, can have a huge impact on how customers perceive your brand.Prepare to adjust
+A legacy infrastructure often risks only noticing failure when all has gone wrong. It doesn’t have the ability of gathering granular information to help understand how any issues might be developing. Investigate your infrastructure to see if it should be improved, updated, or replaced by more relevant technology.
+Part three of this series will look at 2017 as a whole – will it be ‘The Year of Customer Engagement’ as predicted?
+Why not read more?Explore
+New Year, New Customer Experience Strategy
+Part 1 of 3
+Neldi Rautenbach
+Wednesday 18th January 2017
+This is not a tutorial in Chinese astrology, but the year of the Monkey lived up to its name. Filled with shenanigans of fabulous and panic-laden surprises, 2016 has certainly swung its way into the history books. And although one should never wish time to pass, it appears most people feel relieved now that the hyperactive monkey is finally tiring as the dawn breaks on 2017. But will the Year of the Rooster have your business crowing success?
+During January, we will be looking at the predicted CX trends for 2017, as many of us will have the best intentions to make better choices at the beginning of a new year. The trick however to sticking to a resolution, means getting your hooks into manageable steps that resolve former weaknesses to accelerate results that will reward both your customers and margins.
+Keeping your eye on the prize
+Big research companies are eager to announce shiny new trends predicted in tech and the world of customer service in the new year, with industry leaders delivering their thoughts on the biggest disruptors and trends that will affect customer experience and those working within this field.
+We think it’s fair to say that most businesses are shifting their focus to customer experience, which has been identified as the key differentiator to increase sales and retain customers. With quality and consistent customer support the corner stones to delivering first rate customer service, many businesses will be re-evaluating customer support channels, handling procedures, policies, and tech to ensure enhanced experiences in 2017.
+However not all trends and predictions will be meaningful to the unique requirements and challenges faced by different businesses.
+Take AI for example - this broad term for machine learning, natural language processing, robotics, and computational intelligence all referring to a wide variety of algorithms and methodologies under AI - caused a lot of hype in 2016 with the announcements by Google, IBM, Facebook and Microsoft about Intelligent Virtual Assistants. At Synthetix, we feel it’s important to clarify the differences between Personal Virtual Assistants, Virtual Agents and Chatbots to understand their value to a business as AI has led to erroneous expectations, especially in terms of customer engagement.
+And although some predict the line between humans and machines blurring day by day, as one of the first pioneers of Virtual Agents, Synthetix are always happy to advise on whether bots might or might not be the right fit for your specific requirements. In fact, our whitepaper – To bot, or NOT to bot – is free to download. Part two of this series will delve further into some of the biggest CX trends predicted by key industry players for 2017 and how customer expectations has shifted from a year ago.
+Why not read more?Explore
+CONTACT US
+Company
+About us
+Contact us
+Why choose Synthetix?
+Our Clients
+Our Partners
+Careers
+Resources
+Product PDFs
+White papers
+Case studies
+Infographics
+Contact
+Synthetix UK: +44 1279 555 580
+Synthetix Benelux: +31 88 287 86 78
+Synthetix USA: +1 512 387 5887
+Customer Support
+Copyright © 2016 Synthetix Ltd.
+Terms
+|
+Privacy
+|
+Cookies
+|
+Site Map
+|
+RSS

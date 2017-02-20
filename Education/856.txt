@@ -1,0 +1,28 @@
+MIRACLE welcome
+Welcome to the
+Microfossil Image Recovery And Circulation for Learning and Education ("MIRACLE") web-site.
+The picture above is a scanning electron microscope (SEM) image of a selection of microfossils. The aim of this site is to allow you to recognise these fossils if only to determine which is a diatom, which is a foraminifera and which is a radiolaria. If you are already able to identify these
+we hope you will still find the site useful and interesting. The scale bars are 100 microns (one tenth of a millimetre).
+Please read the following information to help you make best use of this site: The site has been designed to be veiwed using a 1280 x 1024 pixel monitor screen area or larger. It is kept intentionally simple in order to make it as accessible as possible. Please use the dark blue text to navigate around the site.
+The Postgraduate Unit of Micropalaeontology at University College London has a worldwide reputation for research and training. In an effort to make the teaching expertise and extensive collection of images and specimens held by University College London more easily accessible this web-site has been developed. It is hoped that as a database of digitised images is developed, access to these images will be made available via this site. In the meantime we have produced an introduction to micropalaeontology, aimed primarily at undergraduates but also graduate students. The emphasis is on providing a basic foundation of information for each of the main micropalaeontological groups commonly studied.
+For the purposes of this web-site microfossils have been divided into seven groups.
+Calcareous Nannofossils
+Conodonts
+Diatoms
+Foraminifera
+Ostracods
+Palynology
+Radiolaria
+Each group has its own "home" page reached by clicking on one of the buttons at the top or bottom of each page. Each "group" is then given a brief introduction followed by a very simplified, illustrated evolutionary history.
+Images of conodonts and Palaeozoic ostracods have been kindly made available to this project by Professor R.J. Aldridge and Professor D.J. Siveter
+University of Leicester.
+The Natural History Museum, London
+,with whom the UCL Micropalaeontology Unit have a long standing and productive relationship have provided additional assistance.
+Funding for this project has been provided by the
+Higher Education Funding Council for England (HEFCE),
+Distributed National Electronic Resource (DNER)
+and the Joint Information Systems Committee (JISC)
+All images unless otherwise stated are the property of University College London
+2002
+This site was written, designed and produced by Matthew Olney University College, London, U.K now at Northern Illinois University, U.S.A. Please send comments to the MIRACLE Project Manager
+micropal@ucl.ac.uk

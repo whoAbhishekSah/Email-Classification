@@ -1,0 +1,80 @@
+Amiho LoRa LoRaWAN WMBus experts
++ 44 1223 422345
+info@amiho.co.uk
+LinkedIn
+Google+
+Twitter
+Facebook
+RSS
+Products
+LoRa, LoRaWAN and Wireless M-Bus Modules at 169 and 868 MHz
+Software Stacks
+Evaluation Kits
+Bare Metal Modules
+Lighting and Control
+IP and Design Services
+Applications
+Smart Metering
+Internet of Things – Connected Devices
+Building and Home Automation
+Custom & Wireless M-Bus Integrators
+About us
+Background
+The Board
+Technology Partners
+Careers
+Technology
+LoRa®
+LoRaWAN™
+Wireless Meter-Bus
+News and Events
+News
+Events
+Blog
+White papers
+Embedded World 2016 Presentation
+FAQs
+Contact Us
+Have you seen our 868 MHz LoRa and Wireless M-Bus Module?See the AM094 datasheet here »
+Receive Wireless Meter-Bus and transmit LoRa
+Only with AMIHO's unique bridging application »
+Go Long Range with LoRa for Smart Metering and IoT
+»
+Connecting Every Thing for an Everything-Connected World
+AMIHO Technology provides production-ready wireless products for the Smart Meter, Smart Buildings and IoT markets. Our radio modules contain our own fully-featured software stacks and can be tailored for almost any SMART, M2M or IoT application requiring wireless connectivity. Example customer deployments include:
+Smart meter trials,
+IoT Gateway products,
+Asset tracking
+Air quality monitoring
+Tunnel communications
+Lightning detectors
+Smart parking
+AMIHO’s product range includes EN13757 compliant Wireless Meter-Bus (Wireless M-Bus) and LoRa® enabled radio modules and software stacks and we are members of the LoRa® Alliance. LoRa® technology extends the radio range to several kilometres and enables communication with hard to reach meters and devices.
+Read More »
+Products
+AMIHO enables you to get your wireless application quickly to trial. The easy-to-use hardware modules have sufficient memory to run your own applications and footprint efficient wireless stacks have simple interfaces and integrate efficiently into your system.
+We deliver a range of Wireless M-Bus and LoRa radio modules with a fully-featured custom developed software stack.
+Find out more about our radio modules
+Evaluate our products
+Software and Services
+AMIHO Technology’s products can be implemented across a diverse array of systems to enable reliable wireless connectivity that is both secure and simple to set-up.  Small code size of our stacks and efficient use of processor and radio resources also helps to ensure years of maintenance free, battery powered operations.
+In addition, AMIHO provides a range of expert professional services that feature support and development contracts to help you transition efficiently from product prototypes through to mass rollout.
+Find out more about our software stacks
+Development and support services
+News and Events
+’17 so far so great: Amiho at E-World Essen, Germany
+February 10, 2017
+Next stop EUW Barcelona, 15-17 November
+October 11, 2016
+Which LPWA?
+October 6, 2016
+AMIHO sponsoring NXP Tech Day, Poland
+September 19, 2016
+AMIHO announces New Bridging Function between LoRa and Wireless Meter-Bus
+July 12, 2016
+Sign up for our Monthly Newsletter
+Questions? Please see our FAQ page
+Copyright © 2017 AMIHO Technology
+Registered in England No. 8398544
+|
+VAT No. 156 7715 81

@@ -1,0 +1,136 @@
+DESERTEC-UK
+Desertec-UK
+Clean power from deserts
+Home
+Overview of CSP
+Reports
+Endorsements
+Highlights
+FAQs
+News
+Links
+Pictures
+History of CSP
+Resources
+Activities and events
+Press releases
+Members
+Letters and comments
+Mailing list
+Donations
+Contact
+Site map
+THE Desertec CONCEPT and Desertec-UK
+STOP PRESS: Desertec maps plugin for Google Earth, showing the potential for different kinds of renewable energy around the world.
+The Desertec Foundation (formerly the 'TREC' international network of scientists and engineers), in association with the Club of Rome, has developed the Desertec concept, described below, to take
+advantage of the truly enormous quantities of energy falling as sunlight on
+the world's deserts—and wind energy in those regions too. Now the Desertec Industrial Initiative, a consortium of blue-chip companies, has been formed to make it happen, and the Desertec University Network has been established to promote Desertec-related research and teaching.
+Desertec-UK is a group of volunteers who are interested in the Desertec concept and aim to raise awareness of it in the
+UK and beyond. We are also interested in the development of public policies that will help make the Desertec concept into a reality.
+The Desertec concept is underpinned by detailed research from the German Aerospace Centre (DLR), the US Department of Energy, and elsewhere.
+The Desertec concept
+For a summary, click Desertec in brief.
+Every year, each square kilometre
+of desert receives solar energy equivalent to 1.5 million barrels of oil.
+Multiplying by the area of deserts worldwide, this is several hundred times
+as much energy as the world uses in a year.
+There are also significant amounts of wind energy in
+desert regions (see Sahara Wind).
+Less than 1% of the world's deserts, if covered with concentrating solar power plants, could produce as much electricity as the world now uses.The key technology for tapping in to the solar
+energy is
+'concentrating solar thermal power' (CSTP),
+which means using mirrors to concentrate sunlight to create heat. The heat may be used to raise steam to drive
+turbines and generators in the conventional way or it may drive Stirling
+engines with generators. CSTP is very different from the better-known photovoltaics (PV, sometimes
+called 'solar panels') and should not be confused with it. However,
+in 'concentrating PV' plants (CPV), mirrors are used to concentrate sunlight
+on to special heat-resistant PV panels which convert the concentrated sunlight into electricity. As the price of PV comes down, it is likely to become increasingly important for large-scale generation of electricity in desert regions.
+Adapted from www.desertec.org, with thanks.
+Click the image for a larger map showing
+how much solar energy is available. The larger red square on the left shows
+an area of 114,090 km2 of desert (about 338 km × 338 km) that, if covered with concentrating solar power plants, would provide as much electricity as the world is now using. (Of course, the world's CSP plants would never be put all together in one square like that). The 'EU' square (19,200 km2 or about 139 × 139 km) shows a corresponding area for the European Union (when it included 25 countries). And the 'MENA' square (3,600 km2 or 60 km × 60 km) shows the corresponding area for the Middle East and North Africa.
+Solar heat that has been captured by a CSTP plant can be stored in melted salts (eg nitrates of sodium or potassium) or other medium so that electricity generation may continue at night or on cloudy days. Also, gas or biofuels may be used as a stop-gap source of heat when there is no
+sun. More about these aspects of CSTP may be found on the web page about generating
+electricity without the sun.
+An umbrella term for CSTP and CPV is 'concentrating solar power' (CSP).
+Efficient, long-distance transmission of
+electricity
+The existing high-voltage alternating-current (HVAC) transmission grid may allow countries throughout Europe, the Middle East and North Africa to begin to benefit from 'desert' electricity on relatively short timescales.
+As capacities expand, the existing grid may be upgraded using highly-efficient, high-voltage direct-current (HVDC) transmission lines and smart electronics (eg FACTS technologies). Desertec proposes the development of an HVDC 'supergrid', designed to integrate with the existing HVAC transmission lines and reinforce them.
+With HVDC, transmission losses are about 3% per 1000 km and there are small AC/DC conversion losses as well. Taking both of these into account, electricity may, for example, be transmitted from North Africa to the UK with less than 10% loss of power. It is feasible and economic to transmit solar electricity for 3000 km or more.
+90% of the world's population lives within 2700 km of a desert and could be supplied with solar electricity from there.There are several other good reasons for building large-scale HVDC transmission grids (see electricity transmission grids).
+A report ('TRANS-CSP') from the German Aerospace Centre
+has calculated that solar
+electricity imported from CSP plants in North Africa and the Middle East is likely to become one of the cheapest sources of electricity in Europe, and that includes the
+cost of transmitting it.
+A schematic representation of the Desertec proposals: the generation of electricity from a range of renewable sources (not just CSP) and its transmission throughout EUMENA via low-loss HVDC transmission lines. Click the map to enlarge it. (For a high-resolution version of this map, please contact us).
+At least part of this "supergrid" may be realised using submarine power cables as envisaged in proposals from the wind energy company Aitricity.
+CSP as one amongst several kinds of
+renewable energy
+An important point is that, in the scenario up to
+2050 described in the TRANS-CSP report, only a part of Europe's
+electricity would be imported from CSP plants in North Africa or the Middle
+East. The rest would come from wind power, PV, wave power, tidal power, geothermal power, and more.
+The main thrust of the report is that, compared with the situation now,
+Europe's dependence on imported energy would be
+reduced and the variety of sources of electricity would be increased.
+This means an increase in the resilience and security of Europe's
+electricity supplies.
+For several reasons, we may expect CSP imports to be more
+secure and less vulnerable to interruption than current imports such as uranium,
+gas and oil.
+The Desertec concept is taking shape now
+CSP plants are already up and running in several parts of the world and many new ones are now under construction or on the drawing board. Information about the CSP projects that we know about can be seen on Google Earth via a link from our Resources page.
+CSP is already feeding electricity into the European electricity grid (from the PS10 and PS20 plants near Seville in Spain). CSP plants are quick to build and CSP generating capacity may be ramped up fast. With a single market for electricity in Europe (taking shape now) and some modest upgrading of the European transmission grid, the UK could start receiving "clean power from deserts" soon.
+HVDC transmission lines have been in use for over 50 years and the network is expanding (see items marked 'HVDC' on our News pages). The EUMENA-wide HVDC supergrid is already taking shape.
+Things that governments can do to help things forward are described in Clean power from deserts: what governments can do.
+The Desertec concept and climate change
+The Desertec concept is not, in itself, a solution to the problem of climate change. It is just one potentially-useful plank in the set of policies that will be needed to solve this problem. There is certainly a need for a worldwide rationing system such as Kyoto2 and there may also be a need for geoengineering solutions.
+Desertec benefits
+GLOBAL SECURITY
+In a speech to the UN (April 2007), Margaret Beckett, UK Foreign Secretary, warned that there are few greater threats to global security than climate change and consequent shortages of energy, water, food and land. By alleviating all four of those shortages, the Desertec concept
+may help to reduce the risks of conflict.
+More generally, the Desertec concept has potential to improve relations and mutual understandings amongst people in EUMENA via a collaboration that yields benefits for all. This accords with Nicolas Sarkozy's call for a new
+trans-Mediterranean partnership to speed economic development in African
+countries (in a speech that he made after his election as President of France).
+Potential benefits of the Desertec concept include:
+Plentiful supplies of inexpensive, clean electricity.
+Since Desertec may be applied in many places around the world, it could have a huge impact in cutting worldwide emissions of CO2. Countries like China and India can leapfrog the 'dirty' phase of development, making cuts in CO2 emissions whilst maintaining or increasing their energy supplies. Countries like Saudi Arabia can move directly from being oil-rich to being solar-rich. The USA can meet all its energy needs from its south western states. These things can help break deadlocks in international negotiations about cutting CO2 emissions.
+Jobs and earnings in a large new industry.
+The
+creation of fresh water by the desalination of sea water using the waste heat
+from CSP plants—a welcome bonus in arid regions.
+There is potential for growing plants for food and other uses in the shaded areas under the solar mirrors (using desalinated sea water)
+This can bring land into productive use that would not otherwise be suitable for cultivation.
+Benefits for global security (see box).
+A fuller description of the potential spin-offs from CSP and the Desertec proposals may be
+found on the page about CSP bonuses.
+Further information
+Quote: "... we are poised for breakaway growth—for explosive growth—not
+because we are cleaner [than "clean" coal-fired electricity] but because we are cheaper. We happen to be cleaner
+incidentally." (US venture capitalist Vinod Khosla speaking about CSP at the Solar Power 2006 conference in California. His speech and slide show can be downloaded from the page of CSP resources).There is an overview of CSP and what it can offer, with
+details of costs, electricity transmission, security of supply, CSP bonuses, and other information.
+The Desertec concept (or aspects of it) is now endorsed by a range of high-profile organisations and individuals (see our Endorsments page).
+The Desertec concept is fully described in the MED-CSP, TRANS-CSP and AQUA-CSP reports from the German Aerospace Centre. These can be downloaded via links from our reports page, which includes links to several other reports about CSP and pages about CSP from the European
+Commission and the US Department of
+Energy
+If you have Google Earth installed, go to CSP plants on Google Earth to see where CSP plants are being planned, being built, or are up and running around the world, with links back to our News page.
+The Links page on this website also
+connects to relevant sources of information.
+The News page contains links to web pages
+with news reports about Desertec, Desertec's proposals, CSP and HVDC. And the Pictures page contains thumbnails of pictures of CSP
+plants that can be expanded to full size.
+Raising awareness
+Quote: "… analysts evaluated the solar resource in the Southwest [of the US] and … found that CSP could provide nearly 7,000 GW of capacity, or about seven times the current total US electric capacity."
+(Tackling Climate Change in the US, American Solar Energy Society, January 2007, page 17, emphasis added).
+If you feel you can help in any way in raising awareness of
+these ideas, please get in touch. There is a whole
+range of different things that can be done,
+from big ambitious projects
+down to things that take just a few minutes now and then. Any kind of help will
+be very welcome.
+Some quick and simple things to do are described on our page about Helping things forward.
+Donations to help cover expenses will be very welcome.
+Desertec-UK is part of the STOP CLIMATE CHAOS coalition
+Last updated: 2013-01-31
+(ISO 8601)

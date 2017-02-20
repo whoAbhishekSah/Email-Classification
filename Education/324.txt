@@ -1,0 +1,113 @@
+Course Data Intelligence | Project blog for JISC, Course Data: Making the most of Course Information Programme
+Course Data Intelligence
+Project blog for JISC, Course Data: Making the most of Course Information Programme
+About
+Project Plan
+Archimate / EA vignette…
+Posted: March 3, 2013 | Author: Stephen Powell | Filed under: Uncategorized
+| Leave a comment
+At the outset of Phase 1 of the course data project, we used the Archimate modelling language to capture the as-is position of the processes and supporting technology for course data.  This is work in progress for us: finding the ‘right amount’ of enterprise architecture (EA) supported through tools like Archimate is difficult.
+We faced two key challenges:
+developing staff capability to undertake modelling work; and
+establishing the EA model outside of the immediate project team.
+The first challenge is surmountable with a long enough time frame and ongoing commitment by those involved in institutional capability enhancing projects that, usually, have technology as a core components.
+Far more problematic is the institutional context.  For EA approaches to be embedded in an institutions way of working, the topmost mangers need to support it as a way of working and this is challenging for a numbers of reasons.  If the established culture is one of ad-hoc developments where prioritisation is based on the relative power of project sponsors and the perceived urgent needs of an institution then it is not possible to establish an EA methodology.  This is because at its heart EA is about systematic developments in a context where a framework and set of principles for working are accepted and adopted by the organisation.
+The work undertaken is driven by the vision established that is developed based on the short and medium term business development plans as captured in the organisational strategy documents.  For implementation of strategy, capabilities need developing and this requires an analysis of the current state, identification of the desired future state and the development of a stepped plan to deliver the change.  Technology, people, and processes are all in the mix and equal effort needs to be given to the development of people as well as the technical systems that support their activities.  All of this needs to take place within a robust governance structure so that ‘left of field’ requirements, are analysed and the implications of changes to the development plans made clear.
+For us, the above description is a long way from reality, like I suspect it is for most HEI in the UK.  What we have managed to achieve is to bring a more systematic way of working to developments and have used Archimate to help us do this.  The diagrams below give a flavour of this showing the key developments of this project, for simplicity in red!  The top one a more detailed ‘explosion’ of the one below.
+WP 1:
+Develop Programme Specification Management System – Programme Database Application Architecture
+Posted: December 21, 2012 | Author: Stephen Powell | Filed under: Uncategorized
+| Leave a comment
+The Programme and Module  DB Application is written in C# .net using an nTier architecture. Entity Framework is used in a repository pattern to access the underlying SQL Server 2008 database. A Service layer sits on top of this, providing all business logic and access to the Repository layer via an API. The Service layer communicates with the Repository through Domain Objects, where a Domain Object is a C# representation of a row in a table. On top of this sits the presentation layer which is an asp.net Model View Controller (MVC) project. The MVC layer is what a user interacts with via a web browser. It communicates with the Services via Data Transfer Objects (DTOs) which encapsulate the data required to perform some action.
+Example:
+When a user wants to create a *new entry* for a particular Programme/Module, they navigate to websiteURL/*NewEntry*/Create, fill in the required details and submit. The entered information is then passed to a Service layer method (in the form of a DTO), in this case the “Add*NewEntryToProgramme/Module*” method. This method carries out the relevant business logic, such as checking the relevant Programme /Module exists, that it is open to the current user for edit, that the rules for an entry are not broken,  a certain threshold number, etc. If all checks are passed, then a *new entry* Domain Object is created and passed to the Repository layer to be persisted to the database. If checks fail, the service throws an exception back to the Presentation layer for the MVC app to handle/advise the user.
+Data Integrity
+Posted: October 24, 2012 | Author: Stephen Powell | Filed under: Uncategorized
+| Leave a comment
+Nothing new is it, but again and again this is an issue that comes back to bite us!  The historical context is that the UoB was one of the early adopters of XCRI-CAP and in 2007  a bid was  submitted to JISC for the second round of early XCRI-CAP funding.  This resulted in the BoXCRIP project, which, amongst other things, implemented a new course-advertising database using the XCRI-CAP specifications (Data definitions used to design the new database, etc.).
+In our current project, we are addressing known issues (such as timeouts with the feed), and although we knew there would be some data integrity issues this has proved a much more significant issue than first thought.
+The systemic problem appears to be that administrators and managers of the course data aren’t aware of the implications of their practices when they re-use tables and fields for what, from their standpoint as practitioners managing the marketing activities, are perfectly reasonable purposes.  Part of the problem is that in constructing the original database, provision was made for data that we didn’t currently hold.  In seeing unused tables/fields it seems perfectly reasonable to colleagues to rename and reuse for different purposes.
+A couple of examples include:
+it is a time consuming manual activity to set instances of courses, so to ensure that course are included in current courses the practice developed of setting occurrences to run for 100 years!; and
+when courses are deleted, a short hand developed was to prefix course name fields with ‘xxx’, hopeless for data integrity but it means something to the staff doing this work
+So what to do about it?  Three course of action have been identified:
+training of administrative staff in some of the principles of data integrity and the implications of approaches that seek to re-use data (like XCRI)
+exploring technology fixes that ‘prevent’ mistakes being made in the first place but don’t result in unworkable constraints; and
+perhaps more challenging the idea of giving ownership of different connected processes to teams so that individuals can see and then remedy the consequences of their actions.
+Workpackage 5: Application of Analytics to University Processes
+Posted: October 17, 2012 | Author: Stephen Powell | Filed under: Uncategorized
+| Leave a comment
+Working with senior academic mangers across the University has illustrated a key challenge of implementing Learning Analytics approaches (an introduction on SOLAR) and that is working out how analytics might be used to inform better design of the student experience is a very creative act, and as such tricky!
+The project has held numerous meetings to try and generate ideas about what data might be used to create visualisations of information to support the development of ‘actionable insights’.  Key to our work in this respect is using linked data approach (an alternative to data warehouses) that identifies potentially useful data sources, including University systems but also external sources, leaving them as they are, but normalises their content externally in triple (RDF) form.  Once stored or made available in that form, a variety of outputs in a variety of formats can be generated, depending on demand.
+Outputs that we are working on include:
+an inquiry into longitudinal life cycle of students including UCAS entry points, assessments, progression with key questions around drop out correlations;
+an inquiry into external examiners reports, student progression and the national student survey results;
+comparative statistics for exam boards over time;
+attendance correlation with assessment results;
+assessment results correlations with assessment types;
+an analysis of the curriculum as described by modules; and
+exploring this as an alternative approach to generating dat for the UoB student at risk traffic light system.
+There is much to be learned about this relatively new field of data analytics, although as a sector institutions like the Open University are investing significantly in projects like Data Wrangler.  In their caes, they have identified the need for a new role as someone who can interpret data ato provide accessible visualisations for academic staff and help them interpret the results so that they can use them in design decisions.  Early work at Bolton suggest that along with accessing data that is housed in numerous silos, this is one of the most difficult challenges.
+WP 2: Develop a Common Vocabulary (Programme Specification)
+Posted: June 26, 2012 | Author: Stephen Powell | Filed under: Uncategorized
+| Leave a comment
+Bringing coherence the terminology and vocabulary around course descriptors was on of the aims of the project.  Through a process of workshops and collaborative design processes,  a new template for the Module Specification and Programme Specification Database was developed and rolled out across the universities courses in the academic year 2012.
+Programme_Specification_Draft_With_Guidance_FINAL
+Module Descriptor With Guidance FINAL
+WP 4: Design & Implement Triplestore Database
+Posted: June 1, 2012 | Author: Stephen Powell | Filed under: Uncategorized
+| Leave a comment
+In his blog, Wilbert explains the technical work undertaken against this work-package – Doing analytics with open source linked data tools.  A brief rationale behind the work is extracted below:
+Like most places, the University of Bolton keeps its data in many stores. That’s inevitable with multiple systems, but it makes getting a complete picture of courses and students difficult. We test an approach that promises to integrate all this data, and some more, quickly and cheaply.
+Integrating a load of data in a specialised tool or data warehouse is not new, and many institutions have been using them for a while. What Bolton is trying in its JISC sponsored course data project is to see whether such a warehouse can be built out of Linked Data components. Using such tools promises three major advantages over existing data warehouse technology:
+It expects data to be messy, and it expects it to change. As a consequence, adding new data sources, or coping with changes in data sources, or generating new reports or queries should not be a big deal. There are no schemas to break, so no major re-engineering required.
+In addition, it is worth reflecting that in attempting work such as this there is a tremendous amount added bonus to the University by way of capability building beyond the specific aims of the project.  This work has drawn in a range of people (Dave, Richard, David) who are beginning to explore the possibilities of triplestore, linked data and visualisation techniques.
+Explaining Educational Data Analytics to colleagues!
+Posted: April 17, 2012 | Author: Stephen Powell | Filed under: Uncategorized
+| Leave a comment
+For the purpose of the linked data / triplestore part of the project  I have been trying out ways of explaining the domain of Educational Data Analytics in ways that are readily understood by non-technical colleagues new to the ideas and staying clear of the different technical solutions that might need to be deployed.  A key distinction here is that Educational Data Analytics takes a wider view than Learning Analytics using data about the the University as an enterprise.
+The diagram below is based on two key dimensions that stand out for me based on readings, namely the time of use from collection dimension and a control and authority dimension (reminiscent to me of the Edinburgh Scenarios, Jonathan Star 2004). I think that a key point is to get across the potential in the top right hand quadrant and what it might mean for understanding the University as an enterprise (Educational Data Analytics ) beyond learning analytics and data mining that focus on pedagogical, learning and teaching aspects.
+In addition, presenting the ideas as analytics for whom and for what purpose also appears useful:
+learners: self reflection, cohort comparisons, automated learning, etc.
+teachers: retention, progression, student satisfaction/experience, etc.
+course developers: design for success – assessment, content, teaching strategies, etc.
+administrators: retention, progression, efficiencies, balancing HEFCE control numbers internally, etc.
+researchers: pedagogy, models, theory, etc.
+On a more theoretical level the Viable System Model has potential application to better understand the central concept of feedback loops and how the different components of the systems in view interplay with each other and their external environments.  For example, seeing that measures intended to address issues such as retention are inextricably wound up in the students wider environment where factors such as the need to work to fund studies may come into conflict with approaches like giving more contact time in the belief it will help students be successful.  More work need on modeling this, but:
+real time feedback loop for learners & teachers – learning and retention are here and now issues;
+medium term for learners, administrators & teachers  – universities plan, allocate resources & undertake quality processes in annual cycles.  Progression is a medium term concern of academics and learners;
+long term for researchers & courses developers – the concern of theses groups tend to be more about aggregations of experience over a number of iterations.
+An untidy thread that is niggling me and perhaps just needs more reading around is where Management Information Systems fit in all of this – they have been around for a very long time now and seem to occupy most of the Educational Data Analytics domain.
+← Older Entries
+Search for:
+Recent Posts
+Archimate / EA vignette…
+WP 1:
+Develop Programme Specification Management System – Programme Database Application Architecture
+Data Integrity
+Workpackage 5: Application of Analytics to University Processes
+WP 2: Develop a Common Vocabulary (Programme Specification)
+Archives
+March 2013
+December 2012
+October 2012
+June 2012
+April 2012
+March 2012
+February 2012
+Meta
+Register Log in
+Entries RSS
+Comments RSS
+WordPress.com
+RSS - PostsRSS - Comments
+Blogroll
+Dumebi Oderinde
+Stephen Powell
+Wilbert Kraan
+Blog at WordPress.com.
+Mid Mo Design.
+Course Data Intelligence
+Blog at WordPress.com.
+Post to
+Cancel

@@ -1,0 +1,98 @@
+Bango mobile payment platform | Bango
+We use cookies to give you the best website experience. By using our website you agree to our use of cookies. More info
+Got it!
+Case studies
+News
+About
+About Bango
+Resources
+People
+Careers
+Investors
+Contact
+Sign in
+Management tools
+My account
+Bango Dashboard
+Bango Grid
+Bango Care
+Case studies
+News
+About
+About Bango
+Resources
+People
+Careers
+Investors
+Contact
+Sign in
+Management tools
+My account
+Bango Dashboard
+Bango Grid
+Bango Care
+Bringing mobile payments to everyone
+Bango technology opens up online payment to the mobile mass market. Internet goliaths that want to reach everyone use the Bango Platform to achieve universal scale.
+Bango is the winning choice for offering carrier billing and other alternative payment methods to every customer, through one, global platform.
+Join the market leaders - contact Bango
+Contact Bango
+Bango takes mobile payments beyond the restricted reach of credits cards and bank accounts to ensure everyone can easily buy from the most popular stores.
+Bango delivers Direct Carrier Billing, wallets and mobile money solutions with the performance, quality and scale required by demanding online businesses.
+Bango allows any payment system to be quickly plugged-in and activated through unique modular architecture and fifth generation payments API.
+Powering the leaders
+Contact us
+Winning platform for global stores
+The Bango Platform is an independent billing standard used by the world’s largest online stores. It powers more app store carrier billing deployments than anyone else (Progressive Equity Research Limited 2015).
+One simple integration allows a store to activate hundreds of payment providers worldwide, enabling billions of new customers to easily pay.
+"Bango offers a sophisticated platform for launching, managing and growing carrier billing."
+Microsoft
+Fastest to market – without complexity or risk
+Bango partners launch, manage and grow payment methods quickly and efficiently using Bango Grid to reach the maximum number of paying customers faster than any other method.
+Bango launched market first alternative payment routes in challenging continents, including launching carrier billing for Google Play in India, Latin America and Africa.
+"Bango impressed us with their platform architecture, simplicity of integration and credibility as the market leader."
+Idea Cellular
+More customers, more payment success
+Bango technology works hardest post-launch. Bango Dashboard provides real-time insights about all aspects of customer spend.
+Bango Boost technology analyzes those insights and combines peer benchmarks, global platform data and industry knowledge to deliver actions that dramatically grow revenues and increase customer satisfaction.
+"Bango Boost has been an invaluable tool allowing us to monitor and optimize our carrier billing services with Bango."
+du
+Payments that simply work every time
+Happy customers are able to pay, quickly and simply, every time. Bango 24/7 actively monitors all payments and processing systems to relentlessly ensure top satisfaction.
+Bango Care and Bango Spend Management technology further ensures your customers get the best online payment experiences.
+"Bango’s direct operator billing (DOB) solution streamlines bumps in the checkout process, enabling frictionless transactions and, inevitably, increased conversions."
+451 Research
+Technical guides
+Get familiar with our technology.
+More info
+Bango API
+Discover how to integrate the Bango Platform.
+More info
+Development and releases
+Catch up on the latest product updates and releases from Bango.
+More info
+Bango Platform
+Bango Grid
+Bango Boost
+Bango Dashboard
+About
+Resources
+Careers
+Apprenticeships
+Contact
+Support
+Investors
+Latest news
+Bango Boost version 2 released
+Bango continues rapid-fire roll out of Google Play carrier billing with two in one week
+Bango Boost receives Innovation in Engagement award
+Twitter
+@rada2292 Hi Rada, we do not have a demo are, but we do have API documents available to review on our site: https://t.co/Dm0tawNqfr -Josh
+Connect with us
+Twitter
+LinkedIn
+Terms & conditions
+Privacy policy
+Cookie policy
+Contact
+Sitemap
+Copyright © 2000-2017 Bango.net Limited

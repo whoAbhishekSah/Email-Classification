@@ -1,0 +1,64 @@
+UKOLN - MODELS: MOving to Distributed Environments for Library Services
+MODELS
+MOving to Distributed Environments for Library Services
+Introduction
+MODELS (1995-2000) was a UKOLN initiative supported by the Electronic Libraries Programme and the British Library. It was motivated by the
+recognised need to develop an applications framework to manage the rapidly multiplying range of distributed heterogeneous
+information resources and services being offered to libraries and their users. Without an appropriate framework, use of networked
+information cannot be as effective as it should be. MODELS provided a forum within which the UK library and information
+communities could explore shared concerns, address design and implementation issues, initiate concerted actions, and work towards
+a shared view of preferred systems and architectural solutions. The project manager was Rosemary Russell and project director Lorcan Dempsey.
+MODELS overview
+Short MODELS article in Ariadne
+8, (April 1997)
+MODELS annual report to eLib (1997/8)
+MODELS annual report to eLib (1996/7)
+MODELS annual report to eLib (1995/6)
+eLib flyer
+Publications relating
+to distributed library systems and MODELS
+eLib supporting studies managed by UKOLN -
+resulting from MODELS and other sources
+Web pages about Z39.50 in
+Europe
+The Agora hybrid library
+project is based on the MODELS Information Architecture
+MODELS Information Architecture (MIA)
+Requirements Analysis Study
+Hybrid Information Environments - Overview and
+Requirements
+The MIA Logical Architecture
+MIA Functional Model
+An MIA view of DNER portals
+Workshops
+MODELS Phase III
+MODELS 11 - UKOLN/mda Terminology workshop
+MODELS 10 - rights management
+MODELS 9 - the MODELS Information Architecture (MIA)
+and hybrid information environments
+MODELS Phase II
+MODELS 8 - an integrated environment for learning and
+teaching
+MODELS 7 - the MODELS Information Architecture (MIA):
+deployment
+MODELS 6 - a distributed national electronic resource?
+MODELS Phase I
+MODELS 5 - managing access to a distributed library
+resource
+MODELS 4 - integrating access to resources across
+multiple domains
+MODELS 3 - national resource discovery: organising
+access to printed scholarly material
+This workshop developed the notion of clumps - groups of
+distributed catalogues. Clump technical documents including the
+MODELS
+Z39.50 Interoperability Profile are available via the clumps
+page.
+MODELS 2 -
+metadata
+for network information objects
+MODELS 1 - article discovery and request
+Web page by
+Rosemary Russell
+Last updated on 24-Aug-2000
+MODELS - A UKOLN project, with funding from JISC's Electronic Libraries Programme

@@ -1,0 +1,164 @@
+Modern Marketing - Blog by Collaborate PR & Marketing
+Modern Marketing - Blog by Collaborate PR & Marketing
+About Us
+Modern Marketing Blog
+What We Do
+Digital Strategy Sessions
+What Clients Say
+Services Clients Buy
+How To Find Out More
+About James Cherkoff
+Recent Comments
+Student Biryani on What's The Answer To Marketing's Chicken & Egg Dilemma?
+Tim Kitchin on Digital Strategy - What's Your View?
+James Cherkoff on Modern Marketing, Silver Bullets And Ghouls
+Maxine on Modern Marketing, Silver Bullets And Ghouls
+James Cherkoff on When Will It End?
+Frieda Bergman on When Will It End?
+James Cherkoff on What's The New Normal For Big Brands?
+Nick on What's The New Normal For Big Brands?
+James Cherkoff on Will Google Ever Be Cleverer Than Mumsnet?
+Elliptical reviews on Will Google Ever Be Cleverer Than Mumsnet?
+Our Manifestos
+KPIs Not APIs
+Among the issues we cover in the Digital Strategy Sessions I run are the changing roles and responsibilities required to meet the new demands of digital and networked media. These can be some of the thorniest challenges involving the nitty-gritty of who is going to be responsible for what, and crucially, what level of investment will be required for new functions. We look at how to approach this tricky area using planning frameworks that focus on bringing digital marketing in line with traditional business planning. This means moving beyond the view of digital marketing as a box-ticking exercise - or specialist technical silo - and understanding how different techniques genuinely contribute to the business and its bottom-line. It’s an exercise that often raises as many questions as answers but is helpful in moving executives teams away from shiny technology and the latest gizmos. The shorthand I use for this, ‘KPIs Not APIs’. While APIs, or application programming interfaces to give them their proper title, are a core aspect of the modern web’s plumbing, unless they have context within a company’s business plan they are fairly meaningless. Only when that context is shared and understood in an organisation through a planning framework - that can be returned to and improved - can roles and responsibilities be clarified.
+March 10, 2015 at 10:48 AM in Advertising, Business, Digital, Finance, Innovation, Interactive Marketing, Management, Marketing, Media, Modern Marketing, Social Software, Strategy, Technology
+| Permalink
+|
+Comments (0)
+Tags:
+advertising, business, digital, marketing, planning, PR, strategy, training
+Understanding Programmatic
+The jargon and opaque terminology around programmatic advertising, such as DMPs and PIIs, obscures – as is often the case in digital marketing – what is actually happening. The moment the link between audience and content was broken and brands started to target people rather than pages, a market emerged for information about individuals and what they are interested in. Think attention data or personal signals. This market has been expanding very rapidly ever since and now can be thought of as being similar to global financial markets, although less vast and sophisticated. That said, there is a lot of advanced trading occuring in these markets among some very big, very well-capitalised players ranging from Dunnhumby to Oracle to Experian. The layering of so-called first, second and third party anonymised data into elaborate targeting packages means companies can profit from media and advertising budgets without ever going near a channel plan. Of course, there’s nothing new in the idea of companies participating in media by supplying market research and targeting information such as email lists and direct marketing databases. However, comparing such old-school techniques to today’s programmatic markets for attention data is like comparing the modern world of global financial instruments to the city of London when all that was required was a bowler hat and a cut glass accent.  In the Digital Strategy Sessions I run we look at what these new programmatic markets mean for brands and what's required to participate.
+March 05, 2015 at 01:40 PM in Advertising, Business, Digital, Finance, Innovation, Interactive Marketing, Management, Marketing, Media, Modern Marketing, Strategy, Technology
+| Permalink
+|
+Comments (0)
+Tags:
+advertising, digital, marketing, media, PR, programmatic
+Would Your Digital Strategy Pass The Chairman’s Test?
+One of the common scenarios I come across in the Digital Strategy Sessions I run is when a company has invested in a range of disparate digital products and programmes but are left feeling unsure about what is really being added to the bottom line.  In the majority of cases the problem is that the digital marketing programme is not delivering against business outcomes that senior executives genuinely care about.  This is partly because, in recent years, digital marketing has grown up and slowly joined the mainstream but has not yet been integrated with existing business planning procedures.  For example, senior executives don’t care about clicks, fans and followers. They might like the idea of having the latest digital wizadry but what they really care about are revenues, business development, growth markets, cost efficiencies and recruitment. If the digital marketing programme can’t be demonstrated to deliver against these issues – even in a minor way – it can never expect to receive the full support of those signing off on major investments. The question I pose in the Digital Strategy Sessions is would you be happy to stand up in front of your chairman or your clients’ board and present your digital marketing plan?  And, more importantly, are you happy you are addressing the issues that are top of their to-do-lists?
+March 04, 2015 at 03:57 PM in Advertising, Business, Digital, Finance, Innovation, Interactive Marketing, Management, Marketing, Media, Modern Marketing, PR, Strategy
+| Permalink
+|
+Comments (0)
+Tags:
+advertising, digital, marketing, media, planning, PR, strategy
+Getting The Data Habit
+In the Digital Strategy Sessions I run I often talk about acquiring the data habit. The world of web analytics and data can be utterly overwhelming for those who are coming to it for the first time. It’s the part of the digital marketing ecosystem where jargon and strange language goes on steroids and the whole thing can easily sound like a geeky maths class. Even when looking at simple tools, such as Google Trends, it can be easy to get lost in the vast data sets that it uses. How can so much information be so meaningless is the sense that I think a lot of people – understandably – have. That’s why it’s important to find a single business-related issue and focus on that. And then, crucially, keep on returning to that data on a regular – maybe weekly – basis. The next step is to find a way to log the changes that you see and the picture will begin to appear. You could do this with a few screen shots – or maybe download a CSV file and create a chart in Excel. It doesn't have to be too clever to begin with. Perhaps just try following a company’s brand name on Google Trends and see how it changes over time. Before you know it, you will have developed the data habit.
+March 02, 2015 at 02:22 PM in Advertising, Business, Digital, Finance, Innovation, Interactive Marketing, Management, Marketing, Media, Modern Marketing, PR, Social Software, Strategy, Technology
+| Permalink
+|
+Comments (0)
+Tags:
+advertising, analytics, data, digital, marketing, media, planning, PR, strategy
+The Creepy Line
+Whilst the constantly changing world of technology is interesting, the way it affects our lives, opinions and behaviour is where marketeers should focus. Nowhere is this more prevalent than in the way technology affects our privacy. In the Digital Strategy Sessions I run, I call this The Creepy Line. It’s the feeling or idea of technology becoming too pervasive. The interesting aspect is that everyone has a different threshold. For some, being tracked their every waking moment is a positive choice, as they see immediate useful feedback, maybe in the shape of health data - such as sleep or exercise patterns. For others, the mission is to stay ‘off-grid’ to as great an extent as possible. For most, it’s somewhere in between where people are happy to offer up very intimate details about their lives in some areas, such as a fertility app, but want to keep everything else under wraps. Understanding where your customers’ Creepy Line sits and what, if anything, you can do to influence it, is increasingly important. The difficulty arises when using so-called second or third party data – or someone else’s first party data as it’s sometimes known. Third parties may guarantee the ethically sound nature of their data using, ‘privacy-safe’, ‘scrubbing’ techniques to remove Personally Identifiable Information (PIIs). However, such talk immediately takes me over The Creepy Line.
+February 16, 2015 at 01:49 PM in Advertising, Business, Digital, Finance, Innovation, Interactive Marketing, Management, Marketing, Media, Modern Marketing, PR, Social Software, Strategy, Technology
+| Permalink
+|
+Comments (0)
+Tags:
+advertising, digital, innovation, marketing, media, PR, strategy
+Marketing Strategy In A Digital World
+In the Digital Strategy Sessions I run I sometimes start by saying that I am going to try and make an argument with which the people in the group should feel free to disagree.  I go onto suggest that digital marketing is dead, and that we should talk about marketing strategy in a digital world.  To illustrate my point, I occasionally describe meetings where I’ve sat with a group of senior executives who are grappling with how they should handle the effects of digital and networked media on their market. However, when I raise a few issues for discussion there is a slightly awkward moment and the executives in question say words along the lines of, ‘Let’s wait for Fred – he’s our digital specialist’.  At that point, the barriers go up and, ‘Fred’ becomes a way of avoiding the digital issues – whatever they may be.  The idea of marketing strategy in a digital world can sometimes help overcome this obstacle and ground subsequent conversations.  We can then go on to discuss which aspects of the digital world are relevant to the executives' specific market sector and planning techniques for including them within ongoing business planning - in ways that everyone can understand and appreciate.  Not just Fred.
+February 05, 2015 at 11:00 AM in Advertising, Business, Digital, Finance, Innovation, Interactive Marketing, Management, Marketing, Media, Modern Marketing, Strategy
+| Permalink
+|
+Comments (0)
+Tags:
+advertising, digital, innovation, marketing, media, planning, PR, strategy
+Advertising Aliens
+At a Digital Strategy Session I ran the other week for a creative agency, one of the management commented that she’d recently been to an advertising conference and felt like she was at a technology show. Her comment was that if an alien had landed at the event, it would have assumed advertising was largely about software calculating small differences in consumer behavior and purchasing patterns. Certainly all very different from the days of the fabled Big Idea, where ad agencies would arrive and unveil the result of their reductive brain-mashing. These days, a lot more attention is paid to the brute-force style analytical approach where the goal is to maximise clicks, fans and followers. Undoubtedly, the apparently revolutionary advantages brought by automated markets trading signals and attention data are highly alluring for CMOs with data-hungry procurement officers breathing down their necks. However, as media companies increasingly morph into software houses and drive the big data agenda forward, it’s very easy for the power of good creative to get lost. Or become confused with innovative data management platforms or whizzy, layered look-a-like and life event targeting techniques. No doubt, it’s all just part of the ebb and flow occurring in media and marketing as the rising tide of digital and networked media continues.
+February 04, 2015 at 02:01 PM in Advertising, Business, Finance, Innovation, Interactive Marketing, Management, Marketing, Media, Modern Marketing, PR, Social Software, Strategy
+| Permalink
+|
+Comments (0)
+Tags:
+advertising, creative, digital, innovation, marketing, media, PR, strategy
+Everyone Wants Answers
+Everyone would like specific answers to their specific digital marketing questions. And ideally they would like them immediately and in a paint-by-numbers format. This is one lesson I have learnt from the four hundred odd Digital Strategy Sessions I have run. Generally, it’s good to give people what they want. Especially, if others are saying they can provide perfectly packaged, specific, actionable, deliverable, measurable strategic plans.  However, in my experience – unfortunately - it’s just not feasible. The world of digital is now so vast, fluid and throws up so many challenges – not to mention jargon – that I think it’s best to focus on the landscape and how digital and networked media is changing specific sectors. And how that influences business strategy – if at all. In fact, most marketing folk and brands know this to be true, and understand that the most important aspect of operating in today’s markets remains understanding what consumers (aka people) are doing differently, and how technology is changing their expectations. Along with the tools that let them operate in these new networked media environments.  So in the Digital Strategy Sessions that’s what I focus on and, generally, people find it helpful. Even if deep down they really want specific answers to their specific questions. But, hey, don’t we all?
+February 03, 2015 at 12:02 PM in Advertising, Business, Finance, Innovation, Interactive Marketing, Management, Marketing, Media, Modern Marketing, PR, Social Software, Strategy, Technology
+| Permalink
+|
+Comments (0)
+Tags:
+advertising, digital, innovation, marketing, media, PR, strategy, training
+Don't Full Stop Me
+Recently, I’ve been involved with some research studies about how teenagers communicate through digital media.  It’s been really interesting to see and hear first hand how the much-fabled digital natives – or in this case mobile natives – manage their burgeoning social lives.  As is always the case with technology-led behavior change, there’s much that isn’t new.  For instance, the intensity of feeling that occurs as young individuals test out their sense of self and peer-skills  - as they always have.  However, the tiny behavioural aspects on which the groups are focused can be bewildering.  This was illustrated by the power of punctuation within text-based chat on FB Messenger, Whatsapp or Snapchat.  For one group I spoke to there was no greater social affront than to be ‘full-stopped’.  This merely meant the addition of a full-stop when answering someone in chat mode; but is viewed as the equivalent of turning around and walking away when in a physical conversation.  The other notable aspect of such social circles is the multi-channel nature of the group dynamic, where individuals are communicating, goading, joking and gossiping simultaneously across three or four different image sites and chat services.  This means that should the dreaded full-stopping ever occur its chilling effect is quickly amplified through and beyond those involved.
+February 02, 2015 at 02:01 PM in Advertising, Business, Community, Innovation, Interactive Marketing, Management, Marketing, Media, Modern Marketing, Social Software, Strategy, Technology
+| Permalink
+|
+Comments (0)
+Tags:
+advertising, digital, innovation, marketing, PR, research, social, strategy
+Search, Display And Social Combine
+Last year was the moment when social channels stopped pretending to be earned or organic and became paid media, as the market was flooded with behavioural targeting options and 'social display' exploded. Increasingly, and somewhat ironically, the only place to now gain organic reach is through search (aka Google in the UK). That said, SEO is also being turned upside-down by the rise of knowledge graphs, entities and the subsequent erosion of keyword influence. Furthermore, display and search are increasingly difficult to view separately as search marketeers call upon audience demographics to augment their keyword intent data. Returning the favour, display advertisers can use keyword data to target their brand images via data management platforms, using groovy new approaches such as content remarketing. Additionally, as vast programmatically-driven markets expand, traditional commercial models also blend. Thus, display marketeers are able to access auction-based models previously associated with search which means turning from CPM to CPC. Welcome to the new world of markets for attention data - or signals. They may seem confusing - but they aren’t going away.
+January 29, 2015 at 12:22 PM in Advertising, Business, Finance, Innovation, Interactive Marketing, Management, Marketing, Media, Modern Marketing, PR, Social Software, Strategy, Technology
+| Permalink
+|
+Comments (0)
+Tags:
+advertising, innovation, marketing, media, PR, strategy
+Mobile Everything
+There are certain words used very frequently in marketing meetings that probably mean entirely different things to the individuals sitting around the table.  Mobile is one of those words.  For some people it means smart phones (but not tablets); for others it means ‘on-the-go’; retailers might be thinking 'in-store'; developers might ponder iOS8 vs Android Lollipop; data-heads may focus on location layers; programmatic fiends may zero in on geo-fencing; while consumers (aka people) might not really make a distinction between one screen and another – it’s all just information.  Indeed, Google's data shows that most mobile search is done in the home or at work, as the smartphone is now the first port-of-call that oftens leads to other screens and media.  It may be more helpful to think about mobile as the latest stage of computing.  This is hardly a radical idea – a quick peek at any analytics tool over the last few years makes that trend clear.  However, prepare for further confusion as the terribly-named Internet Of Things takes hold with sensors built into cars, toys, clothes, shelves and even medicine.  Increasingly, it only makes sense to talk about specific usage cases for individual sectors and categories.  Or in other words - insights.  Which is what marketing has always been about.
+January 28, 2015 at 12:37 PM in Advertising, Business, Finance, Innovation, Interactive Marketing, Management, Marketing, Media, Modern Marketing, PR, Strategy, Technology
+| Permalink
+|
+Comments (0)
+Tags:
+brands, digital, innovation, management, marketing, media, PR, strategy
+Privacy Is The New, New Thing
+The rise of privacy as an online issue is creating the greatest challenges to brands and marketing. Once again, it’s interesting because these issues are not primarily about technology, but consumers' (aka people’s) views about what they feel comfortable with. In some cases, this means people don’t want to hand over any information at all. For example, in the case of brand driven communities that rise and almost immediately fall. In other cases, the exchange is almost immediately recognised as a good deal and the users flood in and happily hand over very private details. Whatsapp is probably the most striking example of all in recent years. Prior to its launch the idea of handing over your phone book and contact list to an anonymous corporation may have seemed beyond the pale. However, all it took was the promise of free SMS, hardly a gigantic offer on the face of it, and the users flooded in. Neither did its acquisition by Facebook change that. The exchange was still seen as sound.
+January 27, 2015 at 10:31 AM in Advertising, Business, Innovation, Interactive Marketing, Management, Media, Modern Marketing, PR, Social Software, Strategy, Technology
+| Permalink
+|
+Comments (0)
+Tags:
+advertising, digital, innovation, marketing, media, PR, privacy
+Next
+»
+Search This Blog
+WWW
+collaboratemarketing.com
+Recent Posts
+KPIs Not APIs
+Understanding Programmatic
+Would Your Digital Strategy Pass The Chairman’s Test?
+Getting The Data Habit
+The Creepy Line
+Marketing Strategy In A Digital World
+Advertising Aliens
+Everyone Wants Answers
+Don't Full Stop Me
+Search, Display And Social Combine
+Categories
+Advertising
+Business
+Co-Creation
+Community
+Digital
+Entertainment
+Finance
+Games
+Innovation
+Interactive Marketing
+Management
+Marketing
+Media
+Modern Marketing
+Music
+Open Source Marketing
+P2P
+PR
+Social Software
+Strategy
+Technology
+Television
+Articles Elsewhere
+FT - 'Ready For The Fifth Estate?'
+Observer - 'You The Global Broadcaster'
+Independent - 'Power To The Blogosphere'
+BBC - 'Growing Blog Market'
+Licensed
+Read The Agreement

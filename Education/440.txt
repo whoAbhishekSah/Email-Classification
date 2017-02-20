@@ -1,0 +1,26 @@
+EPICURE project - Home
+EPICURE
+Home
+Documents
+UCL Discovery
+Journal of Bentham Studies
+UCL Bentham Project
+Contacts
+EPICURE home
+Engraving of Jeremy Bentham.
+EPICURE (E-Publishing Infrastructure Capitalising on UCL’s Repositories) is a 6-month collaboration between UCL Library Services and the UCL Bentham Project that will implement and demonstrate a new, repository-underpinned e-publishing infrastructure at UCL.
+In EPICURE, OJS (Open Journal Systems) will be installed, configured and linked to UCL Discovery, UCL's open access institutional repository. The UCL-published Journal of Bentham Studies, including its backfile, will be converted to deploy the new infrastructure and re-launched. There is currently no consistently-adopted standard for the XML encoding of journal articles, and the project will examine UCL's requirements in this regard, evaluate the work which has already been done in this area and produce a template for the XML encoding of scholarly articles published by UCL. Finally, the project will address copyright and licensing issues by devising a model licence to publish, to ensure that authors retain rights in their work while assigning UCL the permissions necessary to store, publish and preserve all articles that are published, and that authors are encouraged to support sharing and re-use by attaching an appropriate licence to their work on acceptance.
+The legacy of EPICURE at UCL will be a sustainable, Library-managed service for future departmental publishing initiatives in all subject areas, and many of the project outputs will be relevant to and re-usable at other HEIs wishing to support faculty-led publishing.
+Objectives
+To install OJS and couple it with UCL's institutional repository.
+To ensure that a variety of up-to-date download reports on article and journal usage are publicly available through the OJS user interface.
+To compile documentation on OJS customisation, for use by other UCL editorial teams wishing to adopt the new e-publishing infrastructure.
+To publish the 2011 volume of the Journal of Bentham Studies using the new UCL e-publishing infrastructure.
+To migrate the Journal of Bentham Studies backfile to the new UCL e-publishing infrastructure.
+To carry out a requirements analysis and comparative evaluation of XML encoding standards for academic journal articles.
+To develop and make public a XML template for UCL e-publishing.
+To design a model licence to publish, available for re-use by other HEIs.
+To disseminate information about the project to a variety of stakeholders, through mechanisms including a project website, a blog, and a journal re-launch event.
+Anticipated outputs and outcomes
+EPICURE will add value to the Journal of Bentham Studies by linking it to state-of-the-art journal management software, lowering running costs, and, by placing its content in the UCL repository in both human and machine-readable formats, raising its visibility and impact. The project will also deliver a generic infrastructure that will enable existing UCL journals to follow suit and encourage new departmental initiatives to emerge. The model adopted at UCL through EPICURE will be of interest to other HEIs, and deliverables from EPICURE, such as the model licence and the XML publishing template, will be available for adaptation and re-use by later adopters. The EPICURE outputs will serve as an international 'shop window' for the potential of efficient, library-managed, repository-underpinned e-publishing in Higher Education.
+UCL - Gower Street - London - WC1E 6BT - Tel: +44 (0)20 7679 2000 | © EPICURE Project, 2011

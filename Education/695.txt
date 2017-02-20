@@ -1,0 +1,35 @@
+IDMAPS - Newcastle University
+IDMAPS : Institutional Data Management for Personalisation and Syndication
+JISC
+Introduction
+News
+Team
+Resources
+Feedback
+IDMAPS
+n. a JISC-funded project at Newcastle University
+Institutional Data Management for Personalisation and Syndication
+Introduction
+IDMAPS addresses the problems posed by the organic development of diverse computing systems in Higher Education institutions, leading to data flows which are inconsistent, badly documented and hard to maintain.
+The project will produce an exemplar institutional data infrastructure, associated data access policies and defined data interfaces. This will be based on Newcastle University's Campus Management system, and permit accurate and timely data management.
+The benefits will be evaluated through pilots utilising this data infrastructure and exploiting Web 2.0 technologies, which will deliver rich personalised content to users via a variety of platforms.
+Objectives
+Investigate the nature and fitness-for-purpose of existing solutions
+Determine institutional requirements
+Specify a flexible, adaptable information architecture of core user data
+Implement the data infrastructure and supporting systems
+Specify and deploy interfaces to enable data exchange across systems
+Demonstrate, document and disseminate project outputs
+Anticipated Outputs
+Best practice models for undertaking institutional data auditsTechnology demonstrator of the institutional data model
+Fully documented exemplar service descriptions and policy framework
+Data management policies published as reusable templates
+Demonstrator of integrated systems using Web 2.0 technologies
+Latest NewsIdentity Management Matters17/09/10, 14:15Review of Talend deployment in 200918/12/09, 15:30JISC Federated Access Management event26/11/09, 16:05IDFS Service Definition released26/11/09, 09:53
+Contact
+idmaps@ncl.ac.uk
+Funding
+JISC supports UK further & higher education and research by providing leadership in the use of Information and Communications Technology in
+support of learning, teaching, research and administration. JISC receives funding from all the UK further and higher education funding
+councils.
+© Copyright Newcastle University 2017

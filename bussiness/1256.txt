@@ -1,0 +1,188 @@
+Welcome to Scientific Computing World | Scientific Computing World
+Jump to navigation
+(!)  We use cookies to give you the best possible experience on our website. By continuing to browse this site, you give consent for cookies to be used.
+For more details, please read our
+cookie policy  (!)
+Latest issue:
+Dec 2016 / Jan 2017
+Popular:
+Dotmatics and 3E Company announce strategic a...
+Hexagon to acquire MSC Software
+The Pistoia Alliance appoints advisory board...
+Search form
+For scientists, researchers and engineers who use computing in their work.
+Home
+NewsHPC
+Industry
+People
+Research
+Applications
+Analysis & Opinion
+Features
+Interviews
+EventsConferences & Exhibitions
+Training courses & User meetings
+ResourcesWhite Papers
+Webcasts
+Reviews
+Press Releases
+Suppliers
+Subscribe
+No front page content has been created yet.
+News
+Industry
+The Pistoia Alliance appoints advisory board to increase industry collaboration
+13 February 2017
+The Pistoia Alliance, a global, not-for-profit alliance that works to lower barriers to innovation in life sciences research and development, has appointed an advisory board to guide its strategy.
+Industry
+Qlucore appoint sales manager to continue US expansion
+13 February 2017
+As part of its continued expansion into the US market Qlucore has announced the appointment of a new sales manager for the mid-Atlantic region, Beth Repetti.
+HPC
+Supermicro MicroBlade servers enable one of the world’s most efficient data centres
+07 February 2017
+Supermicro, a provider of compute, storage and networking technologies has announced the deployment of its disaggregated MicroBlade systems at one of the world’s highest density and energy efficient data centres.
+Research
+HudsonAlpha to expand Encyclopedia of DNA Elements Project
+07 February 2017
+Applications
+Land Rover BAR develop America’s Cup entry using PLM technology
+07 February 2017
+Applications
+Guy’s and St Thomas’ bioresource uses Matrix Gemini LIMS
+06 February 2017
+Features
+Laboratory informatics
+Leaving a legacy
+01 December 2016
+Robert Roe investigates the importance of upgrading legacy laboratory informatics systems and the benefits this provides to scientists
+Modelling & Simulation, energy
+Digging geothermal
+01 December 2016
+Gemma Church investigates how simulation and modelling de-risks the detection and extraction of geothermal energy resources
+HPC, Exascale
+Tooling up for exascale
+01 December 2016
+Robert Roe investigates some of the European projects focusing on preparing today’s supercomputers and HPC programmers for exascale HPC
+HPC
+A question of scale
+01 December 2016
+The Jülich Supercomputing Centre (JSC) at Forschungszentrum Jülich in Germany has been operating supercomputers of the highest performance class since 1987. Tim Gillett talks to Norbert Attig and Thomas Eickermann
+HPC
+Modular HPC goes mainstream
+01 October 2016
+William Payne investigates the growing trend of using modular HPC, built on industry standard hardware and software, to support users across a range of both existing and emerging application areas
+Laboratory informatics, DATA FORMATS
+Facing a formidable challenge
+01 October 2016
+Turning data into scientific insight is not a straightforward matter, writes Sophia Ktori
+Modelling & Simulation, ASTRONOMY
+Unlocking Cosmology
+01 October 2016
+Modelling & Simulation, CAE, Automotive, Crash Testing
+Advancing automotive simulation
+01 October 2016
+HPC
+Energy efficient supercomputing
+01 October 2016
+Tweets by @scwmagazine
+Analysis & opinion
+HPC
+Four predictions for supercomputing in 2017
+05 January 2017
+Cray's Barry Bolding gives some predictions for the supercomputing industry in 2017
+The New Age of Aquarius
+13 December 2016
+David Yip gives his take on the HPC processor market.
+HPC
+Managing a modern HPC cluster
+27 October 2016
+Lionel Gibbons, vice president of marketing at Bright Computing, explains the role of cluster management software to accelerate HPC
+HPC
+Passing HPC into the hands of every engineer and scientist
+19 September 2016
+Wolfgang Gentzsch explains the role of HPC container technology in providing ubiquitous access to HPC
+HPC
+Exploring energy efficiency
+03 August 2016
+Mirren White, project dissemination and exploitation officer, EPCC explains how a European project to understand and improve energy efficiency in HPC and embedded computing is creating tools that can be used to design more efficient HPC systems
+People
+Improving diversity at EuroMPI
+02 August 2016
+HPC
+Arm gets a boost from new RIKEN supercomputer
+04 July 2016
+HPC
+China dominates HPC industry with home-grown technology
+30 June 2016
+Research
+Picking up the pace at PLA
+19 May 2016
+Research
+Looking towards the laboratories of the future
+17 May 2016
+Interviews
+Evolving expectations at the Earlham institute
+09 September 2016
+Neil Hall, director at the Earlham institute and Dr Tim Stitt, head of scientific computing, explain the Earlham Institutes expanding providing not only a national capability for UK genomics but also providing capabilities for biotechnological and agricultural research.
+Telling data's story
+16 February 2016
+Gemma Church talks to data visualisation company Golden Software about three decades in business, Microsoft bugs and working in the geoscience arena
+Taking drug development into the virtual world
+16 February 2016
+In her series of profiles of bioinformatics companies, Sophia Ktori looks at the work of biosimulation specialist, Certara
+Simulation apps for everyone
+14 January 2016
+Is engineer by objective the future for simulation?
+14 January 2016
+Resources
+Webcast
+Leverage Learning Between Labs - 16 February 2017
+03 February 2017
+White paper
+The scalability of systems engineering
+15 December 2016
+White paper
+Cost Optimization for Cloud-Based Engineering Simulation Using ANSYS Enterprise Cloud
+23 November 2016
+White paper
+Are you considering Industry 4.0?
+11 November 2016
+White paper
+Cloud Computing Best Practices for Engineering Simulations
+04 November 2016
+Press Releases
+Nvidia introduces Pascal-based Quadro GPUs
+NVIDIA has introduced a range of Quadro products, all based on its Pascal architecture, that transform desktop workstations into supercomputers with breakthrough capabilities for professional workflows across many industries.
+Illumina announces VeriSeq Analysis Software
+Illumina has announced that it has declared conformity with the requirements of the IVD Directive and has applied the CE mark to an expanded VeriSeq NIPT Analysis Software for clinical laboratories in the European Union (EU).
+Optibrium signs agreement with Zastra Innovations for distribution in India
+Maplesoft announces a new version of Maple TA
+IDBS launches E-WorkBook Cloud
+Maplesoft partners with the University of Waterloo Partner to improve online STEM education
+Bright Computing establishes tiered partner program for resellers in EMEA and APAC
+Events
+SmartLabExchange US
+San Diego, US
+21 February 2017 to 22 February 2017
+Molecular Medicine Tri-Conference 2017
+San Francisco, USA
+19 February 2017 to 24 February 2017
+CHI’s Molecular Medicine Tri-Conference
+San Francisco, USA
+19 February 2017 to 24 February 2017
+STAR Global Conference
+Berlin, Germany
+06 March 2017 to 08 March 2017
+Pittcon
+Chicago, IL, USA
+05 March 2017 to 09 March 2017
+MEDIA PARTNERS
+Electro Optics | Europa Science | Imaging & Machine Vision Europe | Fibre Systems | Laser Systems Europe | Research Information | Scientific Computing WorldAbout us | Contact us | Subscribe | Advertise | Terms & conditions | Privacy policyEuropa Science © 2003-2017
+news
+press releases
+features
+analysis & opinion
+interviews
+webcasts
+white papers

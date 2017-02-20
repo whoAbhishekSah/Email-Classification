@@ -1,0 +1,229 @@
+JISC Beginner's Guide to Digital Preservation
+JISC Beginner's Guide to Digital Preservation
+…creating a pragmatic guide to digital preservation for those working on JISC projects
+Home
+About
+Contact
+Blog Policies
+Resources
+The Guide
+Categories
+Archiving
+articles
+Case studies
+Conference
+dataloss
+dcc
+definition
+Events
+General
+ipres2010
+irg
+Paper
+Project news
+rdm
+Reports
+tools
+training
+trainingmaterials
+Web
+Wordpress
+Workshops
+Archives
+December 2012
+September 2012
+August 2012
+July 2012
+May 2012
+April 2012
+March 2012
+February 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+Subscribe
+Entries (RSS)
+Comments (RSS)
+Meta
+Log in
+Recent Posts
+Closing this blog
+Registration now open for the International Digital Curation Conference 2013
+Creating a Sustainable Web site
+BBC – Opening Up the Archives
+International Digital Curation Conference 2013: Call for Papers
+Fragility of Online Content
+DPC Technology Watch Reports
+DCC Tools Catalogue
+Preserving Moving Pictures and Sound
+Choose Digital Preservation
+Blogroll
+WordPress.com
+WordPress.org
+Closing this blog
+Posted by Marieke Guy on December 19th, 2012
+Unfortunately I haven’t been able to give this blog the love and attention it deserves due to other work. I’ve decided that it makes sense to officially close the blog. Thanks for reading.
+Blog Statistics
+I am publishing the following statistics for future reference. They are intended to inform others about the lifecycle of the blog and assist people wishing to reuse resources by identifying the authors of articles etc.
+Active Dates: From 27 April 2010 to 19 December 2012
+Number of posts: 89 published posts
+Number of comments: 61
+Akismet statistics: 3,694 spams caught, 16 legitimate comments, and an overall accuracy rate of 99.838%.
+Author: Marieke Guy, UKOLN
+Details of blog theme:
+WP-Andreas09
+Details of plugins used:
+Delicious widget, Google analytics, Library thing, WPCAS
+Details of type and version of software used:
+This blog now runs on WordPress Version 3.4.2.
+Blog licence:
+This blog is licenced under a Creative Commons Licence (Attribution – Non-commercial – Share Alike).
+Posted in Project news |
+Comments Off
+Registration now open for the International Digital Curation Conference 2013
+Posted by Marieke Guy on September 19th, 2012
+Registration is now open for the 8th International Digital Curation Conference 2013. The conference has the theme ‘Infrastructure,Intelligence,Innovation:driving the Data Science agenda’ and takes place from 14-16 January 2013 at the Mövenpick Hotel, Amsterdam, Netherlands
+The programme will open on Monday 14 January 2013 with the Pre-Conference Drinks reception at the NEMO Science Center in Amsterdam. The welcome address will be given by Konstas Glinos who leads the Géant & e-Infrastructures Unit of the Directorate General for Information Society and Media at the European Commission.
+The main conference will start on Tuesday 15 January. Speakers will be drawn from a range of disciplines, institutions and organisations and will include:-
+Hans Pfeiffenberger, Alfred Wegener Institute
+Anthony Beitz, Monash eResearch Centre
+Patricia Cruse, University of California Curation Center
+Kaitlin Thaney, Digital Science
+Clifford Lynch, Coalition for Networked Information
+Herbert Van de Sompel, Los Alamos National Laboratory
+Chris Greer, National Institute of Standards and Technology
+There will be an exhibition of posters and demonstrations throughout the conference, a full programme of research and practice papers and an interactive symposium which will pose the question “What is a Data Scientist?”
+This is the first time that IDCC has been held in mainland Europe and the DCC are delighted to have support from two major institutions in the Netherlands
+– Data Archiving and Networked Services (DANS)
+and Delft University of Technology (TU Delft).
+IDCC13 is organised by the Digital Curation Centre UK, in partnership with the Coalition for Networked Information (CNI) and with sponsorship from Microsoft Research.
+Posted in dcc, Events |
+Comments Off
+Creating a Sustainable Web site
+Posted by Marieke Guy on August 22nd, 2012
+Work has being going on at the University of Northampton to develop a ‘sustainable web site’. The site designed to promote STEM (Science, Technology, Engineering and Mathematics) outreach activities is being funded through a Nuffield Science Bursary.
+The project is looking at different aspects of web sustainability. They have begun with an investigation of possible tools and approaches for web sustainability. Their findings have been shared through the following blog posts:
+Best free tools for website sustainability (which looks at Freeway Pro, MAGIX Website Maker, NVU, Sandvox, Breezi, DevHub, Wix, Weebly)
+How to get it out there for pennies (which looks at Web hosting services)
+The site itself is being hosted using Weebly because of its easy of use, free tools and free hosting. It is believed to be sustainable because:
+It has been design to be relatively simple to maintain
+Uses free tools
+Uses free web-hosting
+Relatively easy to transfer management
+Relatively easy to wrap most of the site and largely move it to another host.
+A user guide to maintaining the site has also been produced design to be simple to understand.
+Posted in Web |
+Comments Off
+BBC – Opening Up the Archives
+Posted by Marieke Guy on August 1st, 2012
+The BBC has now completed a series of online films looking at looking at research carried out to support the BBC archives. The films are around 10 minutes each and each look at a particular area of work.
+Part 6 – New Kinds of Metadata
+Part 5 – Finding the Content
+Part 4 – A Strategy for the Industry
+Part 3 – Future Proofing
+Part 2 – Keeping Ahead of Obsolescence
+Part 1 – R&D and Archive Research
+Posted in Archiving |
+Comments Off
+International Digital Curation Conference 2013: Call for Papers
+Posted by Marieke Guy on July 31st, 2012
+The 8th International Digital Curation Conference 2013 (IDCC13) with the theme ‘Infrastructure, Intelligence, Innovation: driving the Data Science agenda’ will take place on 14-16 January 2013 at the Mövenpick Hotel, Amsterdam, Netherlands.
+The call for papers is currently open and the IDCC11 Programme Committee that reflect the conference theme. The theme recognises that in recent years there has been an explosion in the amount of data available, whether from tweets to blogs, data from sensors through to “citizen science”, government data, health and genome data and social survey data. Technology allows us to treat as ‘data’ content which would not once have merited the term – recordings of speech or song, video of dance or theatre or animal behaviour – and to treat as quantitative what once could only be qualitative. There are challenges in finding data and making it findable, in the ability to use it effectively, to take and understand data, to process, to analyse and extract value from data , to visualize data and then to communicate the stories behind it.
+This process is now being termed data science. It is being used across sectors to describe a wide range of data activities in the commercial, government and academic sectors dealing with information whose primary purpose is often not research-related. Activities are not discipline-specific; in fact data science is being described in some quarters as a new discipline.
+The Call for Papers including a list of topics can be found at:- www.dcc.ac.uk/events/idcc13/call-papers.
+Posted in dcc, Events |
+Comments Off
+Fragility of Online Content
+Posted by Marieke Guy on July 10th, 2012
+It looks like an online magazine has lost 12 years of Web content. The magazine, 3:AM, stored it’s content on online servers which went down last week.
+Andrew Gallix, editor-in-chief, told the Independent newspaper that the events of the past week have been “traumatic” and highlighted the “the fragility of online content”.
+Martin Bryant, managing editor of technology blog The Next Web, said: “There are risks with storing everything on outside servers. We’ve been lucky that there have been no massive outage yet. We’re still waiting for the first cloud disaster. Fingers crossed it never happens, but must be prepared.”
+Tags: dataloss			Posted in dataloss |
+Comments Off
+DPC Technology Watch Reports
+Posted by Marieke Guy on May 15th, 2012
+The Digital Preservation Coalition and Charles Beagrie Limited have announced the continuation of their collaboration, producing 3 more Technology Watch Reports.
+‘Five new Technology Watch Reports have already been produced – or are in production – and have been enthusiastically received’, said William Kilbride of the DPC.
+‘The next three will ensure that the production process continues through 2013 with themes and topics proposed and refined by DPC members to help them with digital preservation.’
+The three new reports will be:
+Web Archiving, Maureen Pennock
+Preserving Computer Aided Design, Alex Ball (jointly with DCC)
+Preservation Metadata, Brian Lavoie and Richard Gartner
+Two of the reports are completely new, and a third one updates one of the more popular reports that has become dated since it was first published in 2005.
+The DPC Technology Watch Report series was established in 2002 and has been one of the Coalition’s most enduring contributions to the wider digital preservation community.
+They exist to provide authoritative support and foresight to those engaged with digital preservation or having to tackle digital preservation problems for the first time. These publications support members work forces’, they identify disseminate and discuss best practices and they lower the barriers to participation in digital preservation.
+‘Each ‘Technology Watch Report’ analyses a particular topic in digital preservation, evaluating workable solutions, and investigating new tools and techniques appropriate for different contexts,’ explained Neil Beagrie, series editor.
+‘The reports are written by leaders-in-the-field and are peer-reviewed prior to publication.
+The intended audience is worldwide, especially in the UK, Europe, Australia New Zealand, USA, Canada.’
+‘We expect that these reports will have a wide readership.
+The audience includes members and non-members of the coalition; staff of commercial and public agencies; repository managers, librarians and archivists charged with managing electronic resources; senior staff and executives of intellectual property organizations in the private and public sectors; those who teach and train information scientists; as well as policy advisors requiring an advanced introduction to specific issues and researchers developing DP solutions.’
+Further publicity on each report in the series will be released over the course of the next year and DPC members will be engaged in the process throughout: draft outlines of each reports will be distributed to members for comment, members will be given access to previews before reports are released; and the whole process will be overseen by an editorial board drawn from the DPC.
+Posted in Archiving, trainingmaterials |
+Comments Off
+DCC Tools Catalogue
+Posted by Marieke Guy on May 8th, 2012
+The Digital Curation Centre (DCC) has has recently updated their catalogue of tools and services for managing and curating research data.
+The catalogue is available from
+http://www.dcc.ac.uk/resources/external/tools-services
+This is more than a new look; the catalogue has been overhauled to focus on software and services that directly perform curation and management tasks. It splits these resources into five major categories, based on who the intended users are and what stage of the data lifecycle they will be most useful in.
+There is a category for Archiving and Preserving Information Packages with sub categories including:
+Access Platforms – Tools to publish content and metadata to the web.
+Backup and Storage Management – Tools to coordinate responsible storage and preservation strategies.
+Creating and Manipulating Metadata – Enriching object descriptions and standardising records.
+Emulation – Re-creating obsolete software environments to access old formats.
+File Format ID and Validation – Defining and validating digital files.
+Metadata Harvest and Exposure – Using OAI-PMH to share records across repositories.
+Normalisation and Migration – Transferring digital materials into preservation-friendly formats.
+Persistent ID Assignment – Creating unique identifiers for digital objects.
+Repository Platforms – Enabling deposit, preservation, and access to digital content.
+Sub-categories contain tables for quick comparison of tools against others that perform similar functions, linked to in-depth descriptions of how the resource can help.
+This resource will evolve; if you have suggestions of tools to add please send them to info@dcc.ac.uk
+Posted in Archiving, dcc, irg, tools |
+Comments Off
+Preserving Moving Pictures and Sound
+Posted by Marieke Guy on May 1st, 2012
+The Digital Preservation Coalition (DPC), Richard Wright and Charles Beagrie Ltd have announced the release of the latest DPC Technology Watch Report Preserving Moving Pictures and Sound, written by Richard Wright, formerly of the BBC.
+“Moving image and sound content is at great risk. Surveys have shown that 74 per cent of professional collections are small: 5,000 hours or less. Such collections have a huge challenge if their holdings are to be preserved. About 85 per cent of sound and moving image content is still analogue, and in 2005 almost 100 per cent was still on shelves rather than being in files on mass storage.
+Surveys have also shown that in universities there is a major problem of material that is scattered, unidentified, undocumented and not under any form of preservation plan. These collection surveys are from Europe and North America because there is no survey of the situation in the UK, in itself a cause for concern. This report is for anyone with responsibility for collections of sound or moving image content and an interest in preservation of that content. New content is born digital, analogue audio and video need digitization to survive and film requires digitization for access. Consequently, digital preservation will be relevant over time to all these areas.
+The report concentrates on digitization, encoding, file formats and wrappers, use of compression, obsolescence and what to do about the particular digital preservation problems of sound and moving images.” – Richard Wright
+The report discusses issues of moving digital content from carriers (such as CD and DVD, digital videotape, DAT and minidisc) into files. This digital to digital ‘ripping’ of content is an area of digital preservation unique to the audio-visual world, and has unsolved problems of control of errors in the ripping and transfer process. It goes on to consider digital preservation of the content within the files that result from digitization or ripping, and the files that are born digital. While much of this preservation has problems and solutions in common with other content, there is a specific problem of preserving the quality of the digitized signal that is again unique to audio-visual content. Managing quality through cycles of ‘lossy’ encoding, decoding and reformatting is one major digital preservation challenge for audio-visual as are issues of managing embedded metadata.
+DPC Technology Watch Reports identify, delineate, monitor and address topics that have major bearing on ensuring our collected digital memory will be available tomorrow.
+They provide an advanced introduction in order to support those charged with ensuring a robust digital memory and they are of general interest to a wide and international audience with interests in computing, information management, collections management and technology.
+The reports are commissioned after consultation with members; they are written by experts; and they are thoroughly scrutinised by peers before being released.
+The reports are informed, current, concise and balanced and they lower the barriers to participation in digital preservation. The reports are a distinctive and lasting contribution to the dissemination of good practice in digital preservation.
+Preserving Moving Pictures and Sound is the second Technology Watch Report to be published by the DPC in association with Charles Beagrie Ltd. Neil Beagrie, Director of Consultancy at Charles Beagrie Ltd, was commissioned to act as principal investigator and managing editor of the series in 2011.
+The managing editor has been further supported by an Editorial Board drawn from DPC members and peer reviewers who have commented on the text prior to release.
+The Editorial Board comprises William Kilbride (Chair), Neil Beagrie (Series Editor), Janet Delve (University of Portsmouth), Sarah Higgins (Archives and records Association), Tim Keefe (Trinity College Dublin), Andrew McHugh (University of Glasgow) and Dave Thompson (Wellcome Library).
+The report is available online.
+Posted in dcc |
+Comments Off
+Choose Digital Preservation
+Posted by Marieke Guy on April 23rd, 2012
+Deadline have posted a great piece on how Irvine Welsh nearly lost much of the text of his new novel Skagboys because it was held on an Amstrad computer.
+Welsh had written over 10,000 extra words when writing Trainspotting back in 1993 and didn’t migrate the text. After failing to buy an Amstrad on ebay he hired a specialist technician to retrieve the copy.
+He said: “When I wrote Trainspotting I had 100,000 words at the start and another 100,000 at the end that I didn’t use.
+“The stuff at the end I put into other books. The stuff at the beginning I had on some old Amstrad disks.
+“I thought, I’ve gotta get this sorted. I tried to but an Amstrad on eBay, then I found a guy who could transpose the stuff on the disks.”
+Posted in Project news |
+Comments Off
+« Previous Entries
+JISC Beginner's Guide to Digital Preservation is powered by WordPress |
+Design by Andreas Viklund |
+Ported by Ainslie

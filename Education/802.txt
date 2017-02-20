@@ -1,0 +1,318 @@
+The LUCERO Project
+HomeAboutWhat is linked data?data.open.ac.ukTabloid
+The LUCERO Project
+Linking University Content for Education and Research Online
+Going further
+19 Nov 2012 at 22:10
+Mathieu
+news
+No Comments
+Last week I attended the International Semantic Web Conference, and that was a pretty good time to reflect a bit on the state of linked data at the Open University, and beyond. First, because I made a presentation of it, at the industry track of the conference. This was pretty interesting, as it was an opportunity to reflect
+on the impact of our work.
+Linked Data at the Open University: From Technical Challenges to Organizational Innovation
+from Mathieu d’Aquin
+Judging from the discussion afterwards and some reactions on twitter, this was very much welcomed by the audience, especially as an encouragement for members of other universities to get on board the linked data train. I also demoed our latest prototype: DiscOU. It is a “discovery engine” for open educational resources which, in the current demo, can find them from BBC programmes (including iPlayer). We are actually pretty excited about this as it not only applies linked data as well as semantic search techniques to make itself more meaningful and customisable than other recommender tools, but also because it opens the way for a lot of potentially great applications, such as finding open educational resources relevant to museum exhibitions or to courses in other universities.
+Now, even more interesting from this presentation and the discussions that followed was the new projects, going beyond Linked Data at the Open University. Linked Universities for example is growing pretty strong, with more datasets, vocabularies and tools being added on a regular basis, and more people getting in touch to discuss the application of linked data in their institution. We also just kicked off a new project, an EU support action called LinkedUp, that is all about web data from across various origins used to create new, innovative educational services. Finally, I’m getting involved in the development of Marimba, a tool developed in Madrid originally for the Spanish National Library to extract linked data from MARC-based library catalogues using customised mappings. We are now working on providing this tool to other universities, including university libraries.
+We are Building a Team!
+21 Aug 2012 at 13:46
+Mathieu
+news
+No Comments
+Three posts on Linked Data at the Open University
+Anybody how would monitor the job vacancies page on the KMi website can see that there are very exciting news coming up: we are hiring a whole team to take care of different aspects of Linked Open Data, at the Open University and beyond. This is exciting because it means that we are given the opportunity to make linked data a core part of the university’s information infrastructure, and through this, to offer to three talented people the chance to shape the way the higher education sector share, reuse and connect open data for the benefits of both teachers and learners. It is exciting also because each of these jobs include both a strong innovative component (working with state-of-the-art technologies and developing applications never seen before) and a direct relationship with the community of users of these technologies, whether it is researchers at the OU, the entire university or even a whole network of universities worldwide.
+I describe the jobs quickly below with the links to the complete job descriptions and information about the way to apply. Please contact me if you have any question, or if you just want to discuss the jobs (using email, twitter, comments, or whatever other means…)
+Project Officer – Linked Data (1 year)
+This is a grade 7 job (for those of you who know what that mean) which basically is about becoming the Linked Data Specialist/Expert/Champion at the Open University. The core of the work here is basically to take care of data.open.ac.uk: ensure that it works and is maintained, keep the data up-to-date with changes in the original sources, identify new sources of data and integrate them, demonstrate and build the practices of Linked Data within the University, especially through dedicated applications. We are therefore expecting candidates to have good technological background (with the ability to develop using languages such as Java, PHP, Javascript) and good communication skills. Naturally, an interest in linked (open) data is strongly recommended.
+The deadline for applying is the 19th September 2012. See the vacancy page for details.
+Project Officer – REF Publications Linked Data (1 year)
+This is also a grade 7 job. One of the most significant areas of application of Linked Data at the Open University (and, I believe, the academic sector in general) is for the management of research communities and research outputs. This job concerns one of such applications, which is especially dedicated to supporting the Research Excellence Framework for evaluating the quality of research realised in the university. This application makes use of data available from data.open.ac.uk and creates its own (private) datasets to support researchers at the Open University (hundreds of them) in managing, annotating and promoting their research output. Ability to programme (in PHP, and possibly in Javascript) as well as experience/interest in managing information in the academic community are of course needed here.
+The deadline for applying is the 19th September 2012. See the vacancy page for details.
+Research Assistant / Associate — LinkedUp Project (2 years)
+More academic in nature (AC1/2), this job is also broader in scope. Working within the LinkedUp European Support Action, the goal here is to create both the technological and the support infrastructure to push forward the application of linked data in the education sector in general. This means in particular that we need somebody able to become an expert in the application of the linked data principles for open educational data, and learning and teaching applications. Beyond the purely technological aspects however, this implies collaborating and engaging with a large network of educational institutions (universities and other organisations) on innovations led by the deployment of Linked Data-based solutions.
+The deadline for applying is the 12th September 2012. See the vacancy page for details.
+DiscOU: Discoverability of Open Educational Content
+04 Aug 2012 at 14:07
+Mathieu
+Tools
+1 Comment
+If there is one scenario that was prominent in driving the development of Linked Data at the Open University, it is the one
+related to the discovery of educational resources. Indeed, there is a basic assumption that providing structured, open and addressable descriptions of resources helps making these resources more visible. In fact, most of my early presentations of LUCERO (but, for some reasons, not the ones that are online) included a picture of somebody saying “I’ve just seen a very interesting BBC programme. What is there at the OU that can help me learn more about it?”. Two years later, we actually have a systems that does exactly that!
+Indeed, with support from the Open University’s “Open Media Unit”, we built an application that can semantically analyse the textual content of online resources and match it agains semantically indexed Open University content (OpenLearn Units and Podcasts at the moment) . The result (implemented as a set of REST services, some Javascript and a bookmarklet) is, if I might say so myself, super cool. It’s called:
+DiscOU
+(and yes, we probably should have put more effort in choosing the name).
+The whole thing is pretty much a combination of linked data and information retrieval technologies. The Open University resources are crawled through data.open.ac.uk, analysed using DBPedia Spotlight and indexed using Apache Lucene. A BBC programme page used as a starting point would pretty much go through the same process, using the RDF description of the programme from the BBC website, analysing the textual components and matching the results to indexed resources. Because we use DBpedia Spotlight, the resources are described (and indexed) based on DBpedia entities, which allows us to semantically characterise their overlap, based on the links between common entities. It also makes it possible for the user to customise the search process based on his/her own interests.
+The Commonwealth of Learning publishes a report on Linked Data for education, based on the experience in LUCERO
+25 Jul 2012 at 12:33
+Mathieu
+news
+No Comments
+The Commonwealth of Learning (COL) is an intergovernmental organisation including more than 50 independent sovereign states, created to encourage the development and sharing of open learning/distance education knowledge, resources and technologies. Impressed by the work realised in the LUCERO project, by the deployment of data.open.ac.uk (the world’s first university linked data platform), and by the impact it had on The Open University and the broader higher education community, COL commissioned a report on the use and deployment of Linked Data principles and technologies for open and distance learning, which was published last week.
+This report is based in large parts on the experience built in the last months of LUCERO, especially in connecting with other organisations and trying to gather common issues and practices, through LinkedUniversities.org.
+The report covers the general principles underlying Linked Data technologies and their relevance to the field of education, especially focusing on open and distance learning. It illustrates use case scenarios of Linked Data for learning and teaching through describing existing applications, and details the process of adopting and deploying Linked Data for educational resources and learning-related information. Through publishing it on its website under an open license, COL hopes that this report will become a valuable resource to a wide variety of organisations, raising the general awareness of the benefits of using open Web technologies such as Linked Data for educational purposes.
+So, what’s in linked datasets for education?
+18 Apr 2012 at 22:02
+Mathieu
+Datasets,
+overview
+2 Comments
+Since the first push when we deployed data.open.ac.uk, the area of linked data for education, especially in universities, as been slowly but steadily growing. This is obviously a rather good news as a critical benefit of linked data in education (some would say, the only one worth considering) is that it creates a common, public information space for education that goes outside the boundaries of specific institutions. However, this will only happen if a certain level of convergence is happening so that shared vocabularies and schema elements are commonly used that make it possible to aggregate and jointly query data provided by different parties. Here, we try to get an overview of the current landscape in existing linked datasets in the education sector, to see how much of this convergence is happening, what are the areas of clear agreement, and the ones where more efforts might be required.
+The Datasets
+To look at the current state of linked data in education, we considered 8 different datasets, some provided by universities and some by specific projects. We looked at datasets that were explicitly dedicated to education (as opposed to the ones containing information that could be used for educational purposes, such as library and museum data, and the ones that have connection with education but focus on other aspects, such as the datasets from purely research institutions). Also, we view datasets in a very coarse-grained way, for example considering the whole of data.open.ac.uk as one dataset, rather than each of its sub-datasets separately. Finally, we could only process datasets with a functioning SPARQL endpoint working properly with common SPARQL clients (in our case ARC2).
+From Universities:
+data.open.ac.uk which SPARQL endpoint is available at http://data.open.ac.uk/sparql
+data.bris from the University of Bristol. SPARQL endpoint: http://resrev.ilrt.bris.ac.uk/data-server-workshop/sparql
+University of Southampton Open Data. SPARQL endpoint: http://sparql.data.southampton.ac.uk/
+LODUM from the University of Muenster, Germany. SPARQL endpoint: http://data.uni-muenster.de/sparql
+Others should be included eventually, but we could not access them at the time
+From projects and broader institutions
+mEducator, a european project aggregating learning resources: SPARQL Endpoint: http://meducator.open.ac.uk/resourcesrestapi/rest/meducator/sparql
+OrganicEduNet a european project that aggregated learning resources from LOM repositories (see this post). SPARQL endpoint: http://knowone.csc.kth.se/sparql/ariadne-big
+LinkedUniversities Video Dataset which aggregates video resources from various repositories (see this paper). SPARQL Endpoint: http://smartproducts1.kmi.open.ac.uk:8080/openrdf-sesame/repositories/linkeduniversities
+Data.gov.uk Education which aggregates information about schools in the UK. SPARQL endpoint: http://services.data.gov.uk/education/sparql
+Common Vocabularies
+As everybody will always say: the important thing is the reuse shared and common vocabularies! As they are talking about similar things, it is expected that education-related datasets would share vocabularies, and that their overlaps would allow to achieve joint reuse of the exposed data. The chart above shows the namespaces that are used by more than one of the considered datasets.
+Unsurprisingly, FOAF is almost omnipresent. One of the reasons for this is that FOAF is the unquestioned common vocabulary to represent information about people, and it is quite rare that an education-related dataset would not need to represent information about people. It is also the case that FOAF includes high-level classes that are also very common, especially in this sort of datasets, namely Document and Organisation.
+In clear second place come vocabularies to represent information about bibliographic resources, and other published artifacts: Dublin Core and BIBO. Dublin Core is actually the de-facto standard for metadata for just about anything that can be published. BIBO, the bibliographic ontology, is more specialised (and actually rely on both Dublin Core and FOAF) to represents in particular academic publications.
+Other vocabularies used include generic “representation languages” such as RDF, RDFS, OWL and SKOS (often used to represent topics), as well as specific vocabularies related to the description of multimedia resources, events and places (including building, addresses and geo-location).
+Common Classes
+At a more granular level, it is interesting to look at the types of entities that can be found in the considered datasets. The chart above shows the classes that are used by at least 2 datasets. This confirms in particular the strong focus on people and bibliographic/learning resources (Article, Book, Document, Thesis, Podcast, Recording, Image, Patent, Report, Slideshow).
+In second place come information about educational institutions as organisations and physical places (Organization, Institution, Building, Address, VCard).
+Besides generic, language-level classes other areas such as events, courses, vacancies, etc. tend to be only considered by a very small number of datasets.
+Common Properties
+Finally, going a step further in granularity, we look through the chart above at the way common types of entities are represented. This chart show the properties used by more than 3 datasets. Once again, besides generic properties, the focus on people (name) and media/bibliographic resources (title, date, subject) is obvious, especially with properties connecting the 2 (contributor, homepage).
+The representation of institutions as physically located places is also clearly reflected here (lat, long, postal-code, street-address, adr).
+Doing More with the Collected Data
+Of course, the considered datasets only represent a small sample, and ideally, we could draw some more definitive conclusions as the number of education-related datasets grows and are included. Indeed, in order to realise the analysis in this post, we created a script that generates VOID-based descriptions of the datasets. The created descriptions are available on a public SPARQL endpoint which will be extended as we find more datasets to include. Please let us know if there are datasets you would like to see taken into account. The charts above are dynamically generated out of SPARQL query to the aforementioned SPARQL endpoint.
+Also, we will look at reflecting the elements discussed here on the vocabulary page of LinkedUniversities.org. The nice thing about having a SPARQL endpoint for the collected data is that it will make it easy to create a simple tool to explore the “Vocabulary Space” of educational datasets. This might appear useful as well as a way provide federated querying services for common types of entities (see this recent paper about using VOID for doing that), which might end-up being a useful feature for the recently launched data.ac.uk initiative (?) Another interesting thing to do would be to apply a tiny bit of data-mining to check for example what elements tend to appear together, and see if there are common patterns in the use of some vocabularies.
+Transforming Legacy Data into RDF – Tools
+13 Feb 2012 at 14:42
+Mathieu
+overview
+5 Comments
+As part of the extension of the project, I was talking recently with Sean Bechhofer, who is currently looking at doing some linked data for the University of Manchester. A part of the discussion was naturally concerned with reusing things from LUCERO. One thing Sean would have expected to be able to reuse are the tools we employed/developed for extracting data from their original sources into RDF. While many parts of the LUCERO technical workflow are reusable, and the extractors are only a small part of it, it is still quite disappointing that these tools are not based on generic mechanisms that can be easily re-applied to other environments, especially because tools to extract RDF from legacy data exist.
+This post is therefore meant as a bit of a survey on such tools, their scope and applicability. There are different types of tools that can be considered, depending in particular on the format of the original source.
+Generating RDF from Relational Databases
+Triplify is one of the first tools we experimented with, in a pilot project that was based on a relational (MySQL) database. The way to use Triplify, if it is not already integrated as a plugin for whatever you are doing, is to defined a set of SQL select queries on the database, that also include information about the way the results should be converted into RDF. More precisely, it is assumed that each row of results correspond to an individual, that the first column is an identifier for individual, and other columns are properties. A simple example of such a query is: SELECT id,name AS 'foaf:name' FROM users. This works very well for simple, easy to transform structures, but tends to become difficult to manage when the RDF graph has to be significantly different from the naive transformation of the database (with queries spanning over many queries, or RDF individuals being contributed to by many tables).
+D2RQ takes a slightly different approach to Triplify, as instead of trying to create an RDF dump of a relational database, it allows to create a mapping that relate the structure of the database to RDF triples, and transforms at run-time SPARQL queries into SQL queries using this mapping. The D2RQ mapping language is reasonably simple, as shown in the example below, and can express many intricate relationships from the database. Another advantage is that the D2RQ tool can create a default ‘naive’ mapping from the database schema, which can then be customized (therefore facilitating the first steps of managing the transformation process). In case of evolving databases, the mapping can become quite hard to maintain however. Another disadvantage is that the run-time query transformation approach is not very efficient (but help keeping data up-to-date). It is worth noticing however that D2RQ can also create an RDF dump of the content of the database using the same mapping.
+map:Conference a d2rq:ClassMap;
+d2rq:dataStorage map:Database1.
+d2rq:class :Conference;
+d2rq:uriPattern "http://conferences.org/comp/confno@@Conferences.ConfID@@";
+.
+map:eventTitle a d2rq:PropertyBridge;
+d2rq:belongsToClassMap map:Conference;
+d2rq:property :eventTitle;
+d2rq:column "Conferences.Name";
+d2rq:datatype xsd:string;
+.
+map:location a d2rq:PropertyBridge;
+d2rq:belongsToClassMap map:Conference;
+d2rq:property :location;
+d2rq:column "Conferences.Location";
+d2rq:datatype xsd:string;
+.
+ODEMapster is based on the R2O mapping language, which, similarly to the one of D2RQ, can establish relations between the structure of a database and the way it can be exported into RDF. ODEMapster however focuses more on the creation of OWL ontologies from the content of databases. It is available currently as a plugin of the NeOn Toolkit for Ontology Engineering. Similarly, RDVToOnto tries to semi-automatically extract populated ontologies, relying on both the schema of and content patterns in the database.
+It is worth noticing here as well that the W3C has set-up an RDB2RDF working group, in charge in particular of defining a common language, set of requirements and test cases for transforming relational databases (RDB) into RDF. The working group has in particular produced a survey of existing approaches in this area.
+Generating RDF from XML (including RSS)
+There have been less work on converting XML sources into RDF than converting from relational databases. One of the reasons, paradoxically, is that XML and RDF share a common base, at least in terms of syntax (i.e., RDF/XML uses an XML syntax, XML can be made, somehow, RDF friendly and RSS 1.0 is, in principle, already in RDF). There have therefore been quite a few examples of syntactic conversions of XML to RDF/XML, using in particular XSLT.
+The GRDDL language recommended by the W3C intends to provide a standard and systematic way to achieve such XSLT based transformation, by making it possible to declare that XML documents include data compatible with RDF. It has been extensively used for example for the conversion of microformats.
+Generating RDF from tables and spreadsheets
+In many domains, including ours, data simply come in tabular format, through spreadsheets and CSV files. Transforming such formats, intended to make the data easily sharable between people, can be quite a challenge.
+Google Refine is a tool which is meant as an easy way to clean, transform and explore data in a tabular format. It can import from many different sources, including MS Excel, Google Spreadsheet and CSV, and includes a number of useful features to work on the data. While it is not originally developed to support RDF export, it is extensible. The RDF Extension has been created in order to allow export into RDF (with a graphical definition of the mappings between the table and RDF), as well as to including useful tools to connect the content of the table to external linked datasets.
+Other tools exist such as Any23 or
+QUIDICRC that provides simple, direct transformation of CSV files into RDF.
+More specific sources and generic frameworks
+There are many other tools that exist that can be used legacy data into RDF, from small specific tools, to generic frameworks (see http://www.w3.org/wiki/ConverterToRdf for a more complete list).
+For example,
+SIMILE RDFIzer is a set of specialized converters for a large variety of input formats. Of relevance to the education domain, we can for example notice marcmods2rdf which converts library catalog records to RDF, oai2rdf which can extract RDF from open archive repositories (OAI-PMH) and ocw2rdf which can extract RDF from MIT OpenCourseWare metadata.
+Even outside RDFIzer, a number of converters can be found that would take as input specialized formats and export them into RDF using particular vocabularies. We can mention for example Bibtex2RDF converting bibliographical references in the Bibtex format, or the Youtube2RDF tools developed in the LUCERO project, and that converts Youtube playlists into RDF using media vocabularies.
+Conclusion
+As can be seen from above, one can sometimes find many options to convert legacy data into RDF, depending on the original format of the data, and on the particular requirements regarding the transformation process. This list is obviously not complete.
+One the main issue however regarding the use of these tools is not the choice, but rather their integration and adaptation into the right environment. Some tools would require efforts into creating and maintaining a mapping between the original source and RDF, which might end-up being very time consuming (possibly more than creating dedicated, ad-hoc converters like we did in LUCERO). Other converters do not require such configuration, but would produce ‘generic RDF’ that might not fit the considered requirements. Some might say for example that a generic conversion of MARC to RDF is inconceivable. Finally, when having to convert from many different sources with disparate formats, managing the use of multiple tools, their outputs (and especially the overall consistency of the produced RDF) and their scheduling might become a difficult challenge.
+LUCERO extension
+23 Nov 2011 at 12:31
+Mathieu
+Project Activities
+No Comments
+We have had quite a few nice new things happening in relation to LUCERO recently, including some updates of the code, initial work around aggregating data from multiple universities, a paper at a linked data workshop with people from several departments of the OU, presentations, etc. In other words, the work is continuing, and quite a lot more will be happening soon. In turns out indeed that we have not spent all of our budget and have some more time to spend on synthesising, factoring and making more directly reusable the work we have done as part of the project (don’t ask me how that happened…).
+The idea here is therefore, starting from February 2012, to work on making our experience in LUCERO, in creating data.open.ac.uk, more directly accessible and reusable by other universities and colleges. The exciting bit about it is that, while we have been working mostly internally for the initial duration of the project, we will realise this new work in direct collaboration with two other universities: one that has already achieved a similar realisation as our own data.open.ac.uk (Southampton, working with Christopher Gutteridge), and one that is at the first, very initial steps of the process (Manchester, working with Sean Bechhofer).
+More precisely, here is a quick description of the work, divided in workpackages:
+WP1: Technical/Conceptual/Organisational process of deploying linked data in a University
+The goal of this workpackage is to rely on our (joint) experience to describe and provide some guidelines regarding the different options related to the deployment, maintenance and sustainability of a linked data platform in a University. This includes in particular tasks such as the choice of vocabularies for data modelling, or the ways to establish links between internal and external datasets.
+Deliverable: Report/Guidelines describing the concrete steps of deploying linked data in a university.
+Duration: 12 days
+WP2: Business case for linked data in universities
+Nowadays, everything is driven by business cases and nothing happens with the direct approval and support from higher management. In this workpackage, we will compile a collection of common case studies demonstrating the benefits of linked data (whether it is to drive innovation, reduce cost of data management or create new entry points to the university’s online presence), and providing clear demonstrations of the business value of linked data.
+Deliverables:A clearly illustrated, online collection of case studies with associated business cases for linked data in universities.
+Duration: 12 days
+WP3: Liaison with other universities involved in linked data
+This workpackage contains the work related to the collaboration with other universities, including the organisation of face-to-face and online meetings, capturing their experiences and requirements, etc.
+Deliverable: Meeting reports and descriptions of other universities’ linked data environments in comparison with data.open.ac.uk
+Duration: 5 days
+WP4: Dissemination and community portal
+In this workpackage, we will rely on the experience in LUCERO in the use of blogs and twitter feeds to realise the dissemination of the results of the work. We will also make use and extend the LinkedUniversities.org portal to host the reports, guidelines and business cases produced as part of the work, and engage with the community around this documentation.
+Deliverables:Extensions of the project blog, twitter feed and of the linkeduniversities.org portal
+Duration: 5 days
+Final Product Post: Tabloid
+01 Jul 2011 at 09:04
+Mathieu
+Project Activities
+No Comments
+This is the final, formal post of the LUCERO JISC project. However, be reassured, this is far from the last post. More and more activities around linked data are happening at the Open University, and this blog will carry on being a primary channel for communication and discussions around these activities.
+For this post, we had to chose one “product” of the project, which we believed was to be most useful and reusable by others. We have done so many things over the last year that choosing one was almost impossible. After a lot of discussion and head scratching, we decided to promote as a product our collection of tools, examples and documentions, explaining the why and how of linked data, as well as the benefit one can get from deploying linked data in a higher education institution. We call this toolkit Tabloid: Toolkit ABout Linked Open Institutional Data.
+Users
+To clarify very quickly, the intended target audience for the Tabloid Toolkit are not the end-users of linked data. We focus here on helping people in higher education institutions with getting involved in promoting, implementing and deploying linked data within their institution. This includes more or less anybody who would have a role to play in the management of data and information, from PVCs to researchers, librarians and developers.
+Overview
+Tabloid is an evolving toolkit made of code, documentation and examples in various places, and trying to address the people with various roles involved in the deployment of linked data: from managers who want to quickly understand the benefits, to developers who are expected to work with it, develop applications and integrate it into their technical workflow.
+In this sense, Tabloid can be seen an entry point to institutional linked data, with different parts being relevant to different people at different times. It includes many components distributed in different ways, and put together in a coherent structure in the Tabloid Page. In particular, the toolkit contains documentations giving an overview of the basic principles of linked data, of the way it concretely creates benefits and of simple examples of how such benefits can be exploited in research and education scenarios (see What is linked data?). It provides an overview of both the technical and organisational workflows that are necessary to deploy linked data in an institution, and provide some tool support to realise common tasks in such workflows. Finally, Tabloid puts a particular emphasis on the aspect of using and consuming linked data, providing documentation and experience reports regarding the use of linked data. It includes many pointers to a large variety of applications developed within the LUCERO project, together with reusable source code.
+Link: The Tabloid page
+LUCERO blog up to 1st July 2011:
+Many parts of the Tabloid toolkit described above have been drawn out or described in blog posts on the LUCERO Blog. Here we give a brief overview of the content of the blog according to (mostly emerging) categories of posts:
+Publishing Datasets
+One of the major activities in LUCERO is related to the exposure as linked data of a number of datasets from the Open University. The posts in this category explain and describe how we realised such exposure for a number of datasets.
+PRONOM and Linked Data – This post is not actually about a dataset from LUCERO, but comments on one that was exposed by another organisation, based on the experience gained in LUCERO
+Publishing OpenLearn Metadata as Linked Data – OpenLearn is the repository of Open Educational Material from the Open University. This post explains how we expose the related metadata as linked data.
+Connecting the reading experience database to the Web of Data – This post describes how we exposed the content of the Reading Experience Database and built a demonstrator showing what can be achieved through connecting such data to external source.
+Publishing ORO as Linked Data – This post explains how the ORO repository of publications was exposed as linked data on data.open.ac.uk.
+First version of data.open.ac.uk – This post announced the release of the very first version of data.open.ac.uk with a small number of datasets.
+Documentation and Support
+The LUCERO blog is also used to provide easily accessible documentation regarding various aspects of the project. This category contains posts and pages that are intended to help people to better understand the principles and technologies related to linked data.
+What is linked data? – This page is intended to give a general overview of the principles and benefits of linked data for readers of the blog unfamiliar with it.
+data.open.ac.uk – This page gives an overview of
+data.open.ac.uk and of its relationship with the project.
+Example Queries – This post show example SPARQL queries helping users to understand what can be done with SPARQL and the data.
+Initial Overview of the LUCERO workflow – This post described the technical workflow applied in LUCERO to get from existing data sources to up-to-date linked data on data.open.ac.uk.
+Tools and Applications
+This category includes posts that describe tools and applications developed within the project. It is an important part of the activities in LUCERO, demonstrating through examples how one can benefit from linked data, and how to realise such applications.
+What to ask Linked Data? – This describes a tool that extract from a dataset the questions it is particularly good at answering. A demo shows the tool applied on 3 datasets from data.open.ac.uk.
+wayOU – Mobile Location Tracking App Using Linked Data – The application described in this post is a mobile app for OU users to track their location at the OU. It has won the “Best Demo Award” at the Extended Semantic Web Conference 2011.
+ROLE Widget Consumes Linked Data – This guest post from a member of the ROLE project explains how linked data available on data.open.ac.uk was used to create a widget for the learning environment created by ROLE.
+Results from the KMi Linked Data Application Competition – This post describes the 4 applications that were submitted to the linked data application development competition organised by LUCERO.
+Connecting the reading experience database to the Web of Data – This post describes how we exposed the content of the Reading Experience Database and built a demonstrator showing what can be achieved through connecting such data to external source.
+Experience report – Guest posts
+One great success of LUCERO is that it has managed to get people outside the project and the linked data community to engage with linked data, create applications of it and generally use the linked data we exposed for a variety of tasks. The posts in this category show a few of such examples.
+ROLE Widget Consumes Linked Data – This guest post from a member of the ROLE project explains how linked data available on data.open.ac.uk was used to create a widget for the learning environment created by ROLE.
+Know Thyself – This post written by a member of the communication services of the Open University shows how the availability of linked data can be used to quickly answer unexpected queries that aggregate resources from various resources.
+Putting Linked Data to Work: A Developer’s Perspective – This guest post written by a developer from the IT department of the Open University demonstrates how linked data can be used and integrated to write new and more cost effective applications, despite the initial confusion that linked data technologies often create.
+Introducing LUCERO – This post summarises the effort realised at the beginning of the project to explain and discuss with a large variety of people the expected benefits of linked data.
+Project Plan
+The 7 first posts on the blog gave the details of the project plan.
+Hello World – This un-categorised post summarised, at the very beginning of the project, our expectations and plans for LUCERO.
+Description of the Project
+Name: LUCERO – Linking University Content for Education and Research Online
+URL: http://lucero-project.info
+Dates: 1st June 2010 – 31st May 2011
+Programme: JiscEXPO
+Funding: £100,000
+Team: see About page
+Code License: LGPL
+Data License: CC-BY
+Content License: CC-BY
+Code and documentation: LUCERO on Google Code
+What to ask linked data
+24 Jun 2011 at 15:54
+Mathieu
+Tools
+2 Comments
+Publishing linked data is becoming easier, and we now come across new RDF datasets almost everyday. One question that keeps being asked however is “what can I do with it?” More or less everybody understand the general advantages of linked data, in terms data access, integration, mash-up, etc., but getting to know and use a particular dataset is far from trivial: “What does it say? What can I ask it?”
+You can look at the ontology to get an idea of the data model used there, send a couple of SPARQL queries to `explore’ the data, look at example objects. etc. We also provide example SPARQL queries to help people getting the point of our datasets. Of course, not everybody is proficient enough in SPARQL, RDF-S and OWL to really get it using this sort of clues. Also, datasets might be heterogeneous in the representation of objects, in the distribution of values, or simply very big and broad.
+To help people who don’t necessarily know/care about SPARQL `getting into’ a complex dataset, we developed a system (whatoask) that automatically extract a set of questions that a dataset is good at answering. The technical aspects of realising that are a tiny bit sophisticated (i.e., it uses formal concept analysis) and are detailed in a paper I will present next week at the K-CAP conference. What is interesting however is how such a technique can provide a navigation and querying interface of top of a linked dataset, providing a simple overview of the data and a way to drill down to particular areas of interest. In essence, it can be seen as an FAQ for a dataset, not presenting frequently asked questions, but the questions the dataset is specially good at answering.
+What the tool does is creating a hierarchy of all the simple questions an RDF dataset can answer, and presents to the user a subset that, according to a set of metrics described in the paper, are believed to be more likely of interest. The questions are displayed in a pseudo natural language, in a format where for example “What are the (Person/*) that (knows Tom) and that (KMi hasEmployee)?” can be interpreted as the question “What are the people who know Tom and are employed in KMi?”.
+Questions can be selected, and displayed with their answers, and the question hierarchy can be navigated, selecting more specific and more general questions than the selected one.
+To clarify what that means, let’s look at what it does on the data.open.ac.uk OpenLearn dataset. The initial screen shows a list of questions, the first one (“What are the (Document/*/OpenLearnUnit) that (subject Concept, relatesToCourse Course, relatesToCourse Module)?”, i.e., “What are the OpenLearn Units that are related to courses and have a topic?”) being selected. More general and more specific questions are also shown, such as “What are the OpenLearn Units that have a topic?” (more general) and “What are the OpenLearn Units that relate to a course and have for topic `Education Research’?” (more specific).
+We can select alternative questions, such as the second in the list — “What are the OpenLearn Units in english distributed under a creative commons licence and that talk about Science?”, obtain a new list of answers (quite a few), as well as more general and more specific questions. We can then specialise the question to “What are the OpenLearn Unit in english under a CC licence that talk about science and family?” and carry-on with a more general question looking at the `family topic’ without science, to finally ask “What are the OpenLearn units about family?” (independently of the licence and language).
+As can be seen from the example, the system is not meant for people who know in advance what they want to ask, but to provide a level of serendipitous navigation amongst the queries the dataset can answer, with the goal of giving a general overview of what the dataset is about and what it can be used for. The same demo is also available using the set of reading experiences from the RED dataset and the datasets regarding buildings and places at the OU. The interface is not the most straightforward at the moment, but we are thinking about ways by which the functionalities of the system could be integrated in a more compelling manner, as a basic `presentation’ layer on top of a linked dataset.
+PRONOM and linked data
+26 May 2011 at 17:59
+Mathieu
+Datasets
+No Comments
+PRONOM is the national archive’s technical registry, and is currently being `transformed’ to be exposed as linked data. We can of course only welcome such an initiative and be very enthusiastic about this potentially valuable resource. Now, because we are of this kind of people who like to criticize (or more seriously, because we were asked by our programme manager to give feedback), here are a few comments regarding things that could be done better.
+Most of the description and technical specification of the work relate to the specification of a vocabulary. Apart from all the low-level boring issues (such as “it is in pdf”, “it is not really clear”, etc.), there are major issues in its definition: mostly, 1- it is not really good modelling, and 2- it does not reuse enough other vocabularies. Funnily enough, these two criticisms could be applied to many vocabularies that are created `ad-hoc’, for a particular project.
+A nice big example of bad modelling regards all the classes used to represent file formats. First, their names are quite seriously misleading. Video, is not a Video, it is a video type of file format. GIS is the type of file format use by a geographic information system, etc. I really don’t understand how these things could be classes. It seems that the intension was that a class such as `Video’ would correspond to what should be called `VideoFormat’. In this case for example <http://reference.data.gov.uk/id/file-format/13>, which corresponds to the PNG image format should be an instance of <http://reference.data.gov.uk/technical-registry/formatType/Image_(Raster)>. However, it is not. It is connected to it through a triple {<http://reference.data.gov.uk/id/file-format/13> <http://reference.data.gov.uk/technical-registry/formatType> <http://reference.data.gov.uk/technical-registry/formatType/Image_(Raster)>}, in which case, <http://reference.data.gov.uk/technical-registry/formatType/Image_(Raster)> should really be an individual (and have another name, e.g., <http://reference.data.gov.uk/technical-registry/formatType/raster-image-format>). Now, if that wasn’t confusing enough, <http://reference.data.gov.uk/id/file-format/13> is also a class. This one, I have no explanation for. I don’t know either why things such as <http://reference.data.gov.uk/technical-registry/Big_endian> are described as properties.
+I’m sure there are quite a few other issues (even if the vocabulary seem in itself rather simple, but I haven’t found the RDF-S version of it), including underspecified domains, ranges and classes, untyped objects, etc. I might have missed something, but the naming conventions used seem to have been made voluntarily confusing. The four core classes are not capitalised, and use `-’ as separators. The other classes are capitalised and use `_’. Some properties would be fully in upper-case (MIMETYPE), some have the first letter capitalised and some only the first letter of the second word capitalised (and not word separator). The file formats are associated with numbers in the namespace ‘http://reference.data.gov.uk/id/file-format/’ while a human readable ID (e.g. ‘png1.2′) could have easily been created. Other things such as `internal signatures’ are also associated to numbers, in name spaces such as ‘http://reference.data.gov.uk/technical-registry/internalSignature/’. I never understand why many people seem to want to have ‘id’ in their namespaces, but if it is done for one, they might as well do it for the others. `Big_endian’ as mentioned above has a nice capital letter for the first word, not the second, while it is described as a property and used as an individual.
+Finally, this vocabulary does not reuse. Almost nothing. The example promotes the use of the dublin core vocabulary. A tiny bit of SKOS is used for labels (I’m personally not too sure whether you could use SKOS label properties on things other than SKOS concepts, but that it is really only a detail). DC could certainly be used more (e.g., dct:published instead of releaseDate?). I’m also reasonably convinced that the W3C Ontology for Media Resources should be at least connected to this vocabulary.
+In a nutshell, I like this vocabulary and the data based on it, and I will use them. They provide a great resource illustrating how easy it is to make wrong modelling choices.
+← Older Entries
+Search
+Content
+About
+data.open.ac.uk
+Tabloid
+What is linked data?
+Tag Cloudaim
+application
+applications
+architecture
+arts and humanities
+budget
+communityBenefits
+copyright
+dbpedia
+deployment
+ENS
+example
+inf11
+institutionalBenefits
+IPR
+jisc
+jiscEXPO
+license
+linkeddata
+linked data
+linkeduniversities
+linkedup
+lucero
+luceroproject
+objectives
+openlearn
+outputs
+presentation
+process
+projectMethodology
+projectPlan
+projectTeam
+publication
+query
+RDFExtractor
+reading experience
+red
+research
+riskAnalysis
+RSS
+semantic web
+SPARQL
+successPlan
+timeline
+users
+Categories
+Datasets
+news
+overview
+Project Activities
+Project Plan
+Tools
+Uncategorized
+Archives
+November 2012
+August 2012
+July 2012
+April 2012
+February 2012
+November 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+December 2010
+November 2010
+October 2010
+August 2010
+July 2010
+June 2010
+Meta
+Log in
+WordPress
+The LUCERO Project is proudly powered by WordPress. Theme by Benoît «LeBen» Burgener for My Tapestry
+RSS → Entries | RSS → Comments

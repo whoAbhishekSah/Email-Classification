@@ -1,0 +1,102 @@
+hydrangeainhull | Just another WordPress.com site
+hydrangeainhull
+Just another WordPress.com site
+September finale
+September 25, 2011
+The month of August brought with it some unexpected (non-technical) challenges for the HiH team but still I am delighted to be able to report that the system went live at hydra.hull.ac.uk a couple of days ago.    Whilst there remains a lot of tidying up to do behind the scenes, at least things are discoverable and accessible just in time for the start of our new semester.  We have management sets and display sets in place and 99% working; generally there is, though, quite a list of ‘cosmetic’ display bugs still to be addressed.  If you look, you should see about a third of the repository content through the public URL.  On campus Hydra will be accessed via the University portal which does an invisible login; this offers more content to students and even more to staff.  The HiH project itself finishes at the end of this month.
+Hydra/ngea in Hull was not, though, just about getting this technology in place for our university.  We have learned a lot from the process of doing that and we are now in a much better position to promote Hydra in the UK (and mainland Europe) and to advise and assist others who may wish join the Hydra worldwide community.  As far as the JISC project is concerned, there remain a few deliverables to finish (not least the Project reports) and a bit more dissemination to do.
+If you haven’t looked at the Hydra Project’s official website for a while, I recommend a visit: you can find it at projecthydra.org  There you will find information about Hydra generally and more specifically about some of the Hydra heads being developed in the US.  If you think Hydra may be of interest to your institution, please always feel free to get in touch and discuss matters.  E-mail Chris Awre and Richard Green here.
+Posted in Uncategorized |
+Comments Off on September finale
+August action
+August 19, 2011
+More than half way through August already?  Where has the time gone?  The HiH  project ends officially at the end of September but we launch the website at the beginning of the new semester a week or so earlier.  It’s all getting dreadfully close!
+First the good news: we’ve just about completed (say 95%?) converting and checking the content from the ‘old’ repository for use in the new one.  What remains is a small collection of specialist objects that need rather more human intervention than most.  All this content is on our test/staging server and can simply be copied over to the production server in due course.
+Second bit of good news: we have finally managed to have our pdfs full-text indexed into Solr.  So now, if you search for a term the repository software searches in the pdf files as well as in the metadata.
+The bad news?  Well, not so much bad as disappointing, maybe. At launch we shall not have quite as many specialist page types as we might have hoped.  For now, some of our less common object types will be dealt with by a catch-all set of generic pages. The rest will come along later.
+Oh… and we shouldn’t forget the long list of (mainly cosmetic) bugs that are still to deal with!
+In the time we have left, the two major jobs to finish are providing functionality for management sets and for display collections (very similar code) and getting all the tools around OAI-PMH harvesting written and working.  We recently had to turn off the harvesting provision on our old repository because of memory problems with the ageing/ailing server; we urgently need to make this facility available again for the British Library and others (if the harvesting interface ever stopped, the first we knew of it was usually a complaint from Denmark!).
+Well then, that looks like the home straight in front of us – time for a last burst of energy!
+Tags: hydra, hydrangea, hydrangea in hull Posted in General |
+Comments Off on August action
+Summer update
+July 12, 2011
+I last updated this blog just before the Open Repositories 2011 conference.  OR11 was an excellent event and those of us lucky enough to attend got a great deal from it.  The several Hydra-related presentations were very well received, as was the ’24/7′ specifically detailing the work of ‘Hydrangea in Hull’.
+Back at home the publicly visible site hasn’t quite materialised yet.  The server is up and running, the content isn’t! We are doing considerably more internal redesign and ‘plumbing’ than we had anticipated – all of which, we hope, will contribute to the improvement of the Hydra core code.  Unfortunately, we can’t sensibly convert our existing content until all this settles down and we know exactly what the structure of the converted objects should be.  The hold up at present is around the creation of different types of set (structural sets for management, display sets, others).  We hope we have come up with a way to allow easy creation and manipulation of new set types (temporary exhibition sets, teaching module sets – who knows?) that the original design would not easily have supported.  The new code is being written but we need to know that it all works as planned.  I said last time that June was going to be a busy month: it’s now clear that it will be a very, very busy summer!
+In the absence of content on a public-facing server, I’ve attached a pdf showing a range of annotated screenshots taken from our development server behind the University firewall.  Not only do these show some of the views that a user will see but they also illustrate some of the basic admin functions.  Be aware that these admin pages are still under development and don’t represent the finished design.
+Tags: hydra, hydrangea, hydrangea in hull Posted in General |
+Comments Off on Summer update
+Alternative approach
+May 28, 2011
+Somehow it is the end of May (where do the months go?), so an update on progress.
+The first thing we should share is a slight change in our approach.  Whereas we had intended completing most of a ‘read-only’ repository before starting on the creation and editing side of things we have taken the decision to run with them in parallel.  Work is essentially complete for display of several content types and we are well on the way with corresponding pages for the creation and subsequent QA for them.  Once we have the entire workflow sorted for these types, it should be relatively (?) quick to derive variants on them for our remaining material.
+We hope to have a publicly accessible  testing server running in the next couple of weeks, at which point you will be able to see some of what has been going on.  In fact, the ‘server’ will be three virtual machines (essentially one for each of Fedora, Solr and Ruby) with the same configuration and optimisation as will be used for production.
+Several of the team will be at the Open Repositories 2011 conference in Austin, Texas – which as I write is in about ten days’ time – where we shall be involved in meetings, a workshop and a presentation about the Hydra project generally and a specific ’24/7′ (maximum 24 slides in maximum 7 minutes) about the Hydrangea in Hull project.  One way and another it’s going to be another busy month.
+Tags: hydra, hydrangea, hydrangea in hull Posted in General |
+Comments Off on Alternative approach
+April update
+April 18, 2011
+A short update on the previous post:  Last week we geared up to put 1000+ objects into our read-only development site as a test.  We attempted it but ran out of disk space!!!  (Our development machine has much less allocated space than the test and production systems.)  Still, we have over 600 objects working happily so we are well pleased and we’re happy to report that the ingest process works well.
+Tags: hydra, hydrangea, hydrangea in hull Posted in General |
+Comments Off on April update
+Approved HiH Project Plan
+April 8, 2011
+Apologies for the delay, but we now have approval from the JISC to publish our Project Plan.  It can be found at this link.
+Tags: hydra, hydrangea, hydrangea in hull Posted in General, Uncategorized |
+Comments Off on Approved HiH Project Plan
+March progess
+April 4, 2011
+Well with Easter less than three weeks away, will we have our “read-only” site up as hoped?  I just know I shall regret saying this, but it’s looking good. We certainly shan’t have copied all the content from our old repository to the new by then, but I think there should be a working site with a non-trivial number and range of digital objects.
+Our target was to have a working “read-only” site by the end of March.  Currently our development server is running a version that copes with four different content types with a number more under active development.  At the end of March we had this running and we are now iterating through a large number of design tweaks and bug fixes. In fact, working closely with MediaShelf LLC, who wrote much of the Hydrangea code, we have contributed to one or two significant improvements in the code base.
+We are just now starting to flesh out the detailed planning for the next phase of work which involves the interface supporting edit and ingest.
+Tags: hydra, hydrangea, hydrangea in hull Posted in General |
+Comments Off on March progess
+JISC startup meeting in Birmingham
+March 3, 2011
+Yesterday (2nd March 2011) was the startup meeting for the projects funded under the JISC’s 15/10 Repositories take-up and embedding call.  Representatives from the six successful projects, including Hydrangea in Hull, met in Birmingham for the day to get a feel for what each project was setting out to achieve and to see how we might help each other achieve it.  The Repositories Support Project were also there and will be offering their services.
+The Hydrangea in Hull presentation can be downloaded here.  This was supposed to be delivered in a ten-minute slot – in the event it took about 12.  (Practice for an event at Open Repositories 2011 where we hope to contribute a presentation that has to be a maximum of 24 slides and seven minutes long – “24/7”.  That’s going to be a real challenge and, on yesterday’s experience, will need several practice runs!)
+Tags: hydra, hydrangea, hydrangea in hull Posted in General |
+Comments Off on JISC startup meeting in Birmingham
+Off the starting blocks
+February 11, 2011
+Well, in athletics parlance we’re off the starting blocks!  Work is under way
+to set up the necessary infrastructure.  The system will be hosted on a number of virtual machines: a development server and a set each of testing and production servers which will separate some of the potentially resource-hungry software components.
+to write up the official Project Plan for our sponsors, the JISC, and
+to convert some sample objects from their current (Fedora 2.2.4) format to Hydra compliant objects for Fedora 3.4.2.  These will give us some test content to work with.  Eventually we will need to convert our entire repository, but that daunting task will wait until we have done some preliminary testing!
+We would anticipate making the Project Plan available some time in early March after its official approval.
+By Easter we hope to have a read-only test instance running (which is to say it will not yet allow create, delete or update). Unlike the ‘proof of concept’ site at hydra.hull.ac.uk this new site will be compliant to the current Hydra guidelines. (The poc site was constructed to older guidelines and contains a number of ugly ‘fixes’.)
+Tags: hydra, hydrangea, hydrangea in hull Posted in General |
+Comments Off on Off the starting blocks
+Hydrangea in Hull
+January 18, 2011
+Welcome to the ‘Hydrangea in Hull’ blog.  This JISC-funded project is helping to support the installation and development of the Hydrangea software over the University of Hull’s institutional repository. Hydrangea is part of the Hydra Project in which Hull is a partner.
+The project starts officially on 1st February 2011 and runs for eight months.  Watch this space!
+Tags: hydra, hydrangea, hydrangea in hull Posted in General |
+Leave a Comment »
+Search:
+PagesAbout
+Archives
+September 2011
+August 2011
+July 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+Categories General (9)
+Uncategorized (2)
+Blogroll
+Discuss
+Get Inspired
+Get Polling
+Get Support
+Learn WordPress.com
+WordPress Planet
+WordPress.com News
+Meta
+Register Log in
+XFN
+WordPress
+Create a free website or blog at WordPress.com.
+Entries (RSS) and Comments (RSS).

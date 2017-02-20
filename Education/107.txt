@@ -1,0 +1,207 @@
+Addressing History
+About
+AddressingHistory Team
+Project Partners
+Contact
+Blog
+How Do I Get Involved?
+Badges
+Presentations
+Press
+Project Updates
+About
+The AddressingHistory project, which ran from April to September 2010, created an online tool to enable a broad spectrum of users, both within and outwith academia (particularly local history groups and genealogists), to combine data from digitised historical Scottish Post Office Directories with contemporaneous historical maps.
+The AddressingHistory project was delivered by EDINA in partnership with the National Library of Scotland using materials already digitised under ongoing NLS programmes.
+Crowd-sourcing through the AddressingHistory tool will, it is envisioned, lead to a fully geo-coded version of the digitised directories thus providing significant added-value to the general public, local historians and specialist researchers across multiple disciplines.
+The project initially focused on three eras of Edinburgh mapping and Post Office Directories (1784-5; 1865; 1905-6) however the technologies demonstrated will be scalable to the full collection of digitised materials which include 750 directories and associated maps covering the whole of Scotland.
+Project Deliverables
+The Web 2.0 enabled AddressingHistory tool which will contribute to crowd sourcing through the georeferencing of historical addresses.
+Increased community awareness and engagement with the digitised maps and Post Office directories at the core of this project.
+An API onto the crowd-sourced data.
+A sustainable exit strategy for the data created by users for AddressingHistory.
+Final report
+The project contact is Stuart Macdonald, the AddressingHistory Project Manager.
+AddressingHistory is funded as part of the JISC’s Developing Community Content programme (http://www.jisc.ac.uk/whatwedo/programmes/digitisation/communitycontent.aspx) and is being run by EDINA, working in partnership with the National Library of Scotland.
+The programme has funded a number of projects at UK universities to create and use digital content that is useful not only for those involved in Higher Education, but also for various communities within the broader general public.
+In addition to AddressingHistory there are ten projects in the programme, plus one support project, namely:
+Community flood archive enhancement through storytelling (Co-FAST) – University of Gloucestershire
+http://www2.glos.ac.uk/severnfloods/
+Exploring residents’ opinions and thoughts on the nature of flooding in Gloucestershire.
+GaleriCymru- Coleg Harlech
+http://www.galericymru.com/
+Developing an interactive site to allow for the contribution and self-evaluation from extra mural groups studying art courses in North Wales
+Mass Observation Communities Online – University of Sussex
+http://www.mocoproject.org.uk/
+Engaging a variety of community and volunteer groups to make contributions to the Mass Observation Archive
+Digitising data for disparate communities: Naval history and climate science – University of Oxford- http://www.jisc.ac.uk/whatwedo/programmes/digitisation/communitycontent/navalhistory.aspx Using crowdsourcing techniques to transcribe meteorological reports from the Royal Navy, 1914-1923
+Strandlines – King’s College London
+http://www.jisc.ac.uk/whatwedo/programmes/digitisation/communitycontent/strandlines.aspx
+Working with the disparate communities and groups that work and live in one street in central London
+MyLeicestershire – University of Leicester
+http://myleicestershire.wordpress.com/
+Working with community groups, organisations and individuals to make openly available hidden treasures concerning the county of Leicestershire.
+Community Cafe – University of Southampton
+http://communitylanguages.wordpress.com/
+Engaging local communities in Southampton in the co-creation of online cultural and language materials.
+OurWikiBooks – University of Manchester
+http://www.jisc.ac.uk/whatwedo/programmes/digitisation/communitycontent/ourwikibooks.aspx
+Co-developing, with teachers and GCSE and A-level students, a new digital collection of key concerns and knowledge in computing education.
+Welsh Voices of the Great War in Wales – Cardiff University
+http://www.welshvoices.com/
+Working with families of those in Wales who fought in the Great War, to collect and make available online the range of artefacts that are held in private hands.
+Media and Memory in Wales, 1950-2000 – Aberystwyth University http://www.jisc.ac.uk/whatwedo/programmes/digitisation/communitycontent/memorywales.aspx
+Collecting oral testimony relating to the age of television in Wales, focussing on memories of significant televisual moments in politics and culture.
+RunCoCo – University of Oxford
+http://projects.oucs.ox.ac.uk/runcoco/
+A support project to develop the software and expertise from the Oxford Great War Archive project so that similar community collection projects can be run
+Posted by Nicola Osborne at 4:33 pm
+13 Responses to “About”
+Michael T R B Turnbull says:
+June 1, 2010 at 6:46 pm
+This is a very useful project which will make possible new ways of investigating Scottish urban history. Tying these two sources of information into the Censuses would be an additional bonus, as only citizens who had achieved a relative measure of economic or social status would have their names in the PO Directories.
+Michael T R B Turnbull says:
+June 2, 2010 at 10:51 am
+In my own PhD
+work at New College in Ecclesiastical History I examined in some detail the mainly Irish community in the Cowgate around St Patrick’s Church. While the Censuses contain a wealth of information on these numerous members of the urban poor, I suspect that only the few middle and upper class Roman Catholics in Edinburgh would be listed in the PO Directories. I assume that the same would be the case for Glasgow. While the AddressingHistory project would be very useful in mapping the location of Roman Catholic churches, convents or monasteries, it would provide no information on the clergy, nuns or monks, other than, perhaps, the names of parish priests, bishops or archbishops. I do not intend to be negative, but wish to suggest that, from my perhaps narrow perspective, AddressingHistory is an invaluable first step in building an even more comprehensive and interactive database!
+Nicola Osborne says:
+June 2, 2010 at 11:16 am
+Michael,
+Thank you so much for your interest in this project and for your very useful comments regarding the directories and your specific and interesting perspective on their strengths and weaknesses. I have noted your comments on the usefulness of integrating census data which supports feedback we have already received about the types of resources that could potentially enhance the tool that emerges from this initial rapid innovation project.
+We will be linking to a test version of the AddressingHistory tool in due course and we will be especially keen to hear feedback on potential improvements and the specific functionality that different users would find most useful. Please keep an eye on the blog over the next few months for an announcement about this and for other project updates.
+Many thanks again for your interest in the project and for taking the time to contribute your comments,
+– Nicola Osborne, Social Media Officer for EDINA
+Stuart Macdonald says:
+June 2, 2010 at 11:46 am
+Michael – Once again many thanks for your interest and comments. James Gilhooley’s Edinburgh Directory 1752 indicates that as many as 25% of individuals (vagrants, itinerant workers etc) were not included in the directory. A comparable figure would have implications should this be translatable for later editions in terms of matching to census records however one has to utilise the resources at one’s disposal. AddressingHistory hopefully can at least fill in gaps and connect histories where possible for genealogists, local historians in addition to opening up the content for interoperation with a whole range of contemporaneous (geo-referenced) materials.
+regards
+Stuart Macdonald
+Michael Tobias says:
+December 6, 2010 at 8:03 pm
+In recent weeks I have been doing my own work on Glasgow Directories.
+Nothing as sophisticated as this geo-referencing but basic directory lookups for streets, names and trades.
+For anyone interested see:
+http://bizdirs.from-mt.com/glasgow/
+Regards
+Michael Tobias
+Nicola Osborne says:
+December 8, 2010 at 11:06 am
+Michael, this looks like it’s been a significant undertaking and will be of use to many in the local and family history community – thanks for sharing it here!
+– Nicola Osborne, Social Media Officer for EDINA
+John Waddell says:
+January 15, 2011 at 11:12 pm
+As a recent visitor and an amateur genealogist, I have contributed an accurate address location for one of my ancestors and his workplace!
+It strikes me that the additional information genealogist will possess, for example my ancestor wrote a book about the architecture and people of Stockbridge, published in 1874, which likely contains information of interest to a variety of researchers?
+(I have created a word searchable copy of this book).
+I appreciate that one must avoid information overload – another ancestor, victim of a crime of theft in1830 takes me to the Court Records which contain many addresses, trial witnesses and their occupations etc., but is there the intention to expand what is contained in the directories, about individuals, to deliver an even more powerful research tool?
+Regards
+John Waddell
+Nicola Osborne says:
+January 17, 2011 at 5:52 pm
+John,
+Firstly, we are very glad to hear that you are finding AddressingHistory useful and really delighted that you have added an accurate address location for one of your ancestors and his workplace.
+We know that the type of information that you and other genealogists create is incredibly valuable and interesting. We think your suggestion that there should be some way to connect such data to historical addresses is a really great idea. At the moment our funding for developing AddressingHistory has ceased but we are looking at how we can fund expansion and development of the site and your idea is similar to some we have already been thinking about so we will certainly think further about it.
+In the meantime I would like to add that we are always delighted to hear about how AddressingHistory is used and I would encourage you to consider possibly contributing a guest blog post for us about your ancestors as this is, until additional functionality is available, a good way to share your experience and knowledge with fellow AddressingHistory users.
+Thank you again for getting in touch and for your excellent suggestion,
+Nicola Osborne, Social Media Officer for EDINA
+Joe Rock says:
+February 4, 2011 at 12:23 pm
+Very interesting project.
+Some of your users may be interested in some Edinburgh material I have begun to place online. This is a catalogue of the Edinburgh Dean of Guild Court architectural drawings.
+http://sites.google.com/site/edinburghdeanofguild/home
+More information can be found on the site and it is pretty much self explanatory.
+The records begin in the 16th century but I am focussing on the period when architectural drawings begin to appear in quantity, from around 1750, although there are some in the 1730’s.
+The point about these records is that the person petitioning the court is most often the owner of the property although occasionally tenants apply, mentioning the name of the owner.
+It is an extraordinarily valuable resource and I hope to add to it as time permits. The site will be archived by the British Library in due course, so will be available long after I have ceased to maintain it!
+Cheers,
+Joe Rock
+Nicola Osborne says:
+February 4, 2011 at 12:34 pm
+Joe,
+This looks like a super resource. Would you be interested in writing a wee guest blog post for us with a little more on these architectural drawings and your hopes for your website?
+Do drop us an email (addressing.history@ed.ac.uk) if you are interested.
+– Nicola Osborne, EDINA Social Media Officer and AddressingHistory Project Officer
+beat by dre says:
+May 18, 2011 at 1:53 am
+As a recent visitor and an amateur genealogist, I have contributed an accurate address location for one of my ancestors and his workplace!
+georreferenciamento says:
+August 3, 2011 at 3:38 pm
+This project can be done this year again?
+Nicola Osborne says:
+October 6, 2011 at 12:51 pm
+A second phase of the AddressingHistory project is currently underway. Updates on the developments and new material being added to the site will be posted soon.
+Many thanks,
+Nicola Osborne, AddressingHistory Team
+AddressingHistory is live!Click here to access the site.
+Project Tags AddressingHistory
+#addressinghistory
+#addhistory
+Connect with AddressingHistory
+AddressingHistory Videos
+AddressingHistory API Join the AddressingHistory API Google Group
+Categories
+About AddressingHistory
+Addresshistory API
+AddressingHistory Launch LiveBlog
+Guest Posts
+Media Coverage
+Presentations and Publications
+Project Updates
+Related Projects and Services
+Scottish History Events
+Site Admin
+Archives
+August 2013
+September 2012
+February 2012
+October 2011
+September 2011
+August 2011
+May 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+April 2010
+AddressingHistory Project Partners
+EDINA
+NLS
+AddressingHistory is supported by:
+JISC
+University of Edinburgh
+AddressingHistory benefits from the expertise of:
+Capital Collections
+Edinburgh Beltane
+Edinburgh City Libraries
+European Ethnographical Research Centre
+University of Edinburgh CHSS Research & Knowledge Exchange
+University of Edinburgh School of History, Classics and Archeology
+AddressingHistory Likes...
+Ask Scotland
+Joe Rock's Catalogue of Edinburgh Dean of Guild Court Architectural Plans
+Michael Tobias' Glasgow POD Index
+NLS Scottish Post Office Directory Page
+Statistical Accounts of Scotland
+JISC Developing Community Content Programme Projects
+AddressingHistory
+Co-FAST
+Community Cafe
+GaleriCymru- Coleg Harlech
+Mass Observation Communities Online
+Media and Memory in Wales, 1950-2000
+MyLeicestershire
+Old Weather
+OurWikiBooks
+RunCoCo
+Strandlines
+Welsh Voices of the Great War in Wales
+AddressingHistory is funded by JISC and is led by EDINA working in partnership with the National Library of Scotland.
+EDINA is a JISC National Data Centre based at the University of Edinburgh. The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336.
+For information on the use of cookies on this site please see the EDINA Privacy and Cookies Policy.
+© 2010 Addressing History
+Suffusion theme by Sayontan Sinha

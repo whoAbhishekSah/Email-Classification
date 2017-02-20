@@ -1,0 +1,102 @@
+Aberystwyth University - ART
+Skip navigation & go straight to the main content.Toggle menuLearn and Live in anExceptional Environment
+Study with Us
+Why Aberystwyth?
+Course Search
+Undergraduate
+Postgraduate
+Open Days
+Scholarships & Funding
+Prospectus
+Accommodation
+Online & Distance Learning
+Lifelong Learning
+Virtual Tour
+Facts & Figures
+Current Students
+International
+Events
+Visas, Support & Advice
+English Language & Foundation Courses
+Mauritius Branch Campus
+Research
+Find an expert
+Research Support
+Working with Us
+News
+Departmental News
+Events
+Alumni
+Alumni Services
+Support Aber
+Aber Opportunities Network
+Update your Details
+Old Students' Association
+About Us
+Institutes
+Departments
+Coleg Cymraeg Cenedlaethol
+Information for Staff
+Maps & Travel
+Jobs
+Contact Us
+Toggle SearchSearch coursesGoSearch the SiteGoCloseHomeComputer ScienceResearchBioinformatics and Computational BiologyProjectsARTART
+An ontology-based article preparation tool
+The ART project has produced a tool, SAPIENT and the ART Corpus
+For details click here
+Project InformationStart date: 1 June 2007 End date: 31 March 2009
+The aim of the ART project is to develop a tool based on a generic ontology of experiments EXPO to assist in:
+Translating scientific papers into format with an explicit semantics
+Explicit linking of repository papers to data and metadata
+Creation of an example intelligent digital repository.
+The proposal is to use the semantically rich and the theoretically sound generic EXPO representation of scientific experiments to provide metadata and to annotate papers stored in digital repositories. An ontology-based tool will be developed to automate the process of translating the papers into the proposed semantic format.
+Read more about the project
+Computer ScienceAbout usUndergraduate StudyPostgraduate StudyResearch
+Advanced Reasoning
+Bioinformatics and Computational Biology
+Members
+Projects
+Data, Services and Software
+Intelligent Robotics
+Vision Graphics and Visualisation
+Research Degrees
+Guest SeminarsFun ProjectsEmployabilityEngagementOpen and Visiting DaysContact UsStaff ListsLatest NewsNews ArchiveCurrent Students
+Contact for this page:Dr Maria Liakata,
+Department of Computer Science,
+Aberystwyth University,
+Penglais,
+Aberystwyth,
+Ceredigion,
+SY23 3DB
+Wales
+Tel: +44 (0)1970 622410
+Email: mal@aber.ac.uk
+Study With Us
+International
+Research
+News
+Alumni
+About Us
+Student
+Staff
+Jobs
+Awards
+Contact
+T: +44 (0)1970 623111
+Aberystwyth University, Reception, Penglais, Aberystwyth, Ceredigion, SY23 3FL
+Send us a message
+Facebook
+YouTube
+Twitter
+Instagram
+flicker
+Social Media Wall
+^ Back to top
+Site Preferences
+Site Map
+Access Keys
+Terms & Conditions
+Web Site Feedback
+Modern Slavery Statement
+©2017 Aberystwyth University. Registered charity: No 1145141
+Staff Login?

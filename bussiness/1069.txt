@@ -1,0 +1,27 @@
+Moorhen Solutions
+HOME
+ABOUT US
+CONTACT
+Development for Developers
+You have a development team. They're doing great things.
+We make them even better.
+System Administration
+We're big fans of keeping configuration as code, using tools like Puppet to ensure system changes are versioned and reproducible.
+Software Design
+We care about making maintainable software that is resilient to failure and performs and scales well. Let us help you do that.
+Cloud Architecture
+We've lots of experience building software using Amazon Web Services, Heroku and other cloud services to make clients' lives easier when it comes to getting things done.
+Development Infrastructure
+From log aggregation to monitoring systems to deployment frameworks, we'll give you the infrastructure to help you get on with what matters most.
+Contact Us
+Whether you're seeking advice on a project, a quote for work, or just want to say hello - we'd love to hear from you!
+www@moorhensolutions.co.uk
+Moorhen Solutions Ltd.
+www@moorhensolutions.co.uk
+Company Number: 07580643
+Third Floor, 111 Charterhouse Street
+London
+EC1M 6AW
+United Kingdom
++44 1337 944 030
+Theme based on Munter from BlackTie.co

@@ -1,0 +1,51 @@
+Overview - JAFER Z39.50 Library - Ceridwen.com
+⚲
+Project
+General
+Profile
+Sign in
+Home
+Projects
+Help
+Search:
+JAFER Z39.50 Library
+Overview
+Activity
+Roadmap
+Issues
+News
+Documents
+Wiki
+Repository
+Overview
+The JAFER Project (Java Access For Electronic Resources) was a Jisc funded project (2000 - 2003) based at Oxford University to produce an easy to use toolkit for building portals and information sources without having to deal with the technical intricacies of the Z39.50 protocol.
+ANSI/NISO Z39.50 defines a standard protocol for communication and information retrieval between computers, typically over a network. It provides standard ways to search distributed databases, and to retrieve full-text documents, bibliographic data, images and multimedia, and can be implemented on any computer platform.
+Issue tracking
+open
+closed
+Total
+Bug
+0
+0
+0
+Feature
+1
+0
+1
+GitHub
+0
+0
+0
+View all issues
+Repositories
+Main repository
+HTTPSGO
+zebulun
+HTTPSGO
+See other repositories
+Members
+Manager: Matthew Dovey
+Developer: Matthew Dovey
+Reporter: Matthew Dovey
+Loading...
+Powered by Redmine © 2006-2016 Jean-Philippe Lang

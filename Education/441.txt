@@ -1,0 +1,120 @@
+JISC EBEAM Project | Evaluating the Benefits of Electronic Assessment Management
+JISC EBEAM Project
+Search
+Primary Menu
+Skip to content
+Project Team
+Search for:
+News
+Learning Analytics Webinar
+June 27, 2013 Cath Ellis
+Back in May I participated in a webinar on Learning Analytics as part of the JISC Assessment and Feedback webinar series. To view a recording of that webinar, follow this link.
+News
+ELFAsia 2013
+May 30, 2013 Cath Ellis
+Cheryl and I have both got papers on the programme for the ELFAsia 2013 conference at Hong Kong Baptist University. It’s great to be back to this fantastic conference again after last year’s forum in Beijing. It’s really refreshing to come to a conference where there are so many folks from Universities across Asia to hear what’s going on here. Seeing how colleagues cope with really huge economies of scale in the Chinese Universities is an important reminder of how small our cohorts are in he UK and what we are competing with in terms of efficiency and what we have to offer in terms of close student contact and support.
+Highlights for me have been:
+– the plenary given by Dr Eva Wong and Dr Leevan Ling from HKBU. The amazing work they have done here to design and build a graduate attributes structure is truly impressive. This is the kind of ‘bigger picture’ that our work on the EBEAM project wants to slot into. She acknowledges that these are early days. As I mentioned to her over a coffee break: they have some of the jigsaw puzzle pieces that we don’t have and we think we have some of the others that they don’t have.
+– the keynote from Mark Pegrum at U of Western Australia on mobile learning. What really made this paper stand out from the crowd of the hundreds of others that I’ve heard on the topic is just how well theorised it was.
+He offered some exciting case studies – but it left me reflecting that the things that we are going to be assessing in the future will be very different to how things are today. Finding ways to manage all of this material in an EAM that doesn’t make academics collapse under the strain is vital.
+News
+Turnitin User Group Hong Kong
+May 28, 2013 Cath Ellis
+I’ve travelled to Hong Kong to participate in a user group for Turnitin.
+Up first was Bee Dy from Hong Kong City U who is gave a presentation about her experiences with GradeMark. She reiterated all the things that I have said to people all over the world about my experiences and that of my colleagues. She’s also made fantastic use of Peermark and I think I might be stealing some of her ideas. She has a training session for using Peermark which also doubles as a writing training exercise. If she wants students to learn how to write a good introduction, she gives students a bid intro a better one and a really good one. She has the students first decide which is which and why. Then she has the students rewrite the weaker ones to make them better. She then has them bring an introduction that they have written themselves and gets them to self-evaluate it.
+They then submit it to peer-review and get two lots of peer-review. So students get practice at evaluating writing, self-evaluating and peer-evaluating introductions as well as using PeerMark. Brilliant! She also talked about how she eases student’s discomfort with peer review by saying to them that they ar the best people to do the review because they are the ideal audience and also get a sense of what it feels like to be a reader and then reflect on this when they are writing.
+I was up next to talk about grading Analytics as a subset of assessment Analytics. Robyne Lovelock from Aldis Associates about the latest roadmap hot off the press from Turnitin in the states.
+Garry Allen from RMIT U shared some insights from his perspective as Principal Advisor Academic for ICT Integration, eLearning Strategy and Innovation Group. He reported that from 2007-2008 their Internet traffic doubled in a year, primarily because of Facebook. It’s interesting to hear that they have legal clearance that an upload is equivalent to a signed legal agreement from the student that their work is original. It’s reassuring to hear that RMIT are emphasising academic integrity as part of their strategy.
+Cheryl Reynolds from the EBEAM project at the U of Huddersfield. She spoke about how we might think about using Turnitin to support students in the transition from school to university.
+News
+African Academic Integrity Seminar
+May 20, 2013 Cath Ellis 1 Comment
+I’ve travelled to Cape Town to participate in the first African Academic Integrity Conference. It’s been a great opportunity to catch up with Stella Orim from Coventry and her fascinating research on the attitudes of Nigerian students to plagiarism when studying in the UK. Her evidence is compelling and demonstrates the complexity of this issue; something that is relevant to many international students.
+News
+Blackboard Teaching and Learning Conference
+April 10, 2013 Cath Ellis
+I’ve had a free day pass for the Blackboard Teaching and Learning Conference at Aston U in Birmingham (thanks Blackboard!). I’m particularly interested in this first session on Rubrics. The session is called ‘the good, the bad and the ugly’. It seems like there are still a few kinks in the design, but it does have some functionality that the rubrics in Turnitin don’t. The reporting looks particularly unhelpful and it seems that getting the raw data (for Analytics) is possible, if not straightforward. It also doesn’t seem to be integrated with SafeAssign. We saw a live demo of the rubric and it’s evident that it is possible to ‘tweak’ the decisions within the rubric using a pull-down menu – effectively giving students a high or low decision within a rubric cell. As I argued in my review of ReView, this is something that academics may ask for but it works at cross purposes to one of the key reasons why you would use rubrics: transparency.
+It’s interesting to see the Kaltura mashup integration in Bb.
+After the break I’ve come to listen to a presentation in DES – Data Exchange System at Liverpool John Moores U. It’s not quite what I thought it would be (that’ll teach me for nit reading the abstracts carefully enough). It seems that it started out as a way of tackling the point-to-point issues of data management within the institution. I have tuned out a bit with all the tech-speak, but have tuned in again for the pedagogical side of things. The focus on retention has really got my attention. The ability to give students earlier access to VLE content (4 weeks prior to induction) is really interesting. They see it as a way f helping students build a sense of belonging and integration with their courses. This is particularly for library resources.
+The next session I’ve come to is Helen Parkin and Helen Roger from Sheffield Hallam U about student expectations of Technology Enhanced Learning. The work they have done has enabled them to come up with (they’re calling it ‘inform and validate’) a set of minimum expectations for TEL and ways of supporting staff to achieve them. It’s interesting (to me at least) that 97% of students felt that it was important or very important to find staff contact details on the VLE. This is backed up by the strong expectation that the VLE is thought of as a key communication tool. 99% of respondents felt that it was important or very important to have assessment briefs online and similarly very high expectations to be able to submit online and have their work returned online. This is inline with their previous longitudinal work (done across the ‘noughties’) which showed a similar expectations. There was also a call for a single one-stop location for all of a student’s assessment results across their course. There was a strong push from students for timetabling to be made available via a mobile platform because dealing with frequent or last-minute changes on the go made their live easier. Another strong expectation is for readings lists (which is one of the reasons why MyReadings is so brilliant for us at Huddersfield). The requirement to link to this is passed to academic responsibility at SHU whereas for us it is effectively automated. This led to Helen’s final point regarding the automation of VLE material.
+News
+EAssessment workshop: Marjon UCP
+February 28, 2013 Cath Ellis
+I’ve come down to Plymouth for the day to work with Lisa and Sarah from JISC and Emma from U of Wolverhampton to facilitate a workshop on electronic assessment and feedback with colleagues at Marjon UCP.
+Lisa has gone over some of the findings from the baseline analysis that has been undertaken for the assessment and feedback strand. It’s caused me to reflect that one of the reasons we have been so successful in terms of assessment and feedback at the Uni of Huddersfield is because we have managed to make a lot of good decisions about involving students, keeping a focus on authentic design, emphasising timeliness and involving administrative staff throughout the process.
+Talking to colleagues here it is once again clear that starting from the administrative environment has been one of the key aspects of our success. Paul Buckley’s principle of teamwork – what I tend to refer to as role clarity – is central.
+There is a really clear sense emerging out of discussions today that institutional leadership is vital to the success of an EAM strategy.
+It was great to hear from Emma Purnell at U of Wolverhampton about how PebblePad has been developed for EAM purposes. It includes a comment bank which can be shared across course teams and can have feedback forms added. It has Turnitin integration and has a kind of organic, built in early warning system in the form of milestones that haven’t been met.
+She talked in some detail about patchwork assessment which is a brilliant example of assessment for (or as) learning. The list of different patchwork ‘blocks’ that have been used is really thought provoking and I can see the applicability of this for colleagues in many different disciplines.
+News
+SoLAR Flare UK
+November 19, 2012 Cath Ellis
+I’ve travelled to the Open University at Milton Keynes for the first UK SoLAR Flare. I’m braced for being bombarded with graphs and have added my fair share on my two slides. I’ve taken the opportunity to present some ideas about assessment analytics and to get a feel for the key areas of interest and debate amongst the movers and shakers in this emerging field. It’s great to put some faces to names, particularly the names of people whose work I’ve been reading.
+Simon Buckinghum-Shum kicked off the day with a really helpful overview of the state of play and a reminder of the importance of this whole field. We’ve had a slew of lightning presentations, including my own, with lots of graphs and social network diagrams. As expected there is a heavy emphasis on Social Network Analytics (SNA). So far there has been no mention of assessment data or analytics beyond a passing reference to student grades by Dai Griffiths in his really helpful presentation about the potential dangers of learning analytics, Jean Mutton talking about measuring whether students collected their feedback or not and Chris Ballard’s general mention of ‘grades’ in his presentation from Tribal Labs. This does keep me wondering if I’m missing something or involved in a separate conversation but I continue to be convinced that assessment analytics is a blind spot. It was great to hear from Mark Stubbs about the really powerful things that their work at MMU has been able to find and the important point that he raises is that we need to find better ways to feed this through to students and teachers.
+Before lunch we organised ourselves into breakout groups to discuss key themes. I joined a small group looking at dashboards with other groups looking at things like retention and success, engagement and data management. All groups fed back after lunch and it was note resting to hear just how many of the key issues cross over the multiple themes. Mark Stubbs offered a timely warning about ‘can’t count, doesn’t count’ and Simon Buckinghum-Shum talking about the potential for learning analytics to measure process which raises the possibility that we may be able to rely less on end of task assessment results in the future which is really pleasing to hear. Martin Hawksey mentioned the implications that may come with the possible new My Data legislation and for a population that is more data aware. Some of the frustrations and tensions about learning analytics emerged in the discussion after this which was interesting and highlighted the complex and sometimes conflicting demands being placed on it.
+It’s clear that this is still an immature field and there is lots still to be done in terms of realising operationalisation.
+Learning Analytics
+News
+JISC Meetings
+October 18, 2012 Cath Ellis
+Cheryl and I travelled to Birmingham yesterday to attend the Assessment and Feedback Project meetings and I’ve stayed on today to share the work of the project with the Learning and Teaching Practice Experts Group Meeting.
+On both days it was interesting and useful to find out about the transition that JISC has been moving through in the past year and it was also great to see all the new JISC publications which have just come out to augment the already very useful booklets.
+The project meeting was enormously reassuring, reminding Cheryl and me just how much we have achieved and the value of the work that our project has done. It was great to once again connect with Glamorgan and the work they’ve been doing. Our projects are seeking to answer similar questions but our different approaches have produced quite complementary evidence. It was also great to be able to touch base with folks from Manchester Metropolitan U and the opportunity to join forces with the English Department there is really exciting indeed.
+The Experts meeting the following day has given the project a fantastic opportunity to showcase our wares. As usual our lovely poster attracted a lot of attention, but beneath that the usual interest in sorting out administrative processes for supporting assessment management were of key interest to colleagues from other institutions. There was also interest in our learning and assessment analytics work. I can’t wait to have some proper graphs to showcase the evidence behind it. Statistics here I come!
+Image of our poster (and my left arm) via @digitalfprint
+News
+Pushing on an open door
+September 27, 2012 Cath Ellis
+I had the pleasure of working with some colleagues in the School of Computing and Engineering yesterday from the music technology subject area. I had been invited to work with them on the topic of audio feedback but, in showing them the new audio function in Grademark I also, inadvertently, wound up showing them Grademark itself. They’d simply not come across it before and therefore didn’t know it was available for them to use.
+These colleagues have a particularly complex set of assessments to manage and all of them seemed to be crumbling under the administrative weight if keeping track of it all. When I showed them Grademark their eyes lit up and it was clear that, for some of them at least, this was clearly the answer to a whole pile of problems they were facing. I mentioned that I’d been using it for around five years and one of them was amazed to discover it had been around that long.
+I’ve been reflecting on this since and it’s been an interesting reminder that the emotions surrounding eMarking are complex and situated. Whenever I go to talk to folks about eMarking, which I inevitably do when I’m talking about EAM, the concern that is always articulated is the widely known fact that many academics are resistant to the idea. In other words, we know that there are people who, even if they are shown how eMarking can work and the benefits are explained it them, will still not want to do it. We all know this, worry about and try to find ways around it. Yesterday reminded me, however, that there are other folks out there who are desperate for eMarking but who haven’t found or been shown an eMarking solution. When they see it they grab it with both hands and run with it.
+Getting the message out there is, of course, vital. But more important is what Paul and I refer to as ‘getting the administrative conditions right’ across the institution so that this works for everyone who is ready for it.
+Grademark
+News
+Learning Analytics Infographic
+September 14, 2012 Cath Ellis
+This infographic was recommended to me by Rachel Harris and it really does paint the picture very clearly and accurately. What I want to work on is the role that assessment analytics can play in all of this.
+Learning Analytics: Leveraging Education Data – An infographic by the team at Open Colleges
+Posts navigation
+1
+2
+…
+5
+Next →
+Search for:
+Archives
+June 2013 (1)
+May 2013 (3)
+April 2013 (1)
+February 2013 (1)
+November 2012 (1)
+October 2012 (1)
+September 2012 (3)
+August 2012 (1)
+July 2012 (6)
+June 2012 (5)
+May 2012 (1)
+April 2012 (1)
+March 2012 (4)
+February 2012 (3)
+January 2012 (4)
+November 2011 (4)
+October 2011 (5)
+September 2011 (2)
+Categories
+Milestones (1)
+News (46)
+Meta
+Log in
+Entries RSS
+Comments RSS
+WordPress.org
+Evaluating the Benefits of Electronic Assessment Management
+Recent Posts
+Learning Analytics Webinar
+ELFAsia 2013
+Turnitin User Group Hong Kong
+African Academic Integrity Seminar
+Blackboard Teaching and Learning Conference
+Recent CommentsLynette Nagel on African Academic Integrity SeminarBlackboard Teaching and Learning Conference « JISC EBEAM Project on ReView Review 2Cath Ellis on ALT-C Day 2Liz Bennett on ALT-C Day 2Patris van Boxel on EAssessment Scotland 2012
+Proudly powered by WordPress

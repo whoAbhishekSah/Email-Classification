@@ -1,0 +1,108 @@
+Personal Learning Portal Pilot - Information Services - University of Kent
+University of Kent - The UK's European University
+University of Kent
+- Home
+Contact
+Maps
+Departments
+Shortlisted for Exceptional Performance, THE DataPoints Merit Award 2016
+About
+Planning and strategyUniversity Plan 2015-20 UK's European university Annual review and reports How we operateCommitteesGovernanceConstitution
+Regulations Charity information Modern Slavery Act Transparency Statement People Vice-Chancellor Executive Group Principal officers Honorary graduates DepartmentsSchools and faculties Professional services External services Complete A-Z More about KentCareer Opportunities Essential Kent Eastern ARC
+Regional impact Community relations Events and what's onFull calendar Undergraduate term dates Open Lectures Gulbenkian
+Research
+Excellence at KentLatest research news REF 2014 Research impact Expertise Publications Public engagementDepartments/people Find a Kent expert Schools and faculties Research Services Innovation & Enterprise Graduate School Academic/research jobs Research degreesSearch courses Research degrees How to apply Postgraduate funding Graduate school
+Courses
+Undergraduate 2017Search coursesHow to applyPart-time studyFees and fundingStudy abroadGo abroadPostgraduate 2017Search courses How to apply Research degrees Taught courses Fees and funding Part-time and short coursesOnline prospectus Summer schools InternationalFoundation (IFP)Pre-sessional English Graduate
+Diplomas (GDip) Short-term programmes Visit KentOpen Days Applicant Days Informal visits Kent around the world Useful linksAccommodation Fees and funding Scholarships Locations Admissions FAQsInformation for...International students Parents and family Applicants New students
+Locations
+UK locationsCanterbury MedwayTonbridge Partner collegesValidated institutions European centresBrussels Paris Rome Athens Other locationsExchanges with over 100 overseas universities
+International
+Courses Study and work abroad Double-degrees Short-term study options 'International' courses Erasmus exchanges International studentsStudy at Kent Application process When you arrive International PartnershipsWorldwide partnerships International exchanges Alumni groups/networks ContactsInternational Recruitment International Partnerships English & world languages Strategy & reputationInternational impact World-leading research UK's European university MapsInternational impact International Research Impact Campus locations
+Business
+International expertiseBusiness services Collaborative projectsConsultancyFacilitiesEmployability pointsCoursesUndergraduate Postgraduate Part-time (undergraduate) Executive education ContactsCareers & Employability Service Innovation & Enterprise Kent Business School Conferences and functions Sports centre and facilities
+News
+News CentreLatest storiesExpert commentPress officeSocial mediaRSS feedsStudents and staffStudent newsStaff newsCampus transport newsIT service alertsSubmit a story
+Alumni
+Lasting connections...Alumni and friends News Events Community Alumni groups Former staffUseful linksTelephone Campaign 2016 Congregations Honorary graduates Discount on fees Alumni scholarships Online giftshop
+Giving
+Major projectsKent Law Campaign Kent Opportunity Fund Hong Kong & China Portal Ways to giveTelephone Campaign 2016 Online By post or phone Other options..
+Information Services
+Information ServicesHomeWho we are What we doStrategy & operational planProjectsTempleman developmentSDS replacement projectUnified Library Management System (ULMS)Project archive
+Committees and groupsCopyrightRegulations
+Engage with usFeedbackConsultationsSurveysContact us
+IS websitesNew studentsIT ServicesLibrary Services
+University of KentInformation Services
+Personal Learning Portal Pilot
+PLPP HomeDocumentsEventsContact
+Developing portal technology to support lifelong learning
+Kent is piloting the development of a Personal Learning Portal, to provide learners with easy web access to learning support such as:
+induction and support services
+personal development planning
+a personal e-portfolio.
+A key aim is to provide a seamless learning experience that extends beyond the course delivery and makes it easier for learners to become and stay engaged.
+It is a regional project around distributed e-learning funded by the Joint Informations Systems Committee. It builds on work to provide 'seamless access' to students using services across partner institutions.
+More about the Personal Learning Portal Pilot (PLPP) :
+Aims and objectives
+This project will result in a pilot of a personal learning portal. How much true portal technology can be used will be determined as the project progresses. The primary objective of the portal is to provide non traditional learners with simple access to a range of services that will help them optimise their personal learning experience whether their actual course includes online course materials or not. The services to be included are induction and support services, personal development planning and e-portfolio. The portal will be linked to existing projects to provide shared desktop access at the Universities at Medway project and Virtual Learning Environments (VLEs) at partner institutions.
+The project intends to set up shared services accessed through the web that will also serve to develop an awareness of the higher education learning environment and support the development of information skills required by this environment. This will be achieved through building on strategic e-learning partnerships within the region, as well as the institutions directly involved at Medway.
+VLE materials will be accessed from the partner institutions web services directly via a single authentication process, which goes beyond web access, originating at the student's “home” institution. Part of the project will be to establish the best way of handling authentication given the level of access that will be required and it may be necessary to have an interim solution whilst different options are explored further.
+The PLPP should help to address the following objectives in the call for proposals:
+Facilitating wider participation
+Sharing support resources and services across institutions
+Delivering tools and information from a wide range of sources to the learner at home or in the workplace
+Identification of issues which need to be addressed to offer cross-institutional e-Learning systems and services.
+The PLPP will provide access to both PETAL (Personal e-Portfolio for Teaching and Learning - Oxford Brookes) and Personal Development Planning (Christ Church University College). There may well be some crossover between these two services which this project will investigate. The long term aim is to find a way to maintain the records for both in such a way that they go with the student rather than being identified with their time at a particular institution. This will enable relevant aspects to be accessed by pre-registration students.
+The shared induction and support services provide a differentiated service by including self-testing which will direct learners to the most appropriate learning materials.
+Key areas to be addressed
+The Kent Personal Learning Portal Pilot (PLPP) builds on existing efforts to join the services of the five partner institutions at Medway in order to allow 'seamless' use by students.
+It will be supported by key technologies and a common infrastructure, including:
+Common shared desktop (already funded)
+Radius-based wireless services (already funded)
+Common open standards based portal (PLPP - subject of this bid)
+These services will be accessible anywhere over the internet, providing a seamless learning experience that extends beyond the course delivery and makes it easier for learners to become and stay engaged.
+This project seeks to make the most of resources available across institutions, saving duplication of effort whilst allowing individual institutions to look after their own learners.
+Conceptual model of the Personal Learning Portal Pilot (PLPP):
+Overall approach
+The PLPP project will be tackled in three phases
+Phase 1 - Technical infrastructure and development
+Phase 2 - Identification and linking of resources
+Phase 3 - Testing and evaluation
+The PLPP will be designed bearing in mind the needs of learners who may well benefit from a substantial level of support so that they can engage with the learning experience effectively — predominantly part-time students and those in employment or those just beginning to engage with education.
+Each of the three phases will provide a modest but attainable outcome to demonstrate the implementation of a set of shared resources to support online learning in the Higher Education, Further Education or adult learning environment. This will be achieved through some or all of the following components:
+The development of a single authentication system providing access to a range of learning resources
+The provision of the services and learning objects to be accessed via a virtual desktop, allowing secure access to these resources for targeted students in partner institutions
+The assessment of the viability and effectiveness of the online services and learning resources
+The dissemination and evaluation of developments on shared materials through out Kent.
+As the key objectives for the project relate to the user experience the technical approach will follow two strands:
+Establishing a system that provides the user with access to the different services and which looks and feels much the same as a full portal and so would to enable this project to evaluate the usefulness to the end user but which may, technically, only emulate the way a true portal would work. Every effort will be made within the project to do as much as is possible with the portal development to ensure it is a true portal.
+Establishing a basic portal service with at least one true portlet which will enable the project to tackle the technical issues around developing a full portal and plan for moving the proof of concept portal towards a true portal in the future.
+Project outcomes
+The project will provide shared access to online training for many beneficiaries through the partner and member providers using web based materials with remote tutor support via the Virtual Learning Environment (VLE). These outcomes would be:
+The provision of a web based catalogue of learning objects that have been evaluated and assessed in terms of their implementation and level.
+To enable the beneficiaries to enjoy a more positive learning experience and as a result, participate more effectively in the community.
+To improve retention for part-time learners by supporting them as lifelong learners and so encourage progression.
+To enable the partners both as an education and training provider and as an employer to develop their online delivery skills and to participate more effectively in the community.
+To understand some of the issues and possible solutions around developing a networked learning community across institutions.
+To increase the commercial development opportunities for all members through assessment of the viability of an online platform to deliver specific training and to therefore increase their potential as an education and training provider.
+Information Services, University of Kent
+Contact IS
+|
+Feedback on IS
+|
+IS Regulations
+Last Updated: 22/05/2015
+Kent on facebook
+Kent on twitter
+Kent on linkedin
+Kent on youtube
+Kent on flickr
+Kent on rss
+Instagram
+Google Plus
+Social media at Kent
+© University of Kent - Contact | Feedback | Legal | FOI | Cookies
+SGroup: European Universities Network
+Eastern Academic Research Consortium
+Universities UK
+Queens Anniversary Prize

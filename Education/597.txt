@@ -1,0 +1,93 @@
+Graduate Recruitment Intelligence Project | Details about the GRI Project, part of the JISC Flexible Service Delivery Programme
+Graduate Recruitment Intelligence Project
+Details about the GRI Project, part of the JISC Flexible Service Delivery Programme
+Search:
+HomeAbout
+Posts
+Comments
+General information
+Gradintel / Tribal developments
+31 January 2011
+Leave a comment
+John Bolland (Gradintel.com) has outlined some of the forthcoming developments with the software being used to generate e-transcripts.  One particularly useful development is a link from a student’s ‘e-vision’ page (i.e. their personal portal page), which will allow a student to request their HEAR.  If the student is not registered with the Gradintel.com system, then this process will automatically create an account.  (Students are not obliged to use the Gradintel.com system in the future, and could continue to access their HEAR directly from e-vision.)  This feature will hopefully be available within the next month, and will be advertised to students in time for the end-of-year results.
+A future development may include staff access to student HEARs (e.g. in personal tutor / academic advisory groups) through a similar portal.
+Filed under General information
+HEAR development
+26 January 2011
+Leave a comment
+A useful meeting with the University’s Deputy Academic Registrar (Student Systems and Administration) has confirmed that the e-transcripts offered through the Gradintel software will be the classed as the University’s ‘Higher Education Achievement Reports’, and that development of these will be in line with the recommendations for the HEAR pilot institutions.  This means that the University will be in a position to offer a form of electronic HEAR for students completing awards in 2010-11 (with the proviso that not all fields will be populated).  In particular, although the University is currently running a pilot scheme – the Employable Gloucestershire Graduate Scheme (EGGS) – to verify student submissions for achievement which can be included in Section 6.1, it is unlikely that many students will have any information in this section owing to the relatively small nature of the pilot student group.
+We are now working on the ‘gaps’ within the report (e.g. information regarding the Programme Specification – the target for completion of all Programme Specifications in an appropriate format is the end of the 2010-11 academic year), and setting up modules within the student record system to record non-academic achievement in Section 6.1 in line with the University’s EGGS pilot.
+Filed under General information
+E-transcripts
+10 December 2010
+Leave a comment
+The testing of the e-transcripts has taken longer than anticipated; however, it is hoped that these will go live by the end of today.
+The e-transcripts are still developing towards the full HEAR ‘standard’, and we will be working towards this in the New Year.
+It is anticipated that the project will organise an assembly based around shared services/employability/HEAR towards the end of January 2011.  Details to follow.
+Filed under General information
+Meeting (26 October)
+27 October 2010
+Leave a comment
+We had a useful meeting on 26 October, with representation from Olivedon, Tribal, University of Gloucestershire and JISC.  A number of issues were discussed, particularly in relation to the development of the HEAR XML specifications.  Discussion topics included:
+How will the final electronic HEAR be delivered?  (For example, PDF, XML, via a token.)  The current Gradintel / Tribal approach is via a time-limited and view-limited token which is requested by the student and which can be passed to potential employers, etc.
+Can students get access to their developing HEAR document and what are the issues of timing?  For example, what is the date at which the final HEAR is ‘delivered’?  If a student is not in good standing (i.e. owes money to the institiution), how will this be managed given that that they are able to access a HEAR document at any time?  There may have to be a clear statement on the HEAR as to its status.
+Is there the concept of a draft / emerging HEAR (i.e. as institutions work towards full compliance)?  Related to this, are there required elements which need to be in place?
+Some of the points discussed could not be answered by the representatives at the meeting and will need to be passed back to the trialling institutions and the Burgess Implementation Steering Group.
+Filed under General information
+Progress (Oct 10)
+27 October 2010
+Leave a comment
+The e-transcripts have been tested with a range of scenarios.  There are one or two issues relating to formatting issues, which will involve discussions with the University’s Marketing department, but overall the tests have been successful.  We are hopeful that the e-transcripts can go live from the end of October, and that students from the University of Gloucestershire will be able to request e-transcripts.  It should be noted that the e-transcripts do not yet meet the HEAR requirements, and this is the next stage of the development work with Gradintel / Tribal.  In particular, the University needs to work on appropriate programme specification information, which will form part of the HEAR, and will need to consider what information is used and where it is stored in the system.  The aim is to have some completed programme specifications by mid-end November for testing.
+Filed under General information
+Announcement from Tribal and Olivedon regarding the HEAR
+13 October 2010
+Leave a comment
+The following is an announcement from Tribal and Olivedon (developers of Gradintel.com) regarding production of the HEAR.  This agreement does not have significant practical implications for the GRI project, but does support the project’s intention to work towards a business case for a shared service.
+Does Tribal have any plans for how/whether its product will support the production of the Higher Education Academic Record (HEAR)?
+Tribal has announced the release of new software and service solutions to support universities with the delivery of the HEAR and achieve compliance with the HEAR Specification.
+A new software component called S:V e-transcripts, has been added to the SITS (S:V) software suite.  The new software will support both SITS and non SITS universities in the production of the HEAR. The software is being further enhanced as a result of our activities and experience gained working with HEAR Pilot universities and related initiatives.
+The S:V e-transcripts software automates the production and delivery of the HEAR and simplifies implementation.  Our approach includes support for the mapping of the HEAR XML specification to university corporate data sources, support for the verification of non-academic achievements  and the establishment of associated processes to manage HEAR production and distribution.
+Additional implementation and technical consultancy resources are available from Tribal Education to support universities with the implementation of this new technology and in the establishment of related management processes.
+The Tribal solution includes supporting online services to securely distribute HEAR information and to realise the employability benefits of the HEAR.
+If so, what is the timescale for this, and which (if any) universities and or colleges you are likely to work with during development?
+The S:V e-transcript software and associated implementation services are available now.
+Following a preliminary announcement of our plans to SITS customers at the National User Group Meeting on 21st July, discussions are ongoing with HEAR Pilot institutions and other early adopters from the SITS user base to plan the implementation of  this new technology.  We will advise you of the list of universities and colleges taking part in the first phase of our HEAR implementations when this is agreed.
+Further user briefings are planned at upcoming Regional User Group events in October and November.
+Tribal has agreed with the SITS User Group Executive that they will contribute to our HEAR developments by establishing a HEAR Working Group, following the success of this partnership working model in delivering UKBA requirements last year.
+The new software will be also presented at the UCISA CISG Conference on 3/4/5 November 2010.
+Does your development team have any questions about the HEAR initiative?
+The Tribal team contributes to the development of the HEAR XML specification and provides feedback on implementation issues resulting from our pilot activities through JISC’s HEAR Achievement Information Working Group and related JISCmail groups.
+The dissemination of The Graduate Recruitment Intelligence Project findings by University of Gloucestershire will be available at the JISC Flexible Service Delivery – Rapid Innovation Project website http://www.jisc.ac.uk/whatwedo/programmes/flexibleservicedelivery/gri.aspx
+The findings of the early technical pilot at Swansea University can be found here http://www.jisc.org.uk/media/documents/programmes/elearning/jisc%20final%20report%20-hear%20pilot%20-%20swansea%20university%20dec%2009.pdf
+Filed under General information
+Gradintel developments at UoG
+24 September 2010
+Leave a comment
+Progress was made in early September 2010 on the technical implementation of the Gradintel software at the University of Gloucestershire (UoG).  The software has been installed and configured for use and the project is now in a position to test some e-transcripts.
+Filed under General information
+Tagged with jiscfsd
+← Older posts
+Categories
+Select category
+General information
+Recent Posts
+Gradintel / Tribal developments
+HEAR development
+E-transcripts
+Meeting (26 October)
+Progress (Oct 10)
+Archives
+January 2011
+December 2010
+October 2010
+September 2010
+Blogroll
+Meta
+Register Log in
+WordPress
+XHTML
+Blog at WordPress.com.
+Graduate Recruitment Intelligence Project
+Blog at WordPress.com.
+Post to
+Cancel
