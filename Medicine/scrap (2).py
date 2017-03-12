@@ -1,23 +1,19 @@
-import urllib2
+import urllib
+import httplib
 import io
 from bs4 import BeautifulSoup
-file_r=open("bussiness-web-test.txt",'r')
-i=268
+file_r=open("Medicine.txt",'r')
+i=0
 for line in file_r:
 	i=i+1
 	f_n=str(i) +".txt"
 	url = line
 	try:
-		html = urllib2.urlopen(url).read()
-	except urllib2.HTTPError, e:
-		continue
-	except urllib2.URLError, e:
-        	continue
-	except httplib.HTTPException, e:
-		continue
+		html = urllib.urlopen(url).read()
 	except Exception, e:
-		continue			
-	soup = BeautifulSoup(html,"lxml")
+		print e
+		continue
+	soup = BeautifulSoup(html)
 	# kill all script and style elements
 	for script in soup(["script", "style"]):
 	    script.extract()    # rip it out

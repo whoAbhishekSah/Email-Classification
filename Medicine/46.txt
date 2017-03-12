@@ -1,0 +1,10 @@
+404 File not found
+404 File not found
+We're sorry - we haven't been able to find the page you asked for on
+our server.
+If you entered the address yourself, you could try checking for common typing errors, e.g.
+does the file name end with .htm or .html
+have you used uppercase characters (most web pages use lowercase addresses)
+If that doesn't solve the problem, please try starting from the site's home page - we hope you'll find
+what you were looking for or something else you'll enjoy!
+This site's home page is at www.andypryke.com.

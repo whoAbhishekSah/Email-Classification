@@ -1,0 +1,13 @@
+Access denied | www.food.gov.uk used Cloudflare to restrict access
+Please enable cookies.
+Error
+1010
+Ray ID: 33e5e580d1fc6f7e • 2017-03-12 09:58:42 UTC
+Access denied
+What happened?
+The owner of this website (www.food.gov.uk) has banned your access based on your browser's signature (33e5e580d1fc6f7e-ua48).
+Cloudflare Ray ID: 33e5e580d1fc6f7e
+•
+Your IP: 220.227.9.162
+•
+Performance & security by Cloudflare

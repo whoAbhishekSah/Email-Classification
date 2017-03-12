@@ -1,0 +1,21 @@
+norangoCRM
+Warning: Your browser version is no longer supported or you are using an unsupported browser.The following browser versions are recommended:Internet Explorer 10 (compatibility view not supported)Firefox 32.0Safari 5.1Chrome 37
+Warning: Your browser is in IE compatibility view which is not supported.
+Language:
+English (US)
+Español (ES)
+Русский (RU)
+User Name:
+Password:
+Forgot Password?
+User Name:
+Email Address:
+Server response time: 0.26 seconds.
+SuiteCRM has been written and assembled by SalesAgility, one of the worlds most knowledgeable SugarCRM consultancies.
+SuiteCRM is intended to deliver on the promise of SugarCRM - a freely available open source CRM project that combines great functionality, with community and commitment.
+There will be no licenced software as part of the project managed by SalesAgility. All the code is free. All the code is available for free download. There is no hidden agenda to charge for access to the code. It is and always will be free and open source. There will be no paid-for versions.
+© 2004-2013 SugarCRM Inc. The Program is provided AS IS, without warranty.
+Licensed under AGPLv3.This program is free software; you can redistribute it and/or modify it under the terms of the
+GNU Affero General Public License version 3 as published by the Free Software Foundation, including the additional permission set forth in the source code header.SugarCRM is a trademark of SugarCRM, Inc. All other company and product names may be trademarks of the respective companies with which they are associated.
+Supercharged by SuiteCRM
+© Powered By SugarCRM

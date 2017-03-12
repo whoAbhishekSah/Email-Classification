@@ -1,0 +1,13 @@
+Access denied | www.novartis.com used Cloudflare to restrict access
+Please enable cookies.
+Error
+1010
+Ray ID: 33e5f638034317c2 • 2017-03-12 10:10:06 UTC
+Access denied
+What happened?
+The owner of this website (www.novartis.com) has banned your access based on your browser's signature (33e5f638034317c2-ua48).
+Cloudflare Ray ID: 33e5f638034317c2
+•
+Your IP: 220.227.9.162
+•
+Performance & security by Cloudflare

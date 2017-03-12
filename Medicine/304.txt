@@ -1,0 +1,13 @@
+Access denied | www.parkinsons.org.uk used Cloudflare to restrict access
+Please enable cookies.
+Error
+1010
+Ray ID: 33e5f82065976f96 • 2017-03-12 10:11:24 UTC
+Access denied
+What happened?
+The owner of this website (www.parkinsons.org.uk) has banned your access based on your browser's signature (33e5f82065976f96-ua48).
+Cloudflare Ray ID: 33e5f82065976f96
+•
+Your IP: 220.227.9.162
+•
+Performance & security by Cloudflare
