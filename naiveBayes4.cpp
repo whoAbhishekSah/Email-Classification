@@ -5,7 +5,7 @@ using namespace std;
 
 
 bool validWord(string word){
-	if (word.length()<=2 || word.length()>=12)
+	if (word.length()<=2 || word.length()>=15)
 		return false;
 	return true;
 }
@@ -39,7 +39,7 @@ int main(int argc, char const *argv[])
 	    outfile << it->first<< "\t:"<< it->second<<endl;
 	    count+=it->second;
 	}
-	cout<<endl<<noOfWord<<"\twith total occurences\\t"<<count<<endl;
+	cout<<endl<<noOfWord<<"\twith total occurences\t"<<count<<endl;
 	outfile<<count<<endl;
 	return 0;
 }

@@ -10,7 +10,7 @@ def validWord(word):
 	invalidChars = set(string.punctuation.replace("_", ""))
 	if any(char in invalidChars for char in word):
 		return False
-	if(len(word)<=2  or len(word)>12):
+	if(len(word)<=2  or len(word)>15):
 		return False
 	if (' ' in word):
 		return False

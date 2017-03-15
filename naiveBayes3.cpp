@@ -11,6 +11,8 @@ bool validWord(string word){
 
 int main(int argc, char const *argv[]){
 	ifstream file;
+	ofstream outfile;
+	outfile.open("dictionary.txt");
 	file.open("vocabulary.txt");
 	string word;
 	set<string> vocabulary;
@@ -24,10 +26,10 @@ int main(int argc, char const *argv[]){
 	} 
 	cout<<"Count is \t"<<i<<"\t size of set is \t"<<vocabulary.size()<<endl;	
 
-	// for (itr = vocabulary.begin(); itr != vocabulary.end(); ++itr)
- //    {
- //        cout << '\t' << *itr;
- //    }
+	 for (itr = vocabulary.begin(); itr != vocabulary.end(); ++itr){
+        outfile<<*itr<<endl;
+        cout<<*itr<<"\t";
+ 	}
 
     //cout<<"Count is \t"<<vocabulary.size()<<endl;	
 	file.close();
