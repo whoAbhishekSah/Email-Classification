@@ -1,5 +1,5 @@
 //Genreating the map for count of each word over all the docs of a particular class;
-
+#include "big_integer.cpp"
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -66,12 +66,15 @@ int main(int argc, char const *argv[])
 	file2.open("test.txt");
 	string test;
 	int count1=0, count2=0;
-	long long q,r; long long temp=1, temp1=1;
+	long long q,r; long double temp=1.0, temp1=1.0;
 	while(getline(file2, test)){
 		cout<<"Line being checked:\t"<<test<<endl;
 		string temp3="";
 		for (int i=0; i<test.size(); i++){
-			temp3+=test[i];
+			if (test[i]!=' '){
+				temp3+=test[i];
+			}
+			//cout<<"####"<<test[i]<<endl;
 			if (test[i]==' ') {
 				cout<<temp3<<"\n";
 				
@@ -81,8 +84,8 @@ int main(int argc, char const *argv[])
 				}
 				else{
 					q=wordCounter[temp3];
-					cout<<temp3<<"found in education\t"<<q<<"\tNo of time\n";
-					temp=(temp*q);
+					cout<<temp3<<"\tfound in education\t"<<q<<"\tNo of time\n";
+					temp=(temp*q)/100.0;
 				}
 					
 				//class business
@@ -91,8 +94,8 @@ int main(int argc, char const *argv[])
 				}
 				else{
 					r=wordCounter1[temp3];
-					cout<<temp3<<"found in education\t"<<q<<"\tNo of time\n";
-					temp1=(temp1*r);
+					cout<<temp3<<"\tfound in business\t"<<r<<"\tNo of time\n";
+					temp1=(temp1*r)/100.0;
 				}
 				temp3="";
 			}
