@@ -1,0 +1,8 @@
+domain
+name
+websit
+host
+resel
+host
+dedic
+server

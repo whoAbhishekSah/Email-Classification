@@ -1,0 +1,14 @@
+warn
+fail
+open
+stream
+file
+directori
+line
+fatal
+error
+fail
+open
+requir
+usrlibphp
+line

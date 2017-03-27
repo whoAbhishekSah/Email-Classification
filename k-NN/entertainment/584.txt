@@ -1,0 +1,4 @@
+aspect
+olymp
+game
+enter
