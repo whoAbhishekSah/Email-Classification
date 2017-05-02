@@ -1,0 +1,6 @@
+page
+redirect
+redirect
+automat
+follow
+http

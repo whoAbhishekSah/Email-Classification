@@ -1,0 +1,3 @@
+copyright : 1
+home : 1
+subscrib : 1

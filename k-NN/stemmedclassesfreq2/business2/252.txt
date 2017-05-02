@@ -1,0 +1,7 @@
+bank : 2
+debt : 2
+iceland : 2
+inform : 2
+map : 1
+maptub : 1
+unknown : 2

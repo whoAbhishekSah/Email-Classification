@@ -1,0 +1,13 @@
+cbn : 1
+endobj : 12
+endstream : 2
+eof : 1
+extgstat : 1
+obj : 13
+pdftext : 1
+procset : 1
+startxref : 1
+stream : 4
+trailer : 1
+vrn : 1
+xref : 1

@@ -1,0 +1,15 @@
+buy : 1
+call : 1
+click : 1
+domain : 4
+expert : 1
+make : 1
+may : 2
+offer : 1
+one : 1
+polici : 1
+privaci : 1
+sale : 2
+speak : 1
+the : 1
+thi : 1

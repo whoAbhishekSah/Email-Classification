@@ -1,0 +1,8 @@
+floor : 1
+glowork : 1
+hostmast : 2
+porth : 1
+sequenc : 3
+team : 1
+teigr : 1
+webserv : 1

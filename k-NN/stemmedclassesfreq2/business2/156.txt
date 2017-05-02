@@ -1,0 +1,4 @@
+copyright : 1
+http : 1
+reserv : 1
+right : 1

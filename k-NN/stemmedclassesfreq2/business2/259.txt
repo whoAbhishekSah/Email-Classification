@@ -1,0 +1,6 @@
+manag : 1
+matter : 1
+mmwealth : 1
+money : 1
+redirect : 1
+wealth : 1

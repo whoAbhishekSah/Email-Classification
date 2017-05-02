@@ -1,0 +1,11 @@
+cymraeg : 1
+english : 1
+foundat : 2
+gandesign : 1
+gloversur : 1
+host : 1
+jame : 3
+ltd : 1
+number : 1
+registr : 1
+rhif : 1

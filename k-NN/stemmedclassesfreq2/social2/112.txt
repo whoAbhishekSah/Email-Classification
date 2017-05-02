@@ -1,0 +1,11 @@
+beymg : 1
+endobj : 10
+endstream : 1
+fni : 1
+frc : 1
+obj : 11
+qlp : 1
+stream : 7
+txq : 1
+umsi : 1
+vunc : 1

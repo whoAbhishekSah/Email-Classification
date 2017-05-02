@@ -1,0 +1,9 @@
+all : 1
+cotswold : 1
+offici : 1
+reserv : 1
+right : 1
+site : 1
+tourism : 1
+web : 1
+welcom : 1

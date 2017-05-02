@@ -1,0 +1,4 @@
+all : 1
+menu : 1
+reserv : 1
+right : 1

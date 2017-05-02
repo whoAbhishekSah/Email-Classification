@@ -1,0 +1,4 @@
+ntr : 1
+pvb : 1
+szj : 1
+zwd : 1

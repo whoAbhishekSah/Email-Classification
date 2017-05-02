@@ -1,0 +1,5 @@
+consult : 1
+digit : 1
+interg : 1
+technolog : 1
+transform : 1

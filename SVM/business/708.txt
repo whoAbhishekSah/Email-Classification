@@ -1,0 +1,16 @@
+main
+menu
+skip
+content
+admin
+post
+leav
+comment
+archiv
+meta
+power
+wordpress
+theme
+asokay
+andrea
+viklund

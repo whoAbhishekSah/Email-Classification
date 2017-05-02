@@ -1,0 +1,4 @@
+ipp : 1
+jtr : 1
+nxp : 1
+tzk : 1

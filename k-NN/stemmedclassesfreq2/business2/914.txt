@@ -1,0 +1,14 @@
+contact : 1
+content : 1
+creation : 1
+framework : 1
+genesi : 1
+indigo : 2
+link : 1
+log : 1
+primari : 2
+righthom : 1
+sidebar : 1
+skip : 3
+ventur : 2
+wordpress : 1

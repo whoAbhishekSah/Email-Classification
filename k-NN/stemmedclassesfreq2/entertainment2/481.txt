@@ -1,0 +1,6 @@
+bronz : 1
+gymnast : 1
+kristian : 1
+medallist : 1
+olymp : 1
+thoma : 1

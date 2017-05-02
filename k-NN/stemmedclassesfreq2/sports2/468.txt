@@ -1,0 +1,11 @@
+all : 1
+appl : 1
+check : 1
+copyright : 1
+doubl : 1
+inc : 1
+pleas : 1
+requir : 1
+reserv : 1
+right : 1
+tri : 1

@@ -1,0 +1,7 @@
+chang : 1
+look : 1
+name : 1
+remov : 1
+resourc : 1
+the : 1
+unavail : 1

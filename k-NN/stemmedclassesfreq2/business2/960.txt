@@ -1,0 +1,11 @@
+directori : 1
+error : 1
+fail : 2
+fatal : 1
+file : 1
+line : 2
+open : 2
+requir : 3
+stream : 1
+usrlibphp : 1
+warn : 1

@@ -1,0 +1,5 @@
+claranet : 1
+custom : 2
+domain : 3
+regist : 1
+thi : 1

@@ -1,0 +1,10 @@
+atom : 1
+awesom : 1
+blogger : 1
+home : 1
+inc : 1
+mirimawr : 2
+post : 3
+power : 1
+subscrib : 1
+templat : 1

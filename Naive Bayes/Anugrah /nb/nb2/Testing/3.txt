@@ -1,0 +1,19 @@
+Hi abhishekSah,
+
+Congratulations! You have officially qualified for Online Round 1 of Code Jam 2017 based on your performance in the Qualification Round. We're impressed!
+
+Unlike in the Qualification Round, collaboration is strictly prohibited in Round 1 and all future rounds of Code Jam 2017. Section 7 of the Google Code Jam Terms & Conditions prohibits sharing or using from others any information about a problem before the end of the round. Such actions that violate those Terms & Conditions will result in your disqualification. Moreover, please note that if you are utilizing a web integrated development environment (IDE), be sure to not publish your code or otherwise allow it to be publicly visible during the contest, or you could be subject to disqualification.
+
+How does Round 1 work? There are three first rounds: Round 1A, Round 1B and Round 1C. Each lasts for two hours and thirty minutes. You can compete in as many of the sub-rounds (1A, 1B, and 1C) as you want. If you place in the top 1000 in any sub-round, you will qualify for Round 2 and you will not be allowed to compete in any later sub-rounds.
+
+Round 1 Schedule
+
+Round 1A: Saturday, April 15, 2017 at 01:00 UTC
+
+Round 1B: Saturday, April 22, 2017 at 16:00 UTC
+
+Round 1C: Sunday, April 30, 2017 at 09:00 UTC
+
+See you in Round 1, and best of luck!
+
+The Code Jam Team

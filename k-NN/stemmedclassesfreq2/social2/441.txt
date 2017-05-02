@@ -1,0 +1,3 @@
+copyright : 1
+reserv : 1
+right : 1

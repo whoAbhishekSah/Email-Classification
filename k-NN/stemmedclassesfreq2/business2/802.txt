@@ -1,0 +1,8 @@
+design : 1
+digit : 1
+email : 1
+host : 1
+pyro : 1
+sussex : 1
+web : 1
+west : 1

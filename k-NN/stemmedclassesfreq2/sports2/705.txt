@@ -1,0 +1,7 @@
+daiji : 10
+power : 1
+proudli : 1
+rss : 2
+selma : 1
+theme : 1
+wordpress : 1

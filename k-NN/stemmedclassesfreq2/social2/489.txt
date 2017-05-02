@@ -1,0 +1,4 @@
+associ : 2
+cultur : 2
+european : 2
+jewish : 2

@@ -1,0 +1,13 @@
+access : 2
+deni : 1
+file : 1
+forbidden : 2
+htaccess : 1
+permiss : 1
+port : 1
+read : 1
+safe : 1
+server : 3
+unabl : 1
+unix : 1
+you : 1

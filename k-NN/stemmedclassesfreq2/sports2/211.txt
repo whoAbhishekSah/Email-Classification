@@ -1,0 +1,10 @@
+batford : 2
+copyright : 1
+creation : 1
+design : 1
+natur : 2
+olp : 1
+reserv : 3
+right : 1
+spring : 2
+web : 1

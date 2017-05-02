@@ -1,0 +1,5 @@
+civic : 1
+group : 1
+heritag : 1
+rainhil : 1
+societi : 1

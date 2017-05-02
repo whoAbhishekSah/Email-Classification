@@ -1,0 +1,10 @@
+chang : 1
+fox : 2
+hotel : 1
+hotely : 1
+liscawn : 1
+littl : 2
+new : 1
+redirect : 1
+the : 1
+websit : 1

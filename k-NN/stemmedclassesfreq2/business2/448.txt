@@ -1,0 +1,14 @@
+dies : 1
+domain : 2
+domainthi : 1
+for : 1
+inform : 1
+relat : 1
+resourc : 1
+sale : 2
+search : 1
+steht : 1
+thi : 1
+verkauf : 1
+websit : 1
+zum : 1

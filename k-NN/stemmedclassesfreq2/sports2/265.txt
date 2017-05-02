@@ -1,0 +1,4 @@
+enx : 1
+krt : 1
+lvl : 1
+qvie : 1

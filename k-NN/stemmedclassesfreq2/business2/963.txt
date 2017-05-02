@@ -1,0 +1,13 @@
+follow : 1
+group : 1
+home : 1
+kaz : 3
+kazakhmi : 2
+link : 1
+miner : 3
+new : 1
+octob : 1
+page : 1
+plc : 4
+pleas : 1
+renam : 1

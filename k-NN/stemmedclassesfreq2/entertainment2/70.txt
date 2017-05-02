@@ -1,0 +1,5 @@
+all : 1
+copyright : 1
+home : 1
+reserv : 1
+right : 1

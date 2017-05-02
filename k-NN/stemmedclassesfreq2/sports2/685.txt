@@ -1,0 +1,11 @@
+altern : 2
+better : 1
+can : 1
+email : 1
+logo : 2
+money : 2
+olymp : 2
+say : 1
+think : 2
+view : 1
+wast : 2

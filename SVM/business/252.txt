@@ -1,0 +1,12 @@
+maptub
+map
+iceland
+bank
+debt
+unknown
+inform
+iceland
+bank
+debt
+unknown
+inform

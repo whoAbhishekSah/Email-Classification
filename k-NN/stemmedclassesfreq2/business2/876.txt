@@ -1,0 +1,8 @@
+click : 1
+coupl : 1
+direct : 1
+http : 1
+pleas : 1
+redirect : 1
+second : 1
+you : 1

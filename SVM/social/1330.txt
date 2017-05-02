@@ -1,0 +1,4 @@
+object
+move
+object
+move

@@ -1,0 +1,9 @@
+appear : 1
+extens : 1
+instal : 1
+miss : 1
+mysql : 1
+php : 1
+requir : 1
+wordpress : 1
+your : 1

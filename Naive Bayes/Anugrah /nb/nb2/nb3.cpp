@@ -97,6 +97,7 @@ void make_test()
 	{
 	ifstream file;
 	file.open("test_file_vector.txt");
+	//file.open("Test/19.txt");
 	string str;
 	while(file>>str)
 		{

@@ -1,0 +1,11 @@
+exist : 1
+found : 1
+foundth : 1
+friend : 2
+greenwich : 2
+look : 1
+mayb : 1
+page : 3
+park : 2
+process : 1
+updat : 1

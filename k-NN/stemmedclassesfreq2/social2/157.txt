@@ -1,0 +1,17 @@
+colorspac : 1
+default : 1
+encod : 1
+endobj : 37
+endstream : 11
+eof : 1
+extgstat : 3
+font : 3
+height : 1
+obj : 38
+pdftext : 2
+procset : 3
+startxref : 1
+stream : 17
+trailer : 1
+xref : 1
+zzw : 1

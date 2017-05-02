@@ -1,0 +1,8 @@
+bank : 1
+buriton : 2
+commun : 1
+hampshir : 1
+heritag : 2
+initi : 1
+onlin : 1
+parish : 1

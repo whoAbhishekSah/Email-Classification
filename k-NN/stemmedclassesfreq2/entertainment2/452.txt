@@ -1,0 +1,10 @@
+browser : 2
+chang : 1
+cooki : 1
+enabl : 1
+pleas : 1
+requir : 1
+set : 1
+site : 1
+thi : 1
+upgrad : 1

@@ -1,0 +1,6 @@
+bay : 1
+halley : 1
+move : 1
+the : 1
+websit : 1
+zfid : 2

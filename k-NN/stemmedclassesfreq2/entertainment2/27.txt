@@ -1,0 +1,15 @@
+address : 1
+either : 1
+exist : 1
+found : 2
+like : 1
+link : 1
+look : 1
+mistyp : 1
+not : 2
+outofd : 1
+page : 2
+result : 1
+sorri : 1
+tri : 1
+view : 1

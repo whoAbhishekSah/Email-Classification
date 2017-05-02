@@ -1,0 +1,13 @@
+coadec : 1
+day : 1
+hour : 1
+launch : 1
+minut : 1
+new : 1
+polici : 1
+second : 1
+startup : 1
+the : 1
+tuesday : 1
+voic : 1
+websit : 1

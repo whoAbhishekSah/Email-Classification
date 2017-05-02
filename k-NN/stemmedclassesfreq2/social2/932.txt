@@ -1,0 +1,4 @@
+document : 1
+found : 2
+move : 1
+the : 1

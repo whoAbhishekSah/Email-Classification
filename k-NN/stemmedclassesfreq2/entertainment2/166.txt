@@ -1,0 +1,7 @@
+canal : 2
+click : 2
+enter : 1
+here : 2
+pete : 1
+websit : 2
+welcom : 1

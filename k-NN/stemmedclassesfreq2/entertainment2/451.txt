@@ -1,0 +1,8 @@
+engag : 1
+facilit : 1
+find : 1
+gain : 1
+hopkin : 2
+insight : 1
+mil : 2
+van : 2

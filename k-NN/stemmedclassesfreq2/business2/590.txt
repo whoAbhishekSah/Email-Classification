@@ -1,0 +1,4 @@
+administr : 1
+avail : 1
+manag : 1
+redirect : 1

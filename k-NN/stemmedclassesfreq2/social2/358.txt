@@ -1,0 +1,7 @@
+backord : 1
+domain : 2
+may : 1
+polici : 1
+privaci : 1
+sale : 1
+thi : 1

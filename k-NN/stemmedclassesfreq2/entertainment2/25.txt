@@ -1,0 +1,3 @@
+boar : 1
+britain : 1
+wild : 1

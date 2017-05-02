@@ -1,0 +1,7 @@
+commun : 1
+kingdom : 1
+live : 1
+nepales : 1
+peopl : 1
+unit : 1
+websit : 1

@@ -1,0 +1,17 @@
+about : 1
+account : 5
+all : 1
+blogger : 2
+continu : 1
+creat : 1
+differ : 1
+email : 1
+enter : 1
+everyth : 1
+find : 1
+googl : 4
+help : 1
+one : 2
+privaci : 1
+sign : 2
+term : 1

@@ -1,0 +1,12 @@
+If you are planing to give a demonstration(you have to run a program and show us the output in order to explain your work)
+      /**** In this case you need to give a 2 min presentation followed by a demonstration****/
+      Prepare a 2 min presentation and submit it in Moodle
+else /**** You are working on a theoretical problem ****/
+      Prepare a 5 min presentation and submit it in Moodle
+endif
+
+Submit a 1 page flyer at the day of presentation.
+
+My personal request(not mandatory) is to create a video if you think that you have a COOL solution and give it to us at the day of presentation and I will try to publish few selected video presentations in our website. 
+
+Feel free to mail me if you have any more doubts 

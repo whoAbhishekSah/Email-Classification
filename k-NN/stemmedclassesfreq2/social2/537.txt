@@ -1,0 +1,16 @@
+about : 1
+contact : 1
+copyright : 1
+cymraeg : 1
+david : 1
+day : 1
+disclaim : 1
+galleri : 1
+home : 2
+page : 2
+pamphlet : 1
+parad : 4
+rout : 1
+support : 1
+the : 2
+webmast : 1

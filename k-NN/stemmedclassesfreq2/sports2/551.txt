@@ -1,0 +1,14 @@
+abbr : 1
+acronym : 1
+blockquot : 1
+cite : 3
+code : 1
+datetim : 1
+del : 1
+href : 1
+power : 1
+proudli : 1
+strike : 1
+strong : 1
+titl : 3
+wordpress : 1

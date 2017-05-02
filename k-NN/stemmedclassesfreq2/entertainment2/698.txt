@@ -1,0 +1,8 @@
+all : 1
+copyright : 1
+detail : 3
+home : 1
+link : 1
+relat : 1
+reserv : 1
+right : 1

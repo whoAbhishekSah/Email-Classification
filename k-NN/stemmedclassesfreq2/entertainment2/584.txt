@@ -1,0 +1,4 @@
+aspect : 1
+enter : 1
+game : 1
+olymp : 1

@@ -1,0 +1,9 @@
+asaph : 1
+browser : 2
+download : 1
+frame : 1
+pleas : 1
+sorri : 1
+support : 1
+updat : 1
+welcom : 1

@@ -1,0 +1,9 @@
+dmtel : 1
+endobj : 6
+endstream : 1
+gkg : 1
+ico : 1
+inwm : 1
+mmf : 1
+obj : 7
+stream : 4

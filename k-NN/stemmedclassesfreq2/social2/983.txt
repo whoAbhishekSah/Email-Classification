@@ -1,0 +1,14 @@
+about : 2
+info : 1
+mapl : 2
+media : 2
+menu : 1
+mix : 2
+new : 2
+paint : 2
+perform : 2
+press : 2
+public : 2
+sarah : 2
+shop : 2
+video : 2

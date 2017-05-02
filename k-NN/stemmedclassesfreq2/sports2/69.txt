@@ -1,0 +1,7 @@
+area : 2
+beauti : 2
+devon : 2
+east : 2
+natur : 2
+outstand : 2
+welcom : 1

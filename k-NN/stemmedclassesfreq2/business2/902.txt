@@ -1,0 +1,4 @@
+big : 1
+differ : 1
+point : 1
+small : 1

@@ -1,0 +1,14 @@
+author : 1
+authoris : 1
+capit : 2
+cornhil : 1
+fax : 1
+financi : 1
+gradient : 2
+info : 1
+llp : 2
+london : 1
+partner : 2
+regul : 1
+servic : 1
+tel : 1

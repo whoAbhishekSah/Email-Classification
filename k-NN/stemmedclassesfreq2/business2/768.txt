@@ -1,0 +1,14 @@
+about : 1
+articl : 1
+brand : 1
+confer : 1
+contact : 1
+creation : 1
+energi : 1
+home : 1
+manag : 2
+market : 1
+press : 1
+releas : 1
+servic : 1
+technic : 1

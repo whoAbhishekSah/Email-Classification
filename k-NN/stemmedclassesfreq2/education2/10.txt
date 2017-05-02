@@ -1,0 +1,4 @@
+edward : 2
+thoma : 2
+websit : 1
+welcom : 1

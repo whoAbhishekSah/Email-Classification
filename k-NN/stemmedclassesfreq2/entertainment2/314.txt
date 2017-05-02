@@ -1,0 +1,13 @@
+access : 2
+credenti : 1
+deni : 2
+directori : 1
+error : 1
+forbidden : 2
+page : 1
+permiss : 1
+server : 1
+suppli : 1
+use : 1
+view : 1
+you : 1

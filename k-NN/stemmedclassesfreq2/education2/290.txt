@@ -1,0 +1,4 @@
+copyright : 1
+more : 3
+read : 3
+reserv : 1

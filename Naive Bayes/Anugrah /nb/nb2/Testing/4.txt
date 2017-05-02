@@ -1,0 +1,11 @@
+Why are we letting you know?
+Our security system detected that you haven’t logged in from this location before. It may simply be that your network configuration changed or you logged in from a new physical location. It could also mean somebody else has accessed your account.
+
+Don’t recognize this activity?
+Log in to your account and go to Settings > Account settings > Security > Audit log. If you are seeing unfamiliar locations on the list, we recommend changing your password.
+
+Want to add extra security to your account?
+Try LastPass Authenticator, LogMeIn's own two-factor authenticator app, to add an additional layer of security against unauthorized access.
+
+Regards,
+LogMeIn Team

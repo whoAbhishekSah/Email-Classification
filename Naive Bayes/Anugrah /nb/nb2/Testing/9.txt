@@ -1,0 +1,75 @@
+Dear Students,
+
+ 
+
+Pre-Registration for the Semester-I of A.Y. 2017-18 is active; refer below link for the same
+
+ 
+
+http://intra.iitj.ac.in:8080/OARS/
+
+ 
+
+Refer below link for the list of Course for Next Semester i.e. Semester-I of A.Y. 2017-18.
+
+ 
+
+https://docs.google.com/spreadsheets/d/1eFotp7y4eLrIZ0I7jzlaBsy0APLwkf1Xy2TM32WwEKQ/edit?usp=sharing
+
+ 
+
+Please consult your Head of the Department/Focus Group Convener before registering courses.
+
+ 
+
+ Note following point before registering the courses : 
+
+ 
+
+1.       Students with backlog courses are advised to register for the Basic Courses and complete them before registering for the Professional Courses.
+
+In case, you have any confusion, please consult your Head of the Department.
+
+ 
+
+2.       The following are the guidelines for choosing elective courses:
+
+            Each course has a number, eg. CS651, 70035, 30002, etc. Please pay attention to the first digit of the course. The first digit indicates the level of the course. We have the following levels:
+
+            Level 1 course: For 1st year UG students
+
+Level 2 course: For 2nd year UG students
+
+Level 3 course: For 3rd year UG students
+
+Level 4 course: For 4th year UG students
+
+Level 5 course: For M.Sc. students
+
+Level 6 course: For M.Tech. students
+
+Level 7 course: For Ph.D. students
+
+ 
+
+ A student in the nth year can register for courses of levels n-1, n, n+1, n+2.
+
+ 
+
+So a B.Tech. Final year student in 4th year can register for electives in level 3,4,5,6.
+
+ 
+
+Please note that the M.Tech. and Ph.D. students cannot register for B.Tech. level courses.
+
+ 
+
+An M.Tech. student can register for elective courses of level 5,6,7.
+
+ 
+
+A 3rd year student can register for electives of level 2,3,4,5
+
+ 
+
+A 2nd year student can register for electives of level 1,2,3,4

@@ -1,0 +1,9 @@
+activ : 1
+collabor : 1
+cose : 1
+distribut : 1
+elearn : 1
+environ : 1
+learn : 1
+the : 1
+virtual : 1
